@@ -1,0 +1,10 @@
+nohup: ignoring input
+[I 14:36:50.838 NotebookApp] The port 8888 is already in use, trying another port.
+[I 14:36:50.838 NotebookApp] The port 8889 is already in use, trying another port.
+[I 14:36:50.945 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 14:36:50.945 NotebookApp] Serving notebooks from local directory: /home/pi/fredy/projects/news_get
+[I 14:36:50.945 NotebookApp] The Jupyter Notebook is running at:
+[I 14:36:50.945 NotebookApp] http://raspberrypi:8890/
+[I 14:36:50.945 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:37:04.946 NotebookApp] received signal 15, stopping
+[I 14:37:04.949 NotebookApp] Shutting down 0 kernels

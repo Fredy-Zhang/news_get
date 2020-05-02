@@ -33,7 +33,7 @@ def worldnews(token):
 # for story in result['data']['children']:
 #    print(story['data']['title'])
 
-def get_links(subreddit, token, n_pages=5):
+def get_links(subreddit, token, n_pages=50):
     stories = []
     after = None
     for page_number in range(n_pages):
@@ -64,7 +64,7 @@ num = 0
 for title, url, score in stories:
     output_filename = hashlib.md5(url.encode()).hexdigest()
     fullpath = os.path.join(data_folder, output_filename + ".txt")
-    if number_errors > 50:
+    if number_errors > 100:
         print("Too much errors, stop!")
         break
     try:
