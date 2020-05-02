@@ -1,0 +1,1028 @@
+<!DOCTYPE html>
+<html lang="en" class="lang-en no-js
+  
+  ">
+<head>
+  <meta charset="utf-8" />
+  <title>Harvard scientists say COVID-19 social distancing could last until 2022 | World Economic Forum</title>
+  <!-- Google Tag Manager -->
+<script>
+  window.dataLayer = [{
+    "locale": "en", 
+    "sitename": "weforum.org", 
+    "markupVersion": 3, 
+    "environment": "production", 
+  }]
+</script>
+
+<link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://stats.g.doubleclick.net">
+
+  <link rel="preconnect" href="https://www.google.com">
+  <link rel="preconnect" href="https://www.google.co.uk">
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+
+
+    <!-- Production GTM -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-W7SZB6C');</script>
+  <!-- End Google Tag Manager -->
+
+  
+  
+  <link rel="stylesheet" media="all" href="/assets/application-dd8029414652f9f7343ef3f97ef908af8152a79df380731c6d3f11ca7154ec58.css" />
+  
+  
+  <link rel="stylesheet" media="print" href="/assets/print-271151040e25f6e6f4282352f6805f7feeefa42392cf73e8f968b4ece60cbb96.css" />
+  <link rel="stylesheet" media="all" href="//fast.fonts.net/cssapi/4946bd2e-8cbd-461c-8121-ca6696f6267d.css" />
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="A+wGymtDf5IbQOCk0x0s0wcQ21f3Vxx1xygb+EokGujdjlUhYXBhFXscw3yxdZdqTWcywyx3AgqoATLM0ErSpw==" />
+
+  <link rel="prefetch" href="https://assets.weforum.org" />
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="description" content="Restrictive measures may need to be in place longer than expected as countries begin exiting lockdown.
+" />
+  <meta name="keywords" content="World Economic Forum,WEF,Davos,Klaus Schwab, globalization, globalization4.0, globalization4, globalization four, what does globalization mean?" />
+  <meta property="og:title" content="These Harvard scientists think we&#39;ll have to socially distance until 2022" />
+  <meta property="og:description" content="Restrictive measures may need to be in place longer than expected as countries begin exiting lockdown.
+" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.weforum.org/agenda/2020/04/coronavirus-social-distancing-how-long/" />
+  <meta property="og:image" content="https://assets.weforum.org/editor/LEUEuLKDo_i63xrLVeGMaWTX-j8yudKaqx4AHZQNc20.jpeg" />
+  <meta property="og:site_name" content="World Economic Forum" />
+  <meta property="fb:pages" content="7746841478" />
+  <meta property="fb:app_id" content="1085482764806408" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="These Harvard scientists think we&#39;ll have to socially distance until 2022" />
+  <meta name="twitter:description" content="Restrictive measures may need to be in place longer than expected as countries begin exiting lockdown.
+" />
+  <meta name="twitter:url" content="https://www.weforum.org/agenda/2020/04/coronavirus-social-distancing-how-long/" />
+  <meta name="twitter:image" content="https://assets.weforum.org/editor/LEUEuLKDo_i63xrLVeGMaWTX-j8yudKaqx4AHZQNc20.jpeg" />
+  <meta name="pocket-site-verification" content="0a5ad3db01a37673563584ab440eda" />
+
+  <link rel="canonical" href="https://www.weforum.org/agenda/2020/04/coronavirus-social-distancing-how-long/">
+  
+
+  <script>
+//<![CDATA[
+
+  var _sf_async_config = _sf_async_config || {};
+      /** CONFIGURATION START **/
+      _sf_async_config.uid = 58674;
+      _sf_async_config.domain = "weforum.org";
+      _sf_async_config.flickerControl = false;
+      _sf_async_config.useCanonical = true;
+      
+      /** CONFIGURATION END **/
+      var _sf_startpt = (new Date()).getTime();
+
+//]]>
+</script><script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+
+  
+  <script type="application/ld+json">
+//<![CDATA[
+{"@context":"http://schema.org","@type":"NewsArticle","headline":"Harvard scientists say COVID-19 social distancing could last until 2022","url":"https://www.weforum.org/agenda/2020/04/coronavirus-social-distancing-how-long/","thumbnailUrl":"https://assets.weforum.org/editor/LEUEuLKDo_i63xrLVeGMaWTX-j8yudKaqx4AHZQNc20.jpeg","dateCreated":"2020-04-20T10:23:00Z","articleSection":"COVID-19","creator":["Johnny  Wood"],"keywords":["covid-19","global-health","behaviour-change","agendablog","formative"]}
+//]]>
+</script>
+  <script>
+//<![CDATA[
+
+/*! modernizr 3.6.0 (Custom Build) | MIT *
+ * https://modernizr.com/download/?-webp-setclasses !*/
+!function(e,n,A){function o(e,n){return typeof e===n}function t(){var e,n,A,t,a,i,l;for(var f in r)if(r.hasOwnProperty(f)){if(e=[],n=r[f],n.name&&(e.push(n.name.toLowerCase()),n.options&&n.options.aliases&&n.options.aliases.length))for(A=0;A<n.options.aliases.length;A++)e.push(n.options.aliases[A].toLowerCase());for(t=o(n.fn,"function")?n.fn():n.fn,a=0;a<e.length;a++)i=e[a],l=i.split("."),1===l.length?Modernizr[l[0]]=t:(!Modernizr[l[0]]||Modernizr[l[0]]instanceof Boolean||(Modernizr[l[0]]=new Boolean(Modernizr[l[0]])),Modernizr[l[0]][l[1]]=t),s.push((t?"":"no-")+l.join("-"))}}function a(e){var n=u.className,A=Modernizr._config.classPrefix||"";if(c&&(n=n.baseVal),Modernizr._config.enableJSClass){var o=new RegExp("(^|\\s)"+A+"no-js(\\s|$)");n=n.replace(o,"$1"+A+"js$2")}Modernizr._config.enableClasses&&(n+=" "+A+e.join(" "+A),c?u.className.baseVal=n:u.className=n)}function i(e,n){if("object"==typeof e)for(var A in e)f(e,A)&&i(A,e[A]);else{e=e.toLowerCase();var o=e.split("."),t=Modernizr[o[0]];if(2==o.length&&(t=t[o[1]]),"undefined"!=typeof t)return Modernizr;n="function"==typeof n?n():n,1==o.length?Modernizr[o[0]]=n:(!Modernizr[o[0]]||Modernizr[o[0]]instanceof Boolean||(Modernizr[o[0]]=new Boolean(Modernizr[o[0]])),Modernizr[o[0]][o[1]]=n),a([(n&&0!=n?"":"no-")+o.join("-")]),Modernizr._trigger(e,n)}return Modernizr}var s=[],r=[],l={_version:"3.6.0",_config:{classPrefix:"",enableClasses:!0,enableJSClass:!0,usePrefixes:!0},_q:[],on:function(e,n){var A=this;setTimeout(function(){n(A[e])},0)},addTest:function(e,n,A){r.push({name:e,fn:n,options:A})},addAsyncTest:function(e){r.push({name:null,fn:e})}},Modernizr=function(){};Modernizr.prototype=l,Modernizr=new Modernizr;var f,u=n.documentElement,c="svg"===u.nodeName.toLowerCase();!function(){var e={}.hasOwnProperty;f=o(e,"undefined")||o(e.call,"undefined")?function(e,n){return n in e&&o(e.constructor.prototype[n],"undefined")}:function(n,A){return e.call(n,A)}}(),l._l={},l.on=function(e,n){this._l[e]||(this._l[e]=[]),this._l[e].push(n),Modernizr.hasOwnProperty(e)&&setTimeout(function(){Modernizr._trigger(e,Modernizr[e])},0)},l._trigger=function(e,n){if(this._l[e]){var A=this._l[e];setTimeout(function(){var e,o;for(e=0;e<A.length;e++)(o=A[e])(n)},0),delete this._l[e]}},Modernizr._q.push(function(){l.addTest=i}),Modernizr.addAsyncTest(function(){function e(e,n,A){function o(n){var o=n&&"load"===n.type?1==t.width:!1,a="webp"===e;i(e,a&&o?new Boolean(o):o),A&&A(n)}var t=new Image;t.onerror=o,t.onload=o,t.src=n}var n=[{uri:"data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAwA0JaQAA3AA/vuUAAA=",name:"webp"},{uri:"data:image/webp;base64,UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAABBxAR/Q9ERP8DAABWUDggGAAAADABAJ0BKgEAAQADADQlpAADcAD++/1QAA==",name:"webp.alpha"},{uri:"data:image/webp;base64,UklGRlIAAABXRUJQVlA4WAoAAAASAAAAAAAAAAAAQU5JTQYAAAD/////AABBTk1GJgAAAAAAAAAAAAAAAAAAAGQAAABWUDhMDQAAAC8AAAAQBxAREYiI/gcA",name:"webp.animation"},{uri:"data:image/webp;base64,UklGRh4AAABXRUJQVlA4TBEAAAAvAAAAAAfQ//73v/+BiOh/AAA=",name:"webp.lossless"}],A=n.shift();e(A.name,A.uri,function(A){if(A&&"load"===A.type)for(var o=0;o<n.length;o++)e(n[o].name,n[o].uri)})}),t(),a(s),delete l.addTest,delete l.addAsyncTest;for(var p=0;p<Modernizr._q.length;p++)Modernizr._q[p]();e.Modernizr=Modernizr}(window,document);
+
+//]]>
+</script>
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png?v=lk270KxwRj">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png?v=lk270KxwRj">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png?v=lk270KxwRj">
+<link rel="manifest" href="/favicons/site.webmanifest?v=lk270KxwRj">
+<link rel="mask-icon" href="/favicons/safari-pinned-tab.svg?v=lk270KxwRj" color="#035b9c">
+<link rel="shortcut icon" href="/favicon.ico?v=lk270KxwRj">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="theme-color" content="#035b9c">
+
+  <script src="https://cdn.polyfill.io/v3/polyfill.min.js?features=es6,AbortController,Array.prototype.includes,CustomEvent,Object.entries,Object.values,URL,Math.trunc&amp;flags=gated" crossorigin="anonymous"></script>
+
+  
+</head>
+<body data-controller="articles" data-action="show" data-gtm-context="Body">
+    <!-- Google Tag Manager (noscript) -->
+    <!-- Production GTM -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W7SZB6C"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+    <div class="event-takeover loading js-event-takeover" data-fragment-path="/fragments/event-takeover" data-event=""></div>
+  <div class="side-drawer">
+
+  <div class="search-widget">
+    <form action="/search" accept-charset="UTF-8" method="get">
+  <input type="text" maxlength="128" name="query" id="edit-query-1-mobile" size="15" value="" placeholder="Search" class="search-bar">
+  <button class="form-submit">
+    <img src="/assets/search-blue-50d882bad209f42707a111e4f6e8a3067ddd1ee99202b5426bf84fafc412c16b.svg" alt="Search">
+  </button>
+</form>
+  </div>
+  <ul class="side-drawer__nav">
+    <li class="side-drawer__item">
+      <a class="side-drawer__link" href="/focus">Agenda</a>
+    </li>
+    <li class="side-drawer__item">
+      <a class="side-drawer__link" href="/platforms">Platforms</a>
+    </li>
+    <li class="side-drawer__item">
+      <a class="side-drawer__link" href="/reports">Reports</a>
+    </li>
+    <li class="side-drawer__item">
+      <a class="side-drawer__link" href="/events">Events</a>
+    </li>
+      <li class="side-drawer__item">
+        <div class="side-drawer__link filter__options js-filter" data-filter-id="about">
+          <div class="filter-show-controls">
+            About
+          </div>
+          <div class="filter-collapse-controls">
+            About
+          </div>
+        </div>
+
+        <div class="filter__content js-filter-content" data-filter-id="about">
+          <ul class="side-drawer__sublinks">
+              <li class="side-drawer__sublink">
+                <a href="/about/world-economic-forum">Our Mission</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/leadership-and-governance">Leadership and Governance</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/the-davos-manifesto">The Davos Manifesto</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/our-members-and-partners">Our Members and Partners</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/communities">Communities</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/world-economic-forum-center-for-the-fourth-industrial-revolution">Centre for the Fourth Industrial Revolution</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/our-impact">Our Impact</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/history">History</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/centre-for-cybersecurity">Centre for Cybersecurity</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/klaus-schwab">Klaus Schwab</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/press">Media</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/pictures">Pictures</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/strategic-intelligence">Strategic Intelligence</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/careers">Careers</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/contact">Contact Us</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/code-of-conduct">Code of Conduct</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/world-economic-forum-llc">World Economic Forum LLC</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/privacy-and-terms-of-use">World Economic Forum Privacy Policy </a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/sustainability-world-economic-forum">Sustainability</a>
+              </li>
+          </ul>
+        </div>
+      </li>
+    <li class="side-drawer__item side-drawer--locales">
+        <div class="side-drawer__link filter__options js-filter" data-filter-id="locales">
+          <div class="filter-show-controls">
+            <img class="side-drawer__icon" alt="Language" src="/assets/globe-31c22c1da4efc4cb955e962a5f11edf1a5cf8d6b1e100632438667d36b9a6c7e.svg" /> English
+          </div>
+          <div class="filter-collapse-controls">
+            <img class="side-drawer__icon" alt="Language" src="/assets/globe-31c22c1da4efc4cb955e962a5f11edf1a5cf8d6b1e100632438667d36b9a6c7e.svg" /> English
+          </div>
+        </div>
+
+        <div class="filter__content js-filter-content" data-filter-id="locales">
+          <ul class="side-drawer__sublinks">
+              <li class="side-drawer__sublink">
+                <a class="locale-selector__item is-active" href="https://www.weforum.org/agenda">English</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a class="locale-selector__item " href="https://es.weforum.org/agenda">Español</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a class="locale-selector__item " href="https://fr.weforum.org/agenda">Français</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a class="locale-selector__item " href="https://cn.weforum.org/agenda">中文</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a class="locale-selector__item " href="https://jp.weforum.org/agenda">日本語</a>
+              </li>
+          </ul>
+        </div>
+    </li>
+  </ul>
+  <ul class="side-secondary-nav">
+    <li class="drawer-toplink-container">
+      <a href="https://toplink.weforum.org/">
+        <div class="drawer-toplink-button">
+          Login to TopLink
+        </div>
+</a>    </li>
+  </ul>
+</div>
+<div class="side-drawer__close"></div>
+
+  <div class="content-container">
+    <div id="cookie-policy" class="cookie-policy">
+  <div class="cookie-policy__container">
+    <div class="cookie-policy__message"><p>We use cookies to improve your experience on our website. By using our website you consent to all cookies in accordance with our updated <a href="https://www.weforum.org/about/privacy-and-terms-of-use" target="">Cookie Notice</a>.</p></div>
+    <div class="cookie-policy__dismiss">
+      <a href="#" id="cookie-policy-dismiss" class="cookie-policy__dismiss-link">I accept</a>
+    </div>
+  </div>
+</div>
+
+      <header class="header header--main" data-gtm-context="navigation">
+    <div class="row nav">
+    <div class="header-container">
+      <a class="drawer-icon js-show-hide-menu" alt="Menu">
+        <img alt="" src="/assets/hamburger-6894591f25ff937d4e3fbf0b0886003ccd245ff4bd6a9318abfea2ae51339584.svg" />
+      </a>
+      <div class="header-item logo">
+        <a href="/"><img class="header-wef__logo" alt="World Economic Forum" aria-label="Home" src="/assets/logo-b66768797e3f785791fd157ffc33c27eeca6d5100b7f34d418f50d206f1a8004.svg" /></a>
+      </div>
+      <div class="header-pane-selectors" role="navigation">
+        <div class="header-pane" data-pane="agenda">
+          <a class="header-item__link link--selected" href="/focus">Agenda</a>
+        </div>
+        <div class="header-pane" data-pane="projects">
+          <a class="header-item__link" href="/platforms">Platforms</a>
+        </div>
+        <div class="header-pane" data-pane="reports">
+          <a class="header-item__link" href="/reports">Reports</a>
+        </div>
+        <div class="header-pane" data-pane="events">
+            <a class="header-item__link" href="/events">Events</a>
+        </div>
+          <div class="header-pane" data-pane="about">
+            <a class="header-item__link" href="/about/world-economic-forum">About</a>
+          </div>
+      </div>
+      <div class="header-secondary-links">
+        <div class="header-item">
+          <div class="header-item__link header-item__link--locales">
+  <div class="locale-selector js-locale-selector">
+    <div class="locale-selector__toggler js-locale-toggler">
+      <img class="icon--globe" alt="Language" src="/assets/globe-31c22c1da4efc4cb955e962a5f11edf1a5cf8d6b1e100632438667d36b9a6c7e.svg" />
+      English
+    </div>
+    <ul class="locale-selector__list">
+        <li class="locale-selector__item">
+          <a class="locale-selector__link is-active" href="https://www.weforum.org/agenda">English</a>
+        </li>
+        <li class="locale-selector__item">
+          <a class="locale-selector__link " href="https://es.weforum.org/agenda">Español</a>
+        </li>
+        <li class="locale-selector__item">
+          <a class="locale-selector__link " href="https://fr.weforum.org/agenda">Français</a>
+        </li>
+        <li class="locale-selector__item">
+          <a class="locale-selector__link " href="https://cn.weforum.org/agenda">中文</a>
+        </li>
+        <li class="locale-selector__item">
+          <a class="locale-selector__link " href="https://jp.weforum.org/agenda">日本語</a>
+        </li>
+    </ul>
+  </div>
+</div>
+
+        </div>
+        <div class="header-item">
+          <a class="header-item__link toplink" href="https://toplink.weforum.org/">
+            <div class="header-toplink-button">
+              TopLink
+            </div>
+          </a>
+        </div>
+        <div class="header-item search">
+          <a aria-label="Search" href="" class="header-item__link header-item__link--search js-search-bar">
+            <img class="search-bar--icon" alt="Search" src="/assets/search-blue-50d882bad209f42707a111e4f6e8a3067ddd1ee99202b5426bf84fafc412c16b.svg" />
+            <img class="search-bar--close" src="/assets/cancel-a69fead62c801216b4d5c3dde8ec0462d9e6225435a8186f0dd5d185d06fbb07.svg" />
+          </a>
+        </div>
+      </div>
+    </ul>
+  </div>
+</header>
+
+<div class="search-container" data-gtm-context="search">
+  <div class="search__content">
+    <div class="row">
+      <div class="search-bar-container">
+        <form action="/search" accept-charset="UTF-8" method="get">
+  <input type="text" maxlength="128" name="query" id="edit-query-1" size="15" value="" placeholder="Search" class="search-bar">
+  <button class="form-submit">
+    <img src="/assets/search-blue-50d882bad209f42707a111e4f6e8a3067ddd1ee99202b5426bf84fafc412c16b.svg" alt="Search">
+  </button>
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="meganav-container loading js-meganav-container" data-fragment-path="/fragments/meganav?locale=en"></div>
+
+    <section class="content-container--content">
+      <div class="row">
+  <div class="small-12 columns">
+    <ul class="topic-list" data-gtm-subcontext="article-topics">
+    <li class="topic-list__item">
+      <a href="/agenda/global">Global Agenda</a>
+    </li>
+      <li class="topic-list__item">
+        <a href="/agenda/archive/covid-19">COVID-19</a>
+      </li>
+      <li class="topic-list__item">
+        <a href="/agenda/archive/global-health">Global Health</a>
+      </li>
+      <li class="topic-list__item">
+        <a href="/agenda/archive/behaviour-change">Behavioural Sciences</a>
+      </li>
+</ul>
+
+    <h1 class="article__headline">These Harvard scientists think we&#39;ll have to socially distance until 2022</h1>
+      <div class="article__lead-image">
+        
+
+    <figure class="st__content-block st__content-block--image st__content-block--image-letterbox">
+      <noscript><img src="https://assets.weforum.org/article/image/large_R8qk0cHkPzlf_eNjXaWE1vY_rwR4PuLnmgGmjEKdEtw.JPG" sizes="100vw" html="{:loading=&gt;&quot;eager&quot;, :class=&gt;&quot;&quot;, :alt=&gt;&quot;Visitors stand inside boxes for social distancing inside an elevator at a shopping mall amid the spread of coronavirus disease (COVID-19) in Surabaya, East Java province, Indonesia, March 18, 2020 in this photo taken by Antara Foto.  Antara Foto/Zabur Karuru/ via REUTERS ATTENTION EDITORS - THIS IMAGE WAS PROVIDED BY A THIRD PARTY. MANDATORY CREDIT. INDONESIA OUT.     TPX IMAGES OF THE DAY - RC2CMF9AH704&quot;}" use_picture="true"></noscript><picture><img loading="eager" class="" alt="Visitors stand inside boxes for social distancing inside an elevator at a shopping mall amid the spread of coronavirus disease (COVID-19) in Surabaya, East Java province, Indonesia, March 18, 2020 in this photo taken by Antara Foto.  Antara Foto/Zabur Karuru/ via REUTERS ATTENTION EDITORS - THIS IMAGE WAS PROVIDED BY A THIRD PARTY. MANDATORY CREDIT. INDONESIA OUT.     TPX IMAGES OF THE DAY - RC2CMF9AH704" src="https://assets.weforum.org/article/image/large_R8qk0cHkPzlf_eNjXaWE1vY_rwR4PuLnmgGmjEKdEtw.JPG" sizes="100vw"></picture>
+      <figcaption>
+          <div class="image__caption">
+            Some form of distancing restrictions could be required for more than a year.
+          </div>
+          <div class="image__credit">
+            Image: REUTERS
+          </div>
+      </figcaption>
+    </figure>
+    
+
+      </div>
+  </div>
+</div>
+<div class="row">
+  <div class="small-12 medium-4 columns">
+
+    <div class="article-details" data-gtm-context="sidebar">
+
+      <div class="article-published">20 Apr 2020</div>
+          <ol class="article-authors">
+        <li class="article-authors__author">
+          <div class="author-details">
+            <a data-gtm-class="author" class="article-author" href="/agenda/authors/johnny-wood-a7338de0-18d8-42da-9b64-bba21028f267">Johnny  Wood</a>
+            <span>Senior Writer, Formative Content</span>
+          </div>
+          
+        </li>
+    </ol>
+
+
+      <div class="article-details__meta">
+        <div class="social-sharing " data-gtm-subcontext="social-share">
+    <a aria-label="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2020%2F04%2Fcoronavirus-social-distancing-how-long%2F" class="social-share--container js-social-share" target="_blank"><span class="social-share--facebook"></span></a>
+    <a aria-label="Twitter" href="https://twitter.com/intent/tweet?via=wef&amp;text=Harvard%20scientists%20say%20COVID-19%20social%20distancing%20could%20last%20until%202022&amp;url=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2020%2F04%2Fcoronavirus-social-distancing-how-long%2F" class="social-share--container js-social-share" target="_blank"><span class="social-share--twitter"></span></a>
+    <a aria-label="LinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=WEF&amp;url=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2020%2F04%2Fcoronavirus-social-distancing-how-long%2F" class="social-share--container js-social-share" target="_blank"><span class="social-share--linkedin"></span></a>
+    <a aria-label="Flipboard" href="https://share.flipboard.com/bookmarklet/popout?v=2&amp;title=Harvard%20scientists%20say%20COVID-19%20social%20distancing%20could%20last%20until%202022&amp;url=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2020%2F04%2Fcoronavirus-social-distancing-how-long%2F" class="social-share--container js-social-share" target="_blank"><span class="social-share--flipboard"></span></a>
+    <a aria-label="WhatsApp" href="whatsapp://send?text=Harvard%20scientists%20say%20COVID-19%20social%20distancing%20could%20last%20until%202022+https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2020%2F04%2Fcoronavirus-social-distancing-how-long%2F" data-action="share/whatsapp/share" class="social-share--container"><div class="social-share--whatsapp"></div></a>
+</div>
+
+      </div>
+
+      
+
+  <div class="sidebar-tout ">
+    <div class="sidebar-tout__header">
+      <div class="sidebar-tout__title">World vs Virus Podcast</div>
+      
+    </div>
+      
+      <a href="https://open.spotify.com/show/36D1oLAmsRimw70XV19Cdf">
+        <figure><noscript><img src="https://assets.weforum.org/tout/image/responsive_medium_SDlL-fqPoutYp3XMWf8cRr9BpvB33uN42HXQp0zxAXM.png" sizes="(max-width: 40.0624em) calc(100vw - 42px), (max-width: 1192px) calc(33vw - 42px), 360px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="false"></noscript><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/tout/image/responsive_medium_SDlL-fqPoutYp3XMWf8cRr9BpvB33uN42HXQp0zxAXM.png" data-sizes="(max-width: 40.0624em) calc(100vw - 42px), (max-width: 1192px) calc(33vw - 42px), 360px"></figure>
+</a>      
+      <div class="sidebar-tout__more">
+        <a href="https://open.spotify.com/show/36D1oLAmsRimw70XV19Cdf">
+          <span class="sidebar-tout__more-link">Listen now on Spotify</span>
+          <span class="sidebar-tout__more-arrow">
+            <img src="/assets/further-reading-arrow--grey-af5a6000f4deb911ff0f354e51a276706c6ed82f03e39a31a5dee8addc584309.svg" />
+          </span>
+</a></div>  </div>
+
+
+      <div class="hide-until-loaded loading js-featured-event-key-moments" data-fragment-path="/fragments/key-moments/for/52862">
+          <div class="further-reading-group sidebar-tout">
+    <div class="list-group__header">
+      <div class="further-reading__header-title">Most Popular</div>
+    </div>
+      <div class="row collapse">
+        <article class="tout tout--mini tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/04/oil-barrel-prices-economic-supply-demand-coronavirus-covid19-united-states/"><figure class="placeholder tiny"><div class="placeholder-inner"><noscript><img src="https://assets.weforum.org/article/image/b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.JPG" srcset="https://assets.weforum.org/article/image/responsive_big_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.JPG 1600w, https://assets.weforum.org/article/image/responsive_large_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.JPG 800w, https://assets.weforum.org/article/image/responsive_medium_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.JPG 485w, https://assets.weforum.org/article/image/responsive_small_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.JPG 350w, https://assets.weforum.org/article/image/responsive_tiny_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.JPG 97w" webp_srcset="https://assets.weforum.org/article/image/responsive_big_webp_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.webp 97w" sizes="84px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/article/image/responsive_big_webp_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.webp 97w" data-sizes="84px"><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/article/image/b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.JPG" data-srcset="https://assets.weforum.org/article/image/responsive_big_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.JPG 1600w, https://assets.weforum.org/article/image/responsive_large_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.JPG 800w, https://assets.weforum.org/article/image/responsive_medium_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.JPG 485w, https://assets.weforum.org/article/image/responsive_small_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.JPG 350w, https://assets.weforum.org/article/image/responsive_tiny_b724J0na-gAvuKoRnJrP80XcfoUR8SIgJmOqYdFEymA.JPG 97w" data-sizes="84px"></picture></div></figure><div class="tout__details"><h3 class="tout__title">Coronavirus: US oil has dropped to below $0 dollars a barrel. Here&#39;s what it means </h3><div class="tout__meta"><div class="caption"><span class="article__author bold">Laila Kearney · Reuters</span> <span>21 Apr 2020</span></div></div></div></a></article>
+        <article class="tout tout--mini tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/04/the-coronavirus-pandemic-might-make-buildings-sick-too/"><figure class="placeholder tiny"><div class="placeholder-inner"><noscript><img src="https://assets.weforum.org/article/image/Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.jpg" srcset="https://assets.weforum.org/article/image/responsive_big_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.jpg 1600w, https://assets.weforum.org/article/image/responsive_large_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.jpg 800w, https://assets.weforum.org/article/image/responsive_medium_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.jpg 485w, https://assets.weforum.org/article/image/responsive_small_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.jpg 350w, https://assets.weforum.org/article/image/responsive_tiny_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.jpg 97w" webp_srcset="https://assets.weforum.org/article/image/responsive_big_webp_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.webp 97w" sizes="84px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/article/image/responsive_big_webp_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.webp 97w" data-sizes="84px"><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/article/image/Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.jpg" data-srcset="https://assets.weforum.org/article/image/responsive_big_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.jpg 1600w, https://assets.weforum.org/article/image/responsive_large_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.jpg 800w, https://assets.weforum.org/article/image/responsive_medium_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.jpg 485w, https://assets.weforum.org/article/image/responsive_small_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.jpg 350w, https://assets.weforum.org/article/image/responsive_tiny_Vat-oFC4Qw0F_gpED87JgKnWknhrAUNuqPI6dlbbbro.jpg 97w" data-sizes="84px"></picture></div></figure><div class="tout__details"><h3 class="tout__title">The coronavirus pandemic might make buildings sick too</h3><div class="tout__meta"><div class="caption"><span class="article__author bold">Caitlin R.  Proctor, Andrew J. Whelton, and William Rhoads · The Conversation</span> <span>26 Apr 2020</span></div></div></div></a></article>
+        <article class="tout tout--mini tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/04/who-briefing-20-april-unity-worst-ahead-of-us/"><figure class="placeholder tiny"><div class="placeholder-inner"><noscript><img src="https://assets.weforum.org/article/image/5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.jpg" srcset="https://assets.weforum.org/article/image/responsive_big_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.jpg 1600w, https://assets.weforum.org/article/image/responsive_large_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.jpg 800w, https://assets.weforum.org/article/image/responsive_medium_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.jpg 485w, https://assets.weforum.org/article/image/responsive_small_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.jpg 350w, https://assets.weforum.org/article/image/responsive_tiny_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.jpg 97w" webp_srcset="https://assets.weforum.org/article/image/responsive_big_webp_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.webp 97w" sizes="84px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/article/image/responsive_big_webp_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.webp 97w" data-sizes="84px"><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/article/image/5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.jpg" data-srcset="https://assets.weforum.org/article/image/responsive_big_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.jpg 1600w, https://assets.weforum.org/article/image/responsive_large_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.jpg 800w, https://assets.weforum.org/article/image/responsive_medium_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.jpg 485w, https://assets.weforum.org/article/image/responsive_small_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.jpg 350w, https://assets.weforum.org/article/image/responsive_tiny_5pdQlIEo1SUItr9iPFExKZcCgWK2EcIDLrNVBEf2LAI.jpg 97w" data-sizes="84px"></picture></div></figure><div class="tout__details"><h3 class="tout__title">Without unity, &#39;the worst is yet ahead of us&#39;: WHO coronavirus briefing</h3><div class="tout__meta"><div class="caption"><span class="article__author bold">Linda Lacina</span> <span>20 Apr 2020</span></div></div></div></a></article>
+
+      <div class="further-reading__more">
+        <a href="/agenda/archive">
+          <span class="further-reading__more-link">More on the agenda</span>
+          <span class="further-reading__more-arrow">
+            <img src="/assets/further-reading-arrow-bfad9408ee3740806b4f6bb7f013062c5bb120da9f659d07d500a6978ad2056d.svg" />
+          </span>
+</a>      </div>
+    </div>
+  </div>
+
+      </div>
+
+        
+
+
+
+        
+
+  <div class="sidebar-tout ">
+    <div class="sidebar-tout__header">
+      <div class="sidebar-tout__title">Explore context</div>
+      <noscript><img src="/assets/tmap-icon-c04cb0e1c304860258a35c69ffcf9000b05af20e7e4d1baaefeab57b0937061d.svg" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;sidebar-tout__icon&quot;, :alt=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><img loading="lazy" class="sidebar-tout__icon js-lazyload" alt="" data-src="/assets/tmap-icon-c04cb0e1c304860258a35c69ffcf9000b05af20e7e4d1baaefeab57b0937061d.svg"></picture>
+    </div>
+      <div class="sidebar-tout__sub-title">COVID-19</div>
+      <a href="https://intelligence.weforum.org/topics/a1G0X000006O6EHUA0?tab=publications">
+        <figure><noscript><img src="https://assets.weforum.org/topic/transformation_map_image/f6nhRVE98lY5tqyzmhdIEfAyX3QvtKNeTXSv9SFucY0.PNG" srcset="https://assets.weforum.org/topic/transformation_map_image/responsive_medium_f6nhRVE98lY5tqyzmhdIEfAyX3QvtKNeTXSv9SFucY0.PNG 620w, https://assets.weforum.org/topic/transformation_map_image/responsive_small_f6nhRVE98lY5tqyzmhdIEfAyX3QvtKNeTXSv9SFucY0.PNG 350w, https://assets.weforum.org/topic/transformation_map_image/responsive_tiny_f6nhRVE98lY5tqyzmhdIEfAyX3QvtKNeTXSv9SFucY0.PNG 97w" webp_srcset="https://assets.weforum.org/topic/transformation_map_image/responsive_medium_webp_f6nhRVE98lY5tqyzmhdIEfAyX3QvtKNeTXSv9SFucY0.webp 620w, https://assets.weforum.org/topic/transformation_map_image/responsive_small_webp_f6nhRVE98lY5tqyzmhdIEfAyX3QvtKNeTXSv9SFucY0.webp 350w, https://assets.weforum.org/topic/transformation_map_image/responsive_tiny_webp_f6nhRVE98lY5tqyzmhdIEfAyX3QvtKNeTXSv9SFucY0.webp 97w" sizes="(max-width: 40.0624em) calc(100vw - 42px), (max-width: 1192px) calc(33vw - 42px), 360px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="false"></noscript><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/topic/transformation_map_image/f6nhRVE98lY5tqyzmhdIEfAyX3QvtKNeTXSv9SFucY0.PNG" data-srcset="https://assets.weforum.org/topic/transformation_map_image/responsive_medium_f6nhRVE98lY5tqyzmhdIEfAyX3QvtKNeTXSv9SFucY0.PNG 620w, https://assets.weforum.org/topic/transformation_map_image/responsive_small_f6nhRVE98lY5tqyzmhdIEfAyX3QvtKNeTXSv9SFucY0.PNG 350w, https://assets.weforum.org/topic/transformation_map_image/responsive_tiny_f6nhRVE98lY5tqyzmhdIEfAyX3QvtKNeTXSv9SFucY0.PNG 97w" data-sizes="(max-width: 40.0624em) calc(100vw - 42px), (max-width: 1192px) calc(33vw - 42px), 360px"></figure>
+</a>      
+      <div class="sidebar-tout__more">
+        <a href="https://intelligence.weforum.org/topics/a1G0X000006O6EHUA0?tab=publications">
+          <span class="sidebar-tout__more-link">Explore the latest strategic trends, research and analysis</span>
+          <span class="sidebar-tout__more-arrow">
+            <img src="/assets/further-reading-arrow--grey-af5a6000f4deb911ff0f354e51a276706c6ed82f03e39a31a5dee8addc584309.svg" />
+          </span>
+</a></div>  </div>
+
+    </div>
+  </div>
+  <div class="article-show-container">
+
+      <div class="snippet-content snippet-content--text-to-voice">
+        <div class="snippet-content__header">
+          <span class="snippet-content__caption">Audio: Listen to the article</span>
+          <h4 class="snippet-content__title">
+            <audio id="player" controls data-plyr="true">
+              <source src="https://assets.weforum.org/article/amazon-polly/.850ffb5a-f231-4240-a4d2-135e564eab80.mp3" type="audio/mp3" />
+            </audio>
+          </h4>
+          <span class="snippet-content__message">This is an experimental feature. Some words or names may be mispronounced.</span>
+          <span class="snippet-content__message">Does it sound good? <a class="snippet-feedback gtm-audio-feedback">Yes</a> / <a class="snippet-feedback gtm-audio-feedback">No</a></span>
+        </div>
+      </div>
+
+    <div class="article-body"><div class="st__content-block st__content-block--list">
+    <ul>
+        <li>Not enough is known about COVID-19 to predict its future course.</li>
+        <li>There is a strong risk that a second spike in infections could overwhelm healthcare systems once lockdowns are lifted.</li>
+        <li>Some form of distancing restrictions could be required for more than a year, say experts.</li>
+    </ul>
+</div>
+<div class="st__content-block st__content-block--text">
+    <p>People across the globe have been forced to adapt quickly to the social distancing brought about by the coronavirus pandemic. But while the world might be eager for a relaxation of the rules, the restrictions might be around for some time to come.</p>
+</div>
+  <div class="st__content-block st__content-block--searchable-list st__content-block--searchable-list-default list-group" data-gtm-subcontext="body__list">
+    <h3 class="list-group__header">
+      <span class="list-group__title">Have you read?</span>
+    </h3>
+    <ul class="list-group__items">
+        <li class="list-group__item">
+          <a href="https://www.weforum.org/agenda/2020/03/todays-who-briefing-eaa3d34289">
+            6 steps every country must take now to prevent coronavirus deaths: WHO Director-General
+</a>        </li>
+        <li class="list-group__item">
+          <a href="https://www.weforum.org/agenda/2020/04/how-lockdowns-can-end-safely-and-effectively-who-official-explains">
+            How can coronavirus lockdowns end safely and effectively? - WHO briefing
+</a>        </li>
+        <li class="list-group__item">
+          <a href="https://www.weforum.org/agenda/2020/03/introducing-world-economic-forum-podcast">
+            Introducing World vs Virus, a World Economic Forum Podcast
+</a>        </li>
+    </ul>
+  </div>
+<div class="st__content-block st__content-block--text">
+    <p>In fact, according to a group of Harvard disease experts, some form of intermittent social distancing may need to be in place until 2022. </p>
+</div>
+<div class="st__content-block st__content-block--text">
+    <p>That’s because once the initial wave of COVID-19 infections has passed, further outbreaks could occur. If lockdown restrictions are lifted at the same time, instead of in coordinated phases, a surge in new cases could overwhelm healthcare systems. </p>
+</div>
+<div class="st__content-block st__content-block--text">
+    <p><b>Here to stay</b></p>
+</div>
+<div class="st__content-block st__content-block--text">
+    <p>Too little is known about the disease or the future course it will take, prompting <a href="https://science.sciencemag.org/content/early/2020/04/14/science.abb5793" target="_blank" rel="noopener">researchers from the Harvard T.H. Chan School of Public Health</a> to run computer simulations modelling different ways the pandemic could play out. <br><br>With social distancing rules in place and strictly adhered to, along with intensive testing and contact tracing of new infections, the simulations show it is possible to contain the spread of a virus. However, with <a href="https://coronavirus.jhu.edu/map.html" target="_blank" rel="noopener">more than 2 million confirmed cases</a> impacting countries around the world, the researchers believe this is an unlikely outcome. <br><br>More likely, they say, is that the virus is here to stay, recurring intermittently as the seasons come and go, much like influenza. Until a vaccine is available, this could mean some form of social distancing will need to exist for many months, if not years.</p>
+</div>
+
+
+    <figure class="st__content-block st__content-block--image st__content-block--image-default">
+      <a href="https://cdn.statcdn.com/Infographic/images/normal/21240.jpeg"><noscript><img src="https://assets.weforum.org/editor/LEUEuLKDo_i63xrLVeGMaWTX-j8yudKaqx4AHZQNc20.jpeg" srcset="https://assets.weforum.org/editor/responsive_large_PIFFNiHnFqsCesr6tgGScpEYB0Joywdtef3fFG5-VDc.jpeg 850w, https://assets.weforum.org/editor/responsive_medium_L9GR37ILEhq0jZ613jhBVOu0-YN5MhVExYeM0gGEkFw.jpeg 640w, https://assets.weforum.org/editor/responsive_small_obCMj9UlWvtP3XYjpD4SOg_28OnAzZ5aVtREP1ps5TI.jpeg 320w" webp_srcset="https://assets.weforum.org/editor/responsive_large_webp_IZx2z-z30_pscXPRIPMGyYfqrq26tfWjDi74ho_ZDao.webp 850w, https://assets.weforum.org/editor/responsive_medium_webp_eppwPW1dzsIiZhLHnbW8SSanZYFKFY6SaKYzNHCgETI.webp 640w, https://assets.weforum.org/editor/responsive_small_webp_hRWPe0WPAFFq6eQiNvmOuhXm--S6v63ZTs7LmDj6HDE.webp 320w" sizes="100vw" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;, :alt=&gt;&quot;Coronavirus china virus health healthcare who world health organization disease deaths pandemic epidemic worries concerns Health virus contagious contagion viruses diseases disease lab laboratory doctor health dr nurse medical medicine drugs vaccines vaccinations inoculations technology testing test medicinal biotechnology biotech biology chemistry physics microscope research influenza flu cold common cold bug risk symptomes respiratory china iran italy europe asia america south america north washing hands wash hands coughs sneezes spread spreading precaution precautions health warning covid 19 cov SARS 2019ncov wuhan sarscow wuhanpneumonia  pneumonia outbreak patients unhealthy fatality mortality elderly old elder age serious death deathly deadly &quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/editor/responsive_large_webp_IZx2z-z30_pscXPRIPMGyYfqrq26tfWjDi74ho_ZDao.webp 850w, https://assets.weforum.org/editor/responsive_medium_webp_eppwPW1dzsIiZhLHnbW8SSanZYFKFY6SaKYzNHCgETI.webp 640w, https://assets.weforum.org/editor/responsive_small_webp_hRWPe0WPAFFq6eQiNvmOuhXm--S6v63ZTs7LmDj6HDE.webp 320w" data-sizes="100vw"><img loading="lazy" class=" js-lazyload" alt="Coronavirus china virus health healthcare who world health organization disease deaths pandemic epidemic worries concerns Health virus contagious contagion viruses diseases disease lab laboratory doctor health dr nurse medical medicine drugs vaccines vaccinations inoculations technology testing test medicinal biotechnology biotech biology chemistry physics microscope research influenza flu cold common cold bug risk symptomes respiratory china iran italy europe asia america south america north washing hands wash hands coughs sneezes spread spreading precaution precautions health warning covid 19 cov SARS 2019ncov wuhan sarscow wuhanpneumonia  pneumonia outbreak patients unhealthy fatality mortality elderly old elder age serious death deathly deadly " data-src="https://assets.weforum.org/editor/LEUEuLKDo_i63xrLVeGMaWTX-j8yudKaqx4AHZQNc20.jpeg" data-srcset="https://assets.weforum.org/editor/responsive_large_PIFFNiHnFqsCesr6tgGScpEYB0Joywdtef3fFG5-VDc.jpeg 850w, https://assets.weforum.org/editor/responsive_medium_L9GR37ILEhq0jZ613jhBVOu0-YN5MhVExYeM0gGEkFw.jpeg 640w, https://assets.weforum.org/editor/responsive_small_obCMj9UlWvtP3XYjpD4SOg_28OnAzZ5aVtREP1ps5TI.jpeg 320w" data-sizes="100vw"></picture></a>
+      <figcaption>
+          <div class="image__caption">
+            The number of people placed on  enforced lockdowns due to the COVID-19 pandemic. 
+          </div>
+          <div class="image__credit">
+            Image: Statista 
+          </div>
+      </figcaption>
+    </figure>
+    
+<div class="st__content-block st__content-block--text">
+    <p>At the height of the epidemic in China, strictly enforced lockdown orders were imposed to slow the spread of the disease. <br><br>India has enforced the world’s biggest lockdown, with more than 1.3 billion people confined to their homes. Nationwide restrictions are in place in countries from Europe to Latin America.</p>
+</div>
+<div class="st__content-block st__content-block--text">
+    <p>Restrictions range from mandatory quarantine orders to stay-home recommendations, and include prohibiting non-essential work or business, along with bans on public gatherings and events.</p>
+</div>
+  <div class="st__content-block st__content-block--snippet st__content-block--snippet-default">
+    <div class="snippet-content js-snippet-content">
+      <div class="snippet-content__header">
+        <span class="snippet-content__caption"></span>
+        <h4 class="snippet-content__title">What is the World Economic Forum doing about the coronavirus outbreak?</h4>
+      </div>
+      <div class="snippet-content__body">
+        <div class="st__content-block st__content-block--text">
+    <p>A new strain of Coronavirus, COVID 19, is spreading around the world, causing deaths and major disruption to the global economy.</p>
+</div>
+<div class="st__content-block st__content-block--text">
+    <p>Responding to this crisis requires global cooperation among governments, international organizations and the <a href="https://www.weforum.org/agenda/2020/03/how-are-companies-responding-to-the-coronavirus-crisis-d15bed6137">business community</a>, which is at the centre of the World Economic Forum’s mission as the International Organization for Public-Private Cooperation. </p>
+</div>
+
+
+    <figure class="st__content-block st__content-block--image st__content-block--image-default">
+      <a href="http://wef.ch/COVIDActionPlatform"><noscript><img src="https://assets.weforum.org/editor/rjxd3KYKnLSTC9SLXO_kqzioamsobmGkwJ-gdgO4BZo.jpg" srcset="https://assets.weforum.org/editor/responsive_large_aIO_y_lMMznABAtbA1dPHxDIXWuG-JozxSiq0nH34Kw.jpg 850w, https://assets.weforum.org/editor/responsive_medium__t2Cmdvaxz3SYSx_aLJLx7OocKEJNGUF7b6aJ7-d9v8.jpg 640w, https://assets.weforum.org/editor/responsive_small_SKIPt5nzrqrUo28dgrcOfMl8RjKqz806RoNZ0Pesx70.jpg 320w" webp_srcset="https://assets.weforum.org/editor/responsive_large_webp_v7p7WJHzEtaW0QGDno_zj1D94ZsELM2wznWp6IEsR4M.webp 850w, https://assets.weforum.org/editor/responsive_medium_webp_1qqZJXSLH2TJbW2-5FiH4sy5ObwLL10d-WCu08CPmVM.webp 640w, https://assets.weforum.org/editor/responsive_small_webp_eX7YPdH9GCDLJdYs7izIJ-PLPvsnloqNj0f3rhVqVao.webp 320w" sizes="100vw" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;, :alt=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/editor/responsive_large_webp_v7p7WJHzEtaW0QGDno_zj1D94ZsELM2wznWp6IEsR4M.webp 850w, https://assets.weforum.org/editor/responsive_medium_webp_1qqZJXSLH2TJbW2-5FiH4sy5ObwLL10d-WCu08CPmVM.webp 640w, https://assets.weforum.org/editor/responsive_small_webp_eX7YPdH9GCDLJdYs7izIJ-PLPvsnloqNj0f3rhVqVao.webp 320w" data-sizes="100vw"><img loading="lazy" class=" js-lazyload" alt="" data-src="https://assets.weforum.org/editor/rjxd3KYKnLSTC9SLXO_kqzioamsobmGkwJ-gdgO4BZo.jpg" data-srcset="https://assets.weforum.org/editor/responsive_large_aIO_y_lMMznABAtbA1dPHxDIXWuG-JozxSiq0nH34Kw.jpg 850w, https://assets.weforum.org/editor/responsive_medium__t2Cmdvaxz3SYSx_aLJLx7OocKEJNGUF7b6aJ7-d9v8.jpg 640w, https://assets.weforum.org/editor/responsive_small_SKIPt5nzrqrUo28dgrcOfMl8RjKqz806RoNZ0Pesx70.jpg 320w" data-sizes="100vw"></picture></a>
+      <figcaption>
+      </figcaption>
+    </figure>
+    
+<div class="st__content-block st__content-block--text">
+    <p>The Forum has created the <a href="http://wef.ch/COVIDActionPlatform" target="_blank" rel="noopener">COVID Action Platform</a>, a global platform to convene the business community for collective action, protect people’s livelihoods and facilitate business continuity, and mobilize support for the COVID-19 response. The platform is created with the support of the World Health Organization and is open to all businesses and industry groups, as well as other stakeholders, aiming to integrate and inform joint action. </p>
+</div>
+
+
+    <figure class="st__content-block st__content-block--image st__content-block--image-default">
+      <a href="http://wef.ch/COVIDActionPlatform"><noscript><img src="https://assets.weforum.org/editor/i3suFfwuymwa4AywVFfzc0SscNl0N3PHuH3IQVaafCY.jpg" srcset="https://assets.weforum.org/editor/responsive_large_pGMafcEvecmlnz88IuCVfx86Z1Chwhe0rIIqNIF_6_Y.jpg 850w, https://assets.weforum.org/editor/responsive_medium_wPr_gLHURhxR6XnDBqYzusVqZMXiWsgWGw437rIThzA.jpg 640w, https://assets.weforum.org/editor/responsive_small_JS_hB6fn9Lr1p8qoeL-a6m9YE0gMDSKdcsnkpF5av7s.jpg 320w" webp_srcset="https://assets.weforum.org/editor/responsive_large_webp_bUB2jqh8cISpT6-4U0r_JkzncyGGNtuDW0o4sFd0J28.webp 850w, https://assets.weforum.org/editor/responsive_medium_webp_VBMpttgKSa_k4wBGMeS-HiSR9euTRhjwReyQDzSu4m8.webp 640w, https://assets.weforum.org/editor/responsive_small_webp_GXLzl2S5TDiOLOB0rq1gbwY8bUAQ1kAjCnpRd4_Na3w.webp 320w" sizes="100vw" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;, :alt=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/editor/responsive_large_webp_bUB2jqh8cISpT6-4U0r_JkzncyGGNtuDW0o4sFd0J28.webp 850w, https://assets.weforum.org/editor/responsive_medium_webp_VBMpttgKSa_k4wBGMeS-HiSR9euTRhjwReyQDzSu4m8.webp 640w, https://assets.weforum.org/editor/responsive_small_webp_GXLzl2S5TDiOLOB0rq1gbwY8bUAQ1kAjCnpRd4_Na3w.webp 320w" data-sizes="100vw"><img loading="lazy" class=" js-lazyload" alt="" data-src="https://assets.weforum.org/editor/i3suFfwuymwa4AywVFfzc0SscNl0N3PHuH3IQVaafCY.jpg" data-srcset="https://assets.weforum.org/editor/responsive_large_pGMafcEvecmlnz88IuCVfx86Z1Chwhe0rIIqNIF_6_Y.jpg 850w, https://assets.weforum.org/editor/responsive_medium_wPr_gLHURhxR6XnDBqYzusVqZMXiWsgWGw437rIThzA.jpg 640w, https://assets.weforum.org/editor/responsive_small_JS_hB6fn9Lr1p8qoeL-a6m9YE0gMDSKdcsnkpF5av7s.jpg 320w" data-sizes="100vw"></picture></a>
+      <figcaption>
+      </figcaption>
+    </figure>
+    
+<div class="st__content-block st__content-block--text">
+    <p>As an organization, the Forum has a track record of supporting efforts to contain epidemics. In 2017, at our Annual Meeting, the <a href="https://cepi.net/" target="_blank" rel="noopener">Coalition for Epidemic Preparedness Innovations</a> (CEPI) was launched – bringing together experts from government, business, health, academia and civil society to accelerate the development of vaccines. CEPI is currently supporting the race to develop a vaccine against this strand of the coronavirus.</p>
+</div>
+
+      </div>
+      <div class="snippet-content__footer">
+        <button class="snippet-content__button js-snippet-content__button" data-hide-text="Hide" data-show-text="Show"><span>Show</span></button>
+      </div>
+    </div>
+  </div>
+<div class="st__content-block st__content-block--text">
+    <p><b>Life after lockdown<br></b><br>As the economic costs of the pandemic mount, some governments are under pressure to lift social distancing measures to get their countries back to work. But such decisions have to weigh the economic costs of life under lockdown with the imperative to save lives. </p>
+</div>
+
+
+    <figure class="st__content-block st__content-block--image st__content-block--image-default">
+      <noscript><img src="https://assets.weforum.org/editor/cisEwnGRowNA_1KvZqV0ccoh-Bc31z0tYF8sGidwr84.JPG" srcset="https://assets.weforum.org/editor/responsive_large_8xSpVAVkEHaIBsgKpAQEXnRn6yZRIjiBbSFZ_JEcGfs.JPG 850w, https://assets.weforum.org/editor/responsive_medium_G6gIHRjw9iyYhMzMS874ip61o_cMdSP2swmh9M_CBds.JPG 640w, https://assets.weforum.org/editor/responsive_small_y-Tmz0dUn0LhfJJoRK9hxI-vEbdteVzcf8a6X3-0G9M.JPG 320w" webp_srcset="https://assets.weforum.org/editor/responsive_large_webp_9nQqLnPUxbdNl_NMBpF2iSLtLk6x6dK_V37GkNlWjwE.webp 850w, https://assets.weforum.org/editor/responsive_medium_webp_cSZotF7UiPTfBo4j9wkQq1XzBxuWCZnJI2AgwBQ4TBg.webp 640w, https://assets.weforum.org/editor/responsive_small_webp_xF6AK18-rq-j2c1PnDSXlipZzndPHvBRb8JK0Ozb9vU.webp 320w" sizes="100vw" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;, :alt=&gt;&quot;People participate from thier balconies as Easter Sunday mass is lead from the roof of the Santa Maria della Salute church, as Italy remains on lockdown to try and contain the spread of coronavirus disease (COVID-19), Naples, Italy, April 12, 2020. REUTERS/Ciro De Luca - RC2Y2G9T96MM&quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/editor/responsive_large_webp_9nQqLnPUxbdNl_NMBpF2iSLtLk6x6dK_V37GkNlWjwE.webp 850w, https://assets.weforum.org/editor/responsive_medium_webp_cSZotF7UiPTfBo4j9wkQq1XzBxuWCZnJI2AgwBQ4TBg.webp 640w, https://assets.weforum.org/editor/responsive_small_webp_xF6AK18-rq-j2c1PnDSXlipZzndPHvBRb8JK0Ozb9vU.webp 320w" data-sizes="100vw"><img loading="lazy" class=" js-lazyload" alt="People participate from thier balconies as Easter Sunday mass is lead from the roof of the Santa Maria della Salute church, as Italy remains on lockdown to try and contain the spread of coronavirus disease (COVID-19), Naples, Italy, April 12, 2020. REUTERS/Ciro De Luca - RC2Y2G9T96MM" data-src="https://assets.weforum.org/editor/cisEwnGRowNA_1KvZqV0ccoh-Bc31z0tYF8sGidwr84.JPG" data-srcset="https://assets.weforum.org/editor/responsive_large_8xSpVAVkEHaIBsgKpAQEXnRn6yZRIjiBbSFZ_JEcGfs.JPG 850w, https://assets.weforum.org/editor/responsive_medium_G6gIHRjw9iyYhMzMS874ip61o_cMdSP2swmh9M_CBds.JPG 640w, https://assets.weforum.org/editor/responsive_small_y-Tmz0dUn0LhfJJoRK9hxI-vEbdteVzcf8a6X3-0G9M.JPG 320w" data-sizes="100vw"></picture>
+      <figcaption>
+          <div class="image__caption">
+            Italy in lockdown: following regional shutdowns, emergency measures were extended across the whole country.
+          </div>
+          <div class="image__credit">
+            Image: REUTERS/Ciro De Luca
+          </div>
+      </figcaption>
+    </figure>
+    
+<div class="st__content-block st__content-block--text">
+    <p>In Europe, countries like <a href="https://www.businessinsider.com/countries-on-lockdown-coronavirus-italy-2020-3?r=DE&amp;IR=T#spain-became-the-second-european-country-to-impose-a-nationwide-quarantine-on-march-14-some-nonessential-sectors-have-reopened-and-thousands-of-workers-are-returning-to-work-but-everyone-else-will-be-in-lockdown-until-at-least-april-26-1" target="_blank" rel="noopener">Italy and Spain are beginning to lift lockdown restrictions</a>. Some non-essential parts of Spain’s economy are reopening, such as manufacturing and construction, and employees are returning to work. Restrictions are still in place for other sectors with bars, restaurants and hotels remaining closed. <br><br>At a World Health Organization briefing on 13 April, officials emphasized the need to lift lockdown restrictions strategically. </p>
+</div>
+<div id="WjFeLIqWZoHeI6Rxrorz9Q"></div>
+
+<script>
+  window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+
+    t._e = [];
+    t.ready = function(f) {
+      t._e.push(f);
+    };
+
+    return t;
+  }(document, "script", "twitter-wjs"));
+
+  window.twttr.ready(function() {
+    var element = document.getElementById('WjFeLIqWZoHeI6Rxrorz9Q');
+    var options = {
+      linkColor: '#003087'
+    };
+    twttr.widgets.createTweet('1249718175597543432', element, options);
+  })
+</script>
+<div class="st__content-block st__content-block--text">
+    <p>“Not lifting all at once is very critical so that we can get people back to work, get these economies going back again as quickly as possible,” said Dr Maria Van Kerkhove, the WHO Health Emergencies Programme’s Technical Lead. <br><br>WHO Director-General Dr Tedros Adhanom Ghebreyesus announced criteria that should be met before countries consider easing lockdown restrictions. These include ensuring transmission of the disease is controlled, and that health systems have the capacity to detect, test, isolate and treat every COVID-19 case and trace every point of contact. <br><br>Officials echoed the call for physical distancing measures and frequent handwashing to remain in place after lockdowns have been lifted.</p>
+</div>
+<div class="st__content-block st__content-block--iframe " style="">
+  <noscript>
+    <iframe src="https://open.spotify.com/embed-podcast/episode/6jNDKwt8zdtcQn8sWLBeVi" width="100%" height="232" frameborder="0" scrolling="no"  marginheight="0" marginwidth="0"></iframe>
+  </noscript>
+  <iframe class="js-lazyload" data-src="https://open.spotify.com/embed-podcast/episode/6jNDKwt8zdtcQn8sWLBeVi" width="100%" height="232" frameborder="0" scrolling="no"  marginheight="0" marginwidth="0"></iframe>
+</div>
+</div>
+
+    <div class="post-article" data-gtm-subcontext="article-footer">
+      <div class="post-article__share">
+        <div class="post-article__share__title">Share</div>
+        <div class="social-sharing " data-gtm-subcontext="social-share">
+    <a aria-label="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2020%2F04%2Fcoronavirus-social-distancing-how-long%2F" class="social-share--container js-social-share" target="_blank"><span class="social-share--facebook"></span></a>
+    <a aria-label="Twitter" href="https://twitter.com/intent/tweet?via=wef&amp;text=Harvard%20scientists%20say%20COVID-19%20social%20distancing%20could%20last%20until%202022&amp;url=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2020%2F04%2Fcoronavirus-social-distancing-how-long%2F" class="social-share--container js-social-share" target="_blank"><span class="social-share--twitter"></span></a>
+    <a aria-label="LinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=WEF&amp;url=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2020%2F04%2Fcoronavirus-social-distancing-how-long%2F" class="social-share--container js-social-share" target="_blank"><span class="social-share--linkedin"></span></a>
+    <a aria-label="Flipboard" href="https://share.flipboard.com/bookmarklet/popout?v=2&amp;title=Harvard%20scientists%20say%20COVID-19%20social%20distancing%20could%20last%20until%202022&amp;url=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2020%2F04%2Fcoronavirus-social-distancing-how-long%2F" class="social-share--container js-social-share" target="_blank"><span class="social-share--flipboard"></span></a>
+    <a aria-label="WhatsApp" href="whatsapp://send?text=Harvard%20scientists%20say%20COVID-19%20social%20distancing%20could%20last%20until%202022+https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2020%2F04%2Fcoronavirus-social-distancing-how-long%2F" data-action="share/whatsapp/share" class="social-share--container"><div class="social-share--whatsapp"></div></a>
+</div>
+
+      </div>
+      <div class="post-article__license">
+        <div class="post-article__license__title">License and Republishing</div>
+        <p class="post-article__license__description">World Economic Forum articles may be republished in accordance with our <a href="https://www.weforum.org/about/privacy-and-terms-of-use">Terms of Use</a>.</p>
+      </div>
+      <div class="article-footer">
+            <div id="byline" class="article-footer__author">
+              <div class="article-footer__author__title">Written by</div>
+                <p>
+                  <a data-gtm-class="author" href="/agenda/authors/johnny-wood-a7338de0-18d8-42da-9b64-bba21028f267">Johnny  Wood</a>, <span>Senior Writer, Formative Content</span>
+                </p>
+            </div>
+        <p class="article-footer__source">The views expressed in this article are those of the author alone and not the World Economic Forum.</p>
+      </div>
+    </div>
+
+        
+
+  <div class="sidebar-tout ">
+    <div class="sidebar-tout__header">
+      <div class="sidebar-tout__title">World vs Virus Podcast</div>
+      
+    </div>
+      
+      <a href="https://open.spotify.com/show/36D1oLAmsRimw70XV19Cdf">
+        <figure><noscript><img src="https://assets.weforum.org/tout/image/responsive_medium_SDlL-fqPoutYp3XMWf8cRr9BpvB33uN42HXQp0zxAXM.png" sizes="(max-width: 40.0624em) calc(100vw - 42px), (max-width: 1192px) calc(33vw - 42px), 360px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="false"></noscript><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/tout/image/responsive_medium_SDlL-fqPoutYp3XMWf8cRr9BpvB33uN42HXQp0zxAXM.png" data-sizes="(max-width: 40.0624em) calc(100vw - 42px), (max-width: 1192px) calc(33vw - 42px), 360px"></figure>
+</a>      
+      <div class="sidebar-tout__more">
+        <a href="https://open.spotify.com/show/36D1oLAmsRimw70XV19Cdf">
+          <span class="sidebar-tout__more-link">Listen now on Spotify</span>
+          <span class="sidebar-tout__more-arrow">
+            <img src="/assets/further-reading-arrow--grey-af5a6000f4deb911ff0f354e51a276706c6ed82f03e39a31a5dee8addc584309.svg" />
+          </span>
+</a></div>  </div>
+
+
+      
+
+  <div class="sidebar-tout ">
+    <div class="sidebar-tout__header">
+      <div class="sidebar-tout__title">Explore context</div>
+      <noscript><img src="/assets/tmap-icon-c04cb0e1c304860258a35c69ffcf9000b05af20e7e4d1baaefeab57b0937061d.svg" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;sidebar-tout__icon&quot;, :alt=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><img loading="lazy" class="sidebar-tout__icon js-lazyload" alt="" data-src="/assets/tmap-icon-c04cb0e1c304860258a35c69ffcf9000b05af20e7e4d1baaefeab57b0937061d.svg"></picture>
+    </div>
+      <div class="sidebar-tout__sub-title">COVID-19</div>
+      <a href="https://intelligence.weforum.org/topics/a1G0X000006O6EHUA0?tab=publications">
+        <figure><noscript><img src="https://assets.weforum.org/topic/transformation_map_image/responsive_medium_f6nhRVE98lY5tqyzmhdIEfAyX3QvtKNeTXSv9SFucY0.PNG" sizes="(max-width: 40.0624em) calc(100vw - 42px), (max-width: 1192px) calc(33vw - 42px), 360px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="false"></noscript><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/topic/transformation_map_image/responsive_medium_f6nhRVE98lY5tqyzmhdIEfAyX3QvtKNeTXSv9SFucY0.PNG" data-sizes="(max-width: 40.0624em) calc(100vw - 42px), (max-width: 1192px) calc(33vw - 42px), 360px"></figure>
+</a>      
+      <div class="sidebar-tout__more">
+        <a href="https://intelligence.weforum.org/topics/a1G0X000006O6EHUA0?tab=publications">
+          <span class="sidebar-tout__more-link">Explore the latest strategic trends, research and analysis</span>
+          <span class="sidebar-tout__more-arrow">
+            <img src="/assets/further-reading-arrow--grey-af5a6000f4deb911ff0f354e51a276706c6ed82f03e39a31a5dee8addc584309.svg" />
+          </span>
+</a></div>  </div>
+
+
+
+    <div class="post-article" data-gtm-subcontext="article-footer">
+      <div class="newsletter">
+        <div class="newsletter__callout">
+          <h2>Subscribe for updates</h2>
+          <div class="newsletter__callout__description">A weekly update of what’s on the Global Agenda</div>
+        </div>
+        <form action="https://weforum.us3.list-manage.com/subscribe/?u=79c86265202b9840297f805ad&amp;id=7361259375" method="post" target="_blank" class="newsletter__form">
+          <div class="newsletter__form__field">
+            <input type="email" name="EMAIL" placeholder="Email" autocomplete="email" class="newsletter__form__input">
+            <input type="submit" value="Subscribe" name="subscribe" class="newsletter__form__submit">
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+  
+
+      <section class="highlights-section highlights-section--featured" data-gtm-subcontext="collection" data-gtm-id="covid-19">
+        <div class="row">
+          <div class="columns">
+              <h2 class="sub-title">
+                <span class="highlight__featured-text">Featured:</span>
+                COVID-19
+                  <a class="view-all-link" href="/agenda/archive/covid-19">                      View all <img alt="" src="/assets/thin-chevron-491f10d0cb058e9bd64f4cd5fa76b85e5b6c532f8cc93b3dd84dee080e91fd03.svg" /></a>              </h2>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="highlights-section__main small-12 large-8 columns">
+            <div class="gutter-marking"></div>
+            <div class="tout-list">
+                    <article class="tout tout--large tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/04/covid-19-prisoner-releases-not-mercy-but-justice/"><figure class="placeholder small"><div class="placeholder-inner"><noscript><img src="https://assets.weforum.org/article/image/KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.JPG" srcset="https://assets.weforum.org/article/image/responsive_big_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.JPG 1600w, https://assets.weforum.org/article/image/responsive_large_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.JPG 800w, https://assets.weforum.org/article/image/responsive_medium_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.JPG 485w, https://assets.weforum.org/article/image/responsive_small_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.JPG 350w, https://assets.weforum.org/article/image/responsive_tiny_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.JPG 97w" webp_srcset="https://assets.weforum.org/article/image/responsive_big_webp_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.webp 97w" sizes="(max-width: 40em) 27vw, (max-width: 64em) 47vw, (max-width: 1050px) 16vw, 310px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/article/image/responsive_big_webp_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.webp 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) 47vw, (max-width: 1050px) 16vw, 310px"><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/article/image/KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.JPG" data-srcset="https://assets.weforum.org/article/image/responsive_big_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.JPG 1600w, https://assets.weforum.org/article/image/responsive_large_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.JPG 800w, https://assets.weforum.org/article/image/responsive_medium_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.JPG 485w, https://assets.weforum.org/article/image/responsive_small_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.JPG 350w, https://assets.weforum.org/article/image/responsive_tiny_KWQU5iaurQUDkB_khss-PfWGo97IxCkQ6Nb2D5_Gtvo.JPG 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) 47vw, (max-width: 1050px) 16vw, 310px"></picture></div></figure><div class="tout__details"><h3 class="tout__title">COVID-19 prisoner releases are not a matter of mercy, but of justice</h3><div class="tout__meta"><div class="caption"><span class="article__author bold">Kieran Oberman</span> <span>27 Apr 2020</span></div></div></div></a></article>
+                    <article class="tout tout--large tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/04/energy-oil-gas-electricity-sustainability-economy-covid19-coronavirus-pandemic-market-stability/"><figure class="placeholder small"><div class="placeholder-inner"><noscript><img src="https://assets.weforum.org/article/image/MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.JPG" srcset="https://assets.weforum.org/article/image/responsive_big_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.JPG 1600w, https://assets.weforum.org/article/image/responsive_large_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.JPG 800w, https://assets.weforum.org/article/image/responsive_medium_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.JPG 485w, https://assets.weforum.org/article/image/responsive_small_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.JPG 350w, https://assets.weforum.org/article/image/responsive_tiny_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.JPG 97w" webp_srcset="https://assets.weforum.org/article/image/responsive_big_webp_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.webp 97w" sizes="(max-width: 40em) 27vw, (max-width: 64em) 47vw, (max-width: 1050px) 16vw, 310px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/article/image/responsive_big_webp_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.webp 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) 47vw, (max-width: 1050px) 16vw, 310px"><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/article/image/MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.JPG" data-srcset="https://assets.weforum.org/article/image/responsive_big_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.JPG 1600w, https://assets.weforum.org/article/image/responsive_large_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.JPG 800w, https://assets.weforum.org/article/image/responsive_medium_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.JPG 485w, https://assets.weforum.org/article/image/responsive_small_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.JPG 350w, https://assets.weforum.org/article/image/responsive_tiny_MNSm5gNo3bWlhl5cJjj0Mff5rjBxif4tbWL5ig3veqE.JPG 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) 47vw, (max-width: 1050px) 16vw, 310px"></picture></div></figure><div class="tout__details"><h3 class="tout__title">As coronavirus shocks the energy sector and economy, is now the time for a new energy order?</h3><div class="tout__meta"><div class="caption"><span class="article__author bold">Roberto Bocca</span> <span>26 Apr 2020</span></div></div></div></a></article>
+            </div>
+          </div>
+
+          <div class="small-12 large-4 columns">
+            <div class="row">
+              <div class="small-12 columns">
+                      <article class="tout tout--mini tout--no-image tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/04/covid-19-what-you-need-to-know-about-the-coronavirus-pandemic-on-26-april/"><div class="tout__details"><h3 class="tout__title">COVID-19: What you need to know about the coronavirus pandemic on 26 April</h3><div class="tout__meta"><div class="caption"><span class="article__author bold">Briony  Harris</span> <span>26 Apr 2020</span></div></div></div></a></article>
+                      <article class="tout tout--mini tout--no-image tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/04/the-coronavirus-pandemic-might-make-buildings-sick-too/"><div class="tout__details"><h3 class="tout__title">The coronavirus pandemic might make buildings sick too</h3><div class="tout__meta"><div class="caption"><span class="article__author bold">Caitlin R.  Proctor, Andrew J. Whelton, and William Rhoads · The Conversation</span> <span>26 Apr 2020</span></div></div></div></a></article>
+                      <article class="tout tout--mini tout--no-image tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/04/the-week-when-oil-cost-minus-38-a-barrel-what-it-means-whats-coming-next/"><div class="tout__details"><h3 class="tout__title">What the future may hold for oil amidst COVID-19</h3><div class="tout__meta"><div class="caption"><span class="article__author bold">David Gaffen · Reuters</span> <span>26 Apr 2020</span></div></div></div></a></article>
+                      <article class="tout tout--mini tout--no-image tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/04/no-evidence-that-recovered-covid-19-patients-cannot-be-reinfected-who/"><div class="tout__details"><h3 class="tout__title">&#39;No evidence&#39; that recovered COVID-19 patients cannot be reinfected, according to WHO</h3><div class="tout__meta"><div class="caption"><span class="article__author bold">Stephanie Nebehay · Reuters</span> <span>26 Apr 2020</span></div></div></div></a></article>
+                      <article class="tout tout--mini tout--no-image tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/04/german-humanities-scholars-enlisted-to-end-coronavirus-lockdown/"><div class="tout__details"><h3 class="tout__title">Germany enlists humanities scholars to end coronavirus lockdown</h3><div class="tout__meta"><div class="caption"><span class="article__author bold">David Matthers · Times Higher Education</span> <span>26 Apr 2020</span></div></div></div></a></article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+    </section>
+    
+<footer class="footer" data-gtm-context="footer">
+  <div class="footer__wrapper">
+    <div class="row">
+      <div class="footer__newsletter">
+        <div class="newsletter">
+          <div class="newsletter__callout">
+            <h2>Subscribe for updates</h2>
+            <div class="newsletter__callout__description">A weekly update of what’s on the Global Agenda</div>
+          </div>
+          <form action="https://weforum.us3.list-manage.com/subscribe/?u=79c86265202b9840297f805ad&amp;id=7361259375" method="post" target="_blank" class="footer__form">
+            <div class="newsletter__form__field">
+              <input type="email" name="EMAIL" placeholder="Email" autocomplete="email" class="footer__form__input">
+              <input type="submit" value="Subscribe" name="subscribe" class="footer__form__submit">
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="footer__socialmedia" data-gtm-subcontext="social-links">
+        <div class="footer__socialmedia-title">Follow Us</div>
+        <div class="footer__socialmedia-group">
+            <a title="Facebook" aria-label="Facebook" href="https://www.facebook.com/worldeconomicforum/" class="social-share--facebook" target="_blank"></a>
+            <a title="Twitter" aria-label="Twitter" href="https://twitter.com/wef" class="social-share--twitter" target="_blank"></a>
+            <a title="LinkedIn" aria-label="LinkedIn" href="https://www.linkedin.com/company/world-economic-forum" class="social-share--linkedin" target="_blank"></a>
+            <a title="Flipboard" aria-label="Flipboard" href="https://flipboard.com/@WEF" class="social-share--flipboard" target="_blank"></a>
+            <a title="TikTok" aria-label="TikTok" href="https://www.tiktok.com/@worldeconomicforum" class="social-share--tiktok" target="_blank"></a>
+            <a title="Instagram" aria-label="Instagram" href="https://www.instagram.com/worldeconomicforum/" class="social-share--instagram" target="_blank"></a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="footer__list-group">
+      <div class="list-group">
+        <div class="list-group__header">
+          <span>About</span>
+        </div>
+        <div class="list-group__items">
+              <div class="list-group__item">
+                <a href="/about/world-economic-forum">Our Mission</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/leadership-and-governance">Leadership and Governance</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/the-davos-manifesto">The Davos Manifesto</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/our-members-and-partners">Our Members and Partners</a>
+              </div>
+                <div class="list-group__item">
+                  <a href="https://www.weforum.org/agenda/2018/11/globalization-4-what-does-it-mean-how-it-will-benefit-everyone/">Globalization 4.0</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="https://www.weforum.org/agenda/2015/12/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/">The Fourth Industrial Revolution</a>
+                </div>
+              <div class="list-group__item">
+                <a href="/about/communities">Communities</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/world-economic-forum-center-for-the-fourth-industrial-revolution">Centre for the Fourth Industrial Revolution</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/our-impact">Our Impact</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/history">History</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/centre-for-cybersecurity">Centre for Cybersecurity</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/klaus-schwab">Klaus Schwab</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/press">Media</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/pictures">Pictures</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/strategic-intelligence">Strategic Intelligence</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/careers">Careers</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/contact">Contact Us</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/code-of-conduct">Code of Conduct</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/world-economic-forum-llc">World Economic Forum LLC</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/privacy-and-terms-of-use">World Economic Forum Privacy Policy </a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/sustainability-world-economic-forum">Sustainability</a>
+              </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer__list-group">
+        <div class="list-group">
+          <div class="list-group__header">
+            <span>Media</span>
+          </div>
+          <div class="list-group__items">
+            <div class="list-group__item">
+              <a href="/press/">News</a>
+            </div>
+            <div class="list-group__item">
+              <a href="https://www.weforummedia.org/">Accreditation</a>
+            </div>
+            <div class="list-group__item">
+              <a href="https://weforum.us3.list-manage.com/subscribe/?u=6308fe51b420dc9ff3834abc8&amp;id=bf3fa00e64" target="_blank">Subscribe to our news</a>
+            </div>
+          </div>
+      </div>
+    </div>
+    <div class="footer__list-group">
+        <div class="list-group">
+          <div class="list-group__header">
+            <span>Members &amp; Partners</span>
+          </div>
+          <div class="list-group__items">
+            <div class="list-group__item">
+              <a href="https://toplink.weforum.org/">Member login to TopLink</a>
+            </div>
+            <div class="list-group__item">
+              <a href="https://toplink.weforum.org/">Strategic Partners&#39; area</a>
+            </div>
+            <div class="list-group__item">
+              <a href="https://toplink.weforum.org/">Partner Institutes&#39; area</a>
+            </div>
+          </div>
+      </div>
+    </div>
+    <div class="footer__list-group">
+        <div class="list-group">
+          <div class="list-group__header">
+            <span>Global sites</span>
+          </div>
+          <div class="list-group__items">
+            <div class="list-group__item">
+              <a href="https://www.weforum.org/center-for-the-fourth-industrial-revolution/">Centre for the Fourth Industrial Revolution</a>
+            </div>
+            <div class="list-group__item">
+              <a href="https://www.weforum.org/open-forum">Open Forum</a>
+            </div>
+            <div class="list-group__item">
+              <a href="http://www.globalshapers.org/">Global Shapers</a>
+            </div>
+            <div class="list-group__item">
+              <a href="http://www.schwabfound.org/">Schwab Foundation for Social Entrepreneurship</a>
+            </div>
+            <div class="list-group__item">
+              <a href="https://www.weforum.org/about/strategic-intelligence/">Strategic Intelligence</a>
+            </div>
+            <div class="list-group__item">
+              <a href="https://www.weforum.org/global-risks/">Global Risks</a>
+            </div>
+            <div class="list-group__item">
+              <div class="locale-switcher locale-switcher__footer">
+    
+      <span class="locale-link locale-link--EN">EN</span>
+    <a class="locale-link locale-link--es" href="https://es.weforum.org/agenda">ES</a>    <a class="locale-link locale-link--fr" href="https://fr.weforum.org/agenda">FR</a>    <a class="locale-link locale-link--cn" href="https://cn.weforum.org/agenda">中文</a>    <a class="locale-link locale-link--ja" href="https://jp.weforum.org/agenda">日本語</a></div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="small-12 columns">
+      <div class="footer__info-container">
+        <div class="footer__info-group">
+          © 2020 World Economic Forum
+        </div>
+        <div class="footer__info-group">
+          <a href="/about/privacy-and-terms-of-use">Privacy Policy &amp; Terms of Service</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<div id="modal" class="modal__container">
+  <div id="modalBackground" class="modal__background"></div>
+  <div id="modalContent" class="modal__content"></div>
+  <button type="button" class="modal__button--close modal__button--white" title="Close" aria-label="Close">
+    <svg width="13" height="13" xmlns="http://www.w3.org/2000/svg" focusable="false">
+      <g fill="none" fillRule="evenodd">
+        <g transform="translate(-491 -12)">
+          <path d="M503.012 24.936a.923.923 0 01-.653-.27L491.27 13.576a.925.925 0 011.306-1.306l11.088 11.088a.925.925 0 01-.653 1.577z" fill="#848490" />
+          <path d="M491.924 24.936a.924.924 0 01-.653-1.577l11.088-11.088a.925.925 0 011.306 1.306l-11.088 11.088a.923.923 0 01-.653.271z" fill="#848490" />
+        </g>
+      </g>
+    </svg>
+  </button>
+</div>
+
+  </div>
+  
+    <script>
+//<![CDATA[
+
+  var _sf_async_config = _sf_async_config || {};
+  /** CONFIGURATION START **/
+  _sf_async_config.title = 'These Harvard scientists think we\'ll have to socially distance until 2022';
+  _sf_async_config.sections = 'Article, covid-19, global-health, behaviour-change, agendablog, formative';
+  _sf_async_config.authors = 'Johnny  Wood';
+  
+  /** CONFIGURATION END **/
+  (function() {
+      function loadChartbeat() {
+          window._sf_endpt = (new Date()).getTime();
+          var e = document.createElement('script');
+          e.setAttribute('language', 'javascript');
+          e.setAttribute('type', 'text/javascript');
+          e.setAttribute('src', '//static.chartbeat.com/js/chartbeat_video.js');
+
+          document.body.appendChild(e);
+      }
+      var _cbv = window._cbv || (window._cbv = []);
+      _cbv.push(['autoDetectYouTubeIframes']);
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+          loadChartbeat : function() {
+              oldonload();
+              loadChartbeat();
+          };
+  })();
+
+//]]>
+</script>
+  <script src="/packs/js/application-d3b004f7fa10d941798b.js"></script>
+  
+</body></html>

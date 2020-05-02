@@ -1,0 +1,3159 @@
+<!DOCTYPE html>
+  <!--[if lt IE 7]> <html lang="en" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+  <!--[if IE 7]> <html lang="en" class="lt-ie9 lt-ie8"> <![endif]-->
+  <!--[if IE 8]> <html lang="en" class="lt-ie9"> <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <html lang="en"> <!--<![endif]-->
+  <head>
+    <title>The Netherlands will pay reparations to Indonesian victims of colonial atrocities. Could the UK do the same? - ABC News (Australian Broadcasting Corporation)</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
+<link rel="schema.iptc" href="urn:newsml:iptc.org:20031010:topicset.iptc-genre:8"/>
+<link rel="amphtml" href="http://amp.abc.net.au/article/12114892"/>
+<link rel="canonical" data-abc-platform="standard" href="https://www.abc.net.au/news/2020-04-26/netherlands-pay-reparations-indonesia-colonial-violence-1940s/12114892"/>
+<meta name="title" content="Andi was 10 when his father was murdered in front of him. Now the Netherlands has to pay"/>
+                <meta name="description" content="The Dutch Government has been ordered to pay $17,000 to a victim of brutal violence it perpetrated in the 1940s. Could the UK do the same?"/>
+                <meta name="keywords" content="indonesia, netherlands, holland, colonialism, massacres, history"/>
+                <meta name="ICBM" content="-5,120"/>
+                <meta name="geo.position" content="-5;120"/>
+                <meta name="ContentId" content="12114892"/>
+                <meta name="ABC.site" content="ABC News"/>
+                <meta name="ABC.editorialGenre" content="News &amp; Current Affairs"/>
+                <meta name="ABC.tags" content="world-politics;colonialism;politics-and-government;government-and-politics;world-war-2;history;indigenous-aboriginal-and-torres-strait-islander"/>
+                <meta name="ABC_WCMS_sitesearch_include" content="true"/>
+                <meta name="twitter:card" content="summary"/>
+                <meta name="ABC.productionUnit" content="World"/>
+                <meta name="ABC.ContentType" content="CMArticle"/>
+                <meta name="DC.Publisher.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.rights" scheme="DCTERMS.URI" content="https://www.abc.net.au/conditions.htm#UseOfContent"/>
+        <meta name="DC.rightsHolder" content="ABC"/>
+                <meta name="DC.type" content="Text"/>
+                <meta name="DC.type" scheme="iptc-genre" content="Current"/>
+        <meta name="DC.title" content="Andi was 10 when his father was murdered in front of him. Now the Netherlands has to pay"/>
+                <meta name="DC.creator.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.date" scheme="DCTERMS.W3CDTF" content="2020-04-26T08:06:56+1000"/>
+        <meta name="DC.format" scheme="DCTERMS.IMT" content="text/html"/>
+        <meta name="DC.identifier" scheme="DCTERMS.URI" content="https://www.abc.net.au/news/2020-04-26/netherlands-pay-reparations-indonesia-colonial-violence-1940s/12114892"/>
+          <meta name="DC.language" scheme="DCTERMS.RFC3066" content="en-AU"/>
+        <meta name="DC.subject" scheme="ABCTERMS.subject" content="Government and Politics:World Politics;Government and Politics:Forms of Government:Colonialism;Government and Politics:Foreign Aid:Politics and Government;Government and Politics;Community and Society:History:World War 2;Community and Society:History;Community and Society:Indigenous (Aboriginal and Torres Strait Islander)"/>
+        <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2020-04-26T08:06:56+1000"/>
+        <meta name="DCTERMS.modified" scheme="DCTERMS.W3CDTF" content="2020-04-26T08:06:56+1000"/>
+        <meta name="DCTERMS.spatial" content="Indonesia;Netherlands;United Kingdom;Australia;Asia"/>
+                <meta name="DCTERMS.spatial" scheme="DCTERMS.DCMIPoint" content="east=120;north=-5"/>
+        <meta property="og:title" content="Andi was 10 when his father was murdered in front of him. Now the Netherlands has to pay"/>
+                <meta property="og:description" content="Andi Monji&#039;s father was one of 200 men to be summarily executed at their village on the island of Sulawesi in January 1947."/>
+                <meta property="og:url" content="https://www.abc.net.au/news/2020-04-26/netherlands-pay-reparations-indonesia-colonial-violence-1940s/12114892"/>
+                <meta property="og:image" content="https://www.abc.net.au/news/image/12185234-16x9-700x394.jpg"/>
+                <meta property="og:image:type" content="image/jpeg"/>
+                <meta property="og:image:width" content="700"/>
+                <meta property="og:image:height" content="394"/>
+                <meta name="twitter:image" content="https://www.abc.net.au/news/image/12185234-16x9-700x394.jpg"/>
+                <meta property="og:type" content="Article"/>
+                <meta property="og:updated_time" content="2020-04-26T08:06:56+1000"/>
+                <meta property="article:published_time" content="2020-04-26T08:06:56+1000"/>
+                <meta property="article:modified_time" content="2020-04-26T08:06:56+1000"/>
+                <meta property="article:publisher" content="https://www.facebook.com/abcnews.au"/>
+                <meta property="article:author" content="https://www.abc.net.au/news/11029686"/>
+                <meta property="article:tag" content="indonesia"/>
+                <meta property="article:tag" content="netherlands"/>
+                <meta property="article:tag" content="holland"/>
+                <meta property="article:tag" content="colonialism"/>
+                <meta property="article:tag" content="massacres"/>
+                <meta property="article:tag" content="history"/>
+                <meta property="article:tag" content="Indonesia"/>
+                <meta property="article:tag" content="Netherlands"/>
+                <meta property="article:tag" content="United Kingdom"/>
+                <meta property="article:tag" content="Australia"/>
+                <meta property="article:tag" content="Asia"/>
+                <meta property="article:tag" content="World Politics"/>
+                <meta property="article:tag" content="Government and Politics"/>
+                <meta property="article:tag" content="Colonialism"/>
+                <meta property="article:tag" content="Forms of Government"/>
+                <meta property="article:tag" content="Politics and Government"/>
+                <meta property="article:tag" content="Foreign Aid"/>
+                <meta property="article:tag" content="World War 2"/>
+                <meta property="article:tag" content="History"/>
+                <meta property="article:tag" content="Community and Society"/>
+                <meta property="article:tag" content="Indigenous (Aboriginal and Torres Strait Islander)"/>
+                <meta property="og:site_name" content="ABC News"/>
+                <meta name="twitter:site" content="@ABCNews"/>
+                <meta name="apple-mobile-web-app-title" content="ABC News"/>
+                <meta property="fb:pages" content="72924719987"/>
+                <link rel="alternate" data-abc-platform="mobile" media="only screen and (max-width: 640px)" href="https://mobile.abc.net.au/news/2020-04-26/netherlands-pay-reparations-indonesia-colonial-violence-1940s/12114892"/>
+  <link media="all" rel="stylesheet" type="text/css"
+                                                                              href="https://res.abc.net.au/bundles/2.5.0/styles/abc.bundle.2.5.0.min.css"/>
+    <link rel="stylesheet" type="text/css"
+                                                                              href="https://www.abc.net.au/res/sites/news-projects/news-core/1.26.0/desktop.css"/>
+    <link rel="alternate" type="application/rss+xml" title="Just In" href="/news/feed/51120/rss.xml">
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.abc.net.au/cm/cb/8413652/News+iOS+76x76+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.abc.net.au/cm/cb/8413658/News+iOS+120x120+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.abc.net.au/cm/cb/8413660/News+iOS+152x152+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://www.abc.net.au/cm/cb/8413674/News+iOS+180x180+2017/data.png"/>
+    <script type="text/javascript" src="/news/ajax/45902/managed.js"></script>
+<script type="text/javascript" src="https://www.abc.net.au/res/libraries/jquery/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="https://www.abc.net.au/res/libraries/location/abc.location-1.latest.min.js"></script>
+        <script type="text/javascript" src="https://www.abc.net.au/res/bundles/platforms/abc.bundle.platforms-1.0.min.js"></script>
+        <script type="text/javascript" src="https://www.abc.net.au/res/sites/news-projects/news-core/1.26.0/desktop.js"></script>
+        <script type="text/javascript" src="/cm/code/8724582/abc.news.config-2020-02.js" async></script>
+        <script>
+    window.dataLayer = window.dataLayer || [];
+  </script>
+
+  <script>
+    window.dataLayer.push({
+      'debug': {
+         'schemaVersion': '20180315',
+      },
+
+       'document': {
+        'language': 'en',
+         'canonicalUrl':'https://www.abc.net.au/news/2020-04-26/netherlands-pay-reparations-indonesia-colonial-violence-1940s/12114892',
+         'contentType': 'article',
+         'uri':'coremedia://article/12114892',
+         'contentSource':'coremedia',
+         'id':'12114892',
+         
+         'pageTitle':'The Netherlands will pay reparations to Indonesian victims of colonial atrocities. Could the UK do the same?',
+         
+         'title':{
+           
+           'title':'The Netherlands will pay reparations to Indonesian victims of colonial atrocities. Could the UK do the same?',
+           
+           'teaser':'Andi was 10 when his father was murdered in front of him. Now the Netherlands has to pay',
+           
+           'short':'Colonial reparations',
+           
+         },
+         
+         'productionUnit':'World',
+         
+         'siteRoot':{
+           
+              'segment':'news',
+           
+              'title':'ABC News',
+           
+         },
+         
+         'lastModified':' Sun 26 Apr 2020, 08:06AM EST',
+         
+       },
+    })
+  </script>
+
+  <script>
+    window.dataLayer.push({
+        'application': {
+          'generatorName': 'WCMS JSP',
+          'generatorVersion': '18.10.8.8.0',
+          
+          'environment':'production',
+          
+          'wcmsTheme':'phase1-news',
+        }
+    })
+  </script>
+
+</head>
+  <body
+          class="platform-standard news story_page">
+  <!-- Start ABC Bundle Header 2.5.0 (customised - p1) -->
+<!--noindex-->
+<nav id="abcHeader" class="global" aria-label="ABC Network Navigation" data-resourcebase="https://res.abc.net.au/bundles/2.5.0/" data-scriptsbase="https://res.abc.net.au/bundles/2.5.0/scripts/" data-version="2.5.0">
+ <a class="home" href="https://www.abc.net.au/" data-mobile="https://mobile.abc.net.au/"><img src="https://res.abc.net.au/bundles/2.5.0/images/logo-abc@2x.png" width="65" height="16" alt="" />ABC Home</a>
+ <div class="sites">
+  <a class="controller" href="javascript:;" aria-controls="abcNavSites"><img src="https://res.abc.net.au/bundles/2.5.0/images/icon-menu-grey@1x.gif" data-src="images/icon-menu-grey@1x.gif" data-hover="images/icon-menu-blue@1x.gif" class="icon" alt="" /><span class='text'><span>Open</span> Sites <span>menu</span></span></a>
+  <div id="abcNavSites" class="menu" role="menu" aria-expanded="false">
+   <ul>
+    <li><a role="menuitem" href="https://www.abc.net.au/" data-mobile="https://mobile.abc.net.au/">ABC Home</a></li>
+    <li><a role="menuitem" href="https://www.abc.net.au/news/" data-mobile="https://mobile.abc.net.au/news/">News</a></li>
+    <li><a role="menuitem" href="https://iview.abc.net.au" data-mobile="https://iview.abc.net.au">iview</a></li>
+    <li><a role="menuitem" href="https://www.abc.net.au/tv/" data-mobile="https://www.abc.net.au/tv/">TV</a></li>
+    <li><a role="menuitem" href="https://radio.abc.net.au/" data-mobile="https://radio.abc.net.au/">Radio</a></li>
+    <li><a role="menuitem" href="https://www.abc.net.au/children/" data-mobile="https://mobile.abc.net.au/children/">Kids</a></li>
+    <li><a role="menuitem" href="https://shop.abc.net.au/" data-mobile="https://shop.abc.net.au/">Shop</a></li>
+    <li><a role="menuitem" class="more" href="https://www.abc.net.au/more/" data-mobile="https://www.abc.net.au/more/">More</a></li>
+   </ul>
+  </div>
+ </div>
+ <div class="accounts">
+  <!-- Accounts is currently injected due to different URLs --><span data-src="images/icon-user-grey@1x.png" data-hover="images/icon-user-blue@1x.png"></span>
+ </div>
+ <a class="search" href="https://search.abc.net.au/" data-mobile="https://search.abc.net.au/"><span>Search</span>
+  <img src="https://res.abc.net.au/bundles/2.5.0/images/icon-search-grey@1x.png" data-hover="images/icon-search-blue@1x.png" class="icon" alt="" /></a>
+</nav>
+<!--endnoindex-->
+<!-- End ABC Bundle Header 2.5.0 (p1) -->
+<!--noindex-->
+  <div class="page_margins">
+    <div id="header" class="header">
+    <div class="brand">
+        <a href="/news/"><img class="print" src="/cm/lb/8212706/data/news-logo-2017---desktop-print-data.png" alt="ABC News" width="387" height="100" />
+                <img class="noprint" src="/cm/lb/8212704/data/news-logo2017-data.png" alt="ABC News" width="242" height="80" />
+                </a></div>
+      <a href="/news/australia/" class="location-widget">Australia</a><a href="/news/weather/" class="weather-widget">Weather</a></div>
+  <div id="nav" class="nav">           
+  <ul id="primary-nav">
+        <li id="n-justin" class=""><a href="/news/justin/">Just In</a></li><li id="n-politics" class=""><a href="/news/politics/">Politics</a></li><li id="n-world" class=""><a href="/news/world/">World</a></li><li id="n-business" class=""><a href="/news/business/">Business</a></li><li id="n-analysis-and-opinion" class=""><a href="/news/analysis-and-opinion/">Analysis</a></li><li id="n-sport" class=""><a href="/news/sport/">Sport</a></li><li id="n-science" class=""><a href="/news/science/">Science</a></li><li id="n-health" class=""><a href="/news/health/">Health</a></li><li id="n-arts-culture" class=""><a href="/news/arts-culture/">Arts</a></li><li id="n-factcheck" class=""><a href="/news/factcheck/">Fact Check</a></li><li id="n-more" class=""><a href="/news/more/">Other</a></li></ul>
+  </div>
+<!-- A modules - start -->
+  <!-- A modules - end -->
+  <div class="page section">
+    <div class="subcolumns">
+    <div class="c75l">
+      <!-- B modules - start -->
+      <div class="article section">
+  
+
+<div class="tools">
+  
+    
+  
+  <a class="button"
+     href="https://www2b.abc.net.au/EAF/View/MailToQuery.aspx?https://www.abc.net.au/news/2020-04-26/netherlands-pay-reparations-indonesia-colonial-violence-1940s/12114892"><span>Email</span></a>
+</div><!--endnoindex-->
+  <h1>The Netherlands will pay reparations to Indonesian victims of colonial atrocities. Could the UK do the same?</h1><div class="byline">
+      By <a href="/news/11029686" target="_self" title="">Max Walden</a></div>
+  
+
+
+
+  
+  
+    
+      <p class="published">
+        Posted 
+    <span class="timestamp">
+      April 26, 2020 08:06:56
+    </span>
+      </p>
+    
+  
+
+<div class="inline-content photo full">
+    <a href="/news/2020-04-26/andi-monji-and-his-wife-1/12146994">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/12146982-3x2-700x467.jpg" alt="Andi Monji, who was forced to watch his father executed as a child, stands outside court with a woman." title="Andi Monji outside court" width="700" height="467"/>
+</a><a href="/news/2020-04-26/andi-monji-and-his-wife-1/12146994" class="inline-caption"><strong>
+        Photo:</strong>
+       Andi Monji's lawyer says the Netherlands needs to take a hard look at its past. <span class="source">(Supplied: M. van Pagee)</span>
+      </a></div>
+<div class="attached-content">
+      <div class="inline-content story left">
+    <a href="/news/2018-12-09/yaseman-war-crime-case-dutch-army-indonesia-1940s/10551594"><strong>Related Story:</strong>
+       Tortured by the Dutch, a poor farmer&#039;s case is reopening a dark colonial past</a></div>
+<div class="inline-content story left">
+    <a href="/news/2020-01-25/moree-community-marks-massacre-on-australia-day/11897188"><strong>Related Story:</strong>
+       Nearly 200 years ago on January 26, 40 Aboriginal people were killed. Their descendants don&#039;t celebrate Australia Day</a></div>
+<div class="inline-content story left">
+    <a href="/news/2020-04-22/aboriginal-mothers-fear-children-will-be-taken-away/12166450"><strong>Related Story:</strong>
+       &#039;This has been happening for generations&#039;: Aboriginal mothers fear their children will be taken</a></div>
+<div class="inline-content map left">
+      <div class="story-map"></div>
+      <a class="inline-caption" href="http://maps.google.com/?q=-5,120(Indonesia)&amp;z=5">
+        <strong>Map: </strong>
+        Indonesia</a>
+    </div>
+  </div>
+  <p>Andi Monji was 10 years old when he was forced to watch his father executed in front of him.</p><p>The 83-year-old Indonesian man, who had travelled to The Hague to testify in front of a Dutch court, was last month awarded 10,000 euros ($17,000) as compensation for the murder.</p><p>"His father Mr Monjong was one of more than 200 men to be summarily executed during the purge of the village of Suppa on January 28, 1947," Mr Monji's lawyer Liesbeth Zegveld told the ABC.</p><p>While it has resisted paying reparations, the Dutch Government has formally apologised for the brutal violence it inflicted across the Indonesian archipelago during the 1940s.</p><p>Many atrocities occurred as the Netherlands resisted the creation of an Indonesian nation after founding father Sukarno proclaimed independence on August 17, 1945.</p><p>So what are the international implications of recognising colonial-era massacres, and could similar cases be lodged on behalf of Australian Aboriginal victims of colonial violence?</p><div class="inline-content wysiwyg full">
+<div class="inner">
+  <a href="https://iview.abc.net.au/collection/walking-together" target="_self" title=""><img alt="" class="float--none" xml:lang="none" src="/cm/lb/11984474/data/walking-together-banner-data.jpg"/> </a> </div>
+</div><p> </p><h2>Murder in the village of Suppa</h2><p>Dutch attempts to reconquer Indonesia in the 1940s were euphemistically referred to as "police actions" against "terrorists" and nationalist "extremists".</p><p>According to historian Chris Lorenz, "the Dutch government at first tried to represent its last colonial war as a continuation of the Second World War, that is, as a continuing struggle of Dutch democracy against 'fascist' Japan."</p><p>But in reality, the fading Dutch empire was waging counter-guerrilla warfare in a desperate attempt to regain its resource-rich South-East Asian colony.</p><div class="inline-content photo full">
+    <a href="/news/2020-04-26/dutch-soldiers-during-police-action-in-indonesia-in-1947--2/12136260">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/10568074-3x2-700x467.jpg" alt="Four men in military uniforms poke their heads out of a tank with a portrait of Indonesian leader Soekrano stuck to the front" title="Dutch soldiers during &#039;police action&#039; in Indonesia in 1947" width="700" height="467"/>
+</a><a href="/news/2020-04-26/dutch-soldiers-during-police-action-in-indonesia-in-1947--2/12136260" class="inline-caption"><strong>
+        Photo:</strong>
+       Dutch soldiers in Malang, Indonesia in 1947 as part of "police action". <span class="source">(Dutch National Archives )</span>
+      </a></div><p> </p><p>In Celebes, now the Indonesian province of South Sulawesi, Dutch troops used what would come to be known as the brutal "Westerling method".</p><p>This entailed storming villages and separating men from the women and children. Men suspected of harbouring anti-Dutch attitudes were summarily executed.</p><p>A Dutch inquiry in the 1950s found that more than 3,000 men had been murdered over a three-month period. Indonesian estimates have the figure as much higher.</p><div class="inline-content photo right">
+    <a href="/news/2020-04-26/andi-monji-1/12185246">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/12185234-1x1-340x340.jpg" alt="Elderly Indonesian man Andi Monji poses for a photo." title="Andi Monji" width="340" height="340"/>
+</a><a href="/news/2020-04-26/andi-monji-1/12185246" class="inline-caption"><strong>
+        Photo:</strong>
+       Andi Monji is among Indonesian victims compensated for killings, torture and rapes committed by Dutch forces. <span class="source">(Supplied: Yayasan KUKB)</span>
+      </a></div><p> </p><p><a href="/news/2018-12-09/yaseman-war-crime-case-dutch-army-indonesia-1940s/10551594" target="_self" title="">Mr Monji's case is not the first time Ms Zegveld has achieved justice for victims in Indonesia.</a></p><p>"We have managed to obtain reparations in the form of moral damages for an Indonesian woman who was gang-raped by the Dutch army during the purge of her village in 1949, as well as for an Indonesian man who was tortured whilst in Dutch captivity in 1947," she told the ABC.</p><p>"The colonial times of a country like the Netherlands have, in the past, usually been presented as a source of national pride," Ms Zegveld said.</p><blockquote class="quote--pullquote"><p>"I think it is important that the State of the Netherlands takes a long, hard look at its colonial past."</p></blockquote><h2>A history of violence in Indonesia</h2><p>Dutch rule of Indonesia was bloody.</p><p>The 1740 Batavia massacre, referred to in Dutch as Chinezenmoord (murder of the Chinese), saw Dutch soldiers massacre up to an estimated 10,000 ethnic Chinese in what is now Jakarta.</p><div class="inline-content photo right">
+    <a href="/news/2020-04-26/map-of-batavia-1/12114968">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/12114954-3x2-340x227.jpg" alt="An historical Dutch map of Batavia, the previous name for today&#039;s Indonesian capital Jakarta." title="Map of Batavia" width="340" height="227"/>
+</a><a href="/news/2020-04-26/map-of-batavia-1/12114968" class="inline-caption"><strong>
+        Photo:</strong>
+       An historical Dutch map of Batavia, the previous name for today's Indonesian capital Jakarta. <span class="source">(Supplied: Dutch National Archive)</span>
+      </a></div><p> </p><p>In December 1947, Dutch troops killed an estimated 431 people in the village of Rawagede for not revealing the whereabouts of a nationalist leader they were hunting.</p><p>2011 was the first time the Dutch state acknowledged colonial-era atrocities by apologising for the Rawagede massacre.</p><p>"In this context and on behalf of the Dutch government, I apologise for the tragedy that took place in Rawagede on December 9, 1947," said then-ambassador to Indonesia, Tjeerd de Zwaan.</p><div class="inline-content photo full">
+    <a href="/news/2020-04-26/village-massacred-in-aceh-1/12131934">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/12131918-3x2-700x467.jpg" alt="Villagers massacred by the Dutch lie dead." title="Village massacred in Aceh" width="700" height="467"/>
+</a><a href="/news/2020-04-26/village-massacred-in-aceh-1/12131934" class="inline-caption"><strong>
+        Photo:</strong>
+       Villagers in Aceh, Indonesia lie massacred during a Dutch expedition in 1904. <span class="source">(Supplied: Tropenmuseum)</span>
+      </a></div><p> </p><p>Then in 2013, Mr de Zwaan apologised for all "excesses committed by Dutch forces" between 1945 and 1949 — particularly in Celebes and Rawagede.</p><blockquote class="quote--pullquote"><p>"Sometimes it is very important to be able to look back in order to be able to look one another straight in the eyes and be able to move forward together."</p></blockquote><p>In March this year, King Willem-Alexander of the Netherlands expressed regret and apologised "for the excessive violence on the part of the Dutch in those years", referring to the 1940s.</p><p>"I do so with full awareness that the pain and sorrow of the affected families will be felt for generations," the King said during a joint press conference with Indonesian President Joko Widodo.</p><div class="inline-content photo full">
+    <a href="/news/2020-04-26/king-willem-alexander-and-jokowi-1/12114932">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/12114916-3x2-700x467.jpg" alt="The Netherland&#039;s King Willem-Alexander and Indonesia&#039;s President Joko Widodo talk to the media." title="King Willem-Alexander and Jokowi" width="700" height="467"/>
+</a><a href="/news/2020-04-26/king-willem-alexander-and-jokowi-1/12114932" class="inline-caption"><strong>
+        Photo:</strong>
+       King Willem-Alexander apologised for "excessive violence" by Dutch forces during a meeting with Indonesia's President Joko Widodo in March. <span class="source">(Reuters: Sigid Kurniawan via Antara Foto)</span>
+      </a></div><p> </p><p>"Note that the Dutch king did not apologise for colonialism or even violence, just 'excessive' violence," said Dirk Moses, a professor of genocide history at the University of Sydney.</p><blockquote class="quote--pullquote"><p>"So it seems he's not denying the right of the Dutch to reconquer their colonies, just the way they went about it.</p></blockquote><p>"Like the British, the Dutch regarded their rule as enlightened and progressive compared, say, to the Spanish."</p><h2>Right to reparations 'enshrined in international law'</h2><p>Survey data published by pollster YouGov last month found that Dutch and British respondents were the most likely to see former empire more as a source of pride than shame.</p><p>Some 33 per cent of Britons said countries colonised were better off because of colonisation, as opposed to just 17 per cent who said they were worse off.</p><p>But at least <a href="/news/2019-11-18/dozens-of-massacre-sites-added-to-map-of-aboriginal-killings/11707916" target="_self" title="">8,400 mainly Aboriginal and Torres Strait Islander people were killed by colonists</a> between 1788 and 1930, according to research led by the University of Newcastle.</p><div class="inline-content photo full">
+    <a href="/news/2020-04-26/wyndham-chain-gang-2/12167662">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/11711454-3x2-700x467.jpg" alt="A group of Aboriginal people chained together near Wyndham, WA." title="Wyndham chain gang" width="700" height="467"/>
+</a><a href="/news/2020-04-26/wyndham-chain-gang-2/12167662" class="inline-caption"><strong>
+        Photo:</strong>
+       After a massacre, those Aboriginal people who were not killed were often enslaved. <span class="source">(Supplied: State Library of Victoria)</span>
+      </a></div><p> </p><p>Asked whether Aboriginal Australians could be entitled to reparation payments from Britain, Ms Zegveld said "absolutely".</p><p>"There are victims alive today who suffered as a result of that violence," she said.</p><p>June Oscar, Australia's Aboriginal and Torres Strait Islander Social Justice Commissioner, agreed. </p><div class="inline-content wysiwyg right">
+<div class="inner">
+  <h2><a href="/news/2019-11-18/dozens-of-massacre-sites-added-to-map-of-aboriginal-killings/11707916" target="_self" title="Mapping frontier massacres">Mapping frontier massacres</a></h2><a href="/news/2019-11-18/dozens-of-massacre-sites-added-to-map-of-aboriginal-killings/11707916" target="_self" title="Mapping frontier massacres"><img alt="Mapping frontier massacres" class="float--none" xml:lang="none" src="/cm/lb/12147026/data/colonial-massacres-teaser-data.jpg"/> </a> <br/><a href="/news/2019-11-18/dozens-of-massacre-sites-added-to-map-of-aboriginal-killings/11707916" target="_self" title="Mapping frontier massacres">Researchers behind the Colonial Frontier Massacres project, documenting the slaying of at least 8,400 mainly Aboriginal and Torres Strait Islander people by colonists between 1788 and 1930, have added 53 new sites to its map.</a></div>
+</div><p> </p><p>"The right of Indigenous peoples to remedy and reparation for what they have lost and suffered as a result of colonisation is enshrined in international law," Ms Oscar told the ABC.</p><blockquote class="quote--pullquote"><p>"Measures must include public truth-telling, access to justice for victims, and processes for restitution and compensation."</p></blockquote><p>A declaration adopted by the UN General Assembly in 2005 declared the "right to benefit from remedies and reparation" for victims of gross human rights violations.</p><p>This echoed the Rome Statute, which established the International Criminal Court in 1998, declaring principles "relating to reparations to, or in respect of, victims, including restitution, compensation and rehabilitation."</p><h2>Aboriginal children remain 10 times more likely to be taken</h2><p>A spokesperson for the British Foreign and Commonwealth Office told the ABC that "the UK is fully committed to promoting and protecting human rights for all individuals without discrimination on any grounds."</p><blockquote class="quote--pullquote"><p>"There is no disputing that some communities — including indigenous peoples — suffered during colonial times," the spokesperson said.</p></blockquote><p>"We are doing our utmost to address modern day discrimination and intolerance, and ensure that current and future generations do not forget what happened."</p><p>Among the initiatives aimed at engaging Aboriginal Australians is the provision of three postgraduate scholarships to Indigenous candidates per year to study at Cambridge or Oxford Universities, they said.</p><div class="inline-content photo full">
+    <a href="/news/2020-04-26/june-oscar-1/12163742">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/12163730-3x2-700x467.jpg" alt="Aboriginal and Torres Strait Islander Social Justice Commissioner June Oscar." title="June Oscar" width="700" height="467"/>
+</a><a href="/news/2020-04-26/june-oscar-1/12163742" class="inline-caption"><strong>
+        Photo:</strong>
+       Aboriginal and Torres Strait Islander Social Justice Commissioner June Oscar says Australia must stop ongoing violations against Indigenous people. <span class="source">(Supplied: Australian Human Rights Commission)</span>
+      </a></div><p> </p><div class="inline-content wysiwyg right">
+<div class="inner">
+  <h2><a href="https://iview.abc.net.au/collection/walking-together" target="_self" title="">Walking Together</a></h2><a href="https://iview.abc.net.au/collection/walking-together" target="_self" title=""><img alt="Walking Together" class="float--none" xml:lang="none" src="/cm/lb/11980140/data/walking-together-branding-data.jpg"/> </a> <br/><a href="https://iview.abc.net.au/collection/walking-together" target="_self" title="">An ABC-wide initiative to reflect, listen and build on the shared national identity of Indigenous and non-Indigenous people.</a></div>
+</div><p> </p><p>"Aboriginal and Torres Strait Islander peoples have a right not only to reparations for harms done in the past, but to effective measures aimed at the cessation of continuing violations, and to guarantees of non-repetition," Ms Oscar said.</p><p>"Without the latter, we do not see meaningful change. <a href="/news/2018-02-13/stolen-generations-apology-10-years-on-what-good-was-it/9422718" target="_self" title="">For example, despite prime minister Kevin Rudd's apology in 2008</a>, we have seen the rate at which Aboriginal and Torres Strait Islander children are removed from their homes increase."</p><p><a href="/news/2020-04-22/aboriginal-mothers-fear-children-will-be-taken-away/12166450" target="_self" title="">National research shows Indigenous children are 10 times more likely </a>to be removed from their families than other Australian children, and they make up 36 per cent of children living away from their parents in Australia.</p><p>An estimated <a href="/news/2018-01-31/removing-children-indigenous-communities-national-disaster/9374866" target="_self" title="">17,664 Aboriginal and Torres Strait Islander children were in out-of-home care in 2017</a>, compared with 9,070 a decade prior.</p><p>"We need acknowledgement that the system is broken, to reset the relationship between government and our peoples, and to implement processes of co-design and shared decision-making at all levels of government," Ms Oscar said.</p><div class="inline-content wysiwyg full">
+<div class="inner">
+  <h2>More stories from Walking Together:</h2><ul><li><a href="https://iview.abc.net.au/collection/walking-together" target="_self" title="">Watch special coverage on iView</a></li><li><a href="/news/2020-04-20/captain-cook-history-what-we-often-get-wrong/12042438" target="_self" title="">What Australians often get wrong about Captain Cook</a></li><li><a href="/news/2020-04-18/captain-james-cook-first-sighting-of-endeavour-yuin-people/12151356" target="_self" title="">The story of Captain Cook's first sighting of Australia, as remembered by the Yuin people</a></li><li><a href="/news/2020-03-11/patyegarang-and-how-she-preserved-the-gadigal-language/12022646" target="_self" title="">Patyegarang: Australia's first teacher of Aboriginal language</a></li><li><a href="/news/2020-04-17/calls-temporary-release-of-indigenous-inmates-due-to-coronavirus/12138300" target="_self" title="">Calls for early release of Indigenous inmates during COVID-19</a></li><li><a href="/news/2020-02-14/service-providers-allegedly-barred-from-remote-communities/11965458" target="_self" title="">Centrelink and Medicare staff allegedly barred from remote Aboriginal communities</a></li><li><a href="/news/2020-02-05/indigenous-education-officers-set-for-bachelor-of-education/11919132" target="_self" title="">'This would benefit us, big time': Push for more Indigenous teachers</a></li><li><a href="/news/2020-02-12/closing-the-gap-report-2019-indigenous-outcomes-not-on-track/11949712" target="_self" title="">Morrison vows to scrap 'government-knows-best' approach to failed Indigenous policy</a></li><li><a href="/news/2020-02-11/high-court-rules-aboriginal-people-cant-be-deported/11953012" target="_self" title="">Man released from detention as High Court rules Aboriginal people cannot be deported</a></li><li><a href="/news/2020-02-07/fitzroy-crossing-leads-way-in-battle-against-grog-and-gambling/11940382" target="_self" title="">'Enough is Enough': Fitzroy Crossing takes the lead in grog, gambling battle</a></li><li><a href="/news/science/2020-02-06/gwion-rock-art-in-kimberley-dated-using-wasp-nests/11924584" target="_self" title="">Australian rock art dated using wasp nests</a></li><li><a href="/news/2020-02-05/bushfires-and-history-of-australia-trees-carving-colonisation/11913214" target="_self" title="">How trees reveal the desperate anxiety of Europeans to mark places that weren't theirs</a></li><li><a href="/news/2020-02-17/indigenous-researcher-corey-tutt-aboriginal-stem-abc-heywire/11951558" target="_self" title="">Can you imagine your careers counsellor telling you your options after school were a trade, jail or death?</a></li></ul></div>
+</div><p> </p>
+
+
+<p class="topics">
+	<strong>Topics:</strong>
+	
+	<a href="/news/topic/world-politics">world-politics</a>,
+
+
+	
+	<a href="/news/topic/colonialism">colonialism</a>,
+
+
+	
+	<a href="/news/topic/politics-and-government">politics-and-government</a>,
+
+
+	
+	<a href="/news/topic/government-and-politics">government-and-politics</a>,
+
+
+	
+	<a href="/news/topic/world-war-2">world-war-2</a>,
+
+
+	
+	<a href="/news/topic/history">history</a>,
+
+
+	
+	<a href="/news/topic/indigenous-aboriginal-and-torres-strait-islander">indigenous-aboriginal-and-torres-strait-islander</a>,
+
+
+	
+	<a href="/news/topic/indonesia">indonesia</a>,
+
+
+	
+	<a href="/news/topic/netherlands">netherlands</a>,
+
+
+	
+	<a href="/news/topic/united-kingdom">united-kingdom</a>,
+
+
+	
+	<a href="/news/topic/australia">australia</a>,
+
+
+	
+	<a href="/news/topic/asia">asia</a>
+	
+</p>
+
+<!--noindex-->
+  </div>
+<!-- B modules - end -->
+    </div>
+    <div class="c25r sidebar">
+    <!-- Sidebar modules - start -->
+    <div class="inline-content uberlist uberlist-features boxed boxed-titles show-image-icon-doctypes exclude-current sidebar">
+
+  <div class="section module-heading">
+      <h2>Walking Together</h2>
+        </div>
+  <div class="section module-body">
+    <ol data-cmid="11980228" data-cmjson="https://www.abc.net.au/news/ajax/11980228/json"
+>
+      <li class="doctype-external-link" data-image-cmid="11980448" data-cmid="11980186" data-importance="0" data-first-published="2020-02-20T13:07+1100" data-last-published="2020-02-20T13:07+1100"
+>
+    <h3>
+        <a href="https://iview.abc.net.au/collection/walking-together">Walking Together: Special coverage on iview</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="8844054" data-cmid="12042438" data-importance="5" data-first-published="2020-04-20T06:34+1000" data-last-published="2020-04-20T06:34+1000"
+>
+    <h3>
+        <a href="/news/2020-04-20/captain-cook-history-what-we-often-get-wrong/12042438">What Australians often get wrong about Captain Cook</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="12151250" data-cmid="12151356" data-importance="5" data-first-published="2020-04-18T11:51+1000" data-last-published="2020-04-19T10:36+1000"
+>
+    <h3>
+        <a href="/news/2020-04-18/captain-james-cook-first-sighting-of-endeavour-yuin-people/12151356">The other story of Captain Cook&#039;s first sighting of Australia, as remembered by the Yuin people</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="12133638" data-cmid="12133382" data-importance="5" data-first-published="2020-04-16T08:11+1000" data-last-published="2020-04-16T11:38+1000"
+>
+    <h3>
+        <a href="/news/2020-04-16/palm-island-comedians-use-humour-to-heal-the-soul/12133382">Palm Island comedians use humour &#039;like soul medicine&#039; to lift residents&#039; spirits</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="12145018" data-cmid="12017770" data-importance="5" data-first-published="2020-04-13T20:31+1000" data-last-published="2020-04-13T20:31+1000"
+>
+    <h3>
+        <a href="/news/about/backstory/regional/2020-04-13/making-abc-this-place-indigenous-artist-series/12017770">Capturing the stories of Indigenous artists&#039; connection to country</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11059900" data-cmid="12138300" data-importance="4" data-first-published="2020-04-17T05:55+1000" data-last-published="2020-04-17T10:36+1000"
+>
+    <h3>
+        <a href="/news/2020-04-17/calls-temporary-release-of-indigenous-inmates-due-to-coronavirus/12138300">Calls for early release of Indigenous inmates during COVID-19</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="12068496" data-cmid="12068294" data-importance="5" data-first-published="2020-03-22T09:10+1100" data-last-published="2020-03-22T09:12+1100"
+>
+    <h3>
+        <a href="/news/2020-03-22/wallaga-lake-indigenous-fishermen-revive-net-fishing-tradition/12068294">Fishermen revive Indigenous net fishing tradition in landmark collaboration</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="12025650" data-cmid="12025380" data-importance="5" data-first-published="2020-03-06T08:29+1100" data-last-published="2020-03-06T10:08+1100"
+>
+    <h3>
+        <a href="/news/2020-03-06/milton-nura-gunyu-replanting-bushfire-helped-by-community/12025380">This bush tucker man&#039;s home &#039;blew apart&#039; in bushfires. But before rebuilding he&#039;s growing food for birds</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="12022652" data-cmid="12022646" data-importance="4" data-first-published="2020-03-11T06:36+1100" data-last-published="2020-03-11T06:36+1100"
+>
+    <h3>
+        <a href="/news/2020-03-11/patyegarang-and-how-she-preserved-the-gadigal-language/12022646">Patyegarang: Australia&#039;s first teacher of Aboriginal language</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11863526" data-cmid="11862894" data-importance="4" data-first-published="2020-04-12T05:00+1000" data-last-published="2020-04-13T10:02+1000"
+>
+    <h3>
+        <a href="/news/2020-04-12/tracing-my-family-tree-stolen-generation-yuin-country-nsw/11862894">On paper, our family tree starts in the 1800s. But it&#039;s only the beginning of the story</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11898892" data-cmid="11899106" data-importance="4" data-first-published="2020-01-25T08:32+1100" data-last-published="2020-01-25T08:32+1100"
+>
+    <h3>
+        <a href="/news/2020-01-25/baker-boy-hip-hop-yolngu-young-australian-of-the-year/11899106">&#039;There&#039;s not many Yolngu people doing what I&#039;m doing&#039;: Baker Boy reflects on his big year</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="12017942" data-cmid="12017492" data-importance="5" data-first-published="2020-03-03T15:49+1100" data-last-published="2020-03-03T21:14+1100"
+>
+    <h3>
+        <a href="/news/2020-03-03/documentary-sheds-light-on-returning-ancestors-to-country/12017492">Victorian museums ripped Bonnie&#039;s ancestors from country. Now she&#039;s bringing them home</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="12001408" data-cmid="12009612" data-importance="5" data-first-published="2020-02-29T09:03+1100" data-last-published="2020-02-29T09:03+1100"
+>
+    <h3>
+        <a href="/news/2020-02-29/remote-sergeant-turns-teens-lives-around-through-peet-program/12009612">Police officer helps troubled teen turn himself into a &#039;massive success story&#039;</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11953402" data-cmid="11985958" data-importance="5" data-first-published="2020-02-22T07:03+1100" data-last-published="2020-02-27T13:01+1100"
+>
+    <h3>
+        <a href="/news/2020-02-22/indigenous-australian-artist-vernon-ah-kee-the-island-exhibition/11985958">Brisbane artist draws parallels between treatment of asylum seekers and Indigenous Australians</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11954690" data-cmid="11954662" data-importance="4" data-first-published="2020-02-12T09:12+1100" data-last-published="2020-02-12T11:13+1100"
+>
+    <h3>
+        <a href="/news/2020-02-12/high-court-love-and-thoms-aboriginal-connection-to-land/11954662">Yes, Aboriginal people have special legal rights. This is why.</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11967942" data-cmid="11967498" data-importance="5" data-first-published="2020-02-17T05:53+1100" data-last-published="2020-02-17T17:46+1100"
+>
+    <h3>
+        <a href="/news/2020-02-17/perth-festival-review-week-of-indigenous-art-theatre-culture/11967498">Joyous, profound, challenging: This festival programmed exclusively Indigenous work for a week</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11838972" data-cmid="11837360" data-importance="4" data-first-published="2020-02-06T06:00+1100" data-last-published="2020-02-06T17:46+1100"
+>
+    <h3>
+        <a href="/news/2020-02-06/faith-on-a-sinking-ship-torres-strait-climate-change/11837360">&#039;To everybody else this place is sinking. It will never sink&#039;</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11913570" data-cmid="11913288" data-importance="5" data-first-published="2020-02-16T07:30+1100" data-last-published="2020-02-15T20:03+1100"
+>
+    <h3>
+        <a href="/news/2020-02-16/indigenous-pottery-in-doomadgee/11913288">There&#039;s a new pastime in this tiny Gulf town — and it&#039;s proving to be a surprising hit</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11965692" data-cmid="11963888" data-importance="5" data-first-published="2020-02-15T12:23+1100" data-last-published="2020-02-15T12:23+1100"
+>
+    <h3>
+        <a href="/news/2020-02-15/brooke-blurton-blakbusiness-show-indigenous-youth-turn-to-social/11963888">New kind of activism as Indigenous youth use social media to educate</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11944924" data-cmid="11942946" data-importance="5" data-first-published="2020-02-07T19:23+1100" data-last-published="2020-02-08T01:19+1100"
+>
+    <h3>
+        <a href="/news/2020-02-07/landmark-yamatji-nation-native-title-declaration-in-wa/11942946">&#039;It is your land&#039;: Traditional owners granted native title and funding deal in Australian first</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11946636" data-cmid="11946708" data-importance="5" data-first-published="2020-02-10T09:57+1100" data-last-published="2020-02-10T10:11+1100"
+>
+    <h3>
+        <a href="/news/2020-02-10/piinpi-exhibition-to-showcase-indigenous-contemporary-fashion/11946708">New blockbuster exhibition to showcase Indigenous culture through fashion</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11957614" data-cmid="11949712" data-importance="4" data-first-published="2020-02-12T06:02+1100" data-last-published="2020-02-13T01:42+1100"
+>
+    <h3>
+        <a href="/news/2020-02-12/closing-the-gap-report-2019-indigenous-outcomes-not-on-track/11949712">Morrison vows to scrap &#039;government-knows-best&#039; approach to failed Indigenous policy</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11958060" data-cmid="11951558" data-importance="4" data-first-published="2020-02-17T11:45+1100" data-last-published="2020-03-11T15:36+1100"
+>
+    <h3>
+        <a href="/news/2020-02-17/indigenous-researcher-corey-tutt-aboriginal-stem-abc-heywire/11951558">Can you imagine your careers counsellor telling you your options after school were a trade, jail or death?</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11969216" data-cmid="11964904" data-importance="5" data-first-published="2020-02-17T08:49+1100" data-last-published="2020-02-17T08:49+1100"
+>
+    <h3>
+        <a href="/news/2020-02-17/skateboarding-an-agent-of-change-for-the-kids-of-onslow/11964904">In a town with no team sports, skateboarding is a force for change</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11925384" data-cmid="11886926" data-importance="5" data-first-published="2020-02-07T06:01+1100" data-last-published="2020-02-07T06:01+1100"
+>
+    <h3>
+        <a href="/news/2020-02-07/indigenous-art-and-pilbara-in-nitv-slow-tv-documentary-marni/11886926">Viewers get a unique fly-on-the-wall glimpse of an artist at work in new take on &#039;slow TV&#039;</a></h3>
+    </li>
+</ol>
+  </div>
+
+  </div>
+  <div class="section localised-top-stories">
+        <div class="inner">
+          <h2>Top Stories</h2>
+          
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/cmo-brendan-murphy-change-interactions-to-beat-coronavirus/12189702">We all have to change the way we interact, Chief Medical Officer says</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/trumps-disinfectant-comments-coronavirus-briefing-fallout/12188160">The fallout from Trump&#039;s disinfectant comments has just begun</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/how-japan-pm-shinzo-abe-fumbled-coronavirus-response/12189076">Analysis: Japan&#039;s infections continue to rise as its neighbours&#039; curves flatten. How did it go so wrong?</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/police-officer-killed-in-melbourne-crash-kevin-king-remembered/12190326">Family mourns &#039;big softie&#039; police officer killed in freeway crash</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/science/2020-04-27/covidsafe-contact-tracing-app-coronavirus-privacy-security/12186044">Will COVIDSafe keep your data secure? Here&#039;s what the experts say</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-pm-johnson-says-britain-beginning-to-turn-the-tide/12190768">Boris Johnson says Britain is beginning to turn the tide on &#039;invisible mugger&#039; coronavirus</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/nrl-players-under-investigation-for-breach-of-coronavirus-rules/12188192"><em>SPORT</em>
+      NRL players fined $1,000 for camping trip amid coronavirus lockdown</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/commonwealth-ordered-pay-costs-biloela-family-appeal/12189602">Commonwealth ordered to pay more than $200,000 in costs over Biloela asylum seeker case</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/claims-coronavirus-spread-after-party-dismissed-by-tas-police/12187922">Claims coronavirus spread due to &#039;illegal party&#039; of health workers quashed by Tasmania Police</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-uncertainty-increasing-anxiety-mental-health/12182736">&#039;You just can&#039;t breathe&#039;: Learning to cope with anxiety brought on by coronavirus</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/wa-coronavirus-restrictions-eased-what-you-can-cannot-do/12188382">Here is what you can and can&#039;t do in WA now coronavirus restrictions have partially eased</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/victorian-government-backs-unredacted-royal-commission-findings/12190760">Victorian Government backs release of unredacted Royal Commission findings on child sex abuse</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/nab-goes-to-share-market-for-more-than-3-billion/12188112">NAB asks shareholders for $3.5b to protect the bank against &#039;very uncertain times&#039;</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-fight-in-new-york-different-from-australia/12181004">Troy Roberts escaped New York and has a message for Australians doubting the coronavirus threat</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/satellite-images-of-train-spark-new-kim-jong-un-speculation/12187720">Satellite imagery sparks more speculation on North Korean leader Kim Jong-un</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/how-to-download-the-covidsafe-app-and-the-issues-you-can-expect/12188156">How to download the COVIDSafe app and the issues you can expect</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-update-australia-covid19-germany-refutes-china-pitt/12187626">Coronavirus update: China wants praise for its handling of pandemic, Italy plans to ease lockdown</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/new-zealand-white-island-volcano-disaster-four-corners/12150706">Passengers told &#039;absolutely nothing&#039; about NZ volcano eruption risks to sue Royal Caribbean</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-teachers-return-to-school-celebrities-show-support/12188268">Celebrities rally behind &#039;rockstar&#039; Australian teachers working through coronavirus</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/great-time-to-try-baking-sourdough/12189360">A bread revolution is coming to a kitchen near you</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/north-korea-succession-plan-if-kim-jong-un-dies/12187266">The next ruler of North Korea could be a woman. One man might stand in her way</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/craig-mclachlan-attempted-indecent-assault-charge-dropped/12188118">Attempted indecent assault charge against Craig McLachlan dropped</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/spains-children-allowed-outside-coronavirus-restrictions-ease/12188106">Spain&#039;s children play outside for first time in six weeks as coronavirus restrictions ease</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-critical-juncture-china-the-west-world-order/12179972">Opinion: Now China is staring down the West just as we are at our weakest</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-cases-in-victoria-testing-to-increase/12185900">Victoria&#039;s restrictions could be eased in a fortnight as testing blitz begins</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/sam-neill-cheering-up-business-during-coronavirus/12147500">The comedian of COVID-19: Actor Sam Neill&#039;s &#039;cheering up&#039; business</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-covid-19-spanish-flu-letter-great-grandfather/12152844">100 years ago, my great-grandfather wrote a letter from isolation. It makes for powerful reading now</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/has-new-zealand-done-better-than-australia-on-coronavirus/12182254">Did New Zealand&#039;s coronavirus lockdown need to go so far?</a>
+
+</li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="section graphic">
+  <a href="http://m.me/abcnews.au?ref=welcomefromABCNewshomepage">
+  <img src="/cm/lb/10757972/data/messenger-data.png" alt="Get the headlines to your mobile. NEWS on Messenger." title="Get the headlines to your mobile. NEWS on Messenger." height="70" width="220" />
+  </a>
+</div>
+<div class="connect-with-abc section promo">
+<h2>Connect with ABC News</h2>
+<ul>
+    <li><a href="http://www.facebook.com/abcnews.au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388890/data/facebook-data.png" alt="ABC News on Facebook" title="ABC News on Facebook" width="30" height="30" />
+    </a></li>
+    <li><a href="http://instagram.com/abcnews_au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389068/data/instagram-data.png" alt="ABC News on Instagram" title="ABC News on Instagram" width="32" height="31" />
+    </a></li>
+    <li><a href="http://www.twitter.com/abcnews" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388894/data/twitter-data.png" alt="ABC News on Twitter" title="ABC News on Twitter" width="32" height="27" />
+    </a></li>
+    <li><a href="http://www.youtube.com/newsonabc" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389052/data/youtube-data.png" alt="ABC News on YouTube" title="ABC News on YouTube" width="50" height="22" />
+    </a></li>
+
+    <li><a href="https://apple.news/TsieN9U-WQ0SZbtP1VTI4uQ" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/8458084/data/applenews-data.png" alt="ABC News on Apple News" title="ABC News on Apple News" width="32" height="32" />
+    </a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="section graphic">
+  <a href="/news/feeds/">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="/cm/lb/4745996/thumbnail/news-podcasts-sidebar-graphic-promo-thumbnail.jpg" alt="News Podcasts" title="News Podcasts" class="" width="220" />
+</a></div><div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/tip-off/"
+    >
+  
+
+  
+    
+        <span>Got a news tip?</span>
+    
+    
+  
+
+  </a>
+</h2><p>If you have inside knowledge of a topic in the news, <a href="/news/contact/tip-off/" target="_self" title="">contact the ABC</a>.</p></div>
+  </div>
+<div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/news/about/backstory/"
+    >
+  
+
+  
+    
+        <span>ABC Backstory</span>
+    
+    
+  
+
+  </a>
+</h2><p><a href="https://www.abc.net.au/news/about/backstory/" target="_self" title="">ABC teams share the story behind the story and insights into the making of digital, TV and radio content.</a></p></div>
+  </div>
+<div class="section promo ed-pol ">
+  <div class="inner">
+      <h2><a href="https://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/" target="_self" title="">Editorial Policies</a></h2><p><a href="https://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/" target="_self" title="">Read about our editorial guiding principles and the standards ABC journalists and content makers follow.</a></p><p><a href="https://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/" target="_self" title="">Learn more</a></p></div>
+  </div>
+<!-- Sidebar modules - end -->
+  </div>
+</div>
+</div><!-- C modules - start -->
+  <div class="page section featured-scroller featured-scroller-4 dark">
+<div class="section">
+  <h2>Features</h2>
+  </div>
+<div class="inner">
+  <ol class="subcolumns">
+    <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/radio/programs/coronacast/is-being-overweight-a-bigger-risk-factor-than-smoking/12187340" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/radio/image/12027716-16x9-220x124.jpg" alt="coronacast" title="coronacast" width="220" height="124"/>
+<span class="audio"></span>
+				<span class="label">
+				  Is being overweight a bigger risk factor than smoking? </span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>Obesity is even worse than smoking when for coronavirus risk factors.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2020-03-17/coronavirus-cases-data-reveals-how-covid-19-spreads-in-australia/12060704" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/12179116-16x9-220x124.jpg" alt="Chart showing testing figures for COVID-19" title="Compare COVID-19 testing numbers in your state" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Testing figures surge in all but one jurisdiction</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p class="title">
+        By <a href="/news/inga-ting/8749946" target="_self" title="">Inga Ting</a>, <a href="/news/nathanael-scott/8748130" target="_self" title="">Nathanael Scott</a> and <a href="/news/michael-workman/8768398" target="_self" title="">Michael Workman</a></p>
+		<p>Testing figures have more than doubled in some states. But not every jurisdiction has lifted its numbers.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2020-04-27/coronavirus-homeschool-learning-through-play/12167528" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/12167560-16x9-220x124.jpg" alt="A woman and a child cuddle a dog in the garden" title="Rachel Parker, Lila and Yoyo the dog" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  It&#039;s OK if learning looks a little like play right now</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>Ordinary life can be the inspiration for learning at home.</p>
+	 </div>
+    </li>
+         <li class="c25r">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2020-04-27/jobkeeper-coronavirus-payments-begin-balancing-act-economy/12187664" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/12187696-16x9-220x124.jpg" alt="Large numbers of Australians now need help from Centrelink." title="Centrelink queue" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  JobKeeper payments start flowing</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>The balancing act between beating the coronavirus pandemic and shoring up the economy for the future has never been more delicate.</p>
+	 </div>
+    </li>
+         </ol>
+</div></div><div id="footer-stories" class="page section">
+    <div class="subcolumns">
+    <div class="c25l">
+        <div class="section">
+          <h2>Top Stories</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/cmo-brendan-murphy-change-interactions-to-beat-coronavirus/12189702">We all have to change the way we interact, Chief Medical Officer says</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/trumps-disinfectant-comments-coronavirus-briefing-fallout/12188160">The fallout from Trump&#039;s disinfectant comments has just begun</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/how-japan-pm-shinzo-abe-fumbled-coronavirus-response/12189076">Analysis: Japan&#039;s infections continue to rise as its neighbours&#039; curves flatten. How did it go so wrong?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/police-officer-killed-in-melbourne-crash-kevin-king-remembered/12190326">Family mourns &#039;big softie&#039; police officer killed in freeway crash</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/science/2020-04-27/covidsafe-contact-tracing-app-coronavirus-privacy-security/12186044">Will COVIDSafe keep your data secure? Here&#039;s what the experts say</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-pm-johnson-says-britain-beginning-to-turn-the-tide/12190768">Boris Johnson says Britain is beginning to turn the tide on &#039;invisible mugger&#039; coronavirus</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/nrl-players-under-investigation-for-breach-of-coronavirus-rules/12188192">NRL players fined $1,000 for camping trip amid coronavirus lockdown</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/commonwealth-ordered-pay-costs-biloela-family-appeal/12189602">Commonwealth ordered to pay more than $200,000 in costs over Biloela asylum seeker case</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/claims-coronavirus-spread-after-party-dismissed-by-tas-police/12187922">Claims coronavirus spread due to &#039;illegal party&#039; of health workers quashed by Tasmania Police</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-uncertainty-increasing-anxiety-mental-health/12182736">&#039;You just can&#039;t breathe&#039;: Learning to cope with anxiety brought on by coronavirus</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Just In</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/victorian-government-backs-unredacted-royal-commission-findings/12190760">Victorian Government backs release of unredacted Royal Commission findings on child sex abuse</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-pm-johnson-says-britain-beginning-to-turn-the-tide/12190768">Boris Johnson says Britain is beginning to turn the tide on &#039;invisible mugger&#039; coronavirus</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/commonwealth-ordered-pay-costs-biloela-family-appeal/12189602">Commonwealth ordered to pay more than $200,000 in costs over Biloela asylum seeker case</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/police-officer-killed-in-melbourne-crash-kevin-king-remembered/12190326">Family mourns &#039;big softie&#039; police officer killed in freeway crash</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/quadriplegic-forced-to-turn-to-ebay-for-protective-equipment/12166496">&#039;I fear that I could die&#039;: Adelaide quadriplegic turns to eBay after PPE suppliers run out of stock</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/st-columba-anglican-school-returns-after-coronavirus/12188962">NSW school &#039;does its own thing&#039; to bring back entire campus by May 11</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-uncertainty-increasing-anxiety-mental-health/12182736">&#039;You just can&#039;t breathe&#039;: Learning to cope with anxiety brought on by coronavirus</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/sa-online-learning-learnlink-drops-out-on-first-day-of-term-two/12189476">South Australia&#039;s  online learning system crashes on first day of term two</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/cmo-brendan-murphy-change-interactions-to-beat-coronavirus/12189702">We all have to change the way we interact, Chief Medical Officer says</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/jamie-saxon-appeal-granted-tourist-death-dominick-schulze/12188960">Error in evidence document sees stabbing murder conviction quashed</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Most Popular</h2><ul class="headlines">
+  <li>
+    <a href="/news/2020-04-27/driver-of-truck-in-crash-that-killed-four-police-charged/12187792">Truck driver &#039;deeply saddened and distressed&#039; over crash that killed four police officers</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+<li>
+    <a href="/news/2020-04-27/trumps-disinfectant-comments-coronavirus-briefing-fallout/12188160">The fallout from Trump&#039;s disinfectant comments has just begun</a>
+
+</li>
+<li>
+    <a href="/news/2020-04-27/north-korea-succession-plan-if-kim-jong-un-dies/12187266">The next ruler of North Korea could be a woman. One man might stand in her way</a>
+
+</li>
+<li>
+    <a href="/news/2020-04-27/coronavirus-australia-live-news-covid-19-latest/12187642">Live: Murphy says tracing app data &#039;locked down completely&#039;, source code to be released</a>
+
+</li>
+<li>
+    <a href="/news/2020-03-17/coronavirus-cases-data-reveals-how-covid-19-spreads-in-australia/12060704">Tracking the coronavirus spread: Testing figures surge in all but one jurisdiction</a>
+
+</li>
+<li>
+    <a href="/news/2020-04-27/coronavirus-critical-juncture-china-the-west-world-order/12179972">Now China is staring down the West just as we are at our weakest</a>
+
+</li>
+<li>
+    <a href="/news/2020-04-27/satellite-images-of-train-spark-new-kim-jong-un-speculation/12187720">Satellite imagery sparks more speculation on North Korean leader Kim Jong-un</a>
+
+</li>
+<li>
+    <a href="/news/2020-04-27/coronavirus-tracing-app-covidsafe-one-million-downloads/12187806">COVIDSafe app reaches five-day download goal within five hours</a>
+
+</li>
+<li>
+    <a href="/news/2020-04-27/nab-goes-to-share-market-for-more-than-3-billion/12188112">NAB asks shareholders for $3.5b to protect the bank against &#039;very uncertain times&#039;</a>
+
+</li>
+<li>
+    <a href="/news/2020-04-27/nrl-players-under-investigation-for-breach-of-coronavirus-rules/12188192">NRL players fined $1,000 for camping trip amid coronavirus lockdown</a>
+
+</li>
+</ul></div>
+      </div>
+    <div class="c25r">
+        <div class="section">
+          <h2>Analysis &amp; Opinion</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/how-japan-pm-shinzo-abe-fumbled-coronavirus-response/12189076">Japan&#039;s infections continue to rise as its neighbours&#039; curves flatten. How did it go so wrong?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-homeschool-learning-through-play/12167528">Teaching my daughter at home overwhelmed me — until I remembered a lifechanging technique</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-critical-juncture-china-the-west-world-order/12179972">Now China is staring down the West just as we are at our weakest</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/jobkeeper-coronavirus-payments-begin-balancing-act-economy/12187664">COVID-19 stimulus may not provide the hoped for boost as JobKeeper tensions mount</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-26/coronavirus-covidsafe-tracing-app-creating-unusual-allegiances/12187534">To make it through the coronavirus crisis, politicians are throwing out the rule book</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-26/why-australian-government-crude-oil-purchase-teaches-economics/12185546">There&#039;s a simple lesson in economics we can learn from Australia&#039;s $94m crude oil purchase</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-26/what-does-it-take-to-end-a-drought/12180508">When does a drought end?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-26/coronavirus-tracing-app-fascinating-test/12181404">There&#039;s a lot riding on the coronavirus tracing app — and not just the nation&#039;s health</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-26/coronavirus-rohingya-covid19-coxs-bazar-refugee-camp/12167524">If you find Australian lockdown tough imagine surviving coronavirus here</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-26/finding-solace-during-coronavirus-in-truly-bad-films/12164562">&#039;So bad it&#039;s good&#039;: There&#039;s never been a better time to watch a truly awful movie</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    </div>
+  </div>
+<!-- C modules - end -->
+<div id="footer" class="page section">
+    <!-- program footer-->
+  <div class="subcolumns">
+    <div id="sitemap" class="c75l">
+        <div class="section">
+          <h2>Site Map</h2>
+        </div>
+        <div class="subcolumns">
+          <div class="c16l">
+              <div class="section">
+    <h3>Sections</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/"
+    >
+  
+
+  
+    
+        <span>ABC News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/justin/"
+    >
+  
+
+  
+    
+        <span>Just In</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/world/"
+    >
+  
+
+  
+    
+        <span>World</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/business/"
+    >
+  
+
+  
+    
+        <span>Business</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/health/"
+    >
+  
+
+  
+    
+        <span>Health</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/entertainment/"
+    >
+  
+
+  
+    
+        <span>Entertainment</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/sport/"
+    >
+  
+
+  
+    
+        <span>Sport</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/analysis-and-opinion/"
+    >
+  
+
+  
+    
+        <span>Analysis &amp; Opinion</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/weather/"
+    >
+  
+
+  
+    
+        <span>Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/topics/"
+    >
+  
+
+  
+    
+        <span>Topics</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/archive/"
+    >
+  
+
+  
+    
+        <span>Archive</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/corrections/"
+    >
+  
+
+  
+    
+        <span>Corrections &amp; Clarifications</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local Weather</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/sydney/weather/"
+    >
+  
+
+  
+    
+        <span>Sydney Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/melbourne/weather/"
+    >
+  
+
+  
+    
+        <span>Melbourne Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/adelaide/weather/"
+    >
+  
+
+  
+    
+        <span>Adelaide Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/brisbane/weather/"
+    >
+  
+
+  
+    
+        <span>Brisbane Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/perth/weather/"
+    >
+  
+
+  
+    
+        <span>Perth Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/hobart/weather/"
+    >
+  
+
+  
+    
+        <span>Hobart Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/darwin/weather/"
+    >
+  
+
+  
+    
+        <span>Darwin Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/canberra/weather/"
+    >
+  
+
+  
+    
+        <span>Canberra Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local News</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/sydney/"
+    >
+  
+
+  
+    
+        <span>Sydney News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/melbourne/"
+    >
+  
+
+  
+    
+        <span>Melbourne News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/adelaide/"
+    >
+  
+
+  
+    
+        <span>Adelaide News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/brisbane/"
+    >
+  
+
+  
+    
+        <span>Brisbane News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/perth/"
+    >
+  
+
+  
+    
+        <span>Perth News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/hobart/"
+    >
+  
+
+  
+    
+        <span>Hobart News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/darwin/"
+    >
+  
+
+  
+    
+        <span>Darwin News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/canberra/"
+    >
+  
+
+  
+    
+        <span>Canberra News</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Media</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/video/"
+    >
+  
+
+  
+    
+        <span>Video</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/audio/"
+    >
+  
+
+  
+    
+        <span>Audio</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/photos/"
+    >
+  
+
+  
+    
+        <span>Photos</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Subscribe</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/feeds/"
+    >
+  
+
+  
+    
+        <span>Podcasts</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/news/subscribe"
+    >
+  
+
+  
+    
+        <span>Newsletters</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Connect</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/"
+    >
+  
+
+  
+    
+        <span>Contact Us</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            </div>
+      </div>
+    <!-- right section-->
+    <div class="c25r">
+      <div id="fineprint" class="section">
+        <p>
+          <small>This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.</small>
+        </p>
+        <p>
+          <small>AEST = Australian Eastern Standard Time which is 10 hours ahead of GMT (Greenwich Mean Time)</small>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="platforms">
+      <a href="https://mobile.abc.net.au/news/2020-04-26/netherlands-pay-reparations-indonesia-colonial-violence-1940s/12114892?pfm=sm" class="platform-mobile switch">Change to mobile view</a></div>
+  </div><!-- End footer --></div>
+  <!-- Start Webtrends -->
+  <div class="hide">
+    </div>
+  <!-- End Webtrends -->
+  <!--endnoindex--><!--Global footer-->
+  <!-- Start ABC Bundle Footer 2.5.0 (customised - p1) -->
+<!--noindex-->
+<nav id="abcFooter" class="global" aria-label="ABC Footer Navigation" data-version="2.5.0">
+ <ul>
+  <li><a href="https://about.abc.net.au/terms-of-use/">Terms of Use</a></li>
+  <li><a href="https://about.abc.net.au/abc-privacy-policy/">Privacy Policy</a></li>
+  <li><a href="https://about.abc.net.au/accessibility-statement/">Accessibility</a></li>
+  <li><a href="https://help.abc.net.au/">ABC Help</a></li>
+  <li><a href="https://www.abc.net.au/contact/">Contact the ABC</a></li>
+  <li><a href="https://about.abc.net.au/terms-of-use/#UseOfContent">&copy; <time>2020</time> ABC</a></li>
+ </ul>
+</nav>
+
+<!-- ABC.Bundle Scripts -->
+<script type="text/javascript" src="https://res.abc.net.au/bundles/2.5.0/scripts/abc.bundle.2.5.0.min.js"></script>
+<!-- End ABC.Bundle Scripts -->
+
+<!-- Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<noscript><div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=abc-aust&cg=0&cc=1&ts=noscript" width="1" height="1" alt=""></div></noscript>
+<!-- End Nielsen Online SiteCensus V6.0 -->
+
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+ // <![CDATA[
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-PB2GX');
+ // ]]>
+</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PB2GX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+
+<!-- ABC MyLogin -->
+<script type="text/javascript" src="https://mylogin.abc.net.au/js/abc.mylogin.embedded.js"></script>
+<script type="text/javascript">ABC.MyLoginEmbedded.init();</script>
+<!-- End ABC MyLogin -->
+
+<!--endnoindex-->
+<!-- End ABC Bundle Footer 2.5.0 (p1) -->
+<!--end global footer-->
+  </body>
+  </html>

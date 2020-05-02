@@ -1,0 +1,1009 @@
+<!doctype html>
+<html lang="en" class="en">
+<head itemscope>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, target-densitydpi=medium-dpi">
+<meta name="robots" content="all" />
+<link rel="canonical" id="canonical" href="https://en.yna.co.kr/view/AEN20200427002500325" />
+<meta property="og:url" content="https://en.yna.co.kr/view/AEN20200427002500325" />
+<meta name="twitter:url" content="https://en.yna.co.kr/view/AEN20200427002500325" />
+<meta itemprop="url" content="https://en.yna.co.kr/view/AEN20200427002500325" />
+<meta property="og:type" content="article" />
+<meta name="resource-type" content="article" />
+<meta name="copyright" content="Yonhapnews" />
+<meta property="og:site_name" content="Yonhap News Agency" />
+<meta name="twitter:site" content="@YonhapNews" />
+<meta property="article:publisher" content="https://www.facebook.com/yonhapenglish" />
+<meta name="twitter:creator" content="@YonhapNews" />
+<meta property="og:locale" content="en" />
+<meta itemprop="inLanguage" content="en" />
+<title>N.K. leader sends gratitude to workers at tourist zone amid health rumors | Yonhap News Agency</title>
+<meta property="og:title" content="N.K. leader sends gratitude to workers at tourist zone amid health rumors | Yonhap News Agency">
+<meta name="title" content="N.K. leader sends gratitude to workers at tourist zone amid health rumors | Yonhap News Agency">
+<meta name="twitter:title" content="N.K. leader sends gratitude to workers at tourist zone amid health rumors | Yonhap News Agency">
+<meta itemprop="name" content="N.K. leader sends gratitude to workers at tourist zone amid health rumors | Yonhap News Agency">
+<meta itemprop="headline" content="N.K. leader sends gratitude to workers at tourist zone amid health rumors | Yonhap News Agency" />
+<meta property="og:description" content="By Yi Wonju SEOUL, April 27 (Yonhap) -- North Korean leader Kim Jong-un expressed his g..." />
+<meta name="description" content="By Yi Wonju SEOUL, April 27 (Yonhap) -- North Korean leader Kim Jong-un expressed his g..." />
+<meta name="twitter:description" content="By Yi Wonju SEOUL, April 27 (Yonhap) -- North Korean leader Kim Jong-un expressed his g..." />
+<meta itemprop="description" content="By Yi Wonju SEOUL, April 27 (Yonhap) -- North Korean leader Kim Jong-un expressed his g..." />
+<meta name="news_keywords" content="Kim Jong-un,North Korea" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://img5.yna.co.kr/photo/yna/YH/2019/04/06/PYH2019040601790031500_P4.jpg">
+<meta property="og:image" content="https://img5.yna.co.kr/photo/yna/YH/2019/04/06/PYH2019040601790031500_P4.jpg" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="682" />
+<meta name="image" content="https://img5.yna.co.kr/photo/yna/YH/2019/04/06/PYH2019040601790031500_P4.jpg" />
+<meta itemprop="image" content="https://img5.yna.co.kr/photo/yna/YH/2019/04/06/PYH2019040601790031500_P4.jpg" />
+<meta itemprop="thumbnailUrl" content="https://img5.yna.co.kr/photo/yna/YH/2019/04/06/PYH2019040601790031500_P4.jpg" />
+<link rel="image_src" href="https://img5.yna.co.kr/photo/yna/YH/2019/04/06/PYH2019040601790031500_P4.jpg" />
+<meta property="article:section" content="North Korea" />
+<meta itemprop="genre" content="North Korea" />
+<meta property="article:author" content="https://www.facebook.com/yonhapenglish" />
+<meta property="article:author" content="이원주" />
+<meta name="author" content="이원주" />
+<meta itemprop="publisher" content="이원주" />
+<meta property="article:published_time" content="2020-04-27T10:32:21+09:00" />
+<meta property="article:modified_time" content="2020-04-27T10:32:21+09:00" />
+<link rel="shortcut icon" type="image/x-icon" href="//r.yna.co.kr/global/favicon.ico">
+<link rel="icon" type="image/x-icon" href="//r.yna.co.kr/global/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="//r.yna.co.kr/global/home/v01/img/favicon-180.png">
+<link rel="apple-touch-icon-precomposed" href="//r.yna.co.kr/global/home/v01/img/favicon-120.png">
+<link rel="icon" href="//r.yna.co.kr/global/home/v01/img/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="//r.yna.co.kr/m-global/home/v01/css/default.css?v=20200402_1505">
+<link rel="stylesheet" href="//r.yna.co.kr/m-global/home/v01/css/layout.css?v=20190325_1645">
+<link rel="stylesheet" href="//r.yna.co.kr/m-global/home/v01/css/common.css?v=20190423_1835">
+<link rel="stylesheet" href="//r.yna.co.kr/m-en/home/v01/css/en.css?v=20200402_1505">
+<link rel="stylesheet" href="//r.yna.co.kr/m-global/home/v01/css/ui.css?v=20190226_0850">
+<link rel="stylesheet" type="text/css" href="//r.yna.co.kr/m-global/home/v01/css/weather_ui.css?v=20200402_1505">
+<link rel="stylesheet" href="//r.yna.co.kr/m-global/home/v01/css/weather.css?v=20200402_1505">
+<link rel="stylesheet" href="//r.yna.co.kr/m-global/home/v01/css/app/app-view.css?v=20200402_1505">
+<script src="//r.yna.co.kr/m-global/home/v01/js/jquery-1.12.4.js"></script>
+<script src="//r.yna.co.kr/m-global/home/v01/js/jquery-ui.js"></script>
+<script src="//r.yna.co.kr/m-global/home/v01/js/plugin.js?v=20190610_0910"></script>
+<script src="//r.yna.co.kr/m-global/home/v01/js/jquery.ui.touch-punch.min.js"></script>
+<script src="//rd.yna.co.kr/m-en/js/en_static.js?v=20200402_1505" charset="UTF-8"></script>
+<script src="//rd.yna.co.kr/m-global/js/m_book_mark.js?v=20200402_1505"></script>
+<script src="//rd.yna.co.kr/global/js/serviceCore.js?v=20200402_1505"></script>
+<script src="//rd.yna.co.kr/global/js/mediaCompiler.js?v=20200402_1505"></script>
+<script src="//rd.yna.co.kr/m-global/js/dateFormat.js?v=20200402_1505" charset="UTF-8"></script>
+<script src="//r.yna.co.kr/m-global/home/v01/js/common.js?v=20200402_1505"></script>
+<script src="//rd.yna.co.kr/global/js/ns.js?v=20200402_1505_20200203_1725"></script>
+<script src="//rd.yna.co.kr/global/js/search_basic.js?v=20200402_1505"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127598410-2"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag()
+{dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-127598410-2');
+gtag('config', 'UA-42288954-1');
+</script>
+<script type="text/javascript" src="//rd.yna.co.kr/global/js/yna_stat.js?v=20200402_1505"></script>
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@type": "Organization",
+	"url": "https://m-en.yna.co.kr/",
+	"logo": "https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_600x600_en01.jpg"
+}
+</script>
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@type": "Person",
+	"name": "Yonhap News Agency",
+	"url": "https://m-en.yna.co.kr/",
+	"sameAs": [
+		"https://www.facebook.com/yonhapenglish",
+		"https://twitter.com/YonhapNews",
+		"https://www.youtube.com/channel/UCHzW_7Mf8G0JxP4b0LoAd7A", //통통영상
+		"https://www.youtube.com/channel/UCR-L8oZkHzgDh1ahJhH2WDQ", //K Now
+		"https://www.youtube.com/channel/UChX-Cgkfava-G-LlfwC9v_g" //NK Now
+	]
+}
+</script>
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement": [
+		
+		
+		{
+			"@type": "ListItem",
+			"position": 1,
+			"item": {
+				"@id": "https://m-en.yna.co.kr/",
+				"name": "Yonhap News Agency"
+			}
+		},
+		
+		{
+			"@type": "ListItem",
+			"position": 2,
+			"item": {
+				"@id": "https://m-en.yna.co.kr/news",
+				"name": "All Headlines"
+			}
+		}
+		
+		
+		
+	]
+}
+</script>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/yonhapnews-english-mobile/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+</head>
+<body class="page-view page-article" data-depth01="article">
+<input type="hidden" id="cid" value="AEN20200427002500325"/>
+<script>
+(function(){
+	CONTENT_DATA = JSON.stringify({
+		"CID":"AEN20200427002500325",
+		"TITLE":"N.K. leader sends gratitude to workers at tourist zone amid health rumors",
+		"BODY":"By Yi Wonju \n   SEOUL, April 27 (Yonhap) -- North Korean leader Kim Jong-un expressed his gratitude to workers building a tourist zone in the east coast region of Wonsan, state media said Monday, amid reports his special train is parked at the area amid persisting speculation about his health.\n   &quot;Supreme Leader Kim Jong-un has sent his appreciation to the workers who devoted themselves to building the Wonsan-Kalma tourist zone,&quot; the Rodong Sinmun, the North&apos;s main newspaper, said. The Korean Central Broadcasting Station carried a similar report.\n   The report came amid lingering speculation that something might be wrong with Kim&apos;s health since he missed an important annual ceremony on April 15 commemorating the birthday of late state founder and his grandfather, Kim Il-sung.\n   Some unconfirmed media reports have speculated that Kim could be &quot;in grave danger&quot; after surgery. But South Korean officials have dismissed such speculation as untrue, saying nothing unusual was going on in the",
+		"IMG":"/photo/yna/YH/2019/04/06/PYH2019040601790031500_P2.jpg",
+		"LINK_PHOTO_PATH":"",
+		"SECTION":"nk/nk;North Korea",
+		"KEYWORD":"Kim Jong-un;North Korea",
+		"DATETIME":"20200427103221",
+		"REGIST_DATETIME":""
+	});
+})();
+</script>
+<input type="hidden" id="requestSection" value=""/>
+<input type="hidden" id="appSectionNameParam" value="North Korea">
+<input type="hidden" id="appSectionName" value="Main Page">
+<input type="hidden" id="section" name="section" value="headlines">
+<input type="hidden" id="section02" name="section02" value="">
+<input type="hidden" id="title" value="">
+<input type="hidden" id="link" value="">
+<script>
+	(function($){
+		var section = '';
+		var depth1 = section;
+		// 2뎁스 존재
+		if( section.indexOf('/') >= 0 ){
+			depth1 = section.split('/')[0];
+			var depth2 = section.split('/')[1];
+		}
+
+		var mapping = {
+			'news' : {
+				'title' : 'All Headlines',
+				'link' : '/news'
+			},
+			'national' : {
+				'title' : 'National',
+				'link' : '/national/index',
+				'depth2' : {
+					'politics' : ['01', 'Politics', '/national/politics'],
+					'diplomacy' : ['02', 'Diplomacy', '/national/diplomacy'],
+					'defense' : ['03', 'Defense', '/national/defense'],
+					'national' : ['04', 'National', '/national/national']
+				}
+			},
+			'nk' : {
+				'title' : 'North Korea',
+				'link' : '/nk/index'
+			},
+			'economy' : {
+				'title' : 'Economy',
+				'link' : '/economy/index',
+				'depth2' : {
+					'economy' : ['01', 'Economy', '/economy/economy'],
+					'industy' : ['02', 'Industy', '/economy/industy'],
+					'retail-tourism' : ['03', 'Retail/Tourism', '/economy/retail-tourism'],
+					'auto' : ['04', 'Auto', '/economy/auto'],
+					'consumer-electronics' : ['05', 'Consumer Electronics', '/economy/consumer-electronics']
+				}
+			},
+			'market' : {
+				'title' : 'Market',
+				'link' : '/market/index',
+				'depth2' : {
+					'finance' : ['01', 'Finance', '/market/finance'],
+					'stocks' : ['02', 'Stocks', '/market/stocks']
+				}
+			},
+			'science' : {
+				'title' : 'Science',
+				'link' : '/science/index',
+				'depth2' : {
+					'medicine' : ['01', 'Welfare/Medicine', '/science/medicine'],
+					'science' : ['02', 'Science', '/science/science']
+				}
+			},
+			'culture' : {
+				'title' : 'Culture',
+				'link' : '/culture/index',
+				'depth2' : {
+					'entertainment' : ['01', 'Entertainment', '/culture/entertainment'],
+					'movies' : ['02', 'Movies', '/culture/movies'],
+					'k-pop' : ['03', 'K-pop', '/culture/k-pop'],
+					'arts-culture' : ['04', 'Arts/Culture', '/culture/arts-culture']
+				}
+			},
+			'sports' : {
+				'title' : 'Sports',
+				'link' : '/sports/index'
+			},
+			'features' : {
+				'title' : 'Features',
+				'link' : '/features/index'
+			},
+			'interviews' : {
+				'title' : 'Interviews',
+				'link' : '/interviews/index'
+			}
+		};
+		
+		try {
+			$('#section').val(depth1);
+			$('#title').val(mapping[depth1]['title']);
+			$('#link').val(mapping[depth1]['link']);
+			if( typeof mapping[depth1]['depth2'] != 'undefined' ){
+				$('#section02').val(mapping[depth1]['depth2'][depth2][0]);
+				$('#title').val(mapping[depth1]['depth2'][depth2][1]);
+				$('#link').val(mapping[depth1]['depth2'][depth2][2]);
+			}
+		} catch(e) {
+			$('#section').val('headlines');
+			$('#title').val('All headlines');
+			$('#link').val('/news');
+		}
+	})(jQuery);
+</script>
+<div id="skipNav">
+<a href="#container">Go to Contents</a>
+</div>
+<section class="urgent-news appview urgent-maintext" data-cid="" style="display:none">
+<div class="con">
+<span class="tit">
+URGENT
+</span>
+<h2 class="tit"><a href="" title=""></a></h2>
+<button type="button" class="btn-close btn-pop-close">close</button>
+</div>
+</section>
+<div id="menuSection">
+<div class="top">
+<strong class="tit">SECTIONS</strong>
+<span class="btn-wrap">
+<button class="btn-home02"><span>Home</span></button>
+<button class="btn-pop-close"><span>Close</span></button>
+</span>
+</div>
+<div class="menu-section" id="expendMenu">
+<div class="scrollable scroll-transi">
+<p class="search-size"></p>
+<div class="con-wrap">
+<div class="lang-wrap">
+<span class="tit">LANGUAGE</span>
+<button type="button" class="btn-lang"><span>ENGLISH</span></button>
+<menu class="dis-none">
+<li class="ko"><a href="https://m.yna.co.kr/index" lang="ko"><span>한국어</span></a></li>
+<li class="zh"><a href="https://m-cn.yna.co.kr/index" lang="zh"><span>中文</span></a></li>
+<li class="ja"><a href="https://m-jp.yna.co.kr/index" lang="ja"><span>日本語</span></a></li>
+<li class="ar"><a href="https://m-ar.yna.co.kr/index" lang="ar"><span>عربي</span></a></li>
+<li class="es"><a href="https://m-sp.yna.co.kr/index" lang="es"><span>Español</span></a></li>
+<li class="fr"><a href="https://m-fr.yna.co.kr/index" lang="fr"><span>Français</span></a></li>
+</menu>
+</div>
+<nav>
+<ul class="list depthmenu">
+<li class="depth01"><a href="//m-en.yna.co.kr/news" data-depth01="headlines">All Headlines</a></li>
+<li class="depth01"><a href="//m-en.yna.co.kr/national/index" data-depth01="national">National</a>
+<ul>
+<li class="depth02"><a href="//m-en.yna.co.kr/national/politics" data-depth02="01">Politics</a></li>
+<li class="depth02"><a href="//m-en.yna.co.kr/national/diplomacy" data-depth02="02">Diplomacy</a></li>
+<li class="depth02"><a href="//m-en.yna.co.kr/national/defense" data-depth02="03">Defense</a></li>
+<li class="depth02"><a href="//m-en.yna.co.kr/national/national" data-depth02="04">National</a></li>
+</ul>
+<a class="arrow" href="#none"></a>
+</li>
+<li class="depth01"><a href="//m-en.yna.co.kr/nk/index" data-depth01="nk">North Korea</a></li>
+<li class="depth01"><a href="//m-en.yna.co.kr/economy/index" data-depth01="economy">Economy</a>
+<ul>
+<li class="depth02"><a href="//m-en.yna.co.kr/economy/economy" data-depth02="01">Economy</a></li>
+<li class="depth02"><a href="//m-en.yna.co.kr/economy/industy" data-depth02="02">Industry</a></li>
+<li class="depth02"><a href="//m-en.yna.co.kr/economy/retail-tourism" data-depth02="03">Retail/Tourism</a></li>
+<li class="depth02"><a href="//m-en.yna.co.kr/economy/auto" data-depth02="04">Autos</a></li>
+<li class="depth02"><a href="//m-en.yna.co.kr/economy/consumer-electronics" data-depth02="05">Consumer Electronics</a></li>
+</ul>
+<a class="arrow" href="#none"></a>
+</li>
+<li class="depth01"><a href="//m-en.yna.co.kr/market/index" data-depth01="market">Market</a>
+<ul>
+<li class="depth02"><a href="//m-en.yna.co.kr/market/finance" data-depth02="01">Finance</a></li>
+<li class="depth02"><a href="//m-en.yna.co.kr/market/stocks" data-depth02="02">Stocks</a></li>
+</ul>
+<a class="arrow" href="#none"></a>
+</li>
+<li class="depth01"><a href="//m-en.yna.co.kr/science/index" data-depth01="science">Science</a>
+<ul>
+<li class="depth02"><a href="//m-en.yna.co.kr/science/medicine" data-depth02="01">Welfare/Medicine</a></li>
+<li class="depth02"><a href="//m-en.yna.co.kr/science/science" data-depth02="02">Science</a></li>
+</ul>
+<a class="arrow" href="#none"></a>
+</li>
+<li class="depth01"><a href="//m-en.yna.co.kr/culture/index" data-depth01="culture">Culture</a>
+<ul>
+<li class="depth02"><a href="//m-en.yna.co.kr/culture/entertainment" data-depth02="01">Entertainment</a></li>
+<li class="depth02"><a href="//m-en.yna.co.kr/culture/movies" data-depth02="02">Movies</a></li>
+<li class="depth02"><a href="//m-en.yna.co.kr/culture/k-pop" data-depth02="03">K-pop</a></li>
+<li class="depth02"><a href="//m-en.yna.co.kr/culture/arts-culture" data-depth02="04">Arts/Culture</a></li>
+</ul>
+<a class="arrow" href="#none"></a>
+</li>
+<li class="depth01"><a href="//m-en.yna.co.kr/sports/index" data-depth01="sports">Sports</a></li>
+<li class="depth01"><a href="//m-en.yna.co.kr/features/index" data-depth01="features">Features</a></li>
+<li class="depth01"><a href="//m-en.yna.co.kr/interviews/index" data-depth01="interviews">Interviews</a></li>
+<li class="depth01"><a href="//m-en.yna.co.kr/image/index" data-depth01="images">Images</a>
+<ul>
+<li class="depth02"><a href="//m-en.yna.co.kr/image/k-wave" data-depth02="01">K-wave</a></li>
+<li class="depth02"><a href="//m-en.yna.co.kr/image/general" data-depth02="02">General</a></li>
+<li class="depth02"><a href="//m-en.yna.co.kr/image/nk" data-depth02="03">North Korea</a></li>
+<li class="depth02"><a href="//m-en.yna.co.kr/image/graphics" data-depth02="04">Graphics</a></li>
+</ul>
+<a class="arrow" href="#none"></a>
+</li>
+<li class="depth01"><a href="//m-en.yna.co.kr/video/index" data-depth01="videos">Videos</a>
+</li>
+</ul>
+<ul class="list list01">
+<li class="depth01"><span><a href="//m-en.yna.co.kr/topnews/index" data-depth01="tNews">Top News</a></span></li>
+<li class="depth01"><span><a href="//m-en.yna.co.kr/mostviewed/index" data-depth01="mViewed">Most Viewed</a></span></li>
+</ul>
+<ul class="list list02">
+<li class="depth01"><a href="//m-en.yna.co.kr/saved/index" data-depth01="saved" id="mSavedTotal">Saved (10)</a></li>
+<li>
+<em class="tit">Type Size</em>
+<p class="txt-ex">Example Type Sizing</p>
+<div class="bar-box">
+<div id="slider" class="ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content">
+<div class="ui-slider-range ui-corner-all ui-widget-header ui-slider-range-min"></div>
+<span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default size-left"></span></div>
+<div class="bg">
+<span class="c01"></span>
+<span class="c02"></span>
+<span class="c03"></span>
+<span class="c04"></span>
+<span class="c05"></span>
+</div>
+<span class="txt01">A</span>
+<span class="txt02">A</span>
+</div>
+</li>
+</ul>
+<ul class="list list01">
+<li class="depth01"><span><a href="//m-en.yna.co.kr/channel/index" data-depth01="rss">RSS</a></span></li>
+<li class="depth01"><span><a href="//m-en.yna.co.kr/weather/index" data-depth01="weather">Weather</a></span></li>
+<li class="depth01"><span><a href="//m-en.yna.co.kr/channel/mobile" data-depth01="mService">Mobile Service</a></span></li>
+<li><span><a href="//en.yna.co.kr/aboutus/index">About Yonhap</a></span></li>
+<li class="la-mu"><span><a href="//m-en.yna.co.kr/yna-app/privacy/index">Yonhap News Privacy</a></span></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<a href="#none" class="dim-close"></a>
+</div>
+<div id="searchLayer">
+<div class="top">
+<strong class="tit">SEARCH</strong>
+<span class="btn-wrap">
+<button class="btn-home02"><span>Home</span></button>
+<button class="btn-pop-close"><span>Close</span></button>
+</span>
+</div>
+<div class="search-layer" id="expendSearch">
+<div class="scrollable scroll-transi">
+<p class="search-size"></p>
+<div class="con-wrap">
+<div class="search-box">
+<div class="input-wrap">
+<div class="input-box">
+<input type="text" class="search-keyword" value="" title="search" placeholder="Input Keyword">
+<button type="button" class="btn-del dis-none"><span>Delete</span></button>
+</div>
+<span class="btn-sch"><button type="button" name="filterSearch">SEARCH</button></span>
+</div>
+<span class="btn"><button type="button" class="btn-show btn-right">DETAILED SEARCH</button></span>
+<div class="con search-input search-input-right">
+<dl>
+<dt><span>Range</span></dt>
+<dd class="search-option1">
+<span>
+<input type="radio" name="scope" id="menuRange01" class="inp-radio" value="">
+<label for="menuRange01" class="inp-label on">All</label>
+</span>
+<span>
+<input type="radio" name="scope" id="menuRange02" class="inp-radio" value="title">
+<label for="menuRange02" class="inp-label">Title</label>
+</span>
+<span>
+<input type="radio" name="scope" id="menuRange03" class="inp-radio" value="text_body">
+<label for="menuRange03" class="inp-label">Contents</label>
+</span>
+</dd>
+<dt>Order by</dt>
+<dd class="search-option2">
+<span>
+<input type="radio" id="menuOrder01" class="inp-radio" name="sort" value="date" checked="checked">
+<label for="menuOrder01" class="inp-label on">Newest</label>
+</span>
+<span>
+<input type="radio" id="menuOrder02" class="inp-radio" name="sort" value="weight">
+<label for="menuOrder02" class="inp-label">Relevant</label>
+</span>
+</dd>
+<dt>Periods</dt>
+<dd class="search-option3">
+<span>
+<input type="radio" name="period" id="menuPeriods01" class="inp-radio" value="all">
+<label for="menuPeriods01" class="inp-label on">Entire period</label>
+</span>
+<span>
+<input type="radio" name="period" id="menuPeriods02" class="inp-radio" value="1y">
+<label for="menuPeriods02" class="inp-label">1 year</label>
+</span>
+<span>
+<input type="radio" name="period" id="menuPeriods03" class="inp-radio" value="1m">
+<label for="menuPeriods03" class="inp-label">1 month</label>
+</span>
+<span>
+<input type="radio" name="period" id="menuPeriods04" class="inp-radio" value="1w">
+<label for="menuPeriods04" class="inp-label">1 week</label>
+</span>
+<span>
+<input type="radio" name="period" id="menuPeriods05" class="inp-radio" value="diy">
+<label for="menuPeriods05" class="inp-label">Custom</label>
+</span>
+<div class="custom-box">
+<div class="input-box">
+<input type="number" id="menuFrom" title="date" value="" name="from" placeholder="yyyymmdd"> <span>~</span> <input type="number" id="menuTo" name="to" title="date" value="" placeholder="yyyymmdd">
+</div>
+</div>
+</dd>
+</dl>
+<p class="guide-txt">* The search is limited to articles published after 2010.</p>
+</div>
+</div>
+<div class="recom">
+<strong class="tit">Recommended</strong>
+<a href="//m-en.yna.co.kr/search/index?query=Kim+Jong-un&lang=EN">#Kim Jong-un</a>
+<a href="//m-en.yna.co.kr/search/index?query=North+Korea&lang=EN">#North Korea</a>
+</div>
+</div>
+</div>
+</div>
+<a href="#none" class="dim-close"></a>
+</div>
+<div id="wrapper">
+<header id="header" class="app-hide">
+<div class="top-con">
+<button class="btn-all-menu" id="btnAllMenu"><span>All Menu</span></button>
+<a href="//m-en.yna.co.kr/index" class="logo"><strong>Yonhap News Agency</strong></a>
+<button type="button" class="btn-sch" id="btnSch"><span>Search</span></button>
+</div>
+<div class="top-share">
+<button class="btn-all-menu" id="btnAllMenu"><span>All Menu</span></button>
+<button type="button" class="btn-share" data-snslink="http://yna.kr/AEN20200427002500325" data-title="N.K. leader sends gratitude to workers at tourist zone amid health rumors">
+<span>SHARE</span>
+</button>
+<button type="button" class="btn-like" data-likeid="AEN20200427002500325">
+<span>LIKE</span>
+</button>
+<button type="button" class="btn-save">
+<span>SAVE</span>
+</button>
+</div>
+</header>
+<div class="dim"></div>
+<div id="container">
+<div class="contents article-view">
+<section class="sub-section">
+<article>
+<header class="title-article01">
+<span class="tit-subject"><a></a></span>
+<script>
+		(function($){
+			$('.tit-subject').html('<a href="'+$('#link').val()+'">'+$('#title').val()+'</a>');
+		})(jQuery);
+	</script>
+<h1 class="tit" data-cid="">N.K. leader sends gratitude to workers at tourist zone amid health rumors</h1>
+<div class="info-box">
+<div class="info-con">
+<span class="txt">
+10:32 April 27, 2020</span>
+</div>
+<div class="social-btns">
+<div class="social-left">
+<button type="button" class="btn-like btnlike-on" data-likeid="AEN20200427002500325">
+<span>LIKE</span>
+</button>
+<button type="button" class="btn-save">
+<span>SAVE</span>
+</button>
+<button type="button" class="btn-fontsize" data-layer="fontSizePop">
+<span>FONT SIZE</span>
+</button>
+</div>
+<div class="social-right">
+<button type="button" class="share-btn fb btn-fb" data-snslink="http://yna.kr/AEN20200427002500325?input=fb" data-title="N.K. leader sends gratitude to workers at tourist zone amid health rumors">
+<span>facebook</span>
+</button>
+<button type="button" class="share-btn tw btn-tw" data-snslink="http://yna.kr/AEN20200427002500325?input=tw" data-title="N.K. leader sends gratitude to workers at tourist zone amid health rumors">
+<span>twitter</span>
+</button>
+<button type="button" class="btn-share" data-snslink="http://yna.kr/AEN20200427002500325" data-title="N.K. leader sends gratitude to workers at tourist zone amid health rumors">
+<span>more</span>
+</button>
+</div>
+</div>
+</div>
+</header>
+<div class="comp-box text-group"><div class="inner"><P>By Yi Wonju </P></div></div>
+<div class="comp-box text-group"><div class="inner"><P> SEOUL, April 27 (Yonhap) -- North Korean leader Kim Jong-un expressed his gratitude to workers building a tourist zone in the east coast region of Wonsan, state media said Monday, amid reports his special train is parked at the area amid persisting speculation about his health.</P></div></div>
+<div class="comp-box text-group"><div class="inner"><P> "Supreme Leader Kim Jong-un has sent his appreciation to the workers who devoted themselves to building the Wonsan-Kalma tourist zone," the Rodong Sinmun, the North's main newspaper, said. The Korean Central Broadcasting Station carried a similar report.</P></div></div>
+<div class="comp-box text-group"><div class="inner"><P> The report came amid lingering speculation that something might be wrong with Kim's health since he missed an important annual ceremony on April 15 commemorating the birthday of late state founder and his grandfather, Kim Il-sung.</P></div></div>
+<div class="comp-box text-group"><div class="inner"><P> Some unconfirmed media reports have speculated that Kim could be "in grave danger" after surgery. But South Korean officials have dismissed such speculation as untrue, saying nothing unusual was going on in the North and Kim is believed to be staying in the Wonsan region.</P></div></div>
+<div class="comp-box text-group"><div class="inner"><P> Corroborating the intelligence was a report by the U.S. monitoring website 38 North that satellite imagery showed what appeared to be Kim's special train parked at a station in "his Wonsan compound since at least April 21." </P></div></div>
+<div class="comp-box text-group"><div class="inner"><P> "The train's presence does not prove the whereabouts of the North Korean leader or indicate anything about his health, but it does lend weight to reports that Kim is staying at an elite area on the country's eastern coast," it added.</P></div></div>
+<div class="comp-box text-group"><div class="inner"><P> Moon Chung-in, a special security adviser to President Moon Jae-in, also said Sunday in an interview with Fox News that Kim is "alive and well."</P></div></div>
+<div class="comp-box text-group"><div class="inner"><P> The Wonsan-Kalma tourist zone is one of Kim's key pet construction projects. Kim, who sent a similar thank-you message to the workers in February, has sought to develop the North's tourism in an effort to beef up an economy faltering under international sanctions.</P></div></div>
+<div class="comp-box text-group"><div class="inner"><P> Kim was last seen in state media on April 11 presiding over a political bureau meeting of the ruling Workers' Party, calling for strict measures against the coronavirus.</P></div></div>
+<div class="comp-box text-group"><div class="inner"><P> But his absence from a key ceremony commemorating the 108th birth anniversary of Kim Il-sung on April 15 has sparked speculation over his health. He has never skipped his trip to the mausoleum since taking office in late 2011.</P></div></div>
+<div class="comp-box text-group"><div class="inner"><P> North Korean state media have recently put out reports on Kim sending diplomatic letters and conveying gifts to honored citizens. But no reports on the leader's "field guidance" trips or photos on his public activities have been released by state media for more than two weeks.</P></div></div>
+<div
+class="yna-img-slide dis-none"
+id="PYH20190406017900315"
+data-main_view_yn="Y"
+data-thumnailpath="//img1.yna.co.kr/photo/yna/YH/2019/04/06/PYH2019040601790031500_T.jpg"
+data-thumnailfilename="PYH2019040601790031500_T.jpg"
+data-thumnailsize="8467"
+data-thumnailwidth="120"
+data-thumnailheight="79"
+data-viewpath="//img3.yna.co.kr/photo/yna/YH/2019/04/06/PYH2019040601790031500_P2.jpg"
+data-viewsize="119280"
+data-viewwidth="1024"
+data-viewheight="682"
+data-title=""
+data-caption="This photo, carried by North Korea&apos;s state news agency on April 6, 2019, shows its leader Kim Jong-un (C) inspecting the Wonsan-Kalma coastal tourist area. (For Use Only in the Republic of Korea. No Redistribution) (Yonhap)"
+data-alt="This photo, carried by North Korea&apos;s state news agency on April 6, 2019, shows its leader Kim Jong-un (C) inspecting the Wonsan-Kalma coastal tourist area. (For Use Only in the Republic of Korea. No Redistribution) (Yonhap)"
+><img src="//img5.yna.co.kr/photo/yna/YH/2019/04/06/PYH2019040601790031500_P4.jpg" alt="This photo, carried by North Korea&apos;s state news agency on April 6, 2019, shows its leader Kim Jong-un (C) inspecting the Wonsan-Kalma coastal tourist area. (For Use Only in the Republic of Korea. No Redistribution) (Yonhap)"></div>
+<div class="comp-box text-group"><div class="inner"><P> julesyi@yna.co.kr<br/>(END)</P></div></div>
+<div class="comp-box keyword-zone01 keyword-view">
+<strong class="tit">Keyword</strong>
+<div class="keyword">
+<ul>
+<li><a href="//m-en.yna.co.kr/search/index?query=Kim Jong-un&lang=EN">#Kim Jong-un</a></li>
+<li><a href="//m-en.yna.co.kr/search/index?query=North Korea&lang=EN">#North Korea</a></li>
+</ul>
+</div>
+</div>
+</article>
+<div id="taboola-mobile-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'organic-thumbnails-a',
+    container: 'taboola-mobile-below-article-thumbnails',
+    placement: 'Mobile Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+<div id="taboola-mobile-below-article-thumbnails-2nd"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-mobile-below-article-thumbnails-2nd',
+    placement: 'Mobile Below Article Thumbnails 2nd',
+    target_type: 'mix'
+  });
+</script>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+<div class="most-liked-zone toggle-box">
+<div class="title02">
+<a href="#none" class="btn-show-hide">
+<strong class="tit">Most Liked</strong>
+<span class="btn-show hide"></span>
+</a>
+</div>
+<div class="toggle-cont">
+<ul class="list-type02">
+<li>
+<span class="num">1</span>
+<h4 class="tit">
+<a href="//m-en.yna.co.kr/view/AEN20200421007300315">Almost all university students want tuition refunds over COVID-19: poll</a>
+</h4>
+</li>
+<li>
+<span class="num">2</span>
+<h4 class="tit">
+<a href="//m-en.yna.co.kr/view/AEN20200425000300315">NK leader still out of public eye, Pyongyang&apos;s media focus on army anniversary</a>
+</h4>
+</li>
+<li>
+<span class="num">3</span>
+<h4 class="tit">
+<a href="//m-en.yna.co.kr/view/AEN20200421003651325">(LEAD) No unusual signs about N.K. leader&apos;s health: government source</a>
+</h4>
+</li>
+<li>
+<span class="num">4</span>
+<h4 class="tit">
+<a href="//m-en.yna.co.kr/view/AEN20200424006700315">Thanks to you: On social media, S. Koreans pay gratitude to doctors, nurses fighting virus</a>
+</h4>
+</li>
+<li>
+<span class="num">5</span>
+<h4 class="tit">
+<a href="//m-en.yna.co.kr/view/AEN20200421004800320">(URGENT) No special signs detected with regard to N. Korean leader&apos;s health: Cheong Wa Dae</a>
+</h4>
+</li>
+</ul>
+</div>
+</div>
+<aside class="bnr-zone">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+style="display:inline-block;width:300px;height:250px"
+data-ad-client="ca-pub-1728051424180693"
+data-ad-slot="8516091874"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</aside>
+<div class="most-saved-zone toggle-box">
+<div class="title02">
+<a href="#none" class="btn-show-hide">
+<strong class="tit">Most Saved</strong>
+<span class="btn-show hide"></span>
+</a>
+</div>
+<div class="toggle-cont">
+<ul class="list-type02">
+<li>
+<span class="num">1</span>
+<h4 class="tit">
+<a href="//m-en.yna.co.kr/view/AEN20200421003651325?section=news">(LEAD) No unusual signs about N.K. leader&apos;s health: government source</a>
+</h4>
+</li>
+<li>
+<span class="num">2</span>
+<h4 class="tit">
+<a href="//m-en.yna.co.kr/view/AEN20200425000300315?section=news">NK leader still out of public eye, Pyongyang&apos;s media focus on army anniversary</a>
+</h4>
+</li>
+<li>
+<span class="num">3</span>
+<h4 class="tit">
+<a href="//m-en.yna.co.kr/view/AEN20200421007300315?section=news">Almost all university students want tuition refunds over COVID-19: poll</a>
+</h4>
+</li>
+<li>
+<span class="num">4</span>
+<h4 class="tit">
+<a href="//m-en.yna.co.kr/view/AEN20200424002351325?section=news">(LEAD) N.K. media stay mum on leader&apos;s whereabouts amid rumors on his health</a>
+</h4>
+</li>
+<li>
+<span class="num">5</span>
+<h4 class="tit">
+<a href="//m-en.yna.co.kr/view/AEN20200424004000325?section=news">Defense chief says N. Korean military plane activities on &apos;unusual&apos; rise</a>
+</h4>
+</li>
+</ul>
+</div>
+</div>
+<div class="most-viewed-zone">
+<div class="title03">
+<a href="//m-en.yna.co.kr/mostviewed/index">
+<strong class="tit">Most Viewed</strong>
+<span class="desc">All Categories</span>
+<span class="btn"></span>
+</a>
+</div>
+<div class="toggle-cont">
+<ul class="list-type02">
+<li>
+<span class="num">1</span>
+<h4 class="tit">
+<a href="//m-en.yna.co.kr/view/AEN20200427002500325?section=news">N.K. leader sends gratitude to workers at tourist zone amid health rumors</a>
+</h4>
+</li>
+<li>
+<span class="num">2</span>
+<h4 class="tit">
+<a href="//m-en.yna.co.kr/view/AEN20200427002552325?section=news">(2nd LD) N.K. leader sends gratitude to workers at tourist zone amid health rumors</a>
+</h4>
+</li>
+<li>
+<span class="num">3</span>
+<h4 class="tit">
+<a href="//m-en.yna.co.kr/view/AEN20200426000700325?section=news">N. Korea&apos;s state media stays mum on Kim&apos;s public activities for 2 weeks</a>
+</h4>
+</li>
+<li>
+<span class="num">4</span>
+<h4 class="tit">
+<a href="//m-en.yna.co.kr/view/AEN20200426000651325?section=news">(LEAD) Kim&apos;s special train spotted in Wonsan amid rumors over his health: U.S. monitor</a>
+</h4>
+</li>
+<li>
+<span class="num">5</span>
+<h4 class="tit">
+<a href="//m-en.yna.co.kr/view/AEN20200427002252320?section=news">(2nd LD) Loose social distancing looms large as new virus cases stay low</a>
+</h4>
+</li>
+</ul>
+</div>
+</div>
+<div class="keyword-zone">
+<div class="title02">
+<a href="#none" class="btn-show-hide">
+<strong class="tit botline-none">Issue Keywords</strong>
+<span class="btn-show hide"></span>
+</a>
+</div>
+<div class="toggle-cont">
+<div class="keyword">
+<ul>
+</ul>
+</div>
+<ul class="list-type02">
+</ul>
+</div>
+</div>
+<div class="most-photo-zone bg-area">
+<div class="title01">
+<strong class="tit">Most Viewed Photos</strong>
+</div>
+<div class="list-photo02">
+<ul>
+<li data-cid="PYH20200425058100325">
+<article>
+<a href="//m-en.yna.co.kr/image/photo-view?type=mostviewed#1">
+<figure class="img-cover"><img src="//img9.yna.co.kr/photo/yna/YH/2020/04/25/PYH2020042505810032500_P2.jpg" alt="Andong mountain fire"><span class="ico-photo"></span></figure>
+<h3 class="tit">Andong mountain fire</h3>
+</a>
+</article>
+</li>
+<li data-cid="PYH20200426053300315">
+<article>
+<a href="//m-en.yna.co.kr/image/photo-view?type=mostviewed#2">
+<figure class="img-cover"><img src="//img9.yna.co.kr/photo/yna/YH/2020/04/26/PYH2020042605330031500_P2.jpg" alt="Yoido Full Gospel Church reopens chapel"><span class="ico-photo"></span></figure>
+<h3 class="tit">Yoido Full Gospel Church reopens chapel</h3>
+</a>
+</article>
+</li>
+</ul>
+<ul>
+<li data-cid="PYH20200426069300315">
+<article>
+<a href="//m-en.yna.co.kr/image/photo-view?type=mostviewed#3">
+<figure class="img-cover"><img src="//img2.yna.co.kr/photo/yna/YH/2020/04/26/PYH2020042606930031500_P2.jpg" alt="Mount Bukhan crowded with hikers"><span class="ico-photo"></span></figure>
+<h3 class="tit">Mount Bukhan crowded with hikers</h3>
+</a>
+</article>
+</li>
+<li data-cid="PYH20200426068100315">
+<article>
+<a href="//m-en.yna.co.kr/image/photo-view?type=mostviewed#4">
+<figure class="img-cover"><img src="//img9.yna.co.kr/photo/yna/YH/2020/04/26/PYH2020042606810031500_P2.jpg" alt="Citizens enjoy Hangang Park under eased social distancing rules"><span class="ico-photo"></span></figure>
+<h3 class="tit">Citizens enjoy Hangang Park under eased social distancing rules</h3>
+</a>
+</article>
+</li>
+</ul>
+</div>
+</div>
+<script>
+    (function($){
+        var json = JSON.stringify({"TOTAL":{"_TX":"171bb507eb8","_WORK":1,"_CREATE":"20200427 20:05:46.966","DATA":[{"TOTAL":0}]},"_TX":"171bb507eb8","_WORK":18,"_CREATE":"20200427 20:05:46.966","DATA":[{"URGENCY":"3","DESK_DEPT_NAME":"영문번역1팀","PCOUNT":0,"SECTION_CODE":"image\/general","KEYWORD":null,"URL":"\/view\/PYH20200425058100325","ACOUNT":0,"CONTENTS_ID":"PYH20200425058100325","VIEWS":77,"R_NAME":null,"CORDER":1,"CID":"PYH20200425058100325","SECTION_NAME":"General","RATTR":"","IMG":"\/photo\/yna\/YH\/2020\/04\/25\/PYH2020042505810032500_T.jpg","IMG_SIZE":6848,"DATTR":"4","WRITER_NAME":"최수향","CTYPE":"YH","IMG_WIDTH":120,"ORIGIN_CID":"PYH20200425057700013","YOUTUBE":"","DATETIME":"20200425215152","WRITER_ID":"2015011","GCOUNT":0,"IMG_HEIGHT":73,"MCOUNT":0,"TITLE":"Andong mountain fire","CATTR":"P","WRITER_DEPT_NAME":"영문북한뉴스부","BODY":"This photo, provided by the Korea Forest Service, shows a fire spreading on a mountain in the southeastern city of Andong on April 25, 2020, as strong winds hamper firefighters' efforts to contain the blaze. (PHOTO NOT FOR SALE) (Yonhap)  \n(END)","DURATION":null,"SECTION":"image\/general;General"},{"URGENCY":"3","DESK_DEPT_NAME":"영문번역1팀","PCOUNT":0,"SECTION_CODE":"image\/general","KEYWORD":null,"URL":"\/view\/PYH20200426053300315","ACOUNT":0,"CONTENTS_ID":"PYH20200426053300315","VIEWS":60,"R_NAME":null,"CORDER":2,"CID":"PYH20200426053300315","SECTION_NAME":"General","RATTR":"","IMG":"\/photo\/yna\/YH\/2020\/04\/26\/PYH2020042605330031500_T.jpg","IMG_SIZE":13386,"DATTR":"4","WRITER_NAME":"심선아","CTYPE":"YH","IMG_WIDTH":84,"ORIGIN_CID":"PYH20200426036800013","YOUTUBE":"","DATETIME":"20200426141157","WRITER_ID":"1999028","GCOUNT":0,"IMG_HEIGHT":120,"MCOUNT":0,"TITLE":"Yoido Full Gospel Church reopens chapel","CATTR":"P","WRITER_DEPT_NAME":"영문뉴스부","BODY":"Members of Yoido Full Gospel Church in Seoul, the biggest Protestant church in South Korea, attend a Sunday service on April 26, 2020, as the church reopened its chapel after the government lowered the intensity of its social distancing campaign amid a slowdown in new coronavirus cases. (Yonhap)\n(END)","DURATION":null,"SECTION":"image\/general;General"},{"URGENCY":"3","DESK_DEPT_NAME":"영문번역1팀","PCOUNT":0,"SECTION_CODE":"image\/general","KEYWORD":null,"URL":"\/view\/PYH20200426069300315","ACOUNT":0,"CONTENTS_ID":"PYH20200426069300315","VIEWS":48,"R_NAME":null,"CORDER":3,"CID":"PYH20200426069300315","SECTION_NAME":"General","RATTR":"","IMG":"\/photo\/yna\/YH\/2020\/04\/26\/PYH2020042606930031500_T.jpg","IMG_SIZE":9825,"DATTR":"4","WRITER_NAME":"심선아","CTYPE":"YH","IMG_WIDTH":120,"ORIGIN_CID":"PYH20200426064300013","YOUTUBE":"","DATETIME":"20200426152518","WRITER_ID":"1999028","GCOUNT":0,"IMG_HEIGHT":81,"MCOUNT":0,"TITLE":"Mount Bukhan crowded with hikers","CATTR":"P","WRITER_DEPT_NAME":"영문뉴스부","BODY":"The Baekwundae peak on Mount Bukhan in Seoul is crowded with hikers on April 26, 2020, the first Sunday since the government eased its social distancing rules amid a slowdown in new coronavirus cases. (Yonhap)\n(END)","DURATION":null,"SECTION":"image\/general;General"},{"URGENCY":"3","DESK_DEPT_NAME":"영문번역1팀","PCOUNT":0,"SECTION_CODE":"image\/general","KEYWORD":null,"URL":"\/view\/PYH20200426068100315","ACOUNT":0,"CONTENTS_ID":"PYH20200426068100315","VIEWS":29,"R_NAME":null,"CORDER":4,"CID":"PYH20200426068100315","SECTION_NAME":"General","RATTR":"","IMG":"\/photo\/yna\/YH\/2020\/04\/26\/PYH2020042606810031500_T.jpg","IMG_SIZE":9643,"DATTR":"4","WRITER_NAME":"심선아","CTYPE":"YH","IMG_WIDTH":71,"ORIGIN_CID":"PYH20200426040600013","YOUTUBE":"","DATETIME":"20200426152535","WRITER_ID":"1999028","GCOUNT":0,"IMG_HEIGHT":120,"MCOUNT":0,"TITLE":"Citizens enjoy Hangang Park under eased social distancing rules","CATTR":"P","WRITER_DEPT_NAME":"영문뉴스부","BODY":"Citizens stroll around Hangang Park in Seoul on April 26, 2020, the first Sunday since the government eased its social distancing rules amid a slowdown in new coronavirus cases. (Yonhap)\n(END)","DURATION":null,"SECTION":"image\/general;General"}],"_WAIT":0,"ARSURL":"nstat.recent?body=Y&lang=EN&dbefore=48&sbefore=48&cattr=P&count=4","SOURCE":"40","ITEM_ID":"576"});
+        localStorage.setItem('mostviewed', json);
+    })(jQuery);
+</script>
+<div class="main-rightnow bg-area">
+<div class="title02">
+<a href="//m-en.yna.co.kr/index">
+<strong class="tit">Main Article Right Now</strong>
+<span class="btn"></span>
+</a>
+</div>
+<div class="main-rightnow-list">
+<div class="box-type">
+<article>
+<figure class="img-con img-cover">
+<a href="//m-en.yna.co.kr/view/AEN20200427002254320?section=national/national">
+<img src="//img6.yna.co.kr/photo/yna/YH/2020/04/27/PYH2020042709530005300_P2.jpg" alt=" Loose social distancing looms large as new virus cases stay low">
+</a>
+</figure>
+<div class="txt-con">
+<h3 class="tit">
+<a href="//m-en.yna.co.kr/view/AEN20200427002254320?section=national/national"> Loose social distancing looms large as new virus cases stay low</a>
+</h3>
+</div>
+</article>
+</div>
+<div class="box-type">
+<article>
+<figure class="img-con img-cover">
+<a href="//m-en.yna.co.kr/view/AEN20200427002552325?section=nk/nk">
+<img src="//img3.yna.co.kr/photo/yna/YH/2019/04/06/PYH2019040601790031500_P2.jpg" alt=" N.K. leader sends gratitude to workers at tourist zone amid health rumors">
+</a>
+</figure>
+<div class="txt-con">
+<h3 class="tit">
+<a href="//m-en.yna.co.kr/view/AEN20200427002552325?section=nk/nk"> N.K. leader sends gratitude to workers at tourist zone amid health rumors</a>
+</h3>
+</div>
+</article>
+</div>
+<div class="list-type04">
+<ul>
+<li>
+<a href="//m-en.yna.co.kr/view/AEN20200427006452315?section=nk/nk"> Moon says S. Korea to seek &apos;realistic, practical&apos; ways for inter-Korean ties</a>
+</li>
+<li>
+<a href="//m-en.yna.co.kr/view/AEN20200427000851320?section=economy/economy"> S. Korea to offer over US$400 mln to emerging nations for coronavirus-related health projects</a>
+</li>
+<li>
+<a href="//m-en.yna.co.kr/view/AEN20200427002951315?section=national/politics"> Ex-President Chun appears in court amid protest by activists</a>
+</li>
+<li>
+<a href="//m-en.yna.co.kr/view/AEN20200427005300325?section=national/diplomacy">S. Korea has never sounded out Japan about sending masks: ministry</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="pop-layer" id="fontSizePop">
+<div class="pop-wrap pop-font-size">
+<div class="title">
+<strong class="tit">TYPE SIZE</strong>
+</div>
+<p class="txt-ex">Example Type Sizing</p>
+<div class="bar-box">
+<div id="slider02"></div>
+<div class="bg">
+<span class="c01"></span>
+<span class="c02"></span>
+<span class="c03"></span>
+<span class="c04"></span>
+<span class="c05"></span>
+</div>
+<span class="txt01">A</span>
+<span class="txt02">A</span>
+</div>
+<button type="button" class="btn-pop-close"><span>Close</span></button>
+</div>
+</div>
+<footer id="footer" class="app-hide">
+<div class="con-wrap">
+<div class="sns-con">
+<a href="https://www.facebook.com/yonhapenglish" class="btn-fb" target="_blank" title="Opens in new web browser window" rel="nofollow">Facebook</a>
+<a href="https://twitter.com/yonhapnews" class="btn-tw" target="_blank" title="Opens in new web browser window" rel="nofollow">Twitter</a>
+<a href="//m-en.yna.co.kr/channel/index" class="btn-rss">RSS Feed</a>
+</div>
+<div class="btn-con">
+<a href="#none" class="btn-section">SECTIONS</a>
+<a class="btn-feedback">FEEDBACK</a>
+<a href="//en.yna.co.kr/index#mobile" class="btn-pc">PC VERSION</a>
+</div>
+<a href="//m-en.yna.co.kr/channel/mobile" class="btn-app-down">Download Yonhap News Application</a>
+<address>© Yonhapnews</address>
+</div>
+</footer>
+<div id="savedLayer" class="pop-layer dis-none">
+<div class="pop-saved">
+<p>SAVED</p>
+</div>
+</div>
+<div id="sharePop" class="pop-layer">
+<div class="pop-wrap pop-share">
+<div class="title">
+<strong class="tit">SHARE</strong>
+</div>
+<div class="btn-group" id="btnGroup">
+<button type="button" class="share-btn fb" data-snslink="" data-title=""><span>Facebook</span></button>
+<button type="button" class="share-btn tw" data-snslink="" data-title=""><span>Twitter</span></button>
+<button type="button" class="share-btn pin" data-snslink="" data-title=""><span>Pinterest</span></button>
+<button type="button" class="share-btn lin" data-snslink="" data-title=""><span>Linked in</span></button>
+<button type="button" class="share-btn tum" data-snslink="" data-title=""><span>Tumblr</span></button>
+<button type="button" class="share-btn red" data-snslink="" data-title=""><span>Reddit</span></button>
+<button type="button" class="share-btn fbm ln-hg" data-snslink="" data-title=""><span>Facebook Messenger</span></button>
+</div>
+<p class="link-box"></p>
+<p class="guide-txt01">To get the link, tap the URL.</p>
+<button type="button" class="btn-pop-close"><span>Close</span></button>
+</div>
+</div>
+<form action="//bbs.yna.co.kr/feedback/save" name="feedback_form" id="feedbackForm" method="get">
+<div id="feedbackPop" class="pop-layer">
+<section class="sub-section">
+<h2 class="txt-type03">How can we improve?</h2>
+<div class="textarea-box">
+<label for="feedbackArea">Enter your feedback here. To help protect your privacy, don't include personal information, like your name or address.</label>
+<textarea id="feedbackArea" class="textarea" name="content"></textarea>
+</div>
+<div class="btn-zone space01">
+<button type="button" class="btn-type01"><span>CANCEL</span></button>
+<a class="btn-type02 btn-submit"><span>SUBMIT</span></a>
+</div>
+</section>
+</div>
+</form>
+<div id="feedbackComplete" class="pop-layer">
+<section class="sub-section">
+<div class="feed-finish">
+<h2 class="txt01">Thanks for your feedback!</h2>
+</div>
+<div class="btn-zone space01">
+<a class="btn-type03"><span>OK</span></a>
+</div>
+</section>
+</div>
+<span class="btn-go-top"><button type="button"></button></span>
+</div>
+<aside class="bnr-zone article-ad-box">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+style="display:inline-block;width:300px;height:250px"
+data-ad-client="ca-pub-1728051424180693"
+data-ad-slot="5587865570"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</aside>
+<script id="siteJsonData">
+(function(){
+	SITE_DATA = JSON.stringify({
+		"SITE_ID":"000100010000",
+		"SITE_DEPTH":"2",
+		"SITE1_LINK":"/index",
+		"SITE1_LINK_NAME01":"index",
+		"SITE1_NAME":"Main Page",
+		"SITE2_LINK":"/news",
+		"SITE2_NAME":"All Headlines",
+		"SITE3_LINK":"",
+		"SITE3_NAME":"",
+		"SITE_SECTION":"/news",
+		"SITE_NAME":"All Headlines",
+		"PAGE_PATH":"/",
+		"PAGE_NAME":"news",
+	});
+})();
+</script>
+<input type="hidden" id="domainId" value="2201"/>
+<script src="//rd.yna.co.kr/common/js/cp.js?v=20200402_1505"></script>
+<script src="//rd.yna.co.kr/common/js/Stat.js?v=20200402_1505"></script>
+</body>
+</html>

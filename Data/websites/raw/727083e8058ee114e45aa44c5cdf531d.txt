@@ -1,0 +1,957 @@
+	<!DOCTYPE html>
+		<!--[if IE 8]>
+	<html class="ie ie8" lang="en-GB"> <![endif]-->
+	<!--[if IE 9]>
+	<html class="ie ie9" lang="en-GB"> <![endif]-->
+	<!--[if gt IE 9]><!-->
+<html lang="en-GB"> <!--<![endif]-->
+	<head>
+				<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="pingback" href="https://iharare.com/xmlrpc.php"/>
+
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-5NT6MC2');</script>
+		<!-- End Google Tag Manager -->
+
+	<title>Botswana National Lockdown: No Alcohol For The Next 3 Months</title>
+			<script>
+				let isSinglePost = true;
+			</script>
+		
+<!-- This site is optimized with the Yoast SEO Premium plugin v13.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Botswana National Lockdown: No Alcohol For The Next 3 Months. The Parliament of Botswana has decreed the rules and regulations pertaining to the lockdown"/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://iharare.com/botswana-national-lockdown/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Botswana National Lockdown: No Alcohol For The Next 3 Months" />
+<meta property="og:description" content="Botswana National Lockdown: No Alcohol For The Next 3 Months. The Parliament of Botswana has decreed the rules and regulations pertaining to the lockdown" />
+<meta property="og:url" content="https://iharare.com/botswana-national-lockdown/" />
+<meta property="og:site_name" content="iHarare News" />
+<meta property="article:publisher" content="https://www.facebook.com/eharare?fref=nf" />
+<meta property="article:tag" content="Botswana National Lockdown" />
+<meta property="article:tag" content="Coronavirus Botswana" />
+<meta property="article:tag" content="Covid-19 Botswana" />
+<meta property="article:tag" content="Mokgweetsi Eric Masisi" />
+<meta property="article:tag" content="Mokgweetsi Masisi" />
+<meta property="article:section" content="Corona Virus" />
+<meta property="article:published_time" content="2020-04-09T18:58:20+00:00" />
+<meta property="og:image" content="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/03/Mokgweetsi-Masisi.jpg" />
+<meta property="og:image:secure_url" content="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/03/Mokgweetsi-Masisi.jpg" />
+<meta property="og:image:width" content="790" />
+<meta property="og:image:height" content="444" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Botswana National Lockdown: No Alcohol For The Next 3 Months. The Parliament of Botswana has decreed the rules and regulations pertaining to the lockdown" />
+<meta name="twitter:title" content="Botswana National Lockdown: No Alcohol For The Next 3 Months" />
+<meta name="twitter:site" content="@iharare" />
+<meta name="twitter:image" content="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/03/Mokgweetsi-Masisi.jpg" />
+<meta name="twitter:creator" content="@iharare" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://iharare.com/#organization","name":"iHarare News","url":"https://iharare.com/","sameAs":["https://www.facebook.com/eharare?fref=nf","https://www.instagram.com/iharare/?hl=en","https://www.linkedin.com/company/iharare","https://www.youtube.com/user/nyacent","https://twitter.com/iharare"],"logo":{"@type":"ImageObject","@id":"https://iharare.com/#logo","inLanguage":"en-GB","url":"https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/02/logo-iharare.png","width":300,"height":96,"caption":"iHarare News"},"image":{"@id":"https://iharare.com/#logo"}},{"@type":"WebSite","@id":"https://iharare.com/#website","url":"https://iharare.com/","name":"iHarare News","inLanguage":"en-GB","description":"Zimbabwe&#039;s Loudest Internet Newspaper! Zimbabwe latest news,News from Zimbabwe, Daily News,Zimbabwe Breaking News, Latest Zimbabwe News,iHarare News, iHarare Breaking News,Newsday,Dailynews Zimbabwe,My Zimbabwe News, Latest News in Zimbabwe, Zimbabwe Current Affairs, Zimbabwe Online News, Zimbabwe Daily News, Zimbabwe Situation, Zimbabwe Politics News, News Dzezimbabwe, Bulawayo24, Zimeye,iHarare Answers, Mafaro News. zimbabwe news on the internet, Breaking news from in and outside Zimbabwe, Zimbabwe&#039;s latest news, H-Metro, Hmetro, hmetro news,Pindula News, Pindula, Pindula Profiles,zim hot news,daily news zimbabwe top stories,zimbabwe news online mafaro.co.uk hmetro.com, masvingo mirror, Bulawayo24, bulawayo 24 news, News - DailyNews Live","publisher":{"@id":"https://iharare.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://iharare.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"ImageObject","@id":"https://iharare.com/botswana-national-lockdown/#primaryimage","inLanguage":"en-GB","url":"https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/03/Mokgweetsi-Masisi.jpg","width":790,"height":444,"caption":"Botswana National Lockdown"},{"@type":"WebPage","@id":"https://iharare.com/botswana-national-lockdown/#webpage","url":"https://iharare.com/botswana-national-lockdown/","name":"Botswana National Lockdown: No Alcohol For The Next 3 Months","isPartOf":{"@id":"https://iharare.com/#website"},"inLanguage":"en-GB","primaryImageOfPage":{"@id":"https://iharare.com/botswana-national-lockdown/#primaryimage"},"datePublished":"2020-04-09T18:58:20+00:00","dateModified":"2020-04-09T18:58:20+00:00","description":"Botswana National Lockdown: No Alcohol For The Next 3 Months. The Parliament of Botswana has decreed the rules and regulations pertaining to the lockdown","potentialAction":[{"@type":"ReadAction","target":["https://iharare.com/botswana-national-lockdown/"]}]},{"@type":"NewsArticle","@id":"https://iharare.com/botswana-national-lockdown/#article","isPartOf":{"@id":"https://iharare.com/botswana-national-lockdown/#webpage"},"author":{"@id":"https://iharare.com/#/schema/person/7c3dc18d03e9c7abe4aa5817dd23c59e"},"headline":"&#8216;No Alcohol For 6 Months&#8217; &#8211; Botswana Sets Out Tough Regulations For Lockdown","datePublished":"2020-04-09T18:58:20+00:00","dateModified":"2020-04-09T18:58:20+00:00","commentCount":0,"mainEntityOfPage":{"@id":"https://iharare.com/botswana-national-lockdown/#webpage"},"publisher":{"@id":"https://iharare.com/#organization"},"image":{"@id":"https://iharare.com/botswana-national-lockdown/#primaryimage"},"keywords":"Botswana National Lockdown,Coronavirus Botswana,Covid-19 Botswana,Mokgweetsi Eric Masisi,Mokgweetsi Masisi","articleSection":"Corona Virus,International,Local","inLanguage":"en-GB","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://iharare.com/botswana-national-lockdown/#respond"]}],"copyrightYear":"2020","copyrightHolder":{"@id":"https://iharare.com/#organization"}},{"@type":["Person"],"@id":"https://iharare.com/#/schema/person/7c3dc18d03e9c7abe4aa5817dd23c59e","name":"Sharon Chirisa","image":{"@type":"ImageObject","@id":"https://iharare.com/#authorlogo","inLanguage":"en-GB","url":"https://secure.gravatar.com/avatar/b342314ff32027856827ee4f5fe2e495?s=96&d=mm&r=g","caption":"Sharon Chirisa"},"description":"Sharon Mona Chirisa is a multilingual writer, reader, and certified nerd with a really wicked sense of humour.\r\nShe boasts of a personal library of over 700 books that (ebooks that is) and frequently likes to drop mad bars from books/movies in her everyday speech.\r\n\r\nWhen she\u2019s not writing, she\u2019s reading and when she\u2019s hot doing both she\u2019s changing the world one corner at a time.\r\n\r\nYou can get in touch with her at sharonmchirisa@gmail.com","sameAs":[]}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="iHarare News &raquo; Feed" href="https://iharare.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="iHarare News &raquo; Comments Feed" href="https://iharare.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="iHarare News &raquo; &#8216;No Alcohol For 6 Months&#8217; &#8211; Botswana Sets Out Tough Regulations For Lockdown Comments Feed" href="https://iharare.com/botswana-national-lockdown/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/iharare.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://cy4ad5.c2.acecdn.net/wp-includes/css/dist/block-library/style.min.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://cy4ad5.c2.acecdn.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='publisher-child-css'  href='https://cy4ad5.c2.acecdn.net/wp-content/themes/publisher-child/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='better-framework-main-fonts-css'  href='https://fonts.googleapis.com/css?family=Lato:400,700%7CRoboto:400,500,400italic' type='text/css' media='all' />
+<script type='text/javascript' src='https://cy4ad5.c2.acecdn.net/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://cy4ad5.c2.acecdn.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://cy4ad5.c2.acecdn.net/wp-content/plugins/better-adsmanager/includes/libs/better-framework/assets/js/html5shiv.min.js?ver=3.10.16'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://cy4ad5.c2.acecdn.net/wp-content/plugins/better-adsmanager/includes/libs/better-framework/assets/js/respond.min.js?ver=3.10.16'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='https://iharare.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://iharare.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cy4ad5.c2.acecdn.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4" />
+<link rel='shortlink' href='https://iharare.com/?p=172401' />
+<link rel="alternate" type="application/json+oembed" href="https://iharare.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fiharare.com%2Fbotswana-national-lockdown%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://iharare.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fiharare.com%2Fbotswana-national-lockdown%2F&#038;format=xml" />
+<link rel="amphtml" href="https://iharare.com/botswana-national-lockdown/amp/" ><link rel="amphtml" href="https://iharare.com/botswana-national-lockdown/amp/"><script data-mrf-script="garda" data-mrf-host="b.marfeelcache.com" src="https://b.marfeelcache.com/statics/marfeel/gardac-sync.js"></script>
+<meta property="fb:pages" content="808547039304435" />
+<meta name="google-site-verification" content="NLaJ66lPEOJ8p087eGa03O44gJ8YaFLL2rbh5yGUBNM" />
+<meta name="google-site-verification" content="vbNaV7U2rvPmWKwiJANNAXTEg9tIIhD8ti4ssh_GRmc" />
+      <meta name="onesignal" content="wordpress-plugin"/>
+            <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://iharare.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '2009189a-072f-418d-9399-f4f6eecf8322';
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://iharare.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['persistNotification'] = false;
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "Organization",
+    "@id": "#organization",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "https:\/\/cy4ad5.c2.acecdn.net\/wp-content\/uploads\/2019\/11\/iharare-main-logo.png"
+    },
+    "url": "https:\/\/iharare.com\/",
+    "name": "iHarare News",
+    "description": "Zimbabwe&#039;s Loudest Internet Newspaper! Zimbabwe latest news,News from Zimbabwe, Daily News,Zimbabwe Breaking News, Latest Zimbabwe News,iHarare News, iHarare Breaking News,Newsday,Dailynews Zimbabwe,My Zimbabwe News, Latest News in Zimbabwe, Zimbabwe Current Affairs, Zimbabwe Online News, Zimbabwe Daily News, Zimbabwe Situation, Zimbabwe Politics News, News Dzezimbabwe, Bulawayo24, Zimeye,iHarare Answers, Mafaro News. zimbabwe news on the internet, Breaking news from in and outside Zimbabwe, Zimbabwe&#039;s latest news, H-Metro, Hmetro, hmetro news,Pindula News, Pindula, Pindula Profiles,zim hot news,daily news zimbabwe top stories,zimbabwe news online mafaro.co.uk hmetro.com, masvingo mirror, Bulawayo24, bulawayo 24 news, News - DailyNews Live"
+}</script>
+<script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "WebSite",
+    "name": "iHarare News",
+    "alternateName": "Zimbabwe&#039;s Loudest Internet Newspaper! Zimbabwe latest news,News from Zimbabwe, Daily News,Zimbabwe Breaking News, Latest Zimbabwe News,iHarare News, iHarare Breaking News,Newsday,Dailynews Zimbabwe,My Zimbabwe News, Latest News in Zimbabwe, Zimbabwe Current Affairs, Zimbabwe Online News, Zimbabwe Daily News, Zimbabwe Situation, Zimbabwe Politics News, News Dzezimbabwe, Bulawayo24, Zimeye,iHarare Answers, Mafaro News. zimbabwe news on the internet, Breaking news from in and outside Zimbabwe, Zimbabwe&#039;s latest news, H-Metro, Hmetro, hmetro news,Pindula News, Pindula, Pindula Profiles,zim hot news,daily news zimbabwe top stories,zimbabwe news online mafaro.co.uk hmetro.com, masvingo mirror, Bulawayo24, bulawayo 24 news, News - DailyNews Live",
+    "url": "https:\/\/iharare.com\/"
+}</script>
+<script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "BlogPosting",
+    "headline": "'No Alcohol For 6 Months' - Botswana Sets Out Tough Regulations For Lockdown",
+    "description": "Botswana National Lockdown: No Alcohol For The Next 3 MonthsThe Parliament of Botswana has decreed the rules and regulations pertaining to the national lockdown in a bid to contain the outbreak of the novel coronavirus.This follows after president Mo",
+    "datePublished": "2020-04-09",
+    "dateModified": "2020-04-09",
+    "author": {
+        "@type": "Person",
+        "@id": "#person-SharonChirisa",
+        "name": "Sharon Chirisa"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/iharare.com\/wp-content\/uploads\/2019\/03\/Mokgweetsi-Masisi.jpg",
+        "width": 790,
+        "height": 444
+    },
+    "interactionStatistic": [
+        {
+            "@type": "InteractionCounter",
+            "interactionType": "http:\/\/schema.org\/CommentAction",
+            "userInteractionCount": "0"
+        }
+    ],
+    "publisher": {
+        "@id": "#organization"
+    },
+    "mainEntityOfPage": "https:\/\/iharare.com\/botswana-national-lockdown\/"
+}</script>
+<link rel='stylesheet' id='bf-minifed-css-1' href='https://iharare.com/wp-content/bs-booster-cache/68370c47144847f7beeb8f1f54889e7d.css' type='text/css' media='all' />
+<link rel='stylesheet' id='7.6.2-1587974137' href='https://iharare.com/wp-content/bs-booster-cache/f79d3836d4106bb2ed7f8ec9638f2b83.css' type='text/css' media='all' />
+<link rel="icon" href="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/favicon11.gif" sizes="32x32" />
+<link rel="icon" href="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/favicon11.gif" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/favicon11.gif" />
+<meta name="msapplication-TileImage" content="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/favicon11.gif" />
+		<style type="text/css" id="wp-custom-css">
+			blockquote {
+	padding: 60px 5px 30px 15px !important;
+	text-align: left !important;
+}
+
+ul.heateor_sc_comments_tabs {
+    font-size: 20px !important;
+}
+.rt-reading-time {
+font: italic bold 16px sans-serif;
+color: #009688;
+margin-bottom: 15px;
+}
+
+		</style>
+			</head>
+
+<body class="post-template-default single single-post postid-172401 single-format-standard bs-theme bs-publisher bs-publisher-clean-magazine active-light-box active-top-line ltr close-rh page-layout-3-col-1 full-width main-menu-sticky-smart active-ajax-search single-prim-cat-50941 single-cat-50941 single-cat-854 single-cat-14  bs-show-ha bs-show-ha-a bs-ll-d" dir="ltr">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NT6MC2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+                <meta name="msvalidate.01" content="37F3A041465A41DD0CC04A33820F1DC6" />
+
+		<div class="main-wrap content-main-wrap">
+			<header id="header" class="site-header header-style-2 boxed" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+
+		<section class="topbar topbar-style-1 hidden-xs hidden-xs">
+	<div class="content-wrap">
+		<div class="container">
+			<div class="topbar-inner clearfix">
+
+				
+				<div class="section-menu">
+						<div id="menu-top" class="menu top-menu-wrapper" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+		<nav class="top-menu-container">
+
+			<ul id="top-navigation" class="top-menu menu clearfix bsm-pure">
+									<li id="topbar-date" class="menu-item menu-item-date">
+					<span
+						class="topbar-date">Monday, April 27, 2020</span>
+					</li>
+					<li id="menu-item-93025" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home better-anim-fade menu-item-93025"><a href="https://iharare.com/">Home</a></li>
+<li id="menu-item-93035" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-18 better-anim-fade menu-item-93035"><a href="https://iharare.com/category/opinion/">Opinion</a></li>
+<li id="menu-item-93034" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-20 better-anim-fade menu-item-93034"><a href="https://iharare.com/category/religion/">Religion</a></li>
+<li id="menu-item-93033" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-24 better-anim-fade menu-item-93033"><a href="https://iharare.com/category/technology/">Technology</a></li>
+<li id="menu-item-93032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-28 better-anim-fade menu-item-93032"><a href="https://iharare.com/category/world/">world</a></li>
+<li id="menu-item-93031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-8 better-anim-fade menu-item-93031"><a href="https://iharare.com/category/entertainment/">Entertainment</a></li>
+<li id="menu-item-93030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-19 better-anim-fade menu-item-93030"><a href="https://iharare.com/category/politics/">politics</a></li>
+<li id="menu-item-93029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-22 better-anim-fade menu-item-93029"><a href="https://iharare.com/category/scandals/">Scandals</a></li>
+<li id="menu-item-93027" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-6 better-anim-fade menu-item-93027"><a href="https://iharare.com/category/crime-and-courts/">Crime and Courts</a></li>
+<li id="menu-item-124581" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-124581"><a href="https://iharare.com/iharare-writers/">About Us</a></li>
+<li id="menu-item-124582" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-124582"><a href="https://iharare.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-124583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy better-anim-fade menu-item-124583"><a href="https://iharare.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-124730" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-124730"><a href="https://iharare.com/terms-of-service/">Terms of Service</a></li>
+			</ul>
+
+		</nav>
+	</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+		<div class="header-inner">
+			<div class="content-wrap">
+				<div class="container">
+					<div class="row">
+						<div class="row-height">
+							<div class="logo-col col-xs-4">
+								<div class="col-inside">
+									<div id="site-branding" class="site-branding">
+	<p  id="site-title" class="logo h1 img-logo">
+	<a href="https://iharare.com/" itemprop="url" rel="home">
+					<img id="site-logo" src="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/11/iharare-main-logo.png"
+			     alt="iHarare"  />
+
+			<span class="site-title">iHarare - Zimbabwe&#039;s Loudest Internet Newspaper! Zimbabwe latest news,News from Zimbabwe, Daily News,Zimbabwe Breaking News, Latest Zimbabwe News,iHarare News, iHarare Breaking News,Newsday,Dailynews Zimbabwe,My Zimbabwe News, Latest News in Zimbabwe, Zimbabwe Current Affairs, Zimbabwe Online News, Zimbabwe Daily News, Zimbabwe Situation, Zimbabwe Politics News, News Dzezimbabwe, Bulawayo24, Zimeye,iHarare Answers, Mafaro News. zimbabwe news on the internet, Breaking news from in and outside Zimbabwe, Zimbabwe&#039;s latest news, H-Metro, Hmetro, hmetro news,Pindula News, Pindula, Pindula Profiles,zim hot news,daily news zimbabwe top stories,zimbabwe news online mafaro.co.uk hmetro.com, masvingo mirror, Bulawayo24, bulawayo 24 news, News - DailyNews Live</span>
+				</a>
+</p>
+</div><!-- .site-branding -->
+								</div>
+							</div>
+															<div class="sidebar-col col-xs-8">
+									<div class="col-inside">
+										<aside id="sidebar" class="sidebar" role="complementary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+											<div class="dgnzh dgnzh-clearfix dgnzh-loc-header_aside_logo dgnzh-align-right dgnzh-column-1"><div id="dgnzh-170179-1982550252" class="dgnzh-container dgnzh-type-image " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="170179" data-type="image"><a itemprop="url" class="dgnzh-link" href="https://wa.me/263718636522?text=corona" target="_blank" ><img class="dgnzh-image" src="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2020/03/coid-19-banner.png" alt="COVID-19 Banner" /></a></div></div>										</aside>
+									</div>
+								</div>
+														</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="menu-main" class="menu main-menu-wrapper show-search-item menu-actions-btn-width-1" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+	<div class="main-menu-inner">
+		<div class="content-wrap">
+			<div class="container">
+
+				<nav class="main-menu-container">
+					<ul id="main-navigation" class="main-menu menu bsm-pure clearfix">
+						<li id="menu-item-94555" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home better-anim-fade menu-item-94555"><a href="https://iharare.com/">HOME</a></li>
+<li id="menu-item-94556" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-term-14 better-anim-fade menu-item-94556"><a href="https://iharare.com/category/localnews/">NEWS</a>
+<ul class="sub-menu">
+	<li id="menu-item-94558" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-19 better-anim-fade menu-item-94558"><a href="https://iharare.com/category/politics/">POLITICS</a></li>
+	<li id="menu-item-94557" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-6 better-anim-fade menu-item-94557"><a href="https://iharare.com/category/crime-and-courts/">CRIME&#038;COURTS</a></li>
+	<li id="menu-item-94560" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-8 better-anim-fade menu-item-94560"><a href="https://iharare.com/category/entertainment/">ENTERTAINMENT</a></li>
+</ul>
+</li>
+<li id="menu-item-145727" class="menu-item menu-item-type-custom menu-item-object-custom better-anim-fade menu-item-145727"><a href="https://ihararepricecheck.com/">PRICE CHECK</a></li>
+<li id="menu-item-115971" class="menu-item menu-item-type-custom menu-item-object-custom better-anim-fade menu-item-115971"><a href="https://ihararejobs.com">JOBS</a></li>
+<li id="menu-item-162014" class="menu-item menu-item-type-custom menu-item-object-custom better-anim-fade menu-item-162014"><a href="https://iharare.com/education">EDUCATION</a></li>
+<li id="menu-item-115970" class="menu-item menu-item-type-custom menu-item-object-custom better-anim-fade menu-item-115970"><a href="http://iharareclassifieds.com">CLASSIFIEDS</a></li>
+<li id="menu-item-152072" class="menu-item menu-item-type-custom menu-item-object-custom better-anim-fade menu-item-152072"><a href="https://events.iharare.com/">EVENTS</a></li>
+<li id="menu-item-164642" class="menu-item menu-item-type-custom menu-item-object-custom better-anim-fade menu-item-164642"><a href="http://zimbomingle.com">DATING</a></li>
+<li id="menu-item-96433" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-96433"><a href="https://iharare.com/contact-us/">CONTACT US</a></li>
+					</ul><!-- #main-navigation -->
+											<div class="menu-action-buttons width-1">
+															<div class="search-container close">
+									<span class="search-handler"><i class="fa fa-search"></i></span>
+
+									<div class="search-box clearfix">
+										<form role="search" method="get" class="search-form clearfix" action="https://iharare.com">
+	<input type="search" class="search-field"
+	       placeholder="Search..."
+	       value="" name="s"
+	       title="Search for:"
+	       autocomplete="off">
+	<input type="submit" class="search-submit" value="Search">
+</form><!-- .search-form -->
+									</div>
+								</div>
+														</div>
+										</nav><!-- .main-menu-container -->
+
+			</div>
+		</div>
+	</div>
+</div><!-- .menu -->
+	</header><!-- .header -->
+	<div class="rh-header clearfix dark deferred-block-exclude">
+		<div class="rh-container clearfix">
+
+			<div class="menu-container close">
+				<span class="menu-handler"><span class="lines"></span></span>
+			</div><!-- .menu-container -->
+
+			<div class="logo-container rh-img-logo">
+				<a href="https://iharare.com/" itemprop="url" rel="home">
+											<img src="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/11/iharare-main-logo.png"
+						     alt="iHarare News"  />				</a>
+			</div><!-- .logo-container -->
+		</div><!-- .rh-container -->
+	</div><!-- .rh-header -->
+<nav role="navigation" aria-label="Breadcrumbs" class="bf-breadcrumb clearfix bc-top-style"><div class="container bf-breadcrumb-container"><ul class="bf-breadcrumb-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="3" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="bf-breadcrumb-item bf-breadcrumb-begin"><a itemprop="item" href="https://iharare.com" rel="home""><span itemprop='name'>Home</span><meta itemprop="position" content="1" /></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="bf-breadcrumb-item"><a itemprop="item" href="https://iharare.com/category/coronavirus/" ><span itemprop='name'>Corona Virus</span><meta itemprop="position" content="2" /></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="bf-breadcrumb-item bf-breadcrumb-end"><span itemprop='name'>&#8216;No Alcohol For 6 Months&#8217; &#8211; Botswana Sets Out Tough Regulations For Lockdown</span><meta itemprop="position" content="3" /><meta itemprop="item" content="https://iharare.com/botswana-national-lockdown/"/></li></ul></div></nav><div class="content-wrap">
+		<main id="content" class="content-container">
+
+		<div class="container layout-3-col layout-3-col-1 container layout-bc-before post-template-10">
+
+			<div class="row main-section">
+										<div class="col-sm-7 content-column">
+							<div class="single-container">
+																<article id="post-172401" class="post-172401 post type-post status-publish format-standard has-post-thumbnail  category-coronavirus category-international category-localnews tag-botswana-national-lockdown tag-coronavirus-botswana tag-covid-19-botswana tag-mokgweetsi-eric-masisi tag-mokgweetsi-masisi single-post-content">
+									<div class="single-featured"></div>
+																		<div class="post-header-inner">
+										<div class="post-header-title">
+											<div class="term-badges floated"><span class="term-badge term-50941"><a href="https://iharare.com/category/coronavirus/">Corona Virus</a></span><span class="term-badge term-854"><a href="https://iharare.com/category/international/">International</a></span><span class="term-badge term-14"><a href="https://iharare.com/category/localnews/">Local</a></span></div>											<h1 class="single-post-title">
+												<span class="post-title" itemprop="headline">&#8216;No Alcohol For 6 Months&#8217; &#8211; Botswana Sets Out Tough Regulations For Lockdown</span>
+											</h1>
+											<div class="post-meta single-post-meta">
+			<a href="https://iharare.com/author/hveevy/"
+		   title="Browse Author Articles"
+		   class="post-author-a post-author-avatar">
+			<img alt='' src='https://secure.gravatar.com/avatar/b342314ff32027856827ee4f5fe2e495?s=26&d=mm&r=g' class='avatar avatar-26 photo avatar-default' height='26' width='26' /><span class="post-author-name">By <b>Sharon Chirisa</b></span>		</a>
+					<span class="time"><time class="post-published updated"
+			                         datetime="2020-04-09T20:58:20+02:00">On <b>Apr 9, 2020</b></time></span>
+								<span class="reading-time" style="color:red;font-size:16px;font-weight:bold;font-style:italic;">2 minute read</span>
+			<p class="last-updated" style="font-size: small;text-transform:uppercase;background-color:#fffdd4;">Last updated on April 9th, 2020 at 08:58 pm</p></div>
+										</div>
+									</div>
+											<div class="post-share single-post-share top-share clearfix style-1">
+			<div class="post-share-btn-group">
+				<a href="https://iharare.com/botswana-national-lockdown/#respond" class="post-share-btn post-share-btn-comments comments" title="Leave a comment on: &ldquo;&#8216;No Alcohol For 6 Months&#8217; &#8211; Botswana Sets Out Tough Regulations For Lockdown&rdquo;"><i class="bf-icon fa fa-comments" aria-hidden="true"></i> <b class="number">0</b></a><span class="views post-share-btn post-share-btn-views rank-1000" data-bpv-post="172401"><i class="bf-icon  bsfi-fire-2"></i> <b class="number">1,289</b></span>			</div>
+						<div class="share-handler-wrap ">
+				<span class="share-handler post-share-btn rank-50">
+					<i class="bf-icon  fa fa-share-alt"></i>						<b class="number">85</b>
+									</span>
+				<span class="social-item facebook"><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fiharare.com%2Fbotswana-national-lockdown%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-facebook','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-facebook"></i></span></a></span><span class="social-item twitter"><a href="https://twitter.com/share?text=%26%238216%3BNo+Alcohol+For+6+Months%26%238217%3B+%26%238211%3B+Botswana+Sets+Out+Tough+Regulations+For+Lockdown&url=https%3A%2F%2Fiharare.com%2Fbotswana-national-lockdown%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-twitter','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-twitter"></i></span></a></span><span class="social-item google_plus"><a href="https://plus.google.com/share?url=https%3A%2F%2Fiharare.com%2Fbotswana-national-lockdown%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-google_plus','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-google"></i></span></a></span><span class="social-item reddit"><a href="https://reddit.com/submit?url=https%3A%2F%2Fiharare.com%2Fbotswana-national-lockdown%2F&title=%26%238216%3BNo+Alcohol+For+6+Months%26%238217%3B+%26%238211%3B+Botswana+Sets+Out+Tough+Regulations+For+Lockdown" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-reddit','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-reddit-alien"></i></span></a></span><span class="social-item whatsapp"><a href="whatsapp://send?text=%26%238216%3BNo+Alcohol+For+6+Months%26%238217%3B+%26%238211%3B+Botswana+Sets+Out+Tough+Regulations+For+Lockdown %0A%0A https%3A%2F%2Fiharare.com%2Fbotswana-national-lockdown%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-whatsapp','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-whatsapp"></i></span></a></span><span class="social-item pinterest"><a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fiharare.com%2Fbotswana-national-lockdown%2F&media=https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/03/Mokgweetsi-Masisi.jpg&description=%26%238216%3BNo+Alcohol+For+6+Months%26%238217%3B+%26%238211%3B+Botswana+Sets+Out+Tough+Regulations+For+Lockdown" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-pinterest','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-pinterest"></i></span></a></span><span class="social-item email"><a href="mailto:?subject=%26%238216%3BNo+Alcohol+For+6+Months%26%238217%3B+%26%238211%3B+Botswana+Sets+Out+Tough+Regulations+For+Lockdown&body=https%3A%2F%2Fiharare.com%2Fbotswana-national-lockdown%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-email','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-envelope-open"></i></span></a></span></div>		</div>
+											<div class="entry-content clearfix single-post-content">
+										<p><strong><em>Botswana National Lockdown: No Alcohol For The Next 3 Months</em></strong></p>
+<p><img class="aligncenter wp-image-128335" src="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/03/Mokgweetsi-Masisi.jpg" alt="Botswana National Lockdown" width="600" height="337" srcset="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/03/Mokgweetsi-Masisi.jpg 790w, https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/03/Mokgweetsi-Masisi-300x169.jpg 300w, https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/03/Mokgweetsi-Masisi-768x432.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p><span style="text-transform: initial;">The Parliament of Botswana has decreed the rules and regulations pertaining to the national lockdown in a bid to contain the outbreak of the novel coronavirus.</span></p>
+<p>This follows after president Mokgweetsi Masisi <span style="text-transform: initial;">proposed extending a state of emergency in the country to last six months. </span></p>
+<p>The parliament resolved that the lockdown will end on the 30th of April however schools will be closed for the next 6 months.</p>
+<p>The country also dealt a heavy low to the imbibers by banning the sale of alcohol  and cigarettes for 6 while months.</p>
+<p>Below are the regulations set forth</p>
+<p><a href="https://www.facebook.com/story.php?story_fbid=10158217839309855&amp;id=619069854" target="_blank" rel="noopener noreferrer">Regulations approved by Parliament</a> means the following shall happen:</p>
+<blockquote><p>1. Lockdown will end on the 30th April 2020.</p>
+<p>2. Schools will be closed for 6 months.</p>
+<p>3. Entry into Botswana is prohibited unless one is a citizen or resident in Botswana for 6 months, unless the President directs otherwise.</p>
+<p>4. Gatherings of 2 or more people are prohibited for 6 months.</p>
+<p>5. Not more than 50 people are to attend a funeral in the next 6 months.</p>
+<p>7. No visits to hospitals, prisons and rehabilitation centres in the next 6 months.</p>
+<p>8. Restaurants will only open for takeaway services in the next 6 months.</p>
+<p>9. Alcohol and cigarettes will not be sold for 6 months.</p>
+<p>10. No employee will be retrenched in the next 6 months unless the business closes.</p>
+<p>11. Employees do not have the right to strike in the next 6 months.</p></blockquote>
+<p>Botswana recorded 7 more coronavirus cases, including one death and there are worries that the numbers might surge if preventive action is not taken.</p>
+<p>Thus far, the confirmed number of coronavirus positive cases in Botswana is 13.</p>
+<p><a href="https://www.africanews.com/2020/04/09/botswana-president-in-self-isolation-after-namibia-trip/" target="_blank" rel="noopener noreferrer">Botswana&#8217;s MPs were all placed under compulsory quarantine</a> by the Minister of Health after it was revealed that<span style="text-transform: initial;"> a health worker who was on duty at yesterday’s Parliament session tested positive for Coronavirus. </span></p>
+<hr />
+<p>YOU MAY ALSO BE INTERESTED IN READING</p>
+<p><a href="https://iharare.com/mai-titi-and-zizoe-take-war-to-social-media/" target="_blank" rel="noopener noreferrer">WATCH:’Zizoe Chikwambo Chinoshandiswa!’ – Mai Titi And Ex Lover Take War To Social Media</a></p>
+<p><a href="https://iharare.com/borrowdale-trauma-centre-privately-treating-the-elite/" target="_blank" rel="noopener noreferrer">Journalist ‘Exposes’ Borrowdale Trauma Centre For Privately Treating The Elite With Coronavirus? … Says Gvt Is Releasing False Stats</a></p>
+<p><a href="https://iharare.com/masvingo-businessman-caught-pants-down/" target="_blank" rel="noopener noreferrer">WATCH:DRAMA As Masvingo Businessman Is Caught Pants Down With Man’s Fiancee At Gweru Lodge</a></p>
+<p><a href="https://iharare.com/breaking-news-skeem-saam-actor-charles-maja-dies/" target="_blank" rel="noopener noreferrer">Breaking News : Legendary Skeem Saam Actor Charles “Big Boy” Maja Dies</a></p>
+<div class="corona-virus-call-to-action" style="color:white;background:#E9967A;padding:8px;font-size:18px;"><p><strong><i>The whole world, including Zimbabwe, have been gripped with the Coronavirus. It's new to all of us and one of the best ways to keep yourself safe is to stay informed.<i></strong></p><p><strong><i>Consider sharing this link with your friends and relatives on WhatsApp so that they can not only be informed, but they can know how to stay safe: <a href="https://wa.me/263718636522?text=Corona">wa.me/263718636522?text=Corona</a></i></strong></p><p><strong>Stay safe, stay home</strong></p></div><hr /><li style="text-transform:uppercase;"><a href="https://iharare.com/how-to-see-iharare-xtreme-on-your-news-feed-following-facebooks-new-algorithm" rel="nofollow"><strong>How To Never Miss IHarare Latest News On Your News Feed Following Facebook’s New Algorithm</strong></a></li><br><p style="color: white; background: #E9967A; padding: 8px; font-size: 18px;">IMPORTANT NOTICE: Dear invaluable iHarare Reader. It is our sheer delight to introduce our intelligent Whatsapp service which allows you to access the latest News, Jobs and Exchange rates on WhatsApp. Send a WhatsApp message with the word HIE to <b>+263718636522</b> or just <a href="https://wa.me/263718636522?text=HIE"><b> CLICK HERE</b></a> to try it out. iHarare has morphed into an integrated information one-stop-shop. Please click on the links highlighted in Red to access <a href="https://iharare.com/category/localnews/">News</a>, <a href="https://events.iharare.com/">Events</a>, <a href="https://ihararejobs.com/">Jobs</a>, <a href="https://ihararepricecheck.com/">Pricecheck</a>, <a href="http://iharareclassifieds.com/">Classifieds</a>, <a href="http://zimbomingle.com/">Dating</a> and <a href="https://iharare.com/education">Education</a> services by iHarare.For any queries contact us by <a href="https://iharare.com/contact-us/">CLICKING HERE</a> .</p>
+<div class="dgnzh dgnzh-clearfix dgnzh-post-bottom dgnzh-float-center dgnzh-align-center dgnzh-column-1"><div id="dgnzh-174496-1559835413" class="dgnzh-container dgnzh-type-custom_code " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="174496" data-type="custom_code"><!-- Composite Start -->
+<div id="M286726ScriptRootC880263">
+</div>
+<script src="https://jsc.mgid.com/i/h/iharare.com.880263.js" async>
+</script>
+<!-- Composite End -->
+</div></div>									</div>
+										<div class="entry-terms post-tags clearfix ">
+		<span class="terms-label"><i class="fa fa-tags"></i></span>
+		<a href="https://iharare.com/tag/botswana-national-lockdown/" rel="tag">Botswana National Lockdown</a><a href="https://iharare.com/tag/coronavirus-botswana/" rel="tag">Coronavirus Botswana</a><a href="https://iharare.com/tag/covid-19-botswana/" rel="tag">Covid-19 Botswana</a><a href="https://iharare.com/tag/mokgweetsi-eric-masisi/" rel="tag">Mokgweetsi Eric Masisi</a><a href="https://iharare.com/tag/mokgweetsi-masisi/" rel="tag">Mokgweetsi Masisi</a>	</div>
+		<div class="post-share single-post-share bottom-share clearfix style-1">
+			<div class="post-share-btn-group">
+				<a href="https://iharare.com/botswana-national-lockdown/#respond" class="post-share-btn post-share-btn-comments comments" title="Leave a comment on: &ldquo;&#8216;No Alcohol For 6 Months&#8217; &#8211; Botswana Sets Out Tough Regulations For Lockdown&rdquo;"><i class="bf-icon fa fa-comments" aria-hidden="true"></i> <b class="number">0</b></a><span class="views post-share-btn post-share-btn-views rank-1000" data-bpv-post="172401"><i class="bf-icon  bsfi-fire-2"></i> <b class="number">1,289</b></span>			</div>
+						<div class="share-handler-wrap ">
+				<span class="share-handler post-share-btn rank-50">
+					<i class="bf-icon  fa fa-share-alt"></i>						<b class="number">85</b>
+									</span>
+				<span class="social-item facebook has-title"><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fiharare.com%2Fbotswana-national-lockdown%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-facebook','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-facebook"></i></span><span class="item-title">Facebook</span></a></span><span class="social-item twitter has-title"><a href="https://twitter.com/share?text=%26%238216%3BNo+Alcohol+For+6+Months%26%238217%3B+%26%238211%3B+Botswana+Sets+Out+Tough+Regulations+For+Lockdown&url=https%3A%2F%2Fiharare.com%2Fbotswana-national-lockdown%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-twitter','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-twitter"></i></span><span class="item-title">Twitter</span></a></span><span class="social-item google_plus has-title"><a href="https://plus.google.com/share?url=https%3A%2F%2Fiharare.com%2Fbotswana-national-lockdown%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-google_plus','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-google"></i></span><span class="item-title">Google+</span></a></span><span class="social-item reddit has-title"><a href="https://reddit.com/submit?url=https%3A%2F%2Fiharare.com%2Fbotswana-national-lockdown%2F&title=%26%238216%3BNo+Alcohol+For+6+Months%26%238217%3B+%26%238211%3B+Botswana+Sets+Out+Tough+Regulations+For+Lockdown" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-reddit','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-reddit-alien"></i></span><span class="item-title">ReddIt</span></a></span><span class="social-item whatsapp has-title"><a href="whatsapp://send?text=%26%238216%3BNo+Alcohol+For+6+Months%26%238217%3B+%26%238211%3B+Botswana+Sets+Out+Tough+Regulations+For+Lockdown %0A%0A https%3A%2F%2Fiharare.com%2Fbotswana-national-lockdown%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-whatsapp','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-whatsapp"></i></span><span class="item-title">WhatsApp</span></a></span><span class="social-item pinterest has-title"><a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fiharare.com%2Fbotswana-national-lockdown%2F&media=https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/03/Mokgweetsi-Masisi.jpg&description=%26%238216%3BNo+Alcohol+For+6+Months%26%238217%3B+%26%238211%3B+Botswana+Sets+Out+Tough+Regulations+For+Lockdown" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-pinterest','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-pinterest"></i></span><span class="item-title">Pinterest</span></a></span><span class="social-item email has-title"><a href="mailto:?subject=%26%238216%3BNo+Alcohol+For+6+Months%26%238217%3B+%26%238211%3B+Botswana+Sets+Out+Tough+Regulations+For+Lockdown&body=https%3A%2F%2Fiharare.com%2Fbotswana-national-lockdown%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-email','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-envelope-open"></i></span><span class="item-title">Email</span></a></span></div>		</div>
+										</article>
+									<section class="next-prev-post clearfix">
+
+					<div class="prev-post">
+				<p class="pre-title heading-typo"><i
+							class="fa fa-arrow-left"></i> Prev Post				</p>
+				<p class="title heading-typo"><a href="https://iharare.com/mai-titi-and-zizoe-take-war-to-social-media/" rel="prev">WATCH:&#8217;Zizoe Chikwambo Chinoshandiswa!&#8217; &#8211; Mai Titi And Ex Lover Take War To Social Media</a></p>
+			</div>
+		
+					<div class="next-post">
+				<p class="pre-title heading-typo">Next Post <i
+							class="fa fa-arrow-right"></i></p>
+				<p class="title heading-typo"><a href="https://iharare.com/yoweri-museveni-teaches-people-to-jog/" rel="next">WATCH:&#8217; Jog In Your House! &#8216; &#8211; Ugandan President Drops Video Teaching People To Jog &#038; Exercise Indoors During Lockdown</a></p>
+			</div>
+		
+	</section>
+							</div>
+							<div class="post-related">
+
+	<div class="section-heading sh-t1 sh-s1 multi-tab">
+
+					<a href="#relatedposts_1453484781_1" class="main-link active"
+			   data-toggle="tab">
+				<span
+						class="h-text related-posts-heading">You might also like</span>
+			</a>
+			<a href="#relatedposts_1453484781_2" class="other-link" data-toggle="tab"
+			   data-deferred-event="shown.bs.tab"
+			   data-deferred-init="relatedposts_1453484781_2">
+				<span
+						class="h-text related-posts-heading">More from author</span>
+			</a>
+		
+	</div>
+
+		<div class="tab-content">
+		<div class="tab-pane bs-tab-anim bs-tab-animated active"
+		     id="relatedposts_1453484781_1">
+			
+					<div class="bs-pagination-wrapper main-term-none next_prev ">
+			<div class="listing listing-thumbnail listing-tb-2 clearfix  scolumns-3 simple-grid include-last-mobile">
+	<div  class="post-186 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-2 main-term-14">
+<div class="item-inner clearfix">
+			<div class="featured featured-type-featured-image">
+			<div class="term-badges floated"><span class="term-badge term-14"><a href="https://iharare.com/category/localnews/">Local</a></span></div>			<a  title="PICS: Soldier Dies, 3 Critically Injured In Army Truck Accident" style="background-image: url(https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/Army-Truck-In-Fatal-Accident-4-210x136.jpg);" data-bsrjs="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/Army-Truck-In-Fatal-Accident-4-279x220.jpg"					class="img-holder" href="https://iharare.com/soldier-dies-in-army-truck-accident/"></a>
+					</div>
+	<p class="title">	<a class="post-url" href="https://iharare.com/soldier-dies-in-army-truck-accident/" title="PICS: Soldier Dies, 3 Critically Injured In Army Truck Accident">
+			<span class="post-title">
+				PICS: Soldier Dies, 3 Critically Injured In Army Truck Accident			</span>
+	</a>
+	</p></div>
+</div >
+<div  class="post-287 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-2 main-term-28">
+<div class="item-inner clearfix">
+			<div class="featured featured-type-featured-image">
+			<div class="term-badges floated"><span class="term-badge term-28"><a href="https://iharare.com/category/world/">world</a></span></div>			<a  alt="South African Drug Dealers" title="PIC: South African Drug Dealers Busted With 80kgs Of Weed Stashed Inside Coffin" style="background-image: url(https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/WEED2-210x136.jpg);" data-bsrjs="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/WEED2-279x220.jpg"					class="img-holder" href="https://iharare.com/south-african-drug-dealers-busted/"></a>
+					</div>
+	<p class="title">	<a class="post-url" href="https://iharare.com/south-african-drug-dealers-busted/" title="PIC: South African Drug Dealers Busted With 80kgs Of Weed Stashed Inside Coffin">
+			<span class="post-title">
+				PIC: South African Drug Dealers Busted With 80kgs Of Weed Stashed Inside Coffin			</span>
+	</a>
+	</p></div>
+</div >
+<div  class="post-260 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-2 main-term-50941">
+<div class="item-inner clearfix">
+			<div class="featured featured-type-featured-image">
+			<div class="term-badges floated"><span class="term-badge term-50941"><a href="https://iharare.com/category/coronavirus/">Corona Virus</a></span></div>			<a  alt="Nigerian Nurse Dies" title="Nigerian Nurse Dies Of Covid-19 In UK As Her Sister Battles For Life On Ventilator" style="background-image: url(https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/EstherAkinsanya24042020-210x136.jpg);" data-bsrjs="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/EstherAkinsanya24042020-279x220.jpg"					class="img-holder" href="https://iharare.com/nigerian-nurse-dies-of-covid-19/"></a>
+					</div>
+	<p class="title">	<a class="post-url" href="https://iharare.com/nigerian-nurse-dies-of-covid-19/" title="Nigerian Nurse Dies Of Covid-19 In UK As Her Sister Battles For Life On Ventilator">
+			<span class="post-title">
+				Nigerian Nurse Dies Of Covid-19 In UK As Her Sister Battles For Life On Ventilator			</span>
+	</a>
+	</p></div>
+</div >
+<div  class="post-236 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-2 main-term-14">
+<div class="item-inner clearfix">
+			<div class="featured featured-type-featured-image">
+			<div class="term-badges floated"><span class="term-badge term-14"><a href="https://iharare.com/category/localnews/">Local</a></span></div>			<a  alt="eTV fired three stars" title="South African Entertainment Industry Loses Three Top Stars" style="background-image: url(https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/images-22-210x136.jpeg);" data-bsrjs="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/images-22-279x220.jpeg"					class="img-holder" href="https://iharare.com/south-african-entertainment-industry-loses-three-top-stars/"></a>
+					</div>
+	<p class="title">	<a class="post-url" href="https://iharare.com/south-african-entertainment-industry-loses-three-top-stars/" title="South African Entertainment Industry Loses Three Top Stars">
+			<span class="post-title">
+				South African Entertainment Industry Loses Three Top Stars			</span>
+	</a>
+	</p></div>
+</div >
+	</div>
+	
+	</div><div class="bs-pagination bs-ajax-pagination next_prev main-term-none clearfix">
+			<script>var bs_ajax_paginate_1215061379 = '{"query":{"paginate":"next_prev","count":4,"post_type":"post","posts_per_page":4,"post__not_in":[172401],"ignore_sticky_posts":1,"category__in":[50941,854,14],"_layout":{"state":"1|1|0","page":"3-col-1"}},"type":"wp_query","view":"Publisher::fetch_related_posts","current_page":1,"ajax_url":"\/wp-admin\/admin-ajax.php","remove_duplicates":"0","paginate":"next_prev","_layout":{"state":"1|1|0","page":"3-col-1"},"_bs_pagin_token":"a64c947"}';</script>				<a class="btn-bs-pagination prev disabled" rel="prev" data-id="1215061379"
+				   title="Previous">
+					<i class="fa fa-angle-left"
+					   aria-hidden="true"></i> Prev				</a>
+				<a  rel="next" class="btn-bs-pagination next"
+				   data-id="1215061379" title="Next">
+					Next <i
+							class="fa fa-angle-right" aria-hidden="true"></i>
+				</a>
+				</div>
+		</div>
+
+		<div class="tab-pane bs-tab-anim bs-tab-animated bs-deferred-container"
+		     id="relatedposts_1453484781_2">
+					<div class="bs-pagination-wrapper main-term-none next_prev ">
+				<div class="bs-deferred-load-wrapper" id="bsd_relatedposts_1453484781_2">
+			<script>var bs_deferred_loading_bsd_relatedposts_1453484781_2 = '{"query":{"paginate":"next_prev","count":4,"author":13,"post_type":"post","_layout":{"state":"1|1|0","page":"3-col-1"}},"type":"wp_query","view":"Publisher::fetch_other_related_posts","current_page":1,"ajax_url":"\/wp-admin\/admin-ajax.php","remove_duplicates":"0","paginate":"next_prev","_layout":{"state":"1|1|0","page":"3-col-1"},"_bs_pagin_token":"57c1ec0"}';</script>
+		</div>
+		
+	</div>		</div>
+	</div>
+</div>
+
+<div id="disqus_thread"></div>
+						</div><!-- .content-column -->
+												<div class="col-sm-3 sidebar-column sidebar-column-primary">
+							<aside id="sidebar-primary-sidebar" class="sidebar" role="complementary" aria-label="Primary Sidebar Sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+	<div id="custom_html-4" class="widget_text  h-ni w-nt primary-sidebar-widget widget widget_custom_html"><div class="textwidget custom-html-widget"><h4 class="block-title" style="padding:5px;border:2px solid;"><span>Email Us: info@iharare.com</span></h4></div></div><div id="dgnzh-23" class=" h-ni w-nt primary-sidebar-widget widget widget_dgnzh"><div class="dgnzh dgnzh-clearfix  dgnzh-align-center dgnzh-column-1"><div id="dgnzh-174374-255050437" class="dgnzh-container dgnzh-type-image " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="174374" data-type="image"><a itemprop="url" class="dgnzh-link" href="https://www.stanbicbank.co.zw/" target="_blank" ><img class="dgnzh-image" src="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2020/04/stanbic-thank-you-banner-300x600-1.jpg" alt="Stanbic thank you banner 1" /></a></div></div></div><div id="bs-thumbnail-listing-1-3" class=" h-ni w-t primary-sidebar-widget widget widget_bs-thumbnail-listing-1"><div id="" class=" bs-listing bs-listing-listing-thumbnail-1 bs-listing-single-tab pagination-animate">		<p class="section-heading sh-t1 sh-s1 main-term-none">
+
+		
+							<span class="h-text main-term-none main-link">
+						 LATEST					</span>
+			
+		
+		</p>
+				<div class="bs-pagination-wrapper main-term-none more_btn bs-slider-first-item">
+			<div class="listing listing-thumbnail listing-tb-1 clearfix columns-1">
+		<div class="post-186 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-14">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  title="PICS: Soldier Dies, 3 Critically Injured In Army Truck Accident" style="background-image: url(https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/Army-Truck-In-Fatal-Accident-4-86x64.jpg);" data-bsrjs="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/Army-Truck-In-Fatal-Accident-4-210x136.jpg"						class="img-holder" href="https://iharare.com/soldier-dies-in-army-truck-accident/"></a>
+							</div>
+		<p class="title">		<a href="https://iharare.com/soldier-dies-in-army-truck-accident/" class="post-url post-title">
+			PICS: Soldier Dies, 3 Critically Injured In Army Truck&hellip;		</a>
+		</p>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2020-04-27T09:20:57+02:00">Apr 27, 2020</time></span>
+						</div>
+			</div>
+	</div >
+	<div class="post-287 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-28">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  alt="South African Drug Dealers" title="PIC: South African Drug Dealers Busted With 80kgs Of Weed Stashed Inside Coffin" style="background-image: url(https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/WEED2-86x64.jpg);" data-bsrjs="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/WEED2-210x136.jpg"						class="img-holder" href="https://iharare.com/south-african-drug-dealers-busted/"></a>
+							</div>
+		<p class="title">		<a href="https://iharare.com/south-african-drug-dealers-busted/" class="post-url post-title">
+			PIC: South African Drug Dealers Busted With 80kgs Of Weed&hellip;		</a>
+		</p>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2020-04-27T09:04:54+02:00">Apr 27, 2020</time></span>
+						</div>
+			</div>
+	</div >
+	<div class="post-260 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-50941">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  alt="Nigerian Nurse Dies" title="Nigerian Nurse Dies Of Covid-19 In UK As Her Sister Battles For Life On Ventilator" style="background-image: url(https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/EstherAkinsanya24042020-86x64.jpg);" data-bsrjs="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/EstherAkinsanya24042020-210x136.jpg"						class="img-holder" href="https://iharare.com/nigerian-nurse-dies-of-covid-19/"></a>
+							</div>
+		<p class="title">		<a href="https://iharare.com/nigerian-nurse-dies-of-covid-19/" class="post-url post-title">
+			Nigerian Nurse Dies Of Covid-19 In UK As Her Sister Battles&hellip;		</a>
+		</p>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2020-04-27T08:12:34+02:00">Apr 27, 2020</time></span>
+						</div>
+			</div>
+	</div >
+	<div class="post-236 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-14">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  alt="eTV fired three stars" title="South African Entertainment Industry Loses Three Top Stars" style="background-image: url(https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/images-22-86x64.jpeg);" data-bsrjs="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/images-22-210x136.jpeg"						class="img-holder" href="https://iharare.com/south-african-entertainment-industry-loses-three-top-stars/"></a>
+							</div>
+		<p class="title">		<a href="https://iharare.com/south-african-entertainment-industry-loses-three-top-stars/" class="post-url post-title">
+			South African Entertainment Industry Loses Three Top Stars		</a>
+		</p>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2020-04-27T08:02:21+02:00">Apr 27, 2020</time></span>
+						</div>
+			</div>
+	</div >
+	<div class="post-249 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-12">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  title="Lockdown Hunger Strikes&#8230;Harare West Residents Turn To Eating Worms For Relish" style="background-image: url(https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/Worms2-86x64.jpg);" data-bsrjs="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2013/07/Worms2-210x136.jpg"						class="img-holder" href="https://iharare.com/harare-west-residents-eating-worms/"></a>
+							</div>
+		<p class="title">		<a href="https://iharare.com/harare-west-residents-eating-worms/" class="post-url post-title">
+			Lockdown Hunger Strikes&#8230;Harare West Residents Turn To&hellip;		</a>
+		</p>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2020-04-27T07:21:27+02:00">Apr 27, 2020</time></span>
+						</div>
+			</div>
+	</div >
+	</div>
+	
+	</div><div class="bs-pagination bs-ajax-pagination more_btn main-term-none clearfix">
+			<script>var bs_ajax_paginate_54473217 = '{"query":{"category":"","tag":"","taxonomy":"","post_ids":"","post_type":"","count":"5","order_by":"date","order":"DESC","time_filter":"","offset":"","style":"listing-thumbnail-1","cats-tags-condition":"and","cats-condition":"in","tags-condition":"in","featured_image":"0","ignore_sticky_posts":"1","author_ids":"","disable_duplicate":"0","ad-active":0,"paginate":"more_btn","pagination-show-label":"1","columns":1,"listing-settings":{"thumbnail-type":"featured-image","title-limit":"60","subtitle":"0","subtitle-limit":"0","subtitle-location":"before-meta","show-ranking":"0","meta":{"show":"1","author":"0","date":"1","date-format":"standard","view":"0","share":"0","comment":"0","review":"1"}},"override-listing-settings":"0","_layout":{"state":"1|1|0","page":"3-col-1"}},"type":"bs_post_listing","view":"Publisher_Thumbnail_Listing_1_Shortcode","current_page":1,"ajax_url":"\/wp-admin\/admin-ajax.php","remove_duplicates":"0","paginate":"more_btn","pagination-show-label":"1","override-listing-settings":"0","listing-settings":{"thumbnail-type":"featured-image","title-limit":"60","subtitle":"0","subtitle-limit":"0","subtitle-location":"before-meta","show-ranking":"0","meta":{"show":"1","author":"0","date":"1","date-format":"standard","view":"0","share":"0","comment":"0","review":"1"}},"columns":1,"ad-active":false,"_layout":{"state":"1|1|0","page":"3-col-1"},"_bs_pagin_token":"01eb378","data":{"vars":{"post-ranking-offset":5}}}';</script>				<a  rel="next" class="btn-bs-pagination" data-id="54473217"
+				   title="Load More Posts">
+			<span class="loading" style="display: none;">
+				<i class="fa fa-refresh fa-spin fa-fw"></i>
+			</span>
+					<span class="loading" style="display: none;">
+				Loading ...			</span>
+
+					<span class="loaded txt">
+				Load More Posts			</span>
+
+					<span class="loaded icon">
+				<i class="fa fa-angle-down" aria-hidden="true"></i>
+			</span>
+
+					<span class="no-more" style="display: none;">
+				No More Posts 
+			</span>
+
+				</a>
+
+				</div></div></div><div id="custom_html-3" class="widget_text  h-ni w-nt primary-sidebar-widget widget widget_custom_html"><div class="textwidget custom-html-widget"><!-- Gap365 728 X 90 Leaderboard --<ins data-revive-zoneid="405" data-revive-id="727bec5e09208690b050ccfc6a45d384"></ins><script async src="//servedby.revive-adserver.net/asyncjs.php"></script><!-- Gap365 300 X 250--<ins data-revive-zoneid="406" data-revive-id="727bec5e09208690b050ccfc6a45d384"></ins><script async src="//servedby.revive-adserver.net/asyncjs.php"></script>< Gap365 320 X 100 Floating bottom Left --<script type='text/javascript'><!--//<![CDATA[   var ox_u = 'http://servedby.revive-adserver.net/al.php?zoneid=407&target=_blank&charset=ISO-8859-15&layerstyle=simple&align=left&valign=bottom&padding=2&charset=ISO-8859-15&padding=2&shifth=0&shiftv=0&closebutton=t&nobg=t&noborder=t';   if (document.context) ox_u += '&context=' + escape(document.context);   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");//]]></script>--></div></div></aside>
+						</div><!-- .primary-sidebar-column -->
+												<div class="col-sm-2 sidebar-column sidebar-column-secondary">
+							<aside id="sidebar-secondary-sidebar" class="sidebar" role="complementary" aria-label="Secondary Sidebar Sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+	<div id="custom_html-2" class="widget_text  h-ni w-nt secondary-sidebar-widget widget widget_custom_html"><div class="textwidget custom-html-widget"><!--<div id="topcommenters" >
+<style>img.dsq-widget-avatar{width:inherit !important;height:inherit !important;}
+    li.dsq-widget-item{box-shadow: 0 9px 25px -11px #777;padding:10px !important;}</style>
+<script src="https://iharare.disqus.com/top_commenters_widget.js?num_items=6&hide_avatars=1"></script>
+<script>jQuery(document).ready(function(){
+        jQuery('.dsq-widget-meta').each(function(widget){
+            let regex = /\d+/;
+            let commentsCount = this.textContent.match(regex);
+            this.textContent = commentsCount + ' comments';
+        });
+        jQuery("#topcommenters a").filter(function(){
+					jQuery(this).prop( "onclick", null );
+            return this.hostname&&this.hostname!==location.hostname})
+            .attr('rel', 'nofollow').attr('target', '_blank')
+        });
+    </script>
+</div> --></div></div><div id="bs-likebox-3" class=" h-ni w-t secondary-sidebar-widget widget widget_bs-likebox"><div class="section-heading sh-t1 sh-s1"><span class="h-text">Give Us Some Sugar on Facebook</span></div>	<div  class="bs-shortcode bs-likebox ">
+				<div class="fb-page"
+		     data-href="https://www.facebook.com/eharare"
+		     data-small-header="false"
+		     data-adapt-container-width="true"
+		     data-show-facepile="1"
+		     data-locale="en_US"
+		     data-show-posts="0">
+			<div class="fb-xfbml-parse-ignore">
+			</div>
+		</div><!-- .fb-page -->
+	</div><!-- .bs-likebox -->
+</div><div id="dgnzh-8" class=" h-ni w-nt secondary-sidebar-widget widget widget_dgnzh"><div class="dgnzh dgnzh-clearfix  dgnzh-align-center dgnzh-column-1"></div></div></aside>
+						</div><!-- .secondary-sidebar-column -->
+									</div><!-- .main-section -->
+		</div><!-- .layout-2-col -->
+
+	</main><!-- main -->
+
+	</div><!-- .content-wrap -->
+<div class="more-stories right more-stories-thumbnail-1"
+     data-scroll-top="450"
+     data-close-settings="1D;">
+
+	<div class="more-stories-title">
+		More Stories
+		<a href="#" class="more-stories-close">
+			<i class="fa fa-close"></i>
+		</a>
+	</div>
+			<div class="bs-pagination-wrapper main-term-none next_prev ">
+			<div class="listing listing-thumbnail listing-tb-1 clearfix columns-1">
+		<div class="post-170100 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-10">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  title="Botswana President Placed In Coronavirus Self Isolation After Travelling To Namibia" style="background-image: url(https://cy4ad5.c2.acecdn.net/wp-content/uploads/2020/03/Mokgweetsi-Masisi-ED--86x64.png);" data-bsrjs="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2020/03/Mokgweetsi-Masisi-ED--210x136.png"						class="img-holder" href="https://iharare.com/botswana-president-placed-in-coronavirus-self-isolation/"></a>
+							</div>
+		<p class="title">		<a href="https://iharare.com/botswana-president-placed-in-coronavirus-self-isolation/" class="post-url post-title">
+			Botswana President Placed In Coronavirus Self Isolation&hellip;		</a>
+		</p>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2020-03-22T22:32:42+02:00">Mar 22, 2020</time></span>
+						</div>
+			</div>
+	</div >
+	<div class="post-153536 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-14">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  title="ED gives high praises to First Lady&#8217;s  philanthropic work" style="background-image: url(https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/11/EDMU-86x64.jpg);" data-bsrjs="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/11/EDMU-210x136.jpg"						class="img-holder" href="https://iharare.com/ed-gives-high-praises-to-first-lady/"></a>
+							</div>
+		<p class="title">		<a href="https://iharare.com/ed-gives-high-praises-to-first-lady/" class="post-url post-title">
+			ED gives high praises to First Lady&#8217;s  philanthropic&hellip;		</a>
+		</p>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2019-11-03T09:35:34+02:00">Nov 3, 2019</time></span>
+						</div>
+			</div>
+	</div >
+	<div class="post-153399 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-14">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  title="PICS: ED in Botswana for Presidential Inauguration" style="background-image: url(https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/11/EIRnDbXXkAANd-u-86x64.jpg);" data-bsrjs="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/11/EIRnDbXXkAANd-u-210x136.jpg"						class="img-holder" href="https://iharare.com/ed-in-botswana/"></a>
+							</div>
+		<p class="title">		<a href="https://iharare.com/ed-in-botswana/" class="post-url post-title">
+			PICS: ED in Botswana for Presidential Inauguration		</a>
+		</p>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2019-11-01T13:51:09+02:00">Nov 1, 2019</time></span>
+						</div>
+			</div>
+	</div >
+	<div class="post-133637 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-4">
+	<div class="item-inner clearfix">
+					<div class="featured featured-type-featured-image">
+				<a  title="WATCH: Botswana President Mocks Zim&#8217;s Policies, Lack of Rule Of Law" style="background-image: url(https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/04/Masisi-Strive-Masiyiwa2-86x64.jpg);" data-bsrjs="https://cy4ad5.c2.acecdn.net/wp-content/uploads/2019/04/Masisi-Strive-Masiyiwa2-210x136.jpg"						class="img-holder" href="https://iharare.com/watch-botswana-president-mocks-zims-policies-lack-of-rule-of-law/"></a>
+							</div>
+		<p class="title">		<a href="https://iharare.com/watch-botswana-president-mocks-zims-policies-lack-of-rule-of-law/" class="post-url post-title">
+			WATCH: Botswana President Mocks Zim&#8217;s Policies, Lack&hellip;		</a>
+		</p>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2019-04-25T15:55:01+02:00">Apr 25, 2019</time></span>
+						</div>
+			</div>
+	</div >
+	</div>
+	
+	</div><div class="bs-pagination bs-ajax-pagination next_prev main-term-none clearfix">
+			<script>var bs_ajax_paginate_1463827719 = '{"query":{"count":4,"paginate":"next_prev","pagination-show-label":"1","post_type":"post","posts_per_page":"4","post__not_in":[172401],"ignore_sticky_posts":1,"category__in":[50941,854,14],"tag__in":[59106,59107,59108,3487,59105],"data":{"listing":"thumbnail-1","item-heading-tag":"p","item-sub-heading-tag":"p","item-tag":"div","columns":1},"_layout":{"state":"1|1|0","page":"3-col-1"}},"type":"wp_query","view":"Publisher::listing_ajax_handler","current_page":1,"ajax_url":"\/wp-admin\/admin-ajax.php","data":{"listing":"thumbnail-1","item-heading-tag":"p","item-sub-heading-tag":"p","item-tag":"div","columns":1,"vars":{"post-ranking-offset":4}},"remove_duplicates":"0","paginate":"next_prev","pagination-show-label":"1","_layout":{"state":"1|1|0","page":"3-col-1"},"_bs_pagin_token":"3fe1df5"}';</script>				<a class="btn-bs-pagination prev disabled" rel="prev" data-id="1463827719"
+				   title="Previous">
+					<i class="fa fa-angle-left"
+					   aria-hidden="true"></i> Prev				</a>
+				<a  rel="next" class="btn-bs-pagination next"
+				   data-id="1463827719" title="Next">
+					Next <i
+							class="fa fa-angle-right" aria-hidden="true"></i>
+				</a>
+								<span class="bs-pagination-label label-light">1 of 2</span>
+			</div></div>	<footer id="site-footer" class="site-footer full-width">
+				<div class="copy-footer">
+			<div class="content-wrap">
+				<div class="container">
+										<div class="row footer-copy-row">
+						<div class="copy-1 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+							© 2020 - iHarare News. All Rights Reserved.						</div>
+						<div class="copy-2 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+							Website Design: IHarare Media						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer><!-- .footer -->
+		</div><!-- .main-wrap -->
+				<div class="bs-wrap-gdpr-law bs-wrap-gdpr-law-close">
+			<div class="bs-gdpr-law">
+				<p>
+					This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.
+					<a class="bs-gdpr-accept" href="#"
+					   data-cookie="show">Accept</a>
+
+											<a class="bs-gdpr-more"
+						   href="https://iharare.com/privacy-policy/">Read More</a>
+									</p>
+			</div>
+
+							<a class="bs-gdpr-show" href="#"
+				   data-cookie="show">Privacy & Cookies Policy</a>
+					</div>
+			<span class="back-top"><i class="fa fa-arrow-up"></i></span>
+
+
+<script type="text/javascript">
+/*
+	function handleOutboundLinkClicks(event) {
+	  ga('send', 'event', {
+	    eventCategory: `Outbound Link (${event.currentTarget.href})`,
+	    eventAction: 'click',
+	    eventLabel: event.currentTarget.href
+	  });
+	}
+
+	document.querySelectorAll('a').forEach(function(e){
+	    if((e.href).startsWith('http://www.getbuckszw.')){
+			e.setAttribute('onclick', 'handleOutboundLinkClicks(event)')
+	    }
+	});
+*/
+</script>
+
+
+	<script type="text/javascript">
+		/*Cookie manipulation taken from https://www.w3schools.com/js/js_cookies.asp*/
+		jQuery(document).ready(function(){	
+			if(getCookie('jobsAutoOpen') === ""){
+				setCookie('jobsAutoOpen', 'opened', 1);
+				document.querySelector('body').addEventListener('click', openJobsSite, false);
+			}
+
+			function openJobsSite(e){
+				document.querySelector('body').removeEventListener('click', openJobsSite);
+				
+				window.open('https://ihararepricecheck.com?utm_source=iharare.com&utm_medium=desktop&utm_campaign=autoopen', '_blank');
+// 				window.open('https://whatsappdownloadsandtips.com?utm_source=iharare.com&utm_medium=desktop&utm_campaign=autoopen', '_blank');
+			}
+
+			function setCookie(cname, cvalue, exdays) {
+			  var d = new Date();
+			  d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+			  var expires = "expires="+d.toUTCString();
+			  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+			}
+
+			function getCookie(cname) {
+			  var name = cname + "=";
+			  var ca = document.cookie.split(';');
+			  for(var i = 0; i < ca.length; i++) {
+			    var c = ca[i];
+			    while (c.charAt(0) == ' ') {
+			      c = c.substring(1);
+			    }
+			    if (c.indexOf(name) == 0) {
+			      return c.substring(name.length, c.length);
+			    }
+			  }
+			  return "";
+			}
+		});
+	</script>
+
+	
+<script async src="//get.optad360.io/sf/864ee7cb-2632-11e9-9ba0-06dc070e0e6e/plugin.min.js"></script><script>
+var bs_pagination_loc = {"loading":"<div class=\"bs-loading\"><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><\/div>"};
+</script>
+<script>
+var publisher_theme_global_loc = {"page":{"boxed":"full-width"},"header":{"style":"style-2","boxed":"boxed"},"ajax_url":"https:\/\/iharare.com\/wp-admin\/admin-ajax.php","loading":"<div class=\"bs-loading\"><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><\/div>","translations":{"tabs_all":"All","tabs_more":"More","lightbox_expand":"Expand the image","lightbox_close":"Close"},"lightbox":{"not_classes":""},"main_menu":{"more_menu":"enable"},"top_menu":{"more_menu":"enable"},"skyscraper":{"sticky_gap":30,"sticky":true,"position":"after-header"},"share":{"more":true},"refresh_googletagads":"1","notification":{"subscribe_msg":"By clicking the subscribe button you will never miss the new articles!","subscribed_msg":"You're subscribed to notifications","subscribe_btn":"Subscribe","subscribed_btn":"Unsubscribe"}};
+var publisher_theme_ajax_search_loc = {"ajax_url":"https:\/\/iharare.com\/wp-admin\/admin-ajax.php","previewMarkup":"<div class=\"ajax-search-results-wrapper ajax-search-no-product ajax-search-fullwidth\">\n\t<div class=\"ajax-search-results\">\n\t\t<div class=\"ajax-ajax-posts-list\">\n\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t<span>Posts<\/span>\n\t\t\t<\/div>\n\t\t\t<div class=\"posts-lists\" data-section-name=\"posts\"><\/div>\n\t\t<\/div>\n\t\t<div class=\"ajax-taxonomy-list\">\n\t\t\t<div class=\"ajax-categories-columns\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Categories<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"categories\"><\/div>\n\t\t\t<\/div>\n\t\t\t<div class=\"ajax-tags-columns\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Tags<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"tags\"><\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n<\/div>","full_width":"1"};
+</script>
+		<div class="rh-cover noscroll gr-5 no-login-icon" >
+			<span class="rh-close"></span>
+			<div class="rh-panel rh-pm">
+				<div class="rh-p-h">
+									</div>
+
+				<div class="rh-p-b">
+										<div class="rh-c-m clearfix"></div>
+
+											<form role="search" method="get" class="search-form" action="https://iharare.com">
+							<input type="search" class="search-field"
+							       placeholder="Search..."
+							       value="" name="s"
+							       title="Search for:"
+							       autocomplete="off">
+							<input type="submit" class="search-submit" value="">
+						</form>
+										</div>
+			</div>
+					</div>
+		
+		<div id="fb-root"></div>
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var better_post_views_vars = {"admin_ajax_url":"https:\/\/iharare.com\/wp-admin\/admin-ajax.php","post_id":"172401"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cy4ad5.c2.acecdn.net/wp-content/plugins/better-post-views/js/better-post-views.min.js?ver=1.5.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/iharare.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cy4ad5.c2.acecdn.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"iharare"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cy4ad5.c2.acecdn.net/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.17'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.17"},"disqusIdentifier":"172401 https:\/\/iharare.com\/?p=172401","disqusShortname":"iharare","disqusTitle":"\u2018No Alcohol For 6 Months\u2019 \u2013 Botswana Sets Out Tough Regulations For Lockdown","disqusUrl":"https:\/\/iharare.com\/botswana-national-lockdown\/","postId":"172401"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cy4ad5.c2.acecdn.net/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.17'></script>
+<script type='text/javascript' src='https://cy4ad5.c2.acecdn.net/wp-content/plugins/marfeelpress/includes/base/src/resources/js/resizer.js?ver=5.4'></script>
+<script type='text/javascript' src='https://cy4ad5.c2.acecdn.net/wp-includes/js/comment-reply.min.js?ver=5.4'></script>
+<script type='text/javascript' src='https://cy4ad5.c2.acecdn.net/wp-includes/js/wp-embed.min.js?ver=5.4'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=5.4' async='async'></script>
+<script type='text/javascript' src='https://cy4ad5.c2.acecdn.net/wp-content/plugins/better-adsmanager/js/advertising.min.js?ver=1.19.2'></script>
+<script type='text/javascript' async="async" src='https://iharare.com/wp-content/bs-booster-cache/bccf6003757a10d99ab309482fa5e3c3.js?ver=5.4'></script>
+
+<script>
+var dgnzh=function(a){"use strict";return{init:function(){0==dgnzh.ads_state()&&dgnzh.blocked_ads_fallback()},ads_state:function(){return void 0!==window.better_ads_adblock},blocked_ads_fallback:function(){var e=[];a(".dgnzh-container").each(function(){if("image"==a(this).data("type"))return 0;e.push({element_id:a(this).attr("id"),ad_id:a(this).data("adid")})}),e.length<1||jQuery.ajax({url:'https://iharare.com/wp-admin/admin-ajax.php',type:"POST",data:{action:"better_ads_manager_blocked_fallback",ads:e},success:function(e){var t=JSON.parse(e);a.each(t.ads,function(e,t){a("#"+t.element_id).html(t.code)})}})}}}(jQuery);jQuery(document).ready(function(){dgnzh.init()});
+
+</script>
+
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 428/679 objects using redis
+Page Caching using disk: enhanced 
+Content Delivery Network via cy4ad5.c2.acecdn.net
+Minified using disk
+Database Caching using redis
+
+Served from: iharare.com @ 2020-04-27 09:57:18 by W3 Total Cache
+-->

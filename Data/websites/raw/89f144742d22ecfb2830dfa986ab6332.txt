@@ -1,0 +1,633 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link data-rh="true" rel="manifest" href="/manifest.json"/><link data-rh="true" rel="icon" sizes="16x16" href="/branding/favicon/16.png"/><link data-rh="true" rel="icon" sizes="24x24" href="/branding/favicon/24.png"/><link data-rh="true" rel="icon" sizes="32x32" href="/branding/favicon/32.png"/><link data-rh="true" rel="icon" sizes="64x64" href="/branding/favicon/64.png"/><link data-rh="true" rel="icon" sizes="128x128" href="/branding/favicon/128.png"/><link data-rh="true" rel="icon" sizes="256x256" href="/branding/favicon/256.png"/><link data-rh="true" rel="apple-touch-icon" href="/branding/apple-touch/ap-news-apple-touch-152.png"/><link data-rh="true" rel="apple-touch-icon" sizes="152x152" href="/branding/apple-touch/ap-news-apple-touch-152.png"/><link data-rh="true" rel="apple-touch-icon" sizes="180x180" href="/branding/apple-touch/ap-news-apple-touch-180.png"/><link data-rh="true" rel="apple-touch-icon" sizes="167x167" href="/branding/apple-touch/ap-news-apple-touch-167.png"/><link data-rh="true" rel="mask-icon" href="/branding/touch-bar-icon/ap-news-touch-bar.svg" color="#dedede"/><link data-rh="true" rel="search" href="/OpenSearchDescription.xml" title="AP News" type="application/opensearchdescription+xml"/><link data-rh="true" rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css"/><meta data-rh="true" name="apple-mobile-web-app-capable" content="yes"/><meta data-rh="true" name="apple-mobile-web-app-status-bar-style" content="black"/><meta data-rh="true" name="theme-color" content="#dedede"/><meta data-rh="true" name="msapplication-config" content="browserconfig.xml"/><meta data-rh="true" name="description" content="TOKYO (AP) — When the Japanese government declared an emergency to curb the spread of the coronavirus earlier this month and asked people to work from home, crowds rushed to electronics stores.... "/><meta data-rh="true" name="keywords" content="AP Top News,International News,General News,Lifestyle,Technology,Business,Pandemics,Asia Pacific,Japan,Virus Outbreak"/><meta data-rh="true" name="twitter:card" content="summary_large_image"/><meta data-rh="true" name="twitter:site" content="@ap"/><meta data-rh="true" property="twitter:title" content="Low-tech Japan challenged in working from home amid pandemic"/><meta data-rh="true" property="twitter:description" content="TOKYO (AP) — When the Japanese government declared an emergency to curb the spread of the coronavirus earlier this month and asked people to work from home, crowds rushed to electronics stores.... "/><meta data-rh="true" property="twitter:image" content="https://storage.googleapis.com/afs-prod/media/bafcb4eda5dd46f9820f81dc65b2042f/3000.jpeg"/><meta data-rh="true" property="twitter:url" content="https://apnews.com/7a18fb5740f90712195205dd461253c8"/><meta data-rh="true" property="og:title" content="Low-tech Japan challenged in working from home amid pandemic"/><meta data-rh="true" property="og:description" content="TOKYO (AP) — When the Japanese government declared an emergency to curb the spread of the coronavirus earlier this month and asked people to work from home, crowds rushed to electronics stores.... "/><meta data-rh="true" property="og:type" content="article"/><meta data-rh="true" property="og:url" content="https://apnews.com/7a18fb5740f90712195205dd461253c8"/><meta data-rh="true" property="og:image" content="https://storage.googleapis.com/afs-prod/media/bafcb4eda5dd46f9820f81dc65b2042f/3000.jpeg"/><meta data-rh="true" property="og:image:width" content="4500"/><meta data-rh="true" property="og:image:height" content="3000"/><meta data-rh="true" property="og:site_name" content="AP NEWS"/><meta data-rh="true" property="fb:app_id" content="870613919693099"/><meta data-rh="true" property="fb:pages" content="249655421622"/><meta data-rh="true" property="article:published_time" content="2020-04-26T05:44:40Z"/><meta data-rh="true" property="article:modified_time" content="2020-04-27T00:18:06Z"/><meta data-rh="true" property="article:section" content="AP Top News"/><meta data-rh="true" property="article:tag" content="AP Top News"/><meta data-rh="true" property="article:tag" content="International News"/><meta data-rh="true" property="article:tag" content="General News"/><meta data-rh="true" property="article:tag" content="Lifestyle"/><meta data-rh="true" property="article:tag" content="Technology"/><meta data-rh="true" property="article:tag" content="Business"/><meta data-rh="true" property="article:tag" content="Pandemics"/><meta data-rh="true" property="article:tag" content="Asia Pacific"/><meta data-rh="true" property="article:tag" content="Japan"/><meta data-rh="true" property="article:tag" content="Virus Outbreak"/><script data-rh="true" type="application/ld+json">{"@context":"http://schema.org","@type":"NewsArticle","author":["Yuri Kageyama"],"dateModified":"2020-04-27T00:18:06Z","datePublished":"2020-04-26T05:44:40Z","description":"TOKYO (AP) — When the Japanese government declared an emergency to curb the spread of the coronavirus earlier this month and asked people to work from home, crowds rushed to electronics stores.... ","headline":"Low-tech Japan challenged in working from home amid pandemic","image":"https://storage.googleapis.com/afs-prod/media/bafcb4eda5dd46f9820f81dc65b2042f/2000.jpeg","mainEntityOfPage":{"@id":"https://apnews.com/7a18fb5740f90712195205dd461253c8","@type":"WebPage"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","height":60,"url":"http://apcontextual.appspot.com/Support/AMPLogo.png","width":600},"name":"Associated Press"}}</script><title data-rh="true">Low-tech Japan challenged in working from home amid pandemic</title><meta name="google-site-verification" content="XvG-YKlyyPmG2x0J9-rdS-zI8LhL4d75ZQoccETD2qA"><link rel="stylesheet" type="text/css" href="/dist/index.css?hash=171a6cfc78e"><style id="server-side-styles" type="text/css">.Component-ad-0-2-39 div {
+  width: 100% !important;
+  margin: 0 auto;
+}
+.Component-ad-0-2-39 div iframe {
+  margin: 0 auto;
+}
+.Component-adTitle-0-2-40 {
+  color: #9b9b9b;
+  font-size: 0.75rem;
+  margin-top: 0.625rem;
+  text-align: center;
+  font-family: 'GoodOT', Arial, sans-serif;
+  font-weight: 300;
+  line-height: 1rem;
+}
+.leaderboard-0-2-37 {
+  height: 0;
+  display: flex;
+  padding: 0;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  justify-content: center;
+}
+.dfpSlot-0-2-38 {
+  position: absolute;
+}
+.Component-root-0-2-44 {
+  width: 2rem;
+  height: 2rem;
+  display: block;
+  font-size: 0;
+}
+.Component-root-0-2-45 {
+  width: 2rem;
+  height: 2rem;
+  display: block;
+  font-size: 0;
+}
+.Component-root-0-2-46 {
+  width: 2rem;
+  height: 2rem;
+  display: block;
+  font-size: 0;
+}
+.Component-root-0-2-47 {
+  width: 2rem;
+  cursor: pointer;
+  height: 2rem;
+  display: block;
+  font-size: 0;
+}
+.Component-rootBig-0-2-48 {
+  width: 8.25rem;
+  overflow: hidden;
+  position: relative;
+}
+.Component-message-0-2-49 {
+  top: 0;
+  left: 2rem;
+  color: var(--colour, #777878);
+  position: absolute;
+  font-size: 0.875rem;
+  font-family: 'GoodOT', Arial, sans-serif;
+  font-weight: 300;
+  line-height: 2rem;
+}
+.Component-area-0-2-50 {
+  top: -1000000px;
+  left: -1000000px;
+  width: 10px;
+  height: 10px;
+  opacity: 0;
+  position: fixed;
+  pointer-events: none;
+}
+.Component-root-0-2-41 {
+  width: 7rem;
+  display: flex;
+  --colour: #0a3175;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+.Component-copyLink-0-2-42 {
+  width: 100%;
+  margin-top: 1.125rem;
+}
+.Component-oneLineDisplay-0-2-43 {
+  width: 17.5rem;
+  align-items: center;
+}
+.apLine-0-2-60 {
+  width: 3.75rem;
+  height: 0.5rem;
+  background: #ff322e;
+  transform-origin: left top;
+}
+.Component-title-0-2-51 {
+  color: #787878;
+  font-family: 'GoodOT', Arial, sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+.Component-headline-0-2-52, .Component-headline-0-2-52:link, .Component-headline-0-2-52:visited, .Component-headline-0-2-52:hover, .Component-headline-0-2-52:active {
+  color: #2c2c2c;
+  text-decoration: none;
+}
+.Component-h1-0-2-53 {
+  left: -0.125rem;
+  margin: 0;
+  position: relative;
+  font-size: 1.75rem;
+  font-family: 'GoodOT-Cond', Arial Narrow, Arial, sans-serif;
+  font-weight: 500;
+}
+.Component-root-0-2-59 {
+  color: #828282;
+}
+.Component-signature-0-2-56 {
+  left: -0.0625rem;
+  margin: 0.5rem 0 1rem 0;
+  display: inline-flex;
+  position: relative;
+  flex-flow: row wrap;
+  font-family: 'GoodOT', Arial, sans-serif;
+  font-weight: 300;
+}
+.Component-bylines-0-2-57 {
+  padding-right: 1.375rem;
+}
+.Component-headline-0-2-54 {
+  display: block;
+}
+.Component-headline-0-2-54, .Component-headline-0-2-54:link, .Component-headline-0-2-54:visited, .Component-headline-0-2-54:hover, .Component-headline-0-2-54:active {
+  color: #2c2c2c;
+  text-decoration: none;
+}
+.Component-h1-0-2-55 {
+  left: -0.125rem;
+  margin: 0;
+  position: relative;
+  font-size: 1.75rem;
+  font-family: 'GoodOT-Cond', Arial Narrow, Arial, sans-serif;
+  font-weight: 500;
+}
+.Component-root-0-2-69 {
+  color: #787878;
+  padding: 0.75rem;
+  font-size: 0.875rem;
+  background: #fff;
+  font-family: 'GoodOT', Arial, sans-serif;
+  font-weight: 300;
+  pointer-events: none;
+}
+.Component-leadFeature-0-2-61 {
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 0.75rem;
+}
+.Component-leadFeature-0-2-61.LeadFeature_video .count-caption {
+  display: none;
+}
+.Component-leadFeature-0-2-61:hover .count-caption {
+  opacity: 1;
+}
+.Component-countCaption-0-2-62 {
+  left: 0;
+  width: 100%;
+  bottom: 0;
+  margin: 0;
+  opacity: 0;
+  padding: 5.75rem 0.75rem 0.75rem 0.75rem;
+  position: absolute;
+  transition: opacity 0.15s;
+  background-clip: initial;
+  background-size: initial;
+  background-color: initial;
+  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6));
+  background-origin: initial;
+  background-repeat-x: initial;
+  background-repeat-y: initial;
+  background-attachment: initial;
+  background-position-x: initial;
+  background-position-y: initial;
+}
+@media only screen and (max-width: 53.0625rem) {
+  .Component-countCaption-0-2-62 {
+    display: none;
+  }
+}
+  .Component-visible-0-2-63 {
+    opacity: 1;
+  }
+  .Component-hidden-0-2-64 {
+    opacity: 0;
+  }
+  .Component-embedCaption-0-2-65 {
+    color: #fff;
+    background: transparent;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 300;
+    line-height: 1.4;
+  }
+  .Component-galleryArrow-0-2-66 {
+    top: 50%;
+    right: 0.75rem;
+    width: 2.5rem;
+    cursor: pointer;
+    height: 2.5rem;
+    --colour: #fff;
+    position: absolute;
+    transform: translateY(-50%);
+  }
+  .Component-video-0-2-67 {
+    pointer-events: none;
+  }
+  .Component-imageCaption-0-2-68 {
+    overflow: auto;
+    max-height: 10.625rem;
+  }
+  .Component-imageCaption-0-2-68::-webkit-scrollbar {
+    width: 5px;
+  }
+  .Component-imageCaption-0-2-68::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px #727272;
+  }
+  .Component-imageCaption-0-2-68::-webkit-scrollbar-thumb {
+    outline: 1px solid slategrey;
+    background-color: darkgray;
+  }
+  .Component-root-0-2-78 {
+    font-size: 1.125rem;
+    font-family: 'FreightText', Georgia, serif;
+    font-weight: 300;
+    line-height: 1.6875rem;
+  }
+  .Component-root-0-2-78 a, .Component-root-0-2-78 a:link, .Component-root-0-2-78 a:visited, .Component-root-0-2-78 a:hover, .Component-root-0-2-78 a:active {
+    color: #104ba5;
+    text-decoration: none;
+  }
+  .Component-p-0-2-70 {
+    margin: 0.75rem 0;
+  }
+@media only screen and (max-width: 47.9375rem) {
+  .Component-p-0-2-70 {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .Component-p-0-2-70 {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .Component-p-0-2-70 {
+    width: 85.71428571428571%;
+  }
+}
+  .Component-tallImage-0-2-71 {
+    float: right;
+    width: 42.857142857142854%;
+    margin: 0 0 0.75rem 0.75rem;
+  }
+  .Component-image-0-2-72 {
+    clear: right;
+  }
+  .Component-imageImg-0-2-73 {
+    z-index: 1;
+  }
+  .Component-dfp-0-2-74 {
+    clear: both;
+    width: 100%;
+    padding: 1.5rem 0;
+    justify-content: left;
+  }
+  .Component-block-0-2-75 {
+    margin: 0.75rem 0;
+  }
+  .Component-hubLink-0-2-76 {
+    clear: both;
+    margin: 0.75rem 0;
+  }
+  .Component-audioEmbed-0-2-77 {
+    margin: 0.75rem 0;
+  }
+  .root-0-2-80 {
+    width: 9.75rem;
+    margin: 0.75rem 0 1.5rem;
+    font-size: 0.75rem;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 300;
+    padding-right: 0.5rem;
+  }
+  .overflow-0-2-81 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .name-0-2-82 {
+    color: #787878;
+    overflow: hidden;
+    font-size: 1rem;
+    margin-top: 0.375rem;
+    font-weight: bold;
+    text-overflow: ellipsis;
+  }
+  .bio-0-2-83 {
+    color: #787878;
+    overflow: hidden;
+    font-size: 1rem;
+    margin-top: 0.25rem;
+    text-overflow: ellipsis;
+  }
+  .link-0-2-84 {
+    display: block;
+    overflow: hidden;
+    font-size: 0.875rem;
+    margin-top: 0.375rem;
+    text-overflow: ellipsis;
+  }
+  .link-0-2-84, .link-0-2-84:link, .link-0-2-84:visited, .link-0-2-84:hover, .link-0-2-84:active {
+    color: #0a3175;
+    text-decoration: none;
+  }
+  .pianoArticle-0-2-79 .tp-container-inner {
+    width: 100% !important;
+  }
+  .pianoArticle-0-2-79 .tp-container-inner iframe  {
+    width: 100% !important;
+  }
+  .Component-list-0-2-26 {
+    margin: 1.125rem 0 -1.5rem 0;
+    display: inline-flex;
+    padding: 0;
+    flex-flow: wrap;
+    list-style: none;
+  }
+  .Component-item-0-2-27 {
+    margin-bottom: 1.5rem;
+  }
+  .Component-item-0-2-27:not(:last-child) {
+    margin-right: 1.5rem;
+  }
+  .Component-icon-0-2-28 {
+    width: 1.5625rem;
+    height: 1.5625rem;
+    display: block;
+  }
+  .Component-list-0-2-22 {
+    margin: 1.5rem 0 -0.5rem 0;
+  }
+@media only screen and (max-width: 47.9375rem) {
+  .Component-list-0-2-22 {
+    display: flex;
+    flex-flow: wrap;
+  }
+}
+  .Component-item-0-2-23 {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  .Component-item-0-2-23:not(:last-child) {
+    margin-right: 0.5rem;
+  }
+  .Component-ios-0-2-24 {
+    width: 8.125rem;
+    height: 2.75rem;
+  }
+  .Component-android-0-2-25 {
+    width: 9.375rem;
+    height: 2.75rem;
+  }
+@media only screen and (min-width: 64rem) {
+  .Component-legalStuff-0-2-29 {
+    display: flex;
+    padding: 0 0 6.25rem;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+  }
+}
+@media only screen and (max-width: 47.9375rem) {
+  .Component-legalStuff-0-2-29 {
+    padding: 0 0 2.375rem;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .Component-legalStuff-0-2-29 {
+    padding: 0 0 2.375rem;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .Component-legalStuffNav-0-2-30 {
+    display: flex;
+  }
+}
+  .Component-list-0-2-31 {
+    margin: 0;
+    display: flex;
+    padding: 0;
+    flex-wrap: wrap;
+    list-style: none;
+  }
+  .Component-listItem-0-2-32 {
+    padding-right: 0.75rem;
+  }
+  .Component-title-0-2-33 {
+    font-size: 0.75rem;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .Component-title-0-2-33 {
+    padding: 1px 0.75rem 0 0;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .Component-title-0-2-33 {
+    padding: 1px 0.75rem 0 0;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .Component-copyright-0-2-34 {
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 47.9375rem) {
+  .Component-span-0-2-35 {
+    display: block;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .Component-span-0-2-35 {
+    display: block;
+  }
+}
+@media only screen and (max-width: 47.9375rem) {
+  .Component-spaceBelow-0-2-36 {
+    margin-bottom: 0.5rem;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .Component-spaceBelow-0-2-36 {
+    margin-bottom: 0.5rem;
+  }
+}
+  .Component-divider-0-2-21 {
+    width: 100%;
+    height: 1px;
+    background: rgba(236, 236, 236, 0.19999999999999996);
+  }
+@media only screen and (min-width: 64rem) {
+  .Component-divider-0-2-21 {
+    margin: 2.25rem 0 1.75rem 0;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .Component-divider-0-2-21 {
+    margin: 1.5rem 0 1.25rem 0;
+  }
+}
+@media only screen and (max-width: 47.9375rem) {
+  .Component-divider-0-2-21 {
+    margin: 1.125rem 0 0.75rem 0;
+  }
+}
+  .Component-footer-0-2-10 {
+    color: #fff;
+    padding: 2.1875rem 0 0 0;
+    font-size: 0.75rem;
+    background: #2c2c2c;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 300;
+  }
+  .Component-footer-0-2-10 a, .Component-footer-0-2-10 a:link, .Component-footer-0-2-10 a:visited, .Component-footer-0-2-10 a:hover, .Component-footer-0-2-10 a:active {
+    text-decoration: none;
+  }
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .Component-grid-0-2-11 {
+    display: grid;
+    grid-template-rows: auto 1.875rem auto auto auto;
+    grid-template-areas: "nav nav nav . . . apps apps apps . ." ". . . . . . . . . . ." "moreFromAp moreFromAp moreFromAp . . . followAp followAp followAp . ." "divider divider divider divider divider divider divider divider divider divider divider" "legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff";
+    grid-template-columns: repeat(5, 4.8125rem 1fr) 4.8125rem;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .Component-grid-0-2-11 {
+    display: grid;
+    grid-template-areas: "nav nav nav . . . apps apps apps . . . moreFromAp moreFromAp moreFromAp . . . followAp followAp followAp . ." "divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider" "legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff";
+    grid-template-columns: repeat(11, 4.8125rem 1fr) 4.8125rem;
+  }
+}
+  .Component-nav-0-2-12 {
+    grid-area: nav;
+  }
+  .Component-apps-0-2-13 {
+    grid-area: apps;
+  }
+  .Component-moreFromAp-0-2-14 {
+    grid-area: moreFromAp;
+  }
+  .Component-followAp-0-2-15 {
+    grid-area: followAp;
+  }
+  .Component-divider-0-2-16 {
+    grid-area: divider;
+  }
+  .Component-legalStuff-0-2-17 {
+    grid-area: legalStuff;
+  }
+  .Component-title-0-2-18 {
+    font-size: 1rem;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+@media only screen and (max-width: 47.9375rem) {
+  .Component-title-0-2-18 {
+    font-size: 0.875rem;
+  }
+}
+  .Component-list-0-2-19 {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    line-height: 2;
+  }
+  .Component-downloadDescription-0-2-20 {
+    padding-top: 0.3125rem;
+  }
+@keyframes keyframes-delayedScroll-0-2-1 {
+  0% {
+    overflow-y: hidden;
+  }
+  99% {
+    overflow-y: hidden;
+  }
+  100% {
+    overflow-y: auto;
+  }
+}
+  .overlay-0-2-2 {
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    z-index: -1;
+    position: fixed;
+  }
+  .topicsDropdown-0-2-3 {
+    top: calc(var(--navigation-height) + var( --navigation-padding-bottom) + var(--navigation-padding-top));
+    left: 0;
+    z-index: 4;
+    --height: 0;
+    position: absolute;
+    background: #ececec;
+    box-shadow: 0 2px 3px 0 #b5b5b6;
+    text-align: left;
+  }
+  .dropdownWrapper-0-2-4 {
+    height: var(--height);
+    overflow: hidden;
+    max-height: calc(80vh - 100px);
+    transition: height 0.2s;
+  }
+  .dropdownWrapper-0-2-4.opened {
+    animation: keyframes-delayedScroll-0-2-1 0.2s forwards;
+    overflow-y: auto;
+  }
+  .dropdown-0-2-5 {
+    margin: 0;
+    padding: 1.125rem 1.5rem;
+    font-size: 1rem;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 500;
+    line-height: 2rem;
+  }
+  .dropdown-0-2-5, .dropdown-0-2-5:link, .dropdown-0-2-5:visited, .dropdown-0-2-5:hover, .dropdown-0-2-5:active {
+    text-decoration: none;
+  }
+  .dropdownItem-0-2-6 {
+    list-style: none;
+  }
+  .Component-button-0-2-7 {
+    top: 1rem;
+    right: var(--fluid-wrapper-padding);
+    width: auto;
+    border: 0;
+    cursor: pointer;
+    display: inline-block;
+    outline: none;
+    padding: 0 1rem;
+    position: absolute;
+    font-size: 1rem;
+    background: #104ba5;
+    text-align: left;
+    font-family: 'GoodOT', Arial, sans-serif;
+    font-weight: 300;
+    line-height: 2rem;
+  }
+  .Component-button-0-2-7, .Component-button-0-2-7:link, .Component-button-0-2-7:visited, .Component-button-0-2-7:hover, .Component-button-0-2-7:active {
+    color: white;
+    text-decoration: none;
+  }
+@media only screen and (max-width: 47.9375rem) {
+  .Component-button-0-2-7 {
+    top: 0;
+  }
+}
+  .Component-loader-0-2-8 {
+    display: none;
+    --colour: white;
+    margin-left: 6px;
+  }
+  .Component-loader-0-2-8 .sk-fading-circle {
+    width: 1rem;
+    height: 1rem;
+  }
+  .Component-loader-0-2-8.searching {
+    display: inline-block;
+  }
+  .Component-arrow-0-2-9 {
+    width: 0.78125rem;
+    height: 0.78125rem;
+    display: inline;
+    margin-left: 0.625rem;
+  }
+  .Component-arrow-0-2-9.searching {
+    display: none;
+  }</style></head><body><div id="root"><div class="App" data-reactroot=""><noscript style="display:none;visibility:hidden"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNXLD4" width="0" height="0" title="Google Tag Manager iframe"></iframe></noscript><noscript style="display:none;visibility:hidden"><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=3005041&amp;cv=2.0&amp;cj=1" alt="Comscore beacon"/></noscript><main class="Main"><div class="Header" style="height:97px;top:0"><div class="fluid-wrapper"><a class="header-logo" href="/"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-logo"></use></svg></a><div class="optional-header-title hub" style="opacity:0"></div><div class="header-title" style="height:48px;padding-top:17px"><div class="title">AP NEWS</div></div><nav class="header-navigation-wrapper"><ol class="header-navigation"><li class="header-navigation-item"><a class="nav-action" href="/">Top Stories</a></li><li class="header-navigation-item topics"><label class="nav-action">Topics<svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-down-arrow"></use></svg></label><nav class="topicsDropdown-0-2-3 TopicsDropdown" style="right:auto"><div class="dropdown-wrapper dropdownWrapper-0-2-4" style="--height:0"><ol class="dropdown-0-2-5 dropdown"></ol></div></nav></li><li class="header-navigation-item"><a class="nav-action" href="/apf-videos">Video</a></li><li class="header-navigation-item radio"><span class="nav-action">Listen</span><div class="Radio" style="height:0;width:0"><div class="radio-content"><audio class="radio-player"></audio><div class="radio-text"><div class="radio-title">AP RADIO</div><div class="radio-subtitle">Update hourly</div></div><div class="radio-control radio-play"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-play"></use></svg></div></div></div></li><li class="header-navigation-item search"><div class="nav-action"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-search"></use></svg></div></li></ol></nav></div><div class="search-wrapper"><div class="SearchPopover" style="--height:0"><div class="inner"><input class="input" placeholder="Search" value=""/><button class="Component-button-0-2-7"><span>Search</span><div class="Loader Component-loader-0-2-8"><div class="sk-fading-circle"><div class="sk-circle1 sk-circle"></div><div class="sk-circle2 sk-circle"></div><div class="sk-circle3 sk-circle"></div><div class="sk-circle4 sk-circle"></div><div class="sk-circle5 sk-circle"></div><div class="sk-circle6 sk-circle"></div><div class="sk-circle7 sk-circle"></div><div class="sk-circle8 sk-circle"></div><div class="sk-circle9 sk-circle"></div><div class="sk-circle10 sk-circle"></div><div class="sk-circle11 sk-circle"></div><div class="sk-circle12 sk-circle"></div></div></div><svg class="SvgSprite Component-arrow-0-2-9"><use xlink:href="/dist/spritemap.svg#sprite-arrow"></use></svg></button><section class="search-results"></section></div></div></div></div><div class="header-placeholder"></div><div class="Body"><div class="Content WireStory fluid-wrapper with-lead"><div class="Leaderboard leaderboard-0-2-37"><div class="dfpSlot-0-2-38"><div data-key="ad-placeholder" id="div-gpt-ad-1461247613791-X" class="DFPSlot Component-ad-0-2-39"></div></div></div><div class="SocialShare Component-root-0-2-41 tablet-view"><a href="https://facebook.com/dialog/share?app_id=870613919693099&amp;display=popup&amp;href=https://apnews.com/7a18fb5740f90712195205dd461253c8" target="_blank" rel="noopener noreferrer" class="Component-root-0-2-44"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-facebook"></use></svg></a><a href="https://twitter.com/intent/tweet?url=https://apnews.com/7a18fb5740f90712195205dd461253c8" target="_blank" rel="noopener noreferrer" class="Component-root-0-2-45"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-twitter"></use></svg></a><a href="mailto:?subject=Low-tech Japan challenged in working from home amid pandemic&amp;body=https://apnews.com/7a18fb5740f90712195205dd461253c8" class="Component-root-0-2-46"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-email"></use></svg></a><div class="Component-root-0-2-47 Component-copyLink-0-2-42 Component-rootBig-0-2-48"><textarea tabindex="-1" class="Component-area-0-2-50">https://apnews.com/7a18fb5740f90712195205dd461253c8</textarea><div class="Component-message-0-2-49">Click to copy</div><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-link"></use></svg></div></div><div class="ContentView-LeftRail"><div></div><div class="sticky-part"><div class="SocialShare Component-root-0-2-41"><a href="https://facebook.com/dialog/share?app_id=870613919693099&amp;display=popup&amp;href=https://apnews.com/7a18fb5740f90712195205dd461253c8" target="_blank" rel="noopener noreferrer" class="Component-root-0-2-44"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-facebook"></use></svg></a><a href="https://twitter.com/intent/tweet?url=https://apnews.com/7a18fb5740f90712195205dd461253c8" target="_blank" rel="noopener noreferrer" class="Component-root-0-2-45"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-twitter"></use></svg></a><a href="mailto:?subject=Low-tech Japan challenged in working from home amid pandemic&amp;body=https://apnews.com/7a18fb5740f90712195205dd461253c8" class="Component-root-0-2-46"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-email"></use></svg></a><div class="Component-root-0-2-47 Component-copyLink-0-2-42 Component-rootBig-0-2-48"><textarea tabindex="-1" class="Component-area-0-2-50">https://apnews.com/7a18fb5740f90712195205dd461253c8</textarea><div class="Component-message-0-2-49">Click to copy</div><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-link"></use></svg></div></div><div class="RelatedTopics"><div class="heading">Related topics</div><ul class="tag-list"><li class="tag"><a data-key="related-tag" href="/apf-topnews">AP Top News</a></li><li class="tag"><a data-key="related-tag" href="/apf-intlnews">International News</a></li><li class="tag"><a data-key="related-tag" href="/apf-GeneralNews">General News</a></li><li class="tag"><a data-key="related-tag" href="/apf-lifestyle">Lifestyle</a></li><li class="tag"><a data-key="related-tag" href="/apf-technology">Technology</a></li><li class="tag"><a data-key="related-tag" href="/apf-business">Business</a></li><li class="tag"><a data-key="related-tag" href="/Pandemics">Pandemics</a></li><li class="tag"><a data-key="related-tag" href="/apf-asiapac">Asia Pacific</a></li><li class="tag"><a data-key="related-tag" href="/Japan">Japan</a></li><li class="tag"><a data-key="related-tag" href="/VirusOutbreak">Virus Outbreak</a></li></ul></div></div></div><div class="CardHeadline"><div class="Component-headline-0-2-54" data-key="card-headline"><h1 class="Component-h1-0-2-55">Low-tech Japan challenged in working from home amid pandemic</h1></div><div class="Component-signature-0-2-56"><span class="Component-bylines-0-2-57">By YURI KAGEYAMA</span><span class="Timestamp Component-root-0-2-59 Component-timestamp-0-2-58" data-key="timestamp" data-source="2020-04-27T00:18:06Z" title="2020-04-27 00:18:06 - Mon Apr 27 2020 00:18:06 GMT+0000 (Coordinated Universal Time)">April 27, 2020 GMT</span></div><div class="apLine-0-2-60" style="transform:scale(1)"></div></div><div class="divider"></div><a class="LeadFeature Component-leadFeature-0-2-61 LeadFeature_gallery" href="/7a18fb5740f90712195205dd461253c8/gallery/bafcb4eda5dd46f9820f81dc65b2042f"><div data-key="media-placeholder"></div><svg class="SvgSprite gallery-arrow Component-galleryArrow-0-2-66"><use xlink:href="/dist/spritemap.svg#sprite-gallery-arrow"></use></svg><div class="count-caption Component-countCaption-0-2-62 ssr-desktop"><div class="ImageGalleryCount"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-gallery-count"></use></svg><span>1 of 3</span></div><div class="Component-imageCaption-0-2-68"><div class="embed-caption Component-root-0-2-69 Component-embedCaption-0-2-65" data-key="embed-caption">FILE - In this March 2, 2020, file photo, commuters wearing masks stand in a packed train at the Shinagawa Station in Tokyo. When the Japanese government declared an emergency to curb the spread of the coronavirus earlier April and asked people to work from home, crowds rushed to electronics stores. Many Japanese lack the basic tools needed to work from home. Contrary to the ultramodern image of Japan Inc. with its robots, design finesse and gadgetry galore, in many respects the country is technologically challenged.  (AP Photo/Jae C. Hong, File)</div></div></div><div class="count-caption Component-countCaption-0-2-62 ssr-tablet"><div class="ImageGalleryCount"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-gallery-count"></use></svg><span>1 of 3</span></div><div class="Component-imageCaption-0-2-68"><div class="embed-caption Component-root-0-2-69 Component-embedCaption-0-2-65" data-key="embed-caption">FILE - In this March 2, 2020, file photo, commuters wearing masks stand in a packed train at the Shinagawa Station in Tokyo. When the Japanese government declared an emergency to curb the spread of the coronavirus earlier April and asked people to work from home, crowds rushed to electronics stores. Many Japanese lack the basic tools needed to work from home. Contrary to the ultramodern image of Japan Inc. with its robots, design finesse and gadgetry galore, in many respects the country is technologically challenged.  (AP Photo/Jae C. Hong, File)</div></div></div></a><div class="Article" data-key="article"><p class="Component-root-0-2-78 Component-p-0-2-70">TOKYO (AP) — When the Japanese government declared an emergency to curb the spread of the coronavirus earlier this month and asked people to work from home, crowds rushed to electronics stores. </p><p class="Component-root-0-2-78 Component-p-0-2-70">So much for social distancing. </p><p class="Component-root-0-2-78 Component-p-0-2-70">Many Japanese lack the basic tools needed to work from home. Contrary to the ultramodern image of Japan Inc. with its robots, design finesse and gadgetry galore, in many respects the country is technologically challenged. </p><p class="Component-root-0-2-78 Component-p-0-2-70">But the bigger obstacle is Japanese corporate culture, experts say. Offices still often rely on faxes instead of email. Many homes lack high-speed internet connections, and documents often must be stamped in-person with carved seals called “hanko,” which serve as signatures. So many Japanese really cannot work remotely, at least not all the time. </p><div class="Component-dfp-0-2-74"><div data-key="ad-placeholder" id="div-gpt-ad-1470255291270-0" class="DFPSlot Component-ad-0-2-39"></div></div><p class="Component-root-0-2-78 Component-p-0-2-70">A survey by YouGov, a British market researcher, found only 18% of those recently surveyed were able to avoid commuting to school or work, even though a relatively high 80% of people in Japan are afraid of catching the virus. </p><p class="Component-root-0-2-78 Component-p-0-2-70">In India, nearly 70% of those surveyed were staying home. In the U.S., it was about 30%, according to YouGov. </p><p class="Component-root-0-2-78 Component-p-0-2-70">One factor, says Yuri Tazawa, a pioneer in Japan of “teleworking,” or working from home, is that Japanese workers often do not have clearly defined jobs like Americans do, so companies expect their staff to be in constant communication with each other, working as teams. </p><p class="Component-root-0-2-78 Component-p-0-2-70">“But this is a matter of life and death for the workers and their families,” said Tazawa, president of Telework Management Inc. “We need to do immediately what we can do now.”</p><p class="Component-root-0-2-78 Component-p-0-2-70">Tazawa is offering an online crash course on how to immediately start working from home, using just mobile phones, if a personal computer is not available. She calls the approach a “hypothetical cloud office.” </p><p class="Component-root-0-2-78 Component-p-0-2-70">Unlike regular Zoom meetings, in which workers check in and out for discussions, she is proposing using Zoom for just voice connections, keeping it on throughout the work day so that employees who would normally share an office can feel as if they’re in the same room. </p><p class="Component-root-0-2-78 Component-p-0-2-70">“Teleworking is so important in the fight against the coronavirus,” said Tazawa.</p><p class="Component-root-0-2-78 Component-p-0-2-70">Some of Japan’s biggest companies, like Toyota Motor Corp. and Sony Corp., already have announced work-from-home policies. The main problem is with the small and medium-sized businesses which make up about 70% of the economy. </p><p class="Component-root-0-2-78 Component-p-0-2-70">Nicholas Benes, a corporate governance expert who has been offering a free webinar on teleworking for Japanese, said interest was surprisingly low. </p><div class="Component-dfp-0-2-74"><div data-key="ad-placeholder" id="div-gpt-ad-1470255291270-1" class="DFPSlot Component-ad-0-2-39"></div></div><p class="Component-root-0-2-78 Component-p-0-2-70">A lack of up-to-date IT systems means Japan lags in nurturing flexible work practices, office rules, management methods and even attitudes toward remote work. It’s one factor contributing to relatively low labor productivity. </p><p class="Component-root-0-2-78 Component-p-0-2-70">“Telework requires that managers trust and delegate much more decision-making to employees because it takes too much time in email or Skype to check with the boss,” said Benes, who heads the Board Director Training Institute of Japan, a non-profit that offers management and governance training. </p><p class="Component-root-0-2-78 Component-p-0-2-70">Japanese companies still rely on nuances of face-to-face interaction, or being able to “smell the air,” or “read the air,” Benes said, using common vernacular expressions. </p><p class="Component-root-0-2-78 Component-p-0-2-70">And then, there’s the fax machine. </p><p class="Component-root-0-2-78 Component-p-0-2-70">A third of Japanese households have faxes, according to a government study. </p><p class="Component-root-0-2-78 Component-p-0-2-70">It’s rare to find an office that doesn’t have one, unless it’s a futuristic company like SoftBank that frowns on such old-fashioned practices. Many respectable institutions shun emails and insist on receiving requests for information or other documentation by fax only. </p><p class="Component-root-0-2-78 Component-p-0-2-70">So as the number of coronavirus infections grows, urban commuter trains are only slightly less crowded than their usual jam-packed state. </p><p class="Component-root-0-2-78 Component-p-0-2-70">Futoshi Takami, a “salaryman,” as Japanese workers are called, says he had to work from the office until mid-April, when he was finally told he could work from home. But so far, he’s gotten few directions about what he’s supposed to be doing. He might soon be assigned to take some online classes, he said. </p><p class="Component-root-0-2-78 Component-p-0-2-70">Takami, who asked that his employer not be identified, said he has been doing some soul-searching about workplaces that seem to value rules over human life. </p><p class="Component-root-0-2-78 Component-p-0-2-70">“I am going to devote my time to think about what it is I really want to do with my life,” he said. </p><p class="Component-root-0-2-78 Component-p-0-2-70">___</p><p class="Component-root-0-2-78 Component-p-0-2-70">Yuri Kageyama is on Twitter https://twitter.com/yurikageyama</p></div><aside class="RightRail"><div><div data-key="ad-placeholder" id="div-gpt-ad-1461247613791-2" class="DFPSlot Component-ad-0-2-39"></div></div><div id="taboola-right-rail-thumbnails" class="top-stories"></div><div class="persistent-ad"><div><div data-key="ad-placeholder" id="div-gpt-ad-1461247613791-1" class="DFPSlot Component-ad-0-2-39"></div></div></div></aside><div class="bellow-article"><div class="piano-below-article-container pianoArticle-0-2-79"></div><div><div id="Below Sponsored Article Thumbnails - V2.0"></div></div><div><div data-key="ad-placeholder" id="div-gpt-ad-1470255291270-X" class="DFPSlot Component-ad-0-2-39"></div></div></div></div></div><div class="Component-footer-0-2-10"><div class="fluid-wrapper"><div class="Component-grid-0-2-11"><nav class="Component-nav-0-2-12"><div class="Component-title-0-2-18">AP NEWS</div><ol class="Component-list-0-2-19"><li><a href="/">Top Stories</a></li><li><a href="/apf-videos">Video</a></li><li><a href="mailto:support@apnews.com" rel="noopener noreferrer">Contact Us</a></li><li><a class="optanon-show-settings">Cookie Settings</a></li></ol></nav><div class="ssr-mobile Component-divider-0-2-21"></div><nav class="Component-apps-0-2-13"><div class="Component-title-0-2-18">Download AP NEWS</div><div class="Component-downloadDescription-0-2-20">Connect with the definitive source for global and local news</div><div class="Component-list-0-2-22"><a href="https://itunes.apple.com/us/app/ap-news/id364677107" target="_blank" rel="noopener noreferrer" class="Component-item-0-2-23 Component-ios-0-2-24"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-app-store"></use></svg></a><a href="https://play.google.com/store/apps/details?id=mnn.Android" target="_blank" rel="noopener noreferrer" class="Component-item-0-2-23 Component-android-0-2-25"><img src="/en_badge_web_generic.png" class="SvgSprite" alt="Google Play icon"/></a></div></nav><div class="ssr-mobile Component-divider-0-2-21"></div><nav class="Component-moreFromAp-0-2-14"><div class="Component-title-0-2-18">More from AP</div><ol class="Component-list-0-2-19"><li><a target="_blank" rel="noopener noreferrer" href="https://www.ap.org">ap.org</a></li><li><a target="_blank" rel="noopener noreferrer" href="https://insights.ap.org/">AP Insights</a></li><li><a target="_blank" rel="noopener noreferrer" href="https://blog.ap.org/">AP Definitive Source</a></li><li><a target="_blank" rel="noopener noreferrer" href="https://apimagesblog.com/">AP Images Spotlight</a></li><li><a target="_blank" rel="noopener noreferrer" href="https://www.ap.org/explore/">AP Explore</a></li><li><a target="_blank" rel="noopener noreferrer" href="https://www.ap.org/books/">AP Books</a></li></ol></nav><div class="ssr-mobile Component-divider-0-2-21"></div><nav class="Component-followAp-0-2-15"><div class="Component-title-0-2-18">Follow AP</div><ol class="Component-list-0-2-26"><li class="Component-item-0-2-27"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/AP" class="Component-icon-0-2-28"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-social-twitter"></use></svg></a></li><li class="Component-item-0-2-27"><a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/APNews" class="Component-icon-0-2-28"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-social-facebook"></use></svg></a></li><li class="Component-item-0-2-27"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/AssociatedPress" class="Component-icon-0-2-28"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-social-youtube"></use></svg></a></li><li class="Component-item-0-2-27"><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/associated-press" class="Component-icon-0-2-28"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-social-linkedin"></use></svg></a></li></ol></nav><div class="Component-divider-0-2-16 Component-divider-0-2-21"></div><div class="Component-legalStuff-0-2-17 Component-legalStuff-0-2-29"><nav class="Component-legalStuffNav-0-2-30"><div class="Component-title-0-2-33 Component-spaceBelow-0-2-36">The Associated Press</div><ol class="Component-list-0-2-31"><li class="Component-listItem-0-2-32 Component-spaceBelow-0-2-36"><a target="_blank" rel="noopener noreferrer" href="https://www.ap.org/about">About</a></li><li class="Component-listItem-0-2-32 Component-spaceBelow-0-2-36"><a target="_blank" rel="noopener noreferrer" href="https://www.ap.org/contact-us">Contact</a></li><li class="Component-listItem-0-2-32 Component-spaceBelow-0-2-36"><a target="_blank" rel="noopener noreferrer" href="http://aphelp.ap.org">Customer Support</a></li><li class="Component-listItem-0-2-32 Component-spaceBelow-0-2-36"><a target="_blank" rel="noopener noreferrer" href="https://www.ap.org/careers/">Careers</a></li><li class="Component-listItem-0-2-32 Component-spaceBelow-0-2-36"><a href="/termsofservice">Terms &amp; Conditions</a></li><li class="Component-listItem-0-2-32 Component-spaceBelow-0-2-36"><a href="/privacystatement">Privacy</a></li></ol></nav><div class="Component-copyright-0-2-34"><span class="Component-span-0-2-35 Component-spaceBelow-0-2-36">All contents © copyright <!-- -->2020<!-- --> The Associated Press.</span><span class="Component-span-0-2-35 Component-spaceBelow-0-2-36"> All rights reserved.</span></div></div></div></div></div></main></div></div><script>window['titanium-config'] = {"env":"prod","base":"https://apnews.com","afsApi":"https://afs-prod.appspot.com/api/v2","gcsRoot":"https://storage.googleapis.com/afs-prod","googleAnalyticsId":"UA-19104461-33","googleTagManagerId":"GTM-WNXLD4","dfpEnvironment":"PRODUCTION","appVersion":"182","pianoAid":"wwB5UljV1U","appNexus":"https://acdn.adnxs.com/prebid/c/7403/pb.js"};
+window['titanium-state'] = {"eyebrow":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":120000},"markdown":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":600000},"hub":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":120000},"card":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":120000},"content":{"loading":{"urn:publicid:ap.org:7a18fb5740f90712195205dd461253c8":false},"error":{"urn:publicid:ap.org:7a18fb5740f90712195205dd461253c8":null},"data":{"urn:publicid:ap.org:7a18fb5740f90712195205dd461253c8":{"block_fundamentals":true,"embedHTML":null,"pubstatus":"usable","slugline":"BC-AS--Virus Outbreak-Low-Tech Japan, 1st Ld-Writethru","embedHeight":null,"stackedStory":false,"disableNativo":true,"contentSponsor":null,"embedType":"Other","flattenedFirstWords":"TOKYO (AP) — When the Japanese government declared an emergency to curb the spread of the coronavirus earlier this month and asked people to work from home, crowds rushed to electronics stores....","alertLinkDateTime":null,"tagObjs":[{"order":6,"name":"AP Top News","isPr":null,"id":"apf-topnews"},{"order":10,"name":"International News","isPr":null,"id":"apf-intlnews"},{"order":3,"name":"General News","isPr":false,"id":"apf-GeneralNews"},{"order":10,"name":"Lifestyle","isPr":null,"id":"apf-lifestyle"},{"order":4,"name":"Technology","isPr":null,"id":"apf-technology"},{"order":10,"name":"Business","isPr":null,"id":"apf-business"},{"order":0,"name":"Pandemics","isPr":null,"id":"Pandemics"},{"order":8,"name":"Asia Pacific","isPr":null,"id":"apf-asiapac"},{"order":0,"name":"Japan","isPr":null,"id":"Japan"},{"order":0,"name":"Virus Outbreak","isPr":null,"id":"VirusOutbreak"}],"leadVideoAutoEmbed":false,"relatedStoryEmbeds":[],"storyHTML":"\u003cp>TOKYO (AP) — When the Japanese government declared an emergency to curb the spread of the coronavirus earlier this month and asked people to work from home, crowds rushed to electronics stores. \u003c/p>\u003cp>So much for social distancing. \u003c/p>\u003cp>Many Japanese lack the basic tools needed to work from home. Contrary to the ultramodern image of Japan Inc. with its robots, design finesse and gadgetry galore, in many respects the country is technologically challenged. \u003c/p>\u003cp>But the bigger obstacle is Japanese corporate culture, experts say. Offices still often rely on faxes instead of email. Many homes lack high-speed internet connections, and documents often must be stamped in-person with carved seals called “hanko,” which serve as signatures. So many Japanese really cannot work remotely, at least not all the time. \u003c/p>\u003cdiv class=\"ad-placeholder\">\u003c/div>\u003cp>A survey by YouGov, a British market researcher, found only 18% of those recently surveyed were able to avoid commuting to school or work, even though a relatively high 80% of people in Japan are afraid of catching the virus. \u003c/p>\u003cp>In India, nearly 70% of those surveyed were staying home. In the U.S., it was about 30%, according to YouGov. \u003c/p>\u003cp>One factor, says Yuri Tazawa, a pioneer in Japan of “teleworking,” or working from home, is that Japanese workers often do not have clearly defined jobs like Americans do, so companies expect their staff to be in constant communication with each other, working as teams. \u003c/p>\u003cp>“But this is a matter of life and death for the workers and their families,” said Tazawa, president of Telework Management Inc. “We need to do immediately what we can do now.”\u003c/p>\u003cp>Tazawa is offering an online crash course on how to immediately start working from home, using just mobile phones, if a personal computer is not available. She calls the approach a “hypothetical cloud office.” \u003c/p>\u003cp>Unlike regular Zoom meetings, in which workers check in and out for discussions, she is proposing using Zoom for just voice connections, keeping it on throughout the work day so that employees who would normally share an office can feel as if they’re in the same room. \u003c/p>\u003cp>“Teleworking is so important in the fight against the coronavirus,” said Tazawa.\u003c/p>\u003cp>Some of Japan's biggest companies, like Toyota Motor Corp. and Sony Corp., already have announced work-from-home policies. The main problem is with the small and medium-sized businesses which make up about 70% of the economy. \u003c/p>\u003cp>Nicholas Benes, a corporate governance expert who has been offering a free webinar on teleworking for Japanese, said interest was surprisingly low. \u003c/p>\u003cdiv class=\"ad-placeholder\">\u003c/div>\u003cp>A lack of up-to-date IT systems means Japan lags in nurturing flexible work practices, office rules, management methods and even attitudes toward remote work. It's one factor contributing to relatively low labor productivity. \u003c/p>\u003cp>“Telework requires that managers trust and delegate much more decision-making to employees because it takes too much time in email or Skype to check with the boss,” said Benes, who heads the Board Director Training Institute of Japan, a non-profit that offers management and governance training. \u003c/p>\u003cp>Japanese companies still rely on nuances of face-to-face interaction, or being able to “smell the air,” or “read the air,” Benes said, using common vernacular expressions. \u003c/p>\u003cp>And then, there's the fax machine. \u003c/p>\u003cp>A third of Japanese households have faxes, according to a government study. \u003c/p>\u003cp>It’s rare to find an office that doesn’t have one, unless it’s a futuristic company like SoftBank that frowns on such old-fashioned practices. Many respectable institutions shun emails and insist on receiving requests for information or other documentation by fax only. \u003c/p>\u003cp>So as the number of coronavirus infections grows, urban commuter trains are only slightly less crowded than their usual jam-packed state. \u003c/p>\u003cp>Futoshi Takami, a “salaryman,” as Japanese workers are called, says he had to work from the office until mid-April, when he was finally told he could work from home. But so far, he's gotten few directions about what he's supposed to be doing. He might soon be assigned to take some online classes, he said. \u003c/p>\u003cp>Takami, who asked that his employer not be identified, said he has been doing some soul-searching about workplaces that seem to value rules over human life. \u003c/p>\u003cp>“I am going to devote my time to think about what it is I really want to do with my life,” he said. \u003c/p>\u003cp>___\u003c/p>\u003cp>Yuri Kageyama is on Twitter https://twitter.com/yurikageyama\u003c/p>","description":null,"pullQuoteObjs":[],"embedCaption":null,"sequenceNumber":null,"title":"AS--Virus Outbreak-Low-Tech Japan","headline":"Low-tech Japan challenged in working from home amid pandemic","localMemberName":null,"dateline":null,"old_lead_video_key":null,"id":"urn:publicid:ap.org:7a18fb5740f90712195205dd461253c8","truncatedFirstWords":true,"etag":"7a18fb5740f90712195205dd461253c8_1a8aza0c0","notificationId":null,"version":null,"videoContext":" U.S., it was about 30%, according to YouGov. \u003c/p>","latestEtag":null,"embedLinkURL":null,"revision":null,"mediumIds":["bafcb4eda5dd46f9820f81dc65b2042f","4546569fcb454ac4b3f9e0e96aa64207","757822fde0e24cc98f26d97286d59694"],"media":[{"altText":null,"embedCaption":null,"imageFileExtension":".jpeg","title":null,"videoMimeType":null,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/bafcb4eda5dd46f9820f81dc65b2042f/","state":null,"flattenedCaption":"FILE - In this March 2, 2020, file photo, commuters wearing masks stand in a packed train at the Shinagawa Station in Tokyo. When the Japanese government declared an emergency to curb the spread of the coronavirus earlier April and asked people to work from home, crowds rushed to electronics stores. Many Japanese lack the basic tools needed to work from home. Contrary to the ultramodern image of Japan Inc. with its robots, design finesse and gadgetry galore, in many respects the country is technologically challenged.  (AP Photo/Jae C. Hong, File)","caption":"\u003cp>FILE - In this March 2, 2020, file photo, commuters wearing masks stand in a packed train at the Shinagawa Station in Tokyo. When the Japanese government declared an emergency to curb the spread of the coronavirus earlier April and asked people to work from home, crowds rushed to electronics stores. Many Japanese lack the basic tools needed to work from home. Contrary to the ultramodern image of Japan Inc. with its robots, design finesse and gadgetry galore, in many respects the country is technologically challenged.  (AP Photo/Jae C. Hong, File)\u003c/p>","imageMimeType":"image/jpeg","audioMimeType":null,"externalId":null,"etag":"bafcb4eda5dd46f9820f81dc65b2042f_0a1aza3c0","type":"Photo","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.499880239520958,"managementId":null,"xxUpdated":"2020-04-27 01:39:46","id":"bafcb4eda5dd46f9820f81dc65b2042f","alignment":null,"videoRenderedSizes":[]},{"altText":null,"embedCaption":null,"imageFileExtension":".jpeg","title":null,"videoMimeType":null,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/4546569fcb454ac4b3f9e0e96aa64207/","state":null,"flattenedCaption":"FILE - In this Feb. 20, 2020, file photo, people wear masks as they commute during the morning rush hour, in Chuo district in Tokyo. When the Japanese government declared an emergency to curb the spread of the coronavirus earlier April and asked people to work from home, crowds rushed to electronics stores. Many Japanese lack the basic tools needed to work from home. Contrary to the ultramodern image of Japan Inc. with its robots, design finesse and gadgetry galore, in many respects the country is technologically challenged.  (AP Photo/Kiichiro Sato, File)","caption":"\u003cp>FILE - In this Feb. 20, 2020, file photo, people wear masks as they commute during the morning rush hour, in Chuo district in Tokyo. When the Japanese government declared an emergency to curb the spread of the coronavirus earlier April and asked people to work from home, crowds rushed to electronics stores. Many Japanese lack the basic tools needed to work from home. Contrary to the ultramodern image of Japan Inc. with its robots, design finesse and gadgetry galore, in many respects the country is technologically challenged.  (AP Photo/Kiichiro Sato, File)\u003c/p>","imageMimeType":"image/jpeg","audioMimeType":null,"externalId":null,"etag":"4546569fcb454ac4b3f9e0e96aa64207_0a1aza3c0","type":"Photo","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.4997780736795383,"managementId":null,"xxUpdated":"2020-04-27 01:42:44","id":"4546569fcb454ac4b3f9e0e96aa64207","alignment":null,"videoRenderedSizes":[]},{"altText":null,"embedCaption":null,"imageFileExtension":".jpeg","title":null,"videoMimeType":null,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/757822fde0e24cc98f26d97286d59694/","state":null,"flattenedCaption":"FILE - In this April 20, 2020, file photo, a station passageway is crowded with face mask wearing commuters during a rush hour, in Tokyo. When the Japanese government declared an emergency to curb the spread of the coronavirus earlier April and asked people to work from home, crowds rushed to electronics stores. Many Japanese lack the basic tools needed to work from home. Contrary to the ultramodern image of Japan Inc. with its robots, design finesse and gadgetry galore, in many respects the country is technologically challenged. (AP Photo/Eugene Hoshiko, File)","caption":"\u003cp>FILE - In this April 20, 2020, file photo, a station passageway is crowded with face mask wearing commuters during a rush hour, in Tokyo. When the Japanese government declared an emergency to curb the spread of the coronavirus earlier April and asked people to work from home, crowds rushed to electronics stores. Many Japanese lack the basic tools needed to work from home. Contrary to the ultramodern image of Japan Inc. with its robots, design finesse and gadgetry galore, in many respects the country is technologically challenged. (AP Photo/Eugene Hoshiko, File)\u003c/p>","imageMimeType":"image/jpeg","audioMimeType":null,"externalId":null,"etag":"757822fde0e24cc98f26d97286d59694_0a1aza3c0","type":"Photo","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5,"managementId":null,"xxUpdated":"2020-04-27 01:42:47","id":"757822fde0e24cc98f26d97286d59694","alignment":null,"videoRenderedSizes":[]}],"updated":"2020-04-27 00:18:06","mediaCount":3,"contentType":"text","hons":false,"embargoDate":null,"gcsUrl":"https://storage.googleapis.com/afs-prod/contents/urn:publicid:ap.org:7a18fb5740f90712195205dd461253c8","reporterKeys":["afs:Reporter:7876642116"],"embedRatio":null,"audioMediumIds":[],"shortId":"7a18fb5740f90712195205dd461253c8","firstWords":"\u003cp>TOKYO (AP) — When the Japanese government declared an emergency to curb the spread of the coronavirus earlier this month and asked people to work from home, crowds rushed to electronics stores....\u003c/p>","sponsored":true,"interactiveLinkUrl":null,"organisationTagObjs":{"japangovernment":{"order":0,"name":"japan government"},"toyotamotorcorp":{"order":0,"name":"toyota motor corp"}},"layoutType":"Small Photo","hasTextOverlay":false,"bylines":"By YURI KAGEYAMA","tagIds":["apf-topnews","apf-intlnews","apf-GeneralNews","apf-lifestyle","apf-technology","apf-business","Pandemics","Japan","apf-asiapac","VirusOutbreak"],"storyLayout":{"type":"standard","background":"light"},"audioMedia":[],"language":null,"socialEmbeds":[],"contexts":null,"interactiveLinkUrlText":null,"leadVideoId":null,"headlinePlacement":"bottom left","richEmbeds":[],"omitFromFeed":null,"published":"2020-04-26 05:44:40","localLinkUrl":"https://apnews.com/7a18fb5740f90712195205dd461253c8","leadPhotoId":"bafcb4eda5dd46f9820f81dc65b2042f","xxUpdated":"2020-04-27 10:45:41"}},"loadedAt":{"urn:publicid:ap.org:7a18fb5740f90712195205dd461253c8":1587985625350},"expiration":120000},"medium":{"loading":{},"error":{},"data":{"bafcb4eda5dd46f9820f81dc65b2042f":{"altText":null,"embedCaption":null,"imageFileExtension":".jpeg","title":null,"videoMimeType":null,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/bafcb4eda5dd46f9820f81dc65b2042f/","state":null,"flattenedCaption":"FILE - In this March 2, 2020, file photo, commuters wearing masks stand in a packed train at the Shinagawa Station in Tokyo. When the Japanese government declared an emergency to curb the spread of the coronavirus earlier April and asked people to work from home, crowds rushed to electronics stores. Many Japanese lack the basic tools needed to work from home. Contrary to the ultramodern image of Japan Inc. with its robots, design finesse and gadgetry galore, in many respects the country is technologically challenged.  (AP Photo/Jae C. Hong, File)","caption":"\u003cp>FILE - In this March 2, 2020, file photo, commuters wearing masks stand in a packed train at the Shinagawa Station in Tokyo. When the Japanese government declared an emergency to curb the spread of the coronavirus earlier April and asked people to work from home, crowds rushed to electronics stores. Many Japanese lack the basic tools needed to work from home. Contrary to the ultramodern image of Japan Inc. with its robots, design finesse and gadgetry galore, in many respects the country is technologically challenged.  (AP Photo/Jae C. Hong, File)\u003c/p>","imageMimeType":"image/jpeg","audioMimeType":null,"externalId":null,"etag":"bafcb4eda5dd46f9820f81dc65b2042f_0a1aza3c0","type":"Photo","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.499880239520958,"managementId":null,"xxUpdated":"2020-04-27 01:39:46","id":"bafcb4eda5dd46f9820f81dc65b2042f","alignment":null,"videoRenderedSizes":[]},"4546569fcb454ac4b3f9e0e96aa64207":{"altText":null,"embedCaption":null,"imageFileExtension":".jpeg","title":null,"videoMimeType":null,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/4546569fcb454ac4b3f9e0e96aa64207/","state":null,"flattenedCaption":"FILE - In this Feb. 20, 2020, file photo, people wear masks as they commute during the morning rush hour, in Chuo district in Tokyo. When the Japanese government declared an emergency to curb the spread of the coronavirus earlier April and asked people to work from home, crowds rushed to electronics stores. Many Japanese lack the basic tools needed to work from home. Contrary to the ultramodern image of Japan Inc. with its robots, design finesse and gadgetry galore, in many respects the country is technologically challenged.  (AP Photo/Kiichiro Sato, File)","caption":"\u003cp>FILE - In this Feb. 20, 2020, file photo, people wear masks as they commute during the morning rush hour, in Chuo district in Tokyo. When the Japanese government declared an emergency to curb the spread of the coronavirus earlier April and asked people to work from home, crowds rushed to electronics stores. Many Japanese lack the basic tools needed to work from home. Contrary to the ultramodern image of Japan Inc. with its robots, design finesse and gadgetry galore, in many respects the country is technologically challenged.  (AP Photo/Kiichiro Sato, File)\u003c/p>","imageMimeType":"image/jpeg","audioMimeType":null,"externalId":null,"etag":"4546569fcb454ac4b3f9e0e96aa64207_0a1aza3c0","type":"Photo","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.4997780736795383,"managementId":null,"xxUpdated":"2020-04-27 01:42:44","id":"4546569fcb454ac4b3f9e0e96aa64207","alignment":null,"videoRenderedSizes":[]},"757822fde0e24cc98f26d97286d59694":{"altText":null,"embedCaption":null,"imageFileExtension":".jpeg","title":null,"videoMimeType":null,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/757822fde0e24cc98f26d97286d59694/","state":null,"flattenedCaption":"FILE - In this April 20, 2020, file photo, a station passageway is crowded with face mask wearing commuters during a rush hour, in Tokyo. When the Japanese government declared an emergency to curb the spread of the coronavirus earlier April and asked people to work from home, crowds rushed to electronics stores. Many Japanese lack the basic tools needed to work from home. Contrary to the ultramodern image of Japan Inc. with its robots, design finesse and gadgetry galore, in many respects the country is technologically challenged. (AP Photo/Eugene Hoshiko, File)","caption":"\u003cp>FILE - In this April 20, 2020, file photo, a station passageway is crowded with face mask wearing commuters during a rush hour, in Tokyo. When the Japanese government declared an emergency to curb the spread of the coronavirus earlier April and asked people to work from home, crowds rushed to electronics stores. Many Japanese lack the basic tools needed to work from home. Contrary to the ultramodern image of Japan Inc. with its robots, design finesse and gadgetry galore, in many respects the country is technologically challenged. (AP Photo/Eugene Hoshiko, File)\u003c/p>","imageMimeType":"image/jpeg","audioMimeType":null,"externalId":null,"etag":"757822fde0e24cc98f26d97286d59694_0a1aza3c0","type":"Photo","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5,"managementId":null,"xxUpdated":"2020-04-27 01:42:47","id":"757822fde0e24cc98f26d97286d59694","alignment":null,"videoRenderedSizes":[]}},"loadedAt":{"bafcb4eda5dd46f9820f81dc65b2042f":1587985625351,"4546569fcb454ac4b3f9e0e96aa64207":1587985625351,"757822fde0e24cc98f26d97286d59694":1587985625351},"expiration":120000},"defaultTags":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":600000},"radio":{"ignoreClickOnElements":[],"opened":false},"search":{"ignoreClickOnElements":[],"opened":false},"topics":{"ignoreClickOnElements":[],"opened":false},"headerTitle":{},"shareImage":{"loading":{"share-image":false},"error":{"share-image":null},"data":{"share-image":null},"loadedAt":{"share-image":1587985625419},"hasImage":false,"expiration":120000},"reporters":{"loading":{"afs:Reporter:7876642116":false},"error":{"afs:Reporter:7876642116":null},"data":{"afs:Reporter:7876642116":{"reporters":[{"mediumKey":null,"displayName":null,"twitterId":null,"beat":null,"xx_created":"2019-10-07 02:56:34","showReporterPage":false,"fullName":"YuriKageyama","xx_updated":"2020-04-27 10:46:41","showReporterBrief":false,"id":"afs:Reporter:7876642116","trigrams":["yur","uri","rik","ika","kag","age","gey","eya","yam","ama"],"email":null,"biography":null}]}},"loadedAt":{"afs:Reporter:7876642116":1587985625592},"expiration":120000}}
+window['titanium-cacheConfig'] = {"ignoreCache":false}</script><script src="/dist/index.js?hash=171a6cfc78e" async></script></body></html>

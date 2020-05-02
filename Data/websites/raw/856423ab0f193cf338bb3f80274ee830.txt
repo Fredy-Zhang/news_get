@@ -1,0 +1,1705 @@
+<!DOCTYPE html>
+
+<html class="site--the-feed no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="The Feed">
+  <meta name="msapplication-TileColor" content="#1b2024">
+  <meta name="theme-color" content="#1b2024">
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+
+  <title>Australia’s catastrophic bushfire summer released more CO2 than the country does in a year | The Feed</title>
+  <meta name="description" content="New government estimates reveal that Australia’s catastrophic summer of bushfires released more carbon dioxide emissions than the entire country produces in a year.">
+  <meta name="keywords" content="">
+  <meta name="msvalidate.01" content="0E549D3DACFFE4CFCA34DDAAA0180F04" />  
+  <meta property="og:title" content="Australia’s catastrophic bushfire summer released more CO2 than the country does in a year">
+  <meta property="og:description" content="New government estimates reveal that Australia’s catastrophic summer of bushfires released more carbon dioxide emissions than the entire country produces in a year.">
+  <meta property="og:type" content="article">
+  <meta property="og:image" content="https://sl.sbs.com.au/public/image/file/4487b1e7-601d-440c-9eed-55ff8e096393/crop/16x9">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="">
+  <meta property="og:image:height" content="">
+  <meta property="og:image:alt" content="Fire fighting crews battle a bushfire encroaching on properties near Lake Tabourie on the New South Wales South Coast.">
+  <meta property="og:site_name" content="The Feed">
+  <meta property="og:url" content="https://www.sbs.com.au/news/the-feed/australia-s-catastrophic-bushfire-summer-released-more-co2-than-the-country-does-in-a-year">
+  <meta property="og:locale" content="en_GB">
+  <meta property="article:publisher" content="https://www.facebook.com/thefeedsbsviceland">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@TheFeedSBS">
+  <meta name="twitter:title" content="Australia’s catastrophic bushfire summer released more CO2 than the country does in a year">
+  <meta name="twitter:description" content="New government estimates reveal that Australia’s catastrophic summer of bushfires released more carbon dioxide emissions than the entire country produces in a...">
+  <meta name="twitter:image" content="https://sl.sbs.com.au/public/image/file/4487b1e7-601d-440c-9eed-55ff8e096393/crop/16x9">
+  <meta name="twitter:url" content="https://www.sbs.com.au/news/the-feed/australia-s-catastrophic-bushfire-summer-released-more-co2-than-the-country-does-in-a-year">
+  
+  <meta itemprop="description" content="New government estimates reveal that Australia’s catastrophic summer of bushfires released more carbon dioxide emissions than the entire country produces in a year.">
+  <meta itemprop="image" content="https://sl.sbs.com.au/public/image/file/4487b1e7-601d-440c-9eed-55ff8e096393/crop/16x9">
+  <meta itemprop="name" content="The Feed">
+
+  <meta itemprop="datePublished" content="2020-04-22T16:24:25+10:00"/>
+
+  <meta property="fb:pages" content="10153017026003686,1718340018404039,118110394871717,1031979170179611,156543917205,152749149157,1653992468195523,853308881454030,248358785343756,402145919880044,125982670754724,6038270901,240259225410,242485789418468,1735930699952878,108683457751,139727238426,91116257004,100246430019521,368329703192018,194784127232544,173168582700205,168993229831044" />
+    
+      <script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","name":"The Feed","url":"https://www.sbs.com.au/news/the-feed","logo":{"@type":"ImageObject","url":"https://www.sbs.com.au/the-feed/img/logo-colour-square.png"},"sameAs":["https://www.facebook.com/thefeedsbsviceland","https://twitter.com/TheFeedSBS"]},{"@type":"Article","url":"https://www.sbs.com.au/news/the-feed/australia-s-catastrophic-bushfire-summer-released-more-co2-than-the-country-does-in-a-year","mainEntityOfPage":"https://www.sbs.com.au/news/the-feed/australia-s-catastrophic-bushfire-summer-released-more-co2-than-the-country-does-in-a-year","dateCreated":"2020-04-22T16:24:25+10:00","datePublished":"2020-04-22T16:24:25+10:00","dateModified":"2020-04-22T16:24:26+10:00","headline":"Australia’s catastrophic bushfire summer released more CO2 than the country does in a year","image":{"@type":"ImageObject","width":1280,"height":720,"url":"https://sl.sbs.com.au/public/image/file/4487b1e7-601d-440c-9eed-55ff8e096393/crop/16x9"},"thumbnailUrl":"https://sl.sbs.com.au/public/image/file/4487b1e7-601d-440c-9eed-55ff8e096393/crop/16x9_small","author":{"@type":"Person","name":"Sam Langford"},"publisher":{"@type":"Organization","name":"The Feed","url":"https://www.sbs.com.au","logo":{"@type":"ImageObject","url":"https://www.sbs.com.au/the-feed/img/logo-colour-square.png"}}}]}
+</script>
+          
+  
+
+            <meta name="msapplication-TileImage" content="/common/img/icons/icon-144x144.png">
+      <link rel="apple-touch-icon" href="/common/img/icons/icon-152x152.png">
+      <link rel="shortcut icon" href="/common/img/favicon.ico">
+      
+  <link rel="canonical" href="https://www.sbs.com.au/news/the-feed/australia-s-catastrophic-bushfire-summer-released-more-co2-than-the-country-does-in-a-year">
+          
+  
+  <meta name="robots" content="Index,Follow" />
+  <script type="text/javascript" src="/news/js/ruxitagentjs_ICA2SVfjqrux_10189200406084516.js" data-dtconfig="rid=RID_168156646|rpid=-2138575308|domain=sbs.com.au|reportUrl=/news/js/rb_ntg91751|app=d4959ac861aa26eb|featureHash=ICA2SVfjqrux|rdnt=1|uxrgce=1|bp=2|cuc=sdiw1qax|srms=1,1,,,|uxrgcm=100,25,300,3;100,25,300,3|dpvc=1|bismepl=2000|lastModification=1587367214983|dtVersion=10189200406084516|tp=500,50,0,1|uxdcw=1500|agentUri=/news/js/ruxitagentjs_ICA2SVfjqrux_10189200406084516.js"></script><link rel="manifest" href="/the-feed/manifest.json">
+
+  <style media="screen" type="text/css">
+    @import url(/the-feed/css/app-shell-a5b05a67e3f5a32b08d3c132ef2bc708.css);
+    @import url(/the-feed/css/screen-fad7ee2f1970fb9d817e3047ab8c8272.css);
+
+          @import url(/the-feed/css/lang/english_en-387f095198cbb0c6acde763c5f8a5525.css);
+      </style>
+        <script>
+    window.SBS_SETTINGS = window.SBS_SETTINGS || {
+      user_api: '',
+      app_base_url: 'https://www.sbs.com.au/news/the-feed',
+      sbs_base_url: 'https://www.sbs.com.au/',
+      site_name: 'the-feed',
+      site_dfp_prefix: '/4117/naca.sbs/',
+      api: 'https://sl.sbs.com.au',
+      site_display_name: 'The Feed',
+      cr_site_name: 'News'
+    };
+  </script>
+
+      <script data-module="data-layer_module">
+  var digitalData = {
+    "events": [],
+    "page": {
+      "pageInfo":{
+    "pageName": "s:news:the-feed:australia-s-catastrophic-bushfire-summer-released-more-co2-than-the-country-does-in-a-year",
+    "pageID": "2e4e8449-ffc8-4870-badc-dfd7f9ddfec7",
+    "language": "undefined",
+    "destinationURL": "https://www.sbs.com.au/news/the-feed/australia-s-catastrophic-bushfire-summer-released-more-co2-than-the-country-does-in-a-year",
+    "referralURL": "",
+    "originalReferrerURL": "",
+    "previousPageURL": "",
+    "previousPageName": "",
+    "title": "",
+    "siteName": "News",
+    "domain": "www.sbs.com.au",
+    "path": "/news/the-feed/australia-s-catastrophic-bushfire-summer-released-more-co2-than-the-country-does-in-a-year",
+    "clickSource": "",
+    "campaign": {
+        "trackingCode": "",
+        "campaignType": "",
+        "channelSource": ""
+    }
+},
+      "category":{
+    "primaryCategory": "news",
+    "siteSubSection1": "the-feed",
+    "siteSubSection2": "australia-s-catastrophic-bushfire-summer-released-more-co2-than-the-country-does-in-a-year",
+    "siteSubSection3": "",
+    "siteSubSection4": ""
+},
+      "attributes":{
+    "content": {
+        "pageClass": "article",
+        "contentType": "Article",
+        "articleType": "Article",
+        "contentLanguage": "undefined",
+        "articleID": "2e4e8449-ffc8-4870-badc-dfd7f9ddfec7",
+        "publishedDate": "2020-04-22T16:24:25+10:00",
+        "updatedDate": "2020-04-22T16:24:26+10:00",
+        "newsTopic": [],
+        "title": "Australia\u2019s catastrophic bushfire summer released more CO2 than the country does in a year",
+        "author": [
+            "Sam Langford"
+        ],
+        "subject": [
+            "Australian Bushfires",
+            "Climate change"
+        ],
+        "charter": "None",
+        "theme": "Educate",
+        "source": [],
+        "person": [],
+        "geography": [],
+        "organisation": [],
+        "program": [
+            "The Feed"
+        ],
+        "recommendable": "",
+        "originalArticleID": "2e4e8449-ffc8-4870-badc-dfd7f9ddfec7",
+        "originalArticleTitle": "Australia\u2019s catastrophic bushfire summer released more CO2 than the country does in a year"
+    },
+    "nielsen": {
+        "appID": "P8AF4D796-453B-4A09-A6F0-CCB99B8A45A3",
+        "appName": "SBS World News Australia"
+    },
+    "error": {
+        "errorPage": "",
+        "errorMessage": ""
+    }
+}
+    },
+    "user": {
+    "userInfo": {
+        "loggedIn": "",
+        "userID": "",
+        "syncUserID": [],
+        "loggedInVisit": "",
+        "loggedInType": "",
+        "userType": "",
+        "newsletterName": ""
+    },
+    "userSegment": {
+        "cxenseSegmentIDs": [],
+        "adobeSegmentIDs": [],
+        "strategicSegmentIDs": []
+    }
+},
+    "environment": {
+    "browser": {
+        "userAgent": "",
+        "version": ""
+    },
+    "platform": {
+        "deviceType": "",
+        "deviceName": "",
+        "sourceType": "",
+        "osName": ""
+    }
+}
+  };
+
+  //populate page title from <title> tag
+  var pageTitle = (document.getElementsByTagName("title")[0] && document.getElementsByTagName("title")[0].innerHTML) ? document.getElementsByTagName("title")[0].innerHTML : "embed";
+  digitalData.page.pageInfo["title"] = pageTitle;
+
+  var trackingCode = window.location.search.split('cid=').splice(1).join('').split('&')[0];
+  if (trackingCode !== undefined && digitalData.page.pageInfo.campaign !== undefined) {
+    digitalData.page.pageInfo.campaign["trackingCode"] = trackingCode;
+  }
+
+  //populate previousPageURL and previousPageName from sessionStorage when available
+  digitalData.page.pageInfo["previousPageURL"] = sessionStorage.getItem("pageURL") || "";
+  digitalData.page.pageInfo["previousPageName"] = sessionStorage.getItem("pageName") || "";
+
+  // add in the user agent string
+  if (digitalData.environment.browser !== undefined) {
+    digitalData.environment.browser["userAgent"] = navigator.userAgent;
+  } else {
+    digitalData.environment.browser = {};
+    digitalData.environment.browser["userAgent"] = navigator.userAgent;
+  }
+
+  //create the platform object to set the sourceType attribute
+  digitalData.environment.platform = {};
+  digitalData.environment.platform["sourceType"] = "web";
+
+  //save current page URL and name so we can use it in previous page properties if user clicks to another page
+  if (digitalData.page.pageInfo.hasOwnProperty("destinationURL")) {
+    sessionStorage.setItem("pageURL", digitalData.page.pageInfo.destinationURL);
+  }
+  if (digitalData.page.pageInfo.hasOwnProperty("pageName")) {
+    sessionStorage.setItem("pageName", digitalData.page.pageInfo.pageName);
+  }
+
+  //setting the referrer properties
+  if (document.referrer !== "" && document.referrer.indexOf("sbs.com.au") === -1) {
+    digitalData.page.pageInfo["referralURL"] = document.referrer;
+
+    if (localStorage.getItem("originalReferrerURL") === null) {
+      //this is the first time user visits our site so we save the referrer as original
+      localStorage.setItem("originalReferrerURL", document.referrer);
+    }
+  }
+
+  //populate originalReferrerURL from sessionStorage when available
+  digitalData.page.pageInfo["originalReferrerURL"] = localStorage.getItem("originalReferrerURL") || "";
+
+</script>
+    <script src="//nexus.ensighten.com/sbs/sbsprod/Bootstrap.js" defer></script>
+  
+  <script type="text/javascript">if(navigator.userAgent.match(/(Trident|MSIE)(\s?\/?)[0-9.]+/g)){var head=document.head;var ss=document.createElement('link');var js=document.createElement('script');ss.href="/common/css/legacy-01207aee0c3371210684bafb063c9f30.css";ss.rel="text/css";js.src="/common/js/legacy-5d9bfc9fe1a17e5a49d4d168eeda234e.js";head.appendChild(ss);head.appendChild(js);}</script>
+</head>
+
+<body>
+
+  <div class="layout layout--article">
+
+    
+    <nav class="global-nav global-nav--article" data-module="global-nav_module">
+  <a id="nav-main" aria-hidden="true" tabindex="-1"><!-- no js main nav activation --></a>
+  <a id="nav-search" aria-hidden="true" tabindex="-1"><!-- no js search activation --></a>
+
+  <div class="global-nav__header">
+    <div class="container">
+
+      <a class="sr-only sr-focusable" href="#main">Skip to content</a>
+
+      <div class="row">
+
+        <div class="global-nav__toggles column">
+          <span class="sr-only">Primary Navigation</span>
+          <a class="global-nav__toggle toggle" href="#nav-main" data-type="toggle-nav"><span><span class="sr-only">Show menu</span></span></a>
+          <a class="global-nav__toggle global-nav__toggle--close toggle" href="#"><span><span class="sr-only">Hide menu</span></span></a>
+        </div>
+
+                <div class="global-nav__logo-wrapper column">
+                      
+<div class="global-nav__context-flip-panel flip-panel">
+
+  <div class="global-nav__context-flip-pane flip-pane">
+    <div class="global-nav__logo">
+      <a class="sbs-logo" href="https://www.sbs.com.au/news/the-feed/">
+        <img src="/the-feed/img/logo-colour.svg" width="250" height="71" alt="The Feed">
+      </a>
+    </div>
+  </div>
+
+  <div class="global-nav__context-flip-pane flip-pane">
+    <p class="global-nav__context-title"></p>
+    
+  <div class="sharing sharing--outline sharing--context-social global-nav__context-social" data-module="sharing_module">
+          
+
+  
+
+  <div class="label sharing__label global-nav__context-social-label sr-only">Share</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--twitter" data-type="sharing-twitter">
+            <span class="sr-only">Share on Twitter</span>
+          </button>
+              </li>
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--facebook" data-type="sharing-facebook">
+            <span class="sr-only">Share on Facebook</span>
+          </button>
+              </li>
+        </ul>
+  </div>
+  </div>
+</div>
+                  </div>
+
+        <div class="global-nav__utils column">
+  </div>
+
+      </div>
+    </div>
+
+  </div>
+
+  
+
+<div class="global-nav__menu-strip">
+  <div class="container">
+    <div class="global-nav__menu-strip-sections">
+              <div class="menu menu--inline global-nav__menu-strip-section" role="menu">
+            <ul class="menu__list global-nav__menu-strip-section-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item first" role="menuitem">        <a href="/news/the-feed/latest"><span>Latest</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/the-feed/topic/issues"><span>Issues</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/the-feed/topic/people"><span>People</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/the-feed/topic/comedy"><span>Comedy</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/the-feed/topic/marc-meets"><span>Marc Meets</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/the-feed/topic/investigates"><span>Investigates</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/the-feed/topic/articles"><span>Articles</span><span></span></a>
+        
+    </li>
+
+    
+            
+                        
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item last" role="menuitem">        <a href="//www.sbs.com.au/ondemand/program/the-feed" target="_blank"><span>Episodes On Demand</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+              <div class="menu menu--inline global-nav__menu-strip-section" role="menu">
+            <ul class="menu__list global-nav__menu-strip-section-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item first last" role="menuitem">        <a href="//www.sbs.com.au/news"><span>SBS News</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+              <div class="menu menu--inline global-nav__menu-strip-section" role="menu">
+            <ul class="menu__list global-nav__menu-strip-section-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item first last" role="menuitem">        <a href="//www.sbs.com.au/"><span>SBS Home</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+    </div>
+  </div>
+</div>
+
+  <div class="global-nav__bodies is-inert--nav-hidden">
+
+    
+<div class="global-nav__body global-nav__body--nav">
+  <div class="global-nav__body-wrapper">
+
+    
+    <div class="container">
+      <div class="row">
+
+        <div class="global-nav__column global-nav__column--primary column">
+
+                  <div class="menu global-nav__menu global-nav__menu--news" role="menu">
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first" role="menuitem">        <a href="/news/the-feed/latest"><span>Latest</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/the-feed/topic/issues"><span>Issues</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/the-feed/topic/people"><span>People</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/the-feed/topic/comedy"><span>Comedy</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/the-feed/topic/marc-meets"><span>Marc Meets</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/the-feed/topic/investigates"><span>Investigates</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/the-feed/topic/articles"><span>Articles</span><span></span></a>
+        
+    </li>
+
+    
+            
+                        
+      
+    <li class="menu__list-item global-nav__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/ondemand/program/the-feed" target="_blank"><span>Episodes On Demand</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+                  <div class="menu global-nav__menu global-nav__menu--sbshome" role="menu">
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first last" role="menuitem">        <a href="//www.sbs.com.au/"><span>SBS Home</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+        </div>
+
+        <div class="global-nav__column global-nav__column--secondary column">
+
+                  <div class="menu global-nav__menu global-nav__menu--topics" role="menu">
+              
+
+  
+
+  <div class="label label menu__label global-nav__menu-label">More Topics</div>
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first" role="menuitem">        <a href="/news/the-feed/topic/the-frant"><span>The Frant</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/the-feed/topic/explainer"><span>Explainer</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item last" role="menuitem">        <a href="/news/the-feed/topic/opinions"><span>Opinions</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+                  <div class="menu global-nav__menu global-nav__menu--programs" role="menu">
+              
+
+  
+
+  <div class="label label menu__label global-nav__menu-label">News Programs</div>
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first" role="menuitem">        <a href="//www.sbs.com.au/news"><span>SBS News</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/news/dateline"><span>Dateline</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/news/insight"><span>Insight</span><span></span></a>
+        
+    </li>
+
+    
+            
+                        
+      
+    <li class="menu__list-item global-nav__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/news/small-business-secrets" target="_blank"><span>Small Business Secrets</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+        </div>
+
+        <div class="global-nav__column global-nav__column--supplementary column">
+          
+  <div class="sharing sharing--menu global-nav__menu global-nav__menu--social">
+          
+
+  
+
+  <div class="label sharing__label global-nav__menu-label">Follow The Feed</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+        
+                    <a href="//twitter.com/TheFeedSBS" class="sharing__link sharing__link--twitter" target="_blank" rel="noopener">
+            <span class="icon--twitter icon" aria-hidden="true"></span><span class="sr-only">Follow us on Twitter</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a href="//www.facebook.com/thefeedsbsviceland" class="sharing__link sharing__link--facebook" target="_blank" rel="noopener">
+            <span class="icon--facebook icon" aria-hidden="true"></span><span class="sr-only">Follow us on Facebook</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a href="//www.youtube.com/user/SBS2Australia" class="sharing__link sharing__link--youtube">
+            <span class="icon--youtube icon" aria-hidden="true"></span><span class="sr-only">Subscribe to our Youtube channel</span>
+          </a>
+              </li>
+        </ul>
+  </div>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+  </div>
+</nav>
+
+
+    <main class="main" id="main">
+
+                    <div class="page page--article">
+    
+      <section class="page__section page__section--style-1">
+
+                                                                                                    
+
+                                                            
+  <article class="article"
+  data-module="article_module"
+        data-edit="1"
+    data-uuid="2e4e8449-ffc8-4870-badc-dfd7f9ddfec7"
+  >
+
+    <script type="text/x-config">{
+        "digitalData": {
+  "page": {
+    "attributes": {},
+    "category": {},
+    "pageInfo": {
+      "path": "/news/the-feed/australia-s-catastrophic-bushfire-summer-released-more-co2-than-the-country-does-in-a-year",
+      "title": "Australia’s catastrophic bushfire summer released more CO2 than the country does in a year"
+    }
+  }
+}  }</script>
+
+            <header class="article__header">
+          <div class="article__container container">
+      <div class="row">
+        <div class="article__intro column">
+          
+          
+<div class="text-headline">
+  <h1 class="h1 headline article__headline">Australia’s catastrophic bushfire summer released more CO2 than the country does in a year</h1>
+</div>
+        </div>
+
+        <div class="article__media column">
+
+                      
+
+<div class="hero column article__hero">
+      
+    
+
+  
+
+
+        
+
+                
+  
+
+
+<div class="media-image media-image--16-9 hero__image article__hero-image">
+                  <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/4487b1e7-601d-440c-9eed-55ff8e096393/crop/16x9", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/4487b1e7-601d-440c-9eed-55ff8e096393/crop/16x9", "media": "(min-width: 767px)" },
+                { "srcset": "https://sl.sbs.com.au/public/image/file/4487b1e7-601d-440c-9eed-55ff8e096393/crop/16x9_large", "alt": "Fire fighting crews battle a bushfire encroaching on properties near Lake Tabourie on the New South Wales South Coast." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/4487b1e7-601d-440c-9eed-55ff8e096393/crop/16x9" media="(min-width: 1023px)">
+                              <source srcset="https://sl.sbs.com.au/public/image/file/4487b1e7-601d-440c-9eed-55ff8e096393/crop/16x9" media="(min-width: 767px)">
+          
+          <img srcset="https://sl.sbs.com.au/public/image/file/4487b1e7-601d-440c-9eed-55ff8e096393/crop/16x9_large" alt="Fire fighting crews battle a bushfire encroaching on properties near Lake Tabourie on the New South Wales South Coast.">
+        </noscript>
+      </picture>
+        </div>
+
+
+    <div class="hero__attribution article__hero-attribution">
+                                                                                    
+<div class="footnote hero__caption article__hero-caption"> Source: AAP</div>
+    </div>
+  </div>
+
+
+          
+        </div>
+              </div>
+    </div>
+  </header>
+
+  
+  
+<div class="article__container container">
+  <div class="row">
+    <div class="article__abstract column">
+      
+<div class="text-abstract">
+  
+<p class="text-abstract__content">New government estimates reveal that Australia’s catastrophic summer of bushfires released more carbon dioxide emissions than the entire country produces in a year.</p>
+</div>
+    </div>
+  </div>
+  <div class="row">
+    
+
+
+<div class="meta article__meta">
+  <div class="article__meta__byline">
+        <div class="meta__item article__meta-date">
+      <span class="sr-only">Updated</span> <time itemprop="datePublished" dateTime="2020-04-22T16:24:25+10:00">Updated 5 days ago</time>
+    </div>
+
+        <div class="meta__item article__meta-author article__meta-author--block">
+        By
+                      <span>Sam Langford</span>
+                        </div>
+
+          </div>
+
+      
+  <div class="sharing sharing--outline sharing--context-social article__meta__context-social" data-module="sharing_module">
+          
+
+  
+
+  <div class="label sharing__label article__meta__context-social-label">Share</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--facebook" data-type="sharing-facebook">
+            <span class="sr-only">Share on Facebook</span>
+          </button>
+              </li>
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--twitter" data-type="sharing-twitter">
+            <span class="sr-only">Share on Twitter</span>
+          </button>
+              </li>
+        </ul>
+  </div>
+  
+</div>
+  </div>
+  <div class="row">
+    <div class="article__body column">
+      
+
+<div class="dfp is-dormant" data-slot-id="slot2" data-module="dfp_module">
+  <div class="dfp-slot slot2" id="dfp-slot2" data-lazyload-ads></div>
+</div>
+      
+<div class="text-body"><p dir="ltr"><span>Australia’s summer of bushfires released more than 830 million tonnes of CO2, according to </span><a href="https://www.industry.gov.au/sites/default/files/2020-04/estimating-greenhouse-gas-emissions-from-bushfires-in-australias-temperate-forests-focus-on-2019-20.pdf"><span>new estimates released by the government</span></a><span>.</span></p><p dir="ltr"><span>That’s more CO2 than the entire country typically emits in a year -- and Australia already has the 15th highest domestic emissions in the world, out of 193 countries.&nbsp;</span></p><p dir="ltr"><span>In fact, the summer’s bushfires released more CO2 than all but five countries; China, the US, India, Russia and Japan.&nbsp;</span></p><p dir="ltr"><span>However, the government reports that the greenhouse gas emissions generated by the bushfires will have a “negligible impact” on Australia’s progress towards its 2020 and 2030 emissions reduction targets, as the country’s forests are expected to re-absorb carbon as they recover over the next decade and beyond.</span></p><p dir="ltr"><span>As an example, the report cites evidence that more than 98 per cent of forests destroyed during the 2002-03 bushfire season recovered within 10 years.&nbsp;</span></p><p dir="ltr"><span>The government reports that the recovery of Australia’s forests following this bushfire season is expected to be complete, “in the absence of new disturbances” such as future bushfires.&nbsp;&nbsp;</span></p><h3 dir="ltr"><strong>The government report suggests the damage done by the 2019-20 bushfire season was more extensive than previously thought.&nbsp;</strong></h3><p dir="ltr"><span>In February, research published in the </span><a href="https://www.nature.com/articles/s41558-020-0716-1"><span>journal Nature Climate Change</span></a><span> estimated that between September 2019 and January 2020, fires destroyed around 5.8 million hectares of broadleaf forest, or </span><a href="https://www.sbs.com.au/news/globally-unprecedented-bushfires-burned-more-than-20-per-cent-of-australia-s-forests"><span>more than a fifth of Australia’s forests</span></a><span>.&nbsp;</span></p><p><span><div class="block__container"><div class="label">Read more:</div><div class="preview__list-wrapper"><div class="preview preview--linear"><div class="preview__wrap"><div class="media-image media-image--1-1 preview__image"><img src="https://sl.sbs.com.au/public/image/file/f5ba72b2-e87b-4626-9123-a4e3287bc72c/crop/1x1" alt="Bushfire damage is seen near Tambo Crossing beside the Great Alpine road in the Victorian high country, Saturday, 25 January, 2020."/></div><div class="preview__content"><h3 class="headline preview__headline"><a href="/news/globally-unprecedented-bushfires-burned-more-than-20-per-cent-of-australia-s-forests" title="'Globally unprecedented' bushfires burned more than 20 per cent of Australia's forests">'Globally unprecedented' bushfires burned more than 20 per cent of Australia's forests</a></h3></div></div></div></div></div></span></p><p dir="ltr"><span>The government’s latest report estimates that the current bushfire season affected around 7.4 million hectares of Australian forests up to 11 February 2020, a much higher figure.&nbsp;</span></p><p><span>The graph below shows the area burned this year compared to all previous years dating back to 1851, none of which come close to this year’s damage.&nbsp;</span></p><p><span>&nbsp;<div class="embed embed--image"><img src="https://sl.sbs.com.au/public/image/file/f028ca53-587e-4a96-92e8-22f5de8d3da2"  alt="Annual area burnt by bushfires in Australian temperate forests."   width="700"  height="392"/><div class="attribution">Satellite data: DISER using data supplied by Landgate</div></div></span></p><p dir="ltr"><span>The figure of 7.4 million hectares only takes into account the forested areas burned. Taking into account all land types, </span><a href="https://www.abc.net.au/news/science/2020-03-05/bushfire-crisis-five-big-numbers/12007716"><span>more than 12.6 million hectares</span></a><span> have been burned this fire season.&nbsp;</span></p><p dir="ltr"><span>The impacts of such extensive burns go beyond greenhouse gas emissions. Alongside the well-documented economic impact of the fires, estimates by the University of Sydney’s Professor Chris Dickman suggest that the </span><a href="https://www.sydney.edu.au/news-opinion/news/2020/01/08/australian-bushfires-more-than-one-billion-animals-impacted.html"><span>fires killed more than one billion animals nationwide</span></a><span>.</span></p><p dir="ltr"><span>Professor Dickman told the </span><span>ABC</span><span> in March that </span><a href="https://www.abc.net.au/news/science/2020-03-05/bushfire-crisis-five-big-numbers/12007716"><span>this estimate was based on a burn area of around 6.25 million hectares</span></a><span>, and is clearly an underestimate now that more extensive burn figures have been released.&nbsp;</span></p><p dir="ltr"><span>“A billion sounds a big number, but it’s a very conservative one,” Professor Dickman said, adding that the figure does not include bats, frogs or fish.&nbsp;</span></p><p><span><span><span>Studies suggest that the summer’s catastrophic bushfires were made at least 30 per cent more likely as </span><a href="https://www.sbs.com.au/news/study-shows-climate-change-fingerprint-in-australian-bushfires"><span>a result of climate change</span></a><span>, and climate scientists have warned that we will face extreme conditions like these more frequently if global temperatures continue to rise. </span></span></span></p></div>
+      <footer class="article__footer">
+        
+              </footer>
+    </div>
+  </div>
+</div>
+
+</article>
+
+      
+
+      </section>
+
+      <section class="page__section page__section--style-3">
+                                                                                      
+  
+  
+  
+    
+  
+      
+  
+      <div class="block block--feature" data-module="block_module" data-edit="1" data-slug="collection-the-feed-latest">
+              <h2 class="block__title">The Latest</h2>            <div class="block__container feature" data-count="5">
+                              
+                  
+            
+                                                              
+
+<div class="preview preview--feature">
+  <div class="preview__wrap">
+                            
+  
+  
+
+
+        
+
+      
+      
+  
+    
+  
+  
+        
+    
+    
+
+<div class="media-image media-image--16-9 preview__image">
+  <a class="media-image__link" href="/news/the-feed/not-sure-whether-to-install-the-government-s-covidsafe-app-here-s-everything-we-know" title="Not sure whether to install the government’s COVIDSafe app? Here’s everything we know.">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/a19b18b5-ffd4-4498-85b8-62fb16ecd4a3/crop/16x9_large", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/a19b18b5-ffd4-4498-85b8-62fb16ecd4a3/crop/16x9_medium", "alt": "The government&#039;s new COVIDSafe voluntary tracing app" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/a19b18b5-ffd4-4498-85b8-62fb16ecd4a3/crop/16x9_large" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/a19b18b5-ffd4-4498-85b8-62fb16ecd4a3/crop/16x9_medium" alt="The government&#039;s new COVIDSafe voluntary tracing app">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                        
+                    
+                                                                                                                                
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">2 hours ago</span>
+      
+
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/the-feed/not-sure-whether-to-install-the-government-s-covidsafe-app-here-s-everything-we-know">Not sure whether to install the government’s COVIDSafe app? Here’s everything we know.</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+        
+    
+  
+  
+        
+    
+              
+
+<div class="media-image media-image--p-1-1-m-16-9-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/the-feed/what-can-i-do-if-covid-19-restrictions-are-relaxed-an-expert-s-view" title="What can I do if COVID-19 restrictions are relaxed? An expert’s view.">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/0b1e41f8-d79b-4529-954b-b48b0f084d1e/crop/16x9_large", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/0b1e41f8-d79b-4529-954b-b48b0f084d1e/crop/16x9_medium", "media": "(min-width: 767px)" },
+                { "srcset": "https://sl.sbs.com.au/public/image/file/0b1e41f8-d79b-4529-954b-b48b0f084d1e/crop/1x1_small", "alt": "Australian Adults COVID 19 Social Distancing" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/0b1e41f8-d79b-4529-954b-b48b0f084d1e/crop/16x9_large" media="(min-width: 1023px)">
+                              <source srcset="https://sl.sbs.com.au/public/image/file/0b1e41f8-d79b-4529-954b-b48b0f084d1e/crop/16x9_medium" media="(min-width: 767px)">
+          
+          <img srcset="https://sl.sbs.com.au/public/image/file/0b1e41f8-d79b-4529-954b-b48b0f084d1e/crop/1x1_small" alt="Australian Adults COVID 19 Social Distancing">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                        
+                    
+                                                                                                          
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">3 days ago</span>
+      
+
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/the-feed/what-can-i-do-if-covid-19-restrictions-are-relaxed-an-expert-s-view">What can I do if COVID-19 restrictions are relaxed? An expert’s view.</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                              <div class="preview__list-wrapper">
+          
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+  
+                        
+        
+        
+  
+    
+    
+
+<div class="media-image media-image--1-1 preview__image">
+  <a class="media-image__link" href="/news/the-feed/museums-are-competing-to-uncover-their-creepiest-objects-in-a-truly-disturbing-twitter-showdown" title="Museums are competing to uncover their creepiest objects in a truly disturbing Twitter showdown">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/bf0dcb94-5459-4f67-b5d3-6e4b289bae2a/crop/1x1_small", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/bf0dcb94-5459-4f67-b5d3-6e4b289bae2a/crop/1x1_small", "alt": "&#039;Mr Blobby&#039; was voted the world&#039;s ugliest animal in 2013" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/bf0dcb94-5459-4f67-b5d3-6e4b289bae2a/crop/1x1_small" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/bf0dcb94-5459-4f67-b5d3-6e4b289bae2a/crop/1x1_small" alt="&#039;Mr Blobby&#039; was voted the world&#039;s ugliest animal in 2013">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                        
+                    
+                                                              
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">4 days ago</span>
+      
+
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/the-feed/museums-are-competing-to-uncover-their-creepiest-objects-in-a-truly-disturbing-twitter-showdown">Museums are competing to uncover their creepiest objects in a truly disturbing Twitter showdown</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+  
+<div class="preview preview--linear video">
+  <div class="preview__wrap">
+                                                                                                          
+
+  
+
+
+        
+
+      
+      
+  
+                        
+        
+        
+  
+    
+    
+
+<div class="media-image media-image--1-1 preview__image">
+  <a class="media-image__link" href="/news/the-feed/when-coronavirus-won-t-stop-the-cruise-life" title="When coronavirus won&#039;t stop the cruise life">                  <span class="preview__content-duration" data-duration="01:58"></span><span class="preview__content-icon"></span>
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/272569a0-bd3e-4a31-bea2-ed9f8b1f128d/crop/1x1_small", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/272569a0-bd3e-4a31-bea2-ed9f8b1f128d/crop/1x1_small", "alt": "cruise ship comedy" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/272569a0-bd3e-4a31-bea2-ed9f8b1f128d/crop/1x1_small" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/272569a0-bd3e-4a31-bea2-ed9f8b1f128d/crop/1x1_small" alt="cruise ship comedy">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                        
+                    
+                                                                                                          
+
+
+<div class="preview__label">
+  <span class="icon--play-o icon" aria-hidden="true"></span>
+
+
+                        
+
+  
+
+  <span class="label date__string">5 days ago</span>
+      
+
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/the-feed/when-coronavirus-won-t-stop-the-cruise-life">When coronavirus won&#039;t stop the cruise life</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+  
+<div class="preview preview--linear video">
+  <div class="preview__wrap">
+                                                                                                          
+
+  
+
+
+        
+
+      
+      
+  
+                        
+        
+        
+  
+    
+    
+
+<div class="media-image media-image--1-1 preview__image">
+  <a class="media-image__link" href="/news/the-feed/this-is-what-science-fiction-already-knew-about-covid-19" title="This is what science fiction already knew about COVID-19 ">                  <span class="preview__content-duration" data-duration="02:30"></span><span class="preview__content-icon"></span>
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/9862ca67-43ec-4030-9f79-06156023f1b5/crop/1x1_small", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/9862ca67-43ec-4030-9f79-06156023f1b5/crop/1x1_small", "alt": "case covid fiction" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/9862ca67-43ec-4030-9f79-06156023f1b5/crop/1x1_small" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/9862ca67-43ec-4030-9f79-06156023f1b5/crop/1x1_small" alt="case covid fiction">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                        
+                    
+                                                                                                          
+
+
+<div class="preview__label">
+  <span class="icon--play-o icon" aria-hidden="true"></span>
+
+
+                        
+
+  
+
+  <span class="label date__string">5 days ago</span>
+      
+
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/the-feed/this-is-what-science-fiction-already-knew-about-covid-19">This is what science fiction already knew about COVID-19 </a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                </div>
+                                                                                              
+            
+    </div>
+
+    
+  </div>
+
+                                                                              
+  
+  
+  
+    
+  
+                  
+      <div class="block" data-module="block_module" data-edit="na" data-slug="collection-the-feed-latest">
+                <div class="block__container" data-count="4">
+                                                                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+  
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/the-feed/australia-s-catastrophic-bushfire-summer-released-more-co2-than-the-country-does-in-a-year" title="Australia’s catastrophic bushfire summer released more CO2 than the country does in a year">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/4487b1e7-601d-440c-9eed-55ff8e096393/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/4487b1e7-601d-440c-9eed-55ff8e096393/crop/1x1_small", "alt": "Fire fighting crews battle a bushfire encroaching on properties near Lake Tabourie on the New South Wales South Coast." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/4487b1e7-601d-440c-9eed-55ff8e096393/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/4487b1e7-601d-440c-9eed-55ff8e096393/crop/1x1_small" alt="Fire fighting crews battle a bushfire encroaching on properties near Lake Tabourie on the New South Wales South Coast.">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                        
+                    
+                                                                                                          
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">5 days ago</span>
+      
+
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/the-feed/australia-s-catastrophic-bushfire-summer-released-more-co2-than-the-country-does-in-a-year">Australia’s catastrophic bushfire summer released more CO2 than the country does in a year</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+  
+<div class="preview preview--linear video">
+  <div class="preview__wrap">
+                                                                                                          
+
+  
+
+
+        
+
+      
+      
+  
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/the-feed/family-of-nine-shows-school-closures-impact-some-families-more-than-others" title="Family-of-nine shows school closures impact some families more than others">                  <span class="preview__content-duration" data-duration="04:42"></span><span class="preview__content-icon"></span>
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/3192a1f3-604d-43d4-b326-b881a7b8d9f3/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/3192a1f3-604d-43d4-b326-b881a7b8d9f3/crop/1x1_small", "alt": "Abraham with his daughter Yar" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/3192a1f3-604d-43d4-b326-b881a7b8d9f3/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/3192a1f3-604d-43d4-b326-b881a7b8d9f3/crop/1x1_small" alt="Abraham with his daughter Yar">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                              
+                    
+                                                                                                          
+
+
+<div class="preview__label">
+  <span class="icon--play-o icon" aria-hidden="true"></span>
+
+
+                        
+
+  
+
+  <span class="label date__string">5 days ago</span>
+      
+
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/the-feed/family-of-nine-shows-school-closures-impact-some-families-more-than-others">Family-of-nine shows school closures impact some families more than others</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+  
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/the-feed/alan-jones-thinks-tony-abbott-would-do-a-better-job-as-who-boss-so-who-is-dr-tedros" title="Alan Jones thinks Tony Abbott would do a better job as WHO boss. So who is Dr Tedros?">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/356a0ad4-ee73-4f6e-b9b6-7a518e41911b/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/356a0ad4-ee73-4f6e-b9b6-7a518e41911b/crop/1x1_small", "alt": "Tedros Adhanom Ghebreyesus, Director General of the World Health Organisation (WHO)." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/356a0ad4-ee73-4f6e-b9b6-7a518e41911b/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/356a0ad4-ee73-4f6e-b9b6-7a518e41911b/crop/1x1_small" alt="Tedros Adhanom Ghebreyesus, Director General of the World Health Organisation (WHO).">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                        
+                    
+                                                                                    
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">5 days ago</span>
+      
+
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/the-feed/alan-jones-thinks-tony-abbott-would-do-a-better-job-as-who-boss-so-who-is-dr-tedros">Alan Jones thinks Tony Abbott would do a better job as WHO boss. So who is Dr Tedros?</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+  
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/the-feed/privacy-experts-are-concerned-about-the-government-s-coronavirus-tracing-app-here-s-why" title="Privacy experts are concerned about the government’s coronavirus tracing app. Here’s why.">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/7798ff0c-8d56-469d-86c2-0deccdee90b4/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/7798ff0c-8d56-469d-86c2-0deccdee90b4/crop/1x1_small", "alt": "Covid - 19" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/7798ff0c-8d56-469d-86c2-0deccdee90b4/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/7798ff0c-8d56-469d-86c2-0deccdee90b4/crop/1x1_small" alt="Covid - 19">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                        
+                    
+                                                                                                                                
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">6 days ago</span>
+      
+
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/the-feed/privacy-experts-are-concerned-about-the-government-s-coronavirus-tracing-app-here-s-why">Privacy experts are concerned about the government’s coronavirus tracing app. Here’s why.</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                
+            
+    </div>
+
+            <div class="block__cta">
+    <a href="/news/the-feed/latest">View More</a>
+  </div>
+    
+  </div>
+
+      
+      </section>
+      </div>
+    </main>
+
+    
+  
+<footer class="global-footer">
+  <div class="container">
+    <div class="row">
+      <div class="global-footer__column global-footer__column--explore column">
+                <div class="menu global-footer__menu global-footer__menu--explore-sbs" role="menu">
+              
+
+  
+
+  <div class="label label menu__label global-footer__menu-label">Explore SBS</div>
+            <ul class="menu__list global-footer__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item first" role="menuitem">        <a href="//www.sbs.com.au"><span>SBS Home</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/ondemand"><span>SBS On Demand</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/guide"><span>Guide</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/radio"><span>Radio</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/nitv"><span>NITV</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/news"><span>News</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//theworldgame.sbs.com.au/"><span>The World Game</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/cyclingcentral"><span>Cycling</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/topics/sport"><span>Sport</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/movies"><span>Movies</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/food"><span>Food</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/topics/voices"><span>Voices</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/topics/pride"><span>Pride</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+      </div>
+      <div class="global-footer__column global-footer__column--contact column">
+        
+
+  
+
+  <div class="label global-footer__menu-label">Contact SBS</div>
+        <ul class="list list--clean">
+          <li class="list__item list__item--phone"><span class="icon icon--phone"></span> 1800 500 727 (toll free)</li>
+          <li class="list__item list__item--email"><span class="icon icon--envelope"></span> <a href="mailto:comments@sbs.com.au">comments@sbs.com.au</a></li>
+          <li class="list__item list__item--mail"><span class="icon icon--send"></span> Locked Bag 028, Crows Nest NSW 1585</li>
+        </ul>
+      </div>
+      <div class="global-footer__column global-footer__column--follow column">
+        
+  <div class="sharing sharing--menu global-footer__menu global-footer__menu--follow-sbs">
+          
+
+  
+
+  <div class="label sharing__label global-footer__menu-label">Follow SBS</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+        
+                    <a href="//twitter.com/SBS" class="sharing__link sharing__link--twitter" target="_blank" rel="noopener">
+            <span class="icon--twitter icon" aria-hidden="true"></span><span class="sr-only">Follow SBS on Twitter</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a href="//www.facebook.com/SBSAustralia/" class="sharing__link sharing__link--facebook" target="_blank" rel="noopener">
+            <span class="icon--facebook icon" aria-hidden="true"></span><span class="sr-only">Follow SBS on Facebook</span>
+          </a>
+              </li>
+        </ul>
+  </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="global-footer__column global-footer__column--legal column">
+                <div class="menu global-footer__menu global-footer__menu--information" role="menu">
+              
+
+  
+
+  <div class="label label menu__label global-footer__menu-label">Information</div>
+            <ul class="menu__list global-footer__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item first" role="menuitem">        <a href="//www.sbs.com.au/aboutus/copyright"><span>Copyright</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/terms-and-conditions"><span>Terms &amp; Conditions</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/privacy-policy"><span>Privacy</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/preferences"><span>Your online preferences</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/sales/"><span>Sales &amp; Advertising</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/complaints"><span>Complaints</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/sbs-codes-of-practice"><span>SBS Codes of Practice</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/careers"><span>Careers</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/aboutus"><span>About SBS</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+      </div>
+    </div>
+    <div class="global-footer__column global-footer__column--copy">
+      <p class="menu__list-item">SBS acknowledges the traditional owners of country throughout Australia.</p>
+    </div>
+  </div>
+</footer>
+
+
+  </div>
+
+  
+<div class="loader" id="loader">
+  <svg viewBox="0 0 32 32" width="32" height="32">
+    <circle class="loader__spinner" cx="16" cy="16" r="14" fill="none"></circle>
+  </svg>
+</div>
+
+  <script src="/common/js/common-6bc7e00a92bab481e6be1929429784f6.js" defer></script>
+  <script src="/the-feed/js/main-5f259e7766251c94a8f407e95e8cb7cf.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,1018 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+    <!-- Data Layer -->
+    <script type="text/javascript">
+        dataLayer = [{
+            'visitorIP': '125.254.18.98'
+            }];
+    </script>
+    <!-- End Data Layer -->
+
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Webicons -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/webicons/asdnews/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/webicons/asdnews/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/webicons/asdnews/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/webicons/asdnews/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/webicons/asdnews/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/webicons/asdnews/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/webicons/asdnews/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/webicons/asdnews/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/webicons/asdnews/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/webicons/asdnews/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/webicons/asdnews/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/webicons/asdnews/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/webicons/asdnews/favicon-16x16.png">
+    <link rel="manifest" href="/icons/asdnews/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/webicons/asdnews/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Start of section customMetaTags -->
+    
+<title>Video Surveillance Market worth $74.6 Bn by 2025</title>
+
+<meta name="title" content="Video Surveillance Market worth $74.6 Bn by 2025" />
+<meta name="description" content="The report &quot;Video Surveillance Market by System, Offering (Hardware (Camera, Storage Device, Monitor), Software (Video Analytics, Video Management System) &amp; Ser" />
+<meta name="robots" content="index, follow" />
+<meta name="language" content="EN" />
+<meta name="keywords" />
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.asdnews.com/news/defense/2020/04/23/video-surveillance-market-worth-746-bn-2025" />
+<meta property="og:title" content="Video Surveillance Market worth $74.6 Bn by 2025" />
+<meta property="og:description" content="The report &quot;Video Surveillance Market by System, Offering (Hardware (Camera, Storage Device, Monitor), Software (Video Analytics, Video Management System) &amp; Ser" />
+
+<meta property="og:image" content="http://www.asdnews.com/NewsImages/b/59623/60126_O.jpg" />
+
+    <link rel="canonical" href="http://www.asdnews.com/news/defense/2020/04/23/video-surveillance-market-worth-746-bn-2025" />
+
+
+
+
+
+
+    <!--Start of Stylesheets -->
+    <link href="/css/bootstrap.css" rel="stylesheet">
+    <link href="/css/custom.css" rel="stylesheet" type="text/css">
+    <link href="/css/asdnews.css" rel="stylesheet" />
+
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+    <link href="/css/ekko-lightbox.css" rel="stylesheet">
+    <link href="/css/ekko-theme-dark.css" rel="stylesheet">
+
+    <!-- Start of section headStylesheets -->
+    
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet" />
+
+    <!-- End of section headStylesheets -->
+    <!--End of Stylesheets -->
+    <!-- Start of Javascript -->
+    <!-- Start of section headScript -->
+    
+    <!-- End of section headScript -->
+    <!-- End of Javascript -->
+    <!-- Start of Structured Data -->
+    
+<script type="application/ld+json">
+
+    [
+	{	
+	"@context": "http://schema.org",
+	"@type": "WebSite",
+    "name": "ASDNews", 
+	"alternateName": "Aerospace and Defense News", 
+	"url": "http://www.asdnews.com" 
+	}
+	,	
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Video Surveillance Market worth $74.6 Bn by 2025", 
+ 		"mainEntityOfPage": { 
+    						"@type": "WebPage",
+						    "@id": "http://www.asdnews.com/news/defense/2020/04/23/video-surveillance-market-worth-746-bn-2025" 
+							 },
+        "datePublished": "2020-04-23", 
+		"dateModified" : "2020-04-27",
+		"author": 	{
+			        "@type": "Organization",
+        			"name": "ASDNews" 
+     			 	},
+		"publisher":{
+        			"@type": "Organization",
+        			"name": "ASDNews", 
+        			"logo": {
+          				"@type": "ImageObject",
+          				"url": "http://www.asdnews.com/media/1011/asdnews-logo-navbar.png",
+          				"width": 160, 
+          				"height": 40  
+        				}
+					},
+        "image": 	{
+          				"@type": "ImageObject",
+          				"url": "http://www.asdnews.com/NewsImages/b/59623/60126_O.jpg", 
+          				"width": 600, 
+          				"height": 800 
+					}
+	    }
+    ]
+
+</script>
+
+    <!-- End of Structured Data -->
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+
+
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGVKQ2W"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NGVKQ2W');</script>
+    <!-- End Google Tag Manager -->
+
+
+
+    <!-- Start of MasterLayoutHeader -->
+<div class="container">	
+<div class="master-layout-header">
+        <a href="/" class="hidden-xs hidden-sm">
+            <img id="Header-logo" src="/media/1012/asdnews-logo-200.png" alt="Logo" width="200" height="100" />
+        </a>
+
+	<a href="/subscriber-form/" class="btn btn-danger btn-lg pull-right hidden-xs hidden-sm mt10 text-center" id="newsletter-click-top">
+		<i class="fa fa-envelope fa-2x pull-right"></i>
+		Subscribe to our </br><b>free newsletters</b>
+	</a>	
+
+	<!-- comment out site-links
+	<ul class="nav nav-pills pull-right small hidden-xs hidden-sm">
+            <li>
+                <a href="http://www.asdnews.com/contact/">
+                    Contact Us
+                </a>
+            </li>
+            <li>
+                <a href="http://www.asdnews.com/subscriber-form/">
+                    Newsletters
+                </a>
+            </li>
+    </ul>
+	-->	
+
+    <div class="clear-float"></div>
+</div>
+</div>		
+<!-- End of MasterLayoutHeader -->
+		
+<!-- Start of _MasterLayoutNavbar -->
+<div class="wrapnavbar">		
+<div class="container navcontainer">
+<nav class="navbar navbar-default">
+    
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+				
+
+       	<a class="navbar-brand hidden-lg hidden-md" href="/">
+			<img alt="NavbarImage"  src="/media/1011/asdnews-logo-navbar.png" alt="NavBarLogo" width="160" height="40" />
+        </a>
+		
+     
+			
+    </div>
+    
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+            <!-- Start of _NavbarLinks -->
+
+<!-- First the visible channel items -->
+    <li class="">
+        <a href="/news/defense">
+            Defense
+        </a>
+    </li>
+    <li class="">
+        <a href="/news/aerospace">
+            Aerospace
+        </a>
+    </li>
+    <li class="">
+        <a href="/news/aviation">
+            Aviation
+        </a>
+    </li>
+
+<li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+        Other Topics <b class="caret"></b>
+    </a>
+
+    <ul class="dropdown-menu">
+
+        <!-- The toggleable channel items, we continue where we left off. -->
+
+            <li class="">
+                <a href="/news/missiles-rockets">
+                    Missiles / Rockets
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/combat-vehicles-artillery">
+                    Combat Vehicles / Artillery
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/unmanned-systems">
+                    Unmanned Systems
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/eod-ieds-mines">
+                    EOD / IEDs / Mines
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/cyber-defense-it">
+                    Cyber Defense / IT
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/avionics">
+                    Avionics
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/commercial-aircraft">
+                    Commercial Aircraft
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/transport-logistics">
+                    Transport / Logistics
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/communications">
+                    Communications
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/military-aircraft">
+                    Military Aircraft
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/engines-power-fuel">
+                    Engines / Power / Fuel
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/helicopters">
+                    Helicopters
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/homeland-security">
+                    Homeland Security
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/infantry-weapons">
+                    Infantry Weapons
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/mro">
+                    MRO
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/navy">
+                    Navy
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/nbc">
+                    NBC
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/protection">
+                    Protection
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/radar-ew">
+                    Radar / EW
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/sensors">
+                    Sensors
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/simulation-training">
+                    Simulation / Training
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/soldier">
+                    Soldier
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/space">
+                    Space
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/undersea-warfare">
+                    Undersea Warfare
+                </a>
+            </li>
+            <li class="">
+                <a href="/news/contracts">
+                    Contracts
+                </a>
+            </li>
+
+
+
+        <!-- The custom links in the navbar -->
+    </ul>
+</li>
+<!-- End of _NavbarLinks -->
+
+        </ul>
+        <!--
+			<form class="navbar-form navbar-right" role="search">
+            <div class="form-group">
+                <input type="text" class="form-control" placeholder="Search">
+            </div>
+            <button type="submit" class="btn btn-default">Submit</button>
+        </form>
+		-->		
+    </div>
+    <!-- /.navbar-collapse -->
+</nav>
+</div>
+</div>				
+<!-- End of _MasterLayoutNavbar -->
+
+
+
+
+    <div class="container">
+        <div id="pagecontent" class="row">
+
+                <!-- Start of Breadcrumbs --> 
+    <div class="col-xs-12">
+        <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb">
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="/">
+                    <!-- link to Home Page -->
+                    <span class="hidden-xs" itemprop="name">Home</span>
+                    <span class="visible-xs"><i class="fa fa-home" aria-hidden="true"></i></span>
+                    <meta itemprop="position" content="1" />
+                </a>
+            </li>
+						
+						
+                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                    <a itemprop="item" href="/news/defense">
+                        <!-- Link to parent -->
+                        <span itemprop="name" class="hidden-xs">Defense</span>
+                        <span class="visible-xs-inline"><i class="fa fa-th" aria-hidden="true"></i></span>
+                    </a>
+                    <meta itemprop="position" content="2" />
+	
+				</li>
+	
+	
+            <li class="active">
+                <span class="hidden-xs">Video Surveillance Market worth $74.6 Bn by 2025</span>
+					
+					
+					<span class="visible-xs-inline">Video Surveillance Market ...</span>					
+	
+
+            </li>
+        </ol>
+    </div>
+    <!-- End of Breadcrumbs --> 
+
+
+
+            
+
+
+<div class="col-md-9">
+    <div id="NewsDetail-Container">
+
+
+
+<!-- Start of NewsDetail -->
+<section id="NewsDetail">
+    <h1>Video Surveillance Market worth $74.6 Bn by 2025</h1>
+
+    <h4></h4>
+
+    <!-- Images -->
+        <div class="carousel well well-sm pull-left mr10 p20"
+             data-number-of-images="1"
+             style="height:auto;
+            width:300px;">
+
+                <a href="/NewsImages/b/59623/60126_O.jpg" class="vcenter">
+                    <img class="carousel-image"
+                         src="/NewsImages/b/59623/60126_W300.jpg" />
+                </a>
+
+        </div>
+
+    <!-- Article -->
+    <section id="NewsDetail-Text" class="NewsDetail-Text">
+
+        <div id="NewsDetail-Text-FirstPart" class="NewsDetail-Text-Part">
+            <p>The report &quot;Video Surveillance Market by System, Offering (Hardware (Camera, Storage Device, Monitor), Software (Video Analytics, Video Management System) &amp; Service (VSaaS)), Vertical (Commercial, Infrastructure, Residential), and Geography - Global Forecast to 2025&quot; is expected to grow from USD 45.5 billion in 2020 to USD 74.6 billion by 2025, at a CAGR of 10.4%. Increasing concerns about public safety and security has spurred the growth of video surveillance market, other driving factors include growing adoption of IP cameras, and rising demand for wireless and spy cameras. Rising trends of artificial intelligence and deep learning is important factor to drive the market during forecast period.</p>
+
+<p><strong>Video surveillance hardware segment to hold largest share of the market</strong><br />
+The hardware segment consists of cameras, monitors, storage devices, and accessories. The growth of the hardware segment is attributed to the increasing use of cameras in various security-related applications. Rising security concerns across various applications, the shift towards adoption of IP cameras, government initiatives to provide more secure environments, increasing smart city projects, technological advancements in cameras, and the availability of low cost cameras are driving the growth of video surveillance hardware market.</p>
+
+<p>Cameras is important component of hardware segment. Technological advancements have resulted in highly specialized surveillance cameras that can be programmed to zoom-in scan items such as harmful equipment. Technological advancements resulted in the availability of a variety of surveillance cameras, such as those with high resolution and better quality, cameras with more than 5 mega-pixels, body worn, mobile or spy cameras, ultra-low-light cameras, panoramic 360-degree cameras, robust outdoor cameras for harsh climates, cameras for sensitive environments, and those with integration capabilities for various applications such as people counting or retail management. These cameras fulfill the varying requirements of end users, hence driving the video surveillance market.</p>
+        </div>
+        <div class="clearfix"></div>
+
+            <div id="NewsDetail-Report-Container-1" class="NewsDetail-Report-Container">
+
+<!-- Start of NewsDetail-Report -->
+	
+<div class="row">	
+	<div class="col-xs-12 col-sm-10 col-sm-offset-1">
+		<div class="NewsDetail-Report mt25 mb25 well well-sm well-report" >
+			<div class="row">
+				<figure class="col-sm-2 col-xs-4">
+				<a href="https://www.asdreports.com/market-research-report-516746/video-surveillance-market-global-forecast?utm_source=asdnews&amp;utm_medium=affiliate&amp;utm_campaign=news-pr-grb&amp;utm_content=title" target="_blank">
+					<img src="/reportsImages/35_MarketsandMarkets/0s.jpg" alt="Video Surveillance Market - Global Forecast to 2025" class="img-rounded img-responsive img-thumbnail" />
+				</a>
+				</figure>
+				<section class="col-sm-10 col-xs-8">
+					<h4><a href="https://www.asdreports.com/market-research-report-516746/video-surveillance-market-global-forecast?utm_source=asdnews&amp;utm_medium=affiliate&amp;utm_campaign=news-pr-grb&amp;utm_content=title" target="_blank">Video Surveillance Market - Global Forecast to 2025</a></h4>
+					<!--<h5 class="text-warning"><a href="https://www.asdreports.com/market-research-report-516746/video-surveillance-market-global-forecast?utm_source=asdnews&amp;utm_medium=affiliate&amp;utm_campaign=news-pr-grb&amp;utm_content=promo" target="_blank" class="text-warning"><strong>Year-End Deals</strong> available, gain more insights for your budget</a></h5>-->
+					<span class="small hidden-xs"><em>Published:</em> April 2020</span><br>
+					<span class="small hidden-xs"><em>Pages:</em> 188 pages</span><br>
+					<a href="https://www.asdreports.com/market-research-sample-516746/video-surveillance-market-global-forecast?utm_source=asdnews&amp;utm_medium=affiliate&amp;utm_campaign=news-pr-grb&amp;utm_content=title" target="_blank" class="btn btn-success btn-lg pull-right"><span class="hidden-xs">Download free sample pages</span><span class="visible-xs">Free sample</span></a>
+				</section>
+			</div>	
+		</div>
+	</div>
+</div>	
+<!-- End of NewsDetail-Report -->            </div>
+
+        <div id="NewsDetail-Text-SecondPart" class="NewsDetail-Text-Part">
+            
+
+<p><strong>Infrastructure application to grow at highest CAGR during the forecast period</strong><br />
+Infrastructure vertical includes applications such as transportation and city surveillance, public places and utilities. Increasing needs for providing secured environment in public places is major driving factor of the market. The video surveillance market across transportation and city surveillance applications is expected to grow at the highest CAGR during the forecast period. Transportation is one of the leading applications for IP video surveillance systems in the infrastructure vertical. Railway stations, bus stands, and public transport are highly prone to terrorist attacks, thefts, and other security threats. Therefore, there is an increasing demand for IP video surveillance systems in the transportation application, as these systems help provide high-quality images that can help determine security threats. In developed countries, the demand for IP video surveillance systems for infrastructure-related applications is high. The growth of cities and towns in developed countries has led to the requirement for surveillance in public areas. Increasing smart city projects particularly in developing countries and need for security systems in public places has driven the video surveillance market in city surveillance application which is further expected to provide opportunity during the forecast period</p>
+
+<p><strong>APAC to grow at a highest CAGR for video surveillance market during the forecast period</strong><br />
+The market for video surveillance is expected to witness an upsurge in APAC owing to the increased security concerns in APAC countries such as India and China. The governments in countries such as China and India have started to invest heavily in video surveillance systems owing to the increased security concerns. The emerging nations are working toward improving infrastructure and city surveillance, which is further expected to lead to the high growth of the video surveillance market. Rising demand for video surveillance systems from verticals such as commercial facilities such as retail, banking &amp; finance, hospitality and city surveillance drives the growth of market. APAC is likely to continue to hold the largest market size and expected to be the fastest-growing region in the video surveillance market owing to heavy investments in smart city projects. The growing penetration of new technologies such as video analytics, artificial intelligence to further provide opportunity for the market.</p>
+
+<p>Major players in the video surveillance market are Hikvision (China), Dahua Technology (China), Axis Communications (Sweden), Bosch Security and Safety Systems (Germany), Hanwha Techwin (South Korea), Avigilon, a Motorola Solutions Company (Canada), FLIR Systems (US), Honeywell Commercial Security (US), Panasonic i-PRO Sensing Solutions (US), Pelco (US), Agent Video Intelligence (US), CP Plus (India), Genetec (Canada), Huawei Technologies (China), NEC (Japan), Nice Systems (Israel), Qognify (US), Tiandy Technologies (China), VIVOTEK (Taiwan) and Zhejiang Uniview Technologies (China)</p>
+
+<p>Read more on&nbsp;<a href="https://www.asdreports.com/market-research-report-516746/video-surveillance-market-global-forecast?&amp;utm_source=asdnews&amp;utm_medium=affiliate&amp;utm_campaign=news-pr&amp;utm_content=text" target="_blank">ASDReports</a>&nbsp;or&nbsp;<a href="http://www.asdreports.com/print.asp?id=516746&amp;utm_source=asdnews&amp;utm_medium=affiliate&amp;utm_campaign=news-pr&amp;utm_content=text" target="_blank">Download Report Information</a></p>
+        </div>
+
+    </section>
+
+    <section id="NewsDetail-Info" class="NewsDetail-Info">
+        <p class="small">
+
+                <span>
+                    Source: <strong>ASDReports - Market Research</strong><br>
+                </span>
+
+                <span>
+                    Date: <strong>Apr 23, 2020</strong>
+                </span>
+        </p>
+    </section>
+
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+
+    <div class="clearfix"></div>
+    <div class="row">
+        <div class="col-sm-3">
+
+            <section id="NewsDetail-TellAFriend" class="NewsDetail-TellAFriend">
+                <div>
+                    <a role="button" id ="NewsDetail-TellAFriendButton" class="btn btn-lg btn-primary btn-block">
+                        <span class="glyphicon glyphicon-envelope"></span>  Tell a friend
+                    </a>
+                </div>
+
+<div class="modal fade" id="TellAFriendModal" tabindex="-1" role="dialog" data-backdrop="false">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" id="tellAFriendCloseButton" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title"><small>Tell a friend:</small><br />Video Surveillance Market worth $74.6 Bn by 2025</h4>
+            </div>
+
+            <div class="modal-errormessage">
+            </div>
+
+            <div class="modal-body">
+
+
+<form action="/newsdetail?year=2020&amp;month=04&amp;day=23&amp;title=video-surveillance-market-worth-746-bn-2025" autocomplete="off" enctype="multipart/form-data" id="TellAFriend-Form" method="post"><input name="__RequestVerificationToken" type="hidden" value="AzsDvFsBkhxajHSQUNrL5MvA7IIArV039hfz7xiFIFGBr3hNaQZXdPK7l0shH00pRIEiyTrYBgGPQUeFY9-SqQ2hnXLfMyxbMNrgwdU-nt41" /><input id="NewsArticleTitle" name="NewsArticleTitle" type="hidden" value="Video Surveillance Market worth $74.6 Bn by 2025" /><input id="NewsArticleUrl" name="NewsArticleUrl" type="hidden" value="/news/defense/2020/04/23/video-surveillance-market-worth-746-bn-2025" /><input data-val="true" data-val-number="The field NewsArtId must be a number." data-val-required="The NewsArtId field is required." id="NewsArtId" name="NewsArtId" type="hidden" value="59623" />                    <div id="TellAFriendFormInputs" class="collapse">
+                        <div class="form-horizontal">
+                            <!-- ========== YourName ========= -->
+                            <div class="form-group">
+                                <label class="col-sm-4 control-label" for="YourName">Your Name</label>
+                                <div class="col-sm-7">
+                                    <input class="form-control" id="YourName" name="YourName" type="text" value="" />
+                                    <span class="field-validation-valid" data-valmsg-for="YourName" data-valmsg-replace="true"></span>
+                                </div>
+                            </div>
+
+
+                            <!-- ========== YourEmail ========= -->
+                            <div class="form-group">
+                                <label class="col-sm-4 control-label" for="YourEmail">Your Email</label>
+                                <div class="col-sm-7">
+                                    <input class="form-control" data-val="true" data-val-email="The YourEmail field is not a valid e-mail address." data-val-required="Please enter your email." id="YourEmail" name="YourEmail" type="text" value="" />
+                                    <span class="field-validation-valid" data-valmsg-for="YourEmail" data-valmsg-replace="true"></span>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-xs-12"><hr /></div>
+                            </div>
+
+
+                            <!-- ========== YourFriendsName ========= -->
+                            <div class="form-group">
+                                <label class="col-sm-4 control-label" for="YourFriendsName">Your Friends' Name</label>
+                                <div class="col-sm-7">
+                                    <input class="form-control" id="FriendsName" name="FriendsName" type="text" value="" />
+                                    <span class="field-validation-valid" data-valmsg-for="FriendsName" data-valmsg-replace="true"></span>
+                                </div>
+                            </div>
+
+                            <!-- ========== YourFriendsEmail ========= -->
+                            <div class="form-group">
+                                <label class="col-sm-4 control-label" for="YourFriendsEmail">Your Friends' Email</label>
+                                <div class="col-sm-7">
+                                    <input class="form-control" data-val="true" data-val-email="The FriendsEmail field is not a valid e-mail address." data-val-required="Please enter your friends&#39; email." id="FriendsEmail" name="FriendsEmail" type="text" value="" />
+                                    <span class="field-validation-valid" data-valmsg-for="FriendsEmail" data-valmsg-replace="true"></span>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-xs-12"><hr /></div>
+                            </div>
+
+                            <!-- ========== YourMessage ========= -->
+                            <div class="form-group">
+                                <label class="col-sm-4 control-label" for="YourMessage">Your Message</label>
+                                <div class="col-sm-7">
+                                    <textarea class="form-control" cols="20" data-val="true" data-val-required="Please enter a Message." id="Message" name="Message" rows="5">
+Interesting news item! 
+Video Surveillance Market worth $74.6 Bn by 2025</textarea>
+                                    <span class="field-validation-valid" data-valmsg-for="Message" data-valmsg-replace="true"></span>
+                                </div>
+                            </div>
+
+
+
+
+                            <!-- ========== ReCaptcha ========= -->
+                            <div class="form-group">
+                                <div class="col-sm-7 col-sm-offset-4 mt10">
+                                    <div class="g-recaptcha" data-sitekey="6LfUZSoUAAAAAHLy-7NR2TBv-rk_3g_kat_gQg0Y"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- ======= Loading spinner =======-->
+                    <div class="form-group">
+                        <div class="col-xs-12 col-sm-7 col-sm-offset-4 mt10">
+                            <div id="tellAFriendLoading" class="center collapse">
+                                <i class="fa fa-spinner fa-pulse fa-3x fa-fw"></i>
+                                <span class="sr-only">Loading...</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- ======= Footer message=======-->
+                    <div class="form-group">
+                        <div class="col-xs-12">
+                            <div id="modal-footer-message" class="text-center"></div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" id="tellAFriendFooterCloseButton" class="btn btn-default">Close</button>
+                        <button type="submit" id="tellAFriendModalFooterSubmitButton" class="btn btn-primary">Tell a friend!</button>
+                    </div>
+<input name='ufprt' type='hidden' value='B3D6F9E50E99523232BA472921DEEFAEB34596B34399CF3E6A2A7D8E55731A917D85594D963F39505AC080727A4052AC2AE9F901003FF8D17D7169D42CD8FB655FD45F839413511B8A45E067AF64C3AB5F4117A9D6B10F7F74C7B5A86E39411749AA6312998D27A98494AC457C386A9A038F7C37E712D6C8B01C1685E9BA20442E9C8FC65622D48DF5FFA7884A334CA3' /></form>            </div>
+
+
+        </div>
+    </div>
+</div>
+            </section>
+
+        </div>
+
+
+        <div class="col-sm-9" id="newsdetail-addthis">
+            <div class="addthis_inline_share_toolbox_qm6d"></div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+</section>
+
+
+<!-- End of NewsDetail -->
+
+    </div>
+
+
+    <div class="clearfix"></div>
+    <hr class="hrthick" />
+
+    <div id="RelatedNews-Container">
+
+<!-- Start of _RelatedNews -->
+<section id="RelatedNews">
+
+        <div id="RelatedNews-Source-Container" class="RelatedNews-Source-Container">
+
+<!-- Start of _RelatedNews-Source -->
+<div class="mt25 clearfix"></div>
+<section id="RelatedNews-Source"> 
+    <h4>More ASDReports - Market Research News</h4>
+    <ul class="list-unstyled mt10 fa-ul">  
+			<li id="RelatedNews-Source-Item-Container-0" class="RelatedNews-Source-Item-Container mt5">
+				<i class="fa-li fa fa-angle-right"></i>
+
+<!-- Start of _RelatedNews-Source-Item -->
+<a href="/news/aerospace/2020/04/23/air-traffic-control-atc-market-worth-123-bn-2025">Air Traffic Control (ATC) Market Worth $12.3 Bn By 2025</a>		
+<!-- End of _RelatedNews-Source-Item -->
+            </li>  
+			<li id="RelatedNews-Source-Item-Container-1" class="RelatedNews-Source-Item-Container mt5">
+				<i class="fa-li fa fa-angle-right"></i>
+
+<!-- Start of _RelatedNews-Source-Item -->
+<a href="/news/defense/2020/03/30/marine-actuator-valves-market-worth-42-bn-2025">Marine Actuator and Valves Market Worth $4.2 Bn by 2025</a>		
+<!-- End of _RelatedNews-Source-Item -->
+            </li>  
+			<li id="RelatedNews-Source-Item-Container-2" class="RelatedNews-Source-Item-Container mt5">
+				<i class="fa-li fa fa-angle-right"></i>
+
+<!-- Start of _RelatedNews-Source-Item -->
+<a href="/news/defense/2020/03/26/thermal-scanners-market-worth-62-bn-2025">Thermal Scanners Market Worth $6.2 Bn by 2025</a>		
+<!-- End of _RelatedNews-Source-Item -->
+            </li>  
+			<li id="RelatedNews-Source-Item-Container-3" class="RelatedNews-Source-Item-Container mt5">
+				<i class="fa-li fa fa-angle-right"></i>
+
+<!-- Start of _RelatedNews-Source-Item -->
+<a href="/news/aviation/2020/03/25/smart-airports-market-worth-64-bn-2025">Smart Airports Market Worth $6.4 Bn by 2025</a>		
+<!-- End of _RelatedNews-Source-Item -->
+            </li>  
+			<li id="RelatedNews-Source-Item-Container-4" class="RelatedNews-Source-Item-Container mt5">
+				<i class="fa-li fa fa-angle-right"></i>
+
+<!-- Start of _RelatedNews-Source-Item -->
+<a href="/news/defense/2020/03/19/weapon-mounts-market-worth-18-bn-2025">Weapon Mounts Market Worth $1.8 Bn by 2025</a>		
+<!-- End of _RelatedNews-Source-Item -->
+            </li>  
+    </ul>
+</section>
+<!-- End of _RelatedNews-Source -->
+        </div>
+
+            <div id="RelatedNews-Channel-Container-0" class="RelatedNews-Channel-Container">
+<!-- Start of _RelatedNews-Channel -->
+<div class="mt25 clearfix"></div>
+<section id="RelatedNews-Channel"> 
+<h4>More news in Homeland Security</h4>
+<ul class="list-unstyled mt10 fa-ul">  
+        <li id="RelatedNews-Channel-Item-Container-0" class="RelatedNews-Channel-Item-Container mt5">
+			<i class="fa-li fa fa-angle-right"></i>
+
+<!-- Start of _RelatedNews-Channel-Item -->
+<a href="/news/defense/2020/04/23/united-arab-emirates-uae-foreign-military-sales-order-fmso-ii-case">United Arab Emirates (UAE) - Foreign Military Sales Order (FMSO) II Case</a>
+<!-- End of _RelatedNews-Channel-Item -->
+        </li>
+        <li id="RelatedNews-Channel-Item-Container-1" class="RelatedNews-Channel-Item-Container mt5">
+			<i class="fa-li fa fa-angle-right"></i>
+
+<!-- Start of _RelatedNews-Channel-Item -->
+<a href="/news/defense/2020/04/24/space-surveillance-telescope-captures-1st-images-space">Space Surveillance Telescope Captures 1st Images of Space</a>
+<!-- End of _RelatedNews-Channel-Item -->
+        </li>
+        <li id="RelatedNews-Channel-Item-Container-2" class="RelatedNews-Channel-Item-Container mt5">
+			<i class="fa-li fa fa-angle-right"></i>
+
+<!-- Start of _RelatedNews-Channel-Item -->
+<a href="/news/defense/2020/04/23/puma-helicopter-performs-first-island-medical-evacuation">Puma Helicopter Performs First Island Medical Evacuation</a>
+<!-- End of _RelatedNews-Channel-Item -->
+        </li>
+        <li id="RelatedNews-Channel-Item-Container-3" class="RelatedNews-Channel-Item-Container mt5">
+			<i class="fa-li fa fa-angle-right"></i>
+
+<!-- Start of _RelatedNews-Channel-Item -->
+<a href="/news/defense/2020/04/21/boeing-announces-key-organization-leadership-changes">Boeing Announces Key Organization, Leadership Changes</a>
+<!-- End of _RelatedNews-Channel-Item -->
+        </li>
+        <li id="RelatedNews-Channel-Item-Container-4" class="RelatedNews-Channel-Item-Container mt5">
+			<i class="fa-li fa fa-angle-right"></i>
+
+<!-- Start of _RelatedNews-Channel-Item -->
+<a href="/news/defense/2020/04/21/milrem-robotics-innovfoam-develop-robotic-firefighters">Milrem Robotics and InnoVfoam develop robotic firefighters</a>
+<!-- End of _RelatedNews-Channel-Item -->
+        </li>
+</ul>
+</section>
+<!-- Start of _RelatedNews-Channel -->
+				
+			<ul class="list-unstyled mt10 fa-ul"> 
+				<li>
+					<i class="fa-li fa fa-bars"></i>
+					More <a href="/news/homeland-security">
+					<strong>Homeland Security news</strong>
+					</a>
+				</li>
+			</ul>	
+			</div>
+		        <div id="RelatedNews-Event-Container-0" class="RelatedNews-Event-Container">
+
+
+<!-- Start of _RelatedNews-Event -->
+<div class="row">
+	
+<div class="col-xs-12 col-sm-10 col-sm-offset-1">
+	<div class="NewsOverview-DescLinks-Event mt10 mb10 well well-sm well-event clearfix">
+   
+        <figure><img src="/eventsImages/logo/E022107_logotmb.jpg" alt="Thumbnail description" class="img-rounded pull-right"></figure>
+		<h4><a href="https://www.asdevents.com/event.asp?id=22107&amp;utm_source=asdnews&amp;utm_medium=affiliate&amp;utm_campaign=news-rn-geb&amp;utm_content=title"  id="RelatedNews-Event-Title">Border Security &amp; Intelligence Summit 2020</a></h4>
+        <span class="small"> VA - Jul 29, 2020</span>
+    </div>
+</div>    	
+</div>
+			
+		
+			
+<!-- End of _RelatedNews-Event -->
+                </div>
+            <div id="RelatedNews-Channel-Container-1" class="RelatedNews-Channel-Container">
+<!-- Start of _RelatedNews-Channel -->
+<div class="mt25 clearfix"></div>
+<section id="RelatedNews-Channel"> 
+<h4>More news in Sensors</h4>
+<ul class="list-unstyled mt10 fa-ul">  
+        <li id="RelatedNews-Channel-Item-Container-0" class="RelatedNews-Channel-Item-Container mt5">
+			<i class="fa-li fa fa-angle-right"></i>
+
+<!-- Start of _RelatedNews-Channel-Item -->
+<a href="/news/aerospace/2020/04/23/jupiter-probe-juice-final-integration-full-swing">Jupiter probe JUICE: Final integration in full swing</a>
+<!-- End of _RelatedNews-Channel-Item -->
+        </li>
+        <li id="RelatedNews-Channel-Item-Container-1" class="RelatedNews-Channel-Item-Container mt5">
+			<i class="fa-li fa fa-angle-right"></i>
+
+<!-- Start of _RelatedNews-Channel-Item -->
+<a href="/news/defense/2020/04/22/mercury-systems-announces-industrys-first-sosaaligned-ultrawideband-dual-microwave-upconverter">Mercury Systems Announces Industry&#39;s First SOSA-Aligned Ultra-Wideband Dual Microwave Upconverter</a>
+<!-- End of _RelatedNews-Channel-Item -->
+        </li>
+        <li id="RelatedNews-Channel-Item-Container-2" class="RelatedNews-Channel-Item-Container mt5">
+			<i class="fa-li fa fa-angle-right"></i>
+
+<!-- Start of _RelatedNews-Channel-Item -->
+<a href="/news/defense/2020/04/20/kongsberg-supply-finnish-navy-corvettes-with-antisubmarine-warfare-diver-detection-sonars">Kongsberg to Supply Finnish Navy Corvettes With Anti-submarine Warfare and Diver Detection Sonars</a>
+<!-- End of _RelatedNews-Channel-Item -->
+        </li>
+        <li id="RelatedNews-Channel-Item-Container-3" class="RelatedNews-Channel-Item-Container mt5">
+			<i class="fa-li fa fa-angle-right"></i>
+
+<!-- Start of _RelatedNews-Channel-Item -->
+<a href="/news/defense/2020/04/17/mercury-systems-receives-30m-video-display-contract-award-mobile-ground-vehicles">Mercury Systems Receives $30M Video Display Contract Award for Mobile Ground Vehicles</a>
+<!-- End of _RelatedNews-Channel-Item -->
+        </li>
+        <li id="RelatedNews-Channel-Item-Container-4" class="RelatedNews-Channel-Item-Container mt5">
+			<i class="fa-li fa fa-angle-right"></i>
+
+<!-- Start of _RelatedNews-Channel-Item -->
+<a href="/news/defense/2020/04/10/mercury-receives-47m-artificial-intelligence-processing-technology-order-airborne-electrooptic-application">Mercury Receives $4.7M Artificial Intelligence Processing Technology Order for Airborne Electro-Optic Application</a>
+<!-- End of _RelatedNews-Channel-Item -->
+        </li>
+</ul>
+</section>
+<!-- Start of _RelatedNews-Channel -->
+				
+			<ul class="list-unstyled mt10 fa-ul"> 
+				<li>
+					<i class="fa-li fa fa-bars"></i>
+					More <a href="/news/sensors">
+					<strong>Sensors news</strong>
+					</a>
+				</li>
+			</ul>	
+			</div>
+		        <div id="RelatedNews-Event-Container-1" class="RelatedNews-Event-Container">
+
+
+<!-- Start of _RelatedNews-Event -->
+<div class="row">
+	
+<div class="col-xs-12 col-sm-10 col-sm-offset-1">
+	<div class="NewsOverview-DescLinks-Event mt10 mb10 well well-sm well-event clearfix">
+   
+        <figure><img src="/eventsImages/logo/smi.gif" alt="Thumbnail description" class="img-rounded pull-right"></figure>
+		<h4><a href="https://www.asdevents.com/event.asp?id=21994&amp;utm_source=asdnews&amp;utm_medium=affiliate&amp;utm_campaign=news-rn-geb&amp;utm_content=title"  id="RelatedNews-Event-Title">Military PNT Conference 2020</a></h4>
+        <span class="small"> United Kingdom - Oct 19, 2020</span>
+    </div>
+</div>    	
+</div>
+			
+		
+			
+<!-- End of _RelatedNews-Event -->
+                </div>
+</section>
+<!-- End of _RelatedNews -->
+
+    </div>
+</div>
+<div id="sidebar" class="col-md-3 pt50" style="display:none;" data-news-id="59623" data-is-legacy="False">
+    <div id="RelatedEvents-Container">
+        <!-- Start of RelatedEvents -->
+        <!-- End of RelatedEvents -->
+    </div>
+
+    <div id="RelatedReports-Container">
+        <!-- Start of RelatedEvents -->
+        <!-- End of RelatedEvents -->
+    </div>
+</div>
+
+
+
+
+
+
+        </div>
+    </div>
+    <!-- /.container -->
+    <div class="container">
+        
+<!-- Start of MasterLayoutFooter -->              
+<footer class="row">
+
+    <div class="well well-sm footerwell col-xs-12">
+<div class="row"><span class="col-xs-12 col-md-3 col-md-offset-1"><a id="newsletter-click-bottom" href="http://www.asdnews.com/subscriber-form/"><em class="fa fa-envelope-o fa-lg"> </em> Subscribe to our Newsletters</a></span> <span class="col-md-3 hidden-xs"><a href="http://www.asdnews.com/news-suggestions/"><em class="fa fa-pencil-square-o fa-lg"> </em> News Suggestions?</a> </span></div>
+</div>
+<div class="clearfix"></div>
+<div class="col-xs-12">
+<div class="row">
+<div class="col-xs-12 col-sm-3 col-sm-offset-1"><!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_inline_follow_toolbox"></div>
+</div>
+<div class="col-xs-12 col-sm-8">Copyright 2019 - ASDNews - ASD Media BV</div>
+</div>
+<div class="clearfix"></div>
+<hr />
+<div class="row">
+<div class="col-xs-6 col-md-3">
+<h4>Contact Us</h4>
+<ul class="fa-ul">
+<li><em class="fa-li fa fa-address-card-o text-primary"> </em><a href="http://www.asdnews.com/contact/">Contact information</a></li>
+<li><em class="fa-li fa fa-pencil-square-o text-primary"> </em><a href="http://www.asdnews.com/news-suggestions/">News suggestions</a></li>
+<li><em class="fa-li fa fa-picture-o text-primary"> </em><a href="http://www.asdnews.com/advertise/">Advertise</a></li>
+</ul>
+</div>
+<div class="col-xs-6 col-md-3">
+<h4>Legal Things</h4>
+<ul class="fa-ul">
+<li><em class="fa-li fa fa-gavel text-primary"> </em><a href="http://www.asdnews.com/terms-of-use/">Terms of Use</a></li>
+<li><em class="fa-li fa fa-user-secret text-primary"> </em><a href="http://www.asdnews.com/privacy-policy/">Privacy Policy</a></li>
+<li><em class="fa-li fa fa-question-circle-o text-primary"> </em><a href="http://www.asdnews.com/frequently-asked-questions/">FAQ - Frequently Asked Questions</a></li>
+</ul>
+</div>
+<div class="clearfix visible-xs-block"></div>
+<div class="col-xs-6 col-md-3">
+<h4>Other Websites</h4>
+<ul class="fa-ul"><!--<li><i class="fa-li fa fa-globe"></i><a href="#">News Websites</a></li>-->
+<li><em class="fa-li fa fa-globe text-primary"> </em><a href="https://www.asdreports.com" target="_blank">Market Research</a></li>
+<li><em class="fa-li fa fa-globe text-primary"> </em><a href="https://www.asdevents.com" target="_blank">Networking</a></li>
+</ul>
+</div>
+<div class="col-xs-6 col-md-3">
+<h4>Other</h4>
+<ul class="fa-ul">
+<li style="margin-bottom: 10px;"><em class="fa-li fa fa-rss-square text-primary"> </em><a href="http://www.asdnews.com/rss-overview/" target="_blank">RSS Feeds</a></li>
+</ul>
+</div>
+</div>
+<hr /></div>
+	
+</footer>
+<!-- End of MasterLayoutFooter -->
+    </div>
+
+
+
+    <!-- Start of javascript -->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script type="text/javascript" src="/scripts/JQueryForm/jquery.form.min.js"></script>
+    <script type="text/javascript" src="/scripts/jqueryval/jquery.validate.min.js"></script>
+    <script type="text/javascript" src="/scripts/jqueryval/jquery.validate.unobtrusive.min.js"></script>
+
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/scripts/bootstrap.js"></script>
+    <!-- ekko-lightbox to enlarge news-image -->
+    <script src="/scripts/ekko-lightbox.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function ($) {
+            $(document).delegate('*[data-toggle="lightbox"]', 'click', function (event) {
+                event.preventDefault();
+                return $(this).ekkoLightbox();
+            });
+        });
+    </script>
+
+    <script type="text/javascript">
+
+        var customUmbracoConfig = {
+
+            currentNodeId : 3177
+
+            };
+
+    </script>
+
+    <!-- Start of bodyScript -->
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js" type="text/javascript"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    <script src="/scripts/asd/NewsArticle.js" type="text/javascript"></script>
+
+    <!-- End of bodyScript -->
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56bdb1145fb65978"></script>
+
+
+    <!-- End of javascript -->
+</body>
+</html>

@@ -1,0 +1,3202 @@
+<!DOCTYPE html>
+  <!--[if lt IE 7]> <html lang="en" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+  <!--[if IE 7]> <html lang="en" class="lt-ie9 lt-ie8"> <![endif]-->
+  <!--[if IE 8]> <html lang="en" class="lt-ie9"> <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <html lang="en"> <!--<![endif]-->
+  <head>
+    <title>Coronavirus tracing app COVIDSafe released by Government to halt spread of COVID-19 in Australia - Politics - ABC News (Australian Broadcasting Corporation)</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
+<link rel="schema.iptc" href="urn:newsml:iptc.org:20031010:topicset.iptc-genre:8"/>
+<link rel="amphtml" href="http://amp.abc.net.au/article/12186130"/>
+<link rel="canonical" data-abc-platform="standard" href="https://www.abc.net.au/news/2020-04-26/coronavirus-tracing-app-covidsafe-australia-government-covid-19/12186130"/>
+<meta name="title" content="&#039;Not even a court order&#039; can break privacy of contact tracing app, Hunt promises"/>
+                <meta name="description" content="Health Minister Greg Hunt says personal data collected by the COVIDSafe coronavirus tracing app is protected under the Biosecurity Act, can&#039;t leave Australia and can&#039;t be shared to health authorities without the user&#039;s permission."/>
+                <meta name="keywords" content="coronavirus, covid-19, virus, health, infection, pandemic, quarantine, death, covidsafe, app, tracing, contact tracing"/>
+                <meta name="ICBM" content="-26.000,134.500"/>
+                <meta name="geo.position" content="-26.000;134.500"/>
+                <meta name="ContentId" content="12186130"/>
+                <meta name="ABC.site" content="ABC News"/>
+                <meta name="ABC.editorialGenre" content="News &amp; Current Affairs"/>
+                <meta name="ABC.tags" content="government-and-politics;infectious-diseases-other;federal-government;health;respiratory-diseases;covid-19;community-and-society"/>
+                <meta name="ABC_WCMS_sitesearch_include" content="true"/>
+                <meta name="twitter:card" content="summary"/>
+                <meta name="ABC.productionUnit" content="States - CPH digital"/>
+                <meta name="ABC.ContentType" content="CMArticle"/>
+                <meta name="DC.Publisher.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.rights" scheme="DCTERMS.URI" content="https://www.abc.net.au/conditions.htm#UseOfContent"/>
+        <meta name="DC.rightsHolder" content="ABC"/>
+                <meta name="DC.type" content="Text"/>
+                <meta name="DC.type" scheme="iptc-genre" content="Current"/>
+        <meta name="DC.title" content="&#039;Not even a court order&#039; can break privacy of contact tracing app, Hunt promises"/>
+                <meta name="DC.creator.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.date" scheme="DCTERMS.W3CDTF" content="2020-04-26T15:08:15+1000"/>
+        <meta name="DC.format" scheme="DCTERMS.IMT" content="text/html"/>
+        <meta name="DC.identifier" scheme="DCTERMS.URI" content="https://www.abc.net.au/news/2020-04-26/coronavirus-tracing-app-covidsafe-australia-government-covid-19/12186130"/>
+          <meta name="DC.language" scheme="DCTERMS.RFC3066" content="en-AU"/>
+        <meta name="DC.subject" scheme="ABCTERMS.subject" content="Government and Politics;Health:Diseases and Disorders:Infectious Diseases (Other);Government and Politics:Federal Government;Health;Health:Diseases and Disorders:Respiratory Diseases;Health:Diseases and Disorders:COVID-19;Community and Society"/>
+        <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2020-04-26T15:08:15+1000"/>
+        <meta name="DCTERMS.modified" scheme="DCTERMS.W3CDTF" content="2020-04-26T18:20:36+1000"/>
+        <meta name="DCTERMS.spatial" content="Australia"/>
+                <meta name="DCTERMS.spatial" scheme="DCTERMS.DCMIPoint" content="east=134.500;north=-26.000"/>
+        <meta property="og:title" content="&#039;Not even a court order&#039; can break privacy of contact tracing app, Hunt promises"/>
+                <meta property="og:description" content="Australia&#039;s coronavirus tracing app has been released as the nation seeks to contain the spread of the deadly pandemic."/>
+                <meta property="og:url" content="https://www.abc.net.au/news/2020-04-26/coronavirus-tracing-app-covidsafe-australia-government-covid-19/12186130"/>
+                <meta property="og:image" content="https://www.abc.net.au/news/image/12187150-16x9-700x394.jpg"/>
+                <meta property="og:image:type" content="image/jpeg"/>
+                <meta property="og:image:width" content="700"/>
+                <meta property="og:image:height" content="394"/>
+                <meta name="twitter:image" content="https://www.abc.net.au/news/image/12187150-16x9-700x394.jpg"/>
+                <meta property="og:type" content="Article"/>
+                <meta property="og:updated_time" content="2020-04-26T18:20:36+1000"/>
+                <meta property="article:published_time" content="2020-04-26T15:08:15+1000"/>
+                <meta property="article:modified_time" content="2020-04-26T18:20:36+1000"/>
+                <meta property="article:publisher" content="https://www.facebook.com/abcnews.au"/>
+                <meta property="article:author" content="https://www.abc.net.au/news/brett-worthington/4725564"/>
+                <meta property="article:tag" content="coronavirus"/>
+                <meta property="article:tag" content="covid-19"/>
+                <meta property="article:tag" content="virus"/>
+                <meta property="article:tag" content="health"/>
+                <meta property="article:tag" content="infection"/>
+                <meta property="article:tag" content="pandemic"/>
+                <meta property="article:tag" content="quarantine"/>
+                <meta property="article:tag" content="death"/>
+                <meta property="article:tag" content="covidsafe"/>
+                <meta property="article:tag" content="app"/>
+                <meta property="article:tag" content="tracing"/>
+                <meta property="article:tag" content="contact tracing"/>
+                <meta property="article:tag" content="Australia"/>
+                <meta property="article:tag" content="Government and Politics"/>
+                <meta property="article:tag" content="Infectious Diseases (Other)"/>
+                <meta property="article:tag" content="Diseases and Disorders"/>
+                <meta property="article:tag" content="Health"/>
+                <meta property="article:tag" content="Federal Government"/>
+                <meta property="article:tag" content="Respiratory Diseases"/>
+                <meta property="article:tag" content="COVID-19"/>
+                <meta property="article:tag" content="Community and Society"/>
+                <meta property="og:site_name" content="ABC News"/>
+                <meta name="twitter:site" content="@ABCNews"/>
+                <meta name="apple-mobile-web-app-title" content="ABC News"/>
+                <meta property="fb:pages" content="72924719987"/>
+                <link rel="alternate" data-abc-platform="mobile" media="only screen and (max-width: 640px)" href="https://mobile.abc.net.au/news/2020-04-26/coronavirus-tracing-app-covidsafe-australia-government-covid-19/12186130"/>
+  <link media="all" rel="stylesheet" type="text/css"
+                                                                              href="https://res.abc.net.au/bundles/2.5.0/styles/abc.bundle.2.5.0.min.css"/>
+    <link rel="stylesheet" type="text/css"
+                                                                              href="https://www.abc.net.au/res/sites/news-projects/news-core/1.26.0/desktop.css"/>
+    <link rel="alternate" type="application/rss+xml" title="Politics" href="/news/feed/9053456/rss.xml">
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.abc.net.au/cm/cb/8413652/News+iOS+76x76+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.abc.net.au/cm/cb/8413658/News+iOS+120x120+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.abc.net.au/cm/cb/8413660/News+iOS+152x152+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://www.abc.net.au/cm/cb/8413674/News+iOS+180x180+2017/data.png"/>
+    <script type="text/javascript" src="/news/ajax/7849224/managed.js"></script>
+<script type="text/javascript" src="https://www.abc.net.au/res/libraries/jquery/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="https://www.abc.net.au/res/libraries/location/abc.location-1.latest.min.js"></script>
+        <script type="text/javascript" src="https://www.abc.net.au/res/bundles/platforms/abc.bundle.platforms-1.0.min.js"></script>
+        <script type="text/javascript" src="https://www.abc.net.au/res/sites/news-projects/news-core/1.26.0/desktop.js"></script>
+        <script type="text/javascript" src="/cm/code/8724582/abc.news.config-2020-02.js" async></script>
+        <script type="text/javascript" src="https://www.abc.net.au/res/sites/news-projects/coronavirus-growth-rate/1.1.7/embed.js"></script>
+        <script type="text/javascript" src="https://www.abc.net.au/res/sites/news-projects/simple-remove-tags/1.0.0/index.js"></script>
+        <script type="text/javascript" src="https://www.abc.net.au/res/sites/news-projects/interactive-coronavirus-spread/1.7.0/standalone-cases-graphic.js"></script>
+        <script>
+    window.dataLayer = window.dataLayer || [];
+  </script>
+
+  <script>
+    window.dataLayer.push({
+      'debug': {
+         'schemaVersion': '20180315',
+      },
+
+       'document': {
+        'language': 'en',
+         'canonicalUrl':'https://www.abc.net.au/news/2020-04-26/coronavirus-tracing-app-covidsafe-australia-government-covid-19/12186130',
+         'contentType': 'article',
+         'uri':'coremedia://article/12186130',
+         'contentSource':'coremedia',
+         'id':'12186130',
+         
+         'pageTitle':'Coronavirus tracing app COVIDSafe released by Government to halt spread of COVID-19 in Australia',
+         
+         'title':{
+           
+           'title':'Coronavirus tracing app COVIDSafe released by Government to halt spread of COVID-19 in Australia',
+           
+           'teaser':'\'Not even a court order\' can break privacy of contact tracing app, Hunt promises',
+           
+           'short':'Coronavirus tracing app released',
+           
+         },
+         
+         'productionUnit':'States - CPH digital',
+         
+         'siteRoot':{
+           
+              'segment':'news',
+           
+              'title':'ABC News',
+           
+         },
+         
+         'lastModified':' Sun 26 Apr 2020, 18:20PM EST',
+         
+       },
+    })
+  </script>
+
+  <script>
+    window.dataLayer.push({
+        'application': {
+          'generatorName': 'WCMS JSP',
+          'generatorVersion': '18.10.8.8.0',
+          
+          'environment':'production',
+          
+          'wcmsTheme':'phase1-news',
+        }
+    })
+  </script>
+
+</head>
+  <body
+          class="platform-standard news story_page">
+  <!-- Start ABC Bundle Header 2.5.0 (customised - p1) -->
+<!--noindex-->
+<nav id="abcHeader" class="global" aria-label="ABC Network Navigation" data-resourcebase="https://res.abc.net.au/bundles/2.5.0/" data-scriptsbase="https://res.abc.net.au/bundles/2.5.0/scripts/" data-version="2.5.0">
+ <a class="home" href="https://www.abc.net.au/" data-mobile="https://mobile.abc.net.au/"><img src="https://res.abc.net.au/bundles/2.5.0/images/logo-abc@2x.png" width="65" height="16" alt="" />ABC Home</a>
+ <div class="sites">
+  <a class="controller" href="javascript:;" aria-controls="abcNavSites"><img src="https://res.abc.net.au/bundles/2.5.0/images/icon-menu-grey@1x.gif" data-src="images/icon-menu-grey@1x.gif" data-hover="images/icon-menu-blue@1x.gif" class="icon" alt="" /><span class='text'><span>Open</span> Sites <span>menu</span></span></a>
+  <div id="abcNavSites" class="menu" role="menu" aria-expanded="false">
+   <ul>
+    <li><a role="menuitem" href="https://www.abc.net.au/" data-mobile="https://mobile.abc.net.au/">ABC Home</a></li>
+    <li><a role="menuitem" href="https://www.abc.net.au/news/" data-mobile="https://mobile.abc.net.au/news/">News</a></li>
+    <li><a role="menuitem" href="https://iview.abc.net.au" data-mobile="https://iview.abc.net.au">iview</a></li>
+    <li><a role="menuitem" href="https://www.abc.net.au/tv/" data-mobile="https://www.abc.net.au/tv/">TV</a></li>
+    <li><a role="menuitem" href="https://radio.abc.net.au/" data-mobile="https://radio.abc.net.au/">Radio</a></li>
+    <li><a role="menuitem" href="https://www.abc.net.au/children/" data-mobile="https://mobile.abc.net.au/children/">Kids</a></li>
+    <li><a role="menuitem" href="https://shop.abc.net.au/" data-mobile="https://shop.abc.net.au/">Shop</a></li>
+    <li><a role="menuitem" class="more" href="https://www.abc.net.au/more/" data-mobile="https://www.abc.net.au/more/">More</a></li>
+   </ul>
+  </div>
+ </div>
+ <div class="accounts">
+  <!-- Accounts is currently injected due to different URLs --><span data-src="images/icon-user-grey@1x.png" data-hover="images/icon-user-blue@1x.png"></span>
+ </div>
+ <a class="search" href="https://search.abc.net.au/" data-mobile="https://search.abc.net.au/"><span>Search</span>
+  <img src="https://res.abc.net.au/bundles/2.5.0/images/icon-search-grey@1x.png" data-hover="images/icon-search-blue@1x.png" class="icon" alt="" /></a>
+</nav>
+<!--endnoindex-->
+<!-- End ABC Bundle Header 2.5.0 (p1) -->
+<!--noindex-->
+  <div class="page_margins">
+    <div id="header" class="header">
+    <div class="brand">
+        <a href="/news/"><img class="print" src="/cm/lb/8212706/data/news-logo-2017---desktop-print-data.png" alt="ABC News" width="387" height="100" />
+                <img class="noprint" src="/cm/lb/8212704/data/news-logo2017-data.png" alt="ABC News" width="242" height="80" />
+                </a></div>
+      <a href="/news/australia/" class="location-widget">Australia</a><a href="/news/weather/" class="weather-widget">Weather</a></div>
+  <div id="nav" class="nav">           
+  <ul id="primary-nav">
+        <li id="n-justin" class=""><a href="/news/justin/">Just In</a></li><li id="n-politics" class="active"><a href="/news/politics/">Politics</a></li><li id="n-world" class=""><a href="/news/world/">World</a></li><li id="n-business" class=""><a href="/news/business/">Business</a></li><li id="n-analysis-and-opinion" class=""><a href="/news/analysis-and-opinion/">Analysis</a></li><li id="n-sport" class=""><a href="/news/sport/">Sport</a></li><li id="n-science" class=""><a href="/news/science/">Science</a></li><li id="n-health" class=""><a href="/news/health/">Health</a></li><li id="n-arts-culture" class=""><a href="/news/arts-culture/">Arts</a></li><li id="n-factcheck" class=""><a href="/news/factcheck/">Fact Check</a></li><li id="n-more" class=""><a href="/news/more/">Other</a></li></ul>
+  </div>
+<div class="header subheader">
+  <!--endnoindex--><h1>Politics</h1>
+    <!--noindex-->
+    <ul class="nav">
+        <li>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/politics/"
+    >
+  
+
+  
+    
+        <span>Full coverage</span>
+    
+    
+  
+
+  </a>
+</li>
+        <li>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/politics/justin/"
+    >
+  
+
+  
+    
+        <span>Just In</span>
+    
+    
+  
+
+  </a>
+</li>
+        <li>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/elections/"
+    >
+  
+
+  
+    
+        <span>Elections</span>
+    
+    
+  
+
+  </a>
+</li>
+        <li>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/elections/blog/"
+    >
+  
+
+  
+    
+        <span>Antony Green</span>
+    
+    
+  
+
+  </a>
+</li>
+        <li>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/us-election-2020/"
+    >
+  
+
+  
+    
+        <span>US Election 2020</span>
+    
+    
+  
+
+  </a>
+</li>
+        </ul>
+    </div><!-- A modules - start -->
+  <!-- A modules - end -->
+  <div class="page section">
+    <div class="subcolumns">
+    <div class="c75l">
+      <!-- B modules - start -->
+      <div class="article section">
+  
+
+<div class="tools">
+  
+    
+  
+  <a class="button"
+     href="https://www2b.abc.net.au/EAF/View/MailToQuery.aspx?https://www.abc.net.au/news/2020-04-26/coronavirus-tracing-app-covidsafe-australia-government-covid-19/12186130"><span>Email</span></a>
+</div><!--endnoindex-->
+  <h1>Coronavirus tracing app COVIDSafe released by Government to halt spread of COVID-19 in Australia</h1><div class="byline">
+      By political correspondent <a href="/news/brett-worthington/4725564" target="_self" title="">Brett Worthington</a></div>
+  
+
+
+
+  
+    <p class="published">
+      Updated 
+    <span class="timestamp">
+      April 26, 2020 18:20:36
+    </span>
+    </p>
+  
+  
+
+<div class="media-wrapper-dl inline-content video full" data-uri="coremedia://video/12187278">
+    <script type="text/javascript" charset="utf-8">
+          if (typeof inlineVideoData == 'undefined') var inlineVideoData = new Array();
+          inlineVideoData.push([
+          
+              {'url': 'https://abcmedia.akamaized.net/news/video/202004/NOLs_HuntApp_2604_256k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '170', 'width': '320', 'height': '180', 'filesize': '4351868'}
+            ,
+              {'url': 'https://abcmedia.akamaized.net/news/video/202004/NOLs_HuntApp_2604_512k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '400', 'width': '512', 'height': '288', 'filesize': '9362315'}
+            ,
+              {'url': 'https://abcmedia.akamaized.net/news/video/202004/NOLs_HuntApp_2604_1000k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '928', 'width': '1024', 'height': '576', 'filesize': '20607253'}
+            
+            ]);
+            </script>
+        <a href="/news/2020-04-26/governments-track-and-trace-app-launched/12187278" class="inline-video"><script>
+    window.dataLayer.push({
+      'document':{
+        'embedded':{
+          'coremedia://video/12187278':{
+            'contentSource':'coremedia',
+            'contentType':'video',
+            'id':'12187278',
+            'uri':'coremedia://video/12187278',
+            'title':{
+              
+              'title':'Government\'s trace app launched amid privacy concerns',
+              
+            },
+            'mediaDuration':'158',
+            
+            'transcriptAvailable':'false',
+            
+            'streamType':'ondemand',
+            
+            'classification':'none',
+            
+          },
+        },
+      },
+    })
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/12187240-16x9-700x394.jpg" alt="Greg Hunt launches the Government&#039;s coronavirus tracing app." title="Greg Hunt launches COVIDSafe app in Canberra April 25" width="700" height="394"/>
+</a><a href="/news/2020-04-26/governments-track-and-trace-app-launched/12187278" class="inline-caption"><strong>Video:</strong> Greg Hunt launches the Government&#039;s coronavirus tracing app.
+
+<span class="source">(ABC News)</span>
+      </a></div>
+<div class="attached-content">
+      <div class="inline-content story left">
+    <a href="/news/2020-04-26/coronavirus-tracing-app-fascinating-test/12181404"><strong>Related Story:</strong>
+       There&#039;s a lot riding on the coronavirus tracing app — and not just the nation&#039;s health</a></div>
+<div class="inline-content story left">
+    <a href="/news/2020-04-14/coronavirus-app-government-wants-australians-to-download/12148210"><strong>Related Story:</strong>
+       The Government wants to track us via our phones. And if enough of us agree, coronavirus restrictions could ease</a></div>
+<div class="inline-content story left">
+    <a href="/news/2020-04-15/challenge-to-convince-australians-to-use-coronavirus-tracing-app/12151130"><strong>Related Story:</strong>
+       Getting Australians to use government-sponsored coronavirus-tracing app a daunting exercise in persuasion</a></div>
+<div class="inline-content map left">
+      <div class="story-map"></div>
+      <a class="inline-caption" href="http://maps.google.com/?q=-26.000,134.500(Australia)&amp;z=5">
+        <strong>Map: </strong>
+        Australia</a>
+    </div>
+  </div>
+  <p>Australia's coronavirus tracing app, dubbed COVIDSafe, has been released as the nation seeks to contain the spread of the deadly pandemic.</p><div class="inline-content wysiwyg right">
+<div class="inner">
+  <h2>Key points:</h2><ul><li>The COVIDSafe app will be voluntary for Australians to download</li><li>It traces only contact with other people who have the COVIDSafe app on their phone</li><li>People risk five years in jail for illegally accessing the data collected</li></ul></div>
+</div><p> </p><p>Smartphone users can download the app for iPhones and Android and will be able to register their information on Sunday from 6:00pm AEST.</p><p>People who download the app will be asked to supply a name, which can be a pseudonym, their age range, a mobile number and post code.</p><p>Those who download the software will be notified if they have contact with another user who tests positive for coronavirus.</p><p>Prime Minister Scott Morrison has flagged the app as being essential for Australia to be able to ease coronavirus-induced restrictions across the country.</p><p>Using Bluetooth technology, the app "pings" or exchanges a "digital handshake" with another user when they come within 1.5 metres of each other, and then logs this contact and encrypts it.</p><div class="inline-content wysiwyg full">
+<div class="inner">
+  <a href="/news/2020-04-27/coronavirus-update-australia-covid19-germany-refutes-china-pitt/12187626" target="_self" title="">Coronavirus update: Follow the latest news in our daily wrap.</a></div>
+</div><p> </p><p>The data remains encrypted on a user's phone for 21 days, after which it is deleted if they have not been in contact with a confirmed case.</p><div class="inline-content wysiwyg right">
+<div class="inner">
+  <h2><a href="/news/2020-04-26/coronavirus-tracing-app-covidsafe-australia-covid-19-data/12186068" target="_self" title="">Here's what the COVIDSafe app looks like and what it wants to do</a></h2><a href="/news/2020-04-26/coronavirus-tracing-app-covidsafe-australia-covid-19-data/12186068" target="_self" title=""><img alt="Here's what the COVIDSafe app looks like and what it wants to do" class="float--none" xml:lang="none" src="/cm/lb/12187416/data/covid-app-data.jpg"/> </a> <br/><a href="/news/2020-04-26/coronavirus-tracing-app-covidsafe-australia-covid-19-data/12186068" target="_self" title="">As Australia looks to implement an app that will help ease coronavirus restrictions, privacy concerns remain.</a></div>
+</div><p> </p><p>The application will have two stages of consent that people will have to agree to: initially when they download the app so data can be collected, and secondly to release that data on their phone if they are diagnosed with the virus.</p><p>If a person with the app tested positive to COVID-19, and provided they consent to sharing the information, it will be sent to a central server.</p><p>From here, state and territory health authorities can access it and start contacting other people who might have contracted coronavirus.</p><p>Chief Medical Officer Brendan Murphy said the app would provide quicker contact tracing, which was essential for containing the spread of the virus.</p><div class="inline-content wysiwyg full">
+<div class="inner">
+  <a name="remove"> </a><div class="inline-content infographic full">
+        <a href="/news/2020-04-10/growth-factor-social-image/12141080">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="/cm/lb/12141080/data/growth-factor-social-image-data.png" alt="Line chart showing Australia&#039;s current Covid-19 growth factor of 1.11 as of April 25 2020" title="coronavirus growth factor embed"  width="340" height="218" />
+</a><a href="/news/2020-04-10/growth-factor-social-image/12141080" class="inline-caption"></a></div> <br/><a href="/news/2020-04-10/coronavirus-data-australia-growth-factor-covid-19/12132478" target="_self" title="">Find out more</a><a name="endremove"> </a><a name="growthfactorgraphicEMBED"> </a></div>
+</div><p> </p><p>Health Minister Greg Hunt said strict laws would govern the use of information the app collects.</p><p>A user will be unable to access the data on their phone and Commonwealth officials and law enforcement will be unable to access the central server.</p><p>The central server must store all data in Australia, and it cannot be transferred overseas.</p><div class="inline-content wysiwyg right">
+<div class="inner">
+  <h2><a href="https://www.abc.net.au/radio/programs/coronacast/latest-segments/12025304" target="_self" title="">Coronavirus questions answered</a></h2><a href="https://www.abc.net.au/radio/programs/coronacast/latest-segments/12025304" target="_self" title=""><img alt="Coronavirus questions answered" src="/cm/lb/12027368/data/coronacast-pic-teaser-data.jpg"/> </a> <br/><a href="https://www.abc.net.au/radio/programs/coronacast/latest-segments/12025304" target="_self" title="">Breaking down the latest news and research to understand how the world is living through an epidemic, this is the ABC's Coronacast podcast.</a></div>
+</div><p> </p><p>Anyone who accesses the data illegally faces up to five years in jail, <a href="https://www.legislation.gov.au/Details/F2020L00480" target="_self" title="">according to new laws Mr Hunt enacted overnight under the Biosecurity Act.</a> </p><p>He will also seek to legislate the rules for the duration of the pandemic when Parliament returns next month. </p><p>Mr Hunt will also seek an agreement with the states and territories to ensure the information is only used for contact tracing.</p><p>"The safeguards that have been put in place are the strongest ever," he said.</p><p>"Not even a court order can penetrate the law [that prevents the release of the data].</p><p>"Not even a court order during an investigation of an alleged crime would be allowed to be used [to access the data]. </p><p>"So, to the best of their knowledge, there has never been a set of protections like those which have been put in place under law for this app."</p><div class="inline-content wysiwyg full">
+<div class="inner">
+  <h2><a href="/news/2020-03-26/coronavirus-covid19-global-spread-data-explained/12089028" target="_self" title="">How fast is coronavirus growing around the world?</a></h2><a name="remove"> </a><div class="inline-content infographic full">
+        <a href="/news/2020-03-26/fallback-image/12090836">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="/cm/lb/12090836/data/fallback-image-data.jpg" alt="Charted growth in key countries, on a logarithmic scale." title="Standalone Cases Graphic Embed"  width="904" height="679" />
+</a><a href="/news/2020-03-26/fallback-image/12090836" class="inline-caption"><strong>Infographic:</strong>
+       Growth in known cases in key countries, on a logarithmic scale</a></div> <a name="endremove"> </a><a name="casesgraphicPRESETlogarithmic"> </a><br/><a href="/news/2020-03-26/coronavirus-covid19-global-spread-data-explained/12089028" target="_self" title="">This chart uses a logarithmic scale to highlight coronavirus growth rates. Read our explainer to understand what that means — and what we can learn from countries that have slowed the spread.</a></div>
+</div><p> </p><p>The <a href="https://www.health.gov.au/covidsafe-privacy-policy" target="_self" title="">app is voluntary</a> and it will be illegal to force anyone to download it.</p><p>Mr Hunt unveiled the app alongside the nation's most senior medical officials and lobby groups.</p><div class="inline-content right">
+    <a href="https://twitter.com/ProfPCDoherty/status/1254194607350415361"><span><strong>External Link:</strong>
+
+@ProfPCDoherty: #Insiders I&#039;ll be signing up for the COVID-19 App. Anything that helps us wrestle COVID-19 to the ground is a plus. Any privacy any of us had pretty much disappeared when we started using mobile phones, searching on line, buying stuff from Amazon or whatever.</span>
+        </a></div><p> </p><p>Universally, Australia's Chief Medical Officer, Chief Nurse and the heads of the doctors' and nurses' unions said they would download the app and encourage patients to do the same.</p><p>"The app is not intended as a panacea," said Annie Butler, the national secretary of the Nursing and Midwifery Association.</p><p>"It is just an additional measure along with all the other measures that have been put in place and will continue to be put in place to manage the COVID-19 pandemic in Australia. </p><p>"It is very important we're continuing to expand testing and introducing other measures that ensure that we stay as safe as we possibly can."</p><p>Labor and the banking industry have also backed calls for people to download the app.</p><p>When a person deletes the app, all data will be wiped from their phone. They can also request for any information they have shared with the central server to also be deleted.</p><div class="inline-content wysiwyg full">
+<div class="inner">
+  <h2>What you need to know about coronavirus:</h2><ul><li><a href="/news/health/2020-04-03/coronavirus-covid-19-what-are-the-symptoms/12113466" target="_self" title="">The symptoms</a></li><li><a href="/news/2020-03-17/covid19-coronavirus-australia-how-do-i-self-isolate/12063002" target="_self" title="">How to self-isolate</a></li><li><a href="/news/science/2020-04-09/face-masks-coronavirus-should-i-wear-one-in-public-covid-19/12130070" target="_self" title="">When to wear a face mask</a></li><li><a href="/news/2020-03-17/coronavirus-cases-data-reveals-how-covid-19-spreads-in-australia/12060704" target="_self" title="">The number of cases in Australia</a></li></ul></div>
+</div><p> </p><div class="media-wrapper-dl inline-content video full" data-uri="coremedia://video/12186140">
+    <script type="text/javascript" charset="utf-8">
+          if (typeof inlineVideoData == 'undefined') var inlineVideoData = new Array();
+          inlineVideoData.push([
+          
+              {'url': 'https://abcmedia.akamaized.net/news/video/202004/NOLs_AppPKG_2604_256k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '170', 'width': '320', 'height': '180', 'filesize': '5256884'}
+            ,
+              {'url': 'https://abcmedia.akamaized.net/news/video/202004/NOLs_AppPKG_2604_512k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '400', 'width': '512', 'height': '288', 'filesize': '11465219'}
+            ,
+              {'url': 'https://abcmedia.akamaized.net/news/video/202004/NOLs_AppPKG_2604_1000k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '928', 'width': '1024', 'height': '576', 'filesize': '24649433'}
+            
+            ]);
+            </script>
+        <a href="/news/2020-04-26/governments-tracing-app-explained/12186140" class="inline-video"><script>
+    window.dataLayer.push({
+      'document':{
+        'embedded':{
+          'coremedia://video/12186140':{
+            'contentSource':'coremedia',
+            'contentType':'video',
+            'id':'12186140',
+            'uri':'coremedia://video/12186140',
+            'title':{
+              
+              'title':'Government\'s tracing app explained',
+              
+            },
+            'mediaDuration':'191',
+            
+            'transcriptAvailable':'false',
+            
+            'streamType':'ondemand',
+            
+            'classification':'none',
+            
+          },
+        },
+      },
+    })
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/12186142-16x9-700x394.jpg" alt="Government&#039;s COVIDSafe tracing app explained." title="Government&#039;s tracking app explained" width="700" height="394"/>
+</a><a href="/news/2020-04-26/governments-tracing-app-explained/12186140" class="inline-caption"><strong>Video:</strong> Government&#039;s COVIDSafe tracing app explained.
+
+<span class="source">(ABC News)</span>
+      </a></div><p> </p><div class="inline-content full">
+    <a href="https://modules.wearehearken.com/abc-national/embed/5075/share?abcnewsembedheight=800"><span><strong>External Link:</strong>
+
+Ask us your coronavirus questions</span>
+        </a></div><p> </p>
+
+
+<p class="topics">
+	<strong>Topics:</strong>
+	
+	<a href="/news/topic/government-and-politics">government-and-politics</a>,
+
+
+	
+	<a href="/news/topic/infectious-diseases-other">infectious-diseases-other</a>,
+
+
+	
+	<a href="/news/topic/federal-government">federal-government</a>,
+
+
+	
+	<a href="/news/topic/health">health</a>,
+
+
+	
+	<a href="/news/topic/respiratory-diseases">respiratory-diseases</a>,
+
+
+	
+	<a href="/news/topic/covid-19">covid-19</a>,
+
+
+	
+	<a href="/news/topic/community-and-society">community-and-society</a>,
+
+
+	
+	<a href="/news/topic/australia">australia</a>
+	
+</p>
+
+
+  <p class="published">
+    First posted 
+    <span class="timestamp">
+      April 26, 2020 15:08:15
+    </span>
+  </p>
+<!--noindex-->
+  </div>
+<!-- B modules - end -->
+    </div>
+    <div class="c25r sidebar">
+    <!-- Sidebar modules - start -->
+    <div class="inline-content uberlist uberlist-features boxed boxed-titles show-image-icon-doctypes copyfit exclude-current sidebar">
+
+  <div class="section module-heading">
+      <h2>Coronavirus danger</h2>
+        </div>
+  <div class="section module-body">
+    <ol data-cmid="11894148" data-cmjson="https://www.abc.net.au/news/ajax/11894148/json"
+>
+      <li class="doctype-channel" data-image-cmid="11920840" data-cmid="12015988"
+>
+    <h3>
+        <a href="/news/story-streams/coronavirus/">See our full coverage of coronavirus</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="12100788" data-cmid="12060704" data-importance="4" data-first-published="2020-03-17T05:49+1100" data-last-published="2020-04-27T11:27+1000"
+>
+    <h3>
+        <a href="/news/2020-03-17/coronavirus-cases-data-reveals-how-covid-19-spreads-in-australia/12060704">Latest figures on Australia&#039;s coronavirus cases</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="12100770" data-cmid="12100680" data-importance="4" data-first-published="2020-03-29T12:04+1100" data-last-published="2020-03-29T15:08+1100"
+>
+    <h3>
+        <a href="/news/2020-03-29/federal-government-launches-coronavirus-australia-app/12100680">Government launches Coronavirus Australia app, WhatsApp feature</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="12119710" data-cmid="12114978" data-importance="4" data-first-published="2020-04-03T13:50+1100" data-last-published="2020-04-03T16:45+1100"
+>
+    <h3>
+        <a href="/news/2020-04-03/coronavirus-data-modelling-covid19-stay-home/12114978">Data reveals why our isolation can&#039;t just end when we&#039;ve flattened the curve</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="12147744" data-cmid="12146616" data-importance="4" data-first-published="2020-04-17T11:26+1000" data-last-published="2020-04-17T13:17+1000"
+>
+    <h3>
+        <a href="/news/health/2020-04-17/coronavirus-vaccine-ian-frazer/12146616">We&#039;ve never made a successful vaccine for a coronavirus before. This is why it&#039;s so difficult</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="12144916" data-cmid="12132478" data-importance="4" data-first-published="2020-04-10T03:06+1000" data-last-published="2020-04-23T13:09+1000"
+>
+    <h3>
+        <a href="/news/2020-04-10/coronavirus-data-australia-growth-factor-covid-19/12132478">One number will tell us if Australia&#039;s coronavirus outbreak is getting worse</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="12151286" data-cmid="12151264" data-importance="4" data-first-published="2020-04-17T06:56+1000" data-last-published="2020-04-27T16:55+1000"
+>
+    <h3>
+        <a href="/news/science/2020-04-17/5-questions-the-governments-coronavirus-contact-tracing-app/12151264">Who can access our data? Does digital contact tracing even work? Five questions about the government&#039;s new coronavirus app</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="12142542" data-cmid="12144576" data-importance="4" data-first-published="2020-04-13T17:35+1000" data-last-published="2020-04-14T07:30+1000"
+>
+    <h3>
+        <a href="/news/2020-04-13/coronavirus-greg-hunt-lockdown-social-distancing-isolation/12144576">The three steps on Australia&#039;s &#039;road out&#039; of coronavirus</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="12132872" data-cmid="12132414" data-importance="4" data-first-published="2020-04-08T16:08+1000" data-last-published="2020-04-08T17:07+1000"
+>
+    <h3>
+        <a href="/news/health/2020-04-08/coronavirus-vaccine-explainer/12132414">What goes into making a new vaccine? And how far away is it?</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="12046904" data-cmid="12132940" data-importance="4" data-first-published="2020-04-08T23:37+1000" data-last-published="2020-04-22T18:06+1000"
+>
+    <h3>
+        <a href="/news/2020-04-08/jobkeeper-bill-passed-questions-answered/12132940">Here&#039;s how the JobKeeper payment will work</a></h3>
+    </li>
+</ol>
+  </div>
+
+  </div>
+  <div class="section localised-top-stories">
+        <div class="inner">
+          <h2>Top Stories</h2>
+          
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/cmo-brendan-murphy-change-interactions-to-beat-coronavirus/12189702">We all have to change the way we interact, Chief Medical Officer says</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/trumps-disinfectant-comments-coronavirus-briefing-fallout/12188160">The fallout from Trump&#039;s disinfectant comments has just begun</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/how-japan-pm-shinzo-abe-fumbled-coronavirus-response/12189076">Analysis: Japan&#039;s infections continue to rise as its neighbours&#039; curves flatten. How did it go so wrong?</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/police-officer-killed-in-melbourne-crash-kevin-king-remembered/12190326">Family mourns &#039;big softie&#039; police officer killed in freeway crash</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/science/2020-04-27/covidsafe-contact-tracing-app-coronavirus-privacy-security/12186044">Will COVIDSafe keep your data secure? Here&#039;s what the experts say</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-pm-johnson-says-britain-beginning-to-turn-the-tide/12190768">Boris Johnson says Britain is beginning to turn the tide on &#039;invisible mugger&#039; coronavirus</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/nrl-players-under-investigation-for-breach-of-coronavirus-rules/12188192"><em>SPORT</em>
+      NRL players fined $1,000 for camping trip amid coronavirus lockdown</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/commonwealth-ordered-pay-costs-biloela-family-appeal/12189602">Commonwealth ordered to pay more than $200,000 in costs over Biloela asylum seeker case</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/claims-coronavirus-spread-after-party-dismissed-by-tas-police/12187922">Claims coronavirus spread due to &#039;illegal party&#039; of health workers quashed by Tasmania Police</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-uncertainty-increasing-anxiety-mental-health/12182736">&#039;You just can&#039;t breathe&#039;: Learning to cope with anxiety brought on by coronavirus</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/wa-coronavirus-restrictions-eased-what-you-can-cannot-do/12188382">Here is what you can and can&#039;t do in WA now coronavirus restrictions have partially eased</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/victorian-government-backs-unredacted-royal-commission-findings/12190760">Victorian Government backs release of unredacted Royal Commission findings on child sex abuse</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/nab-goes-to-share-market-for-more-than-3-billion/12188112">NAB asks shareholders for $3.5b to protect the bank against &#039;very uncertain times&#039;</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-fight-in-new-york-different-from-australia/12181004">Troy Roberts escaped New York and has a message for Australians doubting the coronavirus threat</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/satellite-images-of-train-spark-new-kim-jong-un-speculation/12187720">Satellite imagery sparks more speculation on North Korean leader Kim Jong-un</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/how-to-download-the-covidsafe-app-and-the-issues-you-can-expect/12188156">How to download the COVIDSafe app and the issues you can expect</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-update-australia-covid19-germany-refutes-china-pitt/12187626">Coronavirus update: China wants praise for its handling of pandemic, Italy plans to ease lockdown</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/new-zealand-white-island-volcano-disaster-four-corners/12150706">Passengers told &#039;absolutely nothing&#039; about NZ volcano eruption risks to sue Royal Caribbean</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-teachers-return-to-school-celebrities-show-support/12188268">Celebrities rally behind &#039;rockstar&#039; Australian teachers working through coronavirus</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/great-time-to-try-baking-sourdough/12189360">A bread revolution is coming to a kitchen near you</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/north-korea-succession-plan-if-kim-jong-un-dies/12187266">The next ruler of North Korea could be a woman. One man might stand in her way</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/craig-mclachlan-attempted-indecent-assault-charge-dropped/12188118">Attempted indecent assault charge against Craig McLachlan dropped</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/spains-children-allowed-outside-coronavirus-restrictions-ease/12188106">Spain&#039;s children play outside for first time in six weeks as coronavirus restrictions ease</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-critical-juncture-china-the-west-world-order/12179972">Opinion: Now China is staring down the West just as we are at our weakest</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-cases-in-victoria-testing-to-increase/12185900">Victoria&#039;s restrictions could be eased in a fortnight as testing blitz begins</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/sam-neill-cheering-up-business-during-coronavirus/12147500">The comedian of COVID-19: Actor Sam Neill&#039;s &#039;cheering up&#039; business</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-covid-19-spanish-flu-letter-great-grandfather/12152844">100 years ago, my great-grandfather wrote a letter from isolation. It makes for powerful reading now</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/has-new-zealand-done-better-than-australia-on-coronavirus/12182254">Did New Zealand&#039;s coronavirus lockdown need to go so far?</a>
+
+</li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="section graphic">
+  <a href="http://m.me/abcnews.au?ref=welcomefromABCNewshomepage">
+  <img src="/cm/lb/10757972/data/messenger-data.png" alt="Get the headlines to your mobile. NEWS on Messenger." title="Get the headlines to your mobile. NEWS on Messenger." height="70" width="220" />
+  </a>
+</div>
+<div class="connect-with-abc section promo">
+<h2>Connect with ABC News</h2>
+<ul>
+    <li><a href="http://www.facebook.com/abcnews.au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388890/data/facebook-data.png" alt="ABC News on Facebook" title="ABC News on Facebook" width="30" height="30" />
+    </a></li>
+    <li><a href="http://instagram.com/abcnews_au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389068/data/instagram-data.png" alt="ABC News on Instagram" title="ABC News on Instagram" width="32" height="31" />
+    </a></li>
+    <li><a href="http://www.twitter.com/abcnews" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388894/data/twitter-data.png" alt="ABC News on Twitter" title="ABC News on Twitter" width="32" height="27" />
+    </a></li>
+    <li><a href="http://www.youtube.com/newsonabc" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389052/data/youtube-data.png" alt="ABC News on YouTube" title="ABC News on YouTube" width="50" height="22" />
+    </a></li>
+
+    <li><a href="https://apple.news/TsieN9U-WQ0SZbtP1VTI4uQ" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/8458084/data/applenews-data.png" alt="ABC News on Apple News" title="ABC News on Apple News" width="32" height="32" />
+    </a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="section graphic">
+  <a href="/news/feeds/">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="/cm/lb/4745996/thumbnail/news-podcasts-sidebar-graphic-promo-thumbnail.jpg" alt="News Podcasts" title="News Podcasts" class="" width="220" />
+</a></div><div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/tip-off/"
+    >
+  
+
+  
+    
+        <span>Got a news tip?</span>
+    
+    
+  
+
+  </a>
+</h2><p>If you have inside knowledge of a topic in the news, <a href="/news/contact/tip-off/" target="_self" title="">contact the ABC</a>.</p></div>
+  </div>
+<div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/news/about/backstory/"
+    >
+  
+
+  
+    
+        <span>ABC Backstory</span>
+    
+    
+  
+
+  </a>
+</h2><p><a href="https://www.abc.net.au/news/about/backstory/" target="_self" title="">ABC teams share the story behind the story and insights into the making of digital, TV and radio content.</a></p></div>
+  </div>
+<div class="section promo ed-pol ">
+  <div class="inner">
+      <h2><a href="https://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/" target="_self" title="">Editorial Policies</a></h2><p><a href="https://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/" target="_self" title="">Read about our editorial guiding principles and the standards ABC journalists and content makers follow.</a></p><p><a href="https://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/" target="_self" title="">Learn more</a></p></div>
+  </div>
+<!-- Sidebar modules - end -->
+  </div>
+</div>
+</div><!-- C modules - start -->
+  <div class="page section featured-scroller featured-scroller-4 dark">
+<div class="section">
+  <h2>Features</h2>
+  </div>
+<div class="inner">
+  <ol class="subcolumns">
+    <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/radio/programs/coronacast/is-being-overweight-a-bigger-risk-factor-than-smoking/12187340" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/radio/image/12027716-16x9-220x124.jpg" alt="coronacast" title="coronacast" width="220" height="124"/>
+<span class="audio"></span>
+				<span class="label">
+				  Is being overweight a bigger risk factor than smoking? </span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>Obesity is even worse than smoking when for coronavirus risk factors.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2020-03-17/coronavirus-cases-data-reveals-how-covid-19-spreads-in-australia/12060704" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/12179116-16x9-220x124.jpg" alt="Chart showing testing figures for COVID-19" title="Compare COVID-19 testing numbers in your state" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Testing figures surge in all but one jurisdiction</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p class="title">
+        By <a href="/news/inga-ting/8749946" target="_self" title="">Inga Ting</a>, <a href="/news/nathanael-scott/8748130" target="_self" title="">Nathanael Scott</a> and <a href="/news/michael-workman/8768398" target="_self" title="">Michael Workman</a></p>
+		<p>Testing figures have more than doubled in some states. But not every jurisdiction has lifted its numbers.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2020-04-27/coronavirus-homeschool-learning-through-play/12167528" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/12167560-16x9-220x124.jpg" alt="A woman and a child cuddle a dog in the garden" title="Rachel Parker, Lila and Yoyo the dog" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  It&#039;s OK if learning looks a little like play right now</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>Ordinary life can be the inspiration for learning at home.</p>
+	 </div>
+    </li>
+         <li class="c25r">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2020-04-27/jobkeeper-coronavirus-payments-begin-balancing-act-economy/12187664" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/12187696-16x9-220x124.jpg" alt="Large numbers of Australians now need help from Centrelink." title="Centrelink queue" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  JobKeeper payments start flowing</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>The balancing act between beating the coronavirus pandemic and shoring up the economy for the future has never been more delicate.</p>
+	 </div>
+    </li>
+         </ol>
+</div></div><div id="footer-stories" class="page section">
+    <div class="subcolumns">
+    <div class="c25l">
+        <div class="section">
+          <h2>Top Stories</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/cmo-brendan-murphy-change-interactions-to-beat-coronavirus/12189702">We all have to change the way we interact, Chief Medical Officer says</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/trumps-disinfectant-comments-coronavirus-briefing-fallout/12188160">The fallout from Trump&#039;s disinfectant comments has just begun</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/how-japan-pm-shinzo-abe-fumbled-coronavirus-response/12189076">Analysis: Japan&#039;s infections continue to rise as its neighbours&#039; curves flatten. How did it go so wrong?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/police-officer-killed-in-melbourne-crash-kevin-king-remembered/12190326">Family mourns &#039;big softie&#039; police officer killed in freeway crash</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/science/2020-04-27/covidsafe-contact-tracing-app-coronavirus-privacy-security/12186044">Will COVIDSafe keep your data secure? Here&#039;s what the experts say</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-pm-johnson-says-britain-beginning-to-turn-the-tide/12190768">Boris Johnson says Britain is beginning to turn the tide on &#039;invisible mugger&#039; coronavirus</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/nrl-players-under-investigation-for-breach-of-coronavirus-rules/12188192">NRL players fined $1,000 for camping trip amid coronavirus lockdown</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/commonwealth-ordered-pay-costs-biloela-family-appeal/12189602">Commonwealth ordered to pay more than $200,000 in costs over Biloela asylum seeker case</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/claims-coronavirus-spread-after-party-dismissed-by-tas-police/12187922">Claims coronavirus spread due to &#039;illegal party&#039; of health workers quashed by Tasmania Police</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-uncertainty-increasing-anxiety-mental-health/12182736">&#039;You just can&#039;t breathe&#039;: Learning to cope with anxiety brought on by coronavirus</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Just In</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/victorian-government-backs-unredacted-royal-commission-findings/12190760">Victorian Government backs release of unredacted Royal Commission findings on child sex abuse</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-pm-johnson-says-britain-beginning-to-turn-the-tide/12190768">Boris Johnson says Britain is beginning to turn the tide on &#039;invisible mugger&#039; coronavirus</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/commonwealth-ordered-pay-costs-biloela-family-appeal/12189602">Commonwealth ordered to pay more than $200,000 in costs over Biloela asylum seeker case</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/police-officer-killed-in-melbourne-crash-kevin-king-remembered/12190326">Family mourns &#039;big softie&#039; police officer killed in freeway crash</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/quadriplegic-forced-to-turn-to-ebay-for-protective-equipment/12166496">&#039;I fear that I could die&#039;: Adelaide quadriplegic turns to eBay after PPE suppliers run out of stock</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/st-columba-anglican-school-returns-after-coronavirus/12188962">NSW school &#039;does its own thing&#039; to bring back entire campus by May 11</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-uncertainty-increasing-anxiety-mental-health/12182736">&#039;You just can&#039;t breathe&#039;: Learning to cope with anxiety brought on by coronavirus</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/sa-online-learning-learnlink-drops-out-on-first-day-of-term-two/12189476">South Australia&#039;s  online learning system crashes on first day of term two</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/cmo-brendan-murphy-change-interactions-to-beat-coronavirus/12189702">We all have to change the way we interact, Chief Medical Officer says</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/jamie-saxon-appeal-granted-tourist-death-dominick-schulze/12188960">Error in evidence document sees stabbing murder conviction quashed</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Most Popular</h2><ul class="headlines">
+  <li>
+    <a href="/news/2020-04-27/driver-of-truck-in-crash-that-killed-four-police-charged/12187792">Truck driver &#039;deeply saddened and distressed&#039; over crash that killed four police officers</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+<li>
+    <a href="/news/2020-04-27/trumps-disinfectant-comments-coronavirus-briefing-fallout/12188160">The fallout from Trump&#039;s disinfectant comments has just begun</a>
+
+</li>
+<li>
+    <a href="/news/2020-04-27/north-korea-succession-plan-if-kim-jong-un-dies/12187266">The next ruler of North Korea could be a woman. One man might stand in her way</a>
+
+</li>
+<li>
+    <a href="/news/2020-04-27/coronavirus-australia-live-news-covid-19-latest/12187642">Live: Murphy says tracing app data &#039;locked down completely&#039;, source code to be released</a>
+
+</li>
+<li>
+    <a href="/news/2020-03-17/coronavirus-cases-data-reveals-how-covid-19-spreads-in-australia/12060704">Tracking the coronavirus spread: Testing figures surge in all but one jurisdiction</a>
+
+</li>
+<li>
+    <a href="/news/2020-04-27/coronavirus-critical-juncture-china-the-west-world-order/12179972">Now China is staring down the West just as we are at our weakest</a>
+
+</li>
+<li>
+    <a href="/news/2020-04-27/satellite-images-of-train-spark-new-kim-jong-un-speculation/12187720">Satellite imagery sparks more speculation on North Korean leader Kim Jong-un</a>
+
+</li>
+<li>
+    <a href="/news/2020-04-27/coronavirus-tracing-app-covidsafe-one-million-downloads/12187806">COVIDSafe app reaches five-day download goal within five hours</a>
+
+</li>
+<li>
+    <a href="/news/2020-04-27/nab-goes-to-share-market-for-more-than-3-billion/12188112">NAB asks shareholders for $3.5b to protect the bank against &#039;very uncertain times&#039;</a>
+
+</li>
+<li>
+    <a href="/news/2020-04-27/nrl-players-under-investigation-for-breach-of-coronavirus-rules/12188192">NRL players fined $1,000 for camping trip amid coronavirus lockdown</a>
+
+</li>
+</ul></div>
+      </div>
+    <div class="c25r">
+        <div class="section">
+          <h2>Analysis &amp; Opinion</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/how-japan-pm-shinzo-abe-fumbled-coronavirus-response/12189076">Japan&#039;s infections continue to rise as its neighbours&#039; curves flatten. How did it go so wrong?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-homeschool-learning-through-play/12167528">Teaching my daughter at home overwhelmed me — until I remembered a lifechanging technique</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/coronavirus-critical-juncture-china-the-west-world-order/12179972">Now China is staring down the West just as we are at our weakest</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-27/jobkeeper-coronavirus-payments-begin-balancing-act-economy/12187664">COVID-19 stimulus may not provide the hoped for boost as JobKeeper tensions mount</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-26/coronavirus-covidsafe-tracing-app-creating-unusual-allegiances/12187534">To make it through the coronavirus crisis, politicians are throwing out the rule book</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-26/why-australian-government-crude-oil-purchase-teaches-economics/12185546">There&#039;s a simple lesson in economics we can learn from Australia&#039;s $94m crude oil purchase</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-26/what-does-it-take-to-end-a-drought/12180508">When does a drought end?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-26/coronavirus-tracing-app-fascinating-test/12181404">There&#039;s a lot riding on the coronavirus tracing app — and not just the nation&#039;s health</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-26/coronavirus-rohingya-covid19-coxs-bazar-refugee-camp/12167524">If you find Australian lockdown tough imagine surviving coronavirus here</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2020-04-26/finding-solace-during-coronavirus-in-truly-bad-films/12164562">&#039;So bad it&#039;s good&#039;: There&#039;s never been a better time to watch a truly awful movie</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    </div>
+  </div>
+<!-- C modules - end -->
+<div id="footer" class="page section">
+    <!-- program footer-->
+  <div class="subcolumns">
+    <div id="sitemap" class="c75l">
+        <div class="section">
+          <h2>Site Map</h2>
+        </div>
+        <div class="subcolumns">
+          <div class="c16l">
+              <div class="section">
+    <h3>Sections</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/"
+    >
+  
+
+  
+    
+        <span>ABC News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/justin/"
+    >
+  
+
+  
+    
+        <span>Just In</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/world/"
+    >
+  
+
+  
+    
+        <span>World</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/business/"
+    >
+  
+
+  
+    
+        <span>Business</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/health/"
+    >
+  
+
+  
+    
+        <span>Health</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/entertainment/"
+    >
+  
+
+  
+    
+        <span>Entertainment</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/sport/"
+    >
+  
+
+  
+    
+        <span>Sport</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/analysis-and-opinion/"
+    >
+  
+
+  
+    
+        <span>Analysis &amp; Opinion</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/weather/"
+    >
+  
+
+  
+    
+        <span>Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/topics/"
+    >
+  
+
+  
+    
+        <span>Topics</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/archive/"
+    >
+  
+
+  
+    
+        <span>Archive</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/corrections/"
+    >
+  
+
+  
+    
+        <span>Corrections &amp; Clarifications</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local Weather</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/sydney/weather/"
+    >
+  
+
+  
+    
+        <span>Sydney Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/melbourne/weather/"
+    >
+  
+
+  
+    
+        <span>Melbourne Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/adelaide/weather/"
+    >
+  
+
+  
+    
+        <span>Adelaide Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/brisbane/weather/"
+    >
+  
+
+  
+    
+        <span>Brisbane Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/perth/weather/"
+    >
+  
+
+  
+    
+        <span>Perth Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/hobart/weather/"
+    >
+  
+
+  
+    
+        <span>Hobart Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/darwin/weather/"
+    >
+  
+
+  
+    
+        <span>Darwin Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/canberra/weather/"
+    >
+  
+
+  
+    
+        <span>Canberra Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local News</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/sydney/"
+    >
+  
+
+  
+    
+        <span>Sydney News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/melbourne/"
+    >
+  
+
+  
+    
+        <span>Melbourne News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/adelaide/"
+    >
+  
+
+  
+    
+        <span>Adelaide News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/brisbane/"
+    >
+  
+
+  
+    
+        <span>Brisbane News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/perth/"
+    >
+  
+
+  
+    
+        <span>Perth News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/hobart/"
+    >
+  
+
+  
+    
+        <span>Hobart News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/darwin/"
+    >
+  
+
+  
+    
+        <span>Darwin News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/canberra/"
+    >
+  
+
+  
+    
+        <span>Canberra News</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Media</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/video/"
+    >
+  
+
+  
+    
+        <span>Video</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/audio/"
+    >
+  
+
+  
+    
+        <span>Audio</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/photos/"
+    >
+  
+
+  
+    
+        <span>Photos</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Subscribe</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/feeds/"
+    >
+  
+
+  
+    
+        <span>Podcasts</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/news/subscribe"
+    >
+  
+
+  
+    
+        <span>Newsletters</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Connect</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/"
+    >
+  
+
+  
+    
+        <span>Contact Us</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            </div>
+      </div>
+    <!-- right section-->
+    <div class="c25r">
+      <div id="fineprint" class="section">
+        <p>
+          <small>This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.</small>
+        </p>
+        <p>
+          <small>AEST = Australian Eastern Standard Time which is 10 hours ahead of GMT (Greenwich Mean Time)</small>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="platforms">
+      <a href="https://mobile.abc.net.au/news/2020-04-26/coronavirus-tracing-app-covidsafe-australia-government-covid-19/12186130?pfm=sm" class="platform-mobile switch">Change to mobile view</a></div>
+  </div><!-- End footer --></div>
+  <!-- Start Webtrends -->
+  <div class="hide">
+    </div>
+  <!-- End Webtrends -->
+  <!--endnoindex--><!--Global footer-->
+  <!-- Start ABC Bundle Footer 2.5.0 (customised - p1) -->
+<!--noindex-->
+<nav id="abcFooter" class="global" aria-label="ABC Footer Navigation" data-version="2.5.0">
+ <ul>
+  <li><a href="https://about.abc.net.au/terms-of-use/">Terms of Use</a></li>
+  <li><a href="https://about.abc.net.au/abc-privacy-policy/">Privacy Policy</a></li>
+  <li><a href="https://about.abc.net.au/accessibility-statement/">Accessibility</a></li>
+  <li><a href="https://help.abc.net.au/">ABC Help</a></li>
+  <li><a href="https://www.abc.net.au/contact/">Contact the ABC</a></li>
+  <li><a href="https://about.abc.net.au/terms-of-use/#UseOfContent">&copy; <time>2020</time> ABC</a></li>
+ </ul>
+</nav>
+
+<!-- ABC.Bundle Scripts -->
+<script type="text/javascript" src="https://res.abc.net.au/bundles/2.5.0/scripts/abc.bundle.2.5.0.min.js"></script>
+<!-- End ABC.Bundle Scripts -->
+
+<!-- Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<noscript><div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=abc-aust&cg=0&cc=1&ts=noscript" width="1" height="1" alt=""></div></noscript>
+<!-- End Nielsen Online SiteCensus V6.0 -->
+
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+ // <![CDATA[
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-PB2GX');
+ // ]]>
+</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PB2GX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+
+<!-- ABC MyLogin -->
+<script type="text/javascript" src="https://mylogin.abc.net.au/js/abc.mylogin.embedded.js"></script>
+<script type="text/javascript">ABC.MyLoginEmbedded.init();</script>
+<!-- End ABC MyLogin -->
+
+<!--endnoindex-->
+<!-- End ABC Bundle Footer 2.5.0 (p1) -->
+<!--end global footer-->
+  </body>
+  </html>

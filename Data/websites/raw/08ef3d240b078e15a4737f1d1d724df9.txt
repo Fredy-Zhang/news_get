@@ -1,0 +1,2026 @@
+<!DOCTYPE html>
+
+<html class="site--news no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="SBS News">
+  <meta name="msapplication-TileColor" content="#1b2024">
+  <meta name="theme-color" content="#1b2024">
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+
+  <title>Berlin police arrest anti-lockdown protesters accusing Angela Merkel of &#039;banning life&#039; | SBS News</title>
+  <meta name="description" content="Far-left activists and right-wing supporters have ignored social distancing restrictions to protest in Berlin, accusing Chancellor Angela Merkel of &quot;banning life&quot; for not easing lockdown restrictions.">
+  <meta name="keywords" content="">
+  <meta name="msvalidate.01" content="0E549D3DACFFE4CFCA34DDAAA0180F04" />  
+  <meta property="og:title" content="Berlin police arrest anti-lockdown protesters accusing Angela Merkel of &#039;banning life&#039;">
+  <meta property="og:description" content="Far-left activists and right-wing supporters have ignored social distancing restrictions to protest in Berlin, accusing Chancellor Angela Merkel of &quot;banning life&quot; for not easing lockdown restrictions.">
+  <meta property="og:type" content="article">
+  <meta property="og:image" content="https://sl.sbs.com.au/public/image/file/5659acae-bfed-45da-93ff-6c6eee9e3ca5/crop/16x9">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="">
+  <meta property="og:image:height" content="">
+  <meta property="og:image:alt" content="People protest against the coronavirus restrictions in Berlin, despite a ban on demonstrations">
+  <meta property="og:site_name" content="SBS News">
+  <meta property="og:url" content="https://www.sbs.com.au/news/berlin-police-arrest-anti-lockdown-protesters-accusing-angela-merkel-of-banning-life">
+  <meta property="og:locale" content="en_GB">
+  <meta property="article:publisher" content="https://www.facebook.com/sbsnews">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@SBSNews">
+  <meta name="twitter:title" content="Berlin police arrest anti-lockdown protesters accusing Angela Merkel of &#039;banning life&#039;">
+  <meta name="twitter:description" content="Far-left activists and right-wing supporters have ignored social distancing restrictions to protest in Berlin, accusing Chancellor Angela Merkel of &quot;banning...">
+  <meta name="twitter:image" content="https://sl.sbs.com.au/public/image/file/5659acae-bfed-45da-93ff-6c6eee9e3ca5/crop/16x9">
+  <meta name="twitter:url" content="https://www.sbs.com.au/news/berlin-police-arrest-anti-lockdown-protesters-accusing-angela-merkel-of-banning-life">
+  
+  <meta itemprop="description" content="Far-left activists and right-wing supporters have ignored social distancing restrictions to protest in Berlin, accusing Chancellor Angela Merkel of &quot;banning life&quot; for not easing lockdown restrictions.">
+  <meta itemprop="image" content="https://sl.sbs.com.au/public/image/file/5659acae-bfed-45da-93ff-6c6eee9e3ca5/crop/16x9">
+  <meta itemprop="name" content="SBS News">
+
+  <meta itemprop="datePublished" content="2020-04-26T07:54:54+10:00"/>
+
+  <meta property="fb:pages" content="10153017026003686,1718340018404039,118110394871717,1031979170179611,156543917205,152749149157,1653992468195523,853308881454030,248358785343756,402145919880044,125982670754724,6038270901,240259225410,242485789418468,1735930699952878,108683457751,139727238426,91116257004,100246430019521,368329703192018,194784127232544,173168582700205,168993229831044" />
+          <meta name="apple-itunes-app" content="app-id=432849691, app-argument=https://www.sbs.com.au/news/berlin-police-arrest-anti-lockdown-protesters-accusing-angela-merkel-of-banning-life">
+  
+      <script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","name":"SBS News","url":"https://www.sbs.com.au/news","logo":{"@type":"ImageObject","url":"https://www.sbs.com.au/news/img/logo-colour-square.png"},"sameAs":["https://www.facebook.com/sbsnews","https://twitter.com/SBSNews"]},{"@type":"Article","url":"https://www.sbs.com.au/news/berlin-police-arrest-anti-lockdown-protesters-accusing-angela-merkel-of-banning-life","mainEntityOfPage":"https://www.sbs.com.au/news/berlin-police-arrest-anti-lockdown-protesters-accusing-angela-merkel-of-banning-life","dateCreated":"2020-04-26T07:54:54+10:00","datePublished":"2020-04-26T07:54:54+10:00","dateModified":"2020-04-26T09:55:24+10:00","headline":"Berlin police arrest anti-lockdown protesters accusing Angela Merkel of 'banning life'","articleSection":"Europe","image":{"@type":"ImageObject","width":1280,"height":720,"url":"https://sl.sbs.com.au/public/image/file/5659acae-bfed-45da-93ff-6c6eee9e3ca5/crop/16x9"},"thumbnailUrl":"https://sl.sbs.com.au/public/image/file/5659acae-bfed-45da-93ff-6c6eee9e3ca5/crop/16x9_small","author":{"@type":"Organization","name":"SBS News","url":"https://www.sbs.com.au/news","logo":{"@type":"ImageObject","url":"https://www.sbs.com.au/news/img/logo-colour-square.png"}},"publisher":{"@type":"Organization","name":"SBS News","url":"https://www.sbs.com.au","logo":{"@type":"ImageObject","url":"https://www.sbs.com.au/news/img/logo-colour-square.png"}}}]}
+</script>
+          
+  
+
+            <meta name="msapplication-TileImage" content="/news/img/icons/icon-144x144.png">
+      <link rel="apple-touch-icon" href="/news/img/icons/icon-152x152.png">
+      <link rel="shortcut icon" href="/news/img/favicon.ico">
+      
+  <link rel="canonical" href="https://www.sbs.com.au/news/berlin-police-arrest-anti-lockdown-protesters-accusing-angela-merkel-of-banning-life">
+          
+        <link rel="amphtml" href="https://amp.sbs.com.au/v1/article/berlin-police-arrest-anti-lockdown-protesters-accusing-angela-merkel-of-banning-life/88aeb6ad-6f0b-4e6e-aacf-922ea8a36edf?amp=1">
+  
+  <meta name="robots" content="Index,Follow" />
+  <script type="text/javascript" src="/news/js/ruxitagentjs_ICA2SVfjqrux_10189200406084516.js" data-dtconfig="rid=RID_1832460605|rpid=-583989688|domain=sbs.com.au|reportUrl=/news/js/rb_ntg91751|app=d4959ac861aa26eb|featureHash=ICA2SVfjqrux|rdnt=1|uxrgce=1|bp=2|cuc=sdiw1qax|srms=1,1,,,|uxrgcm=100,25,300,3;100,25,300,3|dpvc=1|bismepl=2000|lastModification=1587367214983|dtVersion=10189200406084516|tp=500,50,0,1|uxdcw=1500|agentUri=/news/js/ruxitagentjs_ICA2SVfjqrux_10189200406084516.js"></script><link rel="manifest" href="/news/manifest.json">
+
+  <style media="screen" type="text/css">
+    @import url(/news/css/app-shell-406bf9aa1c603a7bff1cb9db0ee05123.css);
+    @import url(/news/css/screen-824cd32d24ddc2e4a39cb7ff951904d7.css);
+
+          @import url(/common/css/lang/english_en-f175557ac7b0c29ea6b56330fc16afbb.css);
+      </style>
+        <script>
+    window.SBS_SETTINGS = window.SBS_SETTINGS || {
+      user_api: '',
+      app_base_url: 'https://www.sbs.com.au/news',
+      sbs_base_url: 'https://www.sbs.com.au/',
+      site_name: 'news',
+      site_dfp_prefix: '/4117/naca.sbs/',
+      api: 'https://sl.sbs.com.au',
+      site_display_name: 'SBS News',
+      cr_site_name: 'News'
+    };
+  </script>
+
+      <script data-module="data-layer_module">
+  var digitalData = {
+    "events": [],
+    "page": {
+      "pageInfo":{
+    "pageName": "s:news:berlin-police-arrest-anti-lockdown-protesters-accusing-angela-merkel-of-banning-life",
+    "pageID": "88aeb6ad-6f0b-4e6e-aacf-922ea8a36edf",
+    "language": "undefined",
+    "destinationURL": "https://www.sbs.com.au/news/berlin-police-arrest-anti-lockdown-protesters-accusing-angela-merkel-of-banning-life",
+    "referralURL": "",
+    "originalReferrerURL": "",
+    "previousPageURL": "",
+    "previousPageName": "",
+    "title": "",
+    "siteName": "News",
+    "domain": "www.sbs.com.au",
+    "path": "/news/berlin-police-arrest-anti-lockdown-protesters-accusing-angela-merkel-of-banning-life",
+    "clickSource": "",
+    "campaign": {
+        "trackingCode": "",
+        "campaignType": "",
+        "channelSource": ""
+    }
+},
+      "category":{
+    "primaryCategory": "news",
+    "siteSubSection1": "berlin-police-arrest-anti-lockdown-protesters-accusing-angela-merkel-of-banning-life",
+    "siteSubSection2": "",
+    "siteSubSection3": "",
+    "siteSubSection4": ""
+},
+      "attributes":{
+    "content": {
+        "pageClass": "article",
+        "contentType": "Article",
+        "articleType": "Article",
+        "contentLanguage": "undefined",
+        "articleID": "88aeb6ad-6f0b-4e6e-aacf-922ea8a36edf",
+        "publishedDate": "2020-04-26T07:54:54+10:00",
+        "updatedDate": "2020-04-26T09:55:24+10:00",
+        "newsTopic": [
+            "Europe",
+            "World"
+        ],
+        "title": "Berlin police arrest anti-lockdown protesters accusing Angela Merkel of 'banning life'",
+        "author": [],
+        "subject": [
+            "Coronavirus",
+            "Protests and demonstrations",
+            "Political and civil unrest",
+            "Health",
+            "Diseases and conditions",
+            "Lung disease",
+            "Infectious diseases",
+            "General news"
+        ],
+        "charter": "None",
+        "theme": "",
+        "source": [
+            "AFP - SBS"
+        ],
+        "person": [
+            "Angela Merkel"
+        ],
+        "geography": [
+            "Europe",
+            "Western Europe",
+            "Germany",
+            "Berlin"
+        ],
+        "organisation": [],
+        "program": [],
+        "recommendable": "",
+        "originalArticleID": "88aeb6ad-6f0b-4e6e-aacf-922ea8a36edf",
+        "originalArticleTitle": "Berlin police arrest anti-lockdown protesters accusing Angela Merkel of 'banning life'"
+    },
+    "nielsen": {
+        "appID": "P8AF4D796-453B-4A09-A6F0-CCB99B8A45A3",
+        "appName": "SBS World News Australia"
+    },
+    "error": {
+        "errorPage": "",
+        "errorMessage": ""
+    }
+}
+    },
+    "user": {
+    "userInfo": {
+        "loggedIn": "",
+        "userID": "",
+        "syncUserID": [],
+        "loggedInVisit": "",
+        "loggedInType": "",
+        "userType": "",
+        "newsletterName": ""
+    },
+    "userSegment": {
+        "cxenseSegmentIDs": [],
+        "adobeSegmentIDs": [],
+        "strategicSegmentIDs": []
+    }
+},
+    "environment": {
+    "browser": {
+        "userAgent": "",
+        "version": ""
+    },
+    "platform": {
+        "deviceType": "",
+        "deviceName": "",
+        "sourceType": "",
+        "osName": ""
+    }
+}
+  };
+
+  //populate page title from <title> tag
+  var pageTitle = (document.getElementsByTagName("title")[0] && document.getElementsByTagName("title")[0].innerHTML) ? document.getElementsByTagName("title")[0].innerHTML : "embed";
+  digitalData.page.pageInfo["title"] = pageTitle;
+
+  var trackingCode = window.location.search.split('cid=').splice(1).join('').split('&')[0];
+  if (trackingCode !== undefined && digitalData.page.pageInfo.campaign !== undefined) {
+    digitalData.page.pageInfo.campaign["trackingCode"] = trackingCode;
+  }
+
+  //populate previousPageURL and previousPageName from sessionStorage when available
+  digitalData.page.pageInfo["previousPageURL"] = sessionStorage.getItem("pageURL") || "";
+  digitalData.page.pageInfo["previousPageName"] = sessionStorage.getItem("pageName") || "";
+
+  // add in the user agent string
+  if (digitalData.environment.browser !== undefined) {
+    digitalData.environment.browser["userAgent"] = navigator.userAgent;
+  } else {
+    digitalData.environment.browser = {};
+    digitalData.environment.browser["userAgent"] = navigator.userAgent;
+  }
+
+  //create the platform object to set the sourceType attribute
+  digitalData.environment.platform = {};
+  digitalData.environment.platform["sourceType"] = "web";
+
+  //save current page URL and name so we can use it in previous page properties if user clicks to another page
+  if (digitalData.page.pageInfo.hasOwnProperty("destinationURL")) {
+    sessionStorage.setItem("pageURL", digitalData.page.pageInfo.destinationURL);
+  }
+  if (digitalData.page.pageInfo.hasOwnProperty("pageName")) {
+    sessionStorage.setItem("pageName", digitalData.page.pageInfo.pageName);
+  }
+
+  //setting the referrer properties
+  if (document.referrer !== "" && document.referrer.indexOf("sbs.com.au") === -1) {
+    digitalData.page.pageInfo["referralURL"] = document.referrer;
+
+    if (localStorage.getItem("originalReferrerURL") === null) {
+      //this is the first time user visits our site so we save the referrer as original
+      localStorage.setItem("originalReferrerURL", document.referrer);
+    }
+  }
+
+  //populate originalReferrerURL from sessionStorage when available
+  digitalData.page.pageInfo["originalReferrerURL"] = localStorage.getItem("originalReferrerURL") || "";
+
+</script>
+    <script src="//nexus.ensighten.com/sbs/sbsprod/Bootstrap.js" defer></script>
+  
+  <script type="text/javascript">if(navigator.userAgent.match(/(Trident|MSIE)(\s?\/?)[0-9.]+/g)){var head=document.head;var ss=document.createElement('link');var js=document.createElement('script');ss.href="/common/css/legacy-01207aee0c3371210684bafb063c9f30.css";ss.rel="text/css";js.src="/common/js/legacy-5d9bfc9fe1a17e5a49d4d168eeda234e.js";head.appendChild(ss);head.appendChild(js);}</script>
+</head>
+
+<body>
+
+  <div class="layout layout--article">
+
+    
+    <nav class="global-nav global-nav--article" data-module="global-nav_module">
+  <a id="nav-main" aria-hidden="true" tabindex="-1"><!-- no js main nav activation --></a>
+  <a id="nav-search" aria-hidden="true" tabindex="-1"><!-- no js search activation --></a>
+
+  <div class="global-nav__header">
+    <div class="container">
+
+      <a class="sr-only sr-focusable" href="#main">Skip to content</a>
+
+      <div class="row">
+
+        <div class="global-nav__toggles column">
+          <span class="sr-only">Primary Navigation</span>
+          <a class="global-nav__toggle toggle" href="#nav-main" data-type="toggle-nav"><span><span class="sr-only">Show menu</span></span></a>
+          <a class="global-nav__toggle global-nav__toggle--close toggle" href="#"><span><span class="sr-only">Hide menu</span></span></a>
+        </div>
+
+                <div class="global-nav__logo-wrapper column">
+                      
+<div class="global-nav__context-flip-panel flip-panel">
+
+  <div class="global-nav__context-flip-pane flip-pane">
+    <div class="global-nav__logo">
+      <a class="sbs-logo" href="https://www.sbs.com.au/news/">
+        <img src="/news/img/logo-colour.svg" width="215" height="75" alt="SBS News">
+      </a>
+    </div>
+  </div>
+
+  <div class="global-nav__context-flip-pane flip-pane">
+    <p class="global-nav__context-title"></p>
+    
+  <div class="sharing sharing--outline sharing--context-social global-nav__context-social" data-module="sharing_module">
+          
+
+  
+
+  <div class="label sharing__label global-nav__context-social-label sr-only">Share</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--twitter" data-type="sharing-twitter">
+            <span class="sr-only">Share on Twitter</span>
+          </button>
+              </li>
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--facebook" data-type="sharing-facebook">
+            <span class="sr-only">Share on Facebook</span>
+          </button>
+              </li>
+        </ul>
+  </div>
+  </div>
+</div>
+                  </div>
+
+        <div class="global-nav__utils column">
+  <ul class="global-nav__utils-list">
+    <li class="global-nav__util">
+      <a class="global-nav__subscribe-toggle toggle" href="#nav-main" data-type="toggle-nav" data-target="newsletter-signup"><span class="icon--envelope-o icon" aria-hidden="true"></span> Subscribe</a>
+    </li>
+  </ul>
+</div>
+
+      </div>
+    </div>
+
+  </div>
+
+  
+
+<div class="global-nav__menu-strip">
+          <div class="menu menu--inline global-nav__menu-strip-section" role="menu">
+            <ul class="menu__list global-nav__menu-strip-section-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item first" role="menuitem">        <a href="/news/"><span>Top Stories</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/latest"><span>Latest</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/topic/coronavirus-covid-19"><span>Coronavirus</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/topic/australia"><span>Australia</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/topic/world"><span>World</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item last" role="menuitem">        <a href="/news/videos"><span>Videos</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+          <div class="menu menu--inline global-nav__menu-strip-section" role="menu">
+            <ul class="menu__list global-nav__menu-strip-section-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item first" role="menuitem">        <a href="//www.sbs.com.au/news/dateline"><span>Dateline</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="//www.sbs.com.au/news/insight"><span>Insight</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="//www.sbs.com.au/news/thefeed"><span>The Feed</span><span></span></a>
+        
+    </li>
+
+    
+            
+                        
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item last" role="menuitem">        <a href="//www.sbs.com.au/news/small-business-secrets" target="_blank"><span>Small Business Secrets</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+          <div class="menu menu--inline global-nav__menu-strip-section" role="menu">
+            <ul class="menu__list global-nav__menu-strip-section-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item first last" role="menuitem">        <a href="//www.sbs.com.au/"><span>SBS Home</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+</div>
+
+  <div class="global-nav__bodies is-inert--nav-hidden">
+
+    
+<div class="global-nav__body global-nav__body--nav">
+  <div class="global-nav__body-wrapper">
+
+    
+    <div class="container">
+      <div class="row">
+
+        <div class="global-nav__column global-nav__column--primary column">
+
+                  <div class="menu global-nav__menu global-nav__menu--news" role="menu">
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first" role="menuitem">        <a href="/news/"><span>Top Stories</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/latest"><span>Latest</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/coronavirus-covid-19"><span>Coronavirus</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/australia"><span>Australia</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/world"><span>World</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/videos"><span>Videos</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/news/audio"><span>Podcasts</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+                  <div class="menu global-nav__menu global-nav__menu--sbshome" role="menu">
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first last" role="menuitem">        <a href="//www.sbs.com.au/"><span>SBS Home</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+        </div>
+
+        <div class="global-nav__column global-nav__column--secondary column">
+
+                  <div class="menu global-nav__menu global-nav__menu--programs" role="menu">
+              
+
+  
+
+  <div class="label label menu__label global-nav__menu-label">News Programs</div>
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first" role="menuitem">        <a href="//www.sbs.com.au/news/dateline"><span>Dateline</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/news/insight"><span>Insight</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/news/thefeed"><span>The Feed</span><span></span></a>
+        
+    </li>
+
+    
+            
+                        
+      
+    <li class="menu__list-item global-nav__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/news/small-business-secrets" target="_blank"><span>Small Business Secrets</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+                  <div class="menu global-nav__menu global-nav__menu--topics" role="menu">
+              
+
+  
+
+  <div class="label label menu__label global-nav__menu-label">Topics in News</div>
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first" role="menuitem">        <a href="/news/topic/asia-pacific"><span>Asia Pacific</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/north-america"><span>North America</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/south-america"><span>South America</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/africa"><span>Africa</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/europe"><span>Europe</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item last" role="menuitem">        <a href="/news/topic/middle-east"><span>Middle East</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+        </div>
+
+        <div class="global-nav__column global-nav__column--supplementary column">
+          
+  <div class="sharing sharing--menu global-nav__menu global-nav__menu--social">
+          
+
+  
+
+  <div class="label sharing__label global-nav__menu-label">Follow SBS News</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+        
+                    <a href="//twitter.com/SBSNews" class="sharing__link sharing__link--twitter" target="_blank" rel="noopener">
+            <span class="icon--twitter icon" aria-hidden="true"></span><span class="sr-only">Follow us on Twitter</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a href="//www.facebook.com/sbsnews" class="sharing__link sharing__link--facebook" target="_blank" rel="noopener">
+            <span class="icon--facebook icon" aria-hidden="true"></span><span class="sr-only">Follow us on Facebook</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a href="/news/feeds" class="sharing__link sharing__link--rss">
+            <span class="icon--rss icon" aria-hidden="true"></span><span class="sr-only">Subscribe to our RSS feed</span>
+          </a>
+              </li>
+        </ul>
+  </div>
+
+          <div class="global-nav__newsletter-signup" id="newsletter-signup">
+            <form class="form form__newsletter-subscribe"
+      data-module="form_module"
+      data-form-validate
+      data-form-multistep
+      data-form-name="newsletterSubscribe_Nav"
+      data-custom-analytics="marketing-module"
+      data-custom-handler="form-newsletter-subscribe"
+      action="https://www.sbs.com.au/api/member/subscribeuser"
+      method="post">
+
+                    <input type="hidden" name="vertical" value="News_Nav">
+            
+  <div class="form__fieldset form__fieldset--step form__fieldset--step-0">
+            <div class="form__field-wrap">
+      <div class="form__field form__field--inline">
+        
+<label class="label label--form sr-only" for="your-email-1273047303">Your Email Address</label>
+                <input class="form__field-input" id="your-email-1273047303" name="email" autocomplete="off" placeholder="Your Email Address" type="email" required data-form-validation>
+        <div class="form__field-button-wrap page__section-cta-link">
+          <button class="form__field-button page__section-cta page__section-cta--secondary" data-step="next" type="button" name="step-0" value="button">
+            <span class="page__section-cta-wrap">Subscribe</span>
+            <span class="ripple"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="form__validation">
+      <span class="form__validation-item" data-form-validation-required>A valid email address is required</span>
+      <span class="form__validation-item" data-form-validation-pattern>Please provide a valid email address</span>
+    </div>
+
+    <p class="form__fieldset-conditions">By subscribing, you agree to SBS’s <a href="//www.sbs.com.au/aboutus/corporate/view/id/114/h/Terms-and-Conditions" target="_blank" rel="noopener">terms of service</a> and <a href="//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement" target="_blank" rel="noopener">privacy policy</a> including receiving email updates from SBS.</p>
+  </div>
+
+  <div class="form__fieldset form__fieldset--step form__fieldset--step-1" aria-hidden="true">
+
+    <p class="form__fieldset-title">Please select the editions you would like to sign up to</p>
+
+    <div class="form__field-wrap">
+          <ul class="form__field-list">
+        <li class="form__field form__field--checkbox">
+          <input class="form__field-checkbox" id="edition-morning-1273047303" name="subscription[]" value="PREF_DAILY_NEWS" type="checkbox" checked required data-form-validation>
+          <label class="form__field-label" for="edition-morning-1273047303">Morning</label>
+        </li>
+        <li class="form__field form__field--checkbox">
+          <input class="form__field-checkbox" id="edition-afternoon-1273047303" name="subscription[]" value="PREF_DAILY_NEWS_PM" type="checkbox" checked required data-form-validation>
+          <label class="form__field-label" for="edition-afternoon-1273047303">Afternoon</label>
+        </li>
+      </ul>
+
+      <div class="form__validation">
+        <span class="form__validation-item" data-form-validation-required>Please select at least one edition</span>
+      </div>
+      <div class="form__fieldset page__section-cta-links">
+        <div class="form__field-button-wrap page__section-cta-link">
+          <button class="form__field-button page__section-cta page__section-cta--secondary" data-step="next" type="submit" name="step-1" value="submit">
+            <span class="page__section-cta-wrap">Select</span>
+            <span class="ripple"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+
+                                                        <div class="form__fieldset form__fieldset--success show-on-success is-hidden" aria-hidden="true">
+          <p class="form__message-title"><span class="icon icon--tick"></span><strong>Thank you for signing up</strong></p>
+          <p class="form__message-body"></p>
+        </div>
+                                                  <div class="form__fieldset form__fieldset--failure show-on-failure is-hidden" aria-hidden="true">
+          <p class="form__message-title"><span class="icon"></span><strong>Sorry, it looks like an error occurred</strong></p>
+          <p class="form__message-body">Please refresh the page and try again.</p>
+        </div>
+            </form>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+  </div>
+</nav>
+
+
+    <main class="main" id="main">
+
+                    <div class="page page--article">
+    <section class="page__section page__section--style-1">
+
+                                                                                                        
+
+                                                                                                                                                                
+  <article class="article"
+  data-module="article_module"
+        data-edit="1"
+    data-uuid="88aeb6ad-6f0b-4e6e-aacf-922ea8a36edf"
+  >
+
+    <script type="text/x-config">{
+        "digitalData": {
+  "page": {
+    "attributes": {},
+    "category": {},
+    "pageInfo": {
+      "path": "/news/berlin-police-arrest-anti-lockdown-protesters-accusing-angela-merkel-of-banning-life",
+      "title": "Berlin police arrest anti-lockdown protesters accusing Angela Merkel of &#039;banning life&#039;"
+    }
+  }
+}  }</script>
+
+            <header class="article__header">
+          <div class="article__container container">
+      <div class="row">
+        <div class="article__intro column">
+                      <div class="article__topic">
+            
+                          
+
+          
+
+  <span class="label article__topic-label"><a href=/news/topic/europe title="Europe"><span></span>Europe</a></span>
+                        </div>
+          
+          
+<div class="text-headline">
+  <h1 class="h1 headline article__headline">Berlin police arrest anti-lockdown protesters accusing Angela Merkel of &#039;banning life&#039;</h1>
+</div>
+        </div>
+
+        <div class="article__media column">
+
+                      
+
+<div class="hero column article__hero">
+      
+    
+
+  
+
+
+        
+
+                
+  
+
+
+<div class="media-image media-image--16-9 hero__image article__hero-image">
+                  <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/5659acae-bfed-45da-93ff-6c6eee9e3ca5/crop/16x9", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/5659acae-bfed-45da-93ff-6c6eee9e3ca5/crop/16x9", "media": "(min-width: 767px)" },
+                { "srcset": "https://sl.sbs.com.au/public/image/file/5659acae-bfed-45da-93ff-6c6eee9e3ca5/crop/16x9_large", "alt": "People protest against the coronavirus restrictions in Berlin, despite a ban on demonstrations" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/5659acae-bfed-45da-93ff-6c6eee9e3ca5/crop/16x9" media="(min-width: 1023px)">
+                              <source srcset="https://sl.sbs.com.au/public/image/file/5659acae-bfed-45da-93ff-6c6eee9e3ca5/crop/16x9" media="(min-width: 767px)">
+          
+          <img srcset="https://sl.sbs.com.au/public/image/file/5659acae-bfed-45da-93ff-6c6eee9e3ca5/crop/16x9_large" alt="People protest against the coronavirus restrictions in Berlin, despite a ban on demonstrations">
+        </noscript>
+      </picture>
+        </div>
+
+
+    <div class="hero__attribution article__hero-attribution">
+                                                                                    
+<div class="footnote hero__caption article__hero-caption">People protest against the coronavirus restrictions in Berlin, despite a ban on demonstrations. Source: AAP</div>
+    </div>
+  </div>
+
+
+          
+        </div>
+              </div>
+    </div>
+  </header>
+
+  
+  
+<div class="article__container container">
+  <div class="row">
+    <div class="article__abstract column">
+      
+<div class="text-abstract">
+  
+<p class="text-abstract__content">Far-left activists and right-wing supporters have ignored social distancing restrictions to protest in Berlin, accusing Chancellor Angela Merkel of "banning life" for not easing lockdown restrictions.</p>
+</div>
+    </div>
+  </div>
+  <div class="row">
+    
+
+
+<div class="meta article__meta">
+  <div class="article__meta__byline">
+        <div class="meta__item article__meta-date">
+      <span class="sr-only">Updated</span> <time itemprop="datePublished" dateTime="2020-04-26T07:54:54+10:00">Updated 1 day ago</time>
+    </div>
+
+        
+
+          </div>
+
+      
+  <div class="sharing sharing--outline sharing--context-social article__meta__context-social" data-module="sharing_module">
+          
+
+  
+
+  <div class="label sharing__label article__meta__context-social-label">Share</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--facebook" data-type="sharing-facebook">
+            <span class="sr-only">Share on Facebook</span>
+          </button>
+              </li>
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--twitter" data-type="sharing-twitter">
+            <span class="sr-only">Share on Twitter</span>
+          </button>
+              </li>
+        </ul>
+  </div>
+  
+</div>
+  </div>
+  <div class="row">
+    <div class="article__body column">
+      
+
+<div class="dfp is-dormant" data-slot-id="slot2" data-module="dfp_module">
+  <div class="dfp-slot slot2" id="dfp-slot2" data-lazyload-ads></div>
+</div>
+      
+<div class="text-body"><p class="header">German police have arrested dozens of protesters in Berlin for flouting the&nbsp;coronavirus&nbsp;lockdown measures they were demonstrating against.</p><p>About 1,000 people turned out for the rally, which has become a weekly event in the German capital.</p><p>Saturday's protest attracted mainly far-left activists but there were also right-wing supporters and members of other fringe groups.</p><p>Police put up barriers around Rosa Luxemburg square, where the protesters were headed, leaving the participants to gather in nearby roads.</p><p><div class="embed embed--image"><img src="https://sl.sbs.com.au/public/image/file/4eb1d1ca-32eb-47af-89b4-dbe20f4e2eb3"  alt="German riot police officers in Berlin escort a demonstrator wrapped in a banner reading in English: &#039;War Is Peace, Freedom Is Slavery, Ignorance Is Strength&#039;."  title="German riot police officers in Berlin escort a demonstrator wrapped in a banner reading in English: 'War Is Peace, Freedom Is Slavery, Ignorance Is Strength'."  width="700"  height="560"/><div class="caption">German riot police officers in Berlin escort a demonstrator wrapped in a banner reading in English: 'War Is Peace, Freedom Is Slavery, Ignorance Is Strength'.</div><div class="attribution">EPA</div></div></p><p>The protest "is not in line with the rules" in place to prevent the spread of the COVID-19 virus, police said on Twitter, telling those taking part to disperse.</p><p>Some of the demonstrators wore T-shirts accusing Chancellor Angela Merkel of "banning life" while others simply called for "freedom".</p><p>Others brandished placards bearing slogans such as "Stop the pharmaceutical lobby".</p><p>The protest was unauthorised as a result of emergency rules in Berlin banning gatherings of more than 20 people.</p><p><div class="block__container"><div class="label">READ MORE</div><div class="preview__list-wrapper"><div class="preview preview--linear"><div class="preview__wrap"><div class="media-image media-image--1-1 preview__image"><img src="https://sl.sbs.com.au/public/image/file/52779335-94ff-4f1e-a0e4-6dbe6aefd1b8/crop/1x1" alt=" Merkel experiences technical difficulties during WHO meeting"/></div><div class="preview__content"><h3 class="headline preview__headline"><a href="/news/merkel-experiences-technical-difficulties-during-who-meeting" title="Merkel experiences technical difficulties during WHO meeting">Merkel experiences technical difficulties during WHO meeting</a></h3></div></div></div></div></div></p><p>The protest organisers' website called for "an end to the state of emergency" and played down the threat posed by the virus.</p><p>Public discontent with the confinement rules has been growing gradually in Germany, as in other countries, though Merkel's popularity remains high.</p><p>She has received plaudits for her management of the health crisis which has seen Germany's COVID-19 toll - 5,500 according to an AFP tally - remain significantly lower than in Italy, Spain, France and Britain where the death tolls have all risen above 20,000.</p><p><div class="block__container"><div class="label">READ MORE</div><div class="preview__list-wrapper"><div class="preview preview--linear"><div class="preview__wrap"><div class="media-image media-image--1-1 preview__image"><img src="https://sl.sbs.com.au/public/image/file/08363fb8-3d96-4d79-af67-c2399174b6a9/crop/1x1"/></div><div class="preview__content"><h3 class="headline preview__headline"><a href="/news/no-evidence-people-with-coronavirus-are-immunised-says-who" title="'No evidence' people with coronavirus are immunised, says WHO">'No evidence' people with coronavirus are immunised, says WHO</a></h3></div></div></div></div></div></p><p>Opposition to the lockdown measures is being led by the far-right, the main opposition force in the German parliament.</p><p>The far-right Alternative for Germany (AfD) party accuses the government of exaggerating the risk posed by the virus and has called for the immediate reopening of all businesses.</p><p><strong>People in Australia must stay at least 1.5 metres away from others and gatherings are limited to two people unless you are with your family or household.</strong></p><p><strong>If you believe you may have contracted the virus, call your doctor (don’t visit) or contact the national Coronavirus Health Information Hotline on 1800 020 080. If you are struggling to breathe or experiencing a medical emergency, call 000.</strong></p><p><strong>SBS is committed to informing Australia’s diverse communities about the latest COVID-19 developments. News and information is available in 63 languages at sbs.com.au/coronavirus.</strong></p></div>
+      <footer class="article__footer">
+                  <div class="footnote article__source">
+            <span class="article__source__label">Source</span> AFP - SBS
+          </div>
+        
+                  
+
+<div class="list-meta-tags">
+
+      <p class="headline h6 list-topics__title">Topics: </p>
+        <ul class="list-meta-tags__list">
+                <li class="list-meta-tags__list-item"><a class="list-meta-tags__link" href="/news/topic/europe" rel="">Europe</a></li>
+                <li class="list-meta-tags__list-item"><a class="list-meta-tags__link" href="/news/topic/world" rel="">World</a></li>
+        </ul>
+  </div>
+              </footer>
+    </div>
+  </div>
+</div>
+
+</article>
+
+      
+
+    </section>
+
+          
+
+
+
+<div class="connect-sbs" name="sbsconnect" data-module="connect-sbs_module">
+  <script type="text/x-config">{
+    "defaultTab": {
+      "for-phone": 0,
+      "for-desktop": 1
+    }
+  }</script>
+
+  <p class="connect-sbs__title">Stay up to date with SBS NEWS</p>
+
+  <div class="tabs" data-module="tabs_module">
+    <ul class="tabs__control">
+          <li class="is-active" onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.appdownload';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" data-type="static">App</li>
+          <li onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.subscribe';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" data-type="static">Subscribe</li>
+          <li onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.follow.social';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" data-type="static">Follow</li>
+          <li onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" data-type="static">Listen</li>
+          <li onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" data-type="static">Watch</li>
+        </ul>
+
+        <div class="tab__content tab-1 is-hidden">
+      <div class="connect-sbs__content">
+        <img class="ico" height="49px" src="/common/img/main/modules/sbsconnect/app.svg" />
+        <p class="tab__title">SBS News App</p>
+        <p class="tab__description">Download our free app on the App Store or Google Play for the latest headlines and breaking news alerts.</p>
+        <div class="app-links">
+          <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.app.appStore';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://itunes.apple.com/app/apple-store/id432849691?pt=461087&ct=marketingmod&mt=8"><img src="/news/img/apple_app_btn.png" /></a>
+          <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.app.googlePlay';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://play.google.com/store/apps/details?id=com.sbs.worldnewsaustralia&referrer=utm_source%3Dwebsite%26utm_medium%3Dmarketingmod"><img src="/news/img/google_app_btn.png" /></a>
+        </div>
+        <p class="tab__footnote">We love feedback: help us improve by rating the app and sharing your suggestions at <a href="mailto:apps@sbs.com.au" title="apps@sbs.com.au">apps@sbs.com.au</a></p>
+      </div>
+    </div>
+
+        <div class="tab__content tab-2 is-hidden">
+      <div class="connect-sbs__content">
+        <img class="ico" height="44px" src="/common/img/main/modules/sbsconnect/sub.svg" />
+        <form class="form form__newsletter-subscribe form__newsletter-subscribe--block"
+      data-module="form_module"
+      data-form-validate
+      data-form-multistep
+      data-form-name="newsletterSubscribe_ConnectSBS"
+      data-custom-analytics="marketing-module"
+      data-custom-handler="form-newsletter-subscribe"
+      action="https://www.sbs.com.au/api/member/subscribeuser"
+      method="post">
+
+                    <input type="hidden" name="vertical" value="News_HP">
+            
+  <div class="form__fieldset form__fieldset--step form__fieldset--step-0">
+          <p class="form__fieldset-title">News to your inbox</p>
+              <p class="form__fieldset-description">Sign up now for the latest news from Australia and around the world direct to your inbox.</p>
+        <div class="form__field-wrap">
+      <div class="form__field form__field--inline">
+        
+<label class="label label--form sr-only" for="your-email-1001088945">Your Email Address</label>
+                <input class="form__field-input" id="your-email-1001088945" name="email" autocomplete="off" placeholder="Your Email Address" type="email" required data-form-validation data-event="marketing-module.news.subscribe.email">
+        <div class="form__field-button-wrap page__section-cta-link">
+          <button onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.subscribe.click';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" class="form__field-button page__section-cta page__section-cta--secondary" data-step="next" type="button" name="step-0" value="button">
+            <span class="page__section-cta-wrap">Subscribe</span>
+            <span class="ripple"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="form__validation">
+      <span class="form__validation-item" data-form-validation-required>A valid email address is required</span>
+      <span class="form__validation-item" data-form-validation-pattern>Please provide a valid email address</span>
+    </div>
+
+    <p class="form__fieldset-conditions">By subscribing, you agree to SBS’s <a href="//www.sbs.com.au/aboutus/corporate/view/id/114/h/Terms-and-Conditions" target="_blank" rel="noopener">terms of service</a> and <a href="//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement" target="_blank" rel="noopener">privacy policy</a> including receiving email updates from SBS.</p>
+  </div>
+
+  <div class="form__fieldset form__fieldset--step form__fieldset--step-1" aria-hidden="true">
+
+    <p class="form__fieldset-title">Please select the editions you would like to sign up to</p>
+
+    <div class="form__field-wrap">
+          <ul class="form__field-list" data-event="marketing-module.news.newsletter.select">
+        <li class="form__field form__field--checkbox">
+          <input class="form__field-checkbox" id="edition-morning-1001088945" name="subscription[]" value="PREF_DAILY_NEWS" type="checkbox" checked required data-form-validation>
+          <label class="form__field-label" for="edition-morning-1001088945">Morning</label>
+        </li>
+        <li class="form__field form__field--checkbox">
+          <input class="form__field-checkbox" id="edition-afternoon-1001088945" name="subscription[]" value="PREF_DAILY_NEWS_PM" type="checkbox" checked required data-form-validation>
+          <label class="form__field-label" for="edition-afternoon-1001088945">Afternoon</label>
+        </li>
+      </ul>
+
+      <div class="form__validation">
+        <span class="form__validation-item" data-form-validation-required>Please select at least one edition</span>
+      </div>
+      <div class="form__fieldset page__section-cta-links">
+        <div class="form__field-button-wrap page__section-cta-link">
+          <button class="form__field-button page__section-cta page__section-cta--secondary" data-step="next" type="submit" name="step-1" value="submit">
+            <span class="page__section-cta-wrap">Select</span>
+            <span class="ripple"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+
+                                                        <div class="form__fieldset form__fieldset--success show-on-success is-hidden" data-event="marketing-module.news.subscribe.success" aria-hidden="true">
+          <p class="form__message-title"><span class="icon icon--tick"></span><strong>Thank you for signing up</strong></p>
+          <p class="form__message-body"></p>
+        </div>
+                                                  <div class="form__fieldset form__fieldset--failure show-on-failure is-hidden" aria-hidden="true">
+          <p class="form__message-title"><span class="icon"></span><strong>Sorry, it looks like an error occurred</strong></p>
+          <p class="form__message-body">Please refresh the page and try again.</p>
+        </div>
+            </form>
+      </div>
+    </div>
+
+        <div class="tab__content tab-3 is-hidden">
+      <div class="connect-sbs__content">
+        <img class="ico" height="44px" src="/common/img/main/modules/sbsconnect/social.svg" />
+        <p class="tab__title">SBS News on social</p>
+        <p class="tab__description">Follow SBS News to join in the conversation and never miss the latest live updates.</p>
+        
+  <div class="sharing sharing--menu connect-sbs__menu connect-sbs__menu--social">
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+        
+                    <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.follow.social.twitter';sbs_s.tl(this,&#039;e&#039;,&#039;Marketing-Module&#039;);" href="//twitter.com/SBSNews" class="sharing__link sharing__link--twitter" target="_blank" rel="noopener">
+            <span class="icon--twitter icon" aria-hidden="true"></span><span class="sr-only">Follow us on Twitter</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.follow.social.facebook';sbs_s.tl(this,&#039;e&#039;,&#039;Marketing-Module&#039;);" href="//www.facebook.com/sbsnews" class="sharing__link sharing__link--facebook" target="_blank" rel="noopener">
+            <span class="icon--facebook icon" aria-hidden="true"></span><span class="sr-only">Follow us on Facebook</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.follow.social.rss';sbs_s.tl(this,&#039;e&#039;,&#039;Marketing-Module&#039;);" href="/news/feeds" class="sharing__link sharing__link--rss" target="_blank" rel="noopener">
+            <span class="icon--rss icon" aria-hidden="true"></span><span class="sr-only">Subscribe to our RSS feed</span>
+          </a>
+              </li>
+        </ul>
+  </div>
+      </div>
+    </div>
+
+        <div class="tab__content tab-4 is-hidden">
+      <div class="connect-sbs__content">
+        <img class="ico" height="56px" src="/common/img/main/modules/sbsconnect/listen.svg" />
+        <p class="tab__title">Latest News podcasts</p>
+        <p class="tab__description">Ask <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen.alexa';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://www.sbs.com.au/news/sbs-news-bulletins-to-be-available-via-amazon-alexa" title="Amazon Alexa">Amazon Alexa</a> for the latest SBS News or listen to <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen.sbsRadio';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://www.sbs.com.au/radio/article/2015/03/07/download-sbs-radios-free-mobile-app" title="SBS Radio">SBS Radio</a>.</p>
+      </div>
+    </div>
+
+        <div class="tab__content tab-5 is-hidden">
+      <div class="connect-sbs__content">
+        <img class="ico" height="44px" src="/common/img/main/modules/sbsconnect/watch.svg" />
+        <p class="tab__title">Daily Bulletin</p>
+        <p class="tab__description">Watch SBS World News live daily at 6:30pm on TV and <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch.ourApp';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" class="custom_action" href="#" title="our app">on our app</a>. Catch up on <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch.od';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://www.sbs.com.au/ondemand/program/sbs-world-news" title="SBS On Demand">SBS On Demand</a>.</p>
+      </div>
+    </div>
+  </div>
+</div>
+    
+              <section class="page__section page__section--style-3">
+
+                                                                                      
+  
+  
+  
+    
+  
+      
+  
+      <div class="block block--feature" data-module="block_module" data-edit="1" data-slug="collection-home-top-stories">
+              <h2 class="block__title">Top Stories</h2>            <div class="block__container feature" data-count="5">
+                              
+                  
+            
+                                                              
+
+<div class="preview preview--feature">
+  <div class="preview__wrap">
+                            
+  
+  
+
+
+        
+
+      
+      
+  
+    
+  
+  
+        
+    
+    
+
+<div class="media-image media-image--16-9 preview__image">
+  <a class="media-image__link" href="/news/problem-gamblers-say-the-coronavirus-lockdown-is-providing-relief-from-addiction" title="Problem gamblers say the coronavirus lockdown is providing relief from addiction">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/762caf3a-32f7-4915-996f-2bf3ffb4ca98/crop/16x9_large", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/762caf3a-32f7-4915-996f-2bf3ffb4ca98/crop/16x9_medium", "alt": "Anti-gambling advocate Tim Costello says the coronavirus lockdown is a chance for poker machine reform. " }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/762caf3a-32f7-4915-996f-2bf3ffb4ca98/crop/16x9_large" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/762caf3a-32f7-4915-996f-2bf3ffb4ca98/crop/16x9_medium" alt="Anti-gambling advocate Tim Costello says the coronavirus lockdown is a chance for poker machine reform. ">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                                                                
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">2 hours ago</span>
+      
+
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/problem-gamblers-say-the-coronavirus-lockdown-is-providing-relief-from-addiction">Problem gamblers say the coronavirus lockdown is providing relief from addiction</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+        
+    
+  
+  
+        
+    
+              
+
+<div class="media-image media-image--p-1-1-m-16-9-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/uk-pm-boris-johnson-warns-of-new-wave-of-death-in-first-appearance-since-coronavirus-infection" title="UK PM Boris Johnson warns of &#039;new wave of death&#039; in first appearance since coronavirus infection ">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/bc917763-070d-4020-a4a0-c1ae22ed3ee4/crop/16x9_large", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/bc917763-070d-4020-a4a0-c1ae22ed3ee4/crop/16x9_medium", "media": "(min-width: 767px)" },
+                { "srcset": "https://sl.sbs.com.au/public/image/file/bc917763-070d-4020-a4a0-c1ae22ed3ee4/crop/1x1_small", "alt": "British Prime Minister Boris Johnson makes a statement on his first day back at work in Downing Street. " }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/bc917763-070d-4020-a4a0-c1ae22ed3ee4/crop/16x9_large" media="(min-width: 1023px)">
+                              <source srcset="https://sl.sbs.com.au/public/image/file/bc917763-070d-4020-a4a0-c1ae22ed3ee4/crop/16x9_medium" media="(min-width: 767px)">
+          
+          <img srcset="https://sl.sbs.com.au/public/image/file/bc917763-070d-4020-a4a0-c1ae22ed3ee4/crop/1x1_small" alt="British Prime Minister Boris Johnson makes a statement on his first day back at work in Downing Street. ">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                                                                                                                                                                                                                                                
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">1 hour ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/europe title="Europe"><span></span>Europe</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/uk-pm-boris-johnson-warns-of-new-wave-of-death-in-first-appearance-since-coronavirus-infection">UK PM Boris Johnson warns of &#039;new wave of death&#039; in first appearance since coronavirus infection </a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                              <div class="preview__list-wrapper">
+          
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+  
+                        
+        
+        
+  
+    
+    
+
+<div class="media-image media-image--1-1 preview__image">
+  <a class="media-image__link" href="/news/exclusive-visa-rule-changes-open-door-to-temporary-visa-applicants-with-a-disability-or-health-condition" title="Exclusive: Visa rule changes open door to temporary visa applicants with a disability or health condition">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/25e90217-6af1-46a1-9d1d-431ea1d9fe6a/crop/1x1_small", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/25e90217-6af1-46a1-9d1d-431ea1d9fe6a/crop/1x1_small", "alt": "Acting Immigration Minister Alan Tudge" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/25e90217-6af1-46a1-9d1d-431ea1d9fe6a/crop/1x1_small" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/25e90217-6af1-46a1-9d1d-431ea1d9fe6a/crop/1x1_small" alt="Acting Immigration Minister Alan Tudge">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                    
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">3 hours ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/immigration title="Immigration"><span></span>Immigration</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/exclusive-visa-rule-changes-open-door-to-temporary-visa-applicants-with-a-disability-or-health-condition">Exclusive: Visa rule changes open door to temporary visa applicants with a disability or health condition</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+  
+                        
+        
+        
+  
+    
+    
+
+<div class="media-image media-image--1-1 preview__image">
+  <a class="media-image__link" href="/news/china-hits-back-at-reports-it-has-been-spreading-misinformation-about-coronavirus" title="China hits back at reports it has been spreading misinformation about coronavirus">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/34f31f8b-e1c5-41b8-ad00-7be96d2a8591/crop/1x1_small", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/34f31f8b-e1c5-41b8-ad00-7be96d2a8591/crop/1x1_small", "alt": "People wearing face mask are seen in Beijing, China on April 17, 2020, amid an outbreak of the new coronavirus COVID-19" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/34f31f8b-e1c5-41b8-ad00-7be96d2a8591/crop/1x1_small" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/34f31f8b-e1c5-41b8-ad00-7be96d2a8591/crop/1x1_small" alt="People wearing face mask are seen in Beijing, China on April 17, 2020, amid an outbreak of the new coronavirus COVID-19">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                                          
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">1 hour ago</span>
+      
+
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/china-hits-back-at-reports-it-has-been-spreading-misinformation-about-coronavirus">China hits back at reports it has been spreading misinformation about coronavirus</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+  
+                        
+        
+        
+  
+    
+    
+
+<div class="media-image media-image--1-1 preview__image">
+  <a class="media-image__link" href="/news/more-than-two-million-australians-download-covidsafe-contact-tracing-app" title="More than two million Australians download COVIDSafe contact tracing app">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/26fa4c0c-7dd5-4bdd-b2d4-409fd5bb44c7/crop/1x1_small", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/26fa4c0c-7dd5-4bdd-b2d4-409fd5bb44c7/crop/1x1_small", "alt": "The app was launched on Sunday." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/26fa4c0c-7dd5-4bdd-b2d4-409fd5bb44c7/crop/1x1_small" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/26fa4c0c-7dd5-4bdd-b2d4-409fd5bb44c7/crop/1x1_small" alt="The app was launched on Sunday.">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                                                                                                                                                                                                    
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">1 hour ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/australia title="Australia"><span></span>Australia</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/more-than-two-million-australians-download-covidsafe-contact-tracing-app">More than two million Australians download COVIDSafe contact tracing app</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                </div>
+                                                                                              
+            
+    </div>
+
+              
+  </div>
+
+                                                                              
+  
+  
+  
+    
+  
+                  
+      <div class="block" data-module="block_module" data-edit="na" data-slug="collection-home-top-stories">
+                <div class="block__container" data-count="4">
+                                                                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+  
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/officer-killed-in-horror-melbourne-freeway-smash-remembered-as-a-big-softie" title="Officer killed in horror Melbourne freeway smash remembered as a &#039;big softie&#039;">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/41e6dd5d-4e8a-4e45-9f60-85956674463c/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/41e6dd5d-4e8a-4e45-9f60-85956674463c/crop/1x1_small", "alt": "" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/41e6dd5d-4e8a-4e45-9f60-85956674463c/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/41e6dd5d-4e8a-4e45-9f60-85956674463c/crop/1x1_small" alt="">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                                                                                                                                                                                                                          
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">2 hours ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/australia title="Australia"><span></span>Australia</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/officer-killed-in-horror-melbourne-freeway-smash-remembered-as-a-big-softie">Officer killed in horror Melbourne freeway smash remembered as a &#039;big softie&#039;</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+  
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/police-nrl-to-probe-josh-addo-carr-and-latrell-mitchell-over-alleged-breach-of-social-distancing-rules" title="Police, NRL to probe Josh Addo-Carr and Latrell Mitchell over alleged breach of social distancing rules">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/f1914290-2ba8-4825-9fea-ef2996474cfb/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/f1914290-2ba8-4825-9fea-ef2996474cfb/crop/1x1_small", "alt": "Josh Addo-Carr (third from right) and Latrell Mitchell (fourth from right) appearing to flout the government&#039;s coronavirus guidelines during a camping trip." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/f1914290-2ba8-4825-9fea-ef2996474cfb/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/f1914290-2ba8-4825-9fea-ef2996474cfb/crop/1x1_small" alt="Josh Addo-Carr (third from right) and Latrell Mitchell (fourth from right) appearing to flout the government&#039;s coronavirus guidelines during a camping trip.">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                                                                                                                                                                                                                                                                      
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">7 hours ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/australia title="Australia"><span></span>Australia</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/police-nrl-to-probe-josh-addo-carr-and-latrell-mitchell-over-alleged-breach-of-social-distancing-rules">Police, NRL to probe Josh Addo-Carr and Latrell Mitchell over alleged breach of social distancing rules</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+  
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/new-zealand-pm-jacinda-ardern-prepares-to-ease-strict-coronavirus-lockdown" title="New Zealand PM Jacinda Ardern prepares to ease strict coronavirus lockdown">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/ad778aa7-216b-4751-8518-14152922ee92/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/ad778aa7-216b-4751-8518-14152922ee92/crop/1x1_small", "alt": "New Zealand Prime Minister Jacinda Ardern will ease some coronavirus restrictions from midnight on Monday." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/ad778aa7-216b-4751-8518-14152922ee92/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/ad778aa7-216b-4751-8518-14152922ee92/crop/1x1_small" alt="New Zealand Prime Minister Jacinda Ardern will ease some coronavirus restrictions from midnight on Monday.">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">3 hours ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/asia-pacific title="Asia-Pacific"><span></span>Asia-Pacific</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/new-zealand-pm-jacinda-ardern-prepares-to-ease-strict-coronavirus-lockdown">New Zealand PM Jacinda Ardern prepares to ease strict coronavirus lockdown</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+  
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/homeschooled-students-build-solar-lights-for-developing-nations-during-coronavirus-isolation" title="Homeschooled students build solar lights for developing nations during coronavirus isolation">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/1a7b5db4-ab62-45cc-ad35-cdbc8c9fc4ab/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/1a7b5db4-ab62-45cc-ad35-cdbc8c9fc4ab/crop/1x1_small", "alt": "Solar lights Origin " }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/1a7b5db4-ab62-45cc-ad35-cdbc8c9fc4ab/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/1a7b5db4-ab62-45cc-ad35-cdbc8c9fc4ab/crop/1x1_small" alt="Solar lights Origin ">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                    
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">2 hours ago</span>
+      
+
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/homeschooled-students-build-solar-lights-for-developing-nations-during-coronavirus-isolation">Homeschooled students build solar lights for developing nations during coronavirus isolation</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                
+            
+    </div>
+
+            <div class="block__cta">
+    <a href="/news/latest">View More</a>
+  </div>
+    
+  </div>
+
+      
+
+      </section>
+      </div>
+
+                                                                                                
+      
+    </main>
+
+    
+  
+<footer class="global-footer">
+  <div class="container">
+    <div class="row">
+      <div class="global-footer__column global-footer__column--explore column">
+                <div class="menu global-footer__menu global-footer__menu--explore-sbs" role="menu">
+              
+
+  
+
+  <div class="label label menu__label global-footer__menu-label">Explore SBS</div>
+            <ul class="menu__list global-footer__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item first" role="menuitem">        <a href="//www.sbs.com.au"><span>SBS Home</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/ondemand"><span>SBS On Demand</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/guide"><span>Guide</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/radio"><span>Radio</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/nitv"><span>NITV</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/news"><span>News</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//theworldgame.sbs.com.au/"><span>The World Game</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/cyclingcentral"><span>Cycling</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/topics/sport"><span>Sport</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/movies"><span>Movies</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/food"><span>Food</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/topics/voices"><span>Voices</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/topics/pride"><span>Pride</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+      </div>
+      <div class="global-footer__column global-footer__column--contact column">
+        
+
+  
+
+  <div class="label global-footer__menu-label">Contact SBS</div>
+        <ul class="list list--clean">
+          <li class="list__item list__item--phone"><span class="icon icon--phone"></span> 1800 500 727 (toll free)</li>
+          <li class="list__item list__item--email"><span class="icon icon--envelope"></span> <a href="mailto:comments@sbs.com.au">comments@sbs.com.au</a></li>
+          <li class="list__item list__item--mail"><span class="icon icon--send"></span> Locked Bag 028, Crows Nest NSW 1585</li>
+        </ul>
+      </div>
+      <div class="global-footer__column global-footer__column--follow column">
+        
+  <div class="sharing sharing--menu global-footer__menu global-footer__menu--follow-sbs">
+          
+
+  
+
+  <div class="label sharing__label global-footer__menu-label">Follow SBS</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+        
+                    <a href="//twitter.com/SBS" class="sharing__link sharing__link--twitter" target="_blank" rel="noopener">
+            <span class="icon--twitter icon" aria-hidden="true"></span><span class="sr-only">Follow SBS on Twitter</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a href="//www.facebook.com/SBSAustralia/" class="sharing__link sharing__link--facebook" target="_blank" rel="noopener">
+            <span class="icon--facebook icon" aria-hidden="true"></span><span class="sr-only">Follow SBS on Facebook</span>
+          </a>
+              </li>
+        </ul>
+  </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="global-footer__column global-footer__column--legal column">
+                <div class="menu global-footer__menu global-footer__menu--information" role="menu">
+              
+
+  
+
+  <div class="label label menu__label global-footer__menu-label">Information</div>
+            <ul class="menu__list global-footer__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item first" role="menuitem">        <a href="//www.sbs.com.au/aboutus/copyright"><span>Copyright</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/terms-and-conditions"><span>Terms &amp; Conditions</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/privacy-policy"><span>Privacy</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/preferences"><span>Your online preferences</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/sales/"><span>Sales &amp; Advertising</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/complaints"><span>Complaints</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/sbs-codes-of-practice"><span>SBS Codes of Practice</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/careers"><span>Careers</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/aboutus"><span>About SBS</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+      </div>
+    </div>
+    <div class="global-footer__column global-footer__column--copy">
+      <p class="menu__list-item">SBS acknowledges the traditional owners of country throughout Australia.</p>
+    </div>
+  </div>
+</footer>
+
+
+  </div>
+
+  
+<div class="loader" id="loader">
+  <svg viewBox="0 0 32 32" width="32" height="32">
+    <circle class="loader__spinner" cx="16" cy="16" r="14" fill="none"></circle>
+  </svg>
+</div>
+
+  <script src="/common/js/common-6bc7e00a92bab481e6be1929429784f6.js" defer></script>
+  <script src="/news/js/main-a04be599f486f49b8642a31432880f07.js" defer></script>
+</body>
+</html>

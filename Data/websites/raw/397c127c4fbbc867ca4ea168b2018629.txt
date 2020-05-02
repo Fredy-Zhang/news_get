@@ -1,0 +1,427 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" prefix="og: http://ogp.me/ns#">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Hong Kong’s pro-democracy movement donates PPEs to Canada’s healthcare workers | ThinkPol</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="https://thinkpol.ca/wp-content/themes/NewsMate/lib/css/reset.css" type="text/css" media="screen, projection" />
+<link rel="stylesheet" href="https://thinkpol.ca/wp-content/themes/NewsMate/lib/css/defaults.css" type="text/css" media="screen, projection" />
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!--[if lt IE 8]><link rel="stylesheet" href="https://thinkpol.ca/wp-content/themes/NewsMate/lib/css/ie.css" type="text/css" media="screen, projection" /><![endif]-->
+<link rel="stylesheet" href="https://thinkpol.ca/wp-content/themes/NewsMate/style.css" type="text/css" media="screen, projection" />
+
+<link rel="canonical" href="https://thinkpol.ca/2020/04/27/hong-kongs-pro-democracy-movement-donates-ppes-canadas-healthcare-workers/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Hong Kong’s pro-democracy movement donates PPEs to Canada’s healthcare workers - ThinkPol" />
+<meta property="og:description" content="Hong Kong’s pro-democracy movement is teaming up with Toronto’s Hong Kong community to secure and donate personal protective equipment for healthcare workers in Canada, as Canadian health authorities grapple with a PPE shortfall that’s putting medical workers and vulnerable Canadians at risk. Hong-Kong-based pro-democracy medics group teamed up with Toronto’s Hong Kong community to donate" />
+<meta property="og:url" content="https://thinkpol.ca/2020/04/27/hong-kongs-pro-democracy-movement-donates-ppes-canadas-healthcare-workers/" />
+<meta property="og:site_name" content="ThinkPol" />
+<meta property="article:publisher" content="http://thinkpolca" />
+<meta property="article:tag" content="covid-19" />
+<meta property="article:tag" content="hong kong" />
+<meta property="article:tag" content="ppe" />
+<meta property="article:section" content="International" />
+<meta property="article:published_time" content="2020-04-27T00:23:08-07:00" />
+<meta property="og:image" content="https://thinkpol.ca/wp-content/uploads/2020/04/HongKongMasks.jpg" />
+<meta property="og:image:secure_url" content="https://thinkpol.ca/wp-content/uploads/2020/04/HongKongMasks.jpg" />
+<meta property="og:image:width" content="1440" />
+<meta property="og:image:height" content="1036" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Hong Kong’s pro-democracy movement is teaming up with Toronto’s Hong Kong community to secure and donate personal protective equipment for healthcare workers in Canada, as Canadian health authorities grapple with a PPE shortfall that’s putting medical workers and vulnerable Canadians at risk. Hong-Kong-based pro-democracy medics group teamed up with Toronto’s Hong Kong community to donate" />
+<meta name="twitter:title" content="Hong Kong’s pro-democracy movement donates PPEs to Canada’s healthcare workers - ThinkPol" />
+<meta name="twitter:site" content="@thinkpolca" />
+<meta name="twitter:image" content="https://thinkpol.ca/wp-content/uploads/2020/04/HongKongMasks.jpg" />
+<meta name="twitter:creator" content="@thinkpolca" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/thinkpol.ca\/","name":"ThinkPol","potentialAction":{"@type":"SearchAction","target":"https:\/\/thinkpol.ca\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/thinkpol.ca\/2020\/04\/27\/hong-kongs-pro-democracy-movement-donates-ppes-canadas-healthcare-workers\/","sameAs":["http:\/\/thinkpolca","https:\/\/twitter.com\/thinkpolca"],"@id":"#organization","name":"ThinkPol Media Inc","logo":"https:\/\/thinkpol.ca\/wp-content\/uploads\/2017\/12\/logo.png"}</script>
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="ThinkPol &raquo; Hong Kong’s pro-democracy movement donates PPEs to Canada’s healthcare workers Comments Feed" href="https://thinkpol.ca/2020/04/27/hong-kongs-pro-democracy-movement-donates-ppes-canadas-healthcare-workers/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/thinkpol.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.16"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='mci-footnotes-css-public-css' href='https://thinkpol.ca/wp-content/plugins/footnotes/class/../css/public.css?ver=4.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='ttgps-style-css' href='https://thinkpol.ca/wp-content/plugins/tt-guest-post-submit/ttgps-style.css?ver=4.7.16' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://thinkpol.ca/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://thinkpol.ca/wp-content/plugins/tablepress/css/default.min.css?ver=1.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='A2A_SHARE_SAVE-css' href='https://thinkpol.ca/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.13' type='text/css' media='all' />
+<script type='text/javascript' src='https://thinkpol.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://thinkpol.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://thinkpol.ca/wp-content/plugins/footnotes/class/../js/jquery.tools.min.js?ver=4.7.16'></script>
+<script type='text/javascript' src='https://thinkpol.ca/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0'></script>
+<script type='text/javascript' src='https://thinkpol.ca/wp-content/themes/NewsMate/lib/js/superfish.js?ver=4.7.16'></script>
+<script type='text/javascript' src='https://thinkpol.ca/wp-content/themes/NewsMate/lib/js/jquery.mobilemenu.js?ver=4.7.16'></script>
+<link rel='https://api.w.org/' href='https://thinkpol.ca/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thinkpol.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://thinkpol.ca/wp-includes/wlwmanifest.xml" />
+<link rel='shortlink' href='https://thinkpol.ca/?p=3729' />
+<link rel="alternate" type="application/json+oembed" href="https://thinkpol.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthinkpol.ca%2F2020%2F04%2F27%2Fhong-kongs-pro-democracy-movement-donates-ppes-canadas-healthcare-workers%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://thinkpol.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthinkpol.ca%2F2020%2F04%2F27%2Fhong-kongs-pro-democracy-movement-donates-ppes-canadas-healthcare-workers%2F&#038;format=xml" />
+<script type="text/javascript">
+var a2a_config=a2a_config||{};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.templates=a2a_config.templates||{};
+</script>
+<script type="text/javascript" src="https://static.addtoany.com/menu/page.js" async="async"></script>
+
+<style type="text/css">
+/* Fluid Video Embeds */
+.fve-video-wrapper {
+    position: relative;
+    overflow: hidden;
+    height: 0;
+    background-color: transparent;
+    padding-bottom: 56.25%;
+    margin: 0.5em 0;
+}
+.fve-video-wrapper iframe,
+.fve-video-wrapper object,
+.fve-video-wrapper embed {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.fve-video-wrapper a.hyperlink-image {
+    position: relative;
+    display: none;
+}
+.fve-video-wrapper a.hyperlink-image img {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+}
+.fve-video-wrapper a.hyperlink-image .fve-play-button {
+    position: absolute;
+    left: 35%;
+    top: 35%;
+    right: 35%;
+    bottom: 35%;
+    z-index: 3;
+    background-color: rgba(40, 40, 40, 0.75);
+    background-size: 100% 100%;
+    border-radius: 10px;
+}
+.fve-video-wrapper a.hyperlink-image:hover .fve-play-button {
+    background-color: rgba(0, 0, 0, 0.85);
+}
+</style>
+
+<link rel="shortcut icon" href="https://thinkpol.ca/wp-content/uploads/2015/02/favicon.png" type="image/x-icon" />
+<link rel="alternate" type="application/rss+xml" title="ThinkPol RSS Feed" href="https://thinkpol.ca/feed/" />
+<link rel="pingback" href="https://thinkpol.ca/xmlrpc.php" />
+<style type="text/css" media="screen">
+            .footnote_plugin_tooltip_text {
+    vertical-align: top!important;
+    position: relative!important;
+    top: -0.3em!important;
+    cursor: pointer;
+    font-size: 0.8em;
+}.footnote_tooltip { display: none; padding: 12px; font-size: 13px; background-color: #fff7a7; border-width: 1px; border-style: solid; border-color: #cccc99; border-radius: 3px; -webkit-box-shadow: 2px 2px 11px #666666; -moz-box-shadow: 2px 2px 11px #666666; box-shadow: 2px 2px 11px #666666;}        </style>
+</head>
+<body class="post-template-default single single-post postid-3729 single-format-standard">
+<div id="container">
+<div class="clearfix">
+<div class="menu-primary-container"><ul id="menu-top-bar" class="menus menu-primary"><li id="menu-item-212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-212"><a href="https://thinkpol.ca/">Home</a></li>
+<li id="menu-item-2066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2066"><a href="https://thinkpol.ca/about-us/">About Us</a>
+<ul class="sub-menu">
+<li id="menu-item-2067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2067"><a href="https://thinkpol.ca/authors/">Authors</a></li>
+</ul>
+</li>
+<li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="https://thinkpol.ca/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393"><a href="https://thinkpol.ca/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-564"><a href="https://thinkpol.ca/contact/">Contact</a></li>
+</ul></div> 
+<div id="top-social-profiles">
+<ul class="widget-container"><li class="social-profiles-widget">
+<a href="https://twitter.com/thinkpolca" target="_blank"><img title="Twitter" alt="Twitter" src="https://thinkpol.ca/wp-content/themes/NewsMate/images/social-profiles/twitter.png" /></a><a href="https://www.facebook.com/thinkpolca" target="_blank"><img title="Facebook" alt="Facebook" src="https://thinkpol.ca/wp-content/themes/NewsMate/images/social-profiles/facebook.png" /></a><a href="https://thinkpol.ca/?feed=rss2" target="_blank"><img title="RSS Feed" alt="RSS Feed" src="https://thinkpol.ca/wp-content/themes/NewsMate/images/social-profiles/rss.png" /></a> </li></ul>
+</div>
+</div>
+<div id="header">
+<div class="logo">
+<a href="https://thinkpol.ca"><img src="https://thinkpol.ca/wp-content/uploads/2015/02/logo2.png" alt="ThinkPol" title="ThinkPol" /></a>
+</div>
+<div class="header-right">
+</div>
+</div>
+<div class="clearfix">
+<div class="menu-secondary-container"><ul id="menu-categories" class="menus menu-secondary"><li id="menu-item-26" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26"><a href="https://thinkpol.ca/category/civil-liberties/">Civil Liberties</a></li>
+<li id="menu-item-53" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-53"><a href="https://thinkpol.ca/category/economy/">Economy</a>
+<ul class="sub-menu">
+<li id="menu-item-879" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-879"><a href="https://thinkpol.ca/category/labour/">Labour</a></li>
+<li id="menu-item-878" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-878"><a href="https://thinkpol.ca/category/economy/business/">Business</a></li>
+<li id="menu-item-880" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-880"><a href="https://thinkpol.ca/category/economy/industry/">Industry</a></li>
+<li id="menu-item-881" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-881"><a href="https://thinkpol.ca/category/economy/oil-and-gas/">Oil and Gas</a></li>
+<li id="menu-item-882" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-882"><a href="https://thinkpol.ca/category/economy/renewable-energy/">Renewable Energy</a></li>
+</ul>
+</li>
+<li id="menu-item-168" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-168"><a href="https://thinkpol.ca/category/government/">Government</a>
+<ul class="sub-menu">
+<li id="menu-item-54" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-54"><a href="https://thinkpol.ca/category/government/elections/">Elections</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-52"><a href="https://thinkpol.ca/category/government/transparency/">Transparency</a></li>
+<li id="menu-item-883" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-883"><a href="https://thinkpol.ca/category/government/policy/">Policy</a></li>
+</ul>
+</li>
+<li id="menu-item-24" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-24"><a href="https://thinkpol.ca/category/security/">Security</a>
+<ul class="sub-menu">
+<li id="menu-item-169" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-169"><a href="https://thinkpol.ca/category/crime/">Crime</a></li>
+</ul>
+</li>
+<li id="menu-item-166" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-166"><a href="https://thinkpol.ca/category/science/">Science</a>
+<ul class="sub-menu">
+<li id="menu-item-25" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25"><a href="https://thinkpol.ca/category/environment/">Environment</a></li>
+<li id="menu-item-167" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-167"><a href="https://thinkpol.ca/category/science/health/">Health</a></li>
+</ul>
+</li>
+<li id="menu-item-148" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-148"><a href="https://thinkpol.ca/category/humour/">Humour</a></li>
+</ul></div> 
+</div>
+<div id="main">
+<div id="content">
+<div class="post post-single clearfix post-3729 type-post status-publish format-standard has-post-thumbnail hentry category-front-page category-international tag-covid-19 tag-hong-kong tag-ppe" id="post-3729">
+<h2 class="title">Hong Kong’s pro-democracy movement donates PPEs to Canada’s healthcare workers</h2>
+<div class="postmeta-primary">
+<span class="meta_date">April 27, 2020</span>
+&nbsp; <span class="meta_categories"><a href="https://thinkpol.ca/category/front-page/" rel="category tag">Front Page</a>, <a href="https://thinkpol.ca/category/international/" rel="category tag">International</a></span>
+&nbsp; <span class="meta_comments"><a href="https://thinkpol.ca/2020/04/27/hong-kongs-pro-democracy-movement-donates-ppes-canadas-healthcare-workers/#respond">No comments</a></span>
+<div>
+<h3></h3>
+</div>
+</div>
+<div class="entry clearfix">
+<img width="600" height="432" src="https://thinkpol.ca/wp-content/uploads/2020/04/HongKongMasks.jpg" class="aligncenter featured_image wp-post-image" alt="" srcset="https://thinkpol.ca/wp-content/uploads/2020/04/HongKongMasks.jpg 1440w, https://thinkpol.ca/wp-content/uploads/2020/04/HongKongMasks-300x216.jpg 300w, https://thinkpol.ca/wp-content/uploads/2020/04/HongKongMasks-768x553.jpg 768w, https://thinkpol.ca/wp-content/uploads/2020/04/HongKongMasks-1024x737.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" />
+<p>Hong Kong’s pro-democracy movement is teaming up with Toronto’s Hong Kong community to secure and donate personal protective equipment for healthcare workers in Canada, as Canadian health authorities grapple with a PPE shortfall that’s putting medical workers and vulnerable Canadians at risk.</p>
+<p>Hong-Kong-based pro-democracy medics group teamed up with Toronto’s Hong Kong community to donate thousands of N95 respirators, surgical masks, face shields, goggles, hand sanitizers, and alcohol pads as part of their PPE drive.</p>
+<p>The group <em>Torontonians Stand with Hong Kong</em> is asking members to donate any PPEs in unopened boxes at Michael Garron Hospital, Sunnybrook Hospital or Peterborough Regional Health Centre.</p>
+<p>“Hong Kong people experienced the SARS outbreak in 2003 and fully understand what Canadian healthworkers are currently facing as COVID-19 spreads rapidly,” the group said. “In the face of the current crisis, the Hong Kong community cannot sit back and ignore it.”</p>
+<p>Last month, the Ontario Medical Association (OMA) and Registered Nurses’ Association of Ontario (RNAO) issued a joint statement sounding the alarm about the imminent shortage of masks for healthcare workers, potentially putting the workers and the patients they take care of at risk.</p>
+<p>“We must act now for all the eventualities, given the global shortage of supplies,” Dr. Doris Grinspun, RNAO’s CEO, said. “RNAO welcomes Premier Ford’s recent appeal to manufacturers to produce the essential gear to protect our health-care workers so they can be there to protect the public. We fear that a mask shortage is imminent. This is a serious and dire situation for our frontline workers. We must take every action possible to avoid, or at best, delay such an eventuality.”</p>
+<p>The volunteer pro-democracy medics group was formed to help protestors who were tear gassed, beaten or shot at by the Hong Kong police during pro-democracy protests in the city.</p>
+<p>The violent crackdown on the protests by Hong Kong police have led to thousands of injuries and two deaths.</p>
+<p>Hong Kong authorities have faced international criticism for deliberately targeting the medics group at Beijing’s behest.</p>
+ <div class="addtoany_share_save_container addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="https://thinkpol.ca/2020/04/27/hong-kongs-pro-democracy-movement-donates-ppes-canadas-healthcare-workers/" data-a2a-title="Hong Kong’s pro-democracy movement donates PPEs to Canada’s healthcare workers"><a class="a2a_button_facebook a2a_counter" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fthinkpol.ca%2F2020%2F04%2F27%2Fhong-kongs-pro-democracy-movement-donates-ppes-canadas-healthcare-workers%2F&amp;linkname=Hong%20Kong%E2%80%99s%20pro-democracy%20movement%20donates%20PPEs%20to%20Canada%E2%80%99s%20healthcare%20workers" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fthinkpol.ca%2F2020%2F04%2F27%2Fhong-kongs-pro-democracy-movement-donates-ppes-canadas-healthcare-workers%2F&amp;linkname=Hong%20Kong%E2%80%99s%20pro-democracy%20movement%20donates%20PPEs%20to%20Canada%E2%80%99s%20healthcare%20workers" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fthinkpol.ca%2F2020%2F04%2F27%2Fhong-kongs-pro-democracy-movement-donates-ppes-canadas-healthcare-workers%2F&amp;linkname=Hong%20Kong%E2%80%99s%20pro-democracy%20movement%20donates%20PPEs%20to%20Canada%E2%80%99s%20healthcare%20workers" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_button_reddit a2a_counter" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fthinkpol.ca%2F2020%2F04%2F27%2Fhong-kongs-pro-democracy-movement-donates-ppes-canadas-healthcare-workers%2F&amp;linkname=Hong%20Kong%E2%80%99s%20pro-democracy%20movement%20donates%20PPEs%20to%20Canada%E2%80%99s%20healthcare%20workers" title="Reddit" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a></div></div>
+</div>
+<div class="postmeta-secondary"><span class="meta_tags"><a href="https://thinkpol.ca/tag/covid-19/" rel="tag">covid-19</a>, <a href="https://thinkpol.ca/tag/hong-kong/" rel="tag">hong kong</a>, <a href="https://thinkpol.ca/tag/ppe/" rel="tag">ppe</a></span></div>
+</div>
+<div class="clearfix">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1402635617428633" data-ad-slot="9669309301" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="clearfix">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-1402635617428633" data-ad-slot="6512619303"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2020/04/27/hong-kongs-pro-democracy-movement-donates-ppes-canadas-healthcare-workers/#respond" style="display:none;">Cancel reply</a></small></h3> <form action="https://thinkpol.ca/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" /></p>
+<p class="comment-form-email"><label for="email">Email</label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='3729' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="fbcaa22553" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="213" /></p> </form>
+</div>
+</div>
+<div id="sidebar-primary">
+<ul class="widget-container"><li id="text-2" class="widget widget_text"> <div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1402635617428633" data-ad-slot="9466085700" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</li></ul><ul class="widget-container"><li id="search-2" class="widget widget_search">
+<div id="search" title="Type and hit enter">
+<form method="get" id="searchform" action="https://thinkpol.ca/">
+<input type="text" value="Search" name="s" id="s" onblur="if (this.value == '')  {this.value = 'Search';}" onfocus="if (this.value == 'Search') {this.value = '';}" />
+</form>
+</div></li></ul>
+<script type="text/javascript">
+            jQuery(document).ready(function($){
+                $(".tabs-widget-content-widget-themater_tabs-2-id").hide();
+            	$("ul.tabs-widget-widget-themater_tabs-2-id li:first a").addClass("tabs-widget-current").show();
+            	$(".tabs-widget-content-widget-themater_tabs-2-id:first").show();
+       
+            	$("ul.tabs-widget-widget-themater_tabs-2-id li a").click(function() {
+            		$("ul.tabs-widget-widget-themater_tabs-2-id li a").removeClass("tabs-widget-current a"); 
+            		$(this).addClass("tabs-widget-current"); 
+            		$(".tabs-widget-content-widget-themater_tabs-2-id").hide(); 
+            	    var activeTab = $(this).attr("href"); 
+            	    $(activeTab).fadeIn();
+            		return false;
+            	});
+            });
+        </script>
+<ul class="widget-container"><li>
+<ul class="tabs-widget tabs-widget-widget-themater_tabs-2-id">
+<li><a href="#widget-themater_tabs-2-id1" title="Recent Posts">Recent Posts</a></li>
+<li><a href="#widget-themater_tabs-2-id2" title="Comments">Comments</a></li>
+<li><a href="#widget-themater_tabs-2-id3" title="Tags">Tags</a></li>
+</ul>
+<div class="tabs-widget-content tabs-widget-content-widget-themater_tabs-2-id" id="widget-themater_tabs-2-id1">
+<div class="posts-widget"><ul>
+<li class="clearfix">
+<a href="https://thinkpol.ca/2020/04/27/hong-kongs-pro-democracy-movement-donates-ppes-canadas-healthcare-workers/"><img width="60" height="60" src="https://thinkpol.ca/wp-content/uploads/2020/04/HongKongMasks-150x150.jpg" class="posts-widget-featured-image alignleft wp-post-image" alt="" /></a> <h3 class="posts-widgettitle"><a href="https://thinkpol.ca/2020/04/27/hong-kongs-pro-democracy-movement-donates-ppes-canadas-healthcare-workers/" rel="bookmark" title="Hong Kong’s pro-democracy movement donates PPEs to Canada’s healthcare workers">Hong Kong’s pro-democracy movement donates PPEs to Canada’s healthcare workers</a></h3> <div class="posts-widget-meta">12:23 am By ThinkPol </div><div class="posts-widget-entry">Hong Kong’s pro-democracy movement is teaming up with Toronto’s Hong Kong community to secure and donate personal protective equipment for healthcare workers in Canada, as Canadian <a class="posts-widget-more" href="https://thinkpol.ca/2020/04/27/hong-kongs-pro-democracy-movement-donates-ppes-canadas-healthcare-workers/" rel="bookmark" title="Permalink to Hong Kong’s pro-democracy movement donates PPEs to Canada’s healthcare workers">Read More &raquo;</a> </div> </li>
+<li class="clearfix">
+<a href="https://thinkpol.ca/2020/04/26/art-time-covid-19-depression-anxiety-relief/"><img width="90" height="60" src="https://thinkpol.ca/wp-content/uploads/2020/04/bigstock-Closeup-Of-Young-Beautiful-Wom-259223218-1-300x200.jpg" class="posts-widget-featured-image alignleft wp-post-image" alt="" srcset="https://thinkpol.ca/wp-content/uploads/2020/04/bigstock-Closeup-Of-Young-Beautiful-Wom-259223218-1-300x200.jpg 300w, https://thinkpol.ca/wp-content/uploads/2020/04/bigstock-Closeup-Of-Young-Beautiful-Wom-259223218-1-768x512.jpg 768w, https://thinkpol.ca/wp-content/uploads/2020/04/bigstock-Closeup-Of-Young-Beautiful-Wom-259223218-1-1024x683.jpg 1024w, https://thinkpol.ca/wp-content/uploads/2020/04/bigstock-Closeup-Of-Young-Beautiful-Wom-259223218-1.jpg 1600w" sizes="(max-width: 90px) 100vw, 90px" /></a> <h3 class="posts-widgettitle"><a href="https://thinkpol.ca/2020/04/26/art-time-covid-19-depression-anxiety-relief/" rel="bookmark" title="Art in the time of COVID-19 for depression and anxiety Relief">Art in the time of COVID-19 for depression and anxiety Relief</a></h3> <div class="posts-widget-meta">11:52 pm By ThinkPol </div><div class="posts-widget-entry">By Katlyn Mortimer Since the outbreak of COVID-19 forced many North Americans into a simulated depressive episode, prescriptions for antidepressant and anti-anxiety medication rose by 18.6 <a class="posts-widget-more" href="https://thinkpol.ca/2020/04/26/art-time-covid-19-depression-anxiety-relief/" rel="bookmark" title="Permalink to Art in the time of COVID-19 for depression and anxiety Relief">Read More &raquo;</a> </div> </li>
+<li class="clearfix">
+<a href="https://thinkpol.ca/2020/04/24/petition-calling-boss-step-collects-million-signatures/"><img width="90" height="60" src="https://thinkpol.ca/wp-content/uploads/2020/04/dr_tedros-300x200.jpg" class="posts-widget-featured-image alignleft wp-post-image" alt="" srcset="https://thinkpol.ca/wp-content/uploads/2020/04/dr_tedros-300x200.jpg 300w, https://thinkpol.ca/wp-content/uploads/2020/04/dr_tedros-768x512.jpg 768w, https://thinkpol.ca/wp-content/uploads/2020/04/dr_tedros-1024x683.jpg 1024w" sizes="(max-width: 90px) 100vw, 90px" /></a> <h3 class="posts-widgettitle"><a href="https://thinkpol.ca/2020/04/24/petition-calling-boss-step-collects-million-signatures/" rel="bookmark" title="Million people sign petition calling on WHO boss to step down">Million people sign petition calling on WHO boss to step down</a></h3> <div class="posts-widget-meta">9:14 am By ThinkPol </div><div class="posts-widget-entry">A petition demanding the resignation of the World Health Organization&#8217;s (WHO) director-general accusing Tedros Adhanom Ghebreyesus of kowtowing to China and mishandling the novel coronavirus (COVID-19) <a class="posts-widget-more" href="https://thinkpol.ca/2020/04/24/petition-calling-boss-step-collects-million-signatures/" rel="bookmark" title="Permalink to Million people sign petition calling on WHO boss to step down">Read More &raquo;</a> </div> </li>
+<li class="clearfix">
+<a href="https://thinkpol.ca/2020/04/23/mit-superdrug-cure-covid-19-nobody-wants-fund/"><img width="90" height="60" src="https://thinkpol.ca/wp-content/uploads/2020/04/draco_antiviral-300x197.jpg" class="posts-widget-featured-image alignleft wp-post-image" alt="" srcset="https://thinkpol.ca/wp-content/uploads/2020/04/draco_antiviral-300x197.jpg 300w, https://thinkpol.ca/wp-content/uploads/2020/04/draco_antiviral-768x505.jpg 768w, https://thinkpol.ca/wp-content/uploads/2020/04/draco_antiviral-1024x673.jpg 1024w, https://thinkpol.ca/wp-content/uploads/2020/04/draco_antiviral.jpg 1417w" sizes="(max-width: 90px) 100vw, 90px" /></a> <h3 class="posts-widgettitle"><a href="https://thinkpol.ca/2020/04/23/mit-superdrug-cure-covid-19-nobody-wants-fund/" rel="bookmark" title="MIT superdrug could cure COVID-19 – but nobody wants to fund it">MIT superdrug could cure COVID-19 – but nobody wants to fund it</a></h3> <div class="posts-widget-meta">11:45 am By ThinkPol </div><div class="posts-widget-entry">“New drug could cure nearly any viral infection,” read the headline on MIT News nine years ago that heralded the arrival of DRACO, a new antiviral <a class="posts-widget-more" href="https://thinkpol.ca/2020/04/23/mit-superdrug-cure-covid-19-nobody-wants-fund/" rel="bookmark" title="Permalink to MIT superdrug could cure COVID-19 – but nobody wants to fund it">Read More &raquo;</a> </div> </li>
+<li class="clearfix">
+<a href="https://thinkpol.ca/2020/04/21/3m-sues-canadian-men-bootlegging-price-gouging/"><img width="90" height="60" src="https://thinkpol.ca/wp-content/uploads/2020/04/n95mask-300x200.jpg" class="posts-widget-featured-image alignleft wp-post-image" alt="" srcset="https://thinkpol.ca/wp-content/uploads/2020/04/n95mask-300x200.jpg 300w, https://thinkpol.ca/wp-content/uploads/2020/04/n95mask-768x512.jpg 768w, https://thinkpol.ca/wp-content/uploads/2020/04/n95mask-1024x683.jpg 1024w" sizes="(max-width: 90px) 100vw, 90px" /></a> <h3 class="posts-widgettitle"><a href="https://thinkpol.ca/2020/04/21/3m-sues-canadian-men-bootlegging-price-gouging/" rel="bookmark" title="3M sues Canadian men for bootlegging, price gouging">3M sues Canadian men for bootlegging, price gouging</a></h3> <div class="posts-widget-meta">10:24 am By ThinkPol </div><div class="posts-widget-entry">Face mask manufacturing giant 3M has bought a lawsuit against the directors of a Canadian company on Tuesday, claiming the two Ontario men “falsely affiliated themselves <a class="posts-widget-more" href="https://thinkpol.ca/2020/04/21/3m-sues-canadian-men-bootlegging-price-gouging/" rel="bookmark" title="Permalink to 3M sues Canadian men for bootlegging, price gouging">Read More &raquo;</a> </div> </li>
+</ul></div>
+</div>
+<div class="tabs-widget-content tabs-widget-content-widget-themater_tabs-2-id" id="widget-themater_tabs-2-id2">
+<div class="comments-widget"><ul>
+<li class="clearfix">
+<a href="https://thinkpol.ca/2020/04/11/vancouver-realtor-declared-fraction-income-tax-return-divorce-case-reveals/#comment-113025" title="Vancouver realtor declared only fraction of income on tax return, divorce case reveals"><img alt='' src='https://secure.gravatar.com/avatar/ff3bcc7bc9de3fe172415669416dceff?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ff3bcc7bc9de3fe172415669416dceff?s=64&amp;d=mm&amp;r=g 2x' class='avatar comments-widget-avatar alignleft avatar-32 photo' height='32' width='32' /></a>
+<div class="comments-widget-entry">
+<a href="https://thinkpol.ca/2020/04/11/vancouver-realtor-declared-fraction-income-tax-return-divorce-case-reveals/#comment-113025" class="comments-widget-author">Brian Chadwick</a>: why is this race being charged with various financ
+<a href="https://thinkpol.ca/2020/04/11/vancouver-realtor-declared-fraction-income-tax-return-divorce-case-reveals/#comment-113025" class="comments-widget-more">&raquo;</a> </div> </li>
+<li class="clearfix">
+<a href="https://thinkpol.ca/2020/04/01/airbnb-asks-government-bail-hosts-canada/#comment-113024" title="Airbnb asks government to bail out hosts in Canada"><img alt='' src='https://secure.gravatar.com/avatar/77b6c41f24373392f9c957e96e976a69?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/77b6c41f24373392f9c957e96e976a69?s=64&amp;d=mm&amp;r=g 2x' class='avatar comments-widget-avatar alignleft avatar-32 photo' height='32' width='32' /></a>
+<div class="comments-widget-entry">
+<a href="https://thinkpol.ca/2020/04/01/airbnb-asks-government-bail-hosts-canada/#comment-113024" class="comments-widget-author">Eric Zoukki</a>: I'm an immigrant. I sold my house in my country an
+<a href="https://thinkpol.ca/2020/04/01/airbnb-asks-government-bail-hosts-canada/#comment-113024" class="comments-widget-more">&raquo;</a> </div> </li>
+<li class="clearfix">
+<a href="https://thinkpol.ca/2020/04/20/canada-liable-compensate-chinese-companies-covid-19-losses-harper-govt-trade-agreement/#comment-113011" title="Canada liable to compensate Chinese companies for COVID-19 losses under Harper govt trade agreement"><img alt='' src='https://secure.gravatar.com/avatar/?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=64&amp;d=mm&amp;r=g 2x' class='avatar comments-widget-avatar alignleft avatar-32 photo avatar-default' height='32' width='32' /></a>
+<div class="comments-widget-entry">
+<a href="https://thinkpol.ca/2020/04/20/canada-liable-compensate-chinese-companies-covid-19-losses-harper-govt-trade-agreement/#comment-113011" class="comments-widget-author"></a>: U R An Idiot
+<a href="https://thinkpol.ca/2020/04/20/canada-liable-compensate-chinese-companies-covid-19-losses-harper-govt-trade-agreement/#comment-113011" class="comments-widget-more">&raquo;</a> </div> </li>
+<li class="clearfix">
+<a href="https://thinkpol.ca/2020/04/21/3m-sues-canadian-men-bootlegging-price-gouging/#comment-113003" title="3M sues Canadian men for bootlegging, price gouging"><img alt='' src='https://secure.gravatar.com/avatar/?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=64&amp;d=mm&amp;r=g 2x' class='avatar comments-widget-avatar alignleft avatar-32 photo avatar-default' height='32' width='32' /></a>
+<div class="comments-widget-entry">
+<a href="https://thinkpol.ca/2020/04/21/3m-sues-canadian-men-bootlegging-price-gouging/#comment-113003" class="comments-widget-author"></a>: their you go mister Ford,
+hang them like you said
+<a href="https://thinkpol.ca/2020/04/21/3m-sues-canadian-men-bootlegging-price-gouging/#comment-113003" class="comments-widget-more">&raquo;</a> </div> </li>
+<li class="clearfix">
+<a href="https://thinkpol.ca/2020/04/21/3m-sues-canadian-men-bootlegging-price-gouging/#comment-112993" title="3M sues Canadian men for bootlegging, price gouging"><img alt='' src='https://secure.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=32&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=64&amp;d=mm&amp;r=g 2x' class='avatar comments-widget-avatar alignleft avatar-32 photo' height='32' width='32' /></a>
+<div class="comments-widget-entry">
+<a href="https://thinkpol.ca/2020/04/21/3m-sues-canadian-men-bootlegging-price-gouging/#comment-112993" class="comments-widget-author">Oooooh last name</a>: Just like the last name of NS shooter checks out.
+<a href="https://thinkpol.ca/2020/04/21/3m-sues-canadian-men-bootlegging-price-gouging/#comment-112993" class="comments-widget-more">&raquo;</a> </div> </li>
+</ul></div>
+</div>
+ <div class="tabs-widget-content tabs-widget-content-widget-themater_tabs-2-id" id="widget-themater_tabs-2-id3">
+<div class="widget">
+<div><a href='https://thinkpol.ca/tag/airbnb/' class='tag-link-463 tag-link-position-1' title='29 topics' style='font-size: 11.958762886598pt;'>airbnb</a>
+<a href='https://thinkpol.ca/tag/alberta/' class='tag-link-187 tag-link-position-2' title='11 topics' style='font-size: 8.659793814433pt;'>alberta</a>
+<a href='https://thinkpol.ca/tag/andrew-wilkinson/' class='tag-link-606 tag-link-position-3' title='9 topics' style='font-size: 8pt;'>andrew wilkinson</a>
+<a href='https://thinkpol.ca/tag/bc-liberals/' class='tag-link-459 tag-link-position-4' title='20 topics' style='font-size: 10.639175257732pt;'>bc liberals</a>
+<a href='https://thinkpol.ca/tag/bc-ndp/' class='tag-link-598 tag-link-position-5' title='11 topics' style='font-size: 8.659793814433pt;'>bc ndp</a>
+<a href='https://thinkpol.ca/tag/bill-c-51/' class='tag-link-13 tag-link-position-6' title='26 topics' style='font-size: 11.546391752577pt;'>Bill C-51</a>
+<a href='https://thinkpol.ca/tag/british-columbia/' class='tag-link-460 tag-link-position-7' title='12 topics' style='font-size: 8.9072164948454pt;'>british columbia</a>
+<a href='https://thinkpol.ca/tag/conservatives/' class='tag-link-178 tag-link-position-8' title='10 topics' style='font-size: 8.3298969072165pt;'>conservatives</a>
+<a href='https://thinkpol.ca/tag/covid-19/' class='tag-link-724 tag-link-position-9' title='15 topics' style='font-size: 9.6494845360825pt;'>covid-19</a>
+<a href='https://thinkpol.ca/tag/election-42/' class='tag-link-134 tag-link-position-10' title='11 topics' style='font-size: 8.659793814433pt;'>election 42</a>
+<a href='https://thinkpol.ca/tag/justin-trudeau/' class='tag-link-98 tag-link-position-11' title='15 topics' style='font-size: 9.6494845360825pt;'>Justin Trudeau</a>
+<a href='https://thinkpol.ca/tag/liberals/' class='tag-link-45 tag-link-position-12' title='14 topics' style='font-size: 9.4845360824742pt;'>Liberals</a>
+<a href='https://thinkpol.ca/tag/speculation/' class='tag-link-541 tag-link-position-13' title='16 topics' style='font-size: 9.8969072164948pt;'>speculation</a>
+<a href='https://thinkpol.ca/tag/syria/' class='tag-link-160 tag-link-position-14' title='10 topics' style='font-size: 8.3298969072165pt;'>syria</a>
+<a href='https://thinkpol.ca/tag/tax-evasion/' class='tag-link-169 tag-link-position-15' title='10 topics' style='font-size: 8.3298969072165pt;'>tax evasion</a>
+<a href='https://thinkpol.ca/tag/tfwp/' class='tag-link-56 tag-link-position-16' title='18 topics' style='font-size: 10.309278350515pt;'>tfwp</a>
+<a href='https://thinkpol.ca/tag/trump/' class='tag-link-398 tag-link-position-17' title='9 topics' style='font-size: 8pt;'>trump</a>
+<a href='https://thinkpol.ca/tag/turkey/' class='tag-link-269 tag-link-position-18' title='10 topics' style='font-size: 8.3298969072165pt;'>turkey</a>
+<a href='https://thinkpol.ca/tag/vancouver/' class='tag-link-230 tag-link-position-19' title='52 topics' style='font-size: 13.938144329897pt;'>vancouver</a>
+<a href='https://thinkpol.ca/tag/vanre/' class='tag-link-454 tag-link-position-20' title='92 topics' style='font-size: 16pt;'>vanre</a></div>
+</div>
+</div>
+</li></ul>
+</div>
+</div>
+<div id="footer-widgets" class="clearfix">
+<div class="footer-widget-box">
+</div>
+<div class="footer-widget-box">
+</div>
+<div class="footer-widget-box">
+</div>
+<div class="footer-widget-box footer-widget-box-last">
+</div>
+</div>
+<div id="footer">
+<div id="copyrights">
+&copy; 2020 <a href="https://thinkpol.ca/">ThinkPol</a>
+</div>
+</div>
+</div>
+<script type='text/javascript' src='https://thinkpol.ca/wp-content/plugins/akismet/_inc/form.js?ver=3.3'></script>
+<script type='text/javascript' src='https://thinkpol.ca/wp-includes/js/comment-reply.min.js?ver=4.7.16'></script>
+<script type='text/javascript' src='https://thinkpol.ca/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thinkpol.ca/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7'></script>
+<script type='text/javascript' src='https://thinkpol.ca/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='https://thinkpol.ca/wp-includes/js/wp-embed.min.js?ver=4.7.16'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+jQuery.noConflict();
+jQuery(function(){ 
+	jQuery('ul.menu-primary').superfish({ 
+	animation: {opacity:'show'},
+autoArrows:  true,
+                dropShadows: false, 
+                speed: 200,
+                delay: 800
+                });
+            });
+jQuery('.menu-primary-container').mobileMenu({
+                defaultText: 'Menu',
+                className: 'menu-primary-responsive',
+                containerClass: 'menu-primary-responsive-container',
+                subMenuDash: '&ndash;'
+            });
+
+jQuery(function(){ 
+	jQuery('ul.menu-secondary').superfish({ 
+	animation: {opacity:'show'},
+autoArrows:  true,
+                dropShadows: false, 
+                speed: 200,
+                delay: 800
+                });
+            });
+jQuery('.menu-secondary-container').mobileMenu({
+                defaultText: 'Navigation',
+                className: 'menu-secondary-responsive',
+                containerClass: 'menu-secondary-responsive-container',
+                subMenuDash: '&ndash;'
+            });
+
+/* ]]> */
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-45477244-10', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

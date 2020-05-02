@@ -1,0 +1,1045 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<script type="text/javascript" src="https://go.automatad.com/geo/AjBO0V/afihbs.js" async></script>
+<meta property="og:image" content="https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920.jpg" />
+<meta name="atdlayout" content="article">
+<link rel="pingback" href="https://science.thewire.in/xmlrpc.php">
+<title>Convalescent Plasma&#039;s Success Against COVID-19 Continues in New Study - The Wire Science</title>
+
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Convalescent Plasma&#039;s Success Against COVID-19 Continues in New Study - The Wire Science" />
+<meta property="og:description" content="Convalescent plasma is one of three immune-based options that may be able to tackle COVID-19." />
+<meta property="og:url" content="https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/" />
+<meta property="og:site_name" content="The Wire Science" />
+<meta property="article:publisher" content="https://www.facebook.com/TheWireScience" />
+<meta property="article:tag" content="breaking headlines today" />
+<meta property="article:tag" content="coronavirus vaccine" />
+<meta property="article:tag" content="covid 19" />
+<meta property="article:tag" content="Editorpicks2" />
+<meta property="article:tag" content="featured" />
+<meta property="article:tag" content="india coronavirus lockdown" />
+<meta property="article:tag" content="latest news" />
+<meta property="article:tag" content="new coronavirus" />
+<meta property="article:tag" content="Novel coronavirus" />
+<meta property="article:tag" content="Spotlight" />
+<meta property="article:tag" content="Top News" />
+<meta property="article:section" content="The Sciences" />
+<meta property="article:published_time" content="2020-04-26T09:29:24+00:00" />
+<meta property="article:modified_time" content="2020-04-25T05:37:14+00:00" />
+<meta property="og:updated_time" content="2020-04-25T05:37:14+00:00" />
+<meta property="og:image" content="https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920.jpg" />
+<meta property="og:image:secure_url" content="https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920.jpg" />
+<meta property="og:image:width" content="1920" />
+<meta property="og:image:height" content="1080" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Convalescent plasma is one of three immune-based options that may be able to tackle COVID-19." />
+<meta name="twitter:title" content="Convalescent Plasma&#039;s Success Against COVID-19 Continues in New Study - The Wire Science" />
+<meta name="twitter:site" content="@TheWireScience" />
+<meta name="twitter:image" content="https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920.jpg" />
+<meta name="twitter:creator" content="@TheWireScience" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://science.thewire.in/#website","url":"https://science.thewire.in/","name":"The Wire Science","inLanguage":"en-GB","description":"The Wire Science","potentialAction":[{"@type":"SearchAction","target":"https://science.thewire.in/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"ImageObject","@id":"https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/#primaryimage","inLanguage":"en-GB","url":"https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920.jpg","width":1920,"height":1080},{"@type":"WebPage","@id":"https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/#webpage","url":"https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/","name":"Convalescent Plasma&#039;s Success Against COVID-19 Continues in New Study - The Wire Science","isPartOf":{"@id":"https://science.thewire.in/#website"},"inLanguage":"en-GB","primaryImageOfPage":{"@id":"https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/#primaryimage"},"datePublished":"2020-04-26T09:29:24+00:00","dateModified":"2020-04-25T05:37:14+00:00","author":{"@id":"https://science.thewire.in/#/schema/person/db43ce66854c1b128bbc3b3f5a91fa93"},"potentialAction":[{"@type":"ReadAction","target":["https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/"]}]},{"@type":["Person"],"@id":"https://science.thewire.in/#/schema/person/db43ce66854c1b128bbc3b3f5a91fa93","name":"Sukanya Charuchandra","image":{"@type":"ImageObject","@id":"https://science.thewire.in/#authorlogo","inLanguage":"en-GB","url":"https://secure.gravatar.com/avatar/4454f5fda7599bfe281c82f590c006c2?s=96&d=mm&r=g","caption":"Sukanya Charuchandra"},"sameAs":[]}]}</script>
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Wire Science &raquo; Feed" href="https://science.thewire.in/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Wire Science &raquo; Comments Feed" href="https://science.thewire.in/comments/feed/" />
+<link rel="preconnect" href="//fonts.gstatic.com/" crossorigin> <script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/science.thewire.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-bigfoot-css' href='https://science.thewire.in/wp-content/plugins/wp-bigfoot/css/bigfoot-default.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://science.thewire.in/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='OrcsNet_from_inditip-frontend-css' href='https://science.thewire.in/wp-content/plugins/orcsnet-from-inditip/assets/css/frontend.css?ver=1.0.12' type='text/css' media='all' />
+<link rel='stylesheet' id='wpfront-notification-bar-css' href='https://science.thewire.in/wp-content/plugins/wpfront-notification-bar/css/wpfront-notification-bar.css?ver=1.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='thb-app-css' href='https://science.thewire.in/wp-content/themes/theissue/assets/css/app.css?ver=1.2.1.5' type='text/css' media='all' />
+<style id='thb-app-inline-css' type='text/css'>
+body,h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6,.thb-lightbox-button .thb-lightbox-text,.post .post-category,.post.thumbnail-seealso .thb-seealso-text,.thb-entry-footer,.smart-list .smart-list-title .smart-list-count,.smart-list .thb-smart-list-content .smart-list-count,.thb-carousel.bottom-arrows .slick-bottom-arrows,.thb-hotspot-container,.thb-pin-it-container .thb-pin-it,label,input[type="text"],input[type="password"],input[type="date"],input[type="datetime"],input[type="email"],input[type="number"],input[type="search"],input[type="tel"],input[type="time"],input[type="url"],textarea,.testimonial-author,.thb-article-sponsors,input[type="submit"],submit,.button,.btn,.btn-block,.btn-text,.post .post-gallery .thb-post-icon,.post .thb-post-bottom,.woocommerce-MyAccount-navigation,.featured_image_credit,.widget .thb-widget-title,.thb-readmore .thb-readmore-title,.widget.thb_widget_instagram .thb-instagram-header,.widget.thb_widget_instagram .thb-instagram-footer,.thb-instagram-row figure .instagram-link,.widget.thb_widget_top_reviews .post .widget-review-title-holder .thb-widget-score,.thb-instagram-row figure,.widget.thb_widget_top_categories .thb-widget-category-link .thb-widget-category-name,.widget.thb_widget_twitter .thb-twitter-user,.widget.thb_widget_twitter .thb-tweet .thb-tweet-time,.widget.thb_widget_twitter .thb-tweet .thb-tweet-actions,.thb-social-links-container,.login-page-form,.woocommerce .woocommerce-form-login .lost_password,.woocommerce-message, .woocommerce-error, .woocommerce-notice, .woocommerce-info,.woocommerce-success,.select2,.woocommerce-MyAccount-content legend,.shop_table,.thb-lightbox-button .thb-lightbox-thumbs,.post.thumbnail-style6 .post-gallery .now-playing,.widget.thb_widget_top_reviews .post .widget-review-title-holder .thb-widget-score strong,.post.thumbnail-style8 .thumb_large_count,.post.thumbnail-style4 .thumb_count,.post .thb-read-more {font-family:Roboto, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}.post-title h1,.post-title h2,.post-title h3,.post-title h4,.post-title h5,.post-title h6 {font-family:Roboto, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}.post-content,.post-excerpt,.thb-article-subscribe p,.thb-article-author p,.commentlist .comment p, .commentlist .review p,.thb-executive-summary,.thb-newsletter-form p,.search-title p,.thb-product-detail .product-information .woocommerce-product-details__short-description,.widget:not(.woocommerce) p,.thb-author-info .thb-author-page-description p,.wpb_text_column,.no-vc,.woocommerce-tabs .wc-tab,.woocommerce-tabs .wc-tab p:not(.stars),.thb-pricing-table .pricing-container .pricing-description,.content404 p,.subfooter p {font-family:Source Serif Pro, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}.thb-full-menu {font-family:Roboto, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}.thb-mobile-menu,.thb-secondary-menu {font-family:Roboto, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}.thb-dropcap-on .post-detail .post-content>p:first-of-type:first-letter {}.widget.style1 .thb-widget-title,.widget.style2 .thb-widget-title {}em {font-family:Roboto, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}label {font-family:Roboto, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}input[type="submit"],submit,.button,.btn,.btn-block,.btn-text {}.article-container .post-content,.article-container .post-content p:not(.wp-block-cover-text) {}.post .post-category {}.post-detail .thb-executive-summary li {}.post .post-excerpt {}.thb-full-menu>li>a:not(.logolink) {}.thb-full-menu li .sub-menu li a {}.thb-mobile-menu>li>a {}.thb-mobile-menu .sub-menu a {}.thb-secondary-menu a {}#mobile-menu .menu-footer {}#mobile-menu .thb-social-links-container .thb-social-link-wrap .thb-social-link .thb-social-icon-container {}.widget .thb-widget-title,.widget.style2 .thb-widget-title{}.footer .widget .thb-widget-title,.footer .widget.style2 .thb-widget-title {}.footer .widget,.footer .widget p {}.subfooter .thb-full-menu>li>a:not(.logolink) {}.subfooter p {}.subfooter .thb-social-links-container.thb-social-horizontal .thb-social-link-wrap .thb-social-icon-container {}#scroll_to_top {}.search-title p {}@media screen and (min-width:1024px) {h1,.h1 {font-family:Roboto, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}}h1,.h1 {font-family:Roboto, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}@media screen and (min-width:1024px) {h2 {font-family:Roboto, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}}h2 {font-family:Roboto, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}@media screen and (min-width:1024px) {h3 {font-family:Roboto, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}}h3 {font-family:Roboto, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}@media screen and (min-width:1024px) {h4 {font-family:Roboto, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}}h4 {font-family:Roboto, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}@media screen and (min-width:1024px) {h5 {font-family:Roboto, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}}h5 {font-family:Roboto, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}h6 {font-family:Roboto, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}h6 {font-family:Roboto, 'BlinkMacSystemFont', -apple-system, 'Roboto', 'Lucida Sans';}a:hover,h1 small, h2 small, h3 small, h4 small, h5 small, h6 small,h1 small a, h2 small a, h3 small a, h4 small a, h5 small a, h6 small a,.secondary-area .thb-follow-holder .sub-menu .subscribe_part .thb-newsletter-form h4,.secondary-area .thb-follow-holder .sub-menu .subscribe_part .thb-newsletter-form .newsletter-form .btn:hover,.thb-full-menu.thb-standard > li.current-menu-item:not(.has-hash) > a,.thb-full-menu > li > a:not(.logolink)[data-filter].active,.thb-dropdown-color-dark .thb-full-menu .sub-menu li a:hover,#mobile-menu.dark .thb-mobile-menu > li > a:hover,#mobile-menu.dark .sub-menu a:hover,#mobile-menu.dark .thb-secondary-menu a:hover,.thb-secondary-menu a:hover,.post .thb-read-more:hover,.post:not(.white-post-content) .thb-post-bottom.sponsored-bottom ul li,.post:not(.white-post-content) .thb-post-bottom .post-share:hover,.thb-dropcap-on .post-detail .post-content > p:first-of-type:first-letter,.post-detail .thb-executive-summary li:before,.thb-readmore p a,input[type="submit"].white:hover,.button.white:hover,.btn.white:hover,input[type="submit"].style2.accent,.button.style2.accent,.btn.style2.accent,.search-title h1 strong,.thb-author-page-meta a:hover,.widget.thb_widget_top_reviews .post .widget-review-title-holder .thb-widget-score strong,.thb-autotype .thb-autotype-entry,.thb_location_container.row .thb_location h5,.thb-page-menu li:hover a, .thb-page-menu li.current_page_item a,.thb-tabs.style3 .vc_tta-panel-heading h4 a:hover,.thb-tabs.style3 .vc_tta-panel-heading h4 a.active,.thb-tabs.style4 .vc_tta-panel-heading h4 a:hover,.thb-tabs.style4 .vc_tta-panel-heading h4 a.active,.thb-iconbox.top.type5 .iconbox-content .thb-read-more,.thb-testimonials.style7 .testimonial-author cite,.thb-testimonials.style7 .testimonial-author span,.thb-article-reactions .row .columns .thb-reaction.active .thb-reaction-count,.thb-article-sponsors .sponsored-by,.thb-cookie-bar .thb-cookie-text a,.thb-pricing-table.style2 .pricing-container .thb_pricing_head .thb-price,.thb-hotspot-container .product-hotspots .product-title .hotspots-buynow,.plyr--full-ui input[type=range],.woocommerce-checkout-payment .wc_payment_methods .wc_payment_method.payment_method_paypal .about_paypal,.has-thb-accent-color,.wp-block-button .wp-block-button__link.has-thb-accent-color {color:#ffffff;}.columns.thb-light-column .thb-newsletter-form .btn:hover,.secondary-area .thb-trending-holder .thb-full-menu li.menu-item-has-children .sub-menu .thb-trending .thb-trending-tabs a.active,.thb-full-menu.thb-line-marker > li > a:before,#mobile-menu.dark .widget.thb_widget_subscribe .btn:hover,.post .thb-read-more:after,.post.style4 .post-gallery:after,.post.style5 .post-inner-content,.post.style13 .post-gallery:after,.smart-list .smart-list-title .smart-list-count,.smart-list.smart-list-v3 .thb-smart-list-nav .arrow:not(.disabled):hover,.thb-custom-checkbox input[type="checkbox"]:checked + label:before,input[type="submit"]:not(.white):not(.grey):not(.style2):not(.white):not(.add_to_cart_button):not(.accent):hover,.button:not(.white):not(.grey):not(.style2):not(.white):not(.add_to_cart_button):not(.accent):hover,.btn:not(.white):not(.grey):not(.style2):not(.white):not(.add_to_cart_button):not(.accent):hover,input[type="submit"].grey:hover,.button.grey:hover,.btn.grey:hover,input[type="submit"].accent, input[type="submit"].checkout,.button.accent,.button.checkout,.btn.accent,.btn.checkout,input[type="submit"].style2.accent:hover,.button.style2.accent:hover,.btn.style2.accent:hover,.btn-text.style3 .circle-btn,.widget.thb_widget_top_categories .thb-widget-category-link:hover .thb-widget-category-name,.thb-progressbar .thb-progress span,.thb-page-menu.style1 li:hover a, .thb-page-menu.style1 li.current_page_item a,.thb-client-row.thb-opacity.with-accent .thb-client:hover,.thb-client-row .style4 .accent-color,.thb-tabs.style1 .vc_tta-panel-heading h4 a:before,.thb-testimonials.style7 .thb-carousel .slick-dots .select,.thb-categorylinks.style2 a:after,.thb-category-card:hover,.thb-hotspot-container .thb-hotspot.pin-accent,.pagination ul .page-numbers.current, .pagination ul .page-numbers:not(.dots):hover,.pagination .nav-links .page-numbers.current,.pagination .nav-links .page-numbers:not(.dots):hover,.woocommerce-pagination ul .page-numbers.current,.woocommerce-pagination ul .page-numbers:not(.dots):hover,.woocommerce-pagination .nav-links .page-numbers.current,.woocommerce-pagination .nav-links .page-numbers:not(.dots):hover,.plyr__control--overlaid,.plyr--video .plyr__control.plyr__tab-focus, .plyr--video .plyr__control:hover, .plyr--video .plyr__control[aria-expanded=true],.badge.onsale,.demo_store,.products .product .product_after_title .button:hover:after,.woocommerce-MyAccount-navigation ul li:hover a, .woocommerce-MyAccount-navigation ul li.is-active a,.has-thb-accent-background-color,.wp-block-button .wp-block-button__link.has-thb-accent-background-color {background-color:#ffffff;}input[type="submit"].accent:hover, input[type="submit"].checkout:hover,.button.accent:hover,.button.checkout:hover,.btn.accent:hover,.btn.checkout:hover {background-color:#e6e6e6;}.post-detail .post-split-title-container,.thb-article-reactions .row .columns .thb-reaction.active .thb-reaction-image,.secondary-area .thb-follow-holder .sub-menu .subscribe_part {background-color:rgba(255,255,255, 0.05);}.post.style6.style6-bg .post-inner-content {background-color:rgba(255,255,255, 0.15);}.thb-lightbox-button:hover {background-color:rgba(255,255,255, 0.05);}.thb-tabs.style3 .vc_tta-panel-heading h4 a:before {background-color:rgba(255,255,255, 0.4);}.secondary-area .thb-trending-holder .thb-full-menu li.menu-item-has-children .sub-menu .thb-trending .thb-trending-tabs a.active,.post .post-title a:hover > span,.post.sticky .post-title a>span,.thb-lightbox-button:hover,.thb-custom-checkbox label:before,input[type="submit"].style2.accent,.button.style2.accent,.btn.style2.accent,.thb-page-menu.style1 li:hover a, .thb-page-menu.style1 li.current_page_item a,.thb-client-row.has-border.thb-opacity.with-accent .thb-client:hover,.thb-iconbox.top.type5,.thb-article-reactions .row .columns .thb-reaction:hover .thb-reaction-image,.thb-article-reactions .row .columns .thb-reaction.active .thb-reaction-image,.pagination ul .page-numbers.current, .pagination ul .page-numbers:not(.dots):hover,.pagination .nav-links .page-numbers.current,.pagination .nav-links .page-numbers:not(.dots):hover,.woocommerce-pagination ul .page-numbers.current,.woocommerce-pagination ul .page-numbers:not(.dots):hover,.woocommerce-pagination .nav-links .page-numbers.current,.woocommerce-pagination .nav-links .page-numbers:not(.dots):hover,.woocommerce-MyAccount-navigation ul li:hover a, .woocommerce-MyAccount-navigation ul li.is-active a {border-color:#ffffff;}.thb-page-menu.style1 li:hover + li a, .thb-page-menu.style1 li.current_page_item + li a,.woocommerce-MyAccount-navigation ul li:hover + li a, .woocommerce-MyAccount-navigation ul li.is-active + li a {border-top-color:#ffffff;}.text-underline-style:after, .post-detail .post-content > p > a:after, .post-detail .post-content>ul:not([class])>li>a:after, .post-detail .post-content>ol:not([class])>li>a:after, .wpb_text_column p > a:after, .smart-list .thb-smart-list-content p > a:after, .post-gallery-content .thb-content-row .columns.image-text p>a:after {border-bottom-color:#ffffff;}.secondary-area .thb-trending-holder .thb-full-menu li.menu-item-has-children .sub-menu .thb-trending .thb-trending-tabs a.active + a {border-left-color:#ffffff;}.header.fixed .thb-reading-indicator .thb-indicator .indicator-hover,.header.fixed .thb-reading-indicator .thb-indicator .indicator-arrow,.commentlist .comment .reply a:hover svg path,.commentlist .review .reply a:hover svg path,.btn-text.style4 .arrow svg:first-child,.thb-iconbox.top.type5 .iconbox-content .thb-read-more svg,.thb-iconbox.top.type5 .iconbox-content .thb-read-more svg .bar,.thb-article-review.style2 .thb-article-figure .thb-average .thb-hexagon path {fill:#ffffff;}@media screen and (-ms-high-contrast:active), (-ms-high-contrast:none) {.header.fixed .thb-reading-indicator:hover .thb-indicator .indicator-hover {fill:#ffffff;}}.header.fixed .thb-reading-indicator .thb-indicator .indicator-fill {stroke:#ffffff;}.thb-tabs.style2 .vc_tta-panel-heading h4 a.active {-moz-box-shadow:inset 0 -3px 0 #ffffff, 0 1px 0 #ffffff;-webkit-box-shadow:inset 0 -3px 0 #ffffff, 0 1px 0 #ffffff;box-shadow:inset 0 -3px 0 #ffffff, 0 1px 0 #ffffff;}.page-id-439210 #wrapper div[role="main"],.postid-439210 #wrapper div[role="main"] {}#mobile-menu {background-color:#b71c1c !important;}.header:not(.fixed):not(.style1) {background-color:#b71c1c !important;}.header.style1 .header-logo-row {background-color:#b71c1c !important;}.header.fixed {background-color:#b71c1c !important;}.header.style1 .header-menu-row,.header.style2 .thb-navbar,.header.style3 .row.menu-row,.header.style5 .header-menu-row,.header.style7 .header-menu-row {background-color:#b71c1c !important;}.thb-full-menu .sub-menu,.thb-dropdown-color-dark .thb-full-menu .sub-menu {background-color:#b71c1c !important;}.footer {background-color:#b71c1c !important;}.subfooter {background-color:#b71c1c !important;}.post-share{display:none !important;}.thb-full-menu > li > a:not(.logolink){font-size:14px;}.text-underline-style, .post-detail .post-content > p > a, .post-detail .post-content > ul:not([class]) > li > a, .post-detail .post-content > ol:not([class]) > li > a, .post-gallery-content .thb-content-row .columns.image-text p > a, .smart-list .thb-smart-list-content p > a, .wpb_text_column p > a, .wpb_text_column ul a, .wpb_text_column ol a{text-decoration:underline !important;text-decoration-color:red !important;text-decoration-style:double !important;display:inline;}ins{font-size:1em !important;font-weight:700 !important;font-family:PT Sans !important;border-bottom:1px solid grey;text-decoration:none;border-top:1px solid grey;padding:10px;width:100%;display:block;}ins a{color:#b71c1c;}.thb-author-page-meta span:nth-child(3){display:none;}.thb-author-page-meta strong{display:none;}p > em > a{text-decoration:underline !important;text-decoration-color:red !important;text-decoration-style:double !important;}.footnotes{display:none;}.footnote-button{background-color:#B71C1C;}
+</style>
+<link rel='stylesheet' id='thb-style-css' href='https://science.thewire.in/wp-content/themes/theissue/style.css?ver=1.2.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='thb-google-fonts-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i%2C900%2C900i%7CSource+Serif+Pro%3A400%2C600%2C700&#038;subset=latin&#038;ver=1.2.1.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://science.thewire.in/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://science.thewire.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://science.thewire.in/wp-content/plugins/orcsnet-from-inditip/assets/js/frontend.min.js?ver=1.0.12'></script>
+<script type='text/javascript' src='https://science.thewire.in/wp-content/plugins/wpfront-notification-bar/jquery-plugins/jquery.c.js?ver=1.4.0'></script>
+<script type='text/javascript' src='https://science.thewire.in/wp-content/plugins/wpfront-notification-bar/js/wpfront-notification-bar.js?ver=1.7.1'></script>
+<link rel='https://api.w.org/' href='https://science.thewire.in/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://science.thewire.in/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://science.thewire.in/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.3.2" />
+<link rel='shortlink' href='https://science.thewire.in/?p=439210' />
+<link rel="alternate" type="application/json+oembed" href="https://science.thewire.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.thewire.in%2Fthe-sciences%2Fconvalescent-plasmas-success-against-covid-19-continues-in-new-study%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://science.thewire.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscience.thewire.in%2Fthe-sciences%2Fconvalescent-plasmas-success-against-covid-19-continues-in-new-study%2F&#038;format=xml" />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
+<style type="text/css">
+body.custom-background #wrapper div[role="main"] { background-color: #ffffff; }
+</style>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-61798895-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-61798895-6');
+</script>
+<link rel="icon" href="https://cdn.thewire.in/wp-content/uploads/2020/02/21164115/17523211_1719789088037512_1911138288122900632_n.png" />
+<link rel=stylesheet href="https://science.thewire.in/science.css?v=3.1">
+</head>
+<body class="post-template-default single single-post postid-439210 single-format-standard thb-dropcap-off fixed-header-on fixed-header-scroll-on thb-dropdown-color-dark right-click-off thb-borders-off thb-pinit-on thb-boxed-off thb-capitalize-off thb-parallax-off thb-single-product-ajax-on thb-article-sidebar-mobile-off wpb-js-composer js-comp-ver-6.1 vc_responsive">
+
+<div id="wrapper" class="thb-page-transition-off">
+
+<div class="click-capture"></div>
+
+
+<nav id="mobile-menu" class="style1 side-panel dark " data-behaviour="thb-default">
+<a class="thb-mobile-close"><div><span></span><span></span></div></a>
+<div class="menubg-placeholder"></div>
+<div class="logo-holder mobilemenu-logo-holder">
+<a href="https://science.thewire.in/" class="logolink" title="The Wire Science">
+<img src="https://cdn.thewire.in/wp-content/uploads/2020/02/20162750/Union.png" class="logoimg logo-dark" alt="The Wire Science" />
+</a>
+</div>
+<div class="custom_scroll side-panel-inner" id="menu-scroll">
+<div class="mobile-menu-top">
+<ul id="menu-top" class="thb-mobile-menu"><li id="menu-item-435509" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-435509"><a href="https://science.thewire.in/category/the-sciences/">The Sciences</a></li>
+<li id="menu-item-435507" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-435507"><a href="https://science.thewire.in/category/health/">Health</a></li>
+<li id="menu-item-435506" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-435506"><a href="https://science.thewire.in/category/environment/">Environment</a></li>
+<li id="menu-item-435508" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-435508"><a href="https://science.thewire.in/category/space/">Space</a></li>
+<li id="menu-item-435510" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-435510"><a href="https://science.thewire.in/category/education/">Education</a></li>
+</ul> </div>
+<div class="mobile-menu-bottom">
+<div class="thb-social-links-container thb-social-horizontal mono-icons">
+<div class="thb-social-link-wrap">
+<a href="https://facebook.com/TheWireScience" target="_blank" class="thb-social-link social-link-facebook">
+<div class="thb-social-label-container">
+<div class="thb-social-icon-container"><i class="thb-icon-facebook"></i></div>
+<div class="thb-social-label">Facebook</div> </div>
+</a>
+</div>
+<div class="thb-social-link-wrap">
+<a href="https://twitter.com/TheWireScience" target="_blank" class="thb-social-link social-link-twitter">
+<div class="thb-social-label-container">
+<div class="thb-social-icon-container"><i class="thb-icon-twitter"></i></div>
+<div class="thb-social-label">Twitter</div> </div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</nav>
+
+
+<header class="header fixed fixed-article header-full-width fixed-header-full-width-on dark-header thb-fixed-shadow-style1">
+<div class="row full-width-row">
+<div class="small-12 columns">
+<div class="thb-navbar">
+<div class="fixed-logo-holder">
+<div class="mobile-toggle-holder">
+<div class="mobile-toggle">
+<span></span><span></span><span></span>
+</div>
+</div>
+<div class="logo-holder fixed-logo-holder">
+<a href="https://science.thewire.in/" class="logolink" title="The Wire Science">
+<img src="https://cdn.thewire.in/wp-content/uploads/2020/02/20162746/Science.png" class="logoimg logo-dark" alt="The Wire Science" />
+</a>
+</div>
+</div>
+<div class="fixed-title-holder">
+<span>Now Reading</span>
+<div class="fixed-article-title">
+<h6 id="page-title">Convalescent Plasma&#8217;s Success Against COVID-19 Continues in New Study</h6>
+</div>
+</div>
+<div class="fixed-article-shares">
+<div class="thb-social-fixed sharing-counts-off">
+ <div class="social-button-holder">
+<a href="https://www.facebook.com/sharer.php?u=https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/" class="social social-facebook">
+<span class="thb-social-icon">
+<i class="thb-icon-facebook"></i>
+</span>
+</a>
+</div>
+<div class="social-button-holder">
+<a href="https://twitter.com/share?text=Convalescent%20Plasma&#8217;s%20Success%20Against%20COVID-19%20Continues%20in%20New%20Study&#038;via=TheWireScience&#038;url=https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/" class="social social-twitter">
+<span class="thb-social-icon">
+<i class="thb-icon-twitter"></i>
+</span>
+</a>
+</div>
+<div class="social-button-holder">
+<a href="https://wa.me/?text=Convalescent%20Plasma&#8217;s%20Success%20Against%20COVID-19%20Continues%20in%20New%20Study%20https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/" class="social social-whatsapp" data-action="share/whatsapp/share">
+<span class="thb-social-icon">
+<i class="thb-icon-whatsapp"></i>
+</span>
+</a>
+</div>
+<div class="social-button-holder">
+<a href="https://reddit.com/submit?url=https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/" class="social social-reddit">
+<span class="thb-social-icon">
+<i class="thb-icon-reddit"></i>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+<div class="mobile-header-holder">
+<header class="header header-mobile header-mobile-style1 dark-header">
+<div class="row">
+<div class="small-3 columns">
+<div class="mobile-toggle-holder">
+<div class="mobile-toggle">
+<span></span><span></span><span></span>
+</div>
+</div>
+</div>
+<div class="small-6 columns">
+<div class="logo-holder mobile-logo-holder">
+<a href="https://science.thewire.in/" class="logolink" title="The Wire Science">
+<img src="https://cdn.thewire.in/wp-content/uploads/2020/02/20162750/Union.png" class="logoimg logo-dark" alt="The Wire Science" />
+</a>
+</div>
+</div>
+<div class="small-3 columns">
+<div class="secondary-area">
+<div class="thb-search-holder">
+<svg version="1.1" class="thb-search-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 14 14" enable-background="new 0 0 14 14" xml:space="preserve">
+<path d="M13.8,12.7l-3-3c0.8-1,1.3-2.3,1.3-3.8c0-3.3-2.7-6-6.1-6C2.7,0,0,2.7,0,6c0,3.3,2.7,6,6.1,6c1.4,0,2.6-0.5,3.6-1.2l3,3
+			c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2C14.1,13.5,14.1,13,13.8,12.7z M1.5,6c0-2.5,2-4.5,4.5-4.5c2.5,0,4.5,2,4.5,4.5
+			c0,2.5-2,4.5-4.5,4.5C3.5,10.5,1.5,8.5,1.5,6z" />
+</svg>
+</div>
+</div>
+</div>
+</div>
+</header>
+</div>
+
+<header class="header style1 thb-main-header dark-header">
+<div class="header-logo-row">
+<div class="row align-middle">
+<div class="small-4 columns">
+</div>
+<div class="small-4 columns">
+<div class="logo-holder">
+<a href="https://science.thewire.in/" class="logolink" title="The Wire Science">
+<img src="https://cdn.thewire.in/wp-content/uploads/2020/02/20162750/Union.png" class="logoimg logo-dark" alt="The Wire Science" />
+</a>
+</div>
+</div>
+<div class="small-4 columns">
+</div>
+</div>
+</div>
+<div class="header-menu-row">
+<div class="row">
+<div class="small-12 columns">
+<div class="thb-navbar">
+<div class="mobile-toggle-holder">
+<div class="mobile-toggle">
+<span></span><span></span><span></span>
+</div>
+</div>
+
+<nav class="full-menu">
+<ul id="menu-top-1" class="thb-full-menu thb-standard"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-435509"><a href="https://science.thewire.in/category/the-sciences/"><span>The Sciences</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-435507"><a href="https://science.thewire.in/category/health/"><span>Health</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-435506"><a href="https://science.thewire.in/category/environment/"><span>Environment</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-435508"><a href="https://science.thewire.in/category/space/"><span>Space</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-435510"><a href="https://science.thewire.in/category/education/"><span>Education</span></a></li>
+</ul></nav>
+ <div class="secondary-area">
+<div class="thb-search-holder">
+<svg version="1.1" class="thb-search-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 14 14" enable-background="new 0 0 14 14" xml:space="preserve">
+<path d="M13.8,12.7l-3-3c0.8-1,1.3-2.3,1.3-3.8c0-3.3-2.7-6-6.1-6C2.7,0,0,2.7,0,6c0,3.3,2.7,6,6.1,6c1.4,0,2.6-0.5,3.6-1.2l3,3
+			c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2C14.1,13.5,14.1,13,13.8,12.7z M1.5,6c0-2.5,2-4.5,4.5-4.5c2.5,0,4.5,2,4.5,4.5
+			c0,2.5-2,4.5-4.5,4.5C3.5,10.5,1.5,8.5,1.5,6z" />
+</svg>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+<div role="main">
+<script>
+
+   var isMobile = {
+    Android: function() {
+        return navigator.userAgent.match(/Android/i);
+    },
+    BlackBerry: function() {
+        return navigator.userAgent.match(/BlackBerry/i);
+    },
+    iOS: function() {
+        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+    },
+    Opera: function() {
+        return navigator.userAgent.match(/Opera Mini/i);
+    },
+    Windows: function() {
+        return navigator.userAgent.match(/IEMobile/i) || navigator.userAgent.match(/WPDesktop/i);
+    },
+    any: function() {
+        return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+    }
+};
+jQuery(document).ready(function($){
+	if( isMobile.any()){
+		$(".thb-post-date" ).append(' <br/><br/><br/> <aside class="post-category post-detail-category"><a href="//science.thewire.in/author/sukanya-charuchandra/">Sukanya Charuchandra</a> </aside>');
+	}
+
+$(".photo").attr('src','https://secure.gravatar.com/avatar/2ed7799e5212c061f9d082b629872a5c?s=312&d=mm&r=g');
+$(".photo").attr('srcset','https://secure.gravatar.com/avatar/2ed7799e5212c061f9d082b629872a5c?s=312&d=mm&r=g');
+});
+	</script>
+<div id="infinite-article" data-infinite="off" data-security="6046fc05cb">
+<div class="post-detail-row has-article-padding">
+<div class="row">
+<div class="small-12 columns">
+<article itemscope itemtype="http://schema.org/Article" class="post post-detail post-detail-style4 post-439210 type-post status-publish format-standard has-post-thumbnail hentry category-health category-the-sciences tag-breaking-headlines-today tag-coronavirus-vaccine tag-covid-19 tag-editorpicks2 tag-featured tag-india-coronavirus-lockdown tag-latest-news tag-new-coronavirus tag-novel-coronavirus tag-spotlight tag-top-news thb-post-share-style1" id="post-439210" data-id="439210" data-url="https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/">
+<div class="post-title-container">
+<aside class="post-category post-detail-category">
+<a href="https://science.thewire.in/category/health/" rel="category tag">Health</a><i>, </i><a href="https://science.thewire.in/category/the-sciences/" rel="category tag">The Sciences</a> </aside>
+<header class="post-title entry-header">
+<h1 class="entry-title" itemprop="headline"><a href="https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/"><span>Convalescent Plasma&#8217;s Success Against COVID-19 Continues in New Study</span></a></h1>
+</header>
+<div class="thb-post-title-bottom">
+<div class="thb-post-title-inline-author">
+<div class="thb-post-date">
+26/04/2020 </div>
+</div>
+</div>
+</div>
+<div class="article-container">
+<div class="post-content-wrapper">
+<div class="thb-article-featured-image " data-override="off">
+<img width="1600" height="900" src="https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920-20x11.jpg" class="attachment-theissue-full-x2 size-theissue-full-x2 thb-lazyload lazyload wp-post-image" alt="" sizes="(max-width: 1600px) 100vw, 1600px" data-src="https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920-1600x900.jpg" data-sizes="auto" data-srcset="https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920-1600x900.jpg 1600w, https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920-300x169.jpg 300w, https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920-1536x864.jpg 1536w, https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920-370x208.jpg 370w, https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920-800x450.jpg 800w, https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920-20x11.jpg 20w, https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920-185x104.jpg 185w, https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920-740x416.jpg 740w, https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920-1110x624.jpg 1110w, https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920-400x225.jpg 400w, https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920-85x48.jpg 85w, https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920.jpg 1920w" /> </div>
+<div class="post-share-container">
+<div class="thb-fixed-container">
+<div class="thb-fixed-top">
+<div class="thb-article-author">
+<img alt='' src='https://secure.gravatar.com/avatar/4454f5fda7599bfe281c82f590c006c2?s=156&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4454f5fda7599bfe281c82f590c006c2?s=312&#038;d=mm&#038;r=g 2x' class='avatar avatar-156 photo lazyload' height='156' width='156' /> <div class="author-content">
+<a href="https://science.thewire.in/author/scharuchandra/" rel="author">Sukanya Charuchandra</a>
+<p></p>
+</div>
+</div>
+<div class="thb-fixed-shares-container">
+<div class="thb-fixed sticky-post-shares">
+<div class="thb-social-top style1 sharing-counts-off">
+<div class="thb-social-top-buttons">
+<div class="social-button-holder">
+<a href="https://www.facebook.com/sharer.php?u=https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/" class="social social-facebook">
+<span class="thb-social-icon">
+<i class="thb-icon-facebook"></i>
+</span>
+</a>
+</div>
+<div class="social-button-holder">
+<a href="https://twitter.com/share?text=Convalescent%20Plasma&#8217;s%20Success%20Against%20COVID-19%20Continues%20in%20New%20Study&#038;via=TheWireScience&#038;url=https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/" class="social social-twitter">
+<span class="thb-social-icon">
+<i class="thb-icon-twitter"></i>
+</span>
+</a>
+</div>
+<div class="social-button-holder">
+<a href="https://wa.me/?text=Convalescent%20Plasma&#8217;s%20Success%20Against%20COVID-19%20Continues%20in%20New%20Study%20https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/" class="social social-whatsapp" data-action="share/whatsapp/share">
+<span class="thb-social-icon">
+<i class="thb-icon-whatsapp"></i>
+</span>
+</a>
+</div>
+<div class="social-button-holder">
+<a href="https://reddit.com/submit?url=https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/" class="social social-reddit">
+<span class="thb-social-icon">
+<i class="thb-icon-reddit"></i>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thb-fixed-bottom">
+<div class="thb-fixed">
+<aside class="thb-read-next">
+<h6 class="thb-read-next-title">Read Next</h6>
+<div class="post read-next-post">
+<figure class="post-gallery">
+<a href="https://science.thewire.in/the-sciences/covid-19-democracy-should-extend-to-how-we-build-our-technologies-as-well/"><img width="180" height="180" src="https://cdn.thewire.in/wp-content/uploads/2020/04/25134806/laboratory-test-tubes-22805491-20x20.jpg" class="attachment-theissue-thumbnail-x2 size-theissue-thumbnail-x2 thb-lazyload lazyload wp-post-image" alt="" sizes="(max-width: 180px) 100vw, 180px" data-src="https://cdn.thewire.in/wp-content/uploads/2020/04/25134806/laboratory-test-tubes-22805491-180x180.jpg" data-sizes="auto" data-srcset="https://cdn.thewire.in/wp-content/uploads/2020/04/25134806/laboratory-test-tubes-22805491-180x180.jpg 180w, https://cdn.thewire.in/wp-content/uploads/2020/04/25134806/laboratory-test-tubes-22805491-150x150.jpg 150w, https://cdn.thewire.in/wp-content/uploads/2020/04/25134806/laboratory-test-tubes-22805491-90x90.jpg 90w, https://cdn.thewire.in/wp-content/uploads/2020/04/25134806/laboratory-test-tubes-22805491-270x270.jpg 270w, https://cdn.thewire.in/wp-content/uploads/2020/04/25134806/laboratory-test-tubes-22805491-20x19.jpg 20w" /></a>
+</figure>
+<div class="post-title"><h5><a href="https://science.thewire.in/the-sciences/covid-19-democracy-should-extend-to-how-we-build-our-technologies-as-well/" title="Convalescent Plasma&#8217;s Success Against COVID-19 Continues in New Study"><span>COVID-19: Democracy Should Extend to How We Build Our Technologies as Well</span></a></h5></div> </a>
+</aside>
+</div>
+</div>
+</div>
+<div class="post-content-container">
+<div class="post-content entry-content" itemprop="articleBody">
+<p><em>An artist&#8217;s impression of red blood cells flowing through a vein. Image: Narupon Promvichai/pixabay.</em></p>
+<p>Researchers in China have been experimenting with using blood plasma from patients who have recovered from COVID-19 as a possible way to treat severely ill COVID-19 patients. In a <a href="https://www.pnas.org/content/early/2020/04/02/2004168117/tab-article-info">new study</a> published in the Proceedings of the National Academy of Science, clinicians reported that convalescent plasma therapy improved the outcomes of ten patients with severe cases of COVID-19.</p>
+<p>&#8220;It&#8217;s consistent with what I&#8217;m hearing from other places,&#8221; Michael Joyner, a physiologist at Mayo Clinic who is leading a <a href="https://clinicaltrials.gov/ct2/show/NCT04338360">convalescent plasma clinical trial</a> in the US and wasn&#8217;t involved in the study from China, told <em>The Wire Science</em>.</p>
+<p>In convalescent plasma therapy, a dose of antibody-containing plasma obtained from the blood of recovered individuals is transferred to persons with the disease in order to treat it. It&#8217;s an experimental therapy going back a hundred years, having found use – to different efficacies – in the treatment of the Spanish flu as well as, more recently, the 2009 H1N1 influenza, SARS and MERS viruses.</p>
+<p>Convalescent plasma could shorten the duration of a COVID-19 illness or render it less dangerous. The therapy can be administered at different stages: after exposure to a known carrier but before infection to boost immunity, and to critically and non-critically ill patients to improve their outcomes.</p>
+<p>At the moment, while researchers are exploring a number of experimental therapies and drugs, regulatory bodies have not approved any specific antiviral agents to treat COVID-19. Convalescent plasma is one of three immune-based options that may be able to tackle COVID-19 (the other two are hyperimmune serums and intravenous immunoglobulin products, which comprise antibodies against other human coronaviruses that may respond against the SARS-CoV-2 virus as well). However, convalescent plasma is easier to give even at the level of a single institution compared to the other options, which may require assistance from pharmaceutical companies.</p>
+<p>&#8220;This is the second encouraging case series in critically ill patients from China, but we definitively need phase 3 randomised controlled trials to assess the clinical benefit of convalescent plasma therapy,&#8221; Daniele Focosi, a transfusion specialist at Pisa University Hospital, Italy, who is involved in a <a href="https://www.insalutenews.it/in-salute/covid-19-la-cura-dal-plasma-dei-pazienti-guariti-pisa-capofila-dello-studio-multicentrico-tsunami-study/">multi-centre clinical trial for convalescent plasma</a> and was not associated with the Chinese study, told The Wire Science.</p>
+<p><a href="https://jamanetwork.com/journals/jama/fullarticle/2763983">Yet another study</a> published in the Journal of the American Medical Association reported that five patients who were receiving mechanical ventilation and were then administered convalescent plasma therapy had recovered from the disease. Compared to phase 3 clinical trials, phase 2 trials are conducted in smaller groups to check for efficacy and safety, and have already proven during &#8220;previous pandemics that convalescent plasma is safe and partially effective.&#8221;</p>
+<p>In the newest study, the researchers recruited ten patients – six male, four female – at three hospitals in China. At a median time of 16.5 days from the beginning of their respective infections, the patients were administered 200 ml of convalescent plasma obtained from former COVID-19 patients. In addition, all patients also received antiviral agents and supportive care.</p>
+<p>The donors were tasked with supplying plasma four days after their discharge from hospital and the collected blood product was treated to ensure the absence of any virus. The very high titres of antibodies needed for convalescent plasma therapy can only be drawn from patients that have had a bad case of the condition soon after their discharge, Focosi added.</p>
+<p>Within three days, the patients all showed robust improvements across several clinical symptoms, including cough, fever, shortness of breath and chest pain. Eight of the ten patients had been receiving some form of ventilation or oxygenation, and showed lower dependence post-transfusion. A number of immunological and other parameters also improved following transfusion.</p>
+<p>Within seven days, radiological scans showed that lung damage was reduced to different extents in the patients. Moreover, the viral load in seven patients who had had viraemia, which is the presence of virus particles in blood, was imperceptible seven days after the transfusion even as the researchers recorded high levels of antibodies. Except for one patient, who developed a facial red spot, none displayed any adverse side effects either.</p>
+<p>The team did compare their results in these 10 patients to a control group of 10 patients who had been matched for gender, age and the severity of their COVID-19 infection, but the antiviral and supportive care administered was not necessarily similar across patients or even within each of the two groups.</p>
+<p>&#8220;In this sort of brief report, all you can try to do is match the controls you have to the cases,&#8221; Joyner said. &#8220;When there are larger numbers [of participants], more extensive case control studies with better matching will be available and more insights about recovery will be available.&#8221;</p>
+<p>While all patients showed significant recovery across the board, with three even being discharged (while the remaining seven were well on their way to full recoveries), researchers agreed that more extensive randomised controlled trials are needed to assess the efficacy of the therapy, and pave its way for widespread use. Such trials could also help lock down the best dosage and time of transfusion.</p>
+<p>Currently, there are more than 20 clinical trials using convalescent plasma being conducted worldwide.</p>
+<p><em><a href="https://thewire.in/author/scharuchandra">Sukanya Charuchandra</a> has written for </em>The Scientist<em>, </em>Johns Hopkins Magazine<em> and </em>Firstpost<em>. Her writing interests feature biology, medicine and archaeology.</em></p>
+<iframe id="5ea6bd401827d" src="https://plugin.orcsnet.com/?o=the-wire&wl=https%3A%2F%2Fscience.thewire.in%2Fthe-sciences%2Fconvalescent-plasmas-success-against-covid-19-continues-in-new-study%2F&pv=1.0.12&ifid=5ea6bd401827d" style="border:none;border-radius:0px;margin:0px;width:100%;"></iframe> </div>
+<div class="thb-social-fixed sharing-counts-off">
+<div class="social-button-holder">
+<a href="https://www.facebook.com/sharer.php?u=https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/" class="social social-facebook">
+<span class="thb-social-icon">
+<i class="thb-icon-facebook"></i>
+</span>
+</a>
+</div>
+<div class="social-button-holder">
+<a href="https://twitter.com/share?text=Convalescent%20Plasma&#8217;s%20Success%20Against%20COVID-19%20Continues%20in%20New%20Study&#038;via=TheWireScience&#038;url=https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/" class="social social-twitter">
+<span class="thb-social-icon">
+<i class="thb-icon-twitter"></i>
+</span>
+</a>
+</div>
+<div class="social-button-holder">
+<a href="https://wa.me/?text=Convalescent%20Plasma&#8217;s%20Success%20Against%20COVID-19%20Continues%20in%20New%20Study%20https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/" class="social social-whatsapp" data-action="share/whatsapp/share">
+<span class="thb-social-icon">
+<i class="thb-icon-whatsapp"></i>
+</span>
+</a>
+</div>
+<div class="social-button-holder">
+<a href="https://reddit.com/submit?url=https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/" class="social social-reddit">
+<span class="thb-social-icon">
+<i class="thb-icon-reddit"></i>
+</span>
+</a>
+</div>
+</div>
+<aside class="post-bottom-meta hide">
+<meta itemprop="mainEntityOfPage" content="https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/">
+<span class="vcard author" itemprop="author" content="Sukanya Charuchandra">
+<span class="fn">Sukanya Charuchandra</span>
+</span>
+<time class="time publised entry-date" datetime="2020-04-26T14:59:24+05:30" itemprop="datePublished" content="2020-04-26T14:59:24+05:30">26/04/2020</time>
+<meta itemprop="dateModified" class="updated" content="2020-04-25T11:07:14+05:30">
+<span itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+<meta itemprop="name" content="The Wire Science">
+<span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+<meta itemprop="url" content="https://cdn.thewire.in/wp-content/uploads/2020/02/20162750/Union.png">
+</span>
+</span>
+<span itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop="url" content="https://cdn.thewire.in/wp-content/uploads/2020/04/24192008/red-blood-cell-4256710_1920.jpg">
+<meta itemprop="width" content="1920" />
+<meta itemprop="height" content="1080" />
+</span>
+</aside>
+<div class="thb-social-footer style1 sharing-counts-off">
+<div class="thb-social-footer-buttons">
+<div class="social-button-holder">
+<a href="https://www.facebook.com/sharer.php?u=https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/" class="social social-facebook">
+<span class="thb-social-icon">
+<i class="thb-icon-facebook"></i>
+<span class="thb-social-text">Share</span>
+</span>
+</a>
+</div>
+<div class="social-button-holder">
+<a href="https://twitter.com/share?text=Convalescent%20Plasma&#8217;s%20Success%20Against%20COVID-19%20Continues%20in%20New%20Study&#038;via=TheWireScience&#038;url=https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/" class="social social-twitter">
+<span class="thb-social-icon">
+<i class="thb-icon-twitter"></i>
+<span class="thb-social-text">Tweet</span>
+</span>
+</a>
+</div>
+<div class="social-button-holder">
+<a href="https://wa.me/?text=Convalescent%20Plasma&#8217;s%20Success%20Against%20COVID-19%20Continues%20in%20New%20Study%20https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/" class="social social-whatsapp" data-action="share/whatsapp/share">
+<span class="thb-social-icon">
+<i class="thb-icon-whatsapp"></i>
+<span class="thb-social-text">Share</span>
+</span>
+</a>
+</div>
+<div class="social-button-holder">
+<a href="https://reddit.com/submit?url=https://science.thewire.in/the-sciences/convalescent-plasmas-success-against-covid-19-continues-in-new-study/" class="social social-reddit">
+<span class="thb-social-icon">
+<i class="thb-icon-reddit"></i>
+<span class="thb-social-text">Share</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<aside class="sidebar">
+<div id="thb_social_links_widget-2" class="widget style2 thb_widget_social_links"><div class="thb-widget-title">Follow us</div> <div class="thb-social-links-container thb-social-vertical circle-color">
+<div class="thb-social-link-wrap">
+<a href="https://facebook.com/TheWireScience" target="_blank" class="thb-social-link social-link-facebook">
+<div class="thb-social-label-container">
+<div class="thb-social-icon-container"><i class="thb-icon-facebook"></i></div>
+<div class="thb-social-label">Facebook</div> </div>
+</a>
+</div>
+<div class="thb-social-link-wrap">
+<a href="https://twitter.com/TheWireScience" target="_blank" class="thb-social-link social-link-twitter">
+<div class="thb-social-label-container">
+<div class="thb-social-icon-container"><i class="thb-icon-twitter"></i></div>
+<div class="thb-social-label">Twitter</div> </div>
+</a>
+</div>
+</div>
+</div><div id="thb_twitter_widget-2" class="widget style2 thb_widget_twitter"> <div class="thb-twitter-header">
+<a href="https://twitter.com/TheWireScience" target="_blank">
+<img src="https://pbs.twimg.com/profile_banners/846292591385575424/1587355340" alt="The Wire Science" class="thb_twitter_header_bg" />
+<img src="https://pbs.twimg.com/profile_images/852541703957303296/iUcPnpWS_normal.jpg" alt="The Wire Science" class="thb_twitter_avatar" />
+</a>
+</div>
+<div class="thb-twitter-content">
+<div class="thb-twitter-user">
+<span class="thb-twitter-username">The Wire Science</span><span class="thb-twitter-screenname">@TheWireScience</span>
+<div class="thb-twitter-usermeta">
+<span>3 Following</span>
+<span>10.9K Followers</span>
+</div>
+</div>
+<div class="thb-twitter-tweets">
+<div class="thb-tweet">
+<i class="thb-icon-twitter"></i>
+<div class="thb-tweet-text">We seem to be reasonably comfortable with questioning politicians because we have a vibrant tradition of political… <a target="_blank" href="https://t.co/fyUSKKGEU4">https://t.co/fyUSKKGEU4</a></div>
+<div class="thb-tweet-time"><a href="https://twitter.com/TheWireScience/status/1254719438852677632" target="_blank">6 hours ago</a></div>
+<div class="thb-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1254719438852677632" class="social"><i class="thb-icon-comment"></i></a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1254719438852677632" class="social"><svg version="1.1" class="thb-icon-retweet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13px" height="9px" viewBox="0 0 13 9" enable-background="new 0 0 13 9" xml:space="preserve">
+<path d="M4.5,3C4.371,3,4.244,2.951,4.146,2.854L2.5,1.207L0.854,2.854c-0.196,0.195-0.512,0.195-0.707,0
+	c-0.196-0.195-0.196-0.512,0-0.707l2-2c0.195-0.195,0.512-0.195,0.707,0l2,2c0.195,0.195,0.195,0.512,0,0.707
+	C4.756,2.951,4.628,3,4.5,3L4.5,3z M10.5,9c-0.128,0-0.256-0.049-0.354-0.147l-2-1.999c-0.195-0.195-0.195-0.511,0-0.707
+	c0.195-0.195,0.512-0.195,0.707,0L10.5,7.793l1.646-1.646c0.195-0.195,0.512-0.195,0.707,0c0.195,0.196,0.195,0.512,0,0.707
+	l-2,1.999C10.756,8.951,10.628,9,10.5,9L10.5,9z M7,9H3.002C2.449,9,2,8.551,2,7.998V0.5C2,0.225,2.224,0,2.5,0
+	C2.775,0,3,0.225,3,0.5v7.498L7,8c0.275,0,0.5,0.223,0.5,0.5S7.275,9,7,9z M10.5,9C10.223,9,10,8.777,10,8.5V1.002L7,1
+	C6.724,1,6.5,0.776,6.5,0.5C6.5,0.225,6.724,0,7,0h2.998C10.551,0,11,0.449,11,1.002V8.5C11,8.777,10.776,9,10.5,9z" />
+</svg>
+</a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1254719438852677632" class="social"><i class="thb-icon-favorite"></i><span class="tweet-count">1</span></a>
+</div>
+</div>
+<div class="thb-tweet">
+<i class="thb-icon-twitter"></i>
+<div class="thb-tweet-text">The lockdown to beat the novel coronavirus epidemic has placed India’s TB patients in more danger as they're both a… <a target="_blank" href="https://t.co/8Fcecyb11l">https://t.co/8Fcecyb11l</a></div>
+<div class="thb-tweet-time"><a href="https://twitter.com/TheWireScience/status/1254425002251878410" target="_blank">1 day ago</a></div>
+<div class="thb-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1254425002251878410" class="social"><i class="thb-icon-comment"></i></a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1254425002251878410" class="social"><svg version="1.1" class="thb-icon-retweet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13px" height="9px" viewBox="0 0 13 9" enable-background="new 0 0 13 9" xml:space="preserve">
+<path d="M4.5,3C4.371,3,4.244,2.951,4.146,2.854L2.5,1.207L0.854,2.854c-0.196,0.195-0.512,0.195-0.707,0
+	c-0.196-0.195-0.196-0.512,0-0.707l2-2c0.195-0.195,0.512-0.195,0.707,0l2,2c0.195,0.195,0.195,0.512,0,0.707
+	C4.756,2.951,4.628,3,4.5,3L4.5,3z M10.5,9c-0.128,0-0.256-0.049-0.354-0.147l-2-1.999c-0.195-0.195-0.195-0.511,0-0.707
+	c0.195-0.195,0.512-0.195,0.707,0L10.5,7.793l1.646-1.646c0.195-0.195,0.512-0.195,0.707,0c0.195,0.196,0.195,0.512,0,0.707
+	l-2,1.999C10.756,8.951,10.628,9,10.5,9L10.5,9z M7,9H3.002C2.449,9,2,8.551,2,7.998V0.5C2,0.225,2.224,0,2.5,0
+	C2.775,0,3,0.225,3,0.5v7.498L7,8c0.275,0,0.5,0.223,0.5,0.5S7.275,9,7,9z M10.5,9C10.223,9,10,8.777,10,8.5V1.002L7,1
+	C6.724,1,6.5,0.776,6.5,0.5C6.5,0.225,6.724,0,7,0h2.998C10.551,0,11,0.449,11,1.002V8.5C11,8.777,10.776,9,10.5,9z" />
+</svg>
+<span class="tweet-count">3</span></a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1254425002251878410" class="social"><i class="thb-icon-favorite"></i><span class="tweet-count">6</span></a>
+</div>
+</div>
+<div class="thb-tweet">
+<i class="thb-icon-twitter"></i>
+<div class="thb-tweet-text">ICYMI: Ronald Ross was born in Almora, Uttarakhand. He studied in London and returned to India to work from 1882 to… <a target="_blank" href="https://t.co/oHS9lBBPOO">https://t.co/oHS9lBBPOO</a></div>
+<div class="thb-tweet-time"><a href="https://twitter.com/TheWireScience/status/1254417455763636227" target="_blank">1 day ago</a></div>
+<div class="thb-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1254417455763636227" class="social"><i class="thb-icon-comment"></i></a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1254417455763636227" class="social"><svg version="1.1" class="thb-icon-retweet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13px" height="9px" viewBox="0 0 13 9" enable-background="new 0 0 13 9" xml:space="preserve">
+<path d="M4.5,3C4.371,3,4.244,2.951,4.146,2.854L2.5,1.207L0.854,2.854c-0.196,0.195-0.512,0.195-0.707,0
+	c-0.196-0.195-0.196-0.512,0-0.707l2-2c0.195-0.195,0.512-0.195,0.707,0l2,2c0.195,0.195,0.195,0.512,0,0.707
+	C4.756,2.951,4.628,3,4.5,3L4.5,3z M10.5,9c-0.128,0-0.256-0.049-0.354-0.147l-2-1.999c-0.195-0.195-0.195-0.511,0-0.707
+	c0.195-0.195,0.512-0.195,0.707,0L10.5,7.793l1.646-1.646c0.195-0.195,0.512-0.195,0.707,0c0.195,0.196,0.195,0.512,0,0.707
+	l-2,1.999C10.756,8.951,10.628,9,10.5,9L10.5,9z M7,9H3.002C2.449,9,2,8.551,2,7.998V0.5C2,0.225,2.224,0,2.5,0
+	C2.775,0,3,0.225,3,0.5v7.498L7,8c0.275,0,0.5,0.223,0.5,0.5S7.275,9,7,9z M10.5,9C10.223,9,10,8.777,10,8.5V1.002L7,1
+	C6.724,1,6.5,0.776,6.5,0.5C6.5,0.225,6.724,0,7,0h2.998C10.551,0,11,0.449,11,1.002V8.5C11,8.777,10.776,9,10.5,9z" />
+</svg>
+</a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1254417455763636227" class="social"><i class="thb-icon-favorite"></i><span class="tweet-count">5</span></a>
+</div>
+</div>
+<div class="thb-tweet">
+<i class="thb-icon-twitter"></i>
+<div class="thb-tweet-text">Governments and health officials have told people to try to work from home using remote communication tools. But fo… <a target="_blank" href="https://t.co/Pkto8RDXaJ">https://t.co/Pkto8RDXaJ</a></div>
+<div class="thb-tweet-time"><a href="https://twitter.com/TheWireScience/status/1254411174512394241" target="_blank">1 day ago</a></div>
+<div class="thb-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1254411174512394241" class="social"><i class="thb-icon-comment"></i></a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1254411174512394241" class="social"><svg version="1.1" class="thb-icon-retweet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13px" height="9px" viewBox="0 0 13 9" enable-background="new 0 0 13 9" xml:space="preserve">
+<path d="M4.5,3C4.371,3,4.244,2.951,4.146,2.854L2.5,1.207L0.854,2.854c-0.196,0.195-0.512,0.195-0.707,0
+	c-0.196-0.195-0.196-0.512,0-0.707l2-2c0.195-0.195,0.512-0.195,0.707,0l2,2c0.195,0.195,0.195,0.512,0,0.707
+	C4.756,2.951,4.628,3,4.5,3L4.5,3z M10.5,9c-0.128,0-0.256-0.049-0.354-0.147l-2-1.999c-0.195-0.195-0.195-0.511,0-0.707
+	c0.195-0.195,0.512-0.195,0.707,0L10.5,7.793l1.646-1.646c0.195-0.195,0.512-0.195,0.707,0c0.195,0.196,0.195,0.512,0,0.707
+	l-2,1.999C10.756,8.951,10.628,9,10.5,9L10.5,9z M7,9H3.002C2.449,9,2,8.551,2,7.998V0.5C2,0.225,2.224,0,2.5,0
+	C2.775,0,3,0.225,3,0.5v7.498L7,8c0.275,0,0.5,0.223,0.5,0.5S7.275,9,7,9z M10.5,9C10.223,9,10,8.777,10,8.5V1.002L7,1
+	C6.724,1,6.5,0.776,6.5,0.5C6.5,0.225,6.724,0,7,0h2.998C10.551,0,11,0.449,11,1.002V8.5C11,8.777,10.776,9,10.5,9z" />
+</svg>
+<span class="tweet-count">2</span></a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1254411174512394241" class="social"><i class="thb-icon-favorite"></i><span class="tweet-count">2</span></a>
+</div>
+</div>
+<div class="thb-tweet">
+<i class="thb-icon-twitter"></i>
+<div class="thb-tweet-text">Jawaharlal Nehru spent 14 months in Dehradun gaol. Forlorn under the moth-eaten rafters of his cell, he became fami… <a target="_blank" href="https://t.co/HpKZ7iwmVX">https://t.co/HpKZ7iwmVX</a></div>
+<div class="thb-tweet-time"><a href="https://twitter.com/TheWireScience/status/1254387303868399616" target="_blank">1 day ago</a></div>
+<div class="thb-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1254387303868399616" class="social"><i class="thb-icon-comment"></i></a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1254387303868399616" class="social"><svg version="1.1" class="thb-icon-retweet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13px" height="9px" viewBox="0 0 13 9" enable-background="new 0 0 13 9" xml:space="preserve">
+<path d="M4.5,3C4.371,3,4.244,2.951,4.146,2.854L2.5,1.207L0.854,2.854c-0.196,0.195-0.512,0.195-0.707,0
+	c-0.196-0.195-0.196-0.512,0-0.707l2-2c0.195-0.195,0.512-0.195,0.707,0l2,2c0.195,0.195,0.195,0.512,0,0.707
+	C4.756,2.951,4.628,3,4.5,3L4.5,3z M10.5,9c-0.128,0-0.256-0.049-0.354-0.147l-2-1.999c-0.195-0.195-0.195-0.511,0-0.707
+	c0.195-0.195,0.512-0.195,0.707,0L10.5,7.793l1.646-1.646c0.195-0.195,0.512-0.195,0.707,0c0.195,0.196,0.195,0.512,0,0.707
+	l-2,1.999C10.756,8.951,10.628,9,10.5,9L10.5,9z M7,9H3.002C2.449,9,2,8.551,2,7.998V0.5C2,0.225,2.224,0,2.5,0
+	C2.775,0,3,0.225,3,0.5v7.498L7,8c0.275,0,0.5,0.223,0.5,0.5S7.275,9,7,9z M10.5,9C10.223,9,10,8.777,10,8.5V1.002L7,1
+	C6.724,1,6.5,0.776,6.5,0.5C6.5,0.225,6.724,0,7,0h2.998C10.551,0,11,0.449,11,1.002V8.5C11,8.777,10.776,9,10.5,9z" />
+</svg>
+<span class="tweet-count">1</span></a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1254387303868399616" class="social"><i class="thb-icon-favorite"></i></a>
+</div>
+</div>
+<div class="thb-tweet">
+<i class="thb-icon-twitter"></i>
+<div class="thb-tweet-text">To donate convalescent plasma, a donor must have recovered from the infection and have been free of it or any sympt… <a target="_blank" href="https://t.co/MaVrO7kZyB">https://t.co/MaVrO7kZyB</a></div>
+<div class="thb-tweet-time"><a href="https://twitter.com/TheWireScience/status/1254365106361847810" target="_blank">1 day ago</a></div>
+<div class="thb-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1254365106361847810" class="social"><i class="thb-icon-comment"></i></a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1254365106361847810" class="social"><svg version="1.1" class="thb-icon-retweet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13px" height="9px" viewBox="0 0 13 9" enable-background="new 0 0 13 9" xml:space="preserve">
+<path d="M4.5,3C4.371,3,4.244,2.951,4.146,2.854L2.5,1.207L0.854,2.854c-0.196,0.195-0.512,0.195-0.707,0
+	c-0.196-0.195-0.196-0.512,0-0.707l2-2c0.195-0.195,0.512-0.195,0.707,0l2,2c0.195,0.195,0.195,0.512,0,0.707
+	C4.756,2.951,4.628,3,4.5,3L4.5,3z M10.5,9c-0.128,0-0.256-0.049-0.354-0.147l-2-1.999c-0.195-0.195-0.195-0.511,0-0.707
+	c0.195-0.195,0.512-0.195,0.707,0L10.5,7.793l1.646-1.646c0.195-0.195,0.512-0.195,0.707,0c0.195,0.196,0.195,0.512,0,0.707
+	l-2,1.999C10.756,8.951,10.628,9,10.5,9L10.5,9z M7,9H3.002C2.449,9,2,8.551,2,7.998V0.5C2,0.225,2.224,0,2.5,0
+	C2.775,0,3,0.225,3,0.5v7.498L7,8c0.275,0,0.5,0.223,0.5,0.5S7.275,9,7,9z M10.5,9C10.223,9,10,8.777,10,8.5V1.002L7,1
+	C6.724,1,6.5,0.776,6.5,0.5C6.5,0.225,6.724,0,7,0h2.998C10.551,0,11,0.449,11,1.002V8.5C11,8.777,10.776,9,10.5,9z" />
+</svg>
+</a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1254365106361847810" class="social"><i class="thb-icon-favorite"></i><span class="tweet-count">7</span></a>
+</div>
+</div>
+<div class="thb-tweet">
+<i class="thb-icon-twitter"></i>
+<div class="thb-tweet-text">Imagine this. You wake up one morning with a headache and fever. You’re coughing as well, but you’re not sure if yo… <a target="_blank" href="https://t.co/SDtI6JJY3O">https://t.co/SDtI6JJY3O</a></div>
+<div class="thb-tweet-time"><a href="https://twitter.com/TheWireScience/status/1254345730782834690" target="_blank">1 day ago</a></div>
+<div class="thb-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1254345730782834690" class="social"><i class="thb-icon-comment"></i></a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1254345730782834690" class="social"><svg version="1.1" class="thb-icon-retweet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13px" height="9px" viewBox="0 0 13 9" enable-background="new 0 0 13 9" xml:space="preserve">
+<path d="M4.5,3C4.371,3,4.244,2.951,4.146,2.854L2.5,1.207L0.854,2.854c-0.196,0.195-0.512,0.195-0.707,0
+	c-0.196-0.195-0.196-0.512,0-0.707l2-2c0.195-0.195,0.512-0.195,0.707,0l2,2c0.195,0.195,0.195,0.512,0,0.707
+	C4.756,2.951,4.628,3,4.5,3L4.5,3z M10.5,9c-0.128,0-0.256-0.049-0.354-0.147l-2-1.999c-0.195-0.195-0.195-0.511,0-0.707
+	c0.195-0.195,0.512-0.195,0.707,0L10.5,7.793l1.646-1.646c0.195-0.195,0.512-0.195,0.707,0c0.195,0.196,0.195,0.512,0,0.707
+	l-2,1.999C10.756,8.951,10.628,9,10.5,9L10.5,9z M7,9H3.002C2.449,9,2,8.551,2,7.998V0.5C2,0.225,2.224,0,2.5,0
+	C2.775,0,3,0.225,3,0.5v7.498L7,8c0.275,0,0.5,0.223,0.5,0.5S7.275,9,7,9z M10.5,9C10.223,9,10,8.777,10,8.5V1.002L7,1
+	C6.724,1,6.5,0.776,6.5,0.5C6.5,0.225,6.724,0,7,0h2.998C10.551,0,11,0.449,11,1.002V8.5C11,8.777,10.776,9,10.5,9z" />
+</svg>
+<span class="tweet-count">9</span></a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1254345730782834690" class="social"><i class="thb-icon-favorite"></i><span class="tweet-count">17</span></a>
+</div>
+</div>
+<div class="thb-tweet">
+<i class="thb-icon-twitter"></i>
+<div class="thb-tweet-text">After a week of mismanagement at KMCH, one senior doctor, four postgraduate trainees, six interns and at least six… <a target="_blank" href="https://t.co/WMnvyEPIbk">https://t.co/WMnvyEPIbk</a></div>
+<div class="thb-tweet-time"><a href="https://twitter.com/TheWireScience/status/1254326853571141632" target="_blank">1 day ago</a></div>
+<div class="thb-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1254326853571141632" class="social"><i class="thb-icon-comment"></i></a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1254326853571141632" class="social"><svg version="1.1" class="thb-icon-retweet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13px" height="9px" viewBox="0 0 13 9" enable-background="new 0 0 13 9" xml:space="preserve">
+<path d="M4.5,3C4.371,3,4.244,2.951,4.146,2.854L2.5,1.207L0.854,2.854c-0.196,0.195-0.512,0.195-0.707,0
+	c-0.196-0.195-0.196-0.512,0-0.707l2-2c0.195-0.195,0.512-0.195,0.707,0l2,2c0.195,0.195,0.195,0.512,0,0.707
+	C4.756,2.951,4.628,3,4.5,3L4.5,3z M10.5,9c-0.128,0-0.256-0.049-0.354-0.147l-2-1.999c-0.195-0.195-0.195-0.511,0-0.707
+	c0.195-0.195,0.512-0.195,0.707,0L10.5,7.793l1.646-1.646c0.195-0.195,0.512-0.195,0.707,0c0.195,0.196,0.195,0.512,0,0.707
+	l-2,1.999C10.756,8.951,10.628,9,10.5,9L10.5,9z M7,9H3.002C2.449,9,2,8.551,2,7.998V0.5C2,0.225,2.224,0,2.5,0
+	C2.775,0,3,0.225,3,0.5v7.498L7,8c0.275,0,0.5,0.223,0.5,0.5S7.275,9,7,9z M10.5,9C10.223,9,10,8.777,10,8.5V1.002L7,1
+	C6.724,1,6.5,0.776,6.5,0.5C6.5,0.225,6.724,0,7,0h2.998C10.551,0,11,0.449,11,1.002V8.5C11,8.777,10.776,9,10.5,9z" />
+</svg>
+<span class="tweet-count">3</span></a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1254326853571141632" class="social"><i class="thb-icon-favorite"></i><span class="tweet-count">5</span></a>
+</div>
+</div>
+<div class="thb-tweet">
+<i class="thb-icon-twitter"></i>
+<div class="thb-tweet-text">Under PM Vajpayee in 2003, the law was tightened to ensure only those activities that directly benefit wildlife wil… <a target="_blank" href="https://t.co/Lzu5np7xrt">https://t.co/Lzu5np7xrt</a></div>
+<div class="thb-tweet-time"><a href="https://twitter.com/TheWireScience/status/1254308735897526272" target="_blank">1 day ago</a></div>
+<div class="thb-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1254308735897526272" class="social"><i class="thb-icon-comment"></i></a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1254308735897526272" class="social"><svg version="1.1" class="thb-icon-retweet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13px" height="9px" viewBox="0 0 13 9" enable-background="new 0 0 13 9" xml:space="preserve">
+<path d="M4.5,3C4.371,3,4.244,2.951,4.146,2.854L2.5,1.207L0.854,2.854c-0.196,0.195-0.512,0.195-0.707,0
+	c-0.196-0.195-0.196-0.512,0-0.707l2-2c0.195-0.195,0.512-0.195,0.707,0l2,2c0.195,0.195,0.195,0.512,0,0.707
+	C4.756,2.951,4.628,3,4.5,3L4.5,3z M10.5,9c-0.128,0-0.256-0.049-0.354-0.147l-2-1.999c-0.195-0.195-0.195-0.511,0-0.707
+	c0.195-0.195,0.512-0.195,0.707,0L10.5,7.793l1.646-1.646c0.195-0.195,0.512-0.195,0.707,0c0.195,0.196,0.195,0.512,0,0.707
+	l-2,1.999C10.756,8.951,10.628,9,10.5,9L10.5,9z M7,9H3.002C2.449,9,2,8.551,2,7.998V0.5C2,0.225,2.224,0,2.5,0
+	C2.775,0,3,0.225,3,0.5v7.498L7,8c0.275,0,0.5,0.223,0.5,0.5S7.275,9,7,9z M10.5,9C10.223,9,10,8.777,10,8.5V1.002L7,1
+	C6.724,1,6.5,0.776,6.5,0.5C6.5,0.225,6.724,0,7,0h2.998C10.551,0,11,0.449,11,1.002V8.5C11,8.777,10.776,9,10.5,9z" />
+</svg>
+<span class="tweet-count">6</span></a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1254308735897526272" class="social"><i class="thb-icon-favorite"></i><span class="tweet-count">7</span></a>
+</div>
+</div>
+<div class="thb-tweet">
+<i class="thb-icon-twitter"></i>
+<div class="thb-tweet-text">With five critically ill patients in Delhi having recovered through convalescent plasma therapy, the Delhi govt on… <a target="_blank" href="https://t.co/yF9QIK63Mv">https://t.co/yF9QIK63Mv</a></div>
+<div class="thb-tweet-time"><a href="https://twitter.com/TheWireScience/status/1254304600951328768" target="_blank">1 day ago</a></div>
+<div class="thb-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1254304600951328768" class="social"><i class="thb-icon-comment"></i></a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1254304600951328768" class="social"><svg version="1.1" class="thb-icon-retweet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13px" height="9px" viewBox="0 0 13 9" enable-background="new 0 0 13 9" xml:space="preserve">
+<path d="M4.5,3C4.371,3,4.244,2.951,4.146,2.854L2.5,1.207L0.854,2.854c-0.196,0.195-0.512,0.195-0.707,0
+	c-0.196-0.195-0.196-0.512,0-0.707l2-2c0.195-0.195,0.512-0.195,0.707,0l2,2c0.195,0.195,0.195,0.512,0,0.707
+	C4.756,2.951,4.628,3,4.5,3L4.5,3z M10.5,9c-0.128,0-0.256-0.049-0.354-0.147l-2-1.999c-0.195-0.195-0.195-0.511,0-0.707
+	c0.195-0.195,0.512-0.195,0.707,0L10.5,7.793l1.646-1.646c0.195-0.195,0.512-0.195,0.707,0c0.195,0.196,0.195,0.512,0,0.707
+	l-2,1.999C10.756,8.951,10.628,9,10.5,9L10.5,9z M7,9H3.002C2.449,9,2,8.551,2,7.998V0.5C2,0.225,2.224,0,2.5,0
+	C2.775,0,3,0.225,3,0.5v7.498L7,8c0.275,0,0.5,0.223,0.5,0.5S7.275,9,7,9z M10.5,9C10.223,9,10,8.777,10,8.5V1.002L7,1
+	C6.724,1,6.5,0.776,6.5,0.5C6.5,0.225,6.724,0,7,0h2.998C10.551,0,11,0.449,11,1.002V8.5C11,8.777,10.776,9,10.5,9z" />
+</svg>
+<span class="tweet-count">1</span></a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1254304600951328768" class="social"><i class="thb-icon-favorite"></i><span class="tweet-count">3</span></a>
+</div>
+</div>
+<div class="thb-tweet">
+<i class="thb-icon-twitter"></i>
+<div class="thb-tweet-text">ICYMI: Courts’ judgments continue to be based on the belief that every loss of forest and environmental services ca… <a target="_blank" href="https://t.co/NfavQkgDbb">https://t.co/NfavQkgDbb</a></div>
+<div class="thb-tweet-time"><a href="https://twitter.com/TheWireScience/status/1253692709921054722" target="_blank">3 days ago</a></div>
+<div class="thb-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1253692709921054722" class="social"><i class="thb-icon-comment"></i></a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1253692709921054722" class="social"><svg version="1.1" class="thb-icon-retweet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13px" height="9px" viewBox="0 0 13 9" enable-background="new 0 0 13 9" xml:space="preserve">
+<path d="M4.5,3C4.371,3,4.244,2.951,4.146,2.854L2.5,1.207L0.854,2.854c-0.196,0.195-0.512,0.195-0.707,0
+	c-0.196-0.195-0.196-0.512,0-0.707l2-2c0.195-0.195,0.512-0.195,0.707,0l2,2c0.195,0.195,0.195,0.512,0,0.707
+	C4.756,2.951,4.628,3,4.5,3L4.5,3z M10.5,9c-0.128,0-0.256-0.049-0.354-0.147l-2-1.999c-0.195-0.195-0.195-0.511,0-0.707
+	c0.195-0.195,0.512-0.195,0.707,0L10.5,7.793l1.646-1.646c0.195-0.195,0.512-0.195,0.707,0c0.195,0.196,0.195,0.512,0,0.707
+	l-2,1.999C10.756,8.951,10.628,9,10.5,9L10.5,9z M7,9H3.002C2.449,9,2,8.551,2,7.998V0.5C2,0.225,2.224,0,2.5,0
+	C2.775,0,3,0.225,3,0.5v7.498L7,8c0.275,0,0.5,0.223,0.5,0.5S7.275,9,7,9z M10.5,9C10.223,9,10,8.777,10,8.5V1.002L7,1
+	C6.724,1,6.5,0.776,6.5,0.5C6.5,0.225,6.724,0,7,0h2.998C10.551,0,11,0.449,11,1.002V8.5C11,8.777,10.776,9,10.5,9z" />
+</svg>
+</a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1253692709921054722" class="social"><i class="thb-icon-favorite"></i><span class="tweet-count">1</span></a>
+</div>
+</div>
+<div class="thb-tweet">
+<i class="thb-icon-twitter"></i>
+<div class="thb-tweet-text">Both the influenza and the SARS viruses are transmitted to a lower extent during warm weather. So researchers at MI… <a target="_blank" href="https://t.co/3PMQTfIt2E">https://t.co/3PMQTfIt2E</a></div>
+<div class="thb-tweet-time"><a href="https://twitter.com/TheWireScience/status/1253686384252063744" target="_blank">3 days ago</a></div>
+<div class="thb-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1253686384252063744" class="social"><i class="thb-icon-comment"></i></a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1253686384252063744" class="social"><svg version="1.1" class="thb-icon-retweet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13px" height="9px" viewBox="0 0 13 9" enable-background="new 0 0 13 9" xml:space="preserve">
+<path d="M4.5,3C4.371,3,4.244,2.951,4.146,2.854L2.5,1.207L0.854,2.854c-0.196,0.195-0.512,0.195-0.707,0
+	c-0.196-0.195-0.196-0.512,0-0.707l2-2c0.195-0.195,0.512-0.195,0.707,0l2,2c0.195,0.195,0.195,0.512,0,0.707
+	C4.756,2.951,4.628,3,4.5,3L4.5,3z M10.5,9c-0.128,0-0.256-0.049-0.354-0.147l-2-1.999c-0.195-0.195-0.195-0.511,0-0.707
+	c0.195-0.195,0.512-0.195,0.707,0L10.5,7.793l1.646-1.646c0.195-0.195,0.512-0.195,0.707,0c0.195,0.196,0.195,0.512,0,0.707
+	l-2,1.999C10.756,8.951,10.628,9,10.5,9L10.5,9z M7,9H3.002C2.449,9,2,8.551,2,7.998V0.5C2,0.225,2.224,0,2.5,0
+	C2.775,0,3,0.225,3,0.5v7.498L7,8c0.275,0,0.5,0.223,0.5,0.5S7.275,9,7,9z M10.5,9C10.223,9,10,8.777,10,8.5V1.002L7,1
+	C6.724,1,6.5,0.776,6.5,0.5C6.5,0.225,6.724,0,7,0h2.998C10.551,0,11,0.449,11,1.002V8.5C11,8.777,10.776,9,10.5,9z" />
+</svg>
+</a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1253686384252063744" class="social"><i class="thb-icon-favorite"></i></a>
+</div>
+</div>
+<div class="thb-tweet">
+<i class="thb-icon-twitter"></i>
+<div class="thb-tweet-text">A donor can donate her plasma up to twice a week with a minimum gap of 48 hours, and a maximum of 24 times in a yea… <a target="_blank" href="https://t.co/H85wXQK2ut">https://t.co/H85wXQK2ut</a></div>
+<div class="thb-tweet-time"><a href="https://twitter.com/TheWireScience/status/1253674780903067648" target="_blank">3 days ago</a></div>
+<div class="thb-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1253674780903067648" class="social"><i class="thb-icon-comment"></i></a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1253674780903067648" class="social"><svg version="1.1" class="thb-icon-retweet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13px" height="9px" viewBox="0 0 13 9" enable-background="new 0 0 13 9" xml:space="preserve">
+<path d="M4.5,3C4.371,3,4.244,2.951,4.146,2.854L2.5,1.207L0.854,2.854c-0.196,0.195-0.512,0.195-0.707,0
+	c-0.196-0.195-0.196-0.512,0-0.707l2-2c0.195-0.195,0.512-0.195,0.707,0l2,2c0.195,0.195,0.195,0.512,0,0.707
+	C4.756,2.951,4.628,3,4.5,3L4.5,3z M10.5,9c-0.128,0-0.256-0.049-0.354-0.147l-2-1.999c-0.195-0.195-0.195-0.511,0-0.707
+	c0.195-0.195,0.512-0.195,0.707,0L10.5,7.793l1.646-1.646c0.195-0.195,0.512-0.195,0.707,0c0.195,0.196,0.195,0.512,0,0.707
+	l-2,1.999C10.756,8.951,10.628,9,10.5,9L10.5,9z M7,9H3.002C2.449,9,2,8.551,2,7.998V0.5C2,0.225,2.224,0,2.5,0
+	C2.775,0,3,0.225,3,0.5v7.498L7,8c0.275,0,0.5,0.223,0.5,0.5S7.275,9,7,9z M10.5,9C10.223,9,10,8.777,10,8.5V1.002L7,1
+	C6.724,1,6.5,0.776,6.5,0.5C6.5,0.225,6.724,0,7,0h2.998C10.551,0,11,0.449,11,1.002V8.5C11,8.777,10.776,9,10.5,9z" />
+</svg>
+<span class="tweet-count">2</span></a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1253674780903067648" class="social"><i class="thb-icon-favorite"></i><span class="tweet-count">4</span></a>
+</div>
+</div>
+<div class="thb-tweet">
+<i class="thb-icon-twitter"></i>
+<div class="thb-tweet-text">To simultaneously explain the testing and fatality data, we must either have a high fatality rate and relatively lo… <a target="_blank" href="https://t.co/f8fMLKX8nu">https://t.co/f8fMLKX8nu</a></div>
+<div class="thb-tweet-time"><a href="https://twitter.com/TheWireScience/status/1253662575369256961" target="_blank">3 days ago</a></div>
+<div class="thb-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1253662575369256961" class="social"><i class="thb-icon-comment"></i></a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1253662575369256961" class="social"><svg version="1.1" class="thb-icon-retweet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13px" height="9px" viewBox="0 0 13 9" enable-background="new 0 0 13 9" xml:space="preserve">
+<path d="M4.5,3C4.371,3,4.244,2.951,4.146,2.854L2.5,1.207L0.854,2.854c-0.196,0.195-0.512,0.195-0.707,0
+	c-0.196-0.195-0.196-0.512,0-0.707l2-2c0.195-0.195,0.512-0.195,0.707,0l2,2c0.195,0.195,0.195,0.512,0,0.707
+	C4.756,2.951,4.628,3,4.5,3L4.5,3z M10.5,9c-0.128,0-0.256-0.049-0.354-0.147l-2-1.999c-0.195-0.195-0.195-0.511,0-0.707
+	c0.195-0.195,0.512-0.195,0.707,0L10.5,7.793l1.646-1.646c0.195-0.195,0.512-0.195,0.707,0c0.195,0.196,0.195,0.512,0,0.707
+	l-2,1.999C10.756,8.951,10.628,9,10.5,9L10.5,9z M7,9H3.002C2.449,9,2,8.551,2,7.998V0.5C2,0.225,2.224,0,2.5,0
+	C2.775,0,3,0.225,3,0.5v7.498L7,8c0.275,0,0.5,0.223,0.5,0.5S7.275,9,7,9z M10.5,9C10.223,9,10,8.777,10,8.5V1.002L7,1
+	C6.724,1,6.5,0.776,6.5,0.5C6.5,0.225,6.724,0,7,0h2.998C10.551,0,11,0.449,11,1.002V8.5C11,8.777,10.776,9,10.5,9z" />
+</svg>
+<span class="tweet-count">5</span></a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1253662575369256961" class="social"><i class="thb-icon-favorite"></i><span class="tweet-count">6</span></a>
+</div>
+</div>
+<div class="thb-tweet">
+<i class="thb-icon-twitter"></i>
+<div class="thb-tweet-text">ICYMI: Singapore has experienced a ten-fold increase in new coronavirus cases over two weeks. With a record daily h… <a target="_blank" href="https://t.co/EPpuhdu0mP">https://t.co/EPpuhdu0mP</a></div>
+<div class="thb-tweet-time"><a href="https://twitter.com/TheWireScience/status/1253640332446707712" target="_blank">3 days ago</a></div>
+<div class="thb-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1253640332446707712" class="social"><i class="thb-icon-comment"></i></a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1253640332446707712" class="social"><svg version="1.1" class="thb-icon-retweet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="13px" height="9px" viewBox="0 0 13 9" enable-background="new 0 0 13 9" xml:space="preserve">
+<path d="M4.5,3C4.371,3,4.244,2.951,4.146,2.854L2.5,1.207L0.854,2.854c-0.196,0.195-0.512,0.195-0.707,0
+	c-0.196-0.195-0.196-0.512,0-0.707l2-2c0.195-0.195,0.512-0.195,0.707,0l2,2c0.195,0.195,0.195,0.512,0,0.707
+	C4.756,2.951,4.628,3,4.5,3L4.5,3z M10.5,9c-0.128,0-0.256-0.049-0.354-0.147l-2-1.999c-0.195-0.195-0.195-0.511,0-0.707
+	c0.195-0.195,0.512-0.195,0.707,0L10.5,7.793l1.646-1.646c0.195-0.195,0.512-0.195,0.707,0c0.195,0.196,0.195,0.512,0,0.707
+	l-2,1.999C10.756,8.951,10.628,9,10.5,9L10.5,9z M7,9H3.002C2.449,9,2,8.551,2,7.998V0.5C2,0.225,2.224,0,2.5,0
+	C2.775,0,3,0.225,3,0.5v7.498L7,8c0.275,0,0.5,0.223,0.5,0.5S7.275,9,7,9z M10.5,9C10.223,9,10,8.777,10,8.5V1.002L7,1
+	C6.724,1,6.5,0.776,6.5,0.5C6.5,0.225,6.724,0,7,0h2.998C10.551,0,11,0.449,11,1.002V8.5C11,8.777,10.776,9,10.5,9z" />
+</svg>
+</a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1253640332446707712" class="social"><i class="thb-icon-favorite"></i><span class="tweet-count">3</span></a>
+</div>
+</div>
+</div>
+</div>
+</div><div id="text-2" class="widget style2 widget_text"><div class="thb-widget-title">Contact us</div> <div class="textwidget"><p>Vasudevan Mukunth, editor: <a style="color: #b71c1c;" href="/cdn-cgi/l/email-protection#f69b839d8398829eb6829e93819f8493d89f98" target="_blank" rel="noopener noreferrer"><span class="__cf_email__" data-cfemail="127f6779677c667a52667a77657b60773c7b7c">[email&#160;protected]</span></a></p>
+<p>General enquiries: <a style="color: #b71c1c;" href="/cdn-cgi/l/email-protection#6417070d010a070124100c01130d16014a0d0a" target="_blank" rel="noopener noreferrer"><span class="__cf_email__" data-cfemail="7f0c1c161a111c1a3f0b171a08160d1a511611">[email&#160;protected]</span></a></p>
+</div>
+</div> </aside>
+</div>
+</article>
+
+<div class="row hide-on-print">
+<aside class="small-12 columns related-posts related-posts-style2">
+<h6 class="related-posts-title">Related Posts</h6>
+<div class="row ">
+<div class="small-6 medium-6 large-3 columns">
+<div class="post style2 post-439281 type-post status-publish format-standard has-post-thumbnail hentry category-health category-uncategorised tag-ayurveda tag-ayush tag-ayush-coronavirus tag-coronavirus tag-coronavirus-doctors tag-coronavirus-latest-news tag-coronavrisu-idnia tag-covid-19 tag-covid-19-india tag-covid-19-ayush tag-covid-19-news tag-department-of-ayush tag-featured tag-homepathy tag-india-pseudoscience tag-modi-government-coronavirus tag-modi-government-pseudoscience tag-siddha tag-spotlight tag-unani tag-yoga-and-naturopothy thb-post-share-style1">
+<figure class="post-gallery">
+<a href="https://science.thewire.in/uncategorised/indian-government-pseudoscience-covid-19/"><img width="740" height="710" src="https://cdn.thewire.in/wp-content/uploads/2020/04/27132917/5283511947_fb41e1cabd_o-20x19.jpg" class="attachment-theissue-square-x2 size-theissue-square-x2 thb-lazyload lazyload wp-post-image" alt="" sizes="(max-width: 740px) 100vw, 740px" data-src="https://cdn.thewire.in/wp-content/uploads/2020/04/27132917/5283511947_fb41e1cabd_o-740x710.jpg" data-sizes="auto" data-srcset="https://cdn.thewire.in/wp-content/uploads/2020/04/27132917/5283511947_fb41e1cabd_o-740x710.jpg 740w, https://cdn.thewire.in/wp-content/uploads/2020/04/27132917/5283511947_fb41e1cabd_o-370x355.jpg 370w, https://cdn.thewire.in/wp-content/uploads/2020/04/27132917/5283511947_fb41e1cabd_o-20x19.jpg 20w, https://cdn.thewire.in/wp-content/uploads/2020/04/27132917/5283511947_fb41e1cabd_o-1110x1065.jpg 1110w" /></a>
+</figure>
+<aside class="post-category ">
+<a href="https://science.thewire.in/category/health/" rel="category tag">Health</a>
+</aside>
+<div class="post-title"><h6><a href="https://science.thewire.in/uncategorised/indian-government-pseudoscience-covid-19/" title="Face It: The Indian Government Is Peddling Pseudoscience"><span>Face It: The Indian Government Is Peddling Pseudoscience</span></a></h6></div></div> </div>
+<div class="small-6 medium-6 large-3 columns">
+<div class="post style2 post-439286 type-post status-publish format-standard has-post-thumbnail hentry category-government category-health tag-corona-cases-india tag-coronavirus tag-coronavirus-cases-in-india tag-coronavirus-cases-india tag-covid-19 tag-covid-19-cases-in-india tag-editorpicks2 tag-icmr tag-icmr-covid-19 tag-icmr-covid-19-data tag-icmr-covid-19-statistics tag-india-corona-cases tag-india-coronavirus-cases tag-india-covid-19-cases tag-indian-council-for-medical-research tag-national-centre-for-disease-control tag-ncdc tag-rajiv-gauba tag-spotlight thb-post-share-style1">
+<figure class="post-gallery">
+<a href="https://science.thewire.in/health/covid-19-icmr-ncdc-tally-discrepancy/"><img width="740" height="710" src="https://cdn.thewire.in/wp-content/uploads/2020/04/27140826/2020_4img26_Apr_2020_PTI26-04-2020_000157B-20x19.jpg" class="attachment-theissue-square-x2 size-theissue-square-x2 thb-lazyload lazyload wp-post-image" alt="" sizes="(max-width: 740px) 100vw, 740px" data-src="https://cdn.thewire.in/wp-content/uploads/2020/04/27140826/2020_4img26_Apr_2020_PTI26-04-2020_000157B-740x710.jpg" data-sizes="auto" data-srcset="https://cdn.thewire.in/wp-content/uploads/2020/04/27140826/2020_4img26_Apr_2020_PTI26-04-2020_000157B-740x710.jpg 740w, https://cdn.thewire.in/wp-content/uploads/2020/04/27140826/2020_4img26_Apr_2020_PTI26-04-2020_000157B-370x355.jpg 370w, https://cdn.thewire.in/wp-content/uploads/2020/04/27140826/2020_4img26_Apr_2020_PTI26-04-2020_000157B-20x19.jpg 20w" /></a>
+</figure>
+<aside class="post-category ">
+<a href="https://science.thewire.in/category/health/" rel="category tag">Health</a>
+</aside>
+<div class="post-title"><h6><a href="https://science.thewire.in/health/covid-19-icmr-ncdc-tally-discrepancy/" title="COVID-19: Concerns Raised As ICMR Records 1,087 More Cases Than NCDC"><span>COVID-19: Concerns Raised As ICMR Records 1,087 More Cases Than NCDC</span></a></h6></div></div> </div>
+<div class="small-6 medium-6 large-3 columns">
+<div class="post style2 post-438033 type-post status-publish format-standard has-post-thumbnail hentry category-health tag-coronavirus tag-coronavirus-cases-in-india tag-coronavirus-deaths tag-coronavirus-deaths-in-india tag-coronavirus-in-india tag-covid-19 tag-covid-19-cases-india tag-covid-19-in-india tag-covid-19-nizamuddin tag-crnvrs tag-health-ministry-coronavirus tag-icmr tag-latest-headlines tag-latest-news tag-news tag-nizamuddin tag-nizamuddin-congregation tag-nizamuddin-coronavirus tag-nizamuddin-covid-19 tag-spotlight tag-tablighi-jamaat tag-tablighi-jamaat-coronavirus tag-top-headlines tag-top-news tag-top-stories thb-post-share-style1">
+<figure class="post-gallery">
+<a href="https://science.thewire.in/health/coronavirus-daily-updates-covid-19/"><img width="740" height="710" src="https://cdn.thewire.in/wp-content/uploads/2020/04/27113449/2020-04-27T041036Z_1_LYNXNPEG3Q057_RTROPTP_4_HEALTH-CORONAVIRUS-EMIRATES-HOSPITAL-20x19.jpg" class="attachment-theissue-square-x2 size-theissue-square-x2 thb-lazyload lazyload wp-post-image" alt="" sizes="(max-width: 740px) 100vw, 740px" data-src="https://cdn.thewire.in/wp-content/uploads/2020/04/27113449/2020-04-27T041036Z_1_LYNXNPEG3Q057_RTROPTP_4_HEALTH-CORONAVIRUS-EMIRATES-HOSPITAL-740x710.jpg" data-sizes="auto" data-srcset="https://cdn.thewire.in/wp-content/uploads/2020/04/27113449/2020-04-27T041036Z_1_LYNXNPEG3Q057_RTROPTP_4_HEALTH-CORONAVIRUS-EMIRATES-HOSPITAL-740x710.jpg 740w, https://cdn.thewire.in/wp-content/uploads/2020/04/27113449/2020-04-27T041036Z_1_LYNXNPEG3Q057_RTROPTP_4_HEALTH-CORONAVIRUS-EMIRATES-HOSPITAL-370x355.jpg 370w, https://cdn.thewire.in/wp-content/uploads/2020/04/27113449/2020-04-27T041036Z_1_LYNXNPEG3Q057_RTROPTP_4_HEALTH-CORONAVIRUS-EMIRATES-HOSPITAL-20x19.jpg 20w" /></a>
+</figure>
+<aside class="post-category ">
+<a href="https://science.thewire.in/category/health/" rel="category tag">Health</a>
+</aside>
+<div class="post-title"><h6><a href="https://science.thewire.in/health/coronavirus-daily-updates-covid-19/" title="Coronavirus Daily Updates: China Says All Patients in Wuhan Have Been Discharged"><span>Coronavirus Daily Updates: China Says All Patients in Wuhan Have Been Discharged</span></a></h6></div></div> </div>
+<div class="small-6 medium-6 large-3 columns">
+<div class="post style2 post-439227 type-post status-publish format-standard has-post-thumbnail hentry category-the-sciences tag-beta-mercaptoethanol tag-breaking-headlines-today tag-coronavirus-vaccine tag-covid-19 tag-dna-primers tag-editorpicks2 tag-false-negative-dna-amplification tag-false-positive tag-featured tag-guanidine-thiocyanate tag-human-rnase-p tag-india-coronavirus-lockdown tag-latest-news tag-new-coronavirus tag-novel-coronavirus tag-phenol tag-polymerase-chain-reaction tag-pooled-testing tag-real-time-pcr tag-reverse-transcriptase tag-rt-pcr tag-shifted-transversal-design tag-spotlight tag-top-news thb-post-share-style1">
+<figure class="post-gallery">
+<a href="https://science.thewire.in/the-sciences/covid-19-democracy-should-extend-to-how-we-build-our-technologies-as-well/"><img width="740" height="709" src="https://cdn.thewire.in/wp-content/uploads/2020/04/25134806/laboratory-test-tubes-22805491-20x19.jpg" class="attachment-theissue-square-x2 size-theissue-square-x2 thb-lazyload lazyload wp-post-image" alt="" sizes="(max-width: 740px) 100vw, 740px" data-src="https://cdn.thewire.in/wp-content/uploads/2020/04/25134806/laboratory-test-tubes-22805491-740x709.jpg" data-sizes="auto" data-srcset="https://cdn.thewire.in/wp-content/uploads/2020/04/25134806/laboratory-test-tubes-22805491-740x709.jpg 740w, https://cdn.thewire.in/wp-content/uploads/2020/04/25134806/laboratory-test-tubes-22805491-370x355.jpg 370w, https://cdn.thewire.in/wp-content/uploads/2020/04/25134806/laboratory-test-tubes-22805491-20x19.jpg 20w" /></a>
+</figure>
+<aside class="post-category ">
+<a href="https://science.thewire.in/category/the-sciences/" rel="category tag">The Sciences</a>
+</aside>
+<div class="post-title"><h6><a href="https://science.thewire.in/the-sciences/covid-19-democracy-should-extend-to-how-we-build-our-technologies-as-well/" title="COVID-19: Democracy Should Extend to How We Build Our Technologies as Well"><span>COVID-19: Democracy Should Extend to How We Build Our Technologies as Well</span></a></h6></div></div> </div>
+</div>
+</aside>
+</div>
+
+</div>
+</div>
+</div> </div>
+</div> 
+
+<footer id="footer" class="footer dark footer-full-width-on">
+<div class="row footer-row">
+<div class="small-12 columns">
+</div>
+</div>
+</footer>
+ 
+<div class="subfooter style6 dark subfooter-full-width-on">
+<div class="row">
+<div class="small-12 columns">
+<div class="row align-middle">
+<div class="small-12 medium-6 columns">
+<div class="footer-logo-holder">
+<a href="https://science.thewire.in/" class="footer-logolink" title="The Wire Science">
+<img src="https://cdn.thewire.in/wp-content/uploads/2020/02/20162750/Union.png" class="logoimg" alt="The Wire Science" />
+</a>
+</div>
+</div>
+<div class="small-12 medium-6 columns medium-text-right">
+<div class="thb-social-links-container thb-social-horizontal mono-icons">
+<div class="thb-social-link-wrap">
+<a href="https://facebook.com/TheWireScience" target="_blank" class="thb-social-link social-link-facebook">
+<div class="thb-social-label-container">
+<div class="thb-social-icon-container"><i class="thb-icon-facebook"></i></div>
+<div class="thb-social-label">Facebook</div> </div>
+</a>
+</div>
+<div class="thb-social-link-wrap">
+<a href="https://twitter.com/TheWireScience" target="_blank" class="thb-social-link social-link-twitter">
+<div class="thb-social-label-container">
+<div class="thb-social-icon-container"><i class="thb-icon-twitter"></i></div>
+<div class="thb-social-label">Twitter</div> </div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<hr>
+<div class="row align-middle">
+<div class="small-12 medium-6 columns">
+<div class="menu-top-container"><ul id="menu-top-2" class="thb-full-menu thb-standard"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-435509"><a href="https://science.thewire.in/category/the-sciences/">The Sciences</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-435507"><a href="https://science.thewire.in/category/health/">Health</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-435506"><a href="https://science.thewire.in/category/environment/">Environment</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-435508"><a href="https://science.thewire.in/category/space/">Space</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-435510"><a href="https://science.thewire.in/category/education/">Education</a></li>
+</ul></div> </div>
+<div class="small-12 medium-6 columns medium-text-right">
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<a id="scroll_to_top">
+<span>Scroll To Top</span>
+</a>
+<style type="text/css">
+    #wpfront-notification-bar 
+    {
+        background: #ffffff;
+        background: -moz-linear-gradient(top, #ffffff 0%, #ffffff 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#ffffff));
+        background: -webkit-linear-gradient(top, #ffffff 0%,#ffffff 100%);
+        background: -o-linear-gradient(top, #ffffff 0%,#ffffff 100%);
+        background: -ms-linear-gradient(top, #ffffff 0%,#ffffff 100%);
+        background: linear-gradient(to bottom, #ffffff 0%, #ffffff 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 );
+    }
+
+    #wpfront-notification-bar div.wpfront-message
+    {
+        color: #ffffff;
+    }
+
+    #wpfront-notification-bar a.wpfront-button
+    {
+        background: #00b7ea;
+        background: -moz-linear-gradient(top, #00b7ea 0%, #009ec3 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#00b7ea), color-stop(100%,#009ec3));
+        background: -webkit-linear-gradient(top, #00b7ea 0%,#009ec3 100%);
+        background: -o-linear-gradient(top, #00b7ea 0%,#009ec3 100%);
+        background: -ms-linear-gradient(top, #00b7ea 0%,#009ec3 100%);
+        background: linear-gradient(to bottom, #00b7ea 0%, #009ec3 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00b7ea', endColorstr='#009ec3',GradientType=0 );
+
+        color: #ffffff;
+    }
+
+    #wpfront-notification-bar-open-button
+    {
+        background-color: #00b7ea;
+    }
+
+    #wpfront-notification-bar  div.wpfront-close 
+    {
+        border: 1px solid #555555;
+        background-color: #555555;
+        color: #000000;
+    }
+
+    #wpfront-notification-bar  div.wpfront-close:hover 
+    {
+        border: 1px solid #aaaaaa;
+        background-color: #aaaaaa;
+    }
+</style>
+<div id="wpfront-notification-bar-spacer" style="display: none;">
+<div id="wpfront-notification-bar-open-button" class="bottom wpfront-top-shadow"></div>
+<div id="wpfront-notification-bar" class="wpfront-fixed ">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<div class="wpfront-message">
+<a href="https://thewire.in/?utm_source=sciwi" class="bannra" target="_blank"><div class="bannr">Latest News & Updates on</div><img width="20%" src="https://thewire.in/wp-content/uploads/2015/05/wirelogo.png"></a> </div>
+<div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<style type="text/css">
+.bannr{position: relative;margin-right: 2%;text-decoration: underline;}
+.bannra:hover{color: black !important;}
+#scroll_to_top { bottom: 100px;}
+</style>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">if(typeof wpfront_notification_bar == "function") wpfront_notification_bar({"position":2,"height":0,"fixed_position":"on","animate_delay":0.5,"close_button":false,"button_action_close_bar":false,"auto_close_after":0,"display_after":1,"is_admin_bar_showing":false,"display_open_button":false,"keep_closed":false,"keep_closed_for":0,"position_offset":0,"display_scroll":false,"display_scroll_offset":0});</script><script type='text/javascript' src='https://science.thewire.in/wp-content/plugins/wp-bigfoot/js/bigfoot.min.js?ver=1.4.0'></script>
+<script type='text/javascript' src='https://science.thewire.in/wp-content/plugins/wp-bigfoot/js/wp-bigfoot.js?ver=1.4.0'></script>
+<script type='text/javascript' src='https://science.thewire.in/wp-content/themes/theissue/assets/js/vendor.min.js?ver=1.2.1.5'></script>
+<script type='text/javascript' src='https://science.thewire.in/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var themeajax = {"url":"https:\/\/science.thewire.in\/wp-admin\/admin-ajax.php","l10n":{"of":"%curr% of %total%","just_of":"of","loading":"Loading","lightbox_loading":"Loading...","nomore":"No More Posts","nomore_products":"All Products Loaded","loadmore":"Load More","added":"Added To Cart","no_results":"No Results Found","results_found":"Results Found","results_all":"View All Results","copied":"Copied","prev":"Prev","next":"Next","pinit":"PIN IT","adding_to_cart":"Adding to Cart"},"svg":{"prev_arrow":"<svg version=\"1.1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\r\n\t width=\"30px\" height=\"30px\" viewBox=\"0 0 30 30\" enable-background=\"new 0 0 30 30\" xml:space=\"preserve\">\r\n<path class=\"thb-arrow-first\" d=\"M12.757,14.997l3.585,3.243c0.201,0.174,0.201,0.459,0,0.635c-0.203,0.175-0.532,0.175-0.734,0l-3.948-3.557\r\n\tc-0.203-0.175-0.203-0.459,0-0.635l3.948-3.557c0.202-0.175,0.531-0.175,0.734,0c0.201,0.175,0.201,0.459,0,0.635L12.757,14.997z\"\/>\r\n<path class=\"thb-arrow-second\" d=\"M12.757,14.997l3.585,3.243c0.201,0.174,0.201,0.459,0,0.635c-0.203,0.175-0.533,0.175-0.734,0l-3.948-3.557\r\n\tc-0.203-0.175-0.203-0.459,0-0.635l3.948-3.557c0.201-0.175,0.531-0.175,0.734,0c0.201,0.175,0.201,0.459,0,0.635L12.757,14.997z\"\/>\r\n<\/svg>\r\n","next_arrow":"<svg version=\"1.1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\r\n\t width=\"30px\" height=\"30px\" viewBox=\"0 0 30 30\" enable-background=\"new 0 0 30 30\" xml:space=\"preserve\">\r\n<path class=\"thb-arrow-first\" d=\"M13.659,11.76c-0.201-0.175-0.201-0.459,0-0.635c0.203-0.175,0.532-0.175,0.734,0l3.947,3.557\r\n\tc0.203,0.176,0.203,0.46,0,0.635l-3.947,3.557c-0.202,0.175-0.531,0.175-0.734,0c-0.201-0.176-0.201-0.461,0-0.635l3.585-3.243\r\n\tL13.659,11.76z\"\/>\r\n<path class=\"thb-arrow-second\" d=\"M13.659,11.76c-0.201-0.175-0.201-0.459,0-0.635c0.203-0.175,0.533-0.175,0.734,0l3.948,3.557\r\n\tc0.203,0.176,0.203,0.46,0,0.635l-3.948,3.557c-0.201,0.175-0.531,0.175-0.734,0c-0.201-0.176-0.201-0.461,0-0.635l3.585-3.243\r\n\tL13.659,11.76z\"\/>\r\n<\/svg>\r\n","added_arrow":"","close_arrow":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0 0 64 64\" enable-background=\"new 0 0 64 64\"><g fill=\"none\" stroke=\"#000\" stroke-width=\"2\" stroke-miterlimit=\"10\"><path d=\"m18.947 17.15l26.1 25.903\"\/><path d=\"m19.05 43.15l25.902-26.1\"\/><\/g><\/svg>","pagination":"<svg version=\"1.1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" class=\"thb-pagination-svg\" width=\"14px\" height=\"14px\" viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><circle cx=\"8\" cy=\"8\" r=\"5.5\"><\/circle><\/svg>","preloader":"<svg class=\"material-spinner\" width=\"50px\" height=\"50px\" viewBox=\"0 0 66 66\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n   <circle class=\"material-path\" fill=\"none\" stroke-width=\"6\" stroke-linecap=\"round\" cx=\"33\" cy=\"33\" r=\"30\"><\/circle>\n<\/svg>"},"settings":{"infinite_count":"","site_url":"https:\/\/science.thewire.in","current_url":"https:\/\/science.thewire.in\/the-sciences\/convalescent-plasmas-success-against-covid-19-continues-in-new-study\/","fixed_header_scroll":"on","fixed_header_padding":"","general_search_ajax":"on","newsletter":"off","newsletter_length":"1","newsletter_delay":"0","newsletter_mailchimp":false,"page_transition":"off","page_transition_style":"thb-fade","page_transition_in_speed":"200","page_transition_out_speed":"200","shop_product_listing_pagination":"style1","right_click":"off","cart_url":false,"is_cart":false,"is_checkout":false,"touch_threshold":5,"mobile_menu_animation_speed":"0.3","thb_custom_video_player":"on","viai_publisher_id":"431861828953521"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://science.thewire.in/wp-content/themes/theissue/assets/js/app.min.js?ver=1.2.1.5'></script>
+<script type='text/javascript' src='https://science.thewire.in/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+<aside class="thb-search-popup" data-security="4db865f19f">
+<a class="thb-mobile-close"><div><span></span><span></span></div></a>
+<div class="thb-close-text">PRESS ESC TO CLOSE</div>
+<div class="row align-center align-middle search-main-row">
+<div class="small-12 medium-8 columns">
+<form method="get" class="searchform" action="https://science.thewire.in/">
+<input type="text" name="s" class="search-field" placeholder="Type Here to Search" />
+</form>
+<div class="thb-autocomplete-wrapper">
+<div class="thb-preloader">
+<svg class="material-spinner" width="50px" height="50px" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+<circle class="material-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle>
+</svg> </div>
+</div>
+</div>
+</div>
+</aside>
+</div> 
+</body>
+</html>

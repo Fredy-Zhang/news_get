@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+<meta charset="UTF-8">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.theepochtimes.com/assets/themes/eet/images/etfavicon.ico" sizes="16x16" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="fb:pages" content="1615635982023706" />
+	<meta name="date" content="2020-04-25 5:50:48 PM" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.theepochtimes.com/amid-challenges-to-his-authority-xi-appeals-for-loyalty_3326711.html">
+<title>Amid Challenges to His Authority, Xi Appeals for Loyalty</title>
+<meta name="robots" content="noodp,noydir"/>
+<meta name="description" content="Chinese leader Xi Jinping, whose authority has been badly dented due to his regime’s mishandling of the coronavirus outbreak, has urged Communist Party (CCP) officials to remain loyal to his leadership."/>
+<meta name="keywords" content="CCP virus,China,xi jingping,THE EPOCH TIMES"/>
+<link rel="canonical" href="https://www.theepochtimes.com/amid-challenges-to-his-authority-xi-appeals-for-loyalty_3326711.html" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Amid Challenges to His Authority, Xi Appeals for Loyalty" />
+<meta property="og:description" content="Chinese leader Xi Jinping, whose authority has been badly dented due to his regime’s mishandling of the coronavirus outbreak, has urged Communist Party (CCP) officials to remain loyal to his leadership." />
+<meta property="og:url" content="https://www.theepochtimes.com/amid-challenges-to-his-authority-xi-appeals-for-loyalty_3326711.html" />
+<meta property="og:site_name" content="www.theepochtimes.com" />
+<meta property="article:tag" content="China,xi jingping,CCP virus" />
+<meta property="article:section" content="CCP Virus" />
+<meta property="article:published_time" content="2020-04-25T17:50:48-04:00" />
+<meta property="article:modified_time" content="2020-04-26T09:22:48-04:00" />
+<meta property="og:updated_time" content="2020-04-26T09:22:48-04:00" />
+<meta property="fb:admins" content="10205921529470972" />
+<meta property="og:image" content="https://img.theepochtimes.com/assets/uploads/2020/04/05/Xi-Jinping-close-up-1200x675.jpg" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="Chinese leader Xi Jinping, whose authority has been badly dented due to his regime’s mishandling of the coronavirus outbreak, has urged Communist Party (CCP) officials to remain loyal to his leadership."/>
+<meta name="twitter:title" content="Amid Challenges to His Authority, Xi Appeals for Loyalty"/>
+<meta name="twitter:site" content="@EpochTimes"/>
+<meta name="twitter:domain" content="www.theepochtimes.com"/>
+<meta name="twitter:image" content="https://img.theepochtimes.com/assets/uploads/2020/04/05/Xi-Jinping-close-up.jpg"/>
+<meta name="twitter:creator" content="@EpochTimes"/>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='eet-article-page-css'  href='https://www.theepochtimes.com/assets/themes/eet/css/single-merge.min.css?ver=20190223' type='text/css' media='all' />
+
+	<script>
+		var eet_primary_category, eet_cat_ids, eet_term_ids, eet_all_term_ids, eet_cat_names, eet_no_ads, eet_ads_term_ids;
+		var eet_post_id, eet_author_name, eet_primary_category_name, eet_tags, eet_tags_slugs, eet_publish_date, eet_last_updated_date, eet_word_count, eet_page_type;
+		var eet_segment_url = 'https://www.theepochtimes.com/assets/uploads/segment';
+		var featured_img_thumbnail;
+		var eet_is_premium_article;
+	featured_img_thumbnail = 'https://img.theepochtimes.com/assets/uploads/2020/04/05/Xi-Jinping-close-up-100x60.jpg';
+eet_primary_category = '7';
+eet_cat_ids = 'ccp-virus-128568;china-6;regime-7;inside-china-129105';
+eet_term_ids = 'canada-lead-story-110519;canada-top-news-100342;todays-headlines-98892;top-stories-98893';
+eet_all_term_ids = 'ccp-virus-128568;china-6;regime-7;inside-china-129105;canada-lead-story-110519;canada-top-news-100342;todays-headlines-98892;top-stories-98893';
+eet_cat_names = 'CCP Virus;China;Chinese Regime;INSIDE CHINA';
+eet_ads_term_ids = 'eet_ccp-virus-128568,eet_china-6,eet_regime-7,eet_inside-china-129105,eet_canada-lead-story-110519,eet_canada-top-news-100342,eet_todays-headlines-98892,eet_top-stories-98893';
+eet_post_id = '3326711';
+eet_author_name = 'Alexander Zhang';
+eet_primary_category_name = 'Chinese Regime';
+eet_tags = 'China;xi jingping;CCP virus';
+eet_tags_slugs = 'china;xi-jingping;ccp-virus';
+eet_publish_date = '20200425';
+eet_last_updated_date = '20200426';
+eet_word_count = '664';
+eet_page_type = 'post';
+eet_is_premium_article = 'false';
+	</script>
+	<link rel="amphtml" href="https://www.theepochtimes.com/amid-challenges-to-his-authority-xi-appeals-for-loyalty_3326711.html/amp" /><script id="apstag-js" type="text/javascript" async src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script id="prebid-js" type="text/javascript" async src="/assets/themes/eet/js/prebid.js"></script><!--[if lt IE 9]>
+     <script type="text/javascript" src="/assets/themes/eet/js/html5.js"></script>
+     <link href="/assets/themes/eet/css/ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body class="post-template-default single single-post postid-3326711 single-format-standard">
+	<script>
+    	// We want persisten UUID
+    	function epochuser () {
+			this.getUUID = function getUUID () {
+				if (localStorage && "_epochUUID" in localStorage) {
+					euid = localStorage._epochUUID;
+				} else {
+					euid = this.euid();
+					localStorage.setItem("_epochUUID",this.euid());
+				}
+				return euid;
+			}
+			this.euid = function () {
+				return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+					var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
+					return v.toString(16);
+				});
+			}
+		}
+		var epoch = {}
+		var user = new epochuser();
+	</script>
+
+	<!-- Optimize Page Hiding Snippet -->
+	<style>.async-hide { opacity: 0 !important} </style>
+	<script>
+		var settings_obj = {};
+		
+		(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+		h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+		(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+		})(window,document.documentElement,'async-hide','dataLayer',500,settings_obj);
+
+		var eet_ga_id = 'UA-10465455-30';
+		var eet_domain = 'theepochtimes.com';
+
+	  	<!-- Analytics-Optimize Snippet -->
+	  	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  	ga('create', eet_ga_id, 'auto', {'allowLinker': true});
+	  	ga('require', 'linker');
+	  	ga('linker:autoLink', ['subscribe.epochtimes.com']);
+	 </script>
+
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5Z8H4H"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+	j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5Z8H4H');
+	</script>
+
+
+	<header id="header" class="single">
+    <div class="container">
+        <div class="top_wrapper">
+            <div class="left_col">
+                <a class="toggle" href="javascript:void(0);">MENU</a>
+                <a class="about_us" href="https://www.theepochtimes.com/about-us">ABOUT US</a>
+            </div>
+            <div class="logo"><a href="https://www.theepochtimes.com/"><img src="/assets/themes/eet/images/logo_eet.svg" alt="The Epoch Times"></a></div>
+            <div class="right_col">
+                <span id="login_wrapper">
+                    <div class="anonymous">
+                        <span class="login"><a id="login-button" href="javascript:void(0)">Login</a></span>
+                    </div>
+                </span>
+                <span id="user_wrapper" class="hidden">
+                    <div class="user_name">MY ACCOUNT</div>
+                    <ul>
+                        <li><a href="https://www.theepochtimes.com/myaccount" id="myaccount" class="account">SETTINGS</a></li>
+                        <li><a href="#" id="logout-button" class="logout">LOGOUT</a></li>
+                    </ul>
+                </span>
+	            <a class="search" href="javascript:void(0);">SEARCH</a>
+            </div>
+        </div>
+        <div id="hidden_menu" class="hidden">
+            <div class="close_icon"><a href="javascript:void(0);">CLOSE</a></div>
+	        <div class="icon_wrapper">
+		        <a class="help_center" href="https://service.theepochtimes.com/web/"><span>Help Center</span></a>
+		        <a class="subscribe" href="https://subscribe.theepochtimes.com/p/?page=subhome"><span>subscribe</span></a>
+		        <a class="newsletter" href="https://www.theepochtimes.com/newsletter"><span>newsletter</span></a>
+		        <a class="newsstands" href="https://www.theepochtimes.com/where-to-buy-the-epoch-times-newspaper"><span>Newsstands</span></a>
+		        <a class="epochshop" href="https://epochshop.com/" target="_blank"><span>Epoch Shop</span></a>
+		        <a class="gift" href="https://offers.theepochtimes.com/gift" target="_blank"><span>Gift</span></a>
+	        </div>
+            <div class="full_menu_items">
+                <span class="first_col">
+                    <div class="menu-feature-menu-container"><ul id="menu-feature-menu" class="nav-menu"><li><a href="https://www.theepochtimes.com/editors-picks">Editor&#8217;s Picks</a></li>
+<li><a href="https://www.theepochtimes.com/how-the-specter-of-communism-is-ruling-our-world">SPECIAL SERIES</a></li>
+<li><a href="https://www.theepochtimes.com/c-shen-yun">Special Coverage</a></li>
+<li><a href="https://www.theepochtimes.com/latest">LATEST ARTICLES</a></li>
+</ul></div>                    <div class="menu-front-main-column1-container"><ul id="menu-front-main-column1" class="nav-menu"><li><a href="https://www.theepochtimes.com/us-news">US</a>
+<ul class="sub-menu">
+	<li><a href="https://www.theepochtimes.com/c-us-news">US News</a></li>
+	<li><a href="https://www.theepochtimes.com/c-us-features">US Features</a></li>
+	<li><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
+	<li><a href="https://www.theepochtimes.com/c-trump-presidency">Trump Presidency</a></li>
+	<li><a href="https://www.theepochtimes.com/c-crime-us">Crime and Incidents</a></li>
+	<li><a href="https://www.theepochtimes.com/c-nyc">New York</a></li>
+	<li><a href="https://www.theepochtimes.com/c-nor-cal-san-francisco">San Francisco</a></li>
+	<li><a href="https://www.theepochtimes.com/c-so-cal-los-angeles">Los Angeles</a></li>
+</ul>
+</li>
+<li><a href="https://www.theepochtimes.com/c-opinion">Opinion</a>
+<ul class="sub-menu">
+	<li><a href="https://www.theepochtimes.com/c-thinking-about-china">Thinking About China</a></li>
+	<li><a href="https://www.theepochtimes.com/c-viewpoints">Viewpoints</a></li>
+	<li><a href="https://www.theepochtimes.com/c-declassified">Declassified</a></li>
+	<li><a href="https://www.theepochtimes.com/c-american-thought-leaders">American Thought Leaders</a></li>
+	<li><a href="https://www.theepochtimes.com/c-jiang-zemin-story">Unbridled Evil: The Corrupt Reign of Jiang Zemin in China</a></li>
+</ul>
+</li>
+</ul></div>                </span>
+                <span class="second_col"><div class="menu-front-main-column2-container"><ul id="menu-front-main-column2" class="nav-menu"><li><a href="https://www.theepochtimes.com/c-china">China</a>
+<ul class="sub-menu">
+	<li><a href="https://www.theepochtimes.com/c-china-us-news">China-US News</a></li>
+	<li><a href="https://www.theepochtimes.com/c-regime">Chinese Regime</a></li>
+	<li><a href="https://www.theepochtimes.com/c-business-economy">Business &#038; Economy</a></li>
+	<li><a href="https://www.theepochtimes.com/c-culture">Chinese Culture</a></li>
+	<li><a href="https://www.theepochtimes.com/c-human-rights">China Human Rights</a></li>
+	<li><a href="https://www.theepochtimes.com/c-society">China Society</a></li>
+	<li><a href="https://www.theepochtimes.com/c-organ-harvesting-in-china">Organ Harvesting in China</a></li>
+</ul>
+</li>
+<li><a href="https://www.theepochtimes.com/c-world">World</a>
+<ul class="sub-menu">
+	<li><a href="https://www.theepochtimes.com/c-africa">Africa</a></li>
+	<li><a href="https://www.theepochtimes.com/c-americas">Americas</a></li>
+	<li><a href="https://www.theepochtimes.com/c-asia-pacific">Asia &#038; Pacific</a></li>
+	<li><a href="https://www.theepochtimes.com/c-canada2">Canada</a></li>
+	<li><a href="https://www.theepochtimes.com/c-europe">Europe</a></li>
+	<li><a href="https://www.theepochtimes.com/c-uk">UK</a></li>
+	<li><a href="https://www.theepochtimes.com/c-australia">Australia</a></li>
+	<li><a href="https://www.theepochtimes.com/c-international">International</a></li>
+	<li><a href="https://www.theepochtimes.com/c-middle-east">Middle East</a></li>
+</ul>
+</li>
+<li><a href="https://www.theepochtimes.com/c-business">Business</a>
+<ul class="sub-menu">
+	<li><a href="https://www.theepochtimes.com/c-companies">Companies</a></li>
+	<li><a href="https://www.theepochtimes.com/c-economies">Economies</a></li>
+	<li><a href="https://www.theepochtimes.com/c-markets">Markets</a></li>
+	<li><a href="https://www.theepochtimes.com/c-real-estate">Real Estate</a></li>
+</ul>
+</li>
+</ul></div></span>
+                <span class="third_col"><div class="menu-front-main-column3-container"><ul id="menu-front-main-column3" class="nav-menu"><li><a href="https://www.theepochtimes.com/c-arts-culture">ARTS &#038; CULTURE</a>
+<ul class="sub-menu">
+	<li><a href="https://www.theepochtimes.com/c-fine-arts">Fine Arts &#038; Craftsmanship</a></li>
+	<li><a href="https://www.theepochtimes.com/c-performing-arts">Performing Arts</a></li>
+	<li><a href="https://www.theepochtimes.com/c-literature">Literature</a></li>
+	<li><a href="https://www.theepochtimes.com/c-traditional-culture">Traditional Culture</a></li>
+	<li><a href="https://www.theepochtimes.com/c-shen-yun">Shen Yun Special Coverage</a></li>
+	<li><a href="https://www.theepochtimes.com/c-film-reviews">Film Reviews</a></li>
+</ul>
+</li>
+<li><a href="https://www.theepochtimes.com/c-science">Science</a>
+<ul class="sub-menu">
+	<li><a href="https://www.theepochtimes.com/c-science-news">News</a></li>
+	<li><a href="https://www.theepochtimes.com/c-space">Space</a></li>
+	<li><a href="https://www.theepochtimes.com/c-environment">Environment</a></li>
+</ul>
+</li>
+<li><a href="https://www.theepochtimes.com/c-tech">Tech</a>
+<ul class="sub-menu">
+	<li><a href="https://www.theepochtimes.com/c-tech-news">Tech News</a></li>
+	<li><a href="https://www.theepochtimes.com/c-products-reviews">Tech Products &#038; Reviews</a></li>
+	<li><a href="https://www.theepochtimes.com/c-tech-social-media">Social Media</a></li>
+</ul>
+</li>
+<li><a href="https://www.theepochtimes.com/c-sports">Sports</a></li>
+<li><a href="https://www.theepochtimes.com/c-video">Video</a>
+<ul class="sub-menu">
+	<li><a href="https://www.theepochtimes.com/c-american-thought-leaders">American Thought Leaders</a></li>
+	<li><a href="https://www.theepochtimes.com/c-declassified">Declassified</a></li>
+	<li><a href="https://www.theepochtimes.com/c-crossroads">Crossroads</a></li>
+</ul>
+</li>
+</ul></div></span>
+                <span class="fourth_col"><div class="menu-front-main-column4-container"><ul id="menu-front-main-column4" class="nav-menu"><li><a href="https://www.theepochtimes.com/c-life-tradition">Life &#038; Tradition</a>
+<ul class="sub-menu">
+	<li><a href="https://www.theepochtimes.com/c-inspired">Inspired</a></li>
+	<li><a href="https://www.theepochtimes.com/c-family-life-2">Family &#038; Home</a></li>
+	<li><a href="https://www.theepochtimes.com/c-slice-of-life">People</a></li>
+	<li><a href="https://www.theepochtimes.com/c-food-dining">Food &#038; Dining</a></li>
+	<li><a href="https://www.theepochtimes.com/c-travel">Travel</a></li>
+</ul>
+</li>
+<li><a href="https://www.theepochtimes.com/c-entertainment">Entertainment</a>
+<ul class="sub-menu">
+	<li><a href="https://www.theepochtimes.com/c-film-tv">Film &#038; TV</a></li>
+	<li><a href="https://www.theepochtimes.com/c-entertainment-news">Entertainment News</a></li>
+</ul>
+</li>
+<li><a href="https://www.theepochtimes.com/c-wellness">Mind &#038; Body</a>
+<ul class="sub-menu">
+	<li><a href="https://www.theepochtimes.com/c-health-news">News</a></li>
+	<li><a href="https://www.theepochtimes.com/c-aging">Aging</a></li>
+	<li><a href="https://www.theepochtimes.com/c-fitness-nutrition">Fitness &#038; Nutrition</a></li>
+	<li><a href="https://www.theepochtimes.com/c-treatments-and-techniques">Treatments and Techniques</a></li>
+	<li><a href="https://www.theepochtimes.com/c-traditional-chinese-medicine">Chinese Medicine</a></li>
+	<li><a href="https://www.theepochtimes.com/c-mindset">Mindset</a></li>
+</ul>
+</li>
+</ul></div></span>
+            </div>
+        </div>
+        <div id="search_pannel" class="hidden">
+            <form action="https://www.theepochtimes.com/search/" class="search_form" method="get">
+	            <label for="searchtext">Search Text</label>
+	            <input id="searchtext" itemprop="query-input" type="text" name="q">
+	            <a class="search_icon" href="javascript:void(0);">SEARCH</a>
+            </form>
+        </div>
+    </div>
+    <div class="center_container">
+        <div class="main_nav clear">
+            <div class="menu-front-page-primary-container"><ul id="menu-front-page-primary" class="nav-menu"><li><a href="https://www.theepochtimes.com/us-news">US</a></li>
+<li><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
+<li><a href="https://www.theepochtimes.com/c-china">China</a></li>
+<li><a href="https://www.theepochtimes.com/c-world">World</a></li>
+<li><a href="https://www.theepochtimes.com/c-opinion">Opinion</a></li>
+<li><a href="https://www.theepochtimes.com/c-business">Business</a></li>
+<li><a href="https://www.theepochtimes.com/c-tech">Tech</a></li>
+<li><a href="https://www.theepochtimes.com/c-science">Science</a></li>
+<li><a href="https://www.theepochtimes.com/c-life-tradition">Life &#038; Tradition</a></li>
+<li><a href="https://www.theepochtimes.com/c-wellness">Mind &#038; Body</a></li>
+<li><a href="https://www.theepochtimes.com/c-arts-culture">Arts &#038; Culture</a></li>
+<li><a href="https://www.theepochtimes.com/c-entertainment">Entertainment</a></li>
+<li><a href="https://www.theepochtimes.com/c-exclusive-videos">Videos</a></li>
+<li><a href="https://www.theepochtimes.com/live">Livestream</a></li>
+<li><a>More</a></li>
+</ul></div>        </div>
+    </div>
+</header>
+<div class="top_ad"></div>
+<main id="main" role="main">
+	<div class="main_content">
+		<div class="one_post active">
+			<div class="left_col">
+				<div class="top_content">
+										<div class="tool_box">
+						<div class="share social">
+							<div id="share_counts" class="share_counts">
+								<a class="share_link cmt_link" href="https://www.theepochtimes.com/amid-challenges-to-his-authority-xi-appeals-for-loyalty_3326711.html"><span class="share" id="share_post_3326711"></span> Shares</a>
+							</div>
+							<div id="share_now">
+								<span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/amid-challenges-to-his-authority-xi-appeals-for-loyalty_3326711.html" target="_blank">Facebook</a></span><span class="twitter"><a href="https://twitter.com/intent/tweet?text=Amid Challenges to His Authority, Xi Appeals for Loyalty&amp;url=https://www.theepochtimes.com/amid-challenges-to-his-authority-xi-appeals-for-loyalty_3326711.html&amp;via=epochtimes" target="_blank">Tweet</a></span><span class="linkedin"><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.theepochtimes.com/amid-challenges-to-his-authority-xi-appeals-for-loyalty_3326711.html" target="_blank">LinkedIn</a></span><span class="email"><a href="mailto:?subject=Amid Challenges to His Authority, Xi Appeals for Loyalty&amp;body=Amid Challenges to His Authority, Xi Appeals for Loyalty https://www.theepochtimes.com/amid-challenges-to-his-authority-xi-appeals-for-loyalty_3326711.html" target="_blank">Email</a></span>							</div>
+						</div>
+						<div class="related">
+							<div class="block_title">RELATED</div>
+															<div class="image">
+									<a href="https://www.theepochtimes.com/birx-china-has-moral-obligation-to-be-transparent-about-ccp-virus_3318558.html">
+										<img alt="Birx: China Has 'Moral Obligation' to be Transparent About CCP Virus"
+										     src="https://img.theepochtimes.com/assets/uploads/2020/04/20/deborah-birx-300x180.jpg">
+																			</a>
+								</div>
+								<div class="title"><a
+											href="https://www.theepochtimes.com/birx-china-has-moral-obligation-to-be-transparent-about-ccp-virus_3318558.html">Birx: China Has 'Moral Obligation' to be Transparent About CCP Virus</a>
+								</div>
+								<a href="https://www.theepochtimes.com/birx-china-has-moral-obligation-to-be-transparent-about-ccp-virus_3318558.html" class="cmt_link"
+								   id="cmt_post_3318558"><span class="no_comment">0</span></a>
+																<div class="image">
+									<a href="https://www.theepochtimes.com/china-in-focus-china-to-punish-officials-for-new-outbreak_3319958.html">
+										<img alt="China in Focus (April 20): Beijing District Declared 'High Risk' for CCP Virus"
+										     src="https://img.theepochtimes.com/assets/uploads/2020/04/21/Beijing-airport-300x180.jpg">
+										<span class="eet_video_icon"></span>									</a>
+								</div>
+								<div class="title"><a
+											href="https://www.theepochtimes.com/china-in-focus-china-to-punish-officials-for-new-outbreak_3319958.html">China in Focus (April 20): Beijing District Declared 'High Risk' for CCP Virus</a>
+								</div>
+								<a href="https://www.theepochtimes.com/china-in-focus-china-to-punish-officials-for-new-outbreak_3319958.html" class="cmt_link"
+								   id="cmt_post_3319958"><span class="no_comment">0</span></a>
+														</div>
+					</div>
+										<div class="active upper_row">
+						<div class="featured_image">
+						<div class="featured_img"><a href="https://img.theepochtimes.com/assets/uploads/2020/04/05/Xi-Jinping-close-up-1200x675.jpg"><img src="https://img.theepochtimes.com/assets/uploads/2020/04/05/Xi-Jinping-close-up-700x420.jpg" alt="Chinese Communist Party leader Xi Jinping visits Huoshenshan Hospital in Wuhan, the epicenter of the CCP virus outbreak, Hubei Province, China, on March 10, 2020. (Xie Huanchi/Xinhua via Reuters)"></a></div><div class="featured_caption">Chinese Communist Party leader Xi Jinping visits Huoshenshan Hospital in Wuhan, the epicenter of the CCP virus outbreak, Hubei Province, China, on March 10, 2020. (Xie Huanchi/Xinhua via Reuters)</div>						</div>
+												<div class="pricat_name">
+							<a href="https://www.theepochtimes.com/c-regime">
+							Chinese Regime							</a>
+						</div>
+												<div class="post_title"><h1><span>Amid Challenges to His Authority, Xi Appeals for Loyalty</span></h1></div>
+												<div class="author_date_tools">
+							<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-alexander-zhang">Alexander Zhang</a></span></div>							<div class="date">
+								<span class="publish">April 25, 2020</span>
+								<span class="update">Updated: April 26, 2020</span>
+							</div>
+							<div class="tools">
+								<a class="text_sizes" id="font_sizes" href="javascript:void(0)"><span class="font-bigger"></span><span class="font-smaller"></span></a>
+								<div class="print"><span class="printer"><a href="#Print" onclick="window.print(); return false;" target="_blank"><span class="text">Print</span></a></span></div>
+							</div>
+						</div>
+						<div class="post_content">
+							<p><em>News analysis</em></p>
+<p>Chinese leader Xi Jinping, whose authority has been badly dented due to his regime’s mishandling of the coronavirus outbreak, has urged Chinese Communist Party (CCP) officials to remain loyal to his leadership.</p>
+<p>During a four-day trip to the northwest province of Shaanxi, Xi called for the revival of Maoist-style absolute obedience to the CCP, and warned officials against disregarding Beijing’s orders.</p>
+<p>The trip took place amid an ongoing crackdown on Xi’s critics and suspected opponents inside the party, including top officials in the <a href="https://www.theepochtimes.com/chinese-top-public-security-official-placed-under-investigation_3318670.html">security establishment</a>.</p>
+<p>The regime’s disastrous handling of the <a href="https://www.theepochtimes.com/t-ccp-virus">CCP virus</a> outbreak has weakened Xi’s position within the party and may have emboldened his potential rivals.</p>
+<h2>‘Follow the Party’</h2>
+<p>On April 20, Xi visited a national reserve in the Qinling Mountains to stress the importance of ecological preservation, but his true intention was unmistakably political.</p>
+<p>The area was at the center of a corruption scandal that engulfed Shaanxi’s provincial leadership in 2018 when several senior officials were disciplined for repeatedly ignoring Xi’s directives demanding a full investigation into hundreds of villas illegally built on scenic spots.</p>
+<p>Shaanxi must learn lessons from this case, <a href="https://hk.epochtimes.com/news/2020-04-22/56508318">Xi</a> said on Monday, urging officials to “take note of what the central Party leadership cares about and emphasizes.”</p>
+<p>Clearly unimpressed with the current crop of CCP apparatchiks, Xi reserved his praise for the older generation.</p>
+<p>Visiting the campus of Xi’an Jiaotong University (XJTU) on April 22, he praised university staff who followed the Party’s order in the 1950s and moved from metropolitan Shanghai to the remote northwest.</p>
+<p>Jiaotong University was previously based in Shanghai, but the Mao regime moved most of its staff and equipment to Xi’an to support Soviet-sponsored industrial projects in the region.</p>
+<p>The essence of the “westward relocation spirit,” according to <a href="https://www.epochtimes.com/b5/20/4/24/n12058778.htm">Xi</a>, is to “listen to the Party’s instructions and follow the Party.”</p>
+<p>What he failed to mention was the fact that many Jiaotong University staff members who opposed the relocation were labeled as “rightists” and endured over two decades of persecution as a result.</p>
+<p>Partly due to his willingness to listen to dissent over the move, XJTU’s first president, Peng Kang, was purged as an “anti-Party element” and beaten to death during the Cultural Revolution.</p>
+<h2>Virus Deepens Rift</h2>
+<p>At a time when Xi comes under intense pressure from within the Party for his handling of the coronavirus outbreak, his demand for loyalty is not only issued verbally, but also enforced with an iron hand.</p>
+<p>Property tycoon <a href="https://www.theepochtimes.com/after-chinese-tycoon-goes-missing-growing-criticism-of-xi-leadership-hints-of-factional-infighting_3288972.html">Ren Zhiqiang</a>, an outspoken CCP “princeling,” was put under investigation on April 7 after he criticized Xi for mishandling the crisis.</p>
+<p>On April 19, just one day before Xi began his Shaanxi tour, <a href="https://www.theepochtimes.com/chinese-top-public-security-official-placed-under-investigation_3318670.html">Sun Lijun</a>, a vice minister within the Ministry of Public Security, was officially put under investigation. According to the ministry, Sun’s fate was an “inevitable result” of not only his disregard for party rules but also his “lack of respect and awe,” a euphemism for disloyalty toward Xi.</p>
+<p>A day later, it was reported that <a href="https://www.epochtimes.com/b5/20/4/21/n12050517.htm">Fu Zhenghua</a>, <a href="https://www.theepochtimes.com/t-china">China</a>’s minister of justice, had stepped down as his ministry’s deputy Party chief, a clear indication that he is facing imminent sacking or even investigation.</p>
+<p>Both Sun and Fu previously served as leaders of the “610 Office,” a Gestapo-style body set up by former CCP chief Jiang Zemin to persecute the Falun Gong spiritual movement.</p>
+<p>The latest developments, analysts say, may signal another round of purge in the CCP’s security establishment, which has close links to Jiang’s faction, widely known as the “Shanghai gang.”</p>
+<p>Speculation has been circulating in the Beijing rumor mill that <a href="https://hk.epochtimes.com/news/2020-04-24/53304762">Meng Jianzhu</a>, the CCP’s former security chief and Politburo member who retired in 2017, may also get implicated. Sun previously served as Meng’s secretary.</p>
+<p>Beijing has been claiming that the pandemic calls for international solidarity. But as Xi’s appeal for loyalty and his purge of suspected opponents suggest, the COVID-19 crisis may have split his own Party even further.</p>
+						</div>
+					</div>
+				</div>
+								<div class="bottom_recm"><div class="top_news"><div class="block_title"><a href="https://www.theepochtimes.com/top-news">TOP NEWS</a></div><div class="top_news_articles"><div class="one_post num_0"><div class="image"><a title="Pelosi: Pandemic Funds for States Coming in Next Relief Bill" href="https://www.theepochtimes.com/pelosi-pandemic-funds-for-states-coming-in-next-relief-bill_3328068.html"><img alt="Pelosi: Pandemic Funds for States Coming in Next Relief Bill" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2020/04/23/Nancy-Pelosi-at-Capitol-Hill-300x180.jpg"><noscript><img alt="Pelosi: Pandemic Funds for States Coming in Next Relief Bill" src="https://img.theepochtimes.com/assets/uploads/2020/04/23/Nancy-Pelosi-at-Capitol-Hill-300x180.jpg"></noscript></a></div><div class="byline date more_info"><span class="time category_name"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></span></div><a href="https://www.theepochtimes.com/pelosi-pandemic-funds-for-states-coming-in-next-relief-bill_3328068.html"><div class="title">Pelosi: Pandemic Funds for States Coming in Next Relief Bill</div></a><a href="https://www.theepochtimes.com/pelosi-pandemic-funds-for-states-coming-in-next-relief-bill_3328068.html" class="cmt_link" id="cmt_post_3328068"><span class="no_comment">0</span></a></div><div class="one_post num_1"><div class="image"><a title="Mnuchin: US Economy Will ‘Really Bounce Back’ in Summer Months" href="https://www.theepochtimes.com/mnuchin-us-economy-will-really-bounce-back-in-summer-months_3328061.html"><img alt="Mnuchin: US Economy Will ‘Really Bounce Back’ in Summer Months" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2020/04/27/mnuchin-300x180.jpg"><noscript><img alt="Mnuchin: US Economy Will ‘Really Bounce Back’ in Summer Months" src="https://img.theepochtimes.com/assets/uploads/2020/04/27/mnuchin-300x180.jpg"></noscript></a></div><div class="byline date more_info"><span class="time category_name"><a href="https://www.theepochtimes.com/c-us-news">US News</a></span></div><a href="https://www.theepochtimes.com/mnuchin-us-economy-will-really-bounce-back-in-summer-months_3328061.html"><div class="title">Mnuchin: US Economy Will ‘Really Bounce Back’ in Summer Months</div></a><a href="https://www.theepochtimes.com/mnuchin-us-economy-will-really-bounce-back-in-summer-months_3328061.html" class="cmt_link" id="cmt_post_3328061"><span class="no_comment">0</span></a></div><div class="one_post num_2"><div class="image"><a title="Editorial: There Is A Cure for the Chinese Communist Party Pneumonia—Say No to the CCP" href="https://www.theepochtimes.com/editorial-there-is-a-cure-for-the-chinese-communist-party-pneumonia-say-no-to-the-ccp_3327913.html"><img alt="Editorial: There Is A Cure for the Chinese Communist Party Pneumonia—Say No to the CCP" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2020/04/27/Wall-Street-long-shot-300x180.jpg"><noscript><img alt="Editorial: There Is A Cure for the Chinese Communist Party Pneumonia—Say No to the CCP" src="https://img.theepochtimes.com/assets/uploads/2020/04/27/Wall-Street-long-shot-300x180.jpg"></noscript></a></div><div class="byline date more_info"><span class="time category_name"><a href="https://www.theepochtimes.com/c-thinking-about-china">Thinking About China</a></span></div><a href="https://www.theepochtimes.com/editorial-there-is-a-cure-for-the-chinese-communist-party-pneumonia-say-no-to-the-ccp_3327913.html"><div class="title">Editorial: There Is A Cure for the Chinese Communist Party Pneumonia—Say No to the CCP</div></a><a href="https://www.theepochtimes.com/editorial-there-is-a-cure-for-the-chinese-communist-party-pneumonia-say-no-to-the-ccp_3327913.html" class="cmt_link" id="cmt_post_3327913"><span class="no_comment">0</span></a></div><div class="one_post num_3 clear"><div class="image"><a title="Governors Discuss Reopening Plans as Pandemic Ebbs" href="https://www.theepochtimes.com/governors-discuss-reopening-plans-as-pandemic-ebbs_3327826.html"><img alt="Governors Discuss Reopening Plans as Pandemic Ebbs" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2020/04/08/phil-murphy-300x180.jpg"><noscript><img alt="Governors Discuss Reopening Plans as Pandemic Ebbs" src="https://img.theepochtimes.com/assets/uploads/2020/04/08/phil-murphy-300x180.jpg"></noscript></a></div><div class="byline date more_info"><span class="time category_name"><a href="https://www.theepochtimes.com/c-us-news">US News</a></span></div><a href="https://www.theepochtimes.com/governors-discuss-reopening-plans-as-pandemic-ebbs_3327826.html"><div class="title">Governors Discuss Reopening Plans as Pandemic Ebbs</div></a><a href="https://www.theepochtimes.com/governors-discuss-reopening-plans-as-pandemic-ebbs_3327826.html" class="cmt_link" id="cmt_post_3327826"><span class="no_comment">0</span></a></div><div class="one_post num_4"><div class="image"><a title="Supreme Court Expands EPA Power to Regulate Groundwater Discharges" href="https://www.theepochtimes.com/supreme-court-expands-epa-power-to-regulate-groundwater-discharges_3327819.html"><img alt="Supreme Court Expands EPA Power to Regulate Groundwater Discharges" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2020/04/26/GettyImages-1078464294-300x180.jpg"><noscript><img alt="Supreme Court Expands EPA Power to Regulate Groundwater Discharges" src="https://img.theepochtimes.com/assets/uploads/2020/04/26/GettyImages-1078464294-300x180.jpg"></noscript></a></div><div class="byline date more_info"><span class="time category_name"><a href="https://www.theepochtimes.com/c-judiciary">Judiciary</a></span></div><a href="https://www.theepochtimes.com/supreme-court-expands-epa-power-to-regulate-groundwater-discharges_3327819.html"><div class="title">Supreme Court Expands EPA Power to Regulate Groundwater Discharges</div></a><a href="https://www.theepochtimes.com/supreme-court-expands-epa-power-to-regulate-groundwater-discharges_3327819.html" class="cmt_link" id="cmt_post_3327819"><span class="no_comment">0</span></a></div><div class="one_post num_5"><div class="image"><a title="Beijing Issues New Law, District Sets Strict Quarantine Measures to Contain Virus" href="https://www.theepochtimes.com/district-in-beijing-issues-new-law-strict-quarantine-measures-in-attempt-to-contain-virus_3327736.html"><img alt="Beijing Issues New Law, District Sets Strict Quarantine Measures to Contain Virus" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2020/04/23/GettyImages-1210647848-300x180.jpg"><noscript><img alt="Beijing Issues New Law, District Sets Strict Quarantine Measures to Contain Virus" src="https://img.theepochtimes.com/assets/uploads/2020/04/23/GettyImages-1210647848-300x180.jpg"></noscript></a></div><div class="byline date more_info"><span class="time category_name"><a href="https://www.theepochtimes.com/c-inside-china">INSIDE CHINA</a></span></div><a href="https://www.theepochtimes.com/district-in-beijing-issues-new-law-strict-quarantine-measures-in-attempt-to-contain-virus_3327736.html"><div class="title">Beijing Issues New Law, District Sets Strict Quarantine Measures to Contain Virus</div></a><a href="https://www.theepochtimes.com/district-in-beijing-issues-new-law-strict-quarantine-measures-in-attempt-to-contain-virus_3327736.html" class="cmt_link" id="cmt_post_3327736"><span class="no_comment">0</span></a></div></div></div><div id="partnership"></div></div>		  </div>
+
+		  <div class="right_col">
+			<div id="sidebar_comments"></div>		  </div>
+		</div>
+	</div>
+
+</main>
+<footer id="footer">
+	<div class="container">
+		<div class="toprow bottom_logo">
+			<div class="logo">
+				<a href="https://www.theepochtimes.com">
+					<img src="https://www.theepochtimes.com/assets/themes/eet/images/EET_footer.png" alt="The Epoch Times">
+				</a>
+			</div>
+		</div>
+		<div class="copyright clear">Copyright © 2000 - 2020</div>
+	</div>
+	<div id="backtotop">
+		<a title="back to top" href="javascript:void(0);" class="totop">Back Top</a>
+	</div>
+	<div class="cookie-bar">
+            <span class="warning-text">We use cookies to understand how you use our site and to improve your experience. This includes personalizing content and advertising. By continuing to use our site, you accept our use of cookies, revised Privacy Policy and Terms of Use.</span>
+            <span class="read-more"><a href="https://www.theepochtimes.com/privacy-notice">More information</a></span><span class="accept-btn"><a href="#">I accept</a></span><span id="top_close"><a href="javascript:void(0)" id="x_close">&#215;</a></span>
+		</div></footer>
+	<script type='text/javascript' src='//vs.youmaker.com/js/jwplayer/jwplayer8-all.js'></script>
+	<link rel='stylesheet' target="_blank" href='//vs.youmaker.com/css/api2.css' type='text/css' media='all' />
+		<script>
+	  if ( typeof(eet_primary_category) != "undefined" && eet_primary_category !== null ) {
+		  ga('set', 'dimension1', eet_primary_category);
+	  }
+	  if ( typeof(eet_cat_ids) != "undefined" && eet_cat_ids !== null ) {
+		  ga('set', 'dimension3', ";" + eet_cat_ids.substring(0, 149) + ";");
+	  }
+	  if ( typeof(eet_term_ids) != "undefined" && eet_term_ids !== null ) {
+		  ga('set', 'dimension4', ";" + eet_term_ids.substring(0, 149) + ";");
+	  }
+	  if ( typeof(eet_all_term_ids) != "undefined" && eet_all_term_ids !== null ) {
+		  ga('set', 'dimension5', ";" + eet_all_term_ids.substring(0, 149) + ";");
+	  }
+	  if ( typeof(eet_post_id) != "undefined" && eet_post_id !== null ) {
+		  ga('set', 'dimension21', eet_post_id);
+	  }
+	  if ( typeof(eet_author_name) != "undefined" && eet_author_name !== null ) {
+		  ga('set', 'dimension23', eet_author_name);
+	  }
+	  if ( typeof(eet_primary_category_name) != "undefined" && eet_primary_category_name !== null ) {
+		  ga('set', 'dimension26', eet_primary_category_name);
+	  }
+	  if ( typeof(eet_cat_names) != "undefined" && eet_cat_names !== null ) {
+		  ga('set', 'dimension28', ";" + eet_cat_names + ";");
+	  }
+	  if ( typeof(eet_tags) != "undefined" && eet_tags !== null ) {
+		  ga('set', 'dimension29', ";" + eet_tags + ";");
+	  }
+	  if ( typeof(eet_publish_date) != "undefined" && eet_publish_date !== null ) {
+		  ga('set', 'dimension30', eet_publish_date);
+	  }
+	  if ( typeof(eet_last_updated_date) != "undefined" && eet_last_updated_date !== null ) {
+		  ga('set', 'dimension31', eet_last_updated_date);
+	  }
+	  if ( typeof(eet_word_count) != "undefined" && eet_word_count !== null ) {
+		  ga('set', 'dimension33', eet_word_count);
+	  }
+
+	  if ( typeof(epoch.uuid) != "undefined" && epoch.uuid !== null ) {
+		  ga('set', 'dimension38', epoch.uuid);
+	  }
+
+	  if ( typeof(eet_tags_slugs) != "undefined" && eet_tags_slugs !== null ) {
+		  ga('set', 'dimension42', ";" + eet_tags_slugs.substring(0, 149) + ";");
+	  }
+	  if ( typeof(eet_page_type) != "undefined" && eet_page_type !== null ) {
+		  ga('set', 'dimension43', eet_page_type);
+	  }
+
+	  // load parameters from URL and save them into custom dimension
+	  var eet_ref = getUrlParameter('ref');
+	  var eet_refcat = getUrlParameter('refcat');
+	  var eet_refname = getUrlParameter('refname');
+	  var eet_refpos = getUrlParameter('refpos');
+	  if (eet_ref) {
+		  ga('set', 'dimension34', eet_ref);
+	  }
+	  if (eet_refcat) {
+		  ga('set', 'dimension35', eet_refcat);
+	  }
+	  if (eet_refname) {
+		  ga('set', 'dimension36', eet_refname);
+	  }
+	  if (eet_refpos) {
+		  ga('set', 'dimension37', eet_refpos);
+	  }
+	  var url_path = window.location.pathname;
+	  if (url_path.indexOf('theepochtimes.com') > 0) {
+		  var arr_path = url_path.split('theepochtimes.com');
+		  if (arr_path.length == 2) {
+			  url_path = arr_path[1];
+		  }
+	  }
+	  ga('send', 'pageview', url_path);
+
+	  function getUrlParameter(name) {
+		  name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+		  var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+		  var results = regex.exec(location.search);
+		  return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+	  };
+
+	</script>
+
+	<script type='text/javascript' src='https://www.theepochtimes.com/assets/themes/eet/js/jquery-all.min.js?ver=20170224'></script>
+<script type='text/javascript' src='https://www.theepochtimes.com/assets/themes/eet/js/bottom.min.js?ver=20191209'></script>
+<script type='text/javascript' src='https://www.theepochtimes.com/assets/themes/eet/js/remark.min.js?ver=20190223'></script>
+<script type='text/javascript' src='https://www.theepochtimes.com/assets/themes/eet/js/article_ads_prebid.js?ver=20191008'></script>
+</body>
+</html>

@@ -1,0 +1,449 @@
+<!doctype html><html
+lang="en-US"><head><meta
+charset="UTF-8"><meta
+name="viewport" content="width=device-width, initial-scale=1"><link
+rel="profile" href="http://gmpg.org/xfn/11"><title>Hospitals Around the World are Being Targeted by Conspiracy Theorists -</title><meta
+name="description" content="The COVID19MisInfo Portal is a rapid response project of the Ryerson Social Media Lab at Ted Rogers School of Management. The project is funded by the Government of Canada via the Canadian Institutes of Health Research (CIHR). The aim of this project is two-fold: (1) put a spotlight on COVID-19 related misinformation and (2) to provide Canadians with timely and actionable information that we all can use to protect ourselves and our communities. Our team of computational social scientists, communications professionals and developers are hard at work curating trusted information about COVID-19 and developing additional real-time information visualization dashboards to keep track of false claims related to COVID-19 from around the web."/><meta
+name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/><link
+rel="canonical" href="https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/" /><meta
+property="og:locale" content="en_US" /><meta
+property="og:type" content="article" /><meta
+property="og:title" content="Hospitals Around the World are Being Targeted by Conspiracy Theorists -" /><meta
+property="og:description" content="The COVID19MisInfo Portal is a rapid response project of the Ryerson Social Media Lab at Ted Rogers School of Management. The project is funded by the Government of Canada via the Canadian Institutes of Health Research (CIHR). The aim of this project is two-fold: (1) put a spotlight on COVID-19 related misinformation and (2) to provide Canadians with timely and actionable information that we all can use to protect ourselves and our communities. Our team of computational social scientists, communications professionals and developers are hard at work curating trusted information about COVID-19 and developing additional real-time information visualization dashboards to keep track of false claims related to COVID-19 from around the web." /><meta
+property="og:url" content="https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/" /><meta
+property="article:publisher" content="https://www.facebook.com/SMLabTO" /><meta
+property="article:tag" content="Case Study" /><meta
+property="article:tag" content="Conspiracy Theory" /><meta
+property="article:tag" content="FilmYourHospital" /><meta
+property="article:section" content="Trending" /><meta
+property="article:published_time" content="2020-04-21T18:12:21+00:00" /><meta
+property="article:modified_time" content="2020-04-22T01:06:15+00:00" /><meta
+property="og:updated_time" content="2020-04-22T01:06:15+00:00" /><meta
+property="og:image" content="https://covid19misinfo.org/wp-content/uploads/2020/04/image4.png" /><meta
+property="og:image:secure_url" content="https://covid19misinfo.org/wp-content/uploads/2020/04/image4.png" /><meta
+property="og:image:width" content="1424" /><meta
+property="og:image:height" content="1238" /><meta
+name="twitter:card" content="summary_large_image" /><meta
+name="twitter:description" content="The COVID19MisInfo Portal is a rapid response project of the Ryerson Social Media Lab at Ted Rogers School of Management. The project is funded by the Government of Canada via the Canadian Institutes of Health Research (CIHR). The aim of this project is two-fold: (1) put a spotlight on COVID-19 related misinformation and (2) to provide Canadians with timely and actionable information that we all can use to protect ourselves and our communities. Our team of computational social scientists, communications professionals and developers are hard at work curating trusted information about COVID-19 and developing additional real-time information visualization dashboards to keep track of false claims related to COVID-19 from around the web." /><meta
+name="twitter:title" content="Hospitals Around the World are Being Targeted by Conspiracy Theorists -" /><meta
+name="twitter:site" content="@smlabto" /><meta
+name="twitter:image" content="https://covid19misinfo.org/wp-content/uploads/2020/04/image4.png" /><meta
+name="twitter:creator" content="@smlabto" /><script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>/*<![CDATA[*/{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://covid19misinfo.org/#organization","name":"Ryerson University Social Media Lab","url":"https://covid19misinfo.org/","sameAs":["https://www.facebook.com/SMLabTO","https://www.linkedin.com/company/ryerson-social-media-lab/","https://www.youtube.com/channel/UCgnJ974MxLvUu2LlxCpodYg","https://twitter.com/smlabto"],"logo":{"@type":"ImageObject","@id":"https://covid19misinfo.org/#logo","inLanguage":"en-US","url":"https://covid19misinfo.org/wp-content/uploads/2020/03/sml-round-Twitter-logo.jpg","width":400,"height":400,"caption":"Ryerson University Social Media Lab"},"image":{"@id":"https://covid19misinfo.org/#logo"}},{"@type":"WebSite","@id":"https://covid19misinfo.org/#website","url":"https://covid19misinfo.org/","name":"","inLanguage":"en-US","publisher":{"@id":"https://covid19misinfo.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://covid19misinfo.org/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"ImageObject","@id":"https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/#primaryimage","inLanguage":"en-US","url":"https://covid19misinfo.org/wp-content/uploads/2020/04/image4.png","width":1424,"height":1238},{"@type":"WebPage","@id":"https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/#webpage","url":"https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/","name":"Hospitals Around the World are Being Targeted by Conspiracy Theorists -","isPartOf":{"@id":"https://covid19misinfo.org/#website"},"inLanguage":"en-US","primaryImageOfPage":{"@id":"https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/#primaryimage"},"datePublished":"2020-04-21T18:12:21+00:00","dateModified":"2020-04-22T01:06:15+00:00","description":"The COVID19MisInfo Portal is a rapid response project of the Ryerson Social Media Lab at Ted Rogers School of Management. The project is funded by the Government of Canada via the Canadian Institutes of Health Research (CIHR). The aim of this project is two-fold: (1) put a spotlight on COVID-19 related misinformation and (2) to provide Canadians with timely and actionable information that we all can use to protect ourselves and our communities. Our team of computational social scientists, communications professionals and developers are hard at work curating trusted information about COVID-19 and developing additional real-time information visualization dashboards to keep track of false claims related to COVID-19 from around the web.","potentialAction":[{"@type":"ReadAction","target":["https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/"]}]},{"@type":"Article","@id":"https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/#article","isPartOf":{"@id":"https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/#webpage"},"author":{"@id":"https://covid19misinfo.org/#/schema/person/b65cf40a994c115a0252bfa3d231cec9"},"headline":"Hospitals Around the World are Being Targeted by Conspiracy Theorists","datePublished":"2020-04-21T18:12:21+00:00","dateModified":"2020-04-22T01:06:15+00:00","commentCount":0,"mainEntityOfPage":{"@id":"https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/#webpage"},"publisher":{"@id":"https://covid19misinfo.org/#organization"},"image":{"@id":"https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/#primaryimage"},"keywords":"Case Study,Conspiracy Theory,FilmYourHospital","articleSection":"Trending","inLanguage":"en-US"},{"@type":["Person"],"@id":"https://covid19misinfo.org/#/schema/person/b65cf40a994c115a0252bfa3d231cec9","name":"Social Media Lab","image":{"@type":"ImageObject","@id":"https://covid19misinfo.org/#authorlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/1da27828a514d91be63f209f395b3615?s=96&d=mm&r=g","caption":"Social Media Lab"},"sameAs":[]}]}/*]]>*/</script><link
+rel='dns-prefetch' href='//fonts.googleapis.com' /><link
+rel='dns-prefetch' href='//s.w.org' /><link
+rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="https://covid19misinfo.org/feed/" /><link
+rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="https://covid19misinfo.org/comments/feed/" /><link
+rel="alternate" type="application/rss+xml" title=" &raquo; Hospitals Around the World are Being Targeted by Conspiracy Theorists Comments Feed" href="https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/feed/" /><script type="text/javascript">/*<![CDATA[*/window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/covid19misinfo.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4"}};!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);/*]]>*/</script><style type="text/css">img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0
+.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0
+!important}</style><link
+rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.4/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' /><style id='wp-block-library-inline-css' type='text/css'>.has-text-align-justify{text-align:justify}</style><link
+rel='stylesheet' id='pb-accordion-blocks-style-css'  href="https://covid19misinfo.org/wp-content/plugins/accordion-blocks/css/accordion-blocks.css?ver=1.1.2&amp;36601f&amp;36601f" type='text/css' media='all' /><link
+rel='stylesheet' id='font-awesome-css'  href="https://covid19misinfo.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0&amp;36601f&amp;36601f" type='text/css' media='all' /><link
+rel='stylesheet' id='bootstrap-css'  href="https://covid19misinfo.org/wp-content/themes/newsium/assets/bootstrap/css/bootstrap.min.css?ver=5.4&amp;36601f&amp;36601f" type='text/css' media='all' /><link
+rel='stylesheet' id='slick-css-css'  href="https://covid19misinfo.org/wp-content/themes/newsium/assets/slick/css/slick.min.css?ver=5.4&amp;36601f&amp;36601f" type='text/css' media='all' /><link
+rel='stylesheet' id='sidr-css'  href="https://covid19misinfo.org/wp-content/themes/newsium/assets/sidr/css/jquery.sidr.dark.css?ver=5.4&amp;36601f&amp;36601f" type='text/css' media='all' /><link
+rel='stylesheet' id='magnific-popup-css'  href="https://covid19misinfo.org/wp-content/themes/newsium/assets/magnific-popup/magnific-popup.css?ver=5.4&amp;36601f&amp;36601f" type='text/css' media='all' /><link
+rel='stylesheet' id='newsium-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700|Lato:400,300,400italic,900,700&#038;subset=latin,latin-ext' type='text/css' media='all' /><link
+rel='stylesheet' id='newsium-style-css'  href="https://covid19misinfo.org/wp-content/themes/newsium/style.css?ver=5.4&amp;36601f&amp;36601f" type='text/css' media='all' /><link
+rel='stylesheet' id='social-logos-css'  href='https://c0.wp.com/p/jetpack/8.4.2/_inc/social-logos/social-logos.min.css' type='text/css' media='all' /><link
+rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/8.4.2/css/jetpack.css' type='text/css' media='all' /><script type='text/javascript' src='https://c0.wp.com/c/5.4/wp-includes/js/jquery/jquery.js'></script><script type='text/javascript' src='https://c0.wp.com/c/5.4/wp-includes/js/jquery/jquery-migrate.min.js'></script><link
+rel='https://api.w.org/' href='https://covid19misinfo.org/wp-json/' /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="https://covid19misinfo.org/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://covid19misinfo.org/wp-includes/wlwmanifest.xml?36601f&amp;36601f" /><meta
+name="generator" content="WordPress 5.4" /><link
+rel='shortlink' href='https://covid19misinfo.org/?p=1387' /><link
+rel="alternate" type="application/json+oembed" href="https://covid19misinfo.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcovid19misinfo.org%2F2020%2F04%2F21%2Fhospitals-around-the-world-are-being-targeted-by-conspiracy-theorists%2F" /><link
+rel="alternate" type="text/xml+oembed" href="https://covid19misinfo.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcovid19misinfo.org%2F2020%2F04%2F21%2Fhospitals-around-the-world-are-being-targeted-by-conspiracy-theorists%2F&#038;format=xml" /><link
+rel='dns-prefetch' href='//c0.wp.com'/><link
+rel='dns-prefetch' href='//v0.wordpress.com'/><style type='text/css'>img#wpstats{display:none}</style><link
+rel="pingback" href="https://covid19misinfo.org/xmlrpc.php"><style type="text/css">body .header-style1 .top-header.data-bg:before,
+body .header-style1 .main-header.data-bg:before{background:rgba(0, 0, 0, 0)}body .site-title a,
+.site-header .site-branding .site-title a:visited,
+.site-header .site-branding .site-title a:hover,.site-description{color:#fff}.header-layout-3 .site-header .site-branding .site-title,
+.site-branding .site-title{font-size:35px}@media only screen and (max-width: 640px){.site-branding .site-title{font-size:40px}}@media only screen and (max-width: 375px){.site-branding .site-title{font-size:32px}}</style><style type="text/css">html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image{display:none}</style><script>document.documentElement.classList.add('jetpack-lazy-images-js-enabled');</script><link
+rel="icon" href="https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-C19MISINFO_THUMBNAIL1-32x32.png?36601f&amp;36601f" sizes="32x32" /><link
+rel="icon" href="https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-C19MISINFO_THUMBNAIL1-192x192.png?36601f&amp;36601f" sizes="192x192" /><link
+rel="apple-touch-icon" href="https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-C19MISINFO_THUMBNAIL1-180x180.png?36601f&amp;36601f" /><meta
+name="msapplication-TileImage" content="https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-C19MISINFO_THUMBNAIL1-270x270.png" /></head><body
+class="post-template-default single single-post postid-1387 single-format-standard wp-custom-logo aft-default-mode aft-hide-comment-count-in-list aft-hide-minutes-read-in-list aft-hide-date-author-in-list default-content-layout content-with-single-sidebar align-content-left elementor-default"><div
+id="page" class="site"> <a
+class="skip-link screen-reader-text" href="#content">Skip to content</a><header
+id="masthead" class="header-style1 header-layout-1"><div
+class="top-header"><div
+class="container-wrapper"><div
+class="top-bar-flex"><div
+class="top-bar-left col-2"><div
+class="date-bar-left"></div></div><div
+class="top-bar-right col-2"> <span
+class="aft-small-social-menu"><div
+class="social-navigation"><ul
+id="social-menu" class="menu"><li
+id="menu-item-837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-837"><a
+href="https://twitter.com/smlabto"><span
+class="screen-reader-text">@SMLabTO Twitter account</span></a></li></ul></div> </span></div></div></div></div><div
+class="main-header  data-bg"
+data-background="https://covid19misinfo.org/wp-content/uploads/2020/03/cropped-coronavirus-banner.jpg"><div
+class="container-wrapper"><div
+class="af-container-row af-flex-container"><div
+class="col-3 float-l pad"><div
+class="logo-brand"><div
+class="site-branding"> <a
+href="https://covid19misinfo.org/" class="custom-logo-link" rel="home"><img
+width="600" height="372" src="https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-4logos_V1-1.png?36601f&amp;36601f" class="custom-logo jetpack-lazy-image" alt="" data-lazy-srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-4logos_V1-1.png 600w, https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-4logos_V1-1-300x186.png 300w" data-lazy-sizes="(max-width: 600px) 100vw, 600px" data-lazy-src="https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-4logos_V1-1.png?is-pending-load=1&amp;36601f&amp;36601f" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /></a><p
+class="site-title font-family-1"> <a
+href="https://covid19misinfo.org/"
+rel="home"></a></p></div></div></div><div
+class="col-66 float-l pad"></div></div></div></div><div
+class="header-menu-part"><div
+id="main-navigation-bar" class="bottom-bar"><div
+class="navigation-section-wrapper"><div
+class="container-wrapper"><div
+class="header-middle-part"><div
+class="navigation-container"> <nav
+class="main-navigation clearfix"> <span
+class="aft-home-icon"> <a
+href="https://covid19misinfo.org"> <i
+class="fa fa-home" aria-hidden="true"></i> </a> </span> <span
+class="toggle-menu" aria-controls="primary-menu"
+aria-expanded="false"> <span
+class="screen-reader-text"> Primary Menu </span> <i
+class="ham"></i> </span><div
+class="menu main-menu menu-desktop show-menu-border"><ul
+id="primary-menu" class="menu"><li
+id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a
+href="https://covid19misinfo.org/misinfowatch/">Misinformation Watch</a></li><li
+id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a
+href="https://covid19misinfo.org/botswatch/">COVID BotsWatch</a></li><li
+id="menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241"><a
+href="https://covid19misinfo.org/facebook-trending/">Facebook Trends</a></li><li
+id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a
+href="https://covid19misinfo.org/covid19stats/">COVID Stats</a></li><li
+id="menu-item-524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524"><a
+href="https://covid19misinfo.org/covid-19-explained/">COVID Explained</a></li><li
+id="menu-item-226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a
+href="https://covid19misinfo.org/covid19-resources/">Provincial Resources</a></li><li
+id="menu-item-553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-553"><a
+href="https://covid19misinfo.org/about-page/">About</a></li></ul></div> </nav></div></div><div
+class="header-right-part"><div
+class="af-search-wrap"><div
+class="search-overlay"> <a
+href="#" title="Search" class="search-icon"> <i
+class="fa fa-search"></i> </a><div
+class="af-search-form"><form
+role="search" method="get" class="search-form" action="https://covid19misinfo.org/"> <label> <span
+class="screen-reader-text">Search for:</span> <input
+type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" /> </label> <input
+type="submit" class="search-submit" value="Search" /></form></div></div></div></div></div></div></div></div> </header> <header
+class="entry-header pos-rel aft-no-featured-image"><div
+class="container-wrapper "><div
+class="read-details af-container-block-wrapper"><div
+class="entry-header-details"><div
+class="figure-categories figure-categories-bg"><ul
+class="cat-links"><li
+class="meta-category"> <a
+class="newsium-categories category-color-1" href="https://covid19misinfo.org/category/trending/" alt="View all posts in Trending"> Trending </a></li></ul></div><h1 class="entry-title">Hospitals Around the World are Being Targeted by Conspiracy Theorists</h1></div></div></div></header><div
+class="container-wrapper"><div
+class="af-breadcrumbs font-family-1 color-pad af-container-block-wrapper"><div
+role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul
+class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta
+name="numberOfItems" content="5" /><meta
+name="itemListOrder" content="Ascending" /><li
+itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a
+href="https://covid19misinfo.org/" rel="home" itemprop="item"><span
+itemprop="name">Home</span></a><meta
+itemprop="position" content="1" /></li><li
+itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item"><a
+href="https://covid19misinfo.org/2020/" itemprop="item"><span
+itemprop="name">2020</span></a><meta
+itemprop="position" content="2" /></li><li
+itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item"><a
+href="https://covid19misinfo.org/2020/04/" itemprop="item"><span
+itemprop="name">April</span></a><meta
+itemprop="position" content="3" /></li><li
+itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item"><a
+href="https://covid19misinfo.org/2020/04/21/" itemprop="item"><span
+itemprop="name">21</span></a><meta
+itemprop="position" content="4" /></li><li
+itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><a
+href="https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/" itemprop="item"><span
+itemprop="name">Hospitals Around the World are Being Targeted by Conspiracy Theorists</span></a><meta
+itemprop="position" content="5" /></li></ul></div></div></div><div
+id="content" class="container-wrapper "><div
+class="af-container-block-wrapper clearfix"><div
+id="primary" class="content-area "> <main
+id="main" class="site-main "> <article
+id="post-1387" class="post-1387 post type-post status-publish format-standard hentry category-trending tag-case-study tag-conspiracy-theory tag-filmyourhospital"><div
+class="entry-content-wrap read-single"><div
+class="post-meta-share-wrapper"><div
+class="post-meta-detail"> <span
+class="min-read-post-format"> </span> <span
+class="entry-meta"> <span
+class="item-metadata posts-author byline"> <i
+class="fa fa-pencil-square-o"></i> <a
+href="https://covid19misinfo.org/author/smlabto/"> Social Media Lab </a> </span> </span> <span
+class="item-metadata posts-date"> <i
+class="fa fa-clock-o"></i> 6 days ago </span></div><div
+class="aft-social-share"><div
+class="sharedaddy sd-sharing-enabled"><div
+class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div
+class="sd-content"><ul><li
+class="share-email"><a
+rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon no-text" href="https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/?share=email" target="_blank" title="Click to email this to a friend"><span></span><span
+class="sharing-screen-reader-text">Click to email this to a friend (Opens in new window)</span></a></li><li
+class="share-twitter"><a
+rel="nofollow noopener noreferrer" data-shared="sharing-twitter-1387" class="share-twitter sd-button share-icon no-text" href="https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span
+class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li
+class="share-facebook"><a
+rel="nofollow noopener noreferrer" data-shared="sharing-facebook-1387" class="share-facebook sd-button share-icon no-text" href="https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/?share=facebook" target="_blank" title="Click to share on Facebook"><span></span><span
+class="sharing-screen-reader-text">Click to share on Facebook (Opens in new window)</span></a></li><li
+class="share-linkedin"><a
+rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-1387" class="share-linkedin sd-button share-icon no-text" href="https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span></span><span
+class="sharing-screen-reader-text">Click to share on LinkedIn (Opens in new window)</span></a></li><li
+class="share-jetpack-whatsapp"><a
+rel="nofollow noopener noreferrer" data-shared="" class="share-jetpack-whatsapp sd-button share-icon no-text" href="https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/?share=jetpack-whatsapp" target="_blank" title="Click to share on WhatsApp"><span></span><span
+class="sharing-screen-reader-text">Click to share on WhatsApp (Opens in new window)</span></a></li><li
+class="share-reddit"><a
+rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon no-text" href="https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/?share=reddit" target="_blank" title="Click to share on Reddit"><span></span><span
+class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li
+class="share-end"></li></ul></div></div></div></div></div><div
+class="entry-content read-details"><h3>New Analysis from @SMLabTo Shows How a Meme is Being Used as a Weapon Against Expertise</h3><figure
+class="wp-block-image size-large"><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-coronavirus-banner_1-1024x323.jpg?36601f&amp;36601f" alt class="wp-image-1016 jetpack-lazy-image" data-lazy-srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-coronavirus-banner_1-1024x323.jpg 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-coronavirus-banner_1-300x95.jpg 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-coronavirus-banner_1-768x243.jpg 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-coronavirus-banner_1-1536x485.jpg 1536w, https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-coronavirus-banner_1.jpg 1900w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-coronavirus-banner_1-1024x323.jpg?is-pending-load=1&amp;36601f&amp;36601f" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-coronavirus-banner_1-1024x323.jpg?36601f&amp;36601f" alt="" class="wp-image-1016" srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-coronavirus-banner_1-1024x323.jpg 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-coronavirus-banner_1-300x95.jpg 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-coronavirus-banner_1-768x243.jpg 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-coronavirus-banner_1-1536x485.jpg 1536w, https://covid19misinfo.org/wp-content/uploads/2020/04/cropped-coronavirus-banner_1.jpg 1900w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript></figure><p>Post by:<em>&nbsp;Anatoliy Gruzd and Philip Mai</em></p><p>In the midst of a global pandemic, conspiracy theorists have found yet another way to spread dangerous <a
+rel="noreferrer noopener" href="https://qz.com/1476670/misinformation-is-dictionary-coms-word-of-the-year-dont-confuse-it-with-disinformation/" target="_blank">disinformation and misinformation</a> about COVID-19, sowing seeds of doubts about its severity and denying the very existence of the pandemic.</p><p>Since March 28, conspiracy theorists&#8230;aka “<a
+rel="noreferrer noopener" href="https://www.nbcnews.com/tech/social-media/coronavirus-deniers-take-aim-hospitals-pandemic-grows-n1172336" target="_blank">coronavirus deniers</a>” have been using the hashtag #FilmYourHospital to <a
+rel="noreferrer noopener" href="https://globalnews.ca/news/6777373/bc-man-hot-water-covid-19-test-site-hospital/" target="_blank">encourage people</a> to visit local hospitals to take pictures and videos to “prove” that the COVID-19 pandemic is an elaborate hoax.</p><p>The premise for this conspiracy theory rests on the baseless assumption that if hospital parking lots and waiting rooms are empty then the pandemic must not be real or is not as severe as reported by health authorities and the media.&nbsp;</p><p>Of course, in reality, there is a simple explanation for why some hospital parking lots and waiting rooms might have been empty. As part of pandemic planning, many hospitals have banned visitors and doctors have had to postpone or cancel elective and non-urgent procedures to free up medical staff and resources. This is in keeping with expert <a
+rel="noreferrer noopener" href="https://www.theguardian.com/world/2020/mar/25/us-hospitals-coronavirus-pandemic-postpone-elective-surgery-procedures" target="_blank">advice from the CDC</a> and other health authorities.</p><p>In addition, as a way to slow the spread of the virus and prevent cross infections with non COVID-19 patients. The CDC also recommended that healthcare facilities create<a
+rel="noreferrer noopener" href="https://www.cdc.gov/coronavirus/2019-ncov/hcp/steps-to-prepare.html" target="_blank"> separate intake and waiting areas</a> for coronavirus patients and reserve emergency areas for emergencies such as heart attacks and broken arms. Furthermore, with the lockdown, fewer people are exerting and hurting themselves, which has resulted in <a
+href="https://turnto10.com/features/health-landing-page/hospitals-see-fewer-heart-attack-stroke-visits-in-emergency-department">fewer heart attacks,</a> and stroke visits to the emergency department.&nbsp;</p><p>This empty-hospital conspiracy theory joins a parade of <a
+href="https://policyoptions.irpp.org/magazines/april-2020/we-can-inoculate-ourselves-against-covid-19-misinformation/" target="_blank" rel="noreferrer noopener">false, unproven and misleading claims</a> about the virus that have been making the rounds on social media including allegations that <a
+rel="noreferrer noopener" href="https://www.wired.co.uk/article/5g-coronavirus-conspiracy-theory?utm_content=bufferaa550&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer" target="_blank">5G wireless technology</a> somehow plays a role in the spread of the COVID-19 virus or taking cocaine and drinking bleach might prevent or cure you of the virus.&nbsp;</p><h3>The Birth of a Meme</h3><p>At the Ryerson University Social Media Lab, some of our research investigates&nbsp;<a
+href="https://socialmedialab.ca/2020/03/11/research-grant-study-misinformation-coronavirus/">how misinformation propagates across different social media platforms</a>.&nbsp;One of the first steps when examining trending topics on social media is to look for signs of &#8220;<em>social bots</em>&#8221; — social media accounts designed to act on Twitter and other platforms with some level of autonomy — and and &#8220;<em><a
+href="https://help.twitter.com/en/rules-and-policies/platform-manipulation" target="_blank" rel="noreferrer noopener">coordinated inauthentic behaviour</a></em>&#8221; which may include coordinated activities that attempt to artificially manipulate conversations to make them appear more popular than they are</p><p>These two forms of social manipulation, when left unchecked, can skew the conversation, manufacture anger where there is none, suppress opposition or dampen debate. These tactics may undermine our ability as citizens to make decisions and reach consensus as a society.</p><p>This new conspiracy campaign against the media and public health officials, with hospitals and medical staffs caught in the middle, started on March 28 with a simple tweet by a Twitter user @22CenturyAssets posing a question<em>: “#FilmYourHospital Can this become a thing?”&nbsp;</em></p><div
+class="wp-block-image"><figure
+class="aligncenter size-large"><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image9.png?36601f&amp;36601f" alt class="wp-image-1401 jetpack-lazy-image" data-lazy-srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image9.png 545w, https://covid19misinfo.org/wp-content/uploads/2020/04/image9-300x144.png 300w" data-lazy-sizes="(max-width: 545px) 100vw, 545px" data-lazy-src="https://covid19misinfo.org/wp-content/uploads/2020/04/image9.png?is-pending-load=1&amp;36601f&amp;36601f" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image9.png?36601f&amp;36601f" alt="" class="wp-image-1401" srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image9.png 545w, https://covid19misinfo.org/wp-content/uploads/2020/04/image9-300x144.png 300w" sizes="(max-width: 545px) 100vw, 545px" /></noscript><figcaption>The first recorded tweets with #FilmYourHospital (<a
+href="http://archive.is/lazOx" target="_blank" rel="noreferrer noopener">http://archive.is/lazOx</a>).</figcaption></figure></div><p>For our analysis, we collected a sample dataset consisting of of nearly 100,000 #FilmYourHospital public tweets and retweets posted by 43k public accounts on Twitter from March 28, the beginning of this campaign, till April 9.</p><p>Our analysis suggests that while the&nbsp; #FilmYourHospital campaign on Twitter is full of misleading and false COVID-19 claims, most of the active and influential accounts behind it don’t appear to be automated. However, we did find signs of ad hoc coordination among conservative internet personalities and far right groups attempting to take a baseless conspiracy theory and turn it into a weapon against their political opponents.</p><p>Importantly, we found that while much of the content came from users with limited reach, the oxygen that fueled this conspiracy in its early days came from just a handful of prominent conservative politicians and far right political activists like @DeAnna4Congress, @realcandaceo and @DonnaWR8. These power users used this hashtag to build awareness about the campaign and to encourage their followers to film what’s happening in their local hospitals. After the initial boost by a few prominent accounts, the campaign was mostly sustained by pro-Trump supporters, followed by a secondary wave of propagation outside the U.S.</p><figure
+class="wp-block-image size-large"><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/Slide41-1024x576.png?36601f&amp;36601f" alt class="wp-image-1388 jetpack-lazy-image" data-lazy-srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/Slide41-1024x576.png 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/Slide41-300x169.png 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/Slide41-768x432.png 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/Slide41.png 1280w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://covid19misinfo.org/wp-content/uploads/2020/04/Slide41-1024x576.png?is-pending-load=1&amp;36601f&amp;36601f" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/Slide41-1024x576.png?36601f&amp;36601f" alt="" class="wp-image-1388" srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/Slide41-1024x576.png 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/Slide41-300x169.png 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/Slide41-768x432.png 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/Slide41.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript></figure><p>You can learn more about how we arrived at these conclusions, including how and what data we collected in the Method  and Analysis section below.</p><p>In normal times, outlandish conspiracies like this might make us shake our heads, but&nbsp;as COVID-19 cases continue to stalk the hallways of <a
+href="https://montreal.ctvnews.ca/premier-pleads-with-quebec-doctors-to-help-out-in-covid-19-ravaged-seniors-residences-1.4897252" target="_blank" rel="noreferrer noopener">nursing</a> homes in Canada and fill beds in<a
+href="https://globalnews.ca/news/6830124/reopening-us-new-york-coronavirus/" target="_blank" rel="noreferrer noopener"> New York hospitals</a>, it is harder to ignore such upsetting conspiracies from the dark recesses of the internet. The rise of this conspiracy from a single tweet reminds us that is while the spread of <a
+href="https://covid19misinfo.org/2020/04/17/seven-types-of-covid19-misinformation/" target="_blank" rel="noreferrer noopener">&nbsp;misinformation</a> can be mitigated by fact-checking and directing people to credible sources of information from public health agencies, false and misleading claims that are driven by politics and supported by strong convictions and not science are much harder to root out.&nbsp;</p><hr
+class="wp-block-separator is-style-wide"/><h2>Method and Analysis&nbsp;</h2><h3>Research Tools and The Dataset</h3><p>We used <a
+href="https://netlytic.org/home/" target="_blank" rel="noreferrer noopener">Netlytic</a> to collect and analyze data, <a
+href="https://gephi.org/" target="_blank" rel="noreferrer noopener">Gephi</a> to visualize the resulting communication network over time, a python library called <a
+href="https://github.com/DocNow/twarc" target="_blank" rel="noreferrer noopener">Twarc</a> to check if an account had been deleted or suspended by Twitter, and <a
+href="https://botometer.iuni.iu.edu/#!/api" target="_blank" rel="noreferrer noopener">Botometer API</a> to assess if an account is automated (exhibiting a bot-like behaviour).&nbsp;</p><p>In total, we’ve collected 99,039 posts contributed by 43,461 unique users during the studied period. As seen in Figure1, while the campaign is still active on Twitter at the time of writing this post (April 21), the hashtag got the most attention on March 31, with a gradual decrease in engagement ever since. As with most Twitter-driven, clicktivism-style campaigns, the majority of interactions are retweets (83%).&nbsp;</p><div
+class="wp-block-image"><figure
+class="aligncenter size-large"><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image12.png?36601f&amp;36601f" alt class="wp-image-1400 jetpack-lazy-image" data-lazy-srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image12.png 450w, https://covid19misinfo.org/wp-content/uploads/2020/04/image12-300x200.png 300w" data-lazy-sizes="(max-width: 450px) 100vw, 450px" data-lazy-src="https://covid19misinfo.org/wp-content/uploads/2020/04/image12.png?is-pending-load=1&amp;36601f&amp;36601f" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image12.png?36601f&amp;36601f" alt="" class="wp-image-1400" srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image12.png 450w, https://covid19misinfo.org/wp-content/uploads/2020/04/image12-300x200.png 300w" sizes="(max-width: 450px) 100vw, 450px" /></noscript><figcaption><strong>Figure 1: </strong>Number of Tweets with #FilmYourHospital over time&nbsp;</figcaption></figure></div><div
+style="height:20px" aria-hidden="true" class="wp-block-spacer"></div><h3>Method: Social Network Analysis</h3><p>To study how information and misinformation propagates through different online networks, we use a method called Social Network Analysis (SNA). SNA is a powerful technique to visualize and examine user interactions at scale. To analyze Twitter data using SNA, we first need to represent it as a network, where <em>nodes </em>represent Twitter users (individuals or organizations) and connections between nodes (called <em>ties</em>) represent interactions among users (reply, retweet or mention). For instance, a single tweet posted by Donald Trump to the @JustinTrudeau and @WhiteHouse accounts can be visualized as a simple network with three nodes, and two ties going from Trump’s account to the two accounts because both are mentioned in the tweet (Figure 2).</p><div
+class="wp-block-image"><figure
+class="aligncenter size-large"><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/Slide33-1024x576.jpg?36601f&amp;36601f" alt class="wp-image-1389 jetpack-lazy-image" data-lazy-srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/Slide33-1024x576.jpg 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/Slide33-300x169.jpg 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/Slide33-768x432.jpg 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/Slide33.jpg 1280w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://covid19misinfo.org/wp-content/uploads/2020/04/Slide33-1024x576.jpg?is-pending-load=1&amp;36601f&amp;36601f" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/Slide33-1024x576.jpg?36601f&amp;36601f" alt="" class="wp-image-1389" srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/Slide33-1024x576.jpg 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/Slide33-300x169.jpg 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/Slide33-768x432.jpg 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/Slide33.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript></figure></div><p><strong>Figure 2</strong>: Discovering a Network Structure, One Tweet at the Time</p><p>Figure 3 below depicts how 79k interactions among ~42k Twitter users who posted or retweeted using #FilmYourHospital appear as a network. This network excludes &#8220;isolated&#8221; accounts if they have not interacted with any other nodes.</p><p>Different colors are assigned automatically to highlight densely-connected groups of nodes (clusters) that are more likely to interact with each other than with the other accounts in the network. <strong>[An interactive version of this network visualization is available <a
+rel="noreferrer noopener" href="https://app.covid19misinfo.org/twitter-filmyourhospital/" target="_blank">here</a>]</strong></p><div
+class="wp-block-image"><figure
+class="aligncenter size-large"><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image4-1024x890.png?36601f&amp;36601f" alt class="wp-image-1398 jetpack-lazy-image" data-lazy-srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image4-1024x890.png 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/image4-300x261.png 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/image4-768x668.png 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/image4.png 1424w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://covid19misinfo.org/wp-content/uploads/2020/04/image4-1024x890.png?is-pending-load=1&amp;36601f&amp;36601f" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image4-1024x890.png?36601f&amp;36601f" alt="" class="wp-image-1398" srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image4-1024x890.png 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/image4-300x261.png 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/image4-768x668.png 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/image4.png 1424w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript><figcaption><strong>Figure 3</strong>: #FilmYourHospital Communication Network of ~42K users (ties represent reply, retweet or mention). Usernames are shown for accounts with 100k or more followers.</figcaption></figure></div><h3><strong>The Evolution of #FilmYourHospital Network over Time</strong></h3><p>To understand how this particular campaign manifested on Twitter, let’s examine the formation of this network over time. Figure 4a displays #FilmYourHospital interactions posted during the first three days of the campaign. Notably, one of the most influential users who triggered the viral spread of this misinformation campaign was @DeAnna4Congress, a verified account for DeAnna Lorraine, a former Republican Congressional candidate who recently ran against Nancy Pelosi <a
+href="https://ballotpedia.org/DeAnna_Lorraine" target="_blank" rel="noreferrer noopener">for the U.S. House California District 12</a>. Unlike the <a
+rel="noreferrer noopener" href="https://knowyourmeme.com/memes/filmyourhospitals/photos/sort/oldest" target="_blank">anonymous poster</a> who started the hashtag (attracting only around 30 retweets), Ms. Lorraine added the legitimacy to this campaign and directly <a
+href="http://archive.is/ozUpx" target="_blank" rel="noreferrer noopener">asked</a> her 150k+ followers to “<em>get #FilmYourHospital trending</em>” and “<em>[p]ost pics of ur hospital here!</em>”.</p><div
+class="wp-block-image"><figure
+class="aligncenter size-large"><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image1-1-1024x576.jpg?36601f&amp;36601f" alt class="wp-image-1392 jetpack-lazy-image" data-lazy-srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image1-1-1024x576.jpg 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/image1-1-300x169.jpg 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/image1-1-768x432.jpg 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/image1-1.jpg 1280w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://covid19misinfo.org/wp-content/uploads/2020/04/image1-1-1024x576.jpg?is-pending-load=1&amp;36601f&amp;36601f" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image1-1-1024x576.jpg?36601f&amp;36601f" alt="" class="wp-image-1392" srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image1-1-1024x576.jpg 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/image1-1-300x169.jpg 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/image1-1-768x432.jpg 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/image1-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript><figcaption><strong>Figure 4a</strong>: #FilmYourHospital Communication Network: Day 1-3.</figcaption></figure></div><p>During the subsequent two days (Figures 4b and 4c), the network “lit” up with mostly retweets of tweets posted by prominent conservative commentators and political activists like @realcandaceo (with 2M followers) and @DonnaWR8 (with 100K followers), an account with a <a
+href="https://www.axios.com/the-twitter-accounts-potus-loves-2487501033.html" target="_blank" rel="noreferrer noopener">fan at the White House</a>.&nbsp;</p><div
+class="wp-block-image"><figure
+class="aligncenter size-large"><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image2-2-1024x576.jpg?36601f&amp;36601f" alt class="wp-image-1393 jetpack-lazy-image" data-lazy-srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image2-2-1024x576.jpg 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/image2-2-300x169.jpg 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/image2-2-768x432.jpg 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/image2-2.jpg 1280w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://covid19misinfo.org/wp-content/uploads/2020/04/image2-2-1024x576.jpg?is-pending-load=1&amp;36601f&amp;36601f" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image2-2-1024x576.jpg?36601f&amp;36601f" alt="" class="wp-image-1393" srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image2-2-1024x576.jpg 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/image2-2-300x169.jpg 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/image2-2-768x432.jpg 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/image2-2.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript><figcaption><strong>Figure 4b</strong>: #FilmYourHospital Communication Network: Day 1-4.</figcaption></figure></div><div
+style="height:20px" aria-hidden="true" class="wp-block-spacer"></div><div
+class="wp-block-image"><figure
+class="aligncenter size-large"><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image3-1-1024x576.jpg?36601f&amp;36601f" alt class="wp-image-1394 jetpack-lazy-image" data-lazy-srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image3-1-1024x576.jpg 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/image3-1-300x169.jpg 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/image3-1-768x432.jpg 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/image3-1.jpg 1280w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://covid19misinfo.org/wp-content/uploads/2020/04/image3-1-1024x576.jpg?is-pending-load=1&amp;36601f&amp;36601f" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image3-1-1024x576.jpg?36601f&amp;36601f" alt="" class="wp-image-1394" srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image3-1-1024x576.jpg 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/image3-1-300x169.jpg 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/image3-1-768x432.jpg 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/image3-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript><figcaption><strong>Figure 4c</strong>: #FilmYourHospital Communication Network: Day 1-5.</figcaption></figure></div><div
+style="height:20px" aria-hidden="true" class="wp-block-spacer"></div><p>Below is a video showing changes in the network over time:</p><figure
+class="wp-block-video"><video
+controls src="https://covid19misinfo.org/wp-content/uploads/2020/04/filmyourhospitalnet.mp4"></video></figure><div
+style="height:20px" aria-hidden="true" class="wp-block-spacer"></div><h3><strong>#MAGA All the Way &#8211; Foot Soldiers Accounts Behind The Retweets Storm</strong></h3><p>While influential conservative politicians and activists are behind some of the most shared and early content in this network, the question remains about who is behind the retweets that formed the majority of interactions and sustained the network passed the initiation stage. To answer this question, we examined the most active accounts in this network and the most frequently used keywords in the account bios (see Figure 5). The majority of users who posted a tweet using this hashtag self-describe themselves as Trump supporters and used words and hashtags such as #MAGA (Make America Great Again), #KAG (Keep America Great), and #trump2020.</p><div
+class="wp-block-image"><figure
+class="aligncenter size-large"><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image10-1-1024x342.jpg?36601f&amp;36601f" alt class="wp-image-1395 jetpack-lazy-image" data-lazy-srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image10-1-1024x342.jpg 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/image10-1-300x100.jpg 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/image10-1-768x256.jpg 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/image10-1-1536x513.jpg 1536w, https://covid19misinfo.org/wp-content/uploads/2020/04/image10-1.jpg 1999w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://covid19misinfo.org/wp-content/uploads/2020/04/image10-1-1024x342.jpg?is-pending-load=1&amp;36601f&amp;36601f" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image10-1-1024x342.jpg?36601f&amp;36601f" alt="" class="wp-image-1395" srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image10-1-1024x342.jpg 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/image10-1-300x100.jpg 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/image10-1-768x256.jpg 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/image10-1-1536x513.jpg 1536w, https://covid19misinfo.org/wp-content/uploads/2020/04/image10-1.jpg 1999w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript><figcaption><strong>Figure 5:</strong> 100 most frequently used profile words by 100 or more users (visualized with wordclouds.com)</figcaption></figure></div><h3><strong>International Reach</strong></h3><p>And while the majority of users appear to be Trump supporters from the U.S., seven days after the initial #filmyourhospital tweet, on April 3rd the hashtag went international when a new cluster of users from Brazil emerged. It is shown as a green-color grouping of nodes in the top corner of the network visualization (Figure 6). Most of the tweets in this cluster were around popular conservative commentators and activists from Brazil such as @allantercalivre, Allan dos Santos &#8211; a self-described businessman, journalist, blogger and a prominent pro-Bolsonaro supporter. While interesting, the spread of this campaign in Brazil is not surprising. U.S.-style politics has been creeping into the Brazilian society over the past few years, culminating with the election of Jair Bolsonaro, a far-right candidate during the 2018 Presidential Election (more on this <a
+href="http://www.scielo.br/scielo.php?pid=S1982-25532019000200031&amp;script=sci_arttext" target="_blank" rel="noreferrer noopener">here</a> and <a
+href="https://dl.acm.org/doi/abs/10.1145/3328529.3328546" target="_blank" rel="noreferrer noopener">here</a>).&nbsp;</p><p>Aside from ~15k tweets in Portuguess (presumably from Brazil) and ~73K tweets in English, there were tweets in 33 other languages, suggesting that the campaign received some international attention. The second and third largest non-English clusters were users tweeting in Arabic (1,616 tweets) and Japanese (515 tweets), but both of these clusters were much smaller and are not as interconnected as the Brazilian one.</p><figure
+class="wp-block-image size-large"><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image5-1-1024x576.jpg?36601f&amp;36601f" alt class="wp-image-1396 jetpack-lazy-image" data-lazy-srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image5-1-1024x576.jpg 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/image5-1-300x169.jpg 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/image5-1-768x432.jpg 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/image5-1.jpg 1280w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://covid19misinfo.org/wp-content/uploads/2020/04/image5-1-1024x576.jpg?is-pending-load=1&amp;36601f&amp;36601f" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image5-1-1024x576.jpg?36601f&amp;36601f" alt="" class="wp-image-1396" srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image5-1-1024x576.jpg 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/image5-1-300x169.jpg 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/image5-1-768x432.jpg 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/image5-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript><figcaption><strong>Figure 6</strong>: <a
+href="https://app.covid19misinfo.org/twitter-filmyourhospital" target="_blank" rel="noreferrer noopener">#FilmYourHospital Communication Network</a> showing Users Tweeting in Different Languages; Top 4 languages: English (Purple nodes), Portugese (Green); Arabic (Orange); Japanese (Red)&nbsp;</figcaption></figure><h3>Suspended Accounts and “Inauthentic” Behavior</h3><p>Considering the controversial nature of this campaign, some called in question whether it is an organic campaign or is it possibly being driven by a coordinated action or what Twitter calls an “inauthentic” behavior. To examine this further, we automatically checked each account and tweet in our dataset to see which of them were deleted/protected by a user or suspended by the platform.</p><p>Since Twitter has much more information about its users than what’s available via its public API (such as users’ phone numbers and IP addresses), knowing what accounts were suspended by Twitter a few days after they joined the campaign gives us an estimate of how many suspicious accounts might be trying to amplify the campaign. An account can be suspended or temporarily restricted if it’s in violation of the&nbsp; <a
+href="https://help.twitter.com/en/rules-and-policies/twitter-rules" target="_blank" rel="noreferrer noopener">Twitter community rules and standards</a>. Some of the reasons for suspension include:&nbsp;</p><ul><li>artificially amplifying or suppressing information;&nbsp;</li><li>interfering in elections;&nbsp;</li><li>sharing synthetic/manipulated media which may cause harm; or</li><li>promoting violence against, threatening, or harassing an individual or a group of people.&nbsp;</li></ul><p>In total, we found that about 5% of tweets were either deleted by users or disappeared because they were flagged by the platform (or other users). While there are <a
+href="https://pdfs.semanticscholar.org/cb48/d718201767a17aa5d8ae49db7801380a01e2.pdf" target="_blank" rel="noreferrer noopener">a number of reasons</a> why individuals may choose to delete their own “regrettable” tweets (such as the presence of negative sentiment, cursing, or content related to sex, alcohol, drugs, violence, race or religion), we were more interested in those tweets that disappeared because their posters were suspended by Twitter, which would be an indication of an account violating the community norms as established by the platform.</p><p>From our analysis, as of April 17, we identified 1,059 accounts in the network that were either suspended or temporarily restricted by Twitter. We then used this information to highlight the corresponding nodes and interactions in the network visualization in red (see Figure 7). Based on the visualization, while temporary or permanently suspended accounts appear to be spread out across the network, they are especially concentrated in the top right corner. This is interesting because this is the part of the network that was especially active during the second period of the campaign.</p><div
+class="wp-block-image"><figure
+class="aligncenter size-large"><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image11-1024x976.png?36601f&amp;36601f" alt class="wp-image-1397 jetpack-lazy-image" data-lazy-srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image11-1024x976.png 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/image11-300x286.png 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/image11-768x732.png 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/image11-1536x1464.png 1536w, https://covid19misinfo.org/wp-content/uploads/2020/04/image11.png 1999w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://covid19misinfo.org/wp-content/uploads/2020/04/image11-1024x976.png?is-pending-load=1&amp;36601f&amp;36601f" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image11-1024x976.png?36601f&amp;36601f" alt="" class="wp-image-1397" srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image11-1024x976.png 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/image11-300x286.png 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/image11-768x732.png 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/image11-1536x1464.png 1536w, https://covid19misinfo.org/wp-content/uploads/2020/04/image11.png 1999w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript><figcaption><strong>Figure 7</strong>: #FilmYourHospital Communication Network (full dataset). Red nodes/ties = accounts suspended or temporary restricted by Twitter (as of April 17, 2020). Indigo nodes/ties = all other accounts.</figcaption></figure></div><div
+style="height:20px" aria-hidden="true" class="wp-block-spacer"></div><h3>Bot or Not?</h3><p>The identification of suspended accounts helped us understand the prevalence of potentially inauthentic behaviour or coordinated effort to amplify a campaign. To check whether the accounts that contributed to this hashtag campaign are automated or not (aka <em>bots</em>), we used a machine learning tool to classify accounts as likely bots or not. While there are <a
+href="https://www.slideshare.net/primath/who-are-we-studying-humans-or-bots" target="_blank" rel="noreferrer noopener">multiple approaches</a> to detecting social bots on Twitter, none of them are perfect. Bot detection is a game of cat and mouse, as the bots makers are constantly evolving, becoming more sophisticated and finding new ways to bypass detection. As a result, what’s presented in this section is still very preliminary.&nbsp;</p><p>For this exploratory analysis, we relied on a third-party tool called <a
+href="https://botometer.iuni.iu.edu/" target="_blank" rel="noreferrer noopener">Botometer</a> to check a sample of 1,213 accounts (~2.79%) that shared at least 10 or more tweets in the dataset, including 28 accounts that posted over 100 tweets. The reason for focusing on this sample is because of how active these accounts were relative to the other accounts in the dataset.</p><p>Botometer assigns each account a Complete Automation Probability (CAP) score between 0 and 1 to determine how likely an account is automated (0=not likely to 1= highly likely). We used the language-independent version of the provided CAP score since some accounts did not tweet in English. These scores are assigned based on a number of factors, such as when the account was created, how often it posts and who else it is connected to it on Twitter. Figure 8 shows the overall distribution of botometer scores. Out of 1,213 accounts tested, we couldn’t retrieve scores for 26 accounts because 10 were suspended by Twitter, 10 were deleted by the user, and 6 became “protected” accounts.&nbsp;</p><p>We consider any account with the CAP score 0.3 or above as potentially automated. The threshold of 0.3 was chosen based on our empirical observations from our <a
+href="https://covid19misinfo.org/botswatch/" target="_blank" rel="noreferrer noopener">BotsWatch dashboard</a> that uses the same Botometer API to identify potential bots in public COVID-19 related tweets in general,&nbsp;</p><p>In total, the majority of accounts (1,157, 98%) had a Botometer score below 0.3. Only 30 accounts had the score equal to or above 0.3. This suggests that the majority of the most active accounts involved in this campaign appear to be human-like in their behavior, with only a small number of accounts exhibiting bot-like behaviour.</p><div
+class="wp-block-image"><figure
+class="aligncenter size-large"><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image7-1024x633.png?36601f&amp;36601f" alt class="wp-image-1399 jetpack-lazy-image" title="Chart" data-lazy-srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image7-1024x633.png 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/image7-300x186.png 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/image7-768x475.png 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/image7.png 1200w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://covid19misinfo.org/wp-content/uploads/2020/04/image7-1024x633.png?is-pending-load=1&amp;36601f&amp;36601f" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img
+src="https://covid19misinfo.org/wp-content/uploads/2020/04/image7-1024x633.png?36601f&amp;36601f" alt="" class="wp-image-1399" title="Chart" srcset="https://covid19misinfo.org/wp-content/uploads/2020/04/image7-1024x633.png 1024w, https://covid19misinfo.org/wp-content/uploads/2020/04/image7-300x186.png 300w, https://covid19misinfo.org/wp-content/uploads/2020/04/image7-768x475.png 768w, https://covid19misinfo.org/wp-content/uploads/2020/04/image7.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript><figcaption><strong>Figure 8</strong>: The Distribution of Botometer CAP Scores using the Logarithmic Scale (n=1,187); cenglish=includes content analysis; cuniversal=language independent model</figcaption></figure></div><hr
+class="wp-block-separator is-style-dots"/><h3>Closing Thoughts</h3><p>One of the most terrifying aspects of COVID-19 for some of the sickest patients is the prospect of dying alone without a loved one nearby due to stringent safety and isolation protocols that had to be put in place to slow its spread. Tragically, these prudent measures are being decontextualized exploited by bad actors and coronavirus deniers to peddle dangerous disinformation and to encourage people to behave in ways that undermine the work of public health officials and put the public and front-line medical workers at risk.</p><p></p><div
+class="post-item-metadata entry-meta"> <span
+class="tags-links">Tags: <a
+href="https://covid19misinfo.org/tag/case-study/" rel="tag">Case Study</a> <a
+href="https://covid19misinfo.org/tag/conspiracy-theory/" rel="tag">Conspiracy Theory</a> <a
+href="https://covid19misinfo.org/tag/filmyourhospital/" rel="tag">FilmYourHospital</a></span></div> <nav
+class="navigation post-navigation" role="navigation" aria-label="Continue Reading"><h2 class="screen-reader-text">Continue Reading</h2><div
+class="nav-links"><div
+class="nav-previous"><a
+href="https://covid19misinfo.org/2020/04/12/isolating-but-not-isolated-how-instagram-influencers-are-creating-their-own-imagined-community-in-the-age-of-covid-19/" rel="prev"><span
+class="em-post-navigation">Previous</span> Isolating, But Not Isolated: How Instagram Influencers Are Creating Their Own Imagined Community in the Age of COVID-19</a></div></div> </nav></div></div><div
+class="aft-comment-related-wrap"></div> </article> </main></div><div
+id="secondary" class="sidebar-area aft-sticky-sidebar"><div
+class="theiaStickySidebar"> <aside
+class="widget-area color-pad"><div
+id="search-4" class="widget newsium-widget widget_search"><form
+role="search" method="get" class="search-form" action="https://covid19misinfo.org/"> <label> <span
+class="screen-reader-text">Search for:</span> <input
+type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" /> </label> <input
+type="submit" class="search-submit" value="Search" /></form></div><div
+id="newsium_social_contacts-6" class="widget newsium-widget newsium_social_contacts_widget aft-widget-background-default "><div
+class="em-title-subtitle-wrap"><h4 class="widget-title header-after1"> <span>Follow us on Twitter</span></h4></div><div
+class="widget-block widget-wrapper"><div
+class="social-widget-menu"><div
+class="menu-social-media-container"><ul
+id="menu-social-media" class="menu"><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-837"><a
+href="https://twitter.com/smlabto"><span
+class="screen-reader-text">@SMLabTO Twitter account</span></a></li></ul></div></div></div></div><div
+id="blog_subscription-3" class="widget newsium-widget widget_blog_subscription jetpack_subscription_widget"><h2 class="widget-title widget-title-1"><span>Subscribe to Updates via Email</span></h2><form
+action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-3"><div
+id="subscribe-text"><p>Enter your email address to subscribe to our blog and receive notifications of new posts by email.</p></div><p
+id="subscribe-email"> <label
+id="jetpack-subscribe-label"
+class="screen-reader-text"
+for="subscribe-field-blog_subscription-3"> Email Address </label> <input
+type="email" name="email" required="required" class="required"
+value=""
+id="subscribe-field-blog_subscription-3"
+placeholder="Email Address"/></p><p
+id="subscribe-submit"> <input
+type="hidden" name="action" value="subscribe"/> <input
+type="hidden" name="source" value="https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/"/> <input
+type="hidden" name="sub-type" value="widget"/> <input
+type="hidden" name="redirect_fragment" value="blog_subscription-3"/> <button
+type="submit"
+name="jetpack_subscriptions_widget"
+> Subscribe </button></p></form></div><div
+id="custom_html-3" class="widget_text widget newsium-widget widget_custom_html"><h2 class="widget-title widget-title-1"><span>Portal Funded in Part by</span></h2><div
+class="textwidget custom-html-widget"><center><a
+href="https://cihr-irsc.gc.ca/" target="_blank" rel="noopener noreferrer"><img
+alt="Funded in part by Canadian Institutes of Health Research (CIHR)" src="https://covid19misinfo.org/wp-content/uploads/2020/04/cihr-logo.jpg?36601f&amp;36601f" width="300" data-lazy-src="https://covid19misinfo.org/wp-content/uploads/2020/04/cihr-logo.jpg?is-pending-load=1&amp;36601f&amp;36601f" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img
+alt="Funded in part by Canadian Institutes of Health Research (CIHR)" src="https://covid19misinfo.org/wp-content/uploads/2020/04/cihr-logo.jpg?36601f&amp;36601f" width="300"></noscript></a></center> <br><center><a
+href="https://www.computecanada.ca/" target="_blank" rel="noopener noreferrer"><img
+alt="Computing support from ComputeCanada" src="https://covid19misinfo.org/wp-content/uploads/2020/04/computecanada.png?36601f&amp;36601f" width="300" data-lazy-src="https://covid19misinfo.org/wp-content/uploads/2020/04/computecanada.png?is-pending-load=1&amp;36601f&amp;36601f" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img
+alt="Computing support from ComputeCanada" src="https://covid19misinfo.org/wp-content/uploads/2020/04/computecanada.png?36601f&amp;36601f" width="300"></noscript></a></center></div></div><div
+id="custom_html-2" class="widget_text widget newsium-widget widget_custom_html"><h2 class="widget-title widget-title-1"><span>COVID-19 Statistics</span></h2><div
+class="textwidget custom-html-widget"><iframe
+width="325" height="300" src="https://datastudio.google.com/embed/reporting/1hg7mz3mmzxikKp9fMYpXe8qkTGEZE1k6/page/7bWKB" frameborder="0" style="border:0" allowfullscreen></iframe></div></div><div
+id="recent-posts-3" class="widget newsium-widget widget_recent_entries"><h2 class="widget-title widget-title-1"><span>Recent Posts</span></h2><ul><li> <a
+href="https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/" aria-current="page">Hospitals Around the World are Being Targeted by Conspiracy Theorists</a></li><li> <a
+href="https://covid19misinfo.org/2020/04/17/seven-types-of-covid19-misinformation/">Seven Types of #COVID19 #Misinformation</a></li><li> <a
+href="https://covid19misinfo.org/2020/04/13/come-for-the-misinformation-stay-for-the-facts-april-14-100pm-est/">Come for the Misinformation, Stay for the Facts &#8211; April 14, 1:00PM EST</a></li><li> <a
+href="https://covid19misinfo.org/2020/04/12/isolating-but-not-isolated-how-instagram-influencers-are-creating-their-own-imagined-community-in-the-age-of-covid-19/">Isolating, But Not Isolated: How Instagram Influencers Are Creating Their Own Imagined Community in the Age of COVID-19</a></li><li> <a
+href="https://covid19misinfo.org/2020/04/02/top-of-mind-and-tip-of-tongue-things-people-retweet-in-a-pandemic/">Top of Mind &#038; Tip of Tongue: Things People Retweet in a Pandemic</a></li></ul></div> </aside></div></div></div></div><footer
+class="site-footer"><div
+class="primary-footer"><div
+class="container-wrapper"><div
+class="af-container-row"><div
+class="primary-footer-area footer-first-widgets-section col-md-4 col-sm-12"> <section
+class="widget-area color-pad"><div
+id="blog_subscription-4" class="widget newsium-widget widget_blog_subscription jetpack_subscription_widget"><h2 class="widget-title widget-title-1"><span
+class="header-after">Subscribe to Blog via Email</span></h2><form
+action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-4"><p
+id="subscribe-email"> <label
+id="jetpack-subscribe-label"
+class="screen-reader-text"
+for="subscribe-field-blog_subscription-4"> Email Address </label> <input
+type="email" name="email" required="required" class="required"
+value=""
+id="subscribe-field-blog_subscription-4"
+placeholder="Email Address"/></p><p
+id="subscribe-submit"> <input
+type="hidden" name="action" value="subscribe"/> <input
+type="hidden" name="source" value="https://covid19misinfo.org/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/"/> <input
+type="hidden" name="sub-type" value="widget"/> <input
+type="hidden" name="redirect_fragment" value="blog_subscription-4"/> <button
+type="submit"
+name="jetpack_subscriptions_widget"
+> Subscribe </button></p></form></div> </section></div><div
+class="primary-footer-area footer-second-widgets-section col-md-4  col-sm-12"> <section
+class="widget-area color-pad"><div
+id="tag_cloud-3" class="widget newsium-widget widget_tag_cloud"><h2 class="widget-title widget-title-1"><span
+class="header-after">Tags</span></h2><div
+class="tagcloud"><a
+href="https://covid19misinfo.org/tag/socialdistancing/" class="tag-cloud-link tag-link-20 tag-link-position-1" style="font-size: 8pt;" aria-label="#SocialDistancing (1 item)">#SocialDistancing</a> <a
+href="https://covid19misinfo.org/tag/case-study/" class="tag-cloud-link tag-link-22 tag-link-position-2" style="font-size: 8pt;" aria-label="Case Study (1 item)">Case Study</a> <a
+href="https://covid19misinfo.org/tag/cihr-grant/" class="tag-cloud-link tag-link-13 tag-link-position-3" style="font-size: 8pt;" aria-label="CIHR grant (1 item)">CIHR grant</a> <a
+href="https://covid19misinfo.org/tag/conspiracy-theory/" class="tag-cloud-link tag-link-23 tag-link-position-4" style="font-size: 8pt;" aria-label="Conspiracy Theory (1 item)">Conspiracy Theory</a> <a
+href="https://covid19misinfo.org/tag/dashboard/" class="tag-cloud-link tag-link-11 tag-link-position-5" style="font-size: 8pt;" aria-label="Dashboard (1 item)">Dashboard</a> <a
+href="https://covid19misinfo.org/tag/filmyourhospital/" class="tag-cloud-link tag-link-21 tag-link-position-6" style="font-size: 8pt;" aria-label="FilmYourHospital (1 item)">FilmYourHospital</a> <a
+href="https://covid19misinfo.org/tag/images/" class="tag-cloud-link tag-link-18 tag-link-position-7" style="font-size: 8pt;" aria-label="images (1 item)">images</a> <a
+href="https://covid19misinfo.org/tag/instagram/" class="tag-cloud-link tag-link-19 tag-link-position-8" style="font-size: 8pt;" aria-label="Instagram (1 item)">Instagram</a> <a
+href="https://covid19misinfo.org/tag/misinformation/" class="tag-cloud-link tag-link-10 tag-link-position-9" style="font-size: 22pt;" aria-label="Misinformation (3 items)">Misinformation</a> <a
+href="https://covid19misinfo.org/tag/physical-distancing/" class="tag-cloud-link tag-link-6 tag-link-position-10" style="font-size: 8pt;" aria-label="physical distancing (1 item)">physical distancing</a> <a
+href="https://covid19misinfo.org/tag/social-distancing/" class="tag-cloud-link tag-link-5 tag-link-position-11" style="font-size: 8pt;" aria-label="Social distancing (1 item)">Social distancing</a> <a
+href="https://covid19misinfo.org/tag/twitter/" class="tag-cloud-link tag-link-17 tag-link-position-12" style="font-size: 8pt;" aria-label="Twitter (1 item)">Twitter</a></div></div> </section></div><div
+class="primary-footer-area footer-third-widgets-section col-md-4  col-sm-12"> <section
+class="widget-area color-pad"><div
+id="google_translate_widget-2" class="widget newsium-widget widget_google_translate_widget"><div
+id="google_translate_element"></div></div> </section></div></div></div></div><div
+class="secondary-footer"><div
+class="container-wrapper"><div
+class="af-container-row clearfix af-flex-container"><div
+class="float-l pad color-pad col-1"><div
+class="footer-social-wrapper"><div
+class="aft-small-social-menu"><div
+class="social-navigation"><ul
+id="social-menu" class="menu"><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-837"><a
+href="https://twitter.com/smlabto"><span
+class="screen-reader-text">@SMLabTO Twitter account</span></a></li></ul></div></div></div></div></div></div></div><div
+class="site-info"><div
+class="container-wrapper"><div
+class="af-container-row"><div
+class="col-1 color-pad"> Ryerson University Social Media Lab | info@socialmedialab.ca | Copyright © All rights reserved <span
+class="sep"> | </span> <a
+href="https://afthemes.com/products/newsium">Newsium</a> by AF themes.</div></div></div></div> </footer></div> <a
+id="scroll-up" class="secondary-color"> <i
+class="fa fa-angle-up"></i> </a><script type="text/javascript">window.WPCOM_sharing_counts={"https:\/\/covid19misinfo.org\/2020\/04\/21\/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists\/":1387};</script><div
+id="sharing_email" style="display: none;"><form
+action="/2020/04/21/hospitals-around-the-world-are-being-targeted-by-conspiracy-theorists/" method="post"> <label
+for="target_email">Send to Email Address</label> <input
+type="email" name="target_email" id="target_email" value="" /> <label
+for="source_name">Your Name</label> <input
+type="text" name="source_name" id="source_name" value="" /><label
+for="source_email">Your Email Address</label> <input
+type="email" name="source_email" id="source_email" value="" /><input
+type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="This field is for validation and should not be changed" /> <img
+style="float: right; display: none" class="loading" src="https://covid19misinfo.org/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif?36601f&amp;36601f" alt="loading" width="16" height="16" /> <input
+type="submit" value="Send Email" class="sharing_send" /> <a
+rel="nofollow" href="#cancel" class="sharing_cancel" role="button">Cancel</a><div
+class="errors errors-1" style="display: none;"> Post was not sent - check your email addresses!</div><div
+class="errors errors-2" style="display: none;"> Email check failed, please try again</div><div
+class="errors errors-3" style="display: none;"> Sorry, your blog cannot share posts by email.</div></form></div><script type='text/javascript' src="https://covid19misinfo.org/wp-content/plugins/accordion-blocks/js/accordion-blocks.min.js?ver=1.1.2&amp;36601f&amp;36601f"></script><script type='text/javascript' src="https://covid19misinfo.org/wp-content/themes/newsium/js/navigation.js?ver=20151215&amp;36601f&amp;36601f"></script><script type='text/javascript' src="https://covid19misinfo.org/wp-content/themes/newsium/js/skip-link-focus-fix.js?ver=20151215&amp;36601f&amp;36601f"></script><script type='text/javascript' src="https://covid19misinfo.org/wp-content/themes/newsium/assets/slick/js/slick.min.js?ver=5.4&amp;36601f&amp;36601f"></script><script type='text/javascript' src="https://covid19misinfo.org/wp-content/themes/newsium/assets/bootstrap/js/bootstrap.min.js?ver=5.4&amp;36601f&amp;36601f"></script><script type='text/javascript' src="https://covid19misinfo.org/wp-content/themes/newsium/assets/sidr/js/jquery.sidr.min.js?ver=5.4&amp;36601f&amp;36601f"></script><script type='text/javascript' src="https://covid19misinfo.org/wp-content/themes/newsium/assets/magnific-popup/jquery.magnific-popup.min.js?ver=5.4&amp;36601f&amp;36601f"></script><script type='text/javascript' src="https://covid19misinfo.org/wp-content/themes/newsium/assets/jquery-match-height/jquery.matchHeight.min.js?ver=5.4&amp;36601f&amp;36601f"></script><script type='text/javascript' src="https://covid19misinfo.org/wp-content/themes/newsium/assets/marquee/jquery.marquee.js?ver=5.4&amp;36601f&amp;36601f"></script><script type='text/javascript' src="https://covid19misinfo.org/wp-content/themes/newsium/assets/theiaStickySidebar/theia-sticky-sidebar.min.js?ver=5.4&amp;36601f&amp;36601f"></script><script type='text/javascript' src="https://covid19misinfo.org/wp-content/themes/newsium/assets/script.js?ver=5.4&amp;36601f&amp;36601f"></script><script type='text/javascript' src='https://c0.wp.com/p/jetpack/8.4.2/_inc/build/lazy-images/js/lazy-images.min.js'></script><script type='text/javascript' src='https://c0.wp.com/c/5.4/wp-includes/js/wp-embed.min.js'></script><script type='text/javascript'>
+/* <![CDATA[ */
+var _wp_google_translate_widget = {"lang":"en_US","layout":"0"};
+/* ]]> */
+</script><script type='text/javascript' src='https://c0.wp.com/p/jetpack/8.4.2/_inc/build/widgets/google-translate/google-translate.min.js'></script><script type='text/javascript' src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit&#038;ver=5.4&amp;36601f&amp;36601f"></script><script type='text/javascript'>var sharing_js_options={"lang":"en","counts":"1","is_stats_active":"1"};</script><script type='text/javascript' src='https://c0.wp.com/p/jetpack/8.4.2/_inc/build/sharedaddy/sharing.min.js'></script><script type='text/javascript'>var windowOpen;jQuery(document.body).on('click','a.share-twitter',function(){if('undefined'!==typeof windowOpen){windowOpen.close();}
+windowOpen=window.open(jQuery(this).attr('href'),'wpcomtwitter','menubar=1,resizable=1,width=600,height=350');return false;});var windowOpen;jQuery(document.body).on('click','a.share-facebook',function(){if('undefined'!==typeof windowOpen){windowOpen.close();}
+windowOpen=window.open(jQuery(this).attr('href'),'wpcomfacebook','menubar=1,resizable=1,width=600,height=400');return false;});var windowOpen;jQuery(document.body).on('click','a.share-linkedin',function(){if('undefined'!==typeof windowOpen){windowOpen.close();}
+windowOpen=window.open(jQuery(this).attr('href'),'wpcomlinkedin','menubar=1,resizable=1,width=580,height=450');return false;});</script><script type='text/javascript' src='https://stats.wp.com/e-202018.js' async='async' defer='defer'></script><script type='text/javascript'>_stq=window._stq||[];_stq.push(['view',{v:'ext',j:'1:8.4.2',blog:'174198217',post:'1387',tz:'0',srv:'covid19misinfo.org'}]);_stq.push(['clickTrackerInit','174198217','1387']);</script></body></html>

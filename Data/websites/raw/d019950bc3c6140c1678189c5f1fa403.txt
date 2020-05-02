@@ -1,0 +1,911 @@
+ï»¿
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0 maximum-scale=1.0, minimal-ui" />
+
+
+
+
+
+    
+        
+
+        <!-- header tags -->
+        <meta name="guid" content="200426235141488"><title>Coronavirus quandary: Some patients in S Korea get virus again | Coronavirus pandemic News | Al Jazeera</title><meta name="title" content="Coronavirus quandary: Some patients in S Korea get virus again"><meta name="channel" content=""><meta name="author" content=""><meta name="description" content="Uncertainty over the reinfection or reactivation of the virus in patients could affect vaccine development.  "><meta name="source" content="Al Jazeera News"><meta property="og:title" content="Coronavirus quandary: Some patients in S Korea get virus again"><meta property="og:description" content="Uncertainty over the reinfection or reactivation of the virus in patients could affect vaccine development.  "><meta property="og:url" content="https://www.aljazeera.com/news/2020/04/coronavirus-quandary-patients-south-korea-200426235141488.html"><meta name="url" content="https://www.aljazeera.com/news/2020/04/coronavirus-quandary-patients-south-korea-200426235141488.html"><meta property="og:internalurl" content="https://www.aljazeera.com/news/2020/04/coronavirus-quandary-patients-south-korea-200426235141488.html"><meta name="ShortURL" content="https://aje.io/fgplv"><meta property="og:image" itemprop="image" content="https://www.aljazeera.com/mritems/Images/2020/4/27/ecfb5e45e63e47b984df710106144c1e_18.jpg"><meta name="image" content="https://www.aljazeera.com/mritems/Images/2020/4/27/ecfb5e45e63e47b984df710106144c1e_18.jpg"><meta property="twitter:title" content="Coronavirus quandary: Some patients in S Korea get virus again"><meta property="twitter:description" content="Uncertainty over the reinfection or reactivation of the virus in patients could affect vaccine development.  "><meta name="twitter:image" content="https://www.aljazeera.com/mritems/Images/2020/4/27/ecfb5e45e63e47b984df710106144c1e_18.jpg"><meta name="ContentType" content="News"><meta name="news_keywords" content="South Korea, Coronavirus pandemic, Health, Asia Pacific, World Health Organization"><link rel="amphtml" href="https://www.aljazeera.com/amp/news/2020/04/coronavirus-quandary-patients-south-korea-200426235141488.html"><link rel="canonical" href="https://www.aljazeera.com/news/2020/04/coronavirus-quandary-patients-south-korea-200426235141488.html"><!--  BS Article Header -->  
+<meta http-equiv="x-ua-compatible" content="ie=Edge">  
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta property="twitter:account_id" content="4970411" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="google-play-app" content="app-id=net.aljazeera.english">
+<meta property="og:image:width" content="1000"/>
+<meta property="og:image:height" content="562"/>
+ <link rel="alternate" type="application/rss+xml" title="Al Jazeera English" href="/xml/rss/all.xml" />
+<link rel="apple-touch-icon" href="/mritems/assets/images/touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/mritems/assets/images/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/mritems/assets/images/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/mritems/assets/images/touch-icon-ipad-retina.png">
+<meta name="apple-itunes-app" content="app-id=504847776"> 
+
+<!-- Ensighten Script -->
+<script type="text/javascript">
+  window.privDisableCSSInjection = 'true';
+  window.privLanguage = 'EN';
+</script>
+
+<script type="text/javascript" src="//tags.aljazeera.com/aljazeera/english/Bootstrap.js"></script>
+
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+<script src="/assets/scripts/jquery-1.11.1.min.js?i=1"></script>
+
+<script src="/assets/scripts/brightcove.js?x=163" type="text/javascript"></script>
+<script src="/assets/scripts/ArticleSiteScripts.js?x=194" type="text/javascript" async></script>  
+<script src="/assets/scripts/SocialSharePlugin.js?x=35" async></script>
+ 
+<script src="/assets/scripts/prebid.js?x=3" type="text/javascript" async></script>
+<script src="//mtrx.go.sonobi.com/morpheus.aljazeera.1667.js" type="text/javascript" async></script>
+<script src="/assets/scripts/article-adsscript.js?x=23" type="text/javascript"></script>  
+
+    <link href="/assets/styles/bootstrap-min.css" rel="stylesheet" />  
+    <link href="/assets/styles/firefox-hack.css" rel="stylesheet">
+    <link href="/assets/styles/bs-custom-article-style.css?x=82" rel="stylesheet">
+    <link href="/assets/styles/old-stories-styles-fixes.css?x=7" rel="stylesheet"> 
+
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    <style>
+    body {
+        background: #FCFCFC;
+    } 
+	
+    </style>
+
+
+<!-- BS News Articles Header --> 
+<meta name="twitter:site" content="@AJENews" /> 
+<script src="/assets/scripts/infinite-scroll-pkgd.js" defer></script>
+<link href="/assets/styles/bs-content-onscroll-style.css?x=5" rel="stylesheet">
+
+
+ 
+    
+  
+    </head>
+<body>
+    <form id='Coronavirus-quandary-patients-South-Korea-200426235141488' name='Coronavirus-quandary-patients-South-Korea-200426235141488' method='post'>    
+    
+    
+     
+ 
+        <!-- important tag dont remove(used to carry page context.....) -->
+        <input type="hidden" id="oryxcontext" value="B8C906090FB19032EA03A7D3B8D5B5D792888B4122F6E78261869F9102FA6A40267A858AA936C42142D9289F5A35EBC53523792C03606212C4511096F2A6C0CEAC57A020D470738D99E8C42AAEBE0B71B28834C3E5F0C0EBC9824B161170198625B43AADB5C2FC879173D424BC23D3F52F92CCAEFF99D549D427C17430332AF4E84D9CA2F0AAE670F714F06A96159B9951A25B742A0A9CBFBE8E5E06A551B5F4A8591FDDACE9D7CF296F4414C8CC7B3B6EC01CEE574EF84EA1353E0EFBBDD44E94502BF2718CC9363A63A0357DFACDB5DE2B5940B4FC38BB53AAA4F414FD53621B63FD227FC49F9042F607D164C237A630A2483A3342F46072545B946470A214E45C3655CF9D676C7C5634FCC3E00DFE27CF2D720179A361F28E14111B494A9CCD67415B0E0F09D2D58E2CC687D39E03D4327F6426FDBC39D3CCFB616CC785BF" data-postingguid="200426235141488">      
+
+<!-- googleoff: index -->
+
+        <!-- top adv -->
+        <div id="topadv" class="top-adv">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 top-adv-wrapper" id="topdivad">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+       <!-- / top adv -->
+      
+       <!-- breaking news -->
+   <div id="header_container" style="display: none;">
+   		<div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <ul id="js-news" class="js-hidden">
+                    </ul>
+                </div>
+            </div>
+        </div>
+	  </div>
+       <!-- /breaking news -->
+      
+
+       <!-- desktop site header -->
+       <div id="article-main-header" class="animated article-main-header article-main-header-scroll">
+         <div><div><div style="border-style:none"><div class="container" xmlns:media="http://search.yahoo.com/mrss/">
+  <div class="row">
+    <div class="col-sm-9 navigation-block">
+      <div class="navigation">
+        <div class="navbar navbar-default">
+          <div class="container">
+            <div class="navbar-header"><button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href="/"><img class="article-main-header-logo" alt="" src="/assets/images/aj-logo-sm-2.png"><img class="article-main-header-logo-Big" alt="" src="/assets/images/aj-logo-lg-124.png"><img class="logo-sticky" alt="" src="/assets/images/AljazeeraLogo.png" style="display: none;"></a></div>
+            <div class="navigation-wrapper">
+              <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                  <div class="form-search nav-form-search"></div>
+                  <li data-guid="171025111604759" class="nav-item-171025111604759"><a href="/" target="_self">Home </a></li>
+                  <li data-guid="161023134902510" class="dropdown menu-large"><a class="dropdown-toggle" data-toggle="dropdown" href="/news/">News <b class="caret"></b></a><ul class="dropdown-menu megamenu row">
+                      <li class="col-sm-4">
+                        <ul>
+                          <li data-guid="190522112437059"><a href="/ajimpact/">AJ Impact</a></li>
+                          <li data-guid="140311071122120"><a href="/topics/regions/middleeast.html">Middle East</a></li>
+                          <li data-guid="131113081710422"><a href="/topics/regions/africa.html">Africa</a></li>
+                          <li data-guid="131112142029837"><a href="/topics/regions/asia.html">Asia</a></li>
+                          <li data-guid="140311071220644"><a href="/topics/regions/us-canada.html">US &amp; Canada</a></li>
+                          <li data-guid="131113111908681"><a href="/topics/regions/latin-america.html">Latin America</a></li>
+                          <li data-guid="131113084937332"><a href="/topics/regions/europe.html">Europe</a></li>
+                          <li data-guid="140311071939629"><a href="/topics/regions/asia-pacific.html">Asia Pacific</a></li>
+                          <li data-guid="170926095124731"><a href="/news" target="_self">All</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li data-guid="190522112437059" class="nav-item-190522112437059"><a href="/ajimpact/">AJ Impact </a></li>
+                  <li data-guid="191031154237737" class="dropdown menu-large"><a class="dropdown-toggle" data-toggle="dropdown" href="/go/">AJ Go <b class="caret"></b></a><ul class="dropdown-menu megamenu row">
+                      <li class="col-sm-4">
+                        <ul>
+                          <li data-guid="191029131141040"><a href="/programmes/start-here/">Start Here</a></li>
+                          <li data-guid="191029131529059"><a href="/programmes/aj-close-up/">Al Jazeera Close Up</a></li>
+                          <li data-guid="191029130618583"><a href="/programmes/fork-the-system/">Fork the System</a></li>
+                          <li data-guid="191029131809245"><a href="/programmes/all-hail-the-algorithm/">All Hail the Algorithm</a></li>
+                          <li data-guid="191029131859808"><a href="/programmes/media-theorised/">Media Theorised</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li data-guid="161016132227401" class="dropdown menu-large"><a class="dropdown-toggle" data-toggle="dropdown" href="/documentaries/">Documentaries <b class="caret"></b></a><ul class="dropdown-menu megamenu row">
+                      <li class="col-sm-4">
+                        <ul>
+                          <li data-guid="140309125006070"><a href="/programmes/specialseries/">Featured Documentaries</a></li>
+                          <li data-guid="140309124146566"><a href="/programmes/witness/">Witness</a></li>
+                          <li data-guid="140309100922773"><a href="/programmes/aljazeeraworld/">Al Jazeera World</a></li>
+                          <li data-guid="140309083414124"><a href="/programmes/101east/">101 East</a></li>
+                          <li data-guid="140309103232322"><a href="/programmes/peopleandpower/">People &amp; Power</a></li>
+                          <li data-guid="140309101835880"><a href="/programmes/faultlines/">Fault Lines</a></li>
+                          <li data-guid="191031115629262"><a href="/programmes/whose-truth-is-it-anyway/truth.html">Whose Truth Is It Anyway?</a></li>
+                          <li data-guid="190827092247220"><a href="/programmes/my-ethiopia/">My Ethiopia</a></li>
+                          <li data-guid="181105074517308"><a href="/programmes/radicalised-youth/radicalised-youth.html">Radicalised Youth</a></li>
+                          <li data-guid="140309100153551"><a href="/programmes/aljazeeracorrespondent/">Al Jazeera Correspondent</a></li>
+                          <li data-guid="180816101727275"><a href="/programmes/this-is-europe/">This is Europe </a></li>
+                          <li data-guid="170702220310988"><a href="/programmes/aljazeera-selects/">Al Jazeera Selects </a></li>
+                          <li data-guid="160905084557919"><a href="/programmes/rewind/">REWIND</a></li>
+                          <li data-guid="161019084747265"><a href="/documentaries/">All</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li data-guid="140204094724441" class="dropdown menu-large"><a class="dropdown-toggle" data-toggle="dropdown" href="/programmes/">Shows <b class="caret"></b></a><ul class="dropdown-menu megamenu row">
+                      <li class="col-sm-4">
+                        <ul>
+                          <li data-guid="191113060753226"><a href="/programmes/studio-b-unscripted/">Studio B: Unscripted</a></li>
+                          <li data-guid="191022080123227"><a href="/programmes/the-bottom-line/">The Bottom Line</a></li>
+                          <li data-guid="140309102519696"><a href="/programmes/insidestory/">Inside Story</a></li>
+                          <li data-guid="190915083255528"><a href="/programmes/planet-sos/">Planet SOS</a></li>
+                          <li data-guid="140309124013095"><a href="/programmes/thestream/">The Stream</a></li>
+                          <li data-guid="140309102803328"><a href="/programmes/listeningpost/">The Listening Post</a></li>
+                          <li data-guid="140309123607662"><a href="/programmes/talktojazeera/">Talk to Al Jazeera</a></li>
+                          <li data-guid="140309100432009"><a href="/programmes/earthrise/">earthrise</a></li>
+                          <li data-guid="140309124802201"><a href="/programmes/headtohead/">Head to Head</a></li>
+                          <li data-guid="140309101519781"><a href="/programmes/countingthecost/">Counting the Cost</a></li>
+                          <li data-guid="150811112506260"><a href="/programmes/upfront/">UpFront</a></li>
+                          <li data-guid="170215082732680"><a href="/programmes/the-big-picture/">The Big Picture</a></li>
+                          <li data-guid="140309101636015"><a href="/programmes/empire/">Empire</a></li>
+                          <li data-guid="161019085813616"><a href="/programmes/" target="_self">All</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li data-guid="141105143951929" class="nav-item-141105143951929"><a href="/investigations/">Investigations </a></li>
+                  <li data-guid="181119115524858" class="nav-item-181119115524858"><a href="/indepth/opinion/">Opinion </a></li>
+                  <li data-guid="161017091647457" class="dropdown menu-large"><a class="dropdown-toggle" data-toggle="dropdown" href="#">More <b class="caret"></b></a><ul class="dropdown-menu megamenu row">
+                      <li class="col-sm-4">
+                        <ul>
+                          <li data-guid="191031154237737"><a href="/go/">AJ Go</a></li>
+                          <li data-guid="161027081630642"><a href="/indepth/features/">Features</a></li>
+                          <li data-guid="141105143951929"><a href="/investigations/">Investigations</a></li>
+                          <li data-guid="161027083327112"><a href="/indepth/inpictures/">In Pictures</a></li>
+                          <li data-guid="161027100258444"><a href="/indepth/interactive/">Interactive</a></li>
+                          <li data-guid="161019084958582"><a href="/indepth/interactive/documentaries/">Interactive Documentaries</a></li>
+                          <li data-guid="161115094809507"><a href="/shorts/">AJ Shorts</a></li>
+                          <li data-guid="170219130504928"><a href="/podcasts/">Podcasts</a></li>
+                          <li data-guid="161028145404792"><a href="/blogs/">Reporter's Notebook</a></li>
+                          <li data-guid="131112151343070"><a href="/topics/categories/human_rights.html">Human Rights</a></li>
+                          <li data-guid="131112152428605"><a href="/topics/categories/sport.html">Sport</a></li>
+                          <li data-guid="131112152215639"><a href="/topics/categories/science-and-technology.html">Science &amp; Technology</a></li>
+                          <li data-guid="140319114634577"><a href="/topics/categories/weather.html">Weather</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </div><nav class="nav-homepage-topics nav-wide"><ul>
+                  <li id="NavTopTopics">TRENDING:</li>
+                  <li><a href="/topics/events/coronavirus-outbreak.html">Coronavirus pandemic</a></li>
+                  <li><a href="/topics/spotlight/ramadan.html">Ramadan 2020</a></li>
+                  <li><a href="/topics/country/yemen.html">Yemen</a></li>
+                  <li><a href="/topics/country/china.html">China</a></li>
+                  <li><a href="/topics/country/italy.html">Italy</a></li>
+                </ul></nav></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-3 search-live-block article-live-block">
+      <div class="search-btn-section">
+        <ul>
+          <li id="watchlive-active" class="watch-live-sticky"><a href="/live/"><span class="genericon genericon-video"></span><span class="watch-live--stickyWord">Live</span></a></li>
+          <li class="search-btn-top"><a href="javascript:void(0)" class="article-button-search-top-main"><span class="genericon genericon-search"></span></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="form-wrapper-wrap" xmlns:media="http://search.yahoo.com/mrss/">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="form-wrapper"><input class="field-search search-field-main-header" id="searchText-main-header" placeholder="Search..." type="text"></div>
+      </div>
+    </div>
+  </div>
+</div></div></div><!--PageLoadedSucessfully--></div>
+       </div>
+       <!-- /desktop site header -->
+
+       <!-- mobile header -->
+       <div id="mobile-header" class="mobile-header mobile-header-article-main mobile-header-article-main-scroll">
+         <div><div><div style="border-style:none"><div class="col-sm-9" xmlns:media="http://search.yahoo.com/mrss/">
+  <div class="navbar navbar-default">
+    <div class="row">
+      <div class="navbar-header"><button id="ChangeToggleMobile" type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><div id="navbar-hamburger-mobile"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></div>
+          <div id="navbar-close-mobile" class="hidden"><span class="genericon genericon-close-alt" title="genericon-close"></span></div></button><a class="navbar-brand" href="/"><img alt="" src="/assets/images/AljazeeraLogo.png"></a><div class="mobile-social-icons" id="mobile-share-icons"></div>
+      </div>
+      <div class="navbar-collapse collapse " aria-expanded="true" id="bs-example-navbar-collapse-2">
+        <ul class="nav navbar-nav main-menu-sticky">
+          <li class="search-mobile"><span class="genericon genericon-search"></span><input class="field-search" id="mobile-search-field" type="text" placeholder="Search"></li>
+          <li data-guid="171025111604759"><a href="/" target="_self">Home </a></li>
+          <li data-guid="161023134902510"><a class="dropdown-toggle" data-toggle="dropdown" href="/news/">News <b class="caret"></b></a><ul class="dropdown-menu  multi-level">
+              <li data-guid="190522112437059"><a href="/ajimpact/">AJ Impact</a></li>
+              <li data-guid="140311071122120"><a href="/topics/regions/middleeast.html">Middle East</a></li>
+              <li data-guid="131113081710422"><a href="/topics/regions/africa.html">Africa</a></li>
+              <li data-guid="131112142029837"><a href="/topics/regions/asia.html">Asia</a></li>
+              <li data-guid="140311071220644"><a href="/topics/regions/us-canada.html">US &amp; Canada</a></li>
+              <li data-guid="131113111908681"><a href="/topics/regions/latin-america.html">Latin America</a></li>
+              <li data-guid="131113084937332"><a href="/topics/regions/europe.html">Europe</a></li>
+              <li data-guid="140311071939629"><a href="/topics/regions/asia-pacific.html">Asia Pacific</a></li>
+              <li data-guid="170926095124731"><a href="/news" target="_self">All</a></li>
+            </ul>
+          </li>
+          <li data-guid="190522112437059"><a href="/ajimpact/">AJ Impact </a></li>
+          <li data-guid="191031154237737"><a class="dropdown-toggle" data-toggle="dropdown" href="/go/">AJ Go <b class="caret"></b></a><ul class="dropdown-menu  multi-level">
+              <li data-guid="191029131141040"><a href="/programmes/start-here/">Start Here</a></li>
+              <li data-guid="191029131529059"><a href="/programmes/aj-close-up/">Al Jazeera Close Up</a></li>
+              <li data-guid="191029130618583"><a href="/programmes/fork-the-system/">Fork the System</a></li>
+              <li data-guid="191029131809245"><a href="/programmes/all-hail-the-algorithm/">All Hail the Algorithm</a></li>
+              <li data-guid="191029131859808"><a href="/programmes/media-theorised/">Media Theorised</a></li>
+            </ul>
+          </li>
+          <li data-guid="161016132227401"><a class="dropdown-toggle" data-toggle="dropdown" href="/documentaries/">Documentaries <b class="caret"></b></a><ul class="dropdown-menu  multi-level">
+              <li data-guid="140309125006070"><a href="/programmes/specialseries/">Featured Documentaries</a></li>
+              <li data-guid="140309124146566"><a href="/programmes/witness/">Witness</a></li>
+              <li data-guid="140309100922773"><a href="/programmes/aljazeeraworld/">Al Jazeera World</a></li>
+              <li data-guid="140309083414124"><a href="/programmes/101east/">101 East</a></li>
+              <li data-guid="140309103232322"><a href="/programmes/peopleandpower/">People &amp; Power</a></li>
+              <li data-guid="140309101835880"><a href="/programmes/faultlines/">Fault Lines</a></li>
+              <li data-guid="191031115629262"><a href="/programmes/whose-truth-is-it-anyway/truth.html">Whose Truth Is It Anyway?</a></li>
+              <li data-guid="190827092247220"><a href="/programmes/my-ethiopia/">My Ethiopia</a></li>
+              <li data-guid="181105074517308"><a href="/programmes/radicalised-youth/radicalised-youth.html">Radicalised Youth</a></li>
+              <li data-guid="140309100153551"><a href="/programmes/aljazeeracorrespondent/">Al Jazeera Correspondent</a></li>
+              <li data-guid="180816101727275"><a href="/programmes/this-is-europe/">This is Europe </a></li>
+              <li data-guid="170702220310988"><a href="/programmes/aljazeera-selects/">Al Jazeera Selects </a></li>
+              <li data-guid="160905084557919"><a href="/programmes/rewind/">REWIND</a></li>
+              <li data-guid="161019084747265"><a href="/documentaries/">All</a></li>
+            </ul>
+          </li>
+          <li data-guid="140204094724441"><a class="dropdown-toggle" data-toggle="dropdown" href="/programmes/">Shows <b class="caret"></b></a><ul class="dropdown-menu  multi-level">
+              <li data-guid="191113060753226"><a href="/programmes/studio-b-unscripted/">Studio B: Unscripted</a></li>
+              <li data-guid="191022080123227"><a href="/programmes/the-bottom-line/">The Bottom Line</a></li>
+              <li data-guid="140309102519696"><a href="/programmes/insidestory/">Inside Story</a></li>
+              <li data-guid="190915083255528"><a href="/programmes/planet-sos/">Planet SOS</a></li>
+              <li data-guid="140309124013095"><a href="/programmes/thestream/">The Stream</a></li>
+              <li data-guid="140309102803328"><a href="/programmes/listeningpost/">The Listening Post</a></li>
+              <li data-guid="140309123607662"><a href="/programmes/talktojazeera/">Talk to Al Jazeera</a></li>
+              <li data-guid="140309100432009"><a href="/programmes/earthrise/">earthrise</a></li>
+              <li data-guid="140309124802201"><a href="/programmes/headtohead/">Head to Head</a></li>
+              <li data-guid="140309101519781"><a href="/programmes/countingthecost/">Counting the Cost</a></li>
+              <li data-guid="150811112506260"><a href="/programmes/upfront/">UpFront</a></li>
+              <li data-guid="170215082732680"><a href="/programmes/the-big-picture/">The Big Picture</a></li>
+              <li data-guid="140309101636015"><a href="/programmes/empire/">Empire</a></li>
+              <li data-guid="161019085813616"><a href="/programmes/" target="_self">All</a></li>
+            </ul>
+          </li>
+          <li data-guid="141105143951929"><a href="/investigations/">Investigations </a></li>
+          <li data-guid="181119115524858"><a href="/indepth/opinion/">Opinion </a></li>
+          <li data-guid="161017091647457"><a class="dropdown-toggle" data-toggle="dropdown" href="#">More <b class="caret"></b></a><ul class="dropdown-menu  multi-level">
+              <li data-guid="191031154237737"><a href="/go/">AJ Go</a></li>
+              <li data-guid="161027081630642"><a href="/indepth/features/">Features</a></li>
+              <li data-guid="141105143951929"><a href="/investigations/">Investigations</a></li>
+              <li data-guid="161027083327112"><a href="/indepth/inpictures/">In Pictures</a></li>
+              <li data-guid="161027100258444"><a href="/indepth/interactive/">Interactive</a></li>
+              <li data-guid="161019084958582"><a href="/indepth/interactive/documentaries/">Interactive Documentaries</a></li>
+              <li data-guid="161115094809507"><a href="/shorts/">AJ Shorts</a></li>
+              <li data-guid="170219130504928"><a href="/podcasts/">Podcasts</a></li>
+              <li data-guid="161028145404792"><a href="/blogs/">Reporter's Notebook</a></li>
+              <li data-guid="131112151343070"><a href="/topics/categories/human_rights.html">Human Rights</a></li>
+              <li data-guid="131112152428605"><a href="/topics/categories/sport.html">Sport</a></li>
+              <li data-guid="131112152215639"><a href="/topics/categories/science-and-technology.html">Science &amp; Technology</a></li>
+              <li data-guid="140319114634577"><a href="/topics/categories/weather.html">Weather</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="col-sm-3 search-live-block article-live-block article-live-block-mobile" xmlns:media="http://search.yahoo.com/mrss/">
+  <div class="search-btn-section">
+    <ul>
+      <li id="Li2" class="watch-live-sticky"><a href="/live/"><span class="genericon genericon-video"></span><span class="watch-live-Word">Live</span></a></li>
+      <li class="search-btn-top"><a href="#" class="article-button-search-mobile"><span class="genericon genericon-search"></span></a></li>
+    </ul>
+  </div>
+</div></div></div><!--PageLoadedSucessfully--></div>
+       </div>
+         <!-- googleon: index -->
+    <!--  /article header wrapper-->
+
+        <!-- article page body -->
+
+        <div id="placeholder1" type="content">
+
+            <!-- comments goes here -->
+        
+	<div><div class="article-page-container"><div><div><div><div style="width:100%"><div><div><div style="border-style:none"></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><section id="article-page" class="article-page-section"><div><div><div><div style="width:100%"><div><div class="container main-container main-container-scroll" style="padding-top: 0px;"><div><div><div><div style="width:100%"><div><div class="row article-top-header"><div><div style="border-style:none"><div class="col-md-8 article-top-header-wrapper">
+  <div class="article-top-label">
+    <ul>
+      <li class="mini-primary" id="articlestoplabel"><a href="/news/" onclick="sendGAEvent('Labels','click','Content Type - Top');">News</a></li>
+      <li class="mini-label-slash">/</li>
+      <li class="mini-secondary" id="articlestoptopic"><a onclick="sendGAEvent('Topics','click','Article Topics - Top');" href="/topics/events/coronavirus-outbreak.html">Coronavirus pandemic</a></li>
+    </ul>
+  </div>
+  <div class="article-heading">
+    <h1 class="post-title">Coronavirus quandary: Some patients in S Korea get virus again</h1>
+    <p class="article-heading-des">Uncertainty over the reinfection or reactivation of the virus in patients could affect vaccine development. </p>
+    <div class="article-heading-author-wrap">
+      <div class="article-heading-author-img">
+        <div class="article-heading-author-name"><span>by <a rel="author" href="/profile/kelly-kasulis.html">Kelly Kasulis</a></span><div class="article-duration"><time class="timeagofunction" datetime="Mon Apr 27 2020 04:53:37 GMT+0000">27 Apr 2020 04:53 GMT</time></div>
+        </div>
+      </div>
+    </div>
+    <div class="article-readToMe-share-block" id="article-top-share-icon">
+      <ul></ul>
+    </div>
+  </div>
+</div></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div class="row article-main-content-wrapper"><div><div><div><div style="width:100%"><div><div class="col-md-8 article-main-content"><div><div style="border-style:none"><article id="main-article-block" class="main-article-block clear-fix"><div class="main-article-body"><figure class="main-article-mediaCaption"><div class="main-article-media"><img class="img-responsive main-article-media-img" src="/mritems/imagecache/mbdxxlarge/mritems/Images/2020/4/27/ecfb5e45e63e47b984df710106144c1e_18.jpg" alt="South Korea is gradually easing coronavirus restrictions but is facing a number of incidences where people thought to have recovered have been found to have contracted the virus again [Ahn Young-joon/AP Photo]" title="Coronavirus quandary: Some patients in S Korea get virus again"></div><figcaption class="main-article-caption">South Korea is gradually easing coronavirus restrictions but is facing a number of incidences where people thought to have recovered have been found to have contracted the virus again [Ahn Young-joon/AP Photo]</figcaption></figure><div id="inpage-more-on-block" class="inpage-auto-embed hidden-xs"></div>
+    <div class="article-p-wrapper" id="body-200771816342556199"><p class="speakable"><strong>Seoul, South Korea</strong> - As countries like the United States and Italy continue to diagnose and lose thousands of people to COVID-19 each day, South Korea's new infections appear to be thinning out.</p>
+<p class="speakable">But the country is now grappling with a new problem: at least 222 people<a href="https://newsis.com/view/?id=NISX20200423_0001003912&cid=10201"></a> have tested positive for the virus again after recovering, and experts are not sure why.</p>
+<h4>More:</h4>
+<ul>
+<li>
+<h4><a href="https://www.aljazeera.com/news/2020/04/south-korea-ruling-party-wins-election-landslide-200416000355845.html?utm_source=website&utm_medium=article_page&utm_campaign=read_more_links">South Korea's governing party wins election by a landslide</a></h4>
+</li>
+</ul>
+<ul>
+<li>
+<h4><a href="https://www.aljazeera.com/news/2020/04/south-korea-school-classrooms-remain-empty-200415094228841.html?utm_source=website&utm_medium=article_page&utm_campaign=read_more_links">South Korea goes back to school, but classrooms remain empty</a></h4>
+</li>
+</ul>
+<ul>
+<li>
+<h4><a href="https://www.aljazeera.com/news/2020/04/south-korea-coronavirus-cases-fall-single-digits-200419031505830.html?utm_source=website&utm_medium=article_page&utm_campaign=read_more_links">South Korea's daily coronavirus cases fall to single figures</a></h4>
+</li>
+</ul>
+<p class="speakable">"We can look at this as a matter of reinfection or a matter of reactivation," said Dr Roh Kyung-ho, who works at the Department of Laboratory Medicine at the National Health Insurance Ilsan Hospital.</p>
+<p>The difference between those two words - reinfection or reactivation - could be key in the global fight against COVID-19.</p>
+<p>Simply put, a reactivation would mean that an individual with COVID-19 has not been able to fight off the virus after seeming to get better. Being reinfected would mean that an individual has fully recovered but then contracts the virus again.</p>
+<p>"It is most likely that the virus is reactivated or reinfected because of [an individual's] insufficient immune function," Roh explained. "In the case of reinfections, it's possible that a person recovers from the virus and then comes into contact with other asymptomatic carriers of the virus in the community."</p>
+<h2>'Reactivation'</h2>
+<p>Only eight new cases of the virus were confirmed in South Korea between April 22 and 23, just under two months after what then appeared to have been the peak of the outbreak on February 29 when the country reported the world's most infections outside China.</p>
+<p>But with about 78 percent of those who once tested positive now cleared and released from quarantine, researchers remain unsure about the possibility of those who once had COVID-19 contracting it again.</p>
+<div class="article-embeded-block-image article-embedded-card fullwidth">
+<div class="article-embeded-mediaCaption" data-image-url="/mritems/Images/2020/4/27/3200fe6f8ff449019e7ad9d829c6a9a2_18.jpg">
+<div class="article-embeded-image"><img class="img-responsive article-embeded-media-img" title="People wearing masks to avoid the spread of the coronavirus disease (COVID-19) walk on a track as they work out at a park in Seoul, South Korea, April 24, 2020. REUTERS/Kim Hong-Ji" src="/mritems/Images/2020/4/27/3200fe6f8ff449019e7ad9d829c6a9a2_18.jpg" border="0" alt="South Korea"></div>
+<div class="article-embeded-caption">The number of daily coronavirus cases in South Korea has dwindled, but some patients previously thought cured have tested positive a second time [Kim Hong-Ji/Reuters]</div>
+</div>
+</div>
+<p>Experts in South Korea do not seem to think the fault lies with their test kits, which are now being exported en masse. At least 120 countries have requested Korean COVID-19 tests as imports or humanitarian aid, while South Korea exported test kits worth $48.6m in March.</p>
+<p>"Few researchers think that this is actually a case of reinfection or an issue of accuracy in test kits. Many are looking at this more as a virus reactivation," said Hwang Seung-sik, a spatio-temporal epidemiologist at Seoul National University. "Actually, South Korea also applies stricter standards for what constitutes a complete recovery, compared to other countries.</p>
+<p><span>"Given the high accuracy of test kits and volume of testing being conducted, this many cases of reinfection or reactivation is not a high number," he added.</span></p>
+<p>Instead, experts believe it might be a matter of how an individual's immune system functions. Some patients who had been infected with COVID-19 might experience a "relapse" because of other underlying health conditions and weak immune systems. Researchers also think that some patients might still be carrying the virus for longer than the expected 14-day period.</p>
+<p>For privacy reasons, the South Korean government keeps the identities of citizens with coronavirus anonymous, including the small group of individuals who have tested positive after recovering, identifying patients only by an assigned number.</p>
+<p>About 20 percent of those known to have gotten sick again are in their 20s, with those in their 50s making up the second-largest group of those who either relapsed or were reinfected.</p>
+<p>"Rather than an error in test kits, I think this issue may be from a difference in immune system function between individuals," Roh agreed. "We're in a situation where there is still no effective treatment or cure for the virus, and people might vary in how long they emit the virus, whether it be one month or six weeks."</p>
+<p>So far, early research from doctors in China and the US suggests that the coronavirus might be damaging lymphatic organs, or T-lymphocytes, the cells that help maintain a healthy immune system.</p>
+<div data-embed-type="Brightcove" data-embed-id="6145390262001">
+<table class="in-article-item video Fullwidth" border="0">
+<tbody>
+<tr>
+<td>
+<div class="mceVideoBox">
+<div id="bcvid_6145390262001"><a href="https://www.youtube.com/watch?v=oZ-BhOzGnNQ" target="_blank"><!-- Video --></a></div>
+<a href="https://www.youtube.com/watch?v=oZ-BhOzGnNQ" target="_blank">
+<script type="text/javascript">// <![CDATA[
+RenderGeneralBCVideo(6145390262001,0,0,300,462, "bcvid_6145390262001");brightcove.createExperiences();
+// ]]]] >
+</script>
+</a></div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="meta"><a href="https://www.youtube.com/watch?v=oZ-BhOzGnNQ" target="_blank">THE LISTENING POST I Coronavirus: Tracking the Outbreak, or Spying on People? (24:01)</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>It might sound alarming, but researchers believe that a reactivation of the virus is a far better scenario than potential reinfection, which would complicate efforts to develop a vaccine.</p>
+<p>"The main reason for distinguishing between reinfection and reactivation is, if it were a case of reinfection, that would mean that the immune system in the human body has not properly built immunity to COVID-19," Hwang said. "The consequences of that would mean we'd have difficulty controlling the epidemic and developing vaccines or other remedies in the future."</p>
+<h2>Proactive and aggressive</h2>
+<p>South Korea has been both proactive and aggressive in its fight against COVID-19, from quietly <a href="https://www.aljazeera.com/news/2020/03/south-korea-coronavirus-lessons-quick-easy-tests-monitoring-200319011438619.html">developing and stockpiling test kits</a> as early as January, to tapping into smartphone and credit card data to track the movements of those confirmed to have the virus. Smartphone users in the country <a href="https://www.aljazeera.com/news/2020/04/korea-smartphone-apps-tracking-coronavirus-won-stop-buzzing-200408074008185.html">receive automated alerts</a> detailing nearby infection sites, while those who finish their quarantine period are required to report their symptoms daily through a government-run app.</p>
+<p>At the same time, the country tested up to <a href="https://www.aljazeera.com/programmes/upfront/2020/03/testing-times-south-korea-covid-19-strategy-working-200320051718670.html">20,000 people a day</a> for the virus - often for free - sometimes in the form of drive-throughs or self-sanitising phone booths. The government also rationed protective face masks among citizens and delivered care packages with food, water, hygiene products and masks to those in self-quarantine.</p>
+<div class="article-embeded-block-image article-embedded-card fullwidth">
+<div class="article-embeded-mediaCaption" data-image-url="/mritems/Images/2020/4/27/50b4bd4287eb4fbe9b883e3a8629cd8d_18.jpg">
+<div class="article-embeded-image"><img class="img-responsive article-embeded-media-img" title="In this March 18, 2020, photo, medical equipments and official quarantine notice, delivered by the government, are laid out on floor in Seoul, South Korea. South Korea has been lauded for its effective response to the pandemic without enacting lockdown and other draconian measures (AP Photo/Juwon Park)" src="/mritems/Images/2020/4/27/50b4bd4287eb4fbe9b883e3a8629cd8d_18.jpg" border="0" alt="South Korea"></div>
+<div class="article-embeded-caption">Medical equipment, drugs and an official quarantine notice, delivered by the government, which has taken proactive measures to tackle the virus, focusing its efforts on testing, tracking and isolating people found to have it [Juwon Park/AP Photo]</div>
+</div>
+</div>
+<p>Testing has helped drive down infection rates, with fewer than 20 new cases per day in the last week. But, even so, medical experts are urging the public to remain cautious, and the government has extended physical distancing guidelines for a further two weeks to May 5.</p>
+<p>"Because of asymptomatic cases, we still haven't figured out the extent of community infection here," Roh said. "So, it's very necessary to keep up social distancing and wear a face mask in public places. It's also important to keep working on the development of feasible, safe treatments for the future."</p>
+<p>According to Roh, researchers around the world still do not fully understand how the virus works, and whether or not people can "really achieve full immunity after recovering."</p>
+<p>The World Health Organization warned on April 24 that countries should be careful about issuing "immunity passports" to those recovered from COVID-19, saying there was no evidence that people cannot get the disease again.</p>
+<p>In South Korea, those diagnosed for a second time are being treated in hospitals or kept in isolation.</p>
+<p>"If the demand for medical care suddenly increases because of a large infection cluster, then medical resources and diagnostic tests will have to be prioritised for patients in the most severe condition," Roh said. "In that case, there would be little bandwidth to study patients who are reinfected or have the virus reactivated."</p>
+<p>Despite the incidences of the virus reappearing in people once thought to have been clear of it, there may be some good news on the horizon.</p>
+<p>"So far, we have not seen significant changes in the coronavirus itself, so the possibility of being truly reinfected is low," Hwang said.</p>
+<p>"If a variant of the virus crops up this fall or winter, then there is a possibility of reinfections. However, usually as the number of strains of a virus increases, the infectiousness of the virus increases, but the deadliness tends to decrease."</p>
+<p><em>Mitch S Shin contributed to this report.</em></p></div>
+    <div class="article-body-artSource">
+      <p>
+            SOURCE:
+            <span>Al Jazeera News</span></p>
+    </div>
+    <div class="article-tags-feedback-wrapper">
+      <div class="article-body-tags">
+        <ul class="article-topic-detail-list" id="article-body-topics">
+          <li data-guid="140629181606280" data-topic-name="South Korea"><a onclick="sendGAEvent('Topics','click','Article Topics - Bottom');" href="/topics/country/south-korea.html">South Korea</a></li>
+          <li data-guid="200124071819941" data-topic-name="Coronavirus pandemic"><a onclick="sendGAEvent('Topics','click','Article Topics - Bottom');" href="/topics/events/coronavirus-outbreak.html">Coronavirus pandemic</a></li>
+          <li data-guid="131112151929544" data-topic-name="Health"><a onclick="sendGAEvent('Topics','click','Article Topics - Bottom');" href="/topics/categories/health.html">Health</a></li>
+          <li data-guid="140311071939629" data-topic-name="Asia Pacific"><a onclick="sendGAEvent('Topics','click','Article Topics - Bottom');" href="/topics/regions/asia-pacific.html">Asia Pacific</a></li>
+          <li data-guid="141028134535413" data-topic-name="World Health Organization"><a onclick="sendGAEvent('Topics','click','Article Topics - Bottom');" href="/topics/organisations/world-health-organisation.html">World Health Organization</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": "https://www.aljazeera.com/news/2020/04/coronavirus-quandary-patients-south-korea-200426235141488.html",
+        "headline": "Coronavirus quandary: Some patients in S Korea get virus again",
+    "datePublished": "27 Apr 2020 04:45 GMT",
+    "dateModified": "27 Apr 2020 04:53 GMT",
+    "description": "Uncertainty over the reinfection or reactivation of the virus in patients could affect vaccine development. ",
+    "author": {
+    "@type": "Person",
+    "name": "Kelly Kasulis"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Al Jazeera",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.aljazeera.com/mritems/assets/images/AJLOGOGOOGLE.png",
+        "width": 250,
+        "height": 40
+      }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2020/4/27/ecfb5e45e63e47b984df710106144c1e_18.jpg",
+            "height": 450,
+            "width": 800
+    }
+}
+</script>
+
+    <script type="application/ld+json">
+{
+	"@context": "http://schema.org/",
+	"@type": "WebPage",
+	"name": "Coronavirus quandary: Some patients in S Korea get virus again",
+	"speakable": {
+		"@type": "SpeakableSpecification",
+		"cssSelector": [".post-title", ".speakable"]
+		},
+       	"url": "https://www.aljazeera.com/news/2020/04/coronavirus-quandary-patients-south-korea-200426235141488.html"	
+}	
+       </script></article></div></div><div><div><div><div style="width:100%"><div guid="" path="UnderBodyContent" inherited="a1" applyzonekeepinhritance="true"><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div><div><div><div style="border-style:none"><div class="feedback-signForm">
+  <div class="article-feedback-txt have-your-say">
+          Have your say.<a href="javascript:showFeedbackForm();">Give us feedback.</a></div>
+  <div class="article-feedback-txt">
+         Sign up for our<a id="opennewsletter" href="javascript:showNewsletterForm();">Newsletter.</a></div>
+  <div id="bottomadsempty" style="padding-top: 30px;"></div>
+</div></div></div></div></div></div><div></div></div></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div><div><div style="border-style:none"> </div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div class="col-md-4  main-article-sidebar"><div><div style="border-style:none"><div class="sideAdv-wrapper">
+                  <div class="article-adv-right-sideBar">
+                    <div id="rightsideadstop" class="rightsideadstop">
+                    <!-- Ads Here -->
+                    </div>
+                  </div>
+                </div>
+    <div class="sideAdv-wrapper-2">
+                  <div class="article-adv-right-sideBar-2 rightsideadstop-2">
+                    <!-- Ads Here -->
+                  </div>
+                </div>
+              </div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div></section></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div style="border-style:none"><div class="section-separator">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<hr class="article-section-separator">
+				<!-- Space --></div>
+		</div>
+	</div>
+</div>
+</div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div><div><div><div><div style="width:100%"><div><div><div style="border-style:none"><div class="infinite-scroll-init-block" data-guid="200426235141488" xmlns:media="http://search.yahoo.com/mrss/"></div>
+<div class="page-load-status" xmlns:media="http://search.yahoo.com/mrss/">
+  <div class="loader-ellips infinite-scroll-request"><span class="loader-ellips__dot"></span><span class="loader-ellips__dot"></span><span class="loader-ellips__dot"></span><span class="loader-ellips__dot"></span></div>
+</div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div><div><div><div><div style="width:100%"><div></div></div><div></div></div></div></div></div></div>
+</div>
+
+        <!-- footer tags -->
+        <!-- googleoff: index -->
+        <div><div><div><div><div style="width:100%"><div><div><div style="border-style:none"><div class="footer-top-socials">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="col-md-6 footer-logo pull-left">
+					<img alt="Al Jazeera" class="alj-footer-logo" id="footer-logo" src="/mritems/images/site/aje-logo-white.svg"></div>
+				<div class="col-md-6 footer-socials pull-right">
+					<ul class="footer-nav-main" id="footer-nav-main">
+						<li>
+							<a href="/news/">News</a></li>
+						<li>
+							<a href="/programmes/">Programmes</a></li>
+						<li>
+							<a href="/indepth/opinion/">Opinion</a></li>
+						<li>
+							<a href="/aboutus/">About</a></li>
+						<li>
+							<a href="/investigations/">Investigations</a></li>
+						<li class="for-mobile" style="display: none;">
+							<a href="/contactus/">Contact Us</a></li>
+						<li class="last m-hide">
+							<a href="http://video.aljazeera.com/channels/eng" target="_blank">Video</a></li>
+						<li>
+							<a href="https://network.aljazeera.com/privacy/en" target="_blank">Privacy Policy</a></li>
+						<li>
+							<a href="https://network.aljazeera.com/cookies/en" target="_blank">Cookie Policy</a></li>
+						<li>
+							<a href="javascript:$('html, body').animate({ scrollTop: 0 }, 800); AJPrivacy.gateway.openModal()">Cookie Preferences</a></li>
+					</ul>
+					<ul id="footer-nav-social">
+						<li>
+							<a class="icon-facebook" href="http://www.facebook.com/aljazeera" target="_blank">Facebook</a></li>
+						<li>
+							<a class="icon-twitter" href="http://twitter.com/ajenglish" target="_blank">Twitter</a></li>
+						<li>
+							<a class="icon-rss" href="/xml/rss/all.xml" target="_blank">RSS</a></li>
+						<li>
+							<a class="icon-pod" href="/programmes/Podcasts.html" target="_blank">Podcast</a></li>
+						<li>
+							<a class="icon-youtube" href="https://www.youtube.com/user/AlJazeeraEnglish?sub_confirmation=1" target="_blank">YouTube</a></li>
+						<li>
+							<a class="Snapchat" href="https://www.snapchat.com/add/AJENews" target="_blank">SnapChat</a></li>
+					</ul>
+					<!-- end .social --></div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8 col-sm-12 footer-links">
+				<div class="col-md-3 col-sm-6 col-xs-6">
+					<h3>
+						About</h3>
+					<ul class="list">
+						<li>
+							<a href="/aboutus/">About Us</a></li>
+						<li>
+							<a href="/aboutus/2006/11/2008525185733692771.html">Code of Ethics</a></li>
+						<li>
+							<a href="/aboutus/2011/01/20111168582648190.html">Terms and Conditions</a></li>
+						<li>
+							<a href="https://network.aljazeera.com/privacy/en" target="_blank">Privacy Policy</a></li>
+						<li>
+							<a href="https://network.aljazeera.com/cookies/en" target="_blank">Cookie Policy</a></li>
+						<li>
+							<a href="javascript:$('html, body').animate({ scrollTop: 0 }, 800); AJPrivacy.gateway.openModal()">Cookie Preferences</a></li>
+						<li>
+							<a href="/aboutus/2011/01/201111681520872288.html">Community Guidelines</a></li>
+						<li>
+							<a href="http://careers.aljazeera.net/en/" target="_blank">Work for us</a></li>
+						<li>
+							<a href="/hraquality" target="_blank">HR Quality</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6">
+					<h3>
+						Connect</h3>
+					<ul class="list">
+						<li>
+							<a href="/contactus/">Contact Us</a></li>
+						<li>
+							<a href="/connect/">Apps</a></li>
+						<li>
+							<a href="/aboutus/follow-us.html">Social</a></li>
+						<li>
+							<a href="http://sat.aljazeera.net/en">Channel Finder</a></li>
+						<li>
+							<a href="/watch_now/epgschedule.html">TV Schedule</a></li>
+						<li>
+							<a href="/programmes/Podcasts.html">Podcasts</a></li>
+						<li>
+							<a href="/newsletter">Newsletter</a></li>
+						<li>
+							<a href="/tips" target="_blank">Submit a Tip</a></li>
+						<li>
+							<a href="/directory" target="_blank">Directory</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6">
+					<h3>
+						Our Channels</h3>
+					<ul class="list">
+						<li>
+							<a href="http://aljazeera.net" target="_blank">Al Jazeera Arabic</a></li>
+						<li>
+							<a href="https://www.aljazeera.com" target="_blank">Al Jazeera English</a></li>
+						<li>
+							<a href="http://mubasher.aljazeera.net" target="_blank">Al Jazeera Mubasher</a></li>
+						<li>
+							<a href="http://doc.aljazeera.net" target="_blank">Al Jazeera Documentary</a></li>
+						<li>
+							<a href="http://balkans.aljazeera.net" target="_blank">Al Jazeera Balkans</a></li>
+						<li>
+							<a href="http://ajplus.net" target="_blank">AJ+</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-6">
+					<h3>
+						Our Network</h3>
+					<ul class="list">
+						<li>
+							<a href="http://www.jetty.fm" target="_blank">Jetty</a></li>
+						<li>
+							<a href="http://studies.aljazeera.net/en/" target="_blank">Al Jazeera Centre for Studies</a></li>
+						<li>
+							<a href="http://training.aljazeera.net" target="_blank">Al Jazeera Media Institute</a></li>
+						<li>
+							<a href="http://learning.aljazeera.net" target="_blank">Learn Arabic</a></li>
+						<li>
+							<a href="http://liberties.aljazeera.com/en" target="_blank">Al Jazeera Centre for Public Liberties &amp; Human Rights</a></li>
+						<li>
+							<a href="http://forum.aljazeera.net" target="_blank">Al Jazeera Forum</a></li>
+						<li>
+							<a href="http://festival.aljazeera.net" target="_blank">Al Jazeera Film Festival</a></li>
+						<li>
+							<a href="http://partners.aljazeera.net" target="_blank">Al Jazeera Hotel Partners</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-md-4 col-sm-12 col-xs-12 footer-copyright">
+				<p>
+					Â© 2020 Al Jazeera Media Network</p>
+			</div>
+		</div>
+	</div>
+</div>
+<p>
+	&nbsp;</p>
+</div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+        <!-- googleon: index -->
+        <!-- BS Article Footer --> 
+<script src="/assets/scripts/mailchimp-ajax-signup.js?x=1" type="text/javascript" async></script>   
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  
+
+<!-- In article ads video -->
+<div id="div-gpt-ad-1430377943388-3" style="display: none !important;">  
+ <script type="text/javascript">
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-3'); 
+});
+</script>
+</div>
+<!-- End In article ads video -->
+<!-- In article ads video -->
+<div id="div-gpt-ad-1430377943388-4" style="display: none !important;">  
+ <script type="text/javascript">
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-4'); 
+});
+</script>
+</div>
+<!-- End In article ads video -->
+
+<div id="topadshidden" style="display:none;">
+<div id="div-gpt-ad-1430377943388-5">  
+ <script type="text/javascript">	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-5'); 
+});
+</script>
+</div>
+</div>
+
+<div id="rightsideadshidden" style="display:none;">
+<div id="div-gpt-ad-1430377943388-1">  
+ <script type="text/javascript">	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-1'); 
+});
+</script>
+</div>
+<p class="adv-sidelabel">Advertisement</p>  
+</div>
+ 
+ 
+<div id="bodyadshidden" style="display:none;">
+<div id="div-gpt-ad-1430377943388-0">  
+ <script type="text/javascript">	
+googletag.cmd.push(function() { 
+googletag.display('div-gpt-ad-1430377943388-0'); 
+});
+</script>   
+</div>
+<p class="adv-sidelabel">Advertisement</p>
+</div>
+
+<div id="bottomadshidden" style="display:none;">
+<div id="div-gpt-ad-1430377943388-2">  
+ <script type="text/javascript">	
+googletag.cmd.push(function () {
+    googletag.display('div-gpt-ad-1430377943388-2');
+});  
+</script>
+</div>
+<p class="adv-sidelabel">Advertisement</p>  
+</div> 
+
+ <script src="/assets/scripts/hcsticky.js"></script>
+<script src="/assets/scripts/bootstrap-min.js"></script>
+<script src="/assets/scripts/bs-article-script.js?x=12"></script>
+<script>
+    try {
+        $('.article-adv-right-sideBar').hcSticky({
+            stickTo: '.sideAdv-wrapper',
+            offResolutions: -800,
+            top: 75
+        });
+
+        $('.article-sidebar-trendings').hcSticky({
+            stickTo: '.article-sidebar-trending-wrapper',
+            offResolutions: -800,
+            top: 75
+        });
+    } catch (e) {}
+$('.article-vid-content').click(function() {
+            showVideo(); 
+        });
+    </script>
+<script>
+ if (/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+var bodyptags = $('.article-p-wrapper > p');
+
+if (bodyptags.length > 2){
+
+$("<div id='bodyads'> </div>").insertAfter(bodyptags[3]);
+
+}else{
+
+$("<div id='bodyads'> </div>").insertAfter(bodyptags[0]); 
+
+}
+}  
+</script>
+<script type="text/javascript">
+	try {
+
+          var TopDiv = document.getElementById("topdivad");
+	  if (TopDiv != null){
+	    TopDiv.innerHTML = document.getElementById("topadshidden").innerHTML;
+            document.getElementById("topadshidden").innerHTML = "";
+	  }  
+
+	  var TopRightDiv = document.getElementById("rightsideadstop");
+	  if (TopRightDiv != null){
+	    TopRightDiv.innerHTML = document.getElementById("rightsideadshidden").innerHTML;
+	    document.getElementById("rightsideadshidden").innerHTML = "";
+	  } 
+
+	  var BottomDiv = document.getElementById("bottomadsempty");
+	  BottomDiv.innerHTML = document.getElementById("bottomadshidden").innerHTML;
+	  document.getElementById("bottomadshidden").innerHTML = "";
+
+      if (/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+         var BodyAds = document.getElementById("bodyads");
+	  if (BodyAds != null){ 
+	    BodyAds.innerHTML = document.getElementById("bodyadshidden").innerHTML;
+	    document.getElementById("bodyadshidden").innerHTML = "";
+	  }
+	} 
+ 
+	}
+	catch(err) {
+	
+	}
+</script>
+
+<script src="/assets/scripts/ticker-plugin-script.js?x=153" type="text/javascript" defer></script>
+<script src="/assets/scripts/ticker-helper-scriptv2.js?x=165" type="text/javascript" defer></script>
+ 
+<script src="/assets/scripts/jquery.timeagov2.js" async></script> 
+<script type="text/javascript" src="/assets/scripts/jquery.lazy.min-v2.js?x=1" async></script>
+<script type="text/javascript" src="/assets/scripts/footer-general-run-v2.js?x=46" async></script>
+<script src="/assets/scripts/plugins/jquery.colorbox.js?x=1" async></script>
+<link href="/assets/styles/plugins/colorbox.css?x=20" rel="stylesheet" />
+
+
+<!-- Global site tag (gtag.js) - Google Ads: 774768298 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-774768298"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date()); 
+
+  gtag('config', 'AW-774768298');
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '320402738661210'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" 
+src="https://www.facebook.com/tr?id=320402738661210&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+<script>
+try{
+var articleGUID = getMetaContentByName('guid');
+var FirstArticleContainer = document.getElementById("article-page").firstChild;
+FirstArticleContainer.classList.add("Ads-" +articleGUID);
+} 
+catch(error){
+	consol.log(error);
+}
+</script><!-- BS News Articles Footer --> 
+
+     
+      
+      
+
+    
+     <!--PageLoadedSucessfully-->
+    </form>
+</body>
+</html>

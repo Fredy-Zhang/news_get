@@ -1,0 +1,2799 @@
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" id="arve"> <!--<![endif]-->
+<head>
+<link media="all" href="https://micky.com.au/wp-content/cache/autoptimize/css/autoptimize_d73b59f4e196ced9128cae5c1c5cccb0.css?x31535" rel="stylesheet" /><title>Global Pandemic cause rise in gaming, as well as botting and cheating</title>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="pingback" href="https://micky.com.au/xmlrpc.php" />
+
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<link rel="manifest" href="https://micky.com.au/wp-json/push-notification/v2/pn-manifest-json"><link rel="icon" type="image/png" href="https://micky.com.au/wp-content/uploads/2019/02/micky-16-x-16.png?x31535">
+
+<meta name="description" content="Lockdown caused by COVID-19 has caused a rise in gaming and, along with it, players who resort to illicit means for an unfair advantage." />
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Global Pandemic cause rise in gaming, as well as botting and cheating" />
+<meta property="og:description" content="Lockdown caused by COVID-19 has caused a rise in gaming and, along with it, players who resort to illicit means for an unfair advantage." />
+<meta property="og:url" content="https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/" />
+<meta property="og:site_name" content="Micky" />
+<meta property="article:publisher" content="https://www.facebook.com/MickyNewsOz/" />
+<meta property="article:tag" content="Aimbot" />
+<meta property="article:tag" content="Botting" />
+<meta property="article:tag" content="cheating" />
+<meta property="article:tag" content="Steam" />
+<meta property="article:tag" content="Wallhacks" />
+<meta property="article:section" content="Gaming" />
+<meta property="article:published_time" content="2020-04-27T08:58:34+00:00" />
+<meta property="og:image" content="https://micky.com.au/wp-content/uploads/2020/04/hacker-2300772_1280-1.jpg" />
+<meta property="og:image:secure_url" content="https://micky.com.au/wp-content/uploads/2020/04/hacker-2300772_1280-1.jpg" />
+<meta property="og:image:width" content="741" />
+<meta property="og:image:height" content="486" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Lockdown caused by COVID-19 has caused a rise in gaming and, along with it, players who resort to illicit means for an unfair advantage." />
+<meta name="twitter:title" content="Global Pandemic cause rise in gaming, as well as botting and cheating" />
+<meta name="twitter:site" content="@MickyNewsOz" />
+<meta name="twitter:image" content="https://micky.com.au/wp-content/uploads/2020/04/hacker-2300772_1280-1.jpg" />
+<meta name="twitter:creator" content="@MickyNewsOz" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://micky.com.au/#organization","name":"Micky News","url":"https://micky.com.au/","sameAs":["https://www.facebook.com/MickyNewsOz/","https://www.youtube.com/channel/UC8J40w9mUIHYMX5xz3o4UFw","https://twitter.com/MickyNewsOz"],"logo":{"@type":"ImageObject","@id":"https://micky.com.au/#logo","inLanguage":"en-US","url":"https://micky.com.au/wp-content/uploads/2018/08/Mickycomau_Lrg.png","width":1000,"height":400,"caption":"Micky News"},"image":{"@id":"https://micky.com.au/#logo"}},{"@type":"WebSite","@id":"https://micky.com.au/#website","url":"https://micky.com.au/","name":"Micky","inLanguage":"en-US","description":"Australian Crypto and Blockchain News","publisher":{"@id":"https://micky.com.au/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://micky.com.au/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"ImageObject","@id":"https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/#primaryimage","inLanguage":"en-US","url":"https://micky.com.au/wp-content/uploads/2020/04/hacker-2300772_1280-1.jpg","width":741,"height":486,"caption":"Botting and cheating arise coincidentally with the rise in gaming"},{"@type":"WebPage","@id":"https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/#webpage","url":"https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/","name":"Global Pandemic cause rise in gaming, as well as botting and cheating","isPartOf":{"@id":"https://micky.com.au/#website"},"inLanguage":"en-US","primaryImageOfPage":{"@id":"https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/#primaryimage"},"datePublished":"2020-04-27T08:58:34+00:00","dateModified":"2020-04-27T08:58:34+00:00","description":"Lockdown caused by COVID-19 has caused a rise in gaming and, along with it, players who resort to illicit means for an unfair advantage.","breadcrumb":{"@id":"https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/#breadcrumb"},"potentialAction":[{"@type":"ReadAction","target":["https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/"]}]},{"@type":"BreadcrumbList","@id":"https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://micky.com.au/","url":"https://micky.com.au/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://micky.com.au/gaming/","url":"https://micky.com.au/gaming/","name":"Gaming"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/","url":"https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/","name":"Global Pandemic cause rise in gaming, as well as botting and cheating"}}]},{"@type":"Article","@id":"https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/#article","isPartOf":{"@id":"https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/#webpage"},"author":{"@id":"https://micky.com.au/#/schema/person/1fed543745f1d1fca0c37942b5844fa4"},"headline":"Global Pandemic cause rise in gaming, as well as botting and cheating","datePublished":"2020-04-27T08:58:34+00:00","dateModified":"2020-04-27T08:58:34+00:00","commentCount":0,"mainEntityOfPage":{"@id":"https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/#webpage"},"publisher":{"@id":"https://micky.com.au/#organization"},"image":{"@id":"https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/#primaryimage"},"keywords":"Aimbot,Botting,cheating,Steam,Wallhacks","articleSection":"Gaming","inLanguage":"en-US"},{"@type":["Person"],"@id":"https://micky.com.au/#/schema/person/1fed543745f1d1fca0c37942b5844fa4","name":"Jermaine D. Delos Santos","image":{"@type":"ImageObject","@id":"https://micky.com.au/#authorlogo","inLanguage":"en-US","url":"https://micky.com.au/wp-content/plugins/wp-user-avatar/images/wpua-96x96.png","caption":"Jermaine D. Delos Santos"},"sameAs":[]}]}</script>
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='dns-prefetch' href='//unpkg.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Micky &raquo; Feed" href="https://micky.com.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Micky &raquo; Comments Feed" href="https://micky.com.au/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Micky &raquo; Global Pandemic cause rise in gaming, as well as botting and cheating Comments Feed" href="https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/micky.com.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+ <script>
+			//@formatter:off
+						advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
+			</script><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='unslider-css-css' href='https://micky.com.au/wp-content/uploads/391/460/public/assets/css/983.css?x31535' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-css-css' href='https://micky.com.au/wp-content/uploads/391/460/public/assets/css/84.css?x31535' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='google-fonts-style-css' href='https://fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C400italic%2C500%2C500italic%2C700%2C900%2C800%7COpen+Sans%3A300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C300%2C800%2C900&#038;display=swap&#038;ver=10.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://micky.com.au/wp-includes/js/jquery/jquery.js?x31535'></script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-includes/js/jquery/jquery-migrate.min.js?x31535'></script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/uploads/391/460/public/assets/js/554.js?x31535'></script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/uploads/391/460/public/assets/js/196.js?x31535'></script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/uploads/391/460/public/assets/js/504.js?x31535'></script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/uploads/391/502/public/assets/js/advanced.js?x31535'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advanced_ads_responsive = {"reload_on_resize":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/uploads/391/716/public/assets/js/6.js?x31535'></script>
+<script type='text/javascript' src='https://micky.com.au/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?x31535'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advanced_ads_pro_visitor_conditions = {"referrer_cookie_name":"advanced_ads_pro_visitor_referrer","referrer_exdays":"365","page_impr_cookie_name":"advanced_ads_page_impressions","page_impr_exdays":"3650"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/uploads/391/751/805/275/6/578.js?x31535'></script>
+<link rel='https://api.w.org/' href='https://micky.com.au/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://micky.com.au/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://micky.com.au/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.4" />
+<link rel='shortlink' href='https://micky.com.au/?p=28277' />
+<link rel="alternate" type="application/json+oembed" href="https://micky.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmicky.com.au%2Fglobal-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://micky.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmicky.com.au%2Fglobal-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating%2F&#038;format=xml" />
+<noscript><style>.lazyload { display: none !important; }</style></noscript>
+<script>advads_items = { conditions: {}, display_callbacks: {}, display_effect_callbacks: {}, hide_callbacks: {}, backgrounds: {}, effect_durations: {}, close_functions: {}, showed: [] };</script><style type="text/css" id="micky-layer-custom-css"></style>
+
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+	var dataLayer_content = {"pagePostType":"post","pagePostType2":"single-post","pageCategory":["gaming"],"pageAttributes":["aimbot","botting","cheating","steam","wallhacks"],"pagePostAuthor":"Jermaine D. Delos Santos"};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PVGCPG4');//]]>
+</script>
+
+<script type="text/javascript">
+		var advadsCfpQueue = [];
+		var advadsCfpAd = function( adID ){
+			if ( 'undefined' == typeof advadsProCfp ) { advadsCfpQueue.push( adID ) } else { advadsProCfp.addElement( adID ) }
+		};
+		</script> 
+<script type="text/javascript">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "blog-post"]);
+			</script>
+
+<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+<script>
+				window.tdwGlobal = {"adminUrl":"https:\/\/micky.com.au\/wp-admin\/","wpRestNonce":"9acefa99b4","wpRestUrl":"https:\/\/micky.com.au\/wp-json\/","permalinkStructure":"\/%postname%\/"};
+			</script>
+<style type="text/css" id="tve_global_variables">:root{}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://micky.com.au/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?x31535" media="screen"><![endif]--><script type="text/javascript">
+			if ( 'undefined' == typeof advadsGATracking ) window.advadsGATracking = {};
+		</script>
+<link rel="amphtml" href="https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/?amp">
+
+<script>
+    
+    
+
+	    var tdBlocksArray = []; //here we store all the items for the current page
+
+	    //td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
+
+
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+	        if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+	        if ( navigator.userAgent.indexOf("Edge") > -1 ) {
+                htmlTag.className += ' ieEdge';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+            if( -1 !== navigator.userAgent.indexOf('IEMobile') ){
+                htmlTag.className += ' td-md-is-iemobile';
+            }
+
+        })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var tds_general_modal_image="yes";
+var tdc_is_installed="yes";
+var td_ajax_url="https:\/\/micky.com.au\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=10.1";
+var td_get_template_directory_uri="https:\/\/micky.com.au\/wp-content\/plugins\/td-composer\/legacy\/common";
+var tds_snap_menu="smart_snap_always";
+var tds_logo_on_sticky="show_header_logo";
+var tds_header_style="";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=1200;
+var tds_theme_color_site_wide="#000000";
+var tds_smart_sidebar="enabled";
+var tdThemeName="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var tdBlockNonce="69e7eb0402";
+var tdDateNamesI18n={"month_names":["January","February","March","April","May","June","July","August","September","October","November","December"],"month_names_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"day_names_short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]};
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+
+<style>
+    
+.td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > li > a:hover,
+    .td-header-wrap .black-menu .sf-menu > .sfHover > a,
+    .sf-menu > .current-menu-item > a:after,
+    .sf-menu > .current-menu-ancestor > a:after,
+    .sf-menu > .current-category-ancestor > a:after,
+    .sf-menu > li:hover > a:after,
+    .sf-menu > .sfHover > a:after,
+    .header-search-wrap .td-drop-down-search:after,
+    .header-search-wrap .td-drop-down-search .btn:hover,
+    input[type=submit]:hover,
+    .td-read-more a,
+    .td-post-category:hover,
+    .td_top_authors .td-active .td-author-post-count,
+    .td_top_authors .td-active .td-author-comments-count,
+    .td_top_authors .td_mod_wrap:hover .td-author-post-count,
+    .td_top_authors .td_mod_wrap:hover .td-author-comments-count,
+    .td-404-sub-sub-title a:hover,
+    .td-search-form-widget .wpb_button:hover,
+    .td-rating-bar-wrap div,
+    .dropcap,
+    .td_wrapper_video_playlist .td_video_controls_playlist_wrapper,
+    .wpb_default,
+    .wpb_default:hover,
+    .td-left-smart-list:hover,
+    .td-right-smart-list:hover,
+    .woocommerce-checkout .woocommerce input.button:hover,
+    .woocommerce-page .woocommerce a.button:hover,
+    .woocommerce-account div.woocommerce .button:hover,
+    #bbpress-forums button:hover,
+    .bbp_widget_login .button:hover,
+    .td-footer-wrapper .td-post-category,
+    .td-footer-wrapper .widget_product_search input[type="submit"]:hover,
+    .woocommerce .product a.button:hover,
+    .woocommerce .product #respond input#submit:hover,
+    .woocommerce .checkout input#place_order:hover,
+    .woocommerce .woocommerce.widget .button:hover,
+    .single-product .product .summary .cart .button:hover,
+    .woocommerce-cart .woocommerce table.cart .button:hover,
+    .woocommerce-cart .woocommerce .shipping-calculator-form .button:hover,
+    .td-next-prev-wrap a:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-small-box a:hover,
+    .page-nav .current,
+    .page-nav:first-child > div,
+    #bbpress-forums .bbp-pagination .current,
+    #bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current a,
+    .td-theme-slider:hover .slide-meta-cat a,
+    a.vc_btn-black:hover,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .td-scroll-up,
+    .td-smart-list-button:hover,
+    .td-weather-information:before,
+    .td-weather-week:before,
+    .td_block_exchange .td-exchange-header:before,
+    .td-pulldown-syle-2 .td-subcat-dropdown ul:after,
+    .td_block_template_9 .td-block-title:after,
+    .td_block_template_15 .td-block-title:before,
+    div.wpforms-container .wpforms-form div.wpforms-submit-container button[type=submit] {
+        background-color: #000000;
+    }
+
+    .td_block_template_4 .td-related-title .td-cur-simple-item:before {
+        border-color: #000000 transparent transparent transparent !important;
+    }
+
+    .woocommerce .woocommerce-message .button:hover,
+    .woocommerce .woocommerce-error .button:hover,
+    .woocommerce .woocommerce-info .button:hover {
+        background-color: #000000 !important;
+    }
+    
+    
+    .td_block_template_4 .td-related-title .td-cur-simple-item,
+    .td_block_template_3 .td-related-title .td-cur-simple-item,
+    .td_block_template_9 .td-related-title:after {
+        background-color: #000000;
+    }
+
+    .woocommerce .product .onsale,
+    .woocommerce.widget .ui-slider .ui-slider-handle {
+        background: none #000000;
+    }
+
+    .woocommerce.widget.widget_layered_nav_filters ul li a {
+        background: none repeat scroll 0 0 #000000 !important;
+    }
+
+    a,
+    cite a:hover,
+    .td-page-content blockquote p,
+    .td-post-content blockquote p,
+    .mce-content-body blockquote p,
+    .comment-content blockquote p,
+    .wpb_text_column blockquote p,
+    .td_block_text_with_title blockquote p,
+    .td_module_wrap:hover .entry-title a,
+    .td-subcat-filter .td-subcat-list a:hover,
+    .td-subcat-filter .td-subcat-dropdown a:hover,
+    .td_quote_on_blocks,
+    .dropcap2,
+    .dropcap3,
+    .td_top_authors .td-active .td-authors-name a,
+    .td_top_authors .td_mod_wrap:hover .td-authors-name a,
+    .td-post-next-prev-content a:hover,
+    .author-box-wrap .td-author-social a:hover,
+    .td-author-name a:hover,
+    .td-author-url a:hover,
+    .comment-reply-link:hover,
+    .logged-in-as a:hover,
+    #cancel-comment-reply-link:hover,
+    .td-search-query,
+    .widget a:hover,
+    .td_wp_recentcomments a:hover,
+    .archive .widget_archive .current,
+    .archive .widget_archive .current a,
+    .widget_calendar tfoot a:hover,
+    .woocommerce a.added_to_cart:hover,
+    .woocommerce-account .woocommerce-MyAccount-navigation a:hover,
+    #bbpress-forums li.bbp-header .bbp-reply-content span a:hover,
+    #bbpress-forums .bbp-forum-freshness a:hover,
+    #bbpress-forums .bbp-topic-freshness a:hover,
+    #bbpress-forums .bbp-forums-list li a:hover,
+    #bbpress-forums .bbp-forum-title:hover,
+    #bbpress-forums .bbp-topic-permalink:hover,
+    #bbpress-forums .bbp-topic-started-by a:hover,
+    #bbpress-forums .bbp-topic-started-in a:hover,
+    #bbpress-forums .bbp-body .super-sticky li.bbp-topic-title .bbp-topic-permalink,
+    #bbpress-forums .bbp-body .sticky li.bbp-topic-title .bbp-topic-permalink,
+    .widget_display_replies .bbp-author-name,
+    .widget_display_topics .bbp-author-name,
+    .td-subfooter-menu li a:hover,
+    a.vc_btn-black:hover,
+    .td-smart-list-dropdown-wrap .td-smart-list-button:hover,
+    .td-instagram-user a,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover i,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-link:hover,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-item .td-cur-simple-item,
+    .td_block_template_2 .td-related-title .td-cur-simple-item,
+    .td_block_template_5 .td-related-title .td-cur-simple-item,
+    .td_block_template_6 .td-related-title .td-cur-simple-item,
+    .td_block_template_7 .td-related-title .td-cur-simple-item,
+    .td_block_template_8 .td-related-title .td-cur-simple-item,
+    .td_block_template_9 .td-related-title .td-cur-simple-item,
+    .td_block_template_10 .td-related-title .td-cur-simple-item,
+    .td_block_template_11 .td-related-title .td-cur-simple-item,
+    .td_block_template_12 .td-related-title .td-cur-simple-item,
+    .td_block_template_13 .td-related-title .td-cur-simple-item,
+    .td_block_template_14 .td-related-title .td-cur-simple-item,
+    .td_block_template_15 .td-related-title .td-cur-simple-item,
+    .td_block_template_16 .td-related-title .td-cur-simple-item,
+    .td_block_template_17 .td-related-title .td-cur-simple-item,
+    .td-theme-wrap .sf-menu ul .td-menu-item > a:hover,
+    .td-theme-wrap .sf-menu ul .sfHover > a,
+    .td-theme-wrap .sf-menu ul .current-menu-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-category-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-menu-item > a,
+    .td_outlined_btn,
+     .td_block_categories_tags .td-ct-item:hover {
+        color: #000000;
+    }
+
+    a.vc_btn-black.vc_btn_square_outlined:hover,
+    a.vc_btn-black.vc_btn_outlined:hover {
+        color: #000000 !important;
+    }
+
+    .td-next-prev-wrap a:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-small-box a:hover,
+    .page-nav .current,
+    .page-nav:first-child > div,
+    #bbpress-forums .bbp-pagination .current,
+    .post .td_quote_box,
+    .page .td_quote_box,
+    a.vc_btn-black:hover,
+    .td_block_template_5 .td-block-title > *,
+    .td_outlined_btn {
+        border-color: #000000;
+    }
+
+    .td_wrapper_video_playlist .td_video_currently_playing:after {
+        border-color: #000000 !important;
+    }
+
+    .header-search-wrap .td-drop-down-search:before {
+        border-color: transparent transparent #000000 transparent;
+    }
+
+    .block-title > span,
+    .block-title > a,
+    .block-title > label,
+    .widgettitle,
+    .widgettitle:after,
+    .td-trending-now-title,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .wpb_tabs li.ui-tabs-active a,
+    .wpb_tabs li:hover a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+    .td_block_template_1 .td-related-title .td-cur-simple-item,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more, 
+    .td_3D_btn,
+    .td_shadow_btn,
+    .td_default_btn,
+    .td_round_btn, 
+    .td_outlined_btn:hover {
+    	background-color: #000000;
+    }
+
+    .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    	background-color: #000000 !important;
+    }
+
+    .block-title,
+    .td_block_template_1 .td-related-title,
+    .wpb_tabs .wpb_tabs_nav,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
+    .woocommerce div.product .woocommerce-tabs ul.tabs:before {
+        border-color: #000000;
+    }
+    .td_block_wrap .td-subcat-item a.td-cur-simple-item {
+	    color: #000000;
+	}
+
+
+    
+    .td-grid-style-4 .entry-title
+    {
+        background-color: rgba(0, 0, 0, 0.7);
+    }
+
+    
+    .block-title > span,
+    .block-title > span > a,
+    .block-title > a,
+    .block-title > label,
+    .widgettitle,
+    .widgettitle:after,
+    .td-trending-now-title,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .wpb_tabs li.ui-tabs-active a,
+    .wpb_tabs li:hover a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+    .td_block_template_1 .td-related-title .td-cur-simple-item,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more,
+    .td-weather-information:before,
+    .td-weather-week:before,
+    .td_block_exchange .td-exchange-header:before,
+    .td-theme-wrap .td_block_template_3 .td-block-title > *,
+    .td-theme-wrap .td_block_template_4 .td-block-title > *,
+    .td-theme-wrap .td_block_template_7 .td-block-title > *,
+    .td-theme-wrap .td_block_template_9 .td-block-title:after,
+    .td-theme-wrap .td_block_template_10 .td-block-title::before,
+    .td-theme-wrap .td_block_template_11 .td-block-title::before,
+    .td-theme-wrap .td_block_template_11 .td-block-title::after,
+    .td-theme-wrap .td_block_template_14 .td-block-title,
+    .td-theme-wrap .td_block_template_15 .td-block-title:before,
+    .td-theme-wrap .td_block_template_17 .td-block-title:before {
+        background-color: #ffffff;
+    }
+
+    .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    	background-color: #ffffff !important;
+    }
+
+    .block-title,
+    .td_block_template_1 .td-related-title,
+    .wpb_tabs .wpb_tabs_nav,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
+    .woocommerce div.product .woocommerce-tabs ul.tabs:before,
+    .td-theme-wrap .td_block_template_5 .td-block-title > *,
+    .td-theme-wrap .td_block_template_17 .td-block-title,
+    .td-theme-wrap .td_block_template_17 .td-block-title::before {
+        border-color: #ffffff;
+    }
+
+    .td-theme-wrap .td_block_template_4 .td-block-title > *:before,
+    .td-theme-wrap .td_block_template_17 .td-block-title::after {
+        border-color: #ffffff transparent transparent transparent;
+    }
+    
+    .td-theme-wrap .td_block_template_4 .td-related-title .td-cur-simple-item:before {
+        border-color: #ffffff transparent transparent transparent !important;
+    }
+
+    
+    .td-theme-wrap .block-title > span,
+    .td-theme-wrap .block-title > span > a,
+    .td-theme-wrap .widget_rss .block-title .rsswidget,
+    .td-theme-wrap .block-title > a,
+    .widgettitle,
+    .widgettitle > a,
+    .td-trending-now-title,
+    .wpb_tabs li.ui-tabs-active a,
+    .wpb_tabs li:hover a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+    .td-related-title .td-cur-simple-item,
+    .woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-theme-wrap .td_block_template_2 .td-block-title > *,
+    .td-theme-wrap .td_block_template_3 .td-block-title > *,
+    .td-theme-wrap .td_block_template_4 .td-block-title > *,
+    .td-theme-wrap .td_block_template_5 .td-block-title > *,
+    .td-theme-wrap .td_block_template_6 .td-block-title > *,
+    .td-theme-wrap .td_block_template_6 .td-block-title:before,
+    .td-theme-wrap .td_block_template_7 .td-block-title > *,
+    .td-theme-wrap .td_block_template_8 .td-block-title > *,
+    .td-theme-wrap .td_block_template_9 .td-block-title > *,
+    .td-theme-wrap .td_block_template_10 .td-block-title > *,
+    .td-theme-wrap .td_block_template_11 .td-block-title > *,
+    .td-theme-wrap .td_block_template_12 .td-block-title > *,
+    .td-theme-wrap .td_block_template_13 .td-block-title > span,
+    .td-theme-wrap .td_block_template_13 .td-block-title > a,
+    .td-theme-wrap .td_block_template_14 .td-block-title > *,
+    .td-theme-wrap .td_block_template_14 .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option,
+    .td-theme-wrap .td_block_template_14 .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option i,
+    .td-theme-wrap .td_block_template_14 .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover,
+    .td-theme-wrap .td_block_template_14 .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover i,
+    .td-theme-wrap .td_block_template_15 .td-block-title > *,
+    .td-theme-wrap .td_block_template_15 .td-block-title-wrap .td-wrapper-pulldown-filter,
+    .td-theme-wrap .td_block_template_15 .td-block-title-wrap .td-wrapper-pulldown-filter i,
+    .td-theme-wrap .td_block_template_16 .td-block-title > *,
+    .td-theme-wrap .td_block_template_17 .td-block-title > * {
+    	color: #222222;
+    }
+
+
+    
+    .td-menu-background:before,
+    .td-search-background:before {
+        background: rgba(69,132,112,0.85);
+        background: -moz-linear-gradient(top, rgba(69,132,112,0.85) 0%, rgba(18,129,153,0.85) 100%);
+        background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(69,132,112,0.85)), color-stop(100%, rgba(18,129,153,0.85)));
+        background: -webkit-linear-gradient(top, rgba(69,132,112,0.85) 0%, rgba(18,129,153,0.85) 100%);
+        background: -o-linear-gradient(top, rgba(69,132,112,0.85) 0%, rgba(18,129,153,0.85) 100%);
+        background: -ms-linear-gradient(top, rgba(69,132,112,0.85) 0%, rgba(18,129,153,0.85) 100%);
+        background: linear-gradient(to bottom, rgba(69,132,112,0.85) 0%, rgba(18,129,153,0.85) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(69,132,112,0.85)', endColorstr='rgba(18,129,153,0.85)', GradientType=0 );
+    }
+
+    
+    .td-mobile-content .current-menu-item > a,
+    .td-mobile-content .current-menu-ancestor > a,
+    .td-mobile-content .current-category-ancestor > a,
+    #td-mobile-nav .td-menu-login-section a:hover,
+    #td-mobile-nav .td-register-section a:hover,
+    #td-mobile-nav .td-menu-socials-wrap a:hover i,
+    .td-search-close a:hover i {
+        color: #e9ed6c;
+    }
+
+    
+    ul.sf-menu > .menu-item > a {
+        font-size:13px;
+	font-weight:normal;
+	text-transform:none;
+	
+    }
+    
+    .white-popup-block:after {
+        background: rgba(69,132,112,0.8);
+        background: -moz-linear-gradient(45deg, rgba(69,132,112,0.8) 0%, rgba(18,129,153,0.85) 100%);
+        background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(69,132,112,0.8)), color-stop(100%, rgba(18,129,153,0.85)));
+        background: -webkit-linear-gradient(45deg, rgba(69,132,112,0.8) 0%, rgba(18,129,153,0.85) 100%);
+        background: linear-gradient(45deg, rgba(69,132,112,0.8) 0%, rgba(18,129,153,0.85) 100%);
+    }.td-header-style-12 .td-header-menu-wrap-full,
+    .td-header-style-12 .td-affix,
+    .td-grid-style-1.td-hover-1 .td-big-grid-post:hover .td-post-category,
+    .td-grid-style-5.td-hover-1 .td-big-grid-post:hover .td-post-category,
+    .td_category_template_3 .td-current-sub-category,
+    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+    .td_category_template_4 .td-category-siblings .td-category a:hover,
+     .td_block_big_grid_9.td-grid-style-1 .td-post-category,
+    .td_block_big_grid_9.td-grid-style-5 .td-post-category,
+    .td-grid-style-6.td-hover-1 .td-module-thumb:after,
+     .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .current-menu-item > a,
+    .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .current-menu-ancestor > a,
+    .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .current-category-ancestor > a,
+    .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > li > a:hover,
+    .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .sfHover > a {
+        background-color: #000000;
+    }
+    
+    .td_mega_menu_sub_cats .cur-sub-cat,
+    .td-mega-span h3 a:hover,
+    .td_mod_mega_menu:hover .entry-title a,
+    .header-search-wrap .result-msg a:hover,
+    .td-header-top-menu .td-drop-down-search .td_module_wrap:hover .entry-title a,
+    .td-header-top-menu .td-icon-search:hover,
+    .td-header-wrap .result-msg a:hover,
+    .top-header-menu li a:hover,
+    .top-header-menu .current-menu-item > a,
+    .top-header-menu .current-menu-ancestor > a,
+    .top-header-menu .current-category-ancestor > a,
+    .td-social-icon-wrap > a:hover,
+    .td-header-sp-top-widget .td-social-icon-wrap a:hover,
+    .td_mod_related_posts:hover h3 > a,
+    .td-post-template-11 .td-related-title .td-related-left:hover,
+    .td-post-template-11 .td-related-title .td-related-right:hover,
+    .td-post-template-11 .td-related-title .td-cur-simple-item,
+    .td-post-template-11 .td_block_related_posts .td-next-prev-wrap a:hover,
+    .td-category-header .td-pulldown-category-filter-link:hover,
+    .td-category-siblings .td-subcat-dropdown a:hover,
+    .td-category-siblings .td-subcat-dropdown a.td-current-sub-category,
+    .footer-text-wrap .footer-email-wrap a,
+    .footer-social-wrap a:hover,
+    .td_module_17 .td-read-more a:hover,
+    .td_module_18 .td-read-more a:hover,
+    .td_module_19 .td-post-author-name a:hover,
+    .td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more span,
+    .td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more i,
+    .td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more span,
+    .td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more i,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-category-ancestor > a,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-ancestor > a,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-item > a,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .sfHover > a,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > li > a:hover {
+        color: #000000;
+    }
+    
+    .td-mega-menu-page .wpb_content_element ul li a:hover,
+    .td-theme-wrap .td-aj-search-results .td_module_wrap:hover .entry-title a,
+    .td-theme-wrap .header-search-wrap .result-msg a:hover {
+        color: #000000 !important;
+    }
+    
+    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+    .td_category_template_4 .td-category-siblings .td-category a:hover,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-item > a,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-ancestor > a,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > .current-category-ancestor > a,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > li > a:hover,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > .sfHover > a {
+        border-color: #000000;
+    }
+    
+    
+
+
+    
+    .td-header-wrap .td-header-top-menu-full,
+    .td-header-wrap .top-header-menu .sub-menu,
+    .tdm-header-style-1.td-header-wrap .td-header-top-menu-full,
+    .tdm-header-style-1.td-header-wrap .top-header-menu .sub-menu,
+    .tdm-header-style-2.td-header-wrap .td-header-top-menu-full,
+    .tdm-header-style-2.td-header-wrap .top-header-menu .sub-menu,
+    .tdm-header-style-3.td-header-wrap .td-header-top-menu-full,
+    .tdm-header-style-3.td-header-wrap .top-header-menu .sub-menu {
+        background-color: #000000;
+    }
+    .td-header-style-8 .td-header-top-menu-full {
+        background-color: transparent;
+    }
+    .td-header-style-8 .td-header-top-menu-full .td-header-top-menu {
+        background-color: #000000;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .td-header-wrap .td-header-top-menu-full .td-header-top-menu,
+    .td-header-wrap .td-header-top-menu-full {
+        border-bottom: none;
+    }
+
+
+    
+    .td-header-top-menu,
+    .td-header-top-menu a,
+    .td-header-wrap .td-header-top-menu-full .td-header-top-menu,
+    .td-header-wrap .td-header-top-menu-full a,
+    .td-header-style-8 .td-header-top-menu,
+    .td-header-style-8 .td-header-top-menu a,
+    .td-header-top-menu .td-drop-down-search .entry-title a {
+        color: #ffffff;
+    }
+
+    
+    .top-header-menu .current-menu-item > a,
+    .top-header-menu .current-menu-ancestor > a,
+    .top-header-menu .current-category-ancestor > a,
+    .top-header-menu li a:hover,
+    .td-header-sp-top-widget .td-icon-search:hover {
+        color: #ffffff;
+    }
+
+    
+    .td-header-wrap .td-header-sp-top-widget .td-icon-font,
+    .td-header-style-7 .td-header-top-menu .td-social-icon-wrap .td-icon-font {
+        color: rgba(255,255,255,0.2);
+    }
+
+    
+    .td-header-wrap .td-header-sp-top-widget i.td-icon-font:hover {
+        color: #ffffff;
+    }
+
+
+    
+    .td-header-wrap .td-header-menu-wrap-full,
+    .td-header-menu-wrap.td-affix,
+    .td-header-style-3 .td-header-main-menu,
+    .td-header-style-3 .td-affix .td-header-main-menu,
+    .td-header-style-4 .td-header-main-menu,
+    .td-header-style-4 .td-affix .td-header-main-menu,
+    .td-header-style-8 .td-header-menu-wrap.td-affix,
+    .td-header-style-8 .td-header-top-menu-full {
+        background-color: #ffffff;
+    }
+    .td-boxed-layout .td-header-style-3 .td-header-menu-wrap,
+    .td-boxed-layout .td-header-style-4 .td-header-menu-wrap,
+    .td-header-style-3 .td_stretch_content .td-header-menu-wrap,
+    .td-header-style-4 .td_stretch_content .td-header-menu-wrap {
+    	background-color: #ffffff !important;
+    }
+    @media (min-width: 1019px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 28px;
+        }
+    }
+    @media (min-width: 768px) and (max-width: 1018px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 14px;
+        }
+    }
+    .td-header-style-7 .td-header-top-menu {
+        border-bottom: none;
+    }
+
+    
+    .sf-menu > .current-menu-item > a:after,
+    .sf-menu > .current-menu-ancestor > a:after,
+    .sf-menu > .current-category-ancestor > a:after,
+    .sf-menu > li:hover > a:after,
+    .sf-menu > .sfHover > a:after,
+    .td_block_mega_menu .td-next-prev-wrap a:hover,
+    .td-mega-span .td-post-category:hover,
+     .td-header-wrap .black-menu .sf-menu > li > a:hover,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .sfHover > a,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a,
+    .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .current-menu-item > a,
+    .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .current-menu-ancestor > a,
+    .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .current-category-ancestor > a,
+    .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > li > a:hover,
+    .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .sfHover > a {
+        background-color: #ffffff;
+    }
+    .td_block_mega_menu .td-next-prev-wrap a:hover,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-item > a,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-ancestor > a,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > .current-category-ancestor > a,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > li > a:hover,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > .sfHover > a {
+        border-color: #ffffff;
+    }
+    .header-search-wrap .td-drop-down-search:before {
+        border-color: transparent transparent #ffffff transparent;
+    }
+    .td_mega_menu_sub_cats .cur-sub-cat,
+    .td_mod_mega_menu:hover .entry-title a,
+    .td-theme-wrap .sf-menu ul .td-menu-item > a:hover,
+    .td-theme-wrap .sf-menu ul .sfHover > a,
+    .td-theme-wrap .sf-menu ul .current-menu-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-category-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-menu-item > a,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-item > a,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-ancestor > a,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-category-ancestor > a,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > li > a:hover,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .sfHover > a {
+        color: #ffffff;
+    }
+    
+
+    
+    .td-header-wrap .td-header-menu-wrap .sf-menu > li > a,
+    .td-header-wrap .td-header-menu-social .td-social-icon-wrap a,
+    .td-header-style-4 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-style-5 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-style-6 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-style-12 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-wrap .header-search-wrap #td-header-search-button .td-icon-search {
+        color: #0a0a0a;
+    }
+    .td-header-wrap .td-header-menu-social + .td-search-wrapper #td-header-search-button:before {
+      background-color: #0a0a0a;
+    }
+    
+    
+    
+    ul.sf-menu > .td-menu-item > a,
+    .td-theme-wrap .td-header-menu-social {
+        font-size:13px;
+	font-weight:normal;
+	text-transform:none;
+	
+    }
+    
+    .td-theme-wrap .sf-menu .td-normal-menu .td-menu-item > a:hover,
+    .td-theme-wrap .sf-menu .td-normal-menu .sfHover > a,
+    .td-theme-wrap .sf-menu .td-normal-menu .current-menu-ancestor > a,
+    .td-theme-wrap .sf-menu .td-normal-menu .current-category-ancestor > a,
+    .td-theme-wrap .sf-menu .td-normal-menu .current-menu-item > a {
+        color: #009688;
+    }
+    
+    
+   
+    
+    .td-footer-wrapper,
+    .td-footer-wrapper .td_block_template_7 .td-block-title > *,
+    .td-footer-wrapper .td_block_template_17 .td-block-title,
+    .td-footer-wrapper .td-block-title-wrap .td-wrapper-pulldown-filter {
+        background-color: #000000;
+    }
+
+    
+    .td-footer-wrapper,
+    .td-footer-wrapper a,
+    .td-footer-wrapper .block-title a,
+    .td-footer-wrapper .block-title span,
+    .td-footer-wrapper .block-title label,
+    .td-footer-wrapper .td-excerpt,
+    .td-footer-wrapper .td-post-author-name span,
+    .td-footer-wrapper .td-post-date,
+    .td-footer-wrapper .td-social-style3 .td_social_type a,
+    .td-footer-wrapper .td-social-style3,
+    .td-footer-wrapper .td-social-style4 .td_social_type a,
+    .td-footer-wrapper .td-social-style4,
+    .td-footer-wrapper .td-social-style9,
+    .td-footer-wrapper .td-social-style10,
+    .td-footer-wrapper .td-social-style2 .td_social_type a,
+    .td-footer-wrapper .td-social-style8 .td_social_type a,
+    .td-footer-wrapper .td-social-style2 .td_social_type,
+    .td-footer-wrapper .td-social-style8 .td_social_type,
+    .td-footer-template-13 .td-social-name,
+    .td-footer-wrapper .td_block_template_7 .td-block-title > * {
+        color: #848484;
+    }
+
+    .td-footer-wrapper .widget_calendar th,
+    .td-footer-wrapper .widget_calendar td,
+    .td-footer-wrapper .td-social-style2 .td_social_type .td-social-box,
+    .td-footer-wrapper .td-social-style8 .td_social_type .td-social-box,
+    .td-social-style-2 .td-icon-font:after {
+        border-color: #848484;
+    }
+
+    .td-footer-wrapper .td-module-comments a,
+    .td-footer-wrapper .td-post-category,
+    .td-footer-wrapper .td-slide-meta .td-post-author-name span,
+    .td-footer-wrapper .td-slide-meta .td-post-date {
+        color: #fff;
+    }
+
+    
+    .td-footer-bottom-full .td-container::before {
+        background-color: rgba(132, 132, 132, 0.1);
+    }
+
+    
+    .td-footer-wrapper .footer-social-wrap .td-icon-font {
+        color: #848484;
+    }
+
+    
+    .td-footer-wrapper .footer-social-wrap i.td-icon-font:hover {
+        color: #ffffff;
+    }
+    
+    
+	.td-footer-wrapper .block-title > span,
+    .td-footer-wrapper .block-title > a,
+    .td-footer-wrapper .widgettitle,
+    .td-theme-wrap .td-footer-wrapper .td-container .td-block-title > *,
+    .td-theme-wrap .td-footer-wrapper .td_block_template_6 .td-block-title:before {
+    	color: #848484;
+    }
+
+
+
+    
+    .td-footer-wrapper::before {
+        background-size: cover;
+    }
+
+    
+    .td-footer-wrapper::before {
+        opacity: .6;
+    }
+    
+    
+    
+    
+    
+    .td-module-meta-info .td-post-author-name a {
+    	color: #848484;
+    }
+
+    
+    .block-title > span,
+    .block-title > a,
+    .widgettitle,
+    .td-trending-now-title,
+    .wpb_tabs li a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab > a,
+    .td-theme-wrap .td-related-title a,
+    .woocommerce div.product .woocommerce-tabs ul.tabs li a,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-theme-wrap .td-block-title {
+        font-family:Roboto;
+	font-size:18px;
+	font-weight:800;
+	text-transform:none;
+	
+    }
+    
+    .top-header-menu > li > a,
+    .td-weather-top-widget .td-weather-now .td-big-degrees,
+    .td-weather-top-widget .td-weather-header .td-weather-city,
+    .td-header-sp-top-menu .td_data_time {
+        line-height:27px;
+	
+    }
+    
+    .top-header-menu > li,
+    .td-header-sp-top-menu,
+    #td-outer-wrap .td-header-sp-top-widget .td-search-btns-wrap,
+    #td-outer-wrap .td-header-sp-top-widget .td-social-icon-wrap {
+        line-height: 27px;
+    }
+    
+    
+    
+	.td_module_wrap .td-module-title {
+		font-family:Roboto;
+	
+	}
+    
+	.td_block_trending_now .entry-title,
+	.td-theme-slider .td-module-title,
+    .td-big-grid-post .entry-title {
+		font-family:Roboto;
+	
+	}
+    
+    .post blockquote p,
+    .page blockquote p,
+    .td-post-text-content blockquote p {
+        font-size:15px;
+	line-height:26px;
+	font-style:normal;
+	font-weight:normal;
+	text-transform:none;
+	
+    }
+    
+    .td-post-content h2 {
+        font-size:26px;
+	
+    }
+
+body {
+	background-color:#ffffff;
+}
+.td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > li > a:hover,
+    .td-header-wrap .black-menu .sf-menu > .sfHover > a,
+    .sf-menu > .current-menu-item > a:after,
+    .sf-menu > .current-menu-ancestor > a:after,
+    .sf-menu > .current-category-ancestor > a:after,
+    .sf-menu > li:hover > a:after,
+    .sf-menu > .sfHover > a:after,
+    .header-search-wrap .td-drop-down-search:after,
+    .header-search-wrap .td-drop-down-search .btn:hover,
+    input[type=submit]:hover,
+    .td-read-more a,
+    .td-post-category:hover,
+    .td_top_authors .td-active .td-author-post-count,
+    .td_top_authors .td-active .td-author-comments-count,
+    .td_top_authors .td_mod_wrap:hover .td-author-post-count,
+    .td_top_authors .td_mod_wrap:hover .td-author-comments-count,
+    .td-404-sub-sub-title a:hover,
+    .td-search-form-widget .wpb_button:hover,
+    .td-rating-bar-wrap div,
+    .dropcap,
+    .td_wrapper_video_playlist .td_video_controls_playlist_wrapper,
+    .wpb_default,
+    .wpb_default:hover,
+    .td-left-smart-list:hover,
+    .td-right-smart-list:hover,
+    .woocommerce-checkout .woocommerce input.button:hover,
+    .woocommerce-page .woocommerce a.button:hover,
+    .woocommerce-account div.woocommerce .button:hover,
+    #bbpress-forums button:hover,
+    .bbp_widget_login .button:hover,
+    .td-footer-wrapper .td-post-category,
+    .td-footer-wrapper .widget_product_search input[type="submit"]:hover,
+    .woocommerce .product a.button:hover,
+    .woocommerce .product #respond input#submit:hover,
+    .woocommerce .checkout input#place_order:hover,
+    .woocommerce .woocommerce.widget .button:hover,
+    .single-product .product .summary .cart .button:hover,
+    .woocommerce-cart .woocommerce table.cart .button:hover,
+    .woocommerce-cart .woocommerce .shipping-calculator-form .button:hover,
+    .td-next-prev-wrap a:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-small-box a:hover,
+    .page-nav .current,
+    .page-nav:first-child > div,
+    #bbpress-forums .bbp-pagination .current,
+    #bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current a,
+    .td-theme-slider:hover .slide-meta-cat a,
+    a.vc_btn-black:hover,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .td-scroll-up,
+    .td-smart-list-button:hover,
+    .td-weather-information:before,
+    .td-weather-week:before,
+    .td_block_exchange .td-exchange-header:before,
+    .td-pulldown-syle-2 .td-subcat-dropdown ul:after,
+    .td_block_template_9 .td-block-title:after,
+    .td_block_template_15 .td-block-title:before,
+    div.wpforms-container .wpforms-form div.wpforms-submit-container button[type=submit] {
+        background-color: #000000;
+    }
+
+    .td_block_template_4 .td-related-title .td-cur-simple-item:before {
+        border-color: #000000 transparent transparent transparent !important;
+    }
+
+    .woocommerce .woocommerce-message .button:hover,
+    .woocommerce .woocommerce-error .button:hover,
+    .woocommerce .woocommerce-info .button:hover {
+        background-color: #000000 !important;
+    }
+    
+    
+    .td_block_template_4 .td-related-title .td-cur-simple-item,
+    .td_block_template_3 .td-related-title .td-cur-simple-item,
+    .td_block_template_9 .td-related-title:after {
+        background-color: #000000;
+    }
+
+    .woocommerce .product .onsale,
+    .woocommerce.widget .ui-slider .ui-slider-handle {
+        background: none #000000;
+    }
+
+    .woocommerce.widget.widget_layered_nav_filters ul li a {
+        background: none repeat scroll 0 0 #000000 !important;
+    }
+
+    a,
+    cite a:hover,
+    .td-page-content blockquote p,
+    .td-post-content blockquote p,
+    .mce-content-body blockquote p,
+    .comment-content blockquote p,
+    .wpb_text_column blockquote p,
+    .td_block_text_with_title blockquote p,
+    .td_module_wrap:hover .entry-title a,
+    .td-subcat-filter .td-subcat-list a:hover,
+    .td-subcat-filter .td-subcat-dropdown a:hover,
+    .td_quote_on_blocks,
+    .dropcap2,
+    .dropcap3,
+    .td_top_authors .td-active .td-authors-name a,
+    .td_top_authors .td_mod_wrap:hover .td-authors-name a,
+    .td-post-next-prev-content a:hover,
+    .author-box-wrap .td-author-social a:hover,
+    .td-author-name a:hover,
+    .td-author-url a:hover,
+    .comment-reply-link:hover,
+    .logged-in-as a:hover,
+    #cancel-comment-reply-link:hover,
+    .td-search-query,
+    .widget a:hover,
+    .td_wp_recentcomments a:hover,
+    .archive .widget_archive .current,
+    .archive .widget_archive .current a,
+    .widget_calendar tfoot a:hover,
+    .woocommerce a.added_to_cart:hover,
+    .woocommerce-account .woocommerce-MyAccount-navigation a:hover,
+    #bbpress-forums li.bbp-header .bbp-reply-content span a:hover,
+    #bbpress-forums .bbp-forum-freshness a:hover,
+    #bbpress-forums .bbp-topic-freshness a:hover,
+    #bbpress-forums .bbp-forums-list li a:hover,
+    #bbpress-forums .bbp-forum-title:hover,
+    #bbpress-forums .bbp-topic-permalink:hover,
+    #bbpress-forums .bbp-topic-started-by a:hover,
+    #bbpress-forums .bbp-topic-started-in a:hover,
+    #bbpress-forums .bbp-body .super-sticky li.bbp-topic-title .bbp-topic-permalink,
+    #bbpress-forums .bbp-body .sticky li.bbp-topic-title .bbp-topic-permalink,
+    .widget_display_replies .bbp-author-name,
+    .widget_display_topics .bbp-author-name,
+    .td-subfooter-menu li a:hover,
+    a.vc_btn-black:hover,
+    .td-smart-list-dropdown-wrap .td-smart-list-button:hover,
+    .td-instagram-user a,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover i,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-link:hover,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-item .td-cur-simple-item,
+    .td_block_template_2 .td-related-title .td-cur-simple-item,
+    .td_block_template_5 .td-related-title .td-cur-simple-item,
+    .td_block_template_6 .td-related-title .td-cur-simple-item,
+    .td_block_template_7 .td-related-title .td-cur-simple-item,
+    .td_block_template_8 .td-related-title .td-cur-simple-item,
+    .td_block_template_9 .td-related-title .td-cur-simple-item,
+    .td_block_template_10 .td-related-title .td-cur-simple-item,
+    .td_block_template_11 .td-related-title .td-cur-simple-item,
+    .td_block_template_12 .td-related-title .td-cur-simple-item,
+    .td_block_template_13 .td-related-title .td-cur-simple-item,
+    .td_block_template_14 .td-related-title .td-cur-simple-item,
+    .td_block_template_15 .td-related-title .td-cur-simple-item,
+    .td_block_template_16 .td-related-title .td-cur-simple-item,
+    .td_block_template_17 .td-related-title .td-cur-simple-item,
+    .td-theme-wrap .sf-menu ul .td-menu-item > a:hover,
+    .td-theme-wrap .sf-menu ul .sfHover > a,
+    .td-theme-wrap .sf-menu ul .current-menu-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-category-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-menu-item > a,
+    .td_outlined_btn,
+     .td_block_categories_tags .td-ct-item:hover {
+        color: #000000;
+    }
+
+    a.vc_btn-black.vc_btn_square_outlined:hover,
+    a.vc_btn-black.vc_btn_outlined:hover {
+        color: #000000 !important;
+    }
+
+    .td-next-prev-wrap a:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-small-box a:hover,
+    .page-nav .current,
+    .page-nav:first-child > div,
+    #bbpress-forums .bbp-pagination .current,
+    .post .td_quote_box,
+    .page .td_quote_box,
+    a.vc_btn-black:hover,
+    .td_block_template_5 .td-block-title > *,
+    .td_outlined_btn {
+        border-color: #000000;
+    }
+
+    .td_wrapper_video_playlist .td_video_currently_playing:after {
+        border-color: #000000 !important;
+    }
+
+    .header-search-wrap .td-drop-down-search:before {
+        border-color: transparent transparent #000000 transparent;
+    }
+
+    .block-title > span,
+    .block-title > a,
+    .block-title > label,
+    .widgettitle,
+    .widgettitle:after,
+    .td-trending-now-title,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .wpb_tabs li.ui-tabs-active a,
+    .wpb_tabs li:hover a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+    .td_block_template_1 .td-related-title .td-cur-simple-item,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more, 
+    .td_3D_btn,
+    .td_shadow_btn,
+    .td_default_btn,
+    .td_round_btn, 
+    .td_outlined_btn:hover {
+    	background-color: #000000;
+    }
+
+    .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    	background-color: #000000 !important;
+    }
+
+    .block-title,
+    .td_block_template_1 .td-related-title,
+    .wpb_tabs .wpb_tabs_nav,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
+    .woocommerce div.product .woocommerce-tabs ul.tabs:before {
+        border-color: #000000;
+    }
+    .td_block_wrap .td-subcat-item a.td-cur-simple-item {
+	    color: #000000;
+	}
+
+
+    
+    .td-grid-style-4 .entry-title
+    {
+        background-color: rgba(0, 0, 0, 0.7);
+    }
+
+    
+    .block-title > span,
+    .block-title > span > a,
+    .block-title > a,
+    .block-title > label,
+    .widgettitle,
+    .widgettitle:after,
+    .td-trending-now-title,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .wpb_tabs li.ui-tabs-active a,
+    .wpb_tabs li:hover a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+    .td_block_template_1 .td-related-title .td-cur-simple-item,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more,
+    .td-weather-information:before,
+    .td-weather-week:before,
+    .td_block_exchange .td-exchange-header:before,
+    .td-theme-wrap .td_block_template_3 .td-block-title > *,
+    .td-theme-wrap .td_block_template_4 .td-block-title > *,
+    .td-theme-wrap .td_block_template_7 .td-block-title > *,
+    .td-theme-wrap .td_block_template_9 .td-block-title:after,
+    .td-theme-wrap .td_block_template_10 .td-block-title::before,
+    .td-theme-wrap .td_block_template_11 .td-block-title::before,
+    .td-theme-wrap .td_block_template_11 .td-block-title::after,
+    .td-theme-wrap .td_block_template_14 .td-block-title,
+    .td-theme-wrap .td_block_template_15 .td-block-title:before,
+    .td-theme-wrap .td_block_template_17 .td-block-title:before {
+        background-color: #ffffff;
+    }
+
+    .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    	background-color: #ffffff !important;
+    }
+
+    .block-title,
+    .td_block_template_1 .td-related-title,
+    .wpb_tabs .wpb_tabs_nav,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
+    .woocommerce div.product .woocommerce-tabs ul.tabs:before,
+    .td-theme-wrap .td_block_template_5 .td-block-title > *,
+    .td-theme-wrap .td_block_template_17 .td-block-title,
+    .td-theme-wrap .td_block_template_17 .td-block-title::before {
+        border-color: #ffffff;
+    }
+
+    .td-theme-wrap .td_block_template_4 .td-block-title > *:before,
+    .td-theme-wrap .td_block_template_17 .td-block-title::after {
+        border-color: #ffffff transparent transparent transparent;
+    }
+    
+    .td-theme-wrap .td_block_template_4 .td-related-title .td-cur-simple-item:before {
+        border-color: #ffffff transparent transparent transparent !important;
+    }
+
+    
+    .td-theme-wrap .block-title > span,
+    .td-theme-wrap .block-title > span > a,
+    .td-theme-wrap .widget_rss .block-title .rsswidget,
+    .td-theme-wrap .block-title > a,
+    .widgettitle,
+    .widgettitle > a,
+    .td-trending-now-title,
+    .wpb_tabs li.ui-tabs-active a,
+    .wpb_tabs li:hover a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+    .td-related-title .td-cur-simple-item,
+    .woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-theme-wrap .td_block_template_2 .td-block-title > *,
+    .td-theme-wrap .td_block_template_3 .td-block-title > *,
+    .td-theme-wrap .td_block_template_4 .td-block-title > *,
+    .td-theme-wrap .td_block_template_5 .td-block-title > *,
+    .td-theme-wrap .td_block_template_6 .td-block-title > *,
+    .td-theme-wrap .td_block_template_6 .td-block-title:before,
+    .td-theme-wrap .td_block_template_7 .td-block-title > *,
+    .td-theme-wrap .td_block_template_8 .td-block-title > *,
+    .td-theme-wrap .td_block_template_9 .td-block-title > *,
+    .td-theme-wrap .td_block_template_10 .td-block-title > *,
+    .td-theme-wrap .td_block_template_11 .td-block-title > *,
+    .td-theme-wrap .td_block_template_12 .td-block-title > *,
+    .td-theme-wrap .td_block_template_13 .td-block-title > span,
+    .td-theme-wrap .td_block_template_13 .td-block-title > a,
+    .td-theme-wrap .td_block_template_14 .td-block-title > *,
+    .td-theme-wrap .td_block_template_14 .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option,
+    .td-theme-wrap .td_block_template_14 .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option i,
+    .td-theme-wrap .td_block_template_14 .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover,
+    .td-theme-wrap .td_block_template_14 .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover i,
+    .td-theme-wrap .td_block_template_15 .td-block-title > *,
+    .td-theme-wrap .td_block_template_15 .td-block-title-wrap .td-wrapper-pulldown-filter,
+    .td-theme-wrap .td_block_template_15 .td-block-title-wrap .td-wrapper-pulldown-filter i,
+    .td-theme-wrap .td_block_template_16 .td-block-title > *,
+    .td-theme-wrap .td_block_template_17 .td-block-title > * {
+    	color: #222222;
+    }
+
+
+    
+    .td-menu-background:before,
+    .td-search-background:before {
+        background: rgba(69,132,112,0.85);
+        background: -moz-linear-gradient(top, rgba(69,132,112,0.85) 0%, rgba(18,129,153,0.85) 100%);
+        background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(69,132,112,0.85)), color-stop(100%, rgba(18,129,153,0.85)));
+        background: -webkit-linear-gradient(top, rgba(69,132,112,0.85) 0%, rgba(18,129,153,0.85) 100%);
+        background: -o-linear-gradient(top, rgba(69,132,112,0.85) 0%, rgba(18,129,153,0.85) 100%);
+        background: -ms-linear-gradient(top, rgba(69,132,112,0.85) 0%, rgba(18,129,153,0.85) 100%);
+        background: linear-gradient(to bottom, rgba(69,132,112,0.85) 0%, rgba(18,129,153,0.85) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(69,132,112,0.85)', endColorstr='rgba(18,129,153,0.85)', GradientType=0 );
+    }
+
+    
+    .td-mobile-content .current-menu-item > a,
+    .td-mobile-content .current-menu-ancestor > a,
+    .td-mobile-content .current-category-ancestor > a,
+    #td-mobile-nav .td-menu-login-section a:hover,
+    #td-mobile-nav .td-register-section a:hover,
+    #td-mobile-nav .td-menu-socials-wrap a:hover i,
+    .td-search-close a:hover i {
+        color: #e9ed6c;
+    }
+
+    
+    ul.sf-menu > .menu-item > a {
+        font-size:13px;
+	font-weight:normal;
+	text-transform:none;
+	
+    }
+    
+    .white-popup-block:after {
+        background: rgba(69,132,112,0.8);
+        background: -moz-linear-gradient(45deg, rgba(69,132,112,0.8) 0%, rgba(18,129,153,0.85) 100%);
+        background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(69,132,112,0.8)), color-stop(100%, rgba(18,129,153,0.85)));
+        background: -webkit-linear-gradient(45deg, rgba(69,132,112,0.8) 0%, rgba(18,129,153,0.85) 100%);
+        background: linear-gradient(45deg, rgba(69,132,112,0.8) 0%, rgba(18,129,153,0.85) 100%);
+    }.td-header-style-12 .td-header-menu-wrap-full,
+    .td-header-style-12 .td-affix,
+    .td-grid-style-1.td-hover-1 .td-big-grid-post:hover .td-post-category,
+    .td-grid-style-5.td-hover-1 .td-big-grid-post:hover .td-post-category,
+    .td_category_template_3 .td-current-sub-category,
+    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+    .td_category_template_4 .td-category-siblings .td-category a:hover,
+     .td_block_big_grid_9.td-grid-style-1 .td-post-category,
+    .td_block_big_grid_9.td-grid-style-5 .td-post-category,
+    .td-grid-style-6.td-hover-1 .td-module-thumb:after,
+     .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .current-menu-item > a,
+    .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .current-menu-ancestor > a,
+    .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .current-category-ancestor > a,
+    .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > li > a:hover,
+    .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .sfHover > a {
+        background-color: #000000;
+    }
+    
+    .td_mega_menu_sub_cats .cur-sub-cat,
+    .td-mega-span h3 a:hover,
+    .td_mod_mega_menu:hover .entry-title a,
+    .header-search-wrap .result-msg a:hover,
+    .td-header-top-menu .td-drop-down-search .td_module_wrap:hover .entry-title a,
+    .td-header-top-menu .td-icon-search:hover,
+    .td-header-wrap .result-msg a:hover,
+    .top-header-menu li a:hover,
+    .top-header-menu .current-menu-item > a,
+    .top-header-menu .current-menu-ancestor > a,
+    .top-header-menu .current-category-ancestor > a,
+    .td-social-icon-wrap > a:hover,
+    .td-header-sp-top-widget .td-social-icon-wrap a:hover,
+    .td_mod_related_posts:hover h3 > a,
+    .td-post-template-11 .td-related-title .td-related-left:hover,
+    .td-post-template-11 .td-related-title .td-related-right:hover,
+    .td-post-template-11 .td-related-title .td-cur-simple-item,
+    .td-post-template-11 .td_block_related_posts .td-next-prev-wrap a:hover,
+    .td-category-header .td-pulldown-category-filter-link:hover,
+    .td-category-siblings .td-subcat-dropdown a:hover,
+    .td-category-siblings .td-subcat-dropdown a.td-current-sub-category,
+    .footer-text-wrap .footer-email-wrap a,
+    .footer-social-wrap a:hover,
+    .td_module_17 .td-read-more a:hover,
+    .td_module_18 .td-read-more a:hover,
+    .td_module_19 .td-post-author-name a:hover,
+    .td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more span,
+    .td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more i,
+    .td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more span,
+    .td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more i,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-category-ancestor > a,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-ancestor > a,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-item > a,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .sfHover > a,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > li > a:hover {
+        color: #000000;
+    }
+    
+    .td-mega-menu-page .wpb_content_element ul li a:hover,
+    .td-theme-wrap .td-aj-search-results .td_module_wrap:hover .entry-title a,
+    .td-theme-wrap .header-search-wrap .result-msg a:hover {
+        color: #000000 !important;
+    }
+    
+    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+    .td_category_template_4 .td-category-siblings .td-category a:hover,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-item > a,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-ancestor > a,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > .current-category-ancestor > a,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > li > a:hover,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > .sfHover > a {
+        border-color: #000000;
+    }
+    
+    
+
+
+    
+    .td-header-wrap .td-header-top-menu-full,
+    .td-header-wrap .top-header-menu .sub-menu,
+    .tdm-header-style-1.td-header-wrap .td-header-top-menu-full,
+    .tdm-header-style-1.td-header-wrap .top-header-menu .sub-menu,
+    .tdm-header-style-2.td-header-wrap .td-header-top-menu-full,
+    .tdm-header-style-2.td-header-wrap .top-header-menu .sub-menu,
+    .tdm-header-style-3.td-header-wrap .td-header-top-menu-full,
+    .tdm-header-style-3.td-header-wrap .top-header-menu .sub-menu {
+        background-color: #000000;
+    }
+    .td-header-style-8 .td-header-top-menu-full {
+        background-color: transparent;
+    }
+    .td-header-style-8 .td-header-top-menu-full .td-header-top-menu {
+        background-color: #000000;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .td-header-wrap .td-header-top-menu-full .td-header-top-menu,
+    .td-header-wrap .td-header-top-menu-full {
+        border-bottom: none;
+    }
+
+
+    
+    .td-header-top-menu,
+    .td-header-top-menu a,
+    .td-header-wrap .td-header-top-menu-full .td-header-top-menu,
+    .td-header-wrap .td-header-top-menu-full a,
+    .td-header-style-8 .td-header-top-menu,
+    .td-header-style-8 .td-header-top-menu a,
+    .td-header-top-menu .td-drop-down-search .entry-title a {
+        color: #ffffff;
+    }
+
+    
+    .top-header-menu .current-menu-item > a,
+    .top-header-menu .current-menu-ancestor > a,
+    .top-header-menu .current-category-ancestor > a,
+    .top-header-menu li a:hover,
+    .td-header-sp-top-widget .td-icon-search:hover {
+        color: #ffffff;
+    }
+
+    
+    .td-header-wrap .td-header-sp-top-widget .td-icon-font,
+    .td-header-style-7 .td-header-top-menu .td-social-icon-wrap .td-icon-font {
+        color: rgba(255,255,255,0.2);
+    }
+
+    
+    .td-header-wrap .td-header-sp-top-widget i.td-icon-font:hover {
+        color: #ffffff;
+    }
+
+
+    
+    .td-header-wrap .td-header-menu-wrap-full,
+    .td-header-menu-wrap.td-affix,
+    .td-header-style-3 .td-header-main-menu,
+    .td-header-style-3 .td-affix .td-header-main-menu,
+    .td-header-style-4 .td-header-main-menu,
+    .td-header-style-4 .td-affix .td-header-main-menu,
+    .td-header-style-8 .td-header-menu-wrap.td-affix,
+    .td-header-style-8 .td-header-top-menu-full {
+        background-color: #ffffff;
+    }
+    .td-boxed-layout .td-header-style-3 .td-header-menu-wrap,
+    .td-boxed-layout .td-header-style-4 .td-header-menu-wrap,
+    .td-header-style-3 .td_stretch_content .td-header-menu-wrap,
+    .td-header-style-4 .td_stretch_content .td-header-menu-wrap {
+    	background-color: #ffffff !important;
+    }
+    @media (min-width: 1019px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 28px;
+        }
+    }
+    @media (min-width: 768px) and (max-width: 1018px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 14px;
+        }
+    }
+    .td-header-style-7 .td-header-top-menu {
+        border-bottom: none;
+    }
+
+    
+    .sf-menu > .current-menu-item > a:after,
+    .sf-menu > .current-menu-ancestor > a:after,
+    .sf-menu > .current-category-ancestor > a:after,
+    .sf-menu > li:hover > a:after,
+    .sf-menu > .sfHover > a:after,
+    .td_block_mega_menu .td-next-prev-wrap a:hover,
+    .td-mega-span .td-post-category:hover,
+     .td-header-wrap .black-menu .sf-menu > li > a:hover,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .sfHover > a,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a,
+    .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .current-menu-item > a,
+    .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .current-menu-ancestor > a,
+    .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .current-category-ancestor > a,
+    .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > li > a:hover,
+    .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .sfHover > a {
+        background-color: #ffffff;
+    }
+    .td_block_mega_menu .td-next-prev-wrap a:hover,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-item > a,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-ancestor > a,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > .current-category-ancestor > a,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > li > a:hover,
+    .tdm-menu-active-style4 .tdm-header .sf-menu > .sfHover > a {
+        border-color: #ffffff;
+    }
+    .header-search-wrap .td-drop-down-search:before {
+        border-color: transparent transparent #ffffff transparent;
+    }
+    .td_mega_menu_sub_cats .cur-sub-cat,
+    .td_mod_mega_menu:hover .entry-title a,
+    .td-theme-wrap .sf-menu ul .td-menu-item > a:hover,
+    .td-theme-wrap .sf-menu ul .sfHover > a,
+    .td-theme-wrap .sf-menu ul .current-menu-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-category-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-menu-item > a,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-item > a,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-ancestor > a,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-category-ancestor > a,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > li > a:hover,
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .sfHover > a {
+        color: #ffffff;
+    }
+    
+
+    
+    .td-header-wrap .td-header-menu-wrap .sf-menu > li > a,
+    .td-header-wrap .td-header-menu-social .td-social-icon-wrap a,
+    .td-header-style-4 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-style-5 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-style-6 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-style-12 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-wrap .header-search-wrap #td-header-search-button .td-icon-search {
+        color: #0a0a0a;
+    }
+    .td-header-wrap .td-header-menu-social + .td-search-wrapper #td-header-search-button:before {
+      background-color: #0a0a0a;
+    }
+    
+    
+    
+    ul.sf-menu > .td-menu-item > a,
+    .td-theme-wrap .td-header-menu-social {
+        font-size:13px;
+	font-weight:normal;
+	text-transform:none;
+	
+    }
+    
+    .td-theme-wrap .sf-menu .td-normal-menu .td-menu-item > a:hover,
+    .td-theme-wrap .sf-menu .td-normal-menu .sfHover > a,
+    .td-theme-wrap .sf-menu .td-normal-menu .current-menu-ancestor > a,
+    .td-theme-wrap .sf-menu .td-normal-menu .current-category-ancestor > a,
+    .td-theme-wrap .sf-menu .td-normal-menu .current-menu-item > a {
+        color: #009688;
+    }
+    
+    
+   
+    
+    .td-footer-wrapper,
+    .td-footer-wrapper .td_block_template_7 .td-block-title > *,
+    .td-footer-wrapper .td_block_template_17 .td-block-title,
+    .td-footer-wrapper .td-block-title-wrap .td-wrapper-pulldown-filter {
+        background-color: #000000;
+    }
+
+    
+    .td-footer-wrapper,
+    .td-footer-wrapper a,
+    .td-footer-wrapper .block-title a,
+    .td-footer-wrapper .block-title span,
+    .td-footer-wrapper .block-title label,
+    .td-footer-wrapper .td-excerpt,
+    .td-footer-wrapper .td-post-author-name span,
+    .td-footer-wrapper .td-post-date,
+    .td-footer-wrapper .td-social-style3 .td_social_type a,
+    .td-footer-wrapper .td-social-style3,
+    .td-footer-wrapper .td-social-style4 .td_social_type a,
+    .td-footer-wrapper .td-social-style4,
+    .td-footer-wrapper .td-social-style9,
+    .td-footer-wrapper .td-social-style10,
+    .td-footer-wrapper .td-social-style2 .td_social_type a,
+    .td-footer-wrapper .td-social-style8 .td_social_type a,
+    .td-footer-wrapper .td-social-style2 .td_social_type,
+    .td-footer-wrapper .td-social-style8 .td_social_type,
+    .td-footer-template-13 .td-social-name,
+    .td-footer-wrapper .td_block_template_7 .td-block-title > * {
+        color: #848484;
+    }
+
+    .td-footer-wrapper .widget_calendar th,
+    .td-footer-wrapper .widget_calendar td,
+    .td-footer-wrapper .td-social-style2 .td_social_type .td-social-box,
+    .td-footer-wrapper .td-social-style8 .td_social_type .td-social-box,
+    .td-social-style-2 .td-icon-font:after {
+        border-color: #848484;
+    }
+
+    .td-footer-wrapper .td-module-comments a,
+    .td-footer-wrapper .td-post-category,
+    .td-footer-wrapper .td-slide-meta .td-post-author-name span,
+    .td-footer-wrapper .td-slide-meta .td-post-date {
+        color: #fff;
+    }
+
+    
+    .td-footer-bottom-full .td-container::before {
+        background-color: rgba(132, 132, 132, 0.1);
+    }
+
+    
+    .td-footer-wrapper .footer-social-wrap .td-icon-font {
+        color: #848484;
+    }
+
+    
+    .td-footer-wrapper .footer-social-wrap i.td-icon-font:hover {
+        color: #ffffff;
+    }
+    
+    
+	.td-footer-wrapper .block-title > span,
+    .td-footer-wrapper .block-title > a,
+    .td-footer-wrapper .widgettitle,
+    .td-theme-wrap .td-footer-wrapper .td-container .td-block-title > *,
+    .td-theme-wrap .td-footer-wrapper .td_block_template_6 .td-block-title:before {
+    	color: #848484;
+    }
+
+
+
+    
+    .td-footer-wrapper::before {
+        background-size: cover;
+    }
+
+    
+    .td-footer-wrapper::before {
+        opacity: .6;
+    }
+    
+    
+    
+    
+    
+    .td-module-meta-info .td-post-author-name a {
+    	color: #848484;
+    }
+
+    
+    .block-title > span,
+    .block-title > a,
+    .widgettitle,
+    .td-trending-now-title,
+    .wpb_tabs li a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab > a,
+    .td-theme-wrap .td-related-title a,
+    .woocommerce div.product .woocommerce-tabs ul.tabs li a,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-theme-wrap .td-block-title {
+        font-family:Roboto;
+	font-size:18px;
+	font-weight:800;
+	text-transform:none;
+	
+    }
+    
+    .top-header-menu > li > a,
+    .td-weather-top-widget .td-weather-now .td-big-degrees,
+    .td-weather-top-widget .td-weather-header .td-weather-city,
+    .td-header-sp-top-menu .td_data_time {
+        line-height:27px;
+	
+    }
+    
+    .top-header-menu > li,
+    .td-header-sp-top-menu,
+    #td-outer-wrap .td-header-sp-top-widget .td-search-btns-wrap,
+    #td-outer-wrap .td-header-sp-top-widget .td-social-icon-wrap {
+        line-height: 27px;
+    }
+    
+    
+    
+	.td_module_wrap .td-module-title {
+		font-family:Roboto;
+	
+	}
+    
+	.td_block_trending_now .entry-title,
+	.td-theme-slider .td-module-title,
+    .td-big-grid-post .entry-title {
+		font-family:Roboto;
+	
+	}
+    
+    .post blockquote p,
+    .page blockquote p,
+    .td-post-text-content blockquote p {
+        font-size:15px;
+	line-height:26px;
+	font-style:normal;
+	font-weight:normal;
+	text-transform:none;
+	
+    }
+    
+    .td-post-content h2 {
+        font-size:26px;
+	
+    }
+
+
+
+/* Style generated by theme for demo: magazine */
+
+.td-magazine .td-header-style-1 .td-header-gradient::before,
+		.td-magazine .td-header-style-1 .td-mega-span .td-post-category:hover,
+		.td-magazine .td-header-style-1 .header-search-wrap .td-drop-down-search::after {
+			background-color: #000000;
+		}
+
+		.td-magazine .td-header-style-1 .td_mod_mega_menu:hover .entry-title a,
+		.td-magazine .td-header-style-1 .td_mega_menu_sub_cats .cur-sub-cat,
+		.td-magazine .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+		.td-magazine .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+		.td-magazine .td_block_template_1 .td-related-title .td-cur-simple-item {
+			color: #000000;
+		}
+
+		.td-magazine .td-header-style-1 .header-search-wrap .td-drop-down-search::before {
+			border-color: transparent transparent #000000;
+		}
+
+		.td-magazine .td-header-style-1 .td-header-top-menu-full {
+			border-top-color: #000000;
+		}
+</style>
+<script data-ad-client="ca-pub-4642707355275949" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1377848,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "WebSite",
+                    "@id": "https://micky.com.au/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                    "item": {
+                    "@type": "WebPage",
+                    "@id": "https://micky.com.au/gaming/",
+                    "name": "Gaming"
+                }
+            }
+            ,{
+                "@type": "ListItem",
+                "position": 3,
+                    "item": {
+                    "@type": "WebPage",
+                    "@id": "https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/",
+                    "name": "Global Pandemic cause rise in gaming, as well as botting and cheating"                                
+                }
+            }    
+        ]
+    }
+</script>
+<style type="text/css" id="thrive-default-styles"></style><link rel="icon" href="https://micky.com.au/wp-content/uploads/2019/03/micky-3-72x70.png?x31535" sizes="32x32" />
+<link rel="icon" href="https://micky.com.au/wp-content/uploads/2019/03/micky-3.png?x31535" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://micky.com.au/wp-content/uploads/2019/03/micky-3.png?x31535" />
+<meta name="msapplication-TileImage" content="https://micky.com.au/wp-content/uploads/2019/03/micky-3.png" />
+<style type="text/css" id="wp-custom-css">
+			/* NB. Styles in here get inserted inline in the head below the theme. If having it in the head is not critical then use the Newspaper theme style injection */
+
+/* Remove header display from banner, it messes with ad sizing */
+.td-header-sp-recs .td-all-devices {
+    display: block;
+}
+@media(max-width:767px) {
+    .td-header-sp-recs .td-header-rec-wrap {
+        display: block;
+    }
+}
+
+.td-magazine .td-header-style-1 .td-header-top-menu-full {
+    border: none;
+}
+
+.td-magazine .td-header-style-1 .td-header-gradient::before {
+    background-color: transparent;
+    height: 0;
+    bottom: -12px;
+}
+
+blockquote { background:#fafafa ; text-align:left !important ; text-transform:none ; padding:14px 12px 01px 16px !important ; border-left:5px solid black !important ; font-size:15px ; line-height:26px ; font-weight:normal ; }
+
+blockquote p { font-family:Verdana, Geneva, sans-serif !important }
+
+@media(min-width:768px) {
+    .td-magazine.td-boxed-layout .td-container-wrap {
+        -webkit-box-shadow: none !important;
+        -moz-box-shadow: none !important;
+        box-shadow: none !important;
+    }
+
+    .td-magazine .td-header-style-1 {
+        -webkit-box-shadow: 0 3px 3px -3px rgba(0,0,0,0.2);
+        -moz-box-shadow: 0 3px 3px -3px rgba(0,0,0,0.2);
+        box-shadow: 0 3px 3px -3px rgba(0,0,0,0.2);
+    }
+}
+
+ul.sf-menu > .td-menu-item > a {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.td-related-title .td-related-right {
+    display: none;
+}
+
+.footer-text-wrap .footer-email-wrap a {
+    color: #848484;
+}
+
+.footer-text-wrap .footer-email-wrap a:hover {
+    color: #FFFFFF;
+}
+
+.td-post-content a {
+    color: #4DB2EC;
+    text-decoration: underline;
+}
+
+/* Hide post views, shown using JS if > 1000 */
+.td-post-template-default .td-post-title .td-post-views {
+    opacity: 0;
+}
+
+.td-post-content h3 {
+    font-weight: 700;
+}
+
+.tve-leads-two-step-trigger {
+    text-decoration: underline;
+}
+
+/* Floating footer */
+@media (min-width: 992px) {
+    .mobile_only {
+        display: none;
+    }
+}
+
+@media (max-width: 991px) {
+    .fixedbar {
+        bottom: -5px;
+        left: 0;
+        padding: 0px 0;
+        position: fixed;
+        width: 100%;
+        z-index: 99999;
+        float: left;
+        margin: 0px 0 0;
+    }
+}
+
+.td-footer-template-4 .td-footer-info {
+
+    text-align: center;
+    margin-bottom: 0px !important;
+
+}		</style>
+
+<style>
+    .tdm_block_column_content:hover .tdm-col-content-title-url .tdm-title,
+                .tds-button2 .tdm-btn-text,
+                .tds-button2 i,
+                .tds-button5:hover .tdm-btn-text,
+                .tds-button5:hover i,
+                .tds-button6 .tdm-btn-text,
+                .tds-button6 i,
+                .tdm_block_list .tdm-list-item i,
+                .tdm_block_pricing .tdm-pricing-feature i,
+                .tdm-social-item i {
+                    color: #000000;
+                }
+                .tds-button1,
+                .tds-button6:after,
+                .tds-title2 .tdm-title-line:after,
+                .tds-title3 .tdm-title-line:after,
+                .tdm_block_pricing.tdm-pricing-featured:before,
+                .tdm_block_pricing.tds_pricing2_block.tdm-pricing-featured .tdm-pricing-header,
+                .tds-progress-bar1 .tdm-progress-bar:after,
+                .tds-progress-bar2 .tdm-progress-bar:after,
+                .tds-social3 .tdm-social-item {
+                    background-color: #000000;
+                }
+                .tds-button2:before,
+                .tds-button6:before,
+                .tds-progress-bar3 .tdm-progress-bar:after {
+                  border-color: #000000;
+                }
+                .tdm-btn-style1 {
+					background-color: #000000;
+				}
+				.tdm-btn-style2:before {
+				    border-color: #000000;
+				}
+				.tdm-btn-style2 {
+				    color: #000000;
+				}
+				.tdm-btn-style3 {
+				    -webkit-box-shadow: 0 2px 16px #000000;
+                    -moz-box-shadow: 0 2px 16px #000000;
+                    box-shadow: 0 2px 16px #000000;
+				}
+				.tdm-btn-style3:hover {
+				    -webkit-box-shadow: 0 4px 26px #000000;
+                    -moz-box-shadow: 0 4px 26px #000000;
+                    box-shadow: 0 4px 26px #000000;
+				}
+</style>
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript> <style id="tdw-css-placeholder"></style></head>
+<body class="post-template-default single single-post postid-28277 single-format-standard td-standard-pack global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating global-block-template-1 td-magazine white-menu wpb-js-composer js-comp-ver-5.6 vc_responsive td-boxed-layout ">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PVGCPG4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<br style="display:none;" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+<div class="td-menu-background"></div>
+<div id="td-mobile-nav">
+<div class="td-mobile-container">
+
+<div class="td-menu-socials-wrap">
+
+<div class="td-menu-socials">
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://www.facebook.com/MickyNewsOz/" title="Facebook">
+<i class="td-icon-font td-icon-facebook"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://twitter.com/MICKYNewsOz" title="Twitter">
+<i class="td-icon-font td-icon-twitter"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://www.youtube.com/channel/UC8J40w9mUIHYMX5xz3o4UFw" title="Youtube">
+<i class="td-icon-font td-icon-youtube"></i>
+</a>
+</span> </div>
+
+<div class="td-mobile-close">
+<a href="#"><i class="td-icon-close-mobile"></i></a>
+</div>
+</div>
+
+
+<div class="td-mobile-content">
+<div class="menu-new-primary-2020-container"><ul id="menu-new-primary-2020" class="td-mobile-main-menu"><li id="menu-item-17221" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-first menu-item-17221"><a href="https://micky.com.au/gaming/">Gaming</a></li>
+<li id="menu-item-17223" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17223"><a href="https://micky.com.au/technology/">Tech</a></li>
+<li id="menu-item-17218" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17218"><a href="https://micky.com.au/coronavirus/">COVID-19</a></li>
+<li id="menu-item-19459" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19459"><a href="https://micky.com.au/entertainment/">Entertainment</a></li>
+<li id="menu-item-17217" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17217"><a href="https://micky.com.au/business/">Business</a></li>
+<li id="menu-item-24220" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24220"><a href="https://micky.com.au/blockchain/">Blockchain</a></li>
+<li id="menu-item-17220" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17220"><a href="https://micky.com.au/finance/">Finance</a></li>
+<li id="menu-item-17222" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17222"><a href="https://micky.com.au/social-media/">Social Media</a></li>
+<li id="menu-item-17224" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17224"><a href="#">Guides<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+<li id="menu-item-17225" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17225"><a href="https://micky.com.au/exchanges/">Exchanges</a></li>
+</ul>
+</li>
+</ul></div> </div>
+</div>
+
+<div id="login-form-mobile" class="td-register-section">
+<div id="td-login-mob" class="td-login-animation td-login-hide-mob">
+
+<div class="td-login-close">
+<a href="#" class="td-back-button"><i class="td-icon-read-down"></i></a>
+<div class="td-login-title">Sign in</div>
+
+<div class="td-mobile-close">
+<a href="#"><i class="td-icon-close-mobile"></i></a>
+</div>
+</div>
+<div class="td-login-form-wrap">
+<div class="td-login-panel-title"><span>Welcome!</span>Log into your account</div>
+<div class="td_display_err"></div>
+<div class="td-login-inputs"><input class="td-login-input" type="text" name="login_email" id="login_email-mob" value="" required><label>your username</label></div>
+<div class="td-login-inputs"><input class="td-login-input" type="password" name="login_pass" id="login_pass-mob" value="" required><label>your password</label></div>
+<input type="button" name="login_button" id="login_button-mob" class="td-login-button" value="LOG IN">
+<div class="td-login-info-text">
+<a href="#" id="forgot-pass-link-mob">Forgot your password?</a>
+</div>
+<div class="td-login-register-link">
+</div>
+</div>
+</div>
+<div id="td-forgot-pass-mob" class="td-login-animation td-login-hide-mob">
+
+<div class="td-forgot-pass-close">
+<a href="#" class="td-back-button"><i class="td-icon-read-down"></i></a>
+ <div class="td-login-title">Password recovery</div>
+</div>
+<div class="td-login-form-wrap">
+<div class="td-login-panel-title">Recover your password</div>
+<div class="td_display_err"></div>
+<div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email-mob" value="" required><label>your email</label></div>
+<input type="button" name="forgot_button" id="forgot_button-mob" class="td-login-button" value="Send My Pass">
+</div>
+</div>
+</div>
+</div> <div class="td-search-background"></div>
+<div class="td-search-wrap-mob">
+<div class="td-drop-down-search">
+<form method="get" class="td-search-form" action="https://micky.com.au/">
+
+<div class="td-search-close">
+<a href="#"><i class="td-icon-close-mobile"></i></a>
+</div>
+<div role="search" class="td-search-input">
+<span>Search</span>
+<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
+</div>
+</form>
+<div id="td-aj-search-mob"></div>
+</div>
+</div>
+<div id="td-outer-wrap" class="td-theme-wrap">
+<div class="tdc-header-wrap ">
+
+<div class="td-header-wrap td-header-style-1 ">
+<div class="td-header-top-menu-full td-container-wrap td_stretch_container">
+<div class="td-container td-header-row td-header-top-menu">
+<div class="top-bar-style-1">
+<div class="td-header-sp-top-menu">
+<div class="menu-top-container"><ul id="menu-td-demo-top-menu" class="top-header-menu"><li id="menu-item-17229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-17229"><a href="https://micky.com.au/advertise-on-micky/">Advertise on Micky</a></li>
+<li id="menu-item-17230" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-17230"><a href="https://micky.com.au/submit-press-release/">Submit a Press Release</a></li>
+<li id="menu-item-17231" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-17231"><a href="https://micky.com.au/submit-a-partner-article/">Submit a Partner Article</a></li>
+<li id="menu-item-19460" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-19460"><a href="https://micky.com.au/contact-micky/">Contact Micky</a></li>
+</ul></div></div>
+<div class="td-header-sp-top-widget">
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://www.facebook.com/MickyNewsOz/" title="Facebook">
+<i class="td-icon-font td-icon-facebook"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://twitter.com/MICKYNewsOz" title="Twitter">
+<i class="td-icon-font td-icon-twitter"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://www.youtube.com/channel/UC8J40w9mUIHYMX5xz3o4UFw" title="Youtube">
+<i class="td-icon-font td-icon-youtube"></i>
+</a>
+</span> </div> </div>
+
+<div id="login-form" class="white-popup-block mfp-hide mfp-with-anim">
+<div class="td-login-wrap">
+<a href="#" class="td-back-button"><i class="td-icon-modal-back"></i></a>
+<div id="td-login-div" class="td-login-form-div td-display-block">
+<div class="td-login-panel-title">Sign in</div>
+<div class="td-login-panel-descr">Welcome! Log into your account</div>
+<div class="td_display_err"></div>
+<div class="td-login-inputs"><input class="td-login-input" type="text" name="login_email" id="login_email" value="" required><label>your username</label></div>
+<div class="td-login-inputs"><input class="td-login-input" type="password" name="login_pass" id="login_pass" value="" required><label>your password</label></div>
+<input type="button" name="login_button" id="login_button" class="wpb_button btn td-login-button" value="Login">
+<div class="td-login-info-text"><a href="#" id="forgot-pass-link">Forgot your password? Get help</a></div>
+</div>
+<div id="td-forgot-pass-div" class="td-login-form-div td-display-none">
+<div class="td-login-panel-title">Password recovery</div>
+<div class="td-login-panel-descr">Recover your password</div>
+<div class="td_display_err"></div>
+<div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email" value="" required><label>your email</label></div>
+<input type="button" name="forgot_button" id="forgot_button" class="wpb_button btn td-login-button" value="Send My Password">
+<div class="td-login-info-text">A password will be e-mailed to you.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="td-banner-wrap-full td-logo-wrap-full td-container-wrap ">
+<div class="td-container td-header-row td-header-header">
+<div class="td-header-sp-logo">
+<a class="td-main-logo" href="https://micky.com.au/">
+<img class="td-retina-data" data-retina="https://micky.com.au/wp-content/uploads/2018/10/Micky_Logo_x2-2.png" src="https://micky.com.au/wp-content/uploads/2018/10/Micky_Logo_x1-1.png?x31535" alt="Micky.com.au" title="Australian Crypto News" />
+<span class="td-visual-hidden">Micky</span>
+</a>
+</div>
+<div class="td-header-sp-recs">
+<div class="td-header-rec-wrap">
+<div class="td-a-rec td-a-rec-id-header  tdi_1_a9a td_block_template_1">
+<style>
+/* custom css */
+.tdi_1_a9a.td-a-rec-img{
+				    text-align: left;
+				}.tdi_1_a9a.td-a-rec-img img{
+                    margin: 0 auto 0 0;
+                }
+</style><div class="td-all-devices"><div style="text-align: center; " id="micky-584763489"><style type="text/css">
+.gadsense_slot_1{ display: inline-block; width: 728px; height: 90px;}
+@media (min-width:360px) { .gadsense_slot_1 { width: 320px; height: 40px; } }
+@media (min-width:500px) { .gadsense_slot_1 { width: 468px; height: 60px; } }
+@media (min-width:768px) { .gadsense_slot_1 { width: 728px; height: 90px; } }
+</style>
+<ins class="adsbygoogle gadsense_slot_1" style="display:inline-block;" data-ad-client="ca-pub-4642707355275949" data-ad-slot="5942476109"></ins>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script> 
+(adsbygoogle = window.adsbygoogle || []).push({}); 
+</script>
+</div></div></div>
+</div> </div>
+</div>
+</div>
+<div class="td-header-menu-wrap-full td-container-wrap ">
+<div class="td-header-menu-wrap td-header-gradient ">
+<div class="td-container td-header-row td-header-main-menu">
+<div id="td-header-menu" role="navigation">
+<div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+<div class="td-main-menu-logo td-logo-in-header">
+<a class="td-mobile-logo td-sticky-header" href="https://micky.com.au/">
+<img class="td-retina-data" data-retina="https://micky.com.au/wp-content/uploads/2018/10/Logo-Mobile-x2.png" src="https://micky.com.au/wp-content/uploads/2018/10/Logo-Mobile-x1.png?x31535" alt="Micky.com.au" title="Australian Crypto News" />
+</a>
+<a class="td-header-logo td-sticky-header" href="https://micky.com.au/">
+<img class="td-retina-data" data-retina="https://micky.com.au/wp-content/uploads/2018/10/Micky_Logo_x2-2.png" src="https://micky.com.au/wp-content/uploads/2018/10/Micky_Logo_x1-1.png?x31535" alt="Micky.com.au" title="Australian Crypto News" />
+</a>
+</div>
+<div class="menu-new-primary-2020-container"><ul id="menu-new-primary-2021" class="sf-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-first td-menu-item td-normal-menu menu-item-17221"><a href="https://micky.com.au/gaming/">Gaming</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-17223"><a href="https://micky.com.au/technology/">Tech</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-17218"><a href="https://micky.com.au/coronavirus/">COVID-19</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-19459"><a href="https://micky.com.au/entertainment/">Entertainment</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-17217"><a href="https://micky.com.au/business/">Business</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-24220"><a href="https://micky.com.au/blockchain/">Blockchain</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-17220"><a href="https://micky.com.au/finance/">Finance</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-17222"><a href="https://micky.com.au/social-media/">Social Media</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-17224"><a href="#">Guides</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-17225"><a href="https://micky.com.au/exchanges/">Exchanges</a></li>
+</ul>
+</li>
+</ul></div></div>
+<div class="header-search-wrap">
+<div class="td-search-btns-wrap">
+<a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+<a id="td-header-search-button-mob" href="#" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+</div>
+<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+<form method="get" class="td-search-form" action="https://micky.com.au/">
+<div role="search" class="td-head-form-search-wrap">
+<input id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+</div>
+</form>
+<div id="td-aj-search"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="tdc-container"><div id="top-banner" class="tdc-row">
+</div></div>
+<div class="td-main-content-wrap td-container-wrap">
+<div class="td-container td-post-template-default ">
+<div class="td-crumb-container"><div class="entry-crumbs"><span><a title="" class="entry-crumb" href="https://micky.com.au/">Home</a></span> <i class="td-icon-right td-bread-sep"></i> <span><a title="View all posts in Gaming" class="entry-crumb" href="https://micky.com.au/gaming/">Gaming</a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last">Global Pandemic cause rise in gaming, as well as botting and cheating</span></div></div>
+<div class="td-pb-row">
+<div class="td-pb-span8 td-main-content" role="main">
+<div class="td-ss-main-content">
+<article id="post-28277" class="post-28277 post type-post status-publish format-standard has-post-thumbnail hentry category-gaming tag-aimbot tag-botting tag-cheating tag-steam tag-wallhacks" itemscope itemtype="https://schema.org/Article" 47>
+<div class="td-post-header">
+<ul class="td-category"><li class="entry-category"><a href="https://micky.com.au/gaming/">Gaming</a></li></ul>
+<header class="td-post-title">
+<h1 class="entry-title">Global Pandemic cause rise in gaming, as well as botting and cheating</h1>
+<div class="td-module-meta-info">
+<div class="td-post-author-name"><div class="td-author-by">By</div> <a href="https://micky.com.au/author/jdelossantos/">Jermaine D. Delos Santos</a><div class="td-author-line"> - </div> </div> <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-04-27T18:58:34+00:00">April 27, 2020</time></span>   </div>
+</header>
+</div>
+<div class="td-post-content tagdiv-type">
+<div class="td-post-featured-image"><img width="696" height="456" class="entry-thumb" src="https://micky.com.au/wp-content/uploads/2020/04/hacker-2300772_1280-1-696x456.jpg?x31535" srcset="https://micky.com.au/wp-content/uploads/2020/04/hacker-2300772_1280-1-696x456.jpg 696w, https://micky.com.au/wp-content/uploads/2020/04/hacker-2300772_1280-1-300x197.jpg 300w, https://micky.com.au/wp-content/uploads/2020/04/hacker-2300772_1280-1-640x420.jpg 640w, https://micky.com.au/wp-content/uploads/2020/04/hacker-2300772_1280-1.jpg 741w" sizes="(max-width: 696px) 100vw, 696px" alt="Botting and cheating arise coincidentally with the rise in gaming" title="Global Pandemic Cause Rise in Gaming, as Well as Botting and Cheating" /></div>
+<h2>The total lockdown caused by COVID-19 has caused a rise in gaming and, along with it, players who resort to <a href="https://sea.ign.com/playerunknowns-battlegrounds-pc/159662/news/gaming-is-on-a-rise-thanks-to-the-pandemic-but-bots-and-hackers-are-sucking-the-fun-out-of-it">illicit means</a> for an unfair advantage.</h2>
+<p>At nearly 20 million concurrent players, Steam has made a milestone by breaking its previous highest record.</p>
+<p>Alongside the rise in the number of players who actively use Steam’s servers, however, are unscrupulous players who use bots and cheats.</p>
+<p><a href="https://micky.com.au/wp-content/uploads/2020/04/Cheetah.jpg?x31535" target="_blank" rel="noopener noreferrer"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="aligncenter size-full wp-image-28289 lazyload" data-src="https://micky.com.au/wp-content/uploads/2020/04/Cheetah.jpg?x31535" alt="A YouTuber got banned after caught cheating" data-aspectratio="741/486" width="741" height="486" data-srcset="https://micky.com.au/wp-content/uploads/2020/04/Cheetah.jpg 741w, https://micky.com.au/wp-content/uploads/2020/04/Cheetah-300x197.jpg 300w, https://micky.com.au/wp-content/uploads/2020/04/Cheetah-696x456.jpg 696w, https://micky.com.au/wp-content/uploads/2020/04/Cheetah-640x420.jpg 640w" sizes="(max-width: 741px) 100vw, 741px" /><noscript><img class="aligncenter size-full wp-image-28289" src="https://micky.com.au/wp-content/uploads/2020/04/Cheetah.jpg?x31535" alt="A YouTuber got banned after caught cheating" width="741" height="486" srcset="https://micky.com.au/wp-content/uploads/2020/04/Cheetah.jpg 741w, https://micky.com.au/wp-content/uploads/2020/04/Cheetah-300x197.jpg 300w, https://micky.com.au/wp-content/uploads/2020/04/Cheetah-696x456.jpg 696w, https://micky.com.au/wp-content/uploads/2020/04/Cheetah-640x420.jpg 640w" sizes="(max-width: 741px) 100vw, 741px" /></noscript></a></p>
+<p>According to a survey conducted by Adjust, gamers are willing to spend $65 just to gain an upper hand in gaming with the use of a bot.</p><div class="micky-d2944b4ebff78296aa26d5c3c076ddf8" id="micky-d2944b4ebff78296aa26d5c3c076ddf8"></div>
+<h3><strong>A Historical Proportion</strong></h3>
+<p>Cheating in video games is not necessarily new. With cheat codes known to the public since during the early days of gaming, the trend seems to only continue to this day.</p>
+<p>Players of the now classics, PlayStation and PlayStation 2, would recall their experience using outlandish cheats via GameShark codes. Bypasses that are otherwise not normally implemented into the game as <a href="https://micky.com.au/apex-legends-season-5-easter-egg-pays-tribute-to-titanfall-2/">Easter eggs</a>.</p>
+<p>Although using cheats for a single-player campaign is excusable, to use the same measure on a strictly multiplayer game is downright wrong. Often causing a bad experience to others, much to a point of rage quitting due to perceived injustice.</p>
+<p>The PC platform, to where Steam runs, is even especially vulnerable to hacking. Let alone Steam, which is not necessarily robust when it comes to its anti-cheating mechanism.</p>
+<p>Making the issue with cheating much more concerning is how proliferated the scheme is. A little bit of Google search can easily provide access to information on how to cheat specific games on Steam.</p>
+<p>While some of these illicit means are aimed at tricking those who look for them, some are actually pretty legitimate. However, those that actually work are often not free and, therefore, costs people money in exchange.</p>
+<div class="arve-wrapper" data-mode="normal" data-provider="youtube" id="arve-0-lwfLR0Sc" style="max-width:696px;" itemscope itemtype="http://schema.org/VideoObject">
+<div class="arve-embed-container" style="padding-bottom:56.250000%"><meta itemprop="uploadDate" content="2020-04-27T18:58:34+00:00"><meta itemprop="thumbnailUrl" content="https://i.ytimg.com/vi/0-lwfLR0_Sc/hqdefault.jpg"><meta itemprop="name" content="HACKERS CAUGHT LIVE ON STREAM IN PUBG"><span itemprop="description" class="arve-description arve-hidden">The total lockdown caused by COVID-19 has caused a rise in gaming and, along with it, players who resort to illicit means for an unfair advantage. At nearly 20 million concurrent players, Steam has made a milestone by breaking its previous highest record. Alongside the rise in the number of players</span><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="arve-iframe fitvidsignore lazyload" frameborder="0" name sandbox="allow-scripts allow-same-origin allow-presentation allow-popups allow-popups-to-escape-sandbox" scrolling="no" data-src="https://www.youtube.com/embed/0-lwfLR0_Sc?iv_load_policy=3&#038;modestbranding=1&#038;rel=0&#038;autohide=1&#038;playsinline=1&#038;autoplay=0" data-aspectratio="480/270" width="480" height="270"></iframe><noscript><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="arve-iframe fitvidsignore" frameborder="0" name sandbox="allow-scripts allow-same-origin allow-presentation allow-popups allow-popups-to-escape-sandbox" scrolling="no" src="https://www.youtube.com/embed/0-lwfLR0_Sc?iv_load_policy=3&#038;modestbranding=1&#038;rel=0&#038;autohide=1&#038;playsinline=1&#038;autoplay=0" width="480" height="270"></iframe></noscript></div>
+</div>
+<h3><strong>Corruption in Gaming</strong></h3>
+<p>But, as a premise, the majority of these amazing hacks are actually potentially ‘game-breaking’ for others and give cheaters way much <a href="https://micky.com.au/50000-players-kicked-out-of-call-of-duty-warzone-for-cheating/">unfair advantage</a>.</p><div class="micky-5e940a84291170605c978b3bedb20ddf" id="micky-5e940a84291170605c978b3bedb20ddf"></div>
+<p>For instance, players who use ‘wallhacks’ are able to see other players through an otherwise opaque obstruction, like walls. Another cheat would be ‘aimbots’ which automatically targets and shoots nearby enemies.</p>
+<p>As any person could surmise, these cheating mechanisms are a deal-breaker for other players. Individuals who strive their hardest to win competitively in a shooting game, like Call of Duty or Counter-Strike.</p>
+<p>There plenty of other hacks that are in existence, all of which never deserving a spot in the gaming community, to begin with.</p>
+<p>Who would have thought that a rise in gaming would also give rise to so much cheating?</p>
+<p><em>Image used courtesy of Pixabay/<a href="https://pixabay.com/illustrations/hacker-cyber-crime-internet-2300772/" target="_blank" rel="noopener noreferrer">TheDigitalArtist</a></em></p>
+<div class="td-a-rec td-a-rec-id-content_bottom  tdi_2_49a td_block_template_1">
+<style>
+/* custom css */
+.tdi_2_49a.td-a-rec-img{
+				    text-align: left;
+				}.tdi_2_49a.td-a-rec-img img{
+                    margin: 0 auto 0 0;
+                }
+</style><div class="disclaimer2">Micky is a news site and does not provide trading, investing, or other financial advice. By using this website, you affirm that you have read and agree to abide by our <a href="https://micky.com.au/terms-and-conditions/" rel="noopener noreferrer" target="_blank">Terms and Conditions</a>.</div>
+<div style="margin:12px 0px ; padding:8px 12px ; border:3px double #ececec ; font-style:italic ; font-weight:500 ; text-align:left">Micky readers - you can get a 10% discount on trading fees on <a href="https://bit.ly/2sJ1kjk?utm_campaign=FTX_Discount&utm_medium=Micky_website&utm_source=affiliate_page&utm_term=affiliate_page" target="_blank" rel="sponsored">FTX</a> and <a href="https://bit.ly/2ta6OUu?utm_campaign=Binance_Discount&utm_medium=Micky_website&utm_source=affiliate_page&utm_term=affiliate_page" target="_blank" rel="sponsored">Binance</a> when you sign up using the links above.</div>
+<div style="margin:12px 0px"><div style="text-align: center; " id="micky-1594538997"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block;" data-ad-client="ca-pub-4642707355275949" data-ad-slot="" data-ad-format="auto" data-full-width-responsive="false"></ins>
+<script> 
+(adsbygoogle = window.adsbygoogle || []).push({}); 
+</script>
+</div></div></div> </div>
+<footer>
+ 
+<div class="td-post-source-tags">
+ <ul class="td-tags td-post-small-box clearfix"><li><span>TAGS</span></li><li><a href="https://micky.com.au/tag/aimbot/">Aimbot</a></li><li><a href="https://micky.com.au/tag/botting/">Botting</a></li><li><a href="https://micky.com.au/tag/cheating/">cheating</a></li><li><a href="https://micky.com.au/tag/steam/">Steam</a></li><li><a href="https://micky.com.au/tag/wallhacks/">Wallhacks</a></li></ul> </div>
+<div class="td-post-sharing-bottom"><div class="td-post-sharing-classic"><iframe frameBorder="0" src="https://www.facebook.com/plugins/like.php?href=https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/&amp;layout=button_count&amp;show_faces=false&amp;width=105&amp;action=like&amp;colorscheme=light&amp;height=21" style="border:none; overflow:hidden; width:auto; height:21px; background-color:transparent;"></iframe></div><div id="td_social_sharing_article_bottom" class="td-post-sharing td-ps-bg td-ps-notext td-ps-big td-ps-bar td-post-sharing-style10 "><div class="td-post-sharing-visible"><div class="td-social-sharing-button td-social-sharing-button-js td-social-handler td-social-share-text">
+<div class="td-social-but-icon"><i class="td-icon-share"></i></div>
+<div class="td-social-but-text">Share</div>
+</div><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmicky.com.au%2Fglobal-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating%2F">
+<div class="td-social-but-icon"><i class="td-icon-facebook"></i></div>
+<div class="td-social-but-text">Facebook</div>
+</a><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-twitter" href="https://twitter.com/intent/tweet?text=Global+Pandemic+cause+rise+in+gaming%2C+as+well+as+botting+and+cheating&url=https%3A%2F%2Fmicky.com.au%2Fglobal-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating%2F&via=MICKYNewsOZ">
+<div class="td-social-but-icon"><i class="td-icon-twitter"></i></div>
+<div class="td-social-but-text">Twitter</div>
+</a><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-pinterest" href="https://pinterest.com/pin/create/button/?url=https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/&amp;media=https://micky.com.au/wp-content/uploads/2020/04/hacker-2300772_1280-1.jpg&description=Lockdown caused by COVID-19 has caused a rise in gaming and, along with it, players who resort to illicit means for an unfair advantage.">
+<div class="td-social-but-icon"><i class="td-icon-pinterest"></i></div>
+<div class="td-social-but-text">Pinterest</div>
+</a><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-whatsapp" href="whatsapp://send?text=Global+Pandemic+cause+rise+in+gaming%2C+as+well+as+botting+and+cheating %0A%0A https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/">
+<div class="td-social-but-icon"><i class="td-icon-whatsapp"></i></div>
+<div class="td-social-but-text">WhatsApp</div>
+</a><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/&title=Global+Pandemic+cause+rise+in+gaming%2C+as+well+as+botting+and+cheating">
+<div class="td-social-but-icon"><i class="td-icon-linkedin"></i></div>
+<div class="td-social-but-text">Linkedin</div>
+</a></div><div class="td-social-sharing-hidden"><ul class="td-pulldown-filter-list"></ul><a class="td-social-sharing-button td-social-handler td-social-expand-tabs" href="#" data-block-uid="td_social_sharing_article_bottom">
+<div class="td-social-but-icon"><i class="td-icon-plus td-social-expand-tabs-icon"></i></div>
+</a></div></div></div>  <div class="td-author-name vcard author" style="display: none"><span class="fn"><a href="https://micky.com.au/author/jdelossantos/">Jermaine D. Delos Santos</a></span></div> <span class="td-page-meta" itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="name" content="Jermaine D. Delos Santos"></span><meta itemprop="datePublished" content="2020-04-27T18:58:34+00:00"><meta itemprop="dateModified" content="2020-04-27T18:58:34+00:00"><meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://micky.com.au/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating/" /><span class="td-page-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span class="td-page-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://micky.com.au/wp-content/uploads/2018/10/Micky_Logo_x1-1.png"></span><meta itemprop="name" content="Micky"></span><meta itemprop="headline " content="Global Pandemic cause rise in gaming, as well as botting and cheating"><span class="td-page-meta" itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://micky.com.au/wp-content/uploads/2020/04/hacker-2300772_1280-1.jpg"><meta itemprop="width" content="741"><meta itemprop="height" content="486"></span> </footer>
+</article> 
+</div>
+</div>
+<div class="td-pb-span4 td-main-sidebar" role="complementary">
+<div class="td-ss-main-sidebar">
+<aside class="td_block_template_1 widget micky-widget"><div style="text-align: center; " id="micky-901671806"><style type="text/css">
+.gadsense_slot_5{ display: inline-block; width: 300px; height: 250px;}
+</style>
+<ins class="adsbygoogle gadsense_slot_5" style="display:inline-block;" data-ad-client="ca-pub-4642707355275949" data-ad-slot="8655509907"></ins>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script> 
+(adsbygoogle = window.adsbygoogle || []).push({}); 
+</script>
+</div></aside><aside class="td_block_template_1 widget micky-widget"><div style="text-align: center; " id="micky-83997571"><a data-bid="1" href="https://micky.com.au/adv-adverts/22607" rel="nofollow" target="_blank"><img width="300" height="250" src='https://micky.com.au/wp-content/uploads/2020/04/micky-square-v3.png?x31535' alt='Virtual Blockchain Week' style="display: inline-block;" /></a></div></aside><div class="td_block_wrap td_block_social_counter td_block_widget tdi_3_905 td-pb-border-top td_block_template_1">
+<style>
+.td-theme-wrap .tdi_3_905 .block-title > * {
+                color: #000;
+            }
+</style><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">Follow us for the latest crypto news</span></h4></div><div class="td-social-list"><div class="td_social_type td-pb-margin-side td_social_facebook"><div class="td-social-box"><div class="td-sp td-sp-facebook"></div><span class="td_social_info td_social_info_counter"></span><span class="td_social_info td_social_info_name">Fans</span><span class="td_social_button"><a href="https://www.facebook.com/MickyNewsOz">Like</a></span></div></div><div class="td_social_type td-pb-margin-side td_social_twitter"><div class="td-social-box"><div class="td-sp td-sp-twitter"></div><span class="td_social_info td_social_info_counter">1,674</span><span class="td_social_info td_social_info_name">Followers</span><span class="td_social_button"><a href="https://twitter.com/MICKYNewsOz">Follow</a></span></div></div><div class="td_social_type td-pb-margin-side td_social_youtube"><div class="td-social-box"><div class="td-sp td-sp-youtube"></div><span class="td_social_info td_social_info_counter">97</span><span class="td_social_info td_social_info_name">Subscribers</span><span class="td_social_button"><a href="https://www.youtube.com/channel/UC8J40w9mUIHYMX5xz3o4UFw">Subscribe</a></span></div></div></div></div> <div class="td_block_wrap td_block_15 td_block_widget tdi_4_f05 td-pb-border-top td_block_template_1 td-column-1 td_block_padding" data-td-block-uid="tdi_4_f05">
+<style>
+.td-theme-wrap .tdi_4_f05 .td-pulldown-filter-link:hover,
+            .td-theme-wrap .tdi_4_f05 .td-subcat-item a:hover,
+            .td-theme-wrap .tdi_4_f05 .td-subcat-item .td-cur-simple-item {
+                color: #000;
+            }
+
+            .td-theme-wrap .tdi_4_f05 .block-title > *,
+            .td-theme-wrap .tdi_4_f05 .td-subcat-dropdown:hover .td-subcat-more {
+                background-color: #000;
+            }
+            .td-theme-wrap .td-footer-wrapper .tdi_4_f05 .block-title > * {
+                padding: 6px 7px 5px;
+                line-height: 1;
+            }
+
+            .td-theme-wrap .tdi_4_f05 .block-title {
+                border-color: #000;
+            }
+
+            
+            .td-theme-wrap .tdi_4_f05 .block-title > * {
+                color: #fff;
+            }
+            
+            
+            
+            .td-theme-wrap .tdi_4_f05 .td_module_wrap:hover .entry-title a,
+            .td-theme-wrap .tdi_4_f05 .td_quote_on_blocks,
+            .td-theme-wrap .tdi_4_f05 .td-opacity-cat .td-post-category:hover,
+            .td-theme-wrap .tdi_4_f05 .td-opacity-read .td-read-more a:hover,
+            .td-theme-wrap .tdi_4_f05 .td-opacity-author .td-post-author-name a:hover,
+            .td-theme-wrap .tdi_4_f05 .td-instagram-user a {
+                color: #000;
+            }
+
+            .td-theme-wrap .tdi_4_f05 .td-next-prev-wrap a:hover,
+            .td-theme-wrap .tdi_4_f05 .td-load-more-wrap a:hover {
+                background-color: #000;
+                border-color: #000;
+            }
+
+            .td-theme-wrap .tdi_4_f05 .td-read-more a,
+            .td-theme-wrap .tdi_4_f05 .td-weather-information:before,
+            .td-theme-wrap .tdi_4_f05 .td-weather-week:before,
+            .td-theme-wrap .tdi_4_f05 .td-exchange-header:before,
+            .td-theme-wrap .td-footer-wrapper .tdi_4_f05 .td-post-category,
+            .td-theme-wrap .tdi_4_f05 .td-post-category:hover {
+                background-color: #000;
+            }
+</style><script>var block_tdi_4_f05 = new tdBlock();
+block_tdi_4_f05.id = "tdi_4_f05";
+block_tdi_4_f05.atts = '{"custom_title":"MUST READ","custom_url":"","block_template_id":"td_block_template_1","header_color":"#000","header_text_color":"#fff","accent_text_color":"#","mx4_tl":"","limit":"6","offset":"5","el_class":"","post_ids":"","category_id":"","category_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","sort":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","ajax_pagination":"","ajax_pagination_infinite_stop":"","extended_widget_opts-td_block_15_widget-4":{"id_base":"td_block_15_widget-4","visibility":{"main":"0","options":"hide","selected":"0","misc":{"home":"1"}},"devices":{"options":"hide"},"alignment":{"desktop":"default"},"roles":{"state":""},"class":{"selected":"0","id":"","classes":"","logic":""},"tabselect":"0"},"class":"td_block_widget tdi_4_f05","separator":"","show_modified_date":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_transform":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","mx4f_title_font_header":"","mx4f_title_font_title":"Article title","mx4f_title_font_settings":"","mx4f_title_font_family":"","mx4f_title_font_size":"","mx4f_title_font_line_height":"","mx4f_title_font_style":"","mx4f_title_font_weight":"","mx4f_title_font_transform":"","mx4f_title_font_spacing":"","mx4f_title_":"","mx4f_cat_font_title":"Article category tag","mx4f_cat_font_settings":"","mx4f_cat_font_family":"","mx4f_cat_font_size":"","mx4f_cat_font_line_height":"","mx4f_cat_font_style":"","mx4f_cat_font_weight":"","mx4f_cat_font_transform":"","mx4f_cat_font_spacing":"","mx4f_cat_":"","css":"","tdc_css":"","td_column_number":1,"color_preset":"","border_top":"","tdc_css_class":"tdi_4_f05","tdc_css_class_style":"tdi_4_f05_rand_style"}';
+block_tdi_4_f05.td_column_number = "1";
+block_tdi_4_f05.block_type = "td_block_15";
+block_tdi_4_f05.post_count = "6";
+block_tdi_4_f05.found_posts = "2393";
+block_tdi_4_f05.header_color = "#000";
+block_tdi_4_f05.ajax_pagination_infinite_stop = "";
+block_tdi_4_f05.max_num_pages = "398";
+tdBlocksArray.push(block_tdi_4_f05);
+</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">MUST READ</span></h4></div><div id=tdi_4_f05 class="td_block_inner td-column-1"><div class="td-cust-row">
+<div class="td-block-span12">
+<div class="td_module_mx4 td_module_wrap td-animation-stack">
+<div class="td-module-image">
+<div class="td-module-thumb"><a href="https://micky.com.au/kanye-west-is-officially-a-billionaire-but-claims-forbes-undervalued-him/" rel="bookmark" class="td-image-wrap" title="Kanye West is officially a billionaire but claims &#8216;Forbes&#8217; undervalued him"><img width="218" height="150" class="entry-thumb" src="https://micky.com.au/wp-content/uploads/2020/04/Kanye-West-218x150.jpg?x31535" srcset="https://micky.com.au/wp-content/uploads/2020/04/Kanye-West-218x150.jpg 218w, https://micky.com.au/wp-content/uploads/2020/04/Kanye-West-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Kanye West is officially a billionaire but claims &#039;Forbes&#039; undervalued him" title="Kanye West is officially a billionaire but claims &#8216;Forbes&#8217; undervalued him" /></a></div> <a href="https://micky.com.au/entertainment/" class="td-post-category">Entertainment</a> </div>
+<h3 class="entry-title td-module-title"><a href="https://micky.com.au/kanye-west-is-officially-a-billionaire-but-claims-forbes-undervalued-him/" rel="bookmark" title="Kanye West is officially a billionaire but claims &#8216;Forbes&#8217; undervalued him">Kanye West is officially a billionaire but claims &#8216;Forbes&#8217; undervalued him</a></h3>
+</div>
+</div> 
+<div class="td-block-span12">
+<div class="td_module_mx4 td_module_wrap td-animation-stack">
+<div class="td-module-image">
+<div class="td-module-thumb"><a href="https://micky.com.au/prince-harry-meghan-markle-receive-mockeries-from-princess-dianas-former-private-secretary/" rel="bookmark" class="td-image-wrap" title="Prince Harry, Meghan Markle receive mockeries from Princess Diana’s former private secretary"><img width="218" height="150" class="entry-thumb" src="https://micky.com.au/wp-content/uploads/2020/04/Prince-Harry-Meghan-Markle-218x150.jpg?x31535" srcset="https://micky.com.au/wp-content/uploads/2020/04/Prince-Harry-Meghan-Markle-218x150.jpg 218w, https://micky.com.au/wp-content/uploads/2020/04/Prince-Harry-Meghan-Markle-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Prince Harry, Meghan Markle receive mockeries from Princess Diana’s former private secretary" title="Prince Harry, Meghan Markle receive mockeries from Princess Diana’s former private secretary" /></a></div> <a href="https://micky.com.au/entertainment/" class="td-post-category">Entertainment</a> </div>
+<h3 class="entry-title td-module-title"><a href="https://micky.com.au/prince-harry-meghan-markle-receive-mockeries-from-princess-dianas-former-private-secretary/" rel="bookmark" title="Prince Harry, Meghan Markle receive mockeries from Princess Diana’s former private secretary">Prince Harry, Meghan Markle receive mockeries from Princess Diana’s former private...</a></h3>
+</div>
+</div> </div><div class="td-cust-row">
+<div class="td-block-span12">
+<div class="td_module_mx4 td_module_wrap td-animation-stack">
+<div class="td-module-image">
+<div class="td-module-thumb"><a href="https://micky.com.au/better-call-saul-season-6-is-the-last-of-the-breaking-bad-prequel/" rel="bookmark" class="td-image-wrap" title="&#8216;Better Call Saul&#8217; season 6 is the last of the &#8216;Breaking Bad&#8217; prequel"><img width="218" height="150" class="entry-thumb" src="https://micky.com.au/wp-content/uploads/2020/04/Better-Call-Saul-218x150.jpg?x31535" srcset="https://micky.com.au/wp-content/uploads/2020/04/Better-Call-Saul-218x150.jpg 218w, https://micky.com.au/wp-content/uploads/2020/04/Better-Call-Saul-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="&#039;Better Call Saul&#039; season 6 is the last of the &#039;Breaking Bad&#039; prequel" title="&#8216;Better Call Saul&#8217; season 6 is the last of the &#8216;Breaking Bad&#8217; prequel" /></a></div> <a href="https://micky.com.au/uncategorized/" class="td-post-category">Uncategorized</a> </div>
+<h3 class="entry-title td-module-title"><a href="https://micky.com.au/better-call-saul-season-6-is-the-last-of-the-breaking-bad-prequel/" rel="bookmark" title="&#8216;Better Call Saul&#8217; season 6 is the last of the &#8216;Breaking Bad&#8217; prequel">&#8216;Better Call Saul&#8217; season 6 is the last of the &#8216;Breaking...</a></h3>
+</div>
+</div> 
+<div class="td-block-span12">
+<div class="td_module_mx4 td_module_wrap td-animation-stack">
+<div class="td-module-image">
+<div class="td-module-thumb"><a href="https://micky.com.au/jennifer-aniston-fixes-relationship-with-father-forgives-him-for-leaving/" rel="bookmark" class="td-image-wrap" title="Jennifer Aniston fixes relationship with father, forgives him for leaving"><img width="218" height="150" class="entry-thumb" src="https://micky.com.au/wp-content/uploads/2020/04/Jennifer-Aniston-218x150.jpg?x31535" srcset="https://micky.com.au/wp-content/uploads/2020/04/Jennifer-Aniston-218x150.jpg 218w, https://micky.com.au/wp-content/uploads/2020/04/Jennifer-Aniston-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Jennifer Aniston fixes relationship with father, forgives him for leaving" title="Jennifer Aniston fixes relationship with father, forgives him for leaving" /></a></div> <a href="https://micky.com.au/entertainment/" class="td-post-category">Entertainment</a> </div>
+<h3 class="entry-title td-module-title"><a href="https://micky.com.au/jennifer-aniston-fixes-relationship-with-father-forgives-him-for-leaving/" rel="bookmark" title="Jennifer Aniston fixes relationship with father, forgives him for leaving">Jennifer Aniston fixes relationship with father, forgives him for leaving</a></h3>
+</div>
+</div> </div><div class="td-cust-row">
+<div class="td-block-span12">
+<div class="td_module_mx4 td_module_wrap td-animation-stack">
+<div class="td-module-image">
+<div class="td-module-thumb"><a href="https://micky.com.au/how-to-help-young-children-regulate-their-emotions-and-behaviors-during-the-pandemic/" rel="bookmark" class="td-image-wrap" title="How to help young children regulate their emotions and behaviors during the pandemic"><img width="218" height="150" class="entry-thumb" src="https://micky.com.au/wp-content/uploads/2020/04/children-1879907_12801-218x150.jpg?x31535" srcset="https://micky.com.au/wp-content/uploads/2020/04/children-1879907_12801-218x150.jpg 218w, https://micky.com.au/wp-content/uploads/2020/04/children-1879907_12801-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="" title="How to help young children regulate their emotions and behaviors during the pandemic" /></a></div> <a href="https://micky.com.au/coronavirus/" class="td-post-category">Coronavirus</a> </div>
+<h3 class="entry-title td-module-title"><a href="https://micky.com.au/how-to-help-young-children-regulate-their-emotions-and-behaviors-during-the-pandemic/" rel="bookmark" title="How to help young children regulate their emotions and behaviors during the pandemic">How to help young children regulate their emotions and behaviors during...</a></h3>
+</div>
+</div> 
+<div class="td-block-span12">
+<div class="td_module_mx4 td_module_wrap td-animation-stack">
+<div class="td-module-image">
+<div class="td-module-thumb"><a href="https://micky.com.au/how-north-korea-could-trigger-a-crypto-market-crash/" rel="bookmark" class="td-image-wrap" title="How North Korea could trigger a crypto market crash"><img width="218" height="150" class="entry-thumb" src="https://micky.com.au/wp-content/uploads/2019/04/pix-north-korea-flag-218x150.jpg?x31535" srcset="https://micky.com.au/wp-content/uploads/2019/04/pix-north-korea-flag-218x150.jpg 218w, https://micky.com.au/wp-content/uploads/2019/04/pix-north-korea-flag-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="How North Korea could trigger a crypto market crash" title="How North Korea could trigger a crypto market crash" /></a></div> <a href="https://micky.com.au/blockchain/crypto/" class="td-post-category">Cryptocurrency</a> </div>
+<h3 class="entry-title td-module-title"><a href="https://micky.com.au/how-north-korea-could-trigger-a-crypto-market-crash/" rel="bookmark" title="How North Korea could trigger a crypto market crash">How North Korea could trigger a crypto market crash</a></h3>
+</div>
+</div> </div></div></div> <div class="clearfix"></div><aside class="td_block_template_1 widget micky-widget"><div style="text-align: center; " id="micky-2113122612"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block;" data-ad-client="ca-pub-4642707355275949" data-ad-slot="5680086106" data-ad-format="auto" data-full-width-responsive="false"></ins>
+<script> 
+(adsbygoogle = window.adsbygoogle || []).push({}); 
+</script>
+</div></aside> </div>
+</div>
+</div> 
+</div> 
+</div> 
+
+
+<div class="td-footer-wrapper td-footer-container td-container-wrap td-footer-template-9 ">
+<div class="td-container">
+<div class="td-pb-row">
+<div class="td-pb-span12">
+<div class="td-a-rec td-a-rec-id-footer_top  tdi_5_c66 td_block_template_1">
+<style>
+/* custom css */
+.tdi_5_c66.td-a-rec-img{
+				    text-align: left;
+				}.tdi_5_c66.td-a-rec-img img{
+                    margin: 0 auto 0 0;
+                }
+</style><div class="micky-3ae3eeb9a4047400c3e857a8febdaef1" id="micky-3ae3eeb9a4047400c3e857a8febdaef1"></div></div> </div>
+</div>
+<div class="td-pb-row">
+<div class="td-pb-span4">
+<aside class="td_block_template_1 extendedwopts-md-left widget widget_nav_menu"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-17382" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first td-menu-item td-normal-menu menu-item-17382"><a href="https://micky.com.au/business/">Business News</a></li>
+<li id="menu-item-17383" class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-17383"><a href="https://micky.com.au/coronavirus/">COVID-19 News</a></li>
+<li id="menu-item-17384" class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-17384"><a href="https://micky.com.au/blockchain/crypto/">Cryptocurrency News</a></li>
+<li id="menu-item-17385" class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-17385"><a href="https://micky.com.au/finance/">Finance News</a></li>
+<li id="menu-item-17386" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent td-menu-item td-normal-menu menu-item-17386"><a href="https://micky.com.au/gaming/">Gaming News</a></li>
+<li id="menu-item-17387" class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-17387"><a href="https://micky.com.au/social-media/">Social Media News</a></li>
+<li id="menu-item-17388" class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-17388"><a href="https://micky.com.au/technology/">Technology News</a></li>
+</ul></div></aside> </div>
+<div class="td-pb-span4">
+<aside class="td_block_template_1 extendedwopts-md-center widget widget_media_image"><a href="https://micky.com.au/"><img width="300" height="120" src="https://micky.com.au/wp-content/uploads/2019/02/Mickymedia_white_300x120-300x120.png?x31535" class="image wp-image-3948  attachment-medium size-medium" alt="Micky Global Pty Ltd" style="max-width: 100%; height: auto;" srcset="https://micky.com.au/wp-content/uploads/2019/02/Mickymedia_white_300x120-e1550203277748.png 300w, https://micky.com.au/wp-content/uploads/2019/02/Mickymedia_white_300x120-768x307.png 768w, https://micky.com.au/wp-content/uploads/2019/02/Mickymedia_white_300x120-696x278.png 696w" sizes="(max-width: 300px) 100vw, 300px" /></a></aside><aside class="widget_text td_block_template_1 extendedwopts-md-center widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://www.facebook.com/MickyNewsOz/" target="_blank" rel="noopener noreferrer"><i class="td-icon-font td-icon-facebook" style="font-size:18px"></i></a> <a href="https://twitter.com/MICKYNewsOz" target="_blank" style="margin-left:16px ; margin-right:16px" rel="noopener noreferrer"><i class="td-icon-font td-icon-twitter" style="font-size:18px"></i></a><a href="https://www.youtube.com/channel/UC8J40w9mUIHYMX5xz3o4UFw" target="_blank" rel="noopener noreferrer"><i class="td-icon-font td-icon-youtube" style="font-size:18px"></i></a></div></aside><aside class="td_block_template_1 extendedwopts-md-center widget widget_text"> <div class="textwidget"><p>&copy; 2020 Micky Global Pty Ltd<br />
+Contact us: <a href="mailto:admin@micky.com.au">admin@micky.com.au</a></p>
+</div>
+</aside> </div>
+<div class="td-pb-span4">
+<aside class="td_block_template_1 extendedwopts-md-right widget widget_nav_menu"><div class="menu-company-info-container"><ul id="menu-company-info" class="menu"><li id="menu-item-17389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-17389"><a href="https://micky.com.au/about/">About Micky</a></li>
+<li id="menu-item-17391" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-17391"><a href="https://micky.com.au/contact-micky/">Contact Micky</a></li>
+<li id="menu-item-17390" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-17390"><a href="https://micky.com.au/advertise-on-micky/">Advertise on Micky</a></li>
+<li id="menu-item-17393" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-17393"><a href="https://micky.com.au/submit-a-partner-article/">Submit a Partner Article</a></li>
+<li id="menu-item-17394" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-17394"><a href="https://micky.com.au/submit-press-release/">Submit a Press Release</a></li>
+<li id="menu-item-17392" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-17392"><a href="https://micky.com.au/media-partners/">Media Partners</a></li>
+<li id="menu-item-17395" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-17395"><a href="https://micky.com.au/subscribe/">Subscribe to Micky News</a></li>
+</ul></div></aside> </div>
+</div>
+</div>
+</div>
+
+<div class="td-sub-footer-container td-container-wrap ">
+<div class="td-container">
+<div class="td-pb-row">
+<div class="td-pb-span td-sub-footer-menu">
+</div>
+<div class="td-pb-span td-sub-footer-copy">
+<p align="center" style="font-size:14px ; line-height:21px ; color:#848484">Before reading any material on this website, it is a requirement to read “<a href="https://micky.com.au/terms-and-conditions/" target="_blank" rel="noopener" style="color:#848484"><strong>Terms and Conditions</strong></a>” and “<a href="https://micky.com.au/privacy-policy/" target="_blank" rel="noopener" style="color:#848484"><strong>Privacy Policy</strong></a>“ first. By reading or interacting with any of our content, website or social media you agree to be bound by these. This includes, but not limited to the public, consumers, readers & advertisers.</p>
+<p align="center"><a href="//www.dmca.com/Protection/Status.aspx?ID=66b1e96c-2e6a-408c-a7f2-fdfe97689e95" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=66b1e96c-2e6a-408c-a7f2-fdfe97689e95" alt="DMCA.com Protection Status" /></a> <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script></p> </div>
+</div>
+</div>
+</div>
+</div>
+<script>
+		var advanced_ads_ga_UID = 'UA-125036510-1';
+		var advanced_ads_ga_anonymIP = true;
+advanced_ads_check_adblocker=function(t){function e(t){(window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||function(t){return setTimeout(t,16)}).call(window,t)}var n=[],a=null;return e(function(){var t=document.createElement("div");t.innerHTML="&nbsp;",t.setAttribute("class","ad_unit ad-unit text-ad text_ad pub_300x250"),t.setAttribute("style","width: 1px !important; height: 1px !important; position: absolute !important; left: 0px !important; top: 0px !important; overflow: hidden !important;"),document.body.appendChild(t),e(function(){var e=window.getComputedStyle&&window.getComputedStyle(t),o=e&&e.getPropertyValue("-moz-binding");a=e&&"none"===e.getPropertyValue("display")||"string"==typeof o&&-1!==o.indexOf("about:");for(var i=0;i<n.length;i++)n[i](a);n=[]})}),function(t){if(null===a)return void n.push(t);t(a)}}(),function(){var t=function(t,e){this.name=t,this.UID=e,this.analyticsObject=null;var n=this,a={hitType:"event",eventCategory:"Advanced Ads",eventAction:"AdBlock",eventLabel:"Yes",nonInteraction:!0,transport:"beacon"};this.analyticsObject="string"==typeof GoogleAnalyticsObject&&"function"==typeof window[GoogleAnalyticsObject]&&window[GoogleAnalyticsObject],!1===this.analyticsObject?(!function(t,e,n,a,o,i,d){t.GoogleAnalyticsObject=o,t[o]=t[o]||function(){(t[o].q=t[o].q||[]).push(arguments)},t[o].l=1*new Date,i=e.createElement(n),d=e.getElementsByTagName(n)[0],i.async=1,i.src="https://www.google-analytics.com/analytics.js",d.parentNode.insertBefore(i,d)}(window,document,"script",0,"_advads_ga"),_advads_ga("create",n.UID,"auto",this.name),advanced_ads_ga_anonymIP&&_advads_ga("set","anonymizeIp",!0),_advads_ga(n.name+".send",a)):(window.console&&window.console.log("Advanced Ads Analytics >> using other's variable named `"+GoogleAnalyticsObject+"`"),window[GoogleAnalyticsObject]("create",n.UID,"auto",this.name),window[GoogleAnalyticsObject]("set","anonymizeIp",!0),window[GoogleAnalyticsObject](n.name+".send",a))};advanced_ads_check_adblocker(function(e){e&&"string"==typeof advanced_ads_ga_UID&&advanced_ads_ga_UID&&new t("advadsTracker",advanced_ads_ga_UID)})}();</script>
+
+<script type="text/javascript">jQuery(document).ready(function(){jQuery('.description').before('<span><!--INFOLINKS_OFF--></span>');jQuery('.description').after('<span><!--INFOLINKS_ON--></span>');jQuery('#headerimg').before('<span><!--INFOLINKS_OFF--></span>');jQuery('#headerimg').after('<span><!--INFOLINKS_ON--></span>');jQuery('h1').before('<span><!--INFOLINKS_OFF--></span>');jQuery('h1').after('<span><!--INFOLINKS_ON--></span>');jQuery('h1').before('<span><!--INFOLINKS_OFF--></span>');jQuery('h1').after('<span><!--INFOLINKS_ON--></span>');});</script>
+<script type="text/javascript">
+    var infolinks_pid = 3250268; 
+    var infolinks_plugin_version = "WP_3.2.3"; 
+    var infolinks_resources = "https://resources.infolinks.com/js"; 
+</script>
+<script type="text/javascript" src="https://resources.infolinks.com/js/infolinks_main.js"></script>
+
+
+
+<style type="text/css" media="screen">
+/* custom css theme panel */
+.td-header-wrap .td-header-sp-top-widget .td-icon-font, .td-header-style-7 .td-header-top-menu .td-social-icon-wrap .td-icon-font { color:rgba(255,255,255,1.0) !important }
+
+.td_block_wrap .td_block_21 .td-pb-border-top .td_block_template_1 .td-column-1 h4 span.td-pulldown-size { color:#ffffff !important }
+
+.td_block_text_with_title.home-bottom-ad { margin-bottom:0px }
+
+.twitter-tweet.twitter-tweet-rendered {
+    margin: auto;
+}
+
+/* .google-auto-placed { display:none ; visibility:hidden ; height:1px ; } */
+
+/* Make featured images visible for infinite scroll articles */
+.td-animation-stack-type0 .infinite-scroll-article .post img {
+    opacity: 1;
+}
+
+/* #gf_progressbar_wrapper_1 { display:none ; visibility:hidden } */
+
+.page-id-7393 .micky-article-middle { display:none ; visibility:hidden }
+
+/* #menu-primary1-1 > li.menu-item.menu-item-type-post_type.menu-item-object-page.td-menu-item.td-normal-menu.menu-item-8066 {
+	float: right;
+	position: absolute;
+	right: 24%;
+} */
+
+.disclaimer { padding: 8px 0 ;
+font-size: 12px ;
+font-weight:400 ;
+font-style: italic ;
+line-height: 18px ;
+color:#656565 ;
+border-top: 1px solid #595959 ;
+border-bottom: 1px solid #595959 ;
+margin: 8px 0 24px 0 ;
+}
+
+.disclaimer2 { padding: 10px ;
+font-size: 12px ;
+font-weight:400 ;
+font-style: italic ;
+line-height: 18px ;
+color:#656565 ;
+background:#f7f7f7 ;
+margin: 8px 0 24px 0 ;
+text-align:left ;
+}
+
+/* #menu-primary1-1 > li.menu-item.menu-item-type-post_type.menu-item-object-page.td-menu-item.td-normal-menu.menu-item-8916 {
+    float: right;
+    position: absolute;
+    right: 14.5%;
+} */
+
+.micky-in-article-position-1 { margin-bottom:24px ; overflow:hidden ; }
+
+.micky-end-of-article-banner { margin-top:28px }
+
+.arve-wrapper, .arve-embed-container, .arve-embed-container video {z-index:9999}
+
+p.exchange, p.exchange a, p.exchange span { font-size:15px }
+
+p.exchange a, p.exchange span { width:100% }
+
+ul.quad { width:100% ;
+list-style-type:none !important ;
+margin-left:0 ;
+padding-left:0 ;
+margin-bottom:26px ;
+overflow:hidden ;
+}
+
+.quad li { display:block ;
+float:left ;
+width:25% ;
+/* padding-left:0px !important ;
+padding-right:3% ; */
+margin-left:0px !important ;
+}
+
+ul.quad:after { clear:left ;
+}
+
+.td-category-description { width:100% }
+
+#menu-footer-menu li a, #menu-company-info li a { font-size:16px }
+
+#menu-footer-menu li a:hover, #menu-company-info li a:hover { color:#a6a6a6 }
+
+.td-footer-wrapper .td-pb-span4 .widget_media_image, .td-footer-wrapper .td-pb-span4 .widget_custom_html { margin-bottom:24px !important }
+
+@media screen and (max-width: 770px) {
+    .quad li { width:33% ;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .quad li { width:50% ;
+    }
+}
+
+
+
+
+
+
+
+/* custom responsive css from theme panel (Advanced CSS) */
+@media (max-width: 767px) {
+/* Make the price ticker full width */
+#top-banner {
+    margin-top: 0;
+    padding: 0;
+    border-top: solid 1px;
+}
+
+}
+</style>
+<div class="td-container"><meta name="pocket-site-verification" content="cad624541c23ddf7a6a40012b0c4ad" /></div><script type="text/javascript"><!-- Hotjar Tracking Code for https://micky.com.au -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1377848,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+</script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/plugins/lazysizes/js/lazysizes.js?x31535'></script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/plugins/lazysizes/js/lazysizes.unveilhooks.js?x31535'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advanced_ads_pro_ajax_object = {"ajax_url":"https:\/\/micky.com.au\/wp-admin\/admin-ajax.php","lazy_load_module_enabled":"1","lazy_load":{"default_offset":0,"offsets":[]},"moveintohidden":""};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/uploads/391/751/805/408/6/72.js?x31535'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advanced_ads_layer_settings = {"layer_class":"micky-layer"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/uploads/391/479/public/assets/js/146.js?x31535'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advanced_ads_sticky_settings = {"check_position_fixed":"","sticky_class":"micky-sticky"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/uploads/391/992/public/assets/js/361.js?x31535'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pnScriptSetting = {"nonce":"047019f6cb","pn_config":{"apiKey":"AIzaSyDhRbFy9m-NXZVkozYJwKdDYJuwsL6W_bw","authDomain":"pushnotificationsio.firebaseapp.com","databaseURL":"https:\/\/pushnotificationsio.firebaseio.com","projectId":"pushnotificationsio","storageBucket":"pushnotificationsio.appspot.com","messagingSenderId":"788493704860","appId":"1:788493704860:web:ba71fd692e7cc9651f5759","measurementId":"G-NXS0Z75BCH"},"swsource":"https:\/\/micky.com.au\/?push_notification_sw=1","scope":"https:\/\/micky.com.au\/","ajax_url":"https:\/\/micky.com.au\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/plugins/push-notification//assets/public/application.min.js?x31535'></script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/plugins/push-notification//assets/public/analytics.js?x31535'></script>
+<script type='text/javascript' defer='defer' src='https://www.googletagmanager.com/gtag/js?ver=1.8'></script>
+<script type='text/javascript'>
+window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+</script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/plugins/push-notification//assets/public/messaging.min.js?x31535'></script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/plugins/push-notification//assets/public/app.js?x31535'></script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/uploads/391/751/assets/560.js?x31535'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"post","leadinPluginVersion":"7.18.81"};
+/* ]]> */
+</script>
+<script async defer id="hs-script-loader" type='text/javascript' defer='defer' src='//js.hs-scripts.com/5580005.js?integration=WordPress'></script>
+<script type='text/javascript' defer='defer' src='https://unpkg.com/axios/dist/axios.min.js?ver=1.0.0'></script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/themes/Newspaper-child-micky/micky.js?x31535'></script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/themes/Newspaper-child-micky/micky-tippin-me.js?x31535'></script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/plugins/td-composer/legacy/Newspaper/js/tagdiv_theme.min.js?x31535'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tve_dash_front = {"ajaxurl":"https:\/\/micky.com.au\/wp-admin\/admin-ajax.php","force_ajax_send":"1","is_crawler":""};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/plugins/thrive-leads/thrive-dashboard/js/dist/frontend.min.js?x31535'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advadsTracking = {"ajaxurl":"https:\/\/micky.com.au\/wp-admin\/admin-ajax.php","ajaxActionName":"aatrack-records","method":"onrequest","blogId":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/uploads/391/919/public/assets/js/6.js?x31535'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advadsGALocale = {"Impressions":"Impressions","Clicks":"Clicks"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/uploads/391/919/public/assets/js/886.js?x31535'></script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-includes/js/wp-embed.min.js?x31535'></script>
+<script type='text/javascript' defer='defer' src='https://micky.com.au/wp-content/plugins/advanced-responsive-video-embedder/public/arve.min.js?x31535'></script>
+<script type="text/javascript">var tcb_post_lists=JSON.parse('[]');</script><script type="text/javascript">/*<![CDATA[*/if ( !window.TL_Const ) {var TL_Const={"security":"0647e80dcb","ajax_url":"https:\/\/micky.com.au\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":1,"main_group_id":4064,"display_options":{"allowed_post_types":[],"flag_url_match":false},"custom_post_data":[],"current_screen":{"screen_type":4,"screen_id":28277},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin"]};} else {ThriveGlobal.$j.extend(true, TL_Const, {"security":"0647e80dcb","ajax_url":"https:\/\/micky.com.au\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":1,"main_group_id":4064,"display_options":{"allowed_post_types":[],"flag_url_match":false},"custom_post_data":[],"current_screen":{"screen_type":4,"screen_id":28277},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin"]})} /*]]> */</script><script>window.advads_passive_placements = {"in-article-position-1_1":{"type":"group","id":982,"elementid":["micky-d2944b4ebff78296aa26d5c3c076ddf8"],"ads":{"5066":{"id":5066,"title":"Adsense - In Article","expiry_date":0,"visitors":[],"content":"<div class=\"micky-in-article-position-1\" style=\"text-align: center; \" id=\"micky-2138008293\"><!--noptimize--><script async src=\"\/\/pagead2.googlesyndication.com\/pagead\/js\/adsbygoogle.js\"><\/script>\n<ins class=\"adsbygoogle\" style=\"display:block; text-align:center;\" data-ad-client=\"ca-pub-4642707355275949\" \ndata-ad-slot=\"6271931283\" \ndata-ad-layout=\"in-article\"\ndata-ad-format=\"fluid\" data-full-width-responsive=\"false\"><\/ins>\n<script> \n(adsbygoogle = window.adsbygoogle || []).push({}); \n<\/script>\n<!--\/noptimize--><\/div>","once_per_page":0,"debugmode":false,"blog_id":1,"type":"adsense","position":"center","tracking_enabled":true},"27505":{"id":27505,"title":"AdSense - Article Inline - Display","expiry_date":0,"visitors":[],"content":"<div class=\"micky-in-article-position-1\" style=\"text-align: center; \" id=\"micky-222776999\"><!--noptimize--><script async src=\"\/\/pagead2.googlesyndication.com\/pagead\/js\/adsbygoogle.js\"><\/script>\n<ins class=\"adsbygoogle\" style=\"display:block;\" data-ad-client=\"ca-pub-4642707355275949\" \ndata-ad-slot=\"6691889219\" \ndata-ad-format=\"auto\" data-full-width-responsive=\"false\"><\/ins>\n<script> \n(adsbygoogle = window.adsbygoogle || []).push({}); \n<\/script>\n<!--\/noptimize--><\/div>","once_per_page":0,"debugmode":false,"blog_id":1,"type":"adsense","position":"center","tracking_enabled":true}},"group_info":{"id":982,"name":"Article in-line","weights":{"27505":1,"5066":10},"type":"default","ordered_ad_ids":[5066,27505],"ad_count":1},"placement_info":{"type":"post_content","name":"In Article - Position 1","item":"group_982","options":{"position":"after","index":3,"tag":"p","lazy_load":"disabled","cache-busting":"auto","ad_label":"default","placement_position":"","item_adblocker":"","pro_minimum_length":""},"id":"in-article-position-1"},"test_id":null,"group_wrap":[{"before":"<div class=\"micky-in-article-position-1\" id=\"micky-920487372\">","after":"<\/div>"}],"inject_before":[""]},"sticky-footer_4":{"type":"group","id":1516,"elementid":["micky-3ae3eeb9a4047400c3e857a8febdaef1"],"ads":{"17025":{"id":17025,"title":"Etoro Sticky Footer Ad","expiry_date":0,"visitors":[{"type":"mobile","operator":"is"}],"content":"<div class=\"micky-sticky-footer fixedbar micky-sticky-page-footer micky-sticky\" style=\"text-align: center; \" id=\"micky-1470401685\"><a data-bid=\"1\" href=\"https:\/\/micky.com.au\/adv-adverts\/17025\" rel=\"nofollow\" target=\"_blank\"><!--noptimize--><img width=\"728\" height=\"90\" src='https:\/\/micky.com.au\/wp-content\/uploads\/2020\/03\/etoro-static-banner.jpg' alt='eToro'  style=\"display: inline-block;\"\/><!--\/noptimize--><\/a><\/div>","once_per_page":0,"debugmode":false,"blog_id":1,"type":"image","position":"center","tracking_enabled":true}},"group_info":{"id":1516,"name":"Sticky Footer","weights":{"17025":10},"type":"default","ordered_ad_ids":[17025],"ad_count":1},"placement_info":{"type":"default","name":"Sticky Footer","item":"group_1516","options":{"lazy_load":"disabled","cache-busting":"auto","ad_label":"default","placement_position":"","item_adblocker":""},"id":"sticky-footer"},"test_id":null,"group_wrap":[{"before":"<div class=\"micky-sticky-footer\" id=\"micky-1163696891\">","after":"<\/div>"}],"inject_before":[""]}};
+
+window.advads_ajax_queries = [{"id":"in-article-position-2","method":"placement","params":{"position":"after","index":10,"tag":"p","lazy_load":"disabled","cache-busting":"auto","ad_label":"default","placement_position":"","item_adblocker":"","pro_minimum_length":"","previous_method":"placement","previous_id":"in-article-position-2","post":{"id":28277,"author":"91","post_type":"post"},"wp_the_query":{"term_id":"","taxonomy":"","is_main_query":true,"page":1,"numpages":1,"is_archive":false,"is_search":false,"is_home":false,"is_404":false,"is_attachment":false,"is_singular":true,"is_front_page":false,"is_feed":false},"url_parameter":"\/global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating\/","placement_type":"post_content","global_output":true,"output":{"class":["micky-in-article-position-2"],"placement_id":"in-article-position-2"}},"elementid":"micky-5e940a84291170605c978b3bedb20ddf","blog_id":1}];
+
+window.advads_has_ads = [["4445","ad",null],["26824","ad",null],["4465","ad",null],["22607","ad",null],["4466","ad",null]];
+
+( window.advanced_ads_ready || jQuery( document ).ready ).call( null, function() {if ( window.advanced_ads_pro ) {advanced_ads_pro.process_passive_cb();} else if ( window.console && window.console.log ) {console.log('Advanced Ads Pro: cache-busting can not be initialized');} });</script>
+
+<script>
+    
+
+                jQuery().ready(function jQuery_ready() {
+                    tdAjaxCount.tdGetViewsCountsAjax("post","[28277]");
+                });
+            
+</script>
+<script type="text/javascript">var advads_tracking_ads = {};var advads_tracking_urls = {"1":"https:\/\/micky.com.au\/wp-admin\/admin-ajax.php"};var advads_gatracking_uids = {"1":"UA-125036510-1"};var advads_tracking_methods = {"1":"onrequest"};var advads_tracking_parallel = {"1":true};var advads_tracking_linkbases = {"1":"https:\/\/micky.com.au\/adv-adverts\/"};var advads_gatracking_allads = {"1":{"27505":{"title":"AdSense - Article Inline - Display","target":false},"26824":{"title":"AdSense - End of Article - Matched","target":false},"22607":{"title":"Virtual Blockchain Week 2020","target":"http:\/\/virtualblockchainweek.com\/"},"21981":{"title":"FTX Education square 10","target":"https:\/\/utm.io\/uvj9"},"21982":{"title":"FTX Education square 11","target":"https:\/\/utm.io\/uvj9"},"21983":{"title":"FTX Education square 12","target":"https:\/\/utm.io\/uvj9"},"21980":{"title":"FTX Education square 9","target":"https:\/\/utm.io\/uvj9"},"21979":{"title":"FTX Education square 8","target":"https:\/\/utm.io\/uvj9"},"21978":{"title":"FTX Education square 7","target":"https:\/\/utm.io\/uvj9"},"21958":{"title":"FTX Education square 6","target":"https:\/\/utm.io\/uvj9"},"21957":{"title":"FTX Education square 5","target":"https:\/\/utm.io\/uvj9"},"21956":{"title":"FTX Education square 4","target":"https:\/\/utm.io\/uvj9"},"21955":{"title":"FTX Education square 3","target":"https:\/\/utm.io\/uvj9"},"21954":{"title":"FTX Education square 2","target":"https:\/\/utm.io\/uvj9"},"21953":{"title":"FTX Education square 1","target":"https:\/\/utm.io\/uvj9"},"21937":{"title":"FTX Education 4","target":"https:\/\/utm.io\/uvj8"},"21936":{"title":"FTX Education 3","target":"https:\/\/utm.io\/uvj8"},"21935":{"title":"FTX Education 2","target":"https:\/\/utm.io\/uvj8"},"21931":{"title":"FTX Education 1","target":"https:\/\/utm.io\/uvj8"},"20768":{"title":"MGID Ad Server Spot","target":false},"19581":{"title":"TraderCobb Temp ad 18","target":"https:\/\/tradercobb.com\/freetools\/"},"19580":{"title":"TraderCobb Temp ad 17","target":"https:\/\/tradercobb.com\/freetools\/"},"19579":{"title":"TraderCobb Temp ad 16","target":"https:\/\/utm.io\/uvj4"},"19567":{"title":"TraderCobb Temp ad 15","target":"https:\/\/tradercobb.com\/freetools\/"},"19566":{"title":"TraderCobb Temp ad 14","target":"https:\/\/tradercobb.com\/freetools\/"},"19563":{"title":"TraderCobb Temp ad 11","target":"https:\/\/utm.io\/uvj4"},"19564":{"title":"TraderCobb Temp ad 13","target":"https:\/\/tradercobb.com\/freetools\/"},"19565":{"title":"TraderCobb Temp ad 12","target":"https:\/\/tradercobb.com\/freetools\/"},"19551":{"title":"TraderCobb Temp ad 9","target":"https:\/\/tradercobb.com\/freetools\/"},"19552":{"title":"TraderCobb Temp ad 10","target":"https:\/\/utm.io\/uvj4"},"19550":{"title":"TraderCobb Temp ad 8","target":"https:\/\/utm.io\/uvj4"},"19548":{"title":"TraderCobb Temp ad 7","target":"https:\/\/utm.io\/uvj4"},"19549":{"title":"TraderCobb Temp ad 6","target":"https:\/\/tradercobb.com\/freetools\/"},"19536":{"title":"TraderCobb Temp ad 5","target":"https:\/\/tradercobb.com\/freetools\/"},"19534":{"title":"TraderCobb Temp ad 3","target":"https:\/\/utm.io\/uvj6"},"19535":{"title":"TraderCobb Temp ad 4","target":"https:\/\/utm.io\/uvj4"},"19533":{"title":"TraderCobb Temp ad 2","target":"https:\/\/utm.io\/uvj6"},"19530":{"title":"TraderCobb Temp ad 1","target":"https:\/\/utm.io\/uvj6"},"18907":{"title":"TraderCobb up to 50% 300 x 250 c","target":"https:\/\/tradercobb.com\/join\/"},"18881":{"title":"2020 TraderCobb 728 x 90 10","target":"https:\/\/tradercobb.com\/join"},"17242":{"title":"TraderCobb up to 50% 728 x 90 c","target":"https:\/\/tradercobb.com\/join\/"},"17128":{"title":"TraderCobb New ad 728 x 90 d","target":"https:\/\/tradercobb.com\/freetools\/"},"17127":{"title":"TraderCobb New ad 728 x 90 c","target":"https:\/\/tradercobb.com\/freetools\/"},"17126":{"title":"TraderCobb New ad 728 x 90 b","target":"https:\/\/tradercobb.com\/freetools\/"},"17125":{"title":"TraderCobb New ad 728 x 90 a","target":"https:\/\/tradercobb.com\/freetools\/"},"17025":{"title":"Etoro Sticky Footer Ad","target":"https:\/\/go.etoro.com\/en\/ab-crypto?gc=asic&utm_medium=Affiliate&utm_source=84220&utm_content=0&utm_serial=mickycryptosticky&utm_campaign=mickycryptosticky"},"16965":{"title":"TraderCobb up to 50% 300 x 250 b","target":"https:\/\/tradercobb.com\/join\/"},"16964":{"title":"TraderCobb up to 50% 300 x 250 a","target":"https:\/\/tradercobb.com\/join\/"},"16960":{"title":"TraderCobb New ad 300 x 250 d","target":"https:\/\/tradercobb.com\/freetools\/"},"16956":{"title":"TraderCobb New ad 300 x 250 c","target":"https:\/\/tradercobb.com\/freetools\/"},"16955":{"title":"TraderCobb New ad 300 x 250 b","target":"https:\/\/tradercobb.com\/freetools\/"},"16953":{"title":"TraderCobb New ad 300 x 250 a","target":"https:\/\/tradercobb.com\/freetools\/"},"16948":{"title":"TraderCobb up to 50% 728 x 90 b","target":"https:\/\/tradercobb.com\/join\/"},"16947":{"title":"TraderCobb up to 50% 728 x 90 a","target":"https:\/\/tradercobb.com\/join\/"},"16810":{"title":"eToro - 728 x 90","target":false},"15001":{"title":"2020 Invictus Capital - 728 x 90","target":"https:\/\/invictuscapital.com\/imlFund?utm_source=Micky&utm_medium=referral"},"14883":{"title":"CryptoFireAlliance - 300 x 250","target":"https:\/\/cryptofirealliance.com.au\/"},"14753":{"title":"eToro 1 - 300 x 250","target":false},"14725":{"title":"TraderCobb Contest - 728 x 90","target":"https:\/\/micky.com.au\/how-much-money-did-you-make-trading-bitcoin-these-past-two-weeks-zero\/"},"14723":{"title":"TraderCobb Contest 300 x 250","target":"https:\/\/tradercobb.com\/freetools\/"},"14385":{"title":"2020 TraderCobb 728 x 90 9","target":"https:\/\/utm.io\/uvj2"},"14382":{"title":"2020 TraderCobb 728 x 90 8","target":"https:\/\/utm.io\/uvj2"},"14381":{"title":"2020 TraderCobb 728 x 90 7","target":"https:\/\/tradercobb.com\/?=ref165"},"14380":{"title":"2020 TraderCobb 728 x 90 6","target":"https:\/\/tradercobb.com\/?=ref165"},"14379":{"title":"2020 TraderCobb 728 x 90 5","target":"https:\/\/tradercobb.com\/?=ref165"},"14378":{"title":"2020 TraderCobb 728 x 90 4","target":"https:\/\/utm.io\/uvj2"},"14377":{"title":"2020 TraderCobb 728 x 90 3","target":"https:\/\/tradercobb.com\/?=ref165"},"14376":{"title":"2020 TraderCobb 728 x 90 2","target":"https:\/\/tradercobb.com\/?=ref165"},"14375":{"title":"2020 TraderCobb 728 x 90 1","target":"https:\/\/tradercobb.com\/?=ref165"},"14323":{"title":"Footer - TraderCobb 728 x 90","target":"https:\/\/tradercobb.com\/?=ref165"},"12113":{"title":"Independent Reserve 728 x 90","target":"https:\/\/www.independentreserve.com\/?utm_medium=display&utm_campaign=micky.com.au&utm_source=micky.com.au&utm_content=728x90-jan-feb"},"13839":{"title":"Blockchain Journeys - Sidebar","target":false},"12090":{"title":"Cointree - 728 x 90","target":false},"8899":{"title":"Cointree - 728 x 90","target":false},"13504":{"title":"Trader Cobb Black Friday - 300 x 300","target":"https:\/\/tradercobb.com\/"},"13502":{"title":"Trader Cobb Black Friday - 728 x 101","target":"https:\/\/tradercobb.com\/"},"13498":{"title":"NEXO - 728x90 GIF","target":"https:\/\/nexo.io\/instant-crypto-loans?utm_source=micky&utm_medium=cpm&utm_campaign=display_credit_acq&utm_term=display&utm_content=credit"},"13496":{"title":"NEXO - 728x90 PNG","target":"https:\/\/nexo.io\/instant-crypto-loans?utm_source=micky&utm_medium=cpm&utm_campaign=display_credit_acq&utm_term=display&utm_content=credit"},"12998":{"title":"Bitcoin Price Contest 728x90","target":"https:\/\/micky.com.au\/bitcoin-price-prediction-contest\/"},"12828":{"title":"Nexo - 728 x 90","target":"https:\/\/nexo.io\/instant-crypto-loans?utm_source=micky&utm_medium=cpm&utm_campaign=display_credit_acq&utm_term=display&utm_content=credit"},"12221":{"title":"Ad scripts - footer","target":false},"12219":{"title":"Ad scripts - header","target":false},"12218":{"title":"Cointree ticker","target":false},"11803":{"title":"BitStarz 300 x 240","target":"https:\/\/www.bitstarz.eu\/landing\/welcome-package-special-offer-btc-jokerizer?refer=micky"},"10526":{"title":"Invictus 300 x 250","target":"https:\/\/invictuscapital.com\/crypto10hedged?utm_source=micky&utm_medium=referral&utm_campaign=banner"},"9892":{"title":"Emanate 300 x 250 Ver B","target":"https:\/\/emanate.live\/"},"9890":{"title":"Emanate 300 x 250 Ver A","target":"https:\/\/emanate.live\/"},"9887":{"title":"Emanate 728 x 90 Ver B","target":"https:\/\/emanate.live\/"},"9885":{"title":"Emanate 728 x 90 Ver A","target":"https:\/\/emanate.live\/"},"9720":{"title":"TraderCobb Classroom UK \u2013 300 x 250","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9719":{"title":"TraderCobb Classroom US \u2013 300 x 250","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9718":{"title":"TraderCobb Classroom Canada \u2013 300 x 250","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9717":{"title":"TraderCobb Classroom France \u2013 300 x 250","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9716":{"title":"TraderCobb Classroom Germany \u2013 300 x 250","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9715":{"title":"TraderCobb Classroom India \u2013 300 x 250","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9714":{"title":"TraderCobb Classroom Philippines \u2013 300 x 250","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9713":{"title":"TraderCobb Classroom Netherlands \u2013 300 x 250","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9712":{"title":"TraderCobb Classroom New Zealand \u2013 300 x 250","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9711":{"title":"TraderCobb Classroom Singapore \u2013 300 x 250","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9710":{"title":"TraderCobb Classroom Spain \u2013 300 x 250","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9681":{"title":"TraderCobb Classroom Spain - 728 x 90","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9679":{"title":"TraderCobb Classroom Singapore - 728 x 90","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9677":{"title":"TraderCobb Classroom New Zealand - 728 x 90","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9674":{"title":"TraderCobb Classroom Netherlands - 728 x 90","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9672":{"title":"TraderCobb Classroom Philippines - 728 x 90","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9670":{"title":"TraderCobb Classroom India - 728 x 90","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9667":{"title":"TraderCobb Classroom Germany - 728 x 90","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9664":{"title":"TraderCobb Classroom France - 728 x 90","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9662":{"title":"TraderCobb Classroom Canada - 728 x 90","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9660":{"title":"TraderCobb Classroom US - 728 x 90","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9658":{"title":"TraderCobb Classroom UK - 728 x 90","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9536":{"title":"TraderCobb Classroom Sydney \u2013 728 x 90","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9532":{"title":"TraderCobb Classroom Sydney \u2013 300 x 250 Ver A","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9456":{"title":"TraderCobb Classroom Perth - 728 x 90","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9453":{"title":"TraderCobb Classroom Melbourne - 728 x 90","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9451":{"title":"TraderCobb Classroom Hobart - 728 x 90","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9449":{"title":"TraderCobb Classroom Brisbane - 728 x 90","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9443":{"title":"TraderCobb Classroom Adelaide - 728 x 90","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"9440":{"title":"TraderCobb Classroom Hobart - 300 x 250 Ver B","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"9436":{"title":"TraderCobb Classroom Melbourne - 300 x 250 Ver B","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"9432":{"title":"TraderCobb Classroom Adelaide - 300 x 250 Ver B","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"9362":{"title":"TraderCobb Classroom Brisbane \u2013 300 x 250 Ver B","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"9358":{"title":"TraderCobb Classroom Perth \u2013 300 x 250 Ver B","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"9339":{"title":"TraderCobb Classroom 300 x 250 - Ver M","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"9336":{"title":"TraderCobb Classroom 300 x 250 - Ver L","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"9334":{"title":"TraderCobb Classroom 300 x 250 - Ver K","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"9332":{"title":"TraderCobb Classroom 300 x 250 - Ver J","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"9329":{"title":"TraderCobb Classroom 300 x 250 - Ver I","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"9221":{"title":"IR Ticker","target":false},"7720":{"title":"TraderCobb Classroom 728 x 90 - Ver K","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"7719":{"title":"TraderCobb Classroom 728 x 90 - Ver J","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"7718":{"title":"TraderCobb Classroom 728 x 90 - Ver I","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"7715":{"title":"TraderCobb Classroom 728 x 90 - Ver H","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"7717":{"title":"TraderCobb Classroom 728 x 90 - Ver G - rotate please .15% 7-8-19","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"7716":{"title":"TraderCobb Classroom 728 x 90 - Ver F","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"7710":{"title":"TraderCobb Classroom 300 x 250 - Ver H 4.33% CTR 7-8-19","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"7709":{"title":"TraderCobb Classroom 300 x 250 - Ver G - 5.26% CTR 7-8-19","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"7708":{"title":"TraderCobb Classroom 300 x 250 - Ver F","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"7707":{"title":"TraderCobb Classroom 300 x 250 - Ver E","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"7651":{"title":"TraderCobb Classroom 728 x 90 - Ver E","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"7649":{"title":"TraderCobb Classroom 728 x 90 - Ver C","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"7580":{"title":"TraderCobb Classroom 300 x 250 - Ver D","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"7579":{"title":"TraderCobb Classroom 300 x 250 - Ver C","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"7523":{"title":"TraderCobb Classroom 300 x 250 - Ver B","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"7521":{"title":"TraderCobb Classroom 300 x 250 - Ver A","target":"https:\/\/tradercobb.com\/classroom-courses-Micky-guest\/"},"7519":{"title":"TraderCobb Classroom 728 x 90 - Ver D","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"7516":{"title":"TraderCobb Classroom 728 x 90 - Ver B","target":"tradercobb.ontraport.com\/t?orid=7177&opid=8"},"7513":{"title":"TraderCobb Classroom 728 x 90 - Ver A","target":"https:\/\/tradercobb.com\/classroom\/?oprid=90&ref=7177"},"5196":{"title":"Disclaimer - Press Release","target":false},"5066":{"title":"Adsense - In Article","target":false},"5016":{"title":"TraderCob - Rachel 18 times return (3) - Banner","target":"https:\/\/tradercobb.com\/?=ref165"},"5014":{"title":"TraderCob - Rachel 18 times return (2) - Banner .15% best of 5 rachel banners","target":"https:\/\/tradercobb.com\/?=ref165"},"5012":{"title":"TraderCob - Rachel 18 times return (1) - Banner","target":"https:\/\/tradercobb.com\/?=ref165"},"5010":{"title":"TraderCobb - Rachel 18 times return (Red b) - 300 x 250","target":"https:\/\/tradercobb.com\/?=ref165"},"5008":{"title":"TraderCobb - Rachel 18 times return (Red) - 300 x 250","target":"https:\/\/tradercobb.com\/?=ref165"},"5006":{"title":"TraderCobb - Rachel 18 times return (Green b) - 300 x 250","target":"https:\/\/tradercobb.com\/?=ref165"},"5004":{"title":"TraderCobb - Rachel 18 times return (Green) - 300 x 250","target":"https:\/\/tradercobb.com\/?=ref165"},"5002":{"title":"TraderCobb - Rachel 18 times return (Color b) - 300 x 250","target":"https:\/\/tradercobb.com\/?=ref165"},"5000":{"title":"TraderCobb - Rachel 18 times return (Color) - 300 x 250","target":"https:\/\/tradercobb.com\/?=ref165"},"4998":{"title":"TraderCobb - Rachel 18 times return (Black 3b) - 300 x 250","target":"https:\/\/tradercobb.com\/?=ref165"},"4996":{"title":"TraderCobb - Rachel 18 times return (Black 3) - 300 x 250 4.11% CTR 7-8-19","target":"https:\/\/tradercobb.com\/?=ref165"},"4994":{"title":"TraderCobb - Rachel 18 times return (Black 2b) - 300 x 250","target":"https:\/\/tradercobb.com\/?=ref165"},"4992":{"title":"TraderCobb - Rachel 18 times return (Black 2) - 300 x 250 4.05% CTR 7-8-19","target":"https:\/\/tradercobb.com\/?=ref165"},"4990":{"title":"TraderCobb - Rachel 18 times return (Black 1b) - 300 x 250","target":"https:\/\/tradercobb.com\/?=ref165"},"4984":{"title":"TraderCobb - Rachel 18 times return (Black 1) - 300 x 250","target":"https:\/\/tradercobb.com\/?=ref165"},"4887":{"title":"TraderCobb - Rachel 18 times return (Yellow on Blue) - 300 x 250","target":"https:\/\/tradercobb.com\/?=ref165"},"4885":{"title":"TraderCobb - The World Is Your Workplace - 300 x 250","target":"https:\/\/tradercobb.com\/?=ref165"},"4884":{"title":"TraderCobb - Trading Success Starts Here (Laptop) - 300 x 250","target":"https:\/\/tradercobb.com\/?=ref165"},"4882":{"title":"TraderCobb - Trading Success Starts Here (Sailing) - 300 x 250","target":"https:\/\/tradercobb.com\/?=ref165"},"4877":{"title":"TraderCobb - Escape the Office - 300 x 250","target":"https:\/\/tradercobb.com\/?=ref165"},"4848":{"title":"TraderCob - Rachel 18 times return (Yellow) - Banner","target":"https:\/\/tradercobb.com\/?=ref165"},"4845":{"title":"TraderCobb - Adam 5.9 times return (Yellow) - Banner","target":"https:\/\/tradercobb.com\/?=ref165"},"4698":{"title":"BTC - Article middle","target":false},"4697":{"title":"BTC Footer","target":"https:\/\/btc.com.au\/atm-card?ref=micky"},"4476":{"title":"Call To Action - In Article Subscribe","target":false},"4469":{"title":"LRoS Banner","target":"https:\/\/www.livingroomofsatoshi.com\/"},"4468":{"title":"BTC banner","target":"https:\/\/btc.com.au\/"},"4466":{"title":"Adsense - Sidebar 2","target":false},"4465":{"title":"Adsense - Sidebar 1","target":false},"4445":{"title":"Adsense - Homepage Top","target":false},"4347":{"title":"Adsense - Homepage Bottom","target":false},"4345":{"title":"myCryptoWallet Square","target":"https:\/\/mycryptowallet.com.au\/"}}};var advads_gatracking_anonym = true;</script><script type="text/javascript">
+				if ( 'undefined' == typeof window.advadsGATracking ) window.advadsGATracking = {};
+                				advadsGATracking.postContext = {"postID":28277,"postSlug":"global-pandemic-cause-rise-in-gaming-as-well-as-botting-and-cheating","cats":"gaming"};
+                			</script>
+</body>
+</html>

@@ -1,0 +1,750 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="referrer" content="always">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>B.C. government rolls out massive effort to move homeless from camps in Vancouver and Victoria - Vancouver Is Awesome</title>
+    <link rel="dns-prefetch" href="https://www.vmcdn.ca">
+    <meta property="og:site_name" content="Vancouver Is Awesome">
+    <meta property="fb:app_id">
+    <meta property="twitter:site" content="@viawesome">
+    <meta itemprop="publisher" content="Vancouver Is Awesome">
+    <link href="https://fonts.googleapis.com/css?family=Lato|Poppins:400,600&display=swap" rel="stylesheet">
+    <link href="/cssb/template_via?v=ykWCBgfxJuPouGIk-Uxcxvbf75N_FgoDVyRFjixOpwQ1" rel="stylesheet"/>
+
+    
+    
+    <link href="https://www.vancouverisawesome.com/vancouver-news/bc-government-rolls-out-massive-effort-to-move-homeless-from-camps-in-vancouver-and-victoria-2282623" rel="canonical"><link href="https://www.vancouverisawesome.com/amp/vancouver-news/bc-government-rolls-out-massive-effort-to-move-homeless-from-camps-in-vancouver-and-victoria-2282623" rel="amphtml"><meta content="Professional movers will work with government, municipalities, health officials and several non-profits beginning this weekend in what will be a massive effort to house people." name="description"><meta content="article" property="og:type"><meta content="B.C. government rolls out massive effort to move homeless from camps in Vancouver and Victoria" property="og:title"><meta content="Professional movers will work with government, municipalities, health officials and several non-profits beginning this weekend in what will be a massive effort to house people." property="og:description"><meta content="Vancouver News" property="article:section"><meta content="https://www.vancouverisawesome.com/vancouver-news/bc-government-rolls-out-massive-effort-to-move-homeless-from-camps-in-vancouver-and-victoria-2282623" property="og:url"><meta content="https://www.vmcdn.ca/f/files/via/howe/oppenheimer.jpg;w=804;h=536;mode=crop" property="og:image"><meta content="804" property="og:image:width"><meta content="536" property="og:image:height"><meta content="summary_large_image" property="twitter:card">
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.vmcdn.ca/files/ui/glacier/via/at.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.vmcdn.ca/files/ui/glacier/via/32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.vmcdn.ca/files/ui/glacier/via/16.png">
+<link rel="mask-icon" href="https://www.vmcdn.ca/files/ui/glacier/via/spt.svg" color="#5bbad5">
+<link rel="shortcut icon" href="https://www.vmcdn.ca/files/ui/glacier/via/favicon.ico">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-config" content="https://www.vmcdn.ca/files/ui/glacier/via/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<script src="//cdn.districtm.ca/merge/merge.v4.4.116952.js"></script>
+<script type="text/javascript">
+(function() {
+var s = document.createElement('script');
+s.type = 'text/javascript';
+s.async = !0;
+s.src = 'https://adserver.pressboard.ca/v3/embedder?media=142785';
+var d = document.getElementsByTagName("script")[0];
+d.parentNode.insertBefore(s, d);
+})();
+</script>
+<style>.force-height{height:100px !important;}</style>
+<script type="text/javascript">
+    (function(n,a,t,i,v,e,ai){n['NativeAIObject']=v;n[v]=n[v]||function(){
+    (n[v].q=n[v].q||[]).push(arguments)},n[v].l=1*new Date();n[v].i=i;e=a.createElement(t),
+    ai=a.getElementsByTagName(t)[0];e.async=1;e.src=i+"?"+(n[v].l-n[v].l%604800000);
+    ai.parentNode.insertBefore(e,ai)})
+    (window,document,'script','https://cdn.native.ai/js/current/nativeai.js','nativeAI');
+    nativeAI('create', '81fbae4b-79a7-4eda-bd40-078d33470ecb');
+</script>
+<script>
+      (function(w,d) {
+          w.kwa || (w.kwa = function() {
+                (w.kwa.q = w.kwa.q || []).push(arguments);
+          });
+          se = d.createElement('script'),
+          fs = d.scripts[0];
+          se.src = '//cdn.keywee.co/dist/analytics.min.js';
+          fs.parentNode.insertBefore(se,fs)
+      }(window, document));
+      kwa('initialize',999);
+</script>
+<script>(function(p,i,c,o){var n=new Event("pico-init");i[p]=i[p]||function(){(i[p].queue=i[p].queue||[]).push(arguments)},i.document.addEventListener("pico-init",function(e){var t=i.Pico.getInstance(e,{publisherId:o,picoInit:n},i);t.handleQueueItems(i[p].queue),i[p]=function(){return t.handleQueueItems([arguments])}},!1);var e=i.document.createElement("script"),t=i.document.getElementsByTagName("script")[0];e.async=1,e.src=c,e.onload=function(e){return i.Pico.getInstance(e,{publisherId:o,picoInit:n},i)},t.parentNode.insertBefore(e,t)})("pico",window,"https://widget.pico.tools/wrapper.min.js","d0f1e5b1-fb62-46d1-9968-2ee6a392b8c9");</script>
+<style>@media (min-width: 992px) {.mainnav .topnav>li{margin-left:4px !important}}</style>
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-56BF75S');</script>
+    <script>
+        window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;ga('create', 'UA-37383801-16','auto',{'name': 'base'});ga('create', 'UA-6219763-1','auto',{'name': 'site'});ga('base.require', 'displayfeatures');ga('site.require', 'displayfeatures');
+        ga('create', 'UA-35358600-39','auto',{'name': 'glacier'});
+        ga('glacier.require', 'displayfeatures')
+        
+     ga('base.set', {"dimension2":"2282623","dimension3":"112745","dimension4":"112745","dimension5":"Mike Howell","dimension6":"Mike Howell","dimension7":"617","dimension8":"10","dimension9":"25","dimension10":"Sat","dimension11":"Apr","dimension12":"2020","dimension13":"4/25/2020 10:03:00 AM","dimension14":"174596","dimension15":"Vancouver News","dimension16":"homeless|Vancouver|victoria|Oppenh","dimension17":"B.C. government rolls out massive effort to move homeless from camps in Vancouver and Victoria","dimension18":"Content","dimension19":"Vancouver Is Awesome"});ga('site.set', {"dimension2":"2282623","dimension3":"112745","dimension4":"112745","dimension5":"Mike Howell","dimension6":"Mike Howell","dimension7":"617","dimension8":"10","dimension9":"25","dimension10":"Sat","dimension11":"Apr","dimension12":"2020","dimension13":"4/25/2020 10:03:00 AM","dimension14":"174596","dimension15":"Vancouver News","dimension16":"homeless|Vancouver|victoria|Oppenh","dimension17":"B.C. government rolls out massive effort to move homeless from camps in Vancouver and Victoria","dimension18":"Content","dimension19":"Vancouver Is Awesome"}); 
+
+        ga('glacier.send', 'pageview');
+    </script>
+    <script src="https://www.google-analytics.com/analytics.js" async></script>
+    <script>var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "12982857" }); (function () { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = "https://sb.scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();</script>
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script>
+        window.googletag = window.googletag || { cmd: [] };
+        var VMslots = [], VMinjects = {}, VMlazyslots = {}, toMap, bmMap, bbdMapping, bbd2Mapping, bbtMapping, bbt2Mapping, bbmMapping, bbmMapping2;
+        googletag.cmd.push(function () {
+            toMap = googletag.sizeMapping().addSize([0, 0], []).addSize([1050, 200], [[1920, 1200], [1920, 800]]).build();
+            bmMap = googletag.sizeMapping().addSize([0, 0], [[1, 1], [300, 50], [300, 100]]).addSize([400, 300], [[1, 1], [400, 67], [400, 133]]).addSize([768, 200], [[1, 1], [728, 90], [600, 100], [600, 200]]).addSize([990, 200], [[1, 1], [728, 90], [900, 150], [900, 300], [970, 250]]).build();
+            fMap = googletag.sizeMapping().addSize([0, 0], [[300, 50], [320, 50], [300, 100]]).addSize([768, 200], []).build();
+            bbdMapping = googletag.sizeMapping().addSize([0, 0], []).addSize([990, 300], [[300, 600], [300, 250], [300, 300], [300, 120], [300, 60]]).build();
+            bbd2Mapping = googletag.sizeMapping().addSize([0, 0], []).addSize([990, 300], [[300, 250], [300, 600], [300, 300], [300, 120], [300, 60]]).build();
+            bbtMapping = googletag.sizeMapping().addSize([0, 0], []).addSize([728, 200], [[300, 600], [300, 250], [336, 280]]).addSize([990, 300], []).build();
+            bbt2Mapping = googletag.sizeMapping().addSize([0, 0], []).addSize([728, 200], [[300, 250], [300, 600], [336, 280]]).addSize([990, 300], []).build();
+            bbmMapping = googletag.sizeMapping().addSize([0, 0], [[300, 250], [300, 600], [336, 280]]).addSize([728, 200], []).build();
+            bbm2Mapping = googletag.sizeMapping().addSize([0, 0], [[300, 600], [300, 250], [336, 280]]).addSize([728, 200], []).build();
+var slot_773 = googletag.defineSlot("/4326737/atex_LMP_site_section_subsection_3to1_S1_RON_GNG-network", [[300,100],[400,133],[600,200],[900,300],[1170,300][300,50],[400,67],[600,100],[900,150],[728,90]], "slot-773").defineSizeMapping(bmMap).addService(googletag.pubads());VMslots.push(slot_773);googletag.display('slot-773');var slot_766 = googletag.defineSlot("/4326737/atex_LMP_site_section_subsection_wallpaper_S1_RON_GNG-network", [[1, 2], [1920, 800], [1920, 1200]], "slot-766").addService(googletag.pubads());VMslots.push(slot_766);googletag.display('slot-766');var slot_909 = googletag.defineSlot("/4326737/atex_LMP_VIA_section_subsection_footer_S1_RON_GNG-network", [[300,50],[320,50]], "slot-909").defineSizeMapping(fMap).addService(googletag.pubads());VMslots.push(slot_909);googletag.display('slot-909');                googletag.pubads().enableSingleRequest();
+                googletag.pubads().disableInitialLoad();
+                googletag.pubads().collapseEmptyDivs();
+googletag.pubads().setTargeting("site", "www.vancouverisawesome.com").setTargeting("ContentCategory", ["Vancouver News"]).setTargeting("TemplateType", "Details").setTargeting("ContentId", "2282623").setTargeting("ContentTag", ["homeless","Vancouver","victoria","Oppenh"]);        });
+    </script>
+    <script type="application/ld+json">{"@context":"http://schema.org","@type":"NewsMediaOrganization","name":"Vancouver Is Awesome","url":"https://www.vancouverisawesome.com","logo":{"@context":"http://schema.org","@type":"ImageObject","url":"https://www.vmcdn.ca/f/files/shared/site_images/logos/logo_vancouverisawesome.png","width":"253","height":"80"},"address":{"@type":"PostalAddress","addressLocality":"Vancouver","addressRegion":"BC","postalCode":"V5Y 1J6","streetAddress":"303 West 5th Avenue"},"sameAs":["https://www.facebook.com/VancouverIsAwesome","https://www.twitter.com/viawesome","https://www.instagram.com/viawesome/"]}</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"NewsArticle","speakable":{"@type":"SpeakableSpecification","cssSelector":"details-title, details-intro"},"headline":"B.C. government rolls out massive effort to move homeless from camps in Vancouver and Victoria","description":"Professional movers will work with government, municipalities, health officials and several non-profits beginning this weekend in what will be a massive effort to house people.","wordCount":617,"dateCreated":"2020-04-25T17:02:35Z","dateModified":"2020-04-25T17:03:00Z","datePublished":"2020-04-25T17:03:00Z","image":{"@context":"http://schema.org","@type":"ImageObject","url":"https://www.vmcdn.ca/f/files/via/howe/oppenheimer.jpg","width":"804","height":"536","description":"The B.C. government announced Saturday a massive effort to house homeless living in Oppenheimer Park. File photo Dan Toulgoet"},"publisher":{"@context":"http://schema.org","@type":"NewsMediaOrganization","name":"Vancouver Is Awesome","url":"https://www.vancouverisawesome.com","logo":{"@context":"http://schema.org","@type":"ImageObject","url":"https://www.vmcdn.ca/f/files/shared/site_images/logos/logo_vancouverisawesome.png","width":"253","height":"80"},"address":{"@type":"PostalAddress","addressLocality":"Vancouver","addressRegion":"BC","postalCode":"V5Y 1J6","streetAddress":"303 West 5th Avenue"},"sameAs":["https://www.facebook.com/VancouverIsAwesome","https://www.twitter.com/viawesome","https://www.instagram.com/viawesome/"]},"author":"Mike Howell","mainEntityOfPage":"https://www.vancouverisawesome.com/vancouver-news/bc-government-rolls-out-massive-effort-to-move-homeless-from-camps-in-vancouver-and-victoria-2282623"}</script>
+</head>
+<body>
+    <a href="#body-container" class="sr-only">Skip to content</a>
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-56BF75S" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <header>
+        <div class="container clearfix">
+            <div class="navbt-container">
+                <button type="button" class="navbt navbt-toggle navbt-burg" aria-label="Show navigation"><i></i><i></i><i></i></button>
+                <button type="button" class="navbt navbt-toggle navbt-close hide" aria-label="Hide navigation">&times;</button>
+            </div>
+            <a href="/" class="logo-container"><img alt="Vancouver Is Awesome" class="logo" height="80" onerror="this.src='https://www.vmcdn.ca/f/files/shared/site_images/logos/logo_vancouverisawesome.png';this.onerror=null;" src="https://www.vmcdn.ca/files/ui/glacier/via/via.svg" width="253"></a>
+            <div id="header-right">
+                <a href="/account/mailinglist" class="btn btn-primary visible-md-inline-block" id="header-subscribe">Join our Newsletter</a>
+                <a class="ww ww-current ib clearfix" href="/weather" id="weather-container" data-endpoint="/external/weatherwidget?weatherCode=BC%2Fs0000141_e" data-success="VM.Track.onWeatherLoaded"></a>
+                
+<div class="avatar-container">
+        <a id="hd-support" class="ga ga-ext" href="/account/support/signup?utm_source=Vancouver+Is+Awesome&amp;utm_medium=MainNav&amp;utm_campaign=Support" data-ga-category="NTG membership" data-ga-action="marketing modal click" data-ga-label="MainNav">Support local news</a>
+            <a href="/account" class="hd-popup-trigger" aria-expanded="false" aria-controls="hd-account-unlogged">
+            <div id="welcome" data-user="0">Sign in or register for your free account <span class="caret"></span></div>
+            <span class="avatar-sm avatar avatar-unlogged"><i class="ic ic-user-o-w"></i></span>
+        </a>
+        <div class="hd-popup popup popup-bubble hidden" id="hd-account-unlogged">
+            <div><b>Registered Users</b></div>
+            <small>Already have an account?</small>
+            <p><a href="/account/login" class="btn btn-primary btn-block">Sign In</a></p>
+            <hr class="tight">
+            <div><b>New Users</b></div>
+            <small>Create a free account.</small>
+            <p><a href="/account/register" class="btn btn-default btn-block">Register</a></p>
+            <hr class="tight">
+            <ul class="nav">
+                    <li><a href="/account/support/signup"><i class="ic ic-gift"></i> Support Local News</a></li>
+                                    <li><a href="/account/mailinglist"><i class="ic ic-email-o"></i> Sign up for Daily Headlines</a></li>
+                <li><a href="/contact"><i class="ic ic-comments-o"></i> Contact Us</a></li>
+            </ul>
+        </div>
+</div>
+<script>
+    ga('base.send', 'pageview', {'dimension1': '34'});ga('site.send', 'pageview', {'dimension1': '34'});
+        if (googletag && typeof window.adUtility === 'undefined') {
+        googletag.cmd.push(function () {
+            if (window.URLSearchParams !== undefined) {
+                var urlParams = new URLSearchParams(window.location.search);
+                urlParams.forEach(function (value, key) {
+                    var keyParts = key.split('_');
+                    if (keyParts.length === 2 && keyParts[0] == 'utm') {
+                        googletag.pubads().setTargeting(keyParts[1], value);
+                    }
+                });
+            }
+            googletag.pubads().setTargeting('LoggedIn', 'False').setTargeting('User', '');
+        });
+    }
+</script>
+            </div>
+            <div id="header-left" class="visible-md">
+
+<div class="widget-area widget-area-header" data-tagid="157116" data-contentid="" data-layout="Header" data-span="12" data-key="">
+            <div class="widget-area-row">
+                    <div class="widget-area-col" data-span="12">
+<div class="widget widget-wysiwyg theme-blue " data-id="172925" data-widget="6" data-per="" data-min="">
+    <div class="section-items section-wysiwyg clearfix">
+        <a href="https://bcisawesome.com/?utm_source=VIA&amp;utm_medium=headerbutton" target="_blank"><img alt="VIA store 300x100" class="caption-img" id="file-916220" src="https://www.vmcdn.ca/f/files/via/images/via-assets/via-store-300x100.jpg;w=300" style="width: 300px; height: 100px;" /></a>
+    </div>
+</div>
+                    </div>
+            </div>
+</div>
+            </div>
+        </div>
+        <nav id="nav" class="mainnav">
+            <div class="container clearfix">
+    <ul class="nav topnav">
+            <li id="nav-home" class="nav-0 theme-darkgrey"><a href="/" class="navitem" title="Home">Home</a></li>
+                    <li class=" children nav-0 theme-blue m-expanded">
+                <a class="m-expanded navitem" href="/vancouver-news">News</a>
+                    <div class="subnav-container">
+                        <div class="subnav-wrap">
+                            <ul class="nav subnav">
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/vancouver-news">Vancouver News</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/bc-news">B.C. News</a></li>
+                                    <li class="nav-1"><a class="navitem" href="/coronavirus-covid-19-information">Covid-19</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/national-news">National News</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/opinion">Opinion</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/politics">Politics</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/transportation">Transportation</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/real-estate">Real Estate</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/business">Business</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/national-sports">National Sports</a></li>
+                                    <li class="nav-1"><a class="navitem" href="/national-business">National Business</a></li>
+                                    <li class="nav-1"><a class="navitem" href="/world-news">World News</a></li>
+                                    <li class="nav-1"><a class="navitem" href="https://issuu.com/vancouverisawesome" target="_blank">This Week&#39;s Newspaper</a></li>
+                                                                    <li class="nav-1 m-more"><a href="#" class="navitem">View more ...</a></li>
+                            </ul>
+                        </div>
+                    </div>
+            </li>
+            <li class="nav-0 theme-blue m-expanded">
+                <a class="m-expanded navitem" href="/weather">Weather</a>
+            </li>
+            <li class=" children nav-0 theme-blue m-expanded">
+                <span class="m-expanded navitem">Features</span>
+                    <div class="subnav-container">
+                        <div class="subnav-wrap">
+                            <ul class="nav subnav">
+                                    <li class="nav-1"><a class="navitem" href="/video">Videos</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/food-and-drink">Food and Drink</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/events-and-entertainment">Events and Entertainment</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/local-events">Event Calendar</a></li>
+                                    <li class="nav-1"><a class="navitem" href="/canucks-hockey">Canucks Hockey</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/history">History</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/sponsored">Sponsored</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/travel">Travel</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/outdoors">Outdoors</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/animals">Animals</a></li>
+                                    <li class="nav-1"><a class="navitem" href="/horoscopes">Horoscopes</a></li>
+                                    <li class="nav-1"><a class="navitem" href="/gas-prices">Gas Prices</a></li>
+                                    <li class="nav-1"><a class="navitem" href="/crosswords">Crosswords</a></li>
+                                    <li class="nav-1"><a class="navitem" href="https://guidedby.ca/publications/vancouver-is-awesome" target="_blank">GuidedBy</a></li>
+                                                                    <li class="nav-1 m-more"><a href="#" class="navitem">View more ...</a></li>
+                            </ul>
+                        </div>
+                    </div>
+            </li>
+            <li class="nav-0 theme-blue m-expanded">
+                <a class="m-expanded navitem" href="/contests">Contests</a>
+            </li>
+            <li class="nav-0 theme-blue m-expanded">
+                <a class="m-expanded navitem" href="/account/mailinglist">Newsletters</a>
+            </li>
+            <li class="nav-0 theme-blue">
+                <a class="navitem" href="http://classifieds.vancourier.com/">Classifieds</a>
+            </li>
+            <li class="nav-0 theme-blue">
+                <a class="navitem" href="https://bcisawesome.com/" target="_blank">Shop</a>
+            </li>
+            <li class="nav-0 theme-blue">
+                <a class="navitem" href="https://www.vancouverisawesome.com/account/support/signup">Support Local News</a>
+            </li>
+    </ul>
+
+                <div class="search-container">
+                    <button type="button" class="navbt-q hd-popup-trigger" aria-expanded="false" aria-controls="search" id="qbt" aria-label="Toggle Search"><i class="ic ic-search"></i></button>
+                    <form action="/search" method="get" class="popup hd-popup hd-popup-h hidden" id="search">
+                        <fieldset class="mb-2">
+                            <legend class="sr-only">Search Type</legend>
+                            <label class="radio-inline search-select"><input type="radio" name="search" data-action="/search" data-placeholder="site" checked> Site</label>
+                                                            <label class="radio-inline search-select"><input type="radio" name="search" data-action="/directory/search" data-placeholder="directory"> Directory</label>
+                                                    </fieldset>
+                        <div class="input-group">
+                            <label for="q" class="sr-only">Search</label>
+                            <input type="search" name="q" id="q" class="form-control" placeholder="search site">
+                            <span class="input-group-btn">
+                                <button class="btn btn-primary" id="search-submit" aria-label="Search"><i class="ic ic-search-w"></i></button>
+                            </span>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div id="body-container">
+            <div id="leaderboard-container" class="container"><div class="slot-leaderboard slot"><span id='slot-773'></span></div></div>
+        <div id="body-subscribe" class="container hidden-md">
+            <a href="/account/mailinglist" class="btn btn-primary btn-block">Join our Newsletter</a>
+        </div>
+        <div id="body" class="container">
+            
+
+<div class="row">
+    <section class="col-md-8">
+        
+
+<ol class="nav nav-horizontal nav-breadcrumb">
+    <li><a href="/">Home</a></li>
+            <li><a href="/vancouver-news">Vancouver News</a></li>
+</ol>
+<div class="details theme-blue" data-id="2282623" data-title="B.C. government rolls out massive effort to move homeless from camps in Vancouver and Victoria" data-tag="174596">
+    <h1 class="title details-title">B.C. government rolls out massive effort to move homeless from camps in Vancouver and Victoria</h1>
+        <div class="details-intro-area clearfix">
+            <div class="details-intro">
+                Professional movers will work with government, municipalities, health officials and several non-profits beginning this weekend in what will be a massive effort to house people.
+            </div>
+                <a href="#details-shares" class="details-bubble details-bubble-s scrollto sc" data-url="https://www.vancouverisawesome.com/vancouver-news/bc-government-rolls-out-massive-effort-to-move-homeless-from-camps-in-vancouver-and-victoria-2282623">
+                    <span class="sc-s">0</span>
+                    <i class="nub1"></i><i class="nub2"></i>
+                </a>
+        </div>
+    <div class="details-byline">
+            <time class="timeago" datetime="2020-04-25T17:03:00.0000000Z">Apr 25, 2020 10:03 AM</time>
+ By:     <span id="author">Mike Howell</span>
+
+        
+    </div>
+<div class="captioned details-file" id="file-0"><img alt="oppenheimer" class="caption-img" src="https://www.vmcdn.ca/f/files/via/howe/oppenheimer.jpg;w=960"><div class="caption">The B.C. government announced Saturday a massive effort to house homeless living in Oppenheimer Park. File photo Dan Toulgoet</div></div>    <div id="details-body" class="details-body clear clearfix" data-words="617" itemprop="articleBody">
+        The B.C. government rolled out an ambitious and unprecedented plan Saturday to move close to 700 homeless people from camps in Vancouver and Victoria into hotels, motels and community centres.
+<p>Professional movers will work with government, municipalities, health officials and several non-profits beginning this weekend in what will be a massive effort to house people.</p>
+
+<p>In Vancouver, one hotel has been identified for those who test positive for COVID-19, although public health officials and politicians continue to say there have been no outbreaks in the camps.</p>
+
+<p>Officials aim to move at least 300 people from Oppenheimer Park in the Downtown Eastside and another 360 living on Pandora Avenue and at Topaz Park in Victoria.</p>
+
+<p>&ldquo;Now, more than ever, with concurrent emergencies of the pandemic and the ongoing opioid crisis, it is time to implement long-term housing solutions that take care of and protect our most vulnerable people,&rdquo; said Shane Simpson, Minister of Social Development and Poverty Reduction, in a news release.</p>
+
+<p>Government expects the majority of campers to agree to move inside, although a ministerial order under the Emergency Program Act set May 9 as the deadline to transition people into housing.</p>
+
+<p>What happens to people <strong><a href="https://www.vancourier.com/news/one-year-later-meet-the-people-still-living-in-oppenheimer-park-1.23977203">who refuse to move</a> </strong>isn&rsquo;t clear.</p>
+
+<p>A total of 686 hotel and community centre spaces have been secured in Vancouver and 324 hotel spaces in Victoria. That includes a floor of a hotel in Vancouver strictly for women. A facility in Victoria is also designated for women.</p>
+
+<p>All accommodations will be monitored by non-profits, which will provide 24-7 support for residents, including access to health care and medication-assisted drug treatment, if needed.</p>
+
+<p>Daily meals and cleaning services will be included.</p>
+
+<p>Staff at each location is expected to monitor people going in and out of buildings to prevent guests from entering. Every person housed must follow isolation protocols and staff will work to ensure all individuals who require self-isolation are doing so.</p>
+
+<p>Government didn&rsquo;t identify the hotels, many of which remain vacant in most cities in B.C. because of travel restrictions, but <em>Glacier Media</em> has earlier reported that Roundhouse and Coal Harbour community centres have opened to homeless people.</p>
+
+<p>Separate accommodation for youth living in encampments is also being arranged through the Ministry of Children and Family Development.</p>
+
+<p>Personal belongings of people in the camps will be put in bins and moved by professional movers dressed in personal protective gear.</p>
+
+<p>Storage for additional belongings will be available.</p>
+
+<p>Cheryl Casimer, a member of the political executive of the First Nations Summit, said in a news release that she appreciated the strategy developed for the Downtown Eastside.</p>
+
+<p>&ldquo;Although the strategy announced today includes a temporary plan to address urgent housing and social service supports needed to curtail the risk of a COVID-19 outbreak in the DTES, it will also allow the province and primary partners to work towards addressing the much needed long-term housing and wellness strategies and needs to support the DTES community,&quot; Casimer said.</p>
+
+<p>Fiona York of the Carnegie Action Project told <em>Glacier Media</em> in an email that &ldquo;making use of vacant hotel rooms is welcome &mdash; but needs to be offered to those most in need rather than simply those most visible.&quot;</p>
+
+<p>Added York: &ldquo;A much greater number of rooms should be made available to all those who need to safely self-isolate, including those who are homeless, in shelters and in SROs with shared washrooms and poor maintenance &mdash; almost 9,000 people are living in inadequate housing in Vancouver alone.&rdquo;</p>
+
+<p>Simpson was expected to hold a news conference this morning with Judy Darcy, Minister of Mental Health and Addictions, and Mike Farnworth, Minister of Public Safety and Solicitor General, to provide further details.</p>
+
+<p><a href="mailto:mhowell@vancourier.com">mhowell@vancourier.com</a></p>
+
+<p>@Howellings</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+    </div>
+    <div id="details-widgets">
+<hr>
+<ul class="nav details-tools np">
+    <li><a href="/submissions/typo?id=2282623&amp;t=B.C.+government+rolls+out+massive+effort+to+move+homeless+from+camps+in+Vancouver+and+Victoria&amp;u=https%3a%2f%2fwww.vancouverisawesome.com%2fvancouver-news%2fbc-government-rolls-out-massive-effort-to-move-homeless-from-camps-in-vancouver-and-victoria-2282623">See a typo/mistake?</a></li>
+    <li><a href="/submissions/newstip">Have a story/tip?</a></li>
+</ul>    <div id="businesses" class="lazyload" data-endpoint="/directory/contentwidget" data-data='{"tagId": 174596, "hide": false , "flatTags": "[{\"site\":1,\"tag\":1777,\"type\":2,\"primary\":false,\"template\":null,\"r\":0,\"t\":\"homeless\"},{\"site\":1,\"tag\":3081,\"type\":2,\"primary\":false,\"template\":null,\"r\":0,\"t\":\"Vancouver\"},{\"site\":1,\"tag\":9023,\"type\":2,\"primary\":false,\"template\":null,\"r\":0,\"t\":\"victoria\"},{\"site\":34,\"tag\":174596,\"type\":3,\"primary\":true,\"template\":null,\"r\":0,\"t\":null},{\"site\":34,\"tag\":222634,\"type\":3,\"primary\":false,\"template\":null,\"r\":0,\"t\":null},{\"site\":34,\"tag\":250017,\"type\":3,\"primary\":false,\"template\":null,\"r\":0,\"t\":null},{\"site\":34,\"tag\":250018,\"type\":3,\"primary\":false,\"template\":null,\"r\":0,\"t\":null},{\"site\":34,\"tag\":250814,\"type\":3,\"primary\":false,\"template\":null,\"r\":0,\"t\":null},{\"site\":1,\"tag\":257500,\"type\":2,\"primary\":false,\"template\":null,\"r\":0,\"t\":\"Oppenh\"}]"}'></div>
+<form action="/comments/react/2282623?tagId=174596&amp;type=Reaction" class="reactions np" data-af="/account/af" data-event-type="Mood" data-id="2282623" data-items="/contentbyreaction?id=2282623&amp;tag=174596&amp;subType=0" data-results="/comments/reactions/2282623?type=Reaction" data-title="B.C. government rolls out massive effort to move homeless from camps in Vancouver and Victoria" data-type="reaction" id="reactions" method="post">        <hr>
+        <h2 class="title share-title clearfix">
+            How did this story make you feel?
+            <a href="#" class="react-view hidden">view results &gt;</a>
+        </h2>
+        <ul class="nav clearfix nav-react">
+            <li><button disabled name="subtype" value="Happy" class="bt-react js-react"><span><i class="ic ic-happy"></i><span class="theme-bg" aria-hidden="true"></span></span><div class="react-label">Happy</div></button></li>
+            <li><button disabled name="subtype" value="Amused" class="bt-react js-react"><span><i class="ic ic-amused"></i><span class="theme-bg" aria-hidden="true"></span></span><div class="react-label">Amused</div></button></li>
+            <li><button disabled name="subtype" value="Afraid" class="bt-react js-react"><span><i class="ic ic-afraid"></i><span class="theme-bg" aria-hidden="true"></span></span><div class="react-label">Afraid</div></button></li>
+            <li><button disabled name="subtype" value="Apathetic" class="bt-react js-react"><span><i class="ic ic-apathetic"></i><span class="theme-bg" aria-hidden="true"></span></span><div class="react-label">Don't Care</div></button></li>
+            <li><button disabled name="subtype" value="Sad" class="bt-react js-react"><span><i class="ic ic-sad"></i><span class="theme-bg" aria-hidden="true"></span></span><div class="react-label">Sad</div></button></li>
+            <li><button disabled name="subtype" value="Frustrated" class="bt-react js-react"><span><i class="ic ic-frustrated"></i><span class="theme-bg" aria-hidden="true"></span></span><div class="react-label">Frustrated</div></button></li>
+            <li><button disabled name="subtype" value="Angry" class="bt-react js-react"><span><i class="ic ic-angry"></i><span class="theme-bg" aria-hidden="true"></span></span><div class="react-label">Angry</div></button></li>
+        </ul>
+</form>    <hr class="np" id="details-shares">
+    <h2 class="title share-title sc np" data-url="https://www.vancouverisawesome.com/vancouver-news/bc-government-rolls-out-massive-effort-to-move-homeless-from-camps-in-vancouver-and-victoria-2282623" data-none="This has not been shared. Be the first!">This has been shared <span class="sc-s">0</span> <span class="sc-s-text" data-single="time">times</span></h2>
+    <ul class="nav nav-table sc sc-expanded" data-url="https://www.vancouverisawesome.com/vancouver-news/bc-government-rolls-out-massive-effort-to-move-homeless-from-camps-in-vancouver-and-victoria-2282623">
+                <li>
+                    <div class="sc-total-area">
+                        <div class="sc-s sc-total">0</div>
+                        <span class="sc-total-title">Shares</span>
+                    </div>
+                </li>
+        <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.vancouverisawesome.com%2fvancouver-news%2fbc-government-rolls-out-massive-effort-to-move-homeless-from-camps-in-vancouver-and-victoria-2282623" target="_blank" class="sm-trigger sc-item sc-item-fb noparams clearfix ga ga-ext" data-ga-category="NTG social" data-ga-action="social share" data-ga-label="facebook">
+                <i class="ic ic-facebook-w ib" aria-hidden="true"></i>
+                <div class="sc-label">Share on Facebook</div>
+            </a>
+        </li>
+        <li>
+            <a href="https://twitter.com/share?text=B.C.+government+rolls+out+massive+effort+to+move+homeless+from+camps+in+Vancouver+and+Victoria&amp;url=https%3a%2f%2fwww.vancouverisawesome.com%2fvancouver-news%2fbc-government-rolls-out-massive-effort-to-move-homeless-from-camps-in-vancouver-and-victoria-2282623&amp;via=viawesome" target="_blank" class="sm-trigger sc-item sc-item-tw noparams clearfix ga ga-ext" data-ga-category="NTG social" data-ga-action="social share" data-ga-label="twitter">
+                <i class="ic ic-twitter-w ib" aria-hidden="true"></i>
+                <div class="sc-label">Share on Twitter</div>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fwww.vancouverisawesome.com%2fvancouver-news%2fbc-government-rolls-out-massive-effort-to-move-homeless-from-camps-in-vancouver-and-victoria-2282623" target="_blank" class="sm-trigger sc-item sc-item-li noparams clearfix ga ga-ext hidden-xs" data-ga-category="NTG social" data-ga-action="social share" data-ga-label="linkedin">
+                <i class="ic ic-linkedin-w ib" aria-hidden="true"></i>
+                <div class="sc-label">Share on LinkedIn</div>
+            </a>
+        </li>
+            <li>
+                <a href="mailto:?subject=Shared%20from%20Vancouver%20Is%20Awesome%3A%20B.C.%20government%20rolls%20out%20massive%20effort%20to%20move%20homeless%20from%20camps%20in%20Vancouver%20and%20Victoria&amp;body=https%3A%2F%2Fwww.vancouverisawesome.com%2Fvancouver-news%2Fbc-government-rolls-out-massive-effort-to-move-homeless-from-camps-in-vancouver-and-victoria-2282623%3Futm_source%3DEmail_Share%26utm_medium%3DEmail_Share%26utm_campaign%3DEmail_Share%0D%0A%0D%0AAlso%3A%20be%20sure%20to%20check%20out%20all%20of%20today%27s%20latest%20news%20at%20https%3A%2F%2Fwww.vancouverisawesome.com%0D%0A%0D%0ALike%20getting%20your%20news%20by%20email%3F%20Sign%20up%20for%20our%20FREE%20headlines%2C%20sent%20to%20your%20inbox%20daily%20at%20https%3A%2F%2Fwww.vancouverisawesome.com%2Fdaily-headlines" target="_blank" class="sc-item sc-item-em noparams clearfix ga ga-ext" data-ga-category="Share" data-ga-action="Email" data-ga-label="Vancouver News">
+                    <i class="ic ic-white ic-email-o ib" aria-hidden="true"></i>
+                    <div class="sc-label">Forward by Email</div>
+                </a>
+            </li>
+                    <li>
+                <button type="button" class="sc-item sc-item-pr noparams clearfix ga visible-md" data-ga-category="Share" data-ga-action="Print" data-ga-label="Vancouver News">
+                    <i class="ic ic-print-w ib" aria-hidden="true"></i>
+                    <div class="sc-label">Print</div>
+                </button>
+            </li>
+        <li>
+            <a href="sms:?body=B.C.%20government%20rolls%20out%20massive%20effort%20to%20move%20homeless%20from%20camps%20in%20Vancouver%20and%20Victoria%20https%3a%2f%2fwww.vancouverisawesome.com%2fvancouver-news%2fbc-government-rolls-out-massive-effort-to-move-homeless-from-camps-in-vancouver-and-victoria-2282623" class="sc-item sc-item-sms noparams clearfix ga ga-ext hidden-md" data-ga-category="Share" data-ga-action="Text" data-ga-label="Vancouver News">
+                <i class="text-hide ic ic-sms-w ib">Share via Text Message</i>
+            </a>
+        </li>
+    </ul>
+    <div class="np share-support">
+        <hr>
+        <h2 class="title share-title">Is Vancouver's local news important to you?</h2>
+        <a href="/account/support/signup?utm_source=Bottom%20of%20Article&amp;utm_medium=Bottom%20of%20Article&amp;utm_campaign=Voluntary%20Pay" style="text-decoration:none">If it is, we could use your help. Consider a small monthly contribution to support your local journalists. Click here to learn more.</a>
+    </div>
+    <form class="np share-mailing" action="/account/mailinglistquick" method="post" novalidate>
+        <hr>
+        <h2 class="title share-title">Get your daily Vancouver news briefing</h2>
+        <div class="input-group">
+            <label for="share-email" class="sr-only">Email</label>
+            <input type="email" name="email" data-val="true" data-val-email="Email is invalid." data-val-required="Email is required." id="share-email" class="form-control" placeholder="Enter your email address">
+            <span class="input-group-btn">
+                <button class="btn btn-primary">Sign Up</button>
+            </span>
+        </div>
+        <span class="field-validation-valid" data-valmsg-for="email" data-valmsg-replace="true"></span>
+    </form>
+<div class="details-related np">
+    <hr>
+        <h2 class="title mb-0">More Vancouver News</h2>
+        <div class="section-table">
+
+    <a href="/vancouver-news/north-shore-libraries-tablets-phones-2283413" class="section-item section-tr section-tr-bordered ga" data-ga-category="MoreContentLink" data-ga-action="Click" data-ga-label="Vancouver News">
+        <div class="section-td section-item-bordered" style="width:130px">
+            <img alt="North Shore libraries distributing tablets and phones to those in need" class="lazyimg " data-src="https://www.vmcdn.ca/f/files/via/west-vancouver-telus-libraries-tablets-pic-1.jpg;w=120" src="/images/blank.gif">
+        </div>
+        <div class="section-td section-item-bordered">
+            North Shore libraries distributing tablets and phones to those in need
+            <div class="section-intro">    <time class="timeago" datetime="2020-04-26T03:30:00.0000000Z">Apr 25, 2020 8:30 PM</time>
+</div>
+        </div>
+    </a>
+    <a href="/vancouver-news/need-help-army-volunteer-workers-2283356" class="section-item section-tr section-tr-bordered ga" data-ga-category="MoreContentLink" data-ga-action="Click" data-ga-label="Vancouver News">
+        <div class="section-td section-item-bordered" style="width:130px">
+            <img alt="Need help? An army of volunteer workers is standing by" class="lazyimg " data-src="https://www.vmcdn.ca/f/files/via/photo-1540340061722-9293d5163008.jpeg;w=120" src="/images/blank.gif">
+        </div>
+        <div class="section-td section-item-bordered">
+            Need help? An army of volunteer workers is standing by
+            <div class="section-intro">    <time class="timeago" datetime="2020-04-26T02:39:00.0000000Z">Apr 25, 2020 7:39 PM</time>
+</div>
+        </div>
+    </a>
+    <a href="/vancouver-news/lynn-valley-home-group-of-seven-artist-painted-for-sale-photos-2283131" class="section-item section-tr section-tr-bordered ga" data-ga-category="MoreContentLink" data-ga-action="Click" data-ga-label="Vancouver News">
+        <div class="section-td section-item-bordered" style="width:130px">
+            <img alt="The Lynn Valley home where a Group of Seven artist painted famous works is up for sale [PHOTOS]" class="lazyimg " data-src="https://www.vmcdn.ca/f/files/via/rss/glacier/2020/04/varley-house.jpg;w=120" src="/images/blank.gif">
+        </div>
+        <div class="section-td section-item-bordered">
+            The Lynn Valley home where a Group of Seven artist painted famous works is up for sale [PHOTOS]
+            <div class="section-intro">    <time class="timeago" datetime="2020-04-25T21:18:00.0000000Z">Apr 25, 2020 2:18 PM</time>
+</div>
+        </div>
+    </a>
+
+        </div>
+</div>    <hr>
+    
+<div class="advs-area">
+    <div class="cat-bar cat-bar-ns clearfix">
+        <div class="cat-title">
+            <span class="title">Comments</span> <span class="badge hidden" id="comments-count"></span>
+        </div>
+        <ul class="nav nav-table np">
+            <li>
+                <button class="btn btn-default btn-sm hidden" type="button" id="comments-sort" data-sort="Oldest">Sort <i class="caret" id="comments-sort-arrow"></i></button>
+                <ul class="btn-dd hidden" id="comments-sorts">
+                    <li>
+                        <a href="#" data-sort="Oldest" class="sort-active">Oldest</a>
+                        <a href="#" data-sort="Newest">Newest</a>
+                    </li>
+                </ul>
+            </li>
+            <li><button class="btn btn-primary btn-sm hidden" type="button" id="comments-post">Post <span class="hidden-xs">Comment</span></button></li>
+                <li><button class="btn btn-primary btn-sm ga" id="comments-show" data-count-endpoint="/comments/count/2282623?tagType=Content&amp;disableGlobal=False" data-ga-category="Comments" data-ga-action="Show" data-ga-label="B.C. government rolls out massive effort to move homeless from camps in Vancouver and Victoria">Show</button></li>
+        </ul>
+    </div>
+</div>
+<small id="comments-disclaimer" class="ib hidden">We welcome your feedback and encourage you to share your thoughts on this story. We ask that you be respectful of others and their points of view, refrain from personal attacks and stay on topic. To learn about our commenting policies and how we moderate, please read our <a href="/community-guidelines" rel="nofollow">Community Guidelines</a>.</small>
+<div id="comments-loader" data-storagesuffix="Content_2282623" data-endpoint="/comments/load?Type=Comment&amp;ContentId=2282623&amp;ContentTitle=B.C.%20government%20rolls%20out%20massive%20effort%20to%20move%20homeless%20from%20camps%20in%20Vancouver%20and%20Victoria&amp;TagId=174596&amp;TagType=Content&amp;Sort=Oldest&amp;DisableGlobal=False&amp;Cs=058C&amp;DateLoaded=04%2F27%2F2020%2011%3A07%3A52&amp;Mod=False" data-success="VM.Comments.onFormLoaded" data-modal-endpoint="/account/modal?Title=Sign%20in%20or%20register&amp;InfoTitle=Your%20comment%20or%20vote%20will%20be%20added%20after%20you%20sign%20in%20or%20register.&amp;ReturnUrl=%2Fvancouver-news%2Fbc-government-rolls-out-massive-effort-to-move-homeless-from-camps-in-vancouver-and-victoria-2282623&amp;ModalOpenedCallback=VM.Comments.onAccountModalOpened&amp;LoginSuccessCallback=VM.Comments.onLoginSuccess&amp;RegisterSuccessCallback=VM.Comments.onRegisteredSuccess&amp;RegisterPartialSuccessCallback=VM.Comments.onRegisteredPartialSuccess"></div>    </div>
+</div>
+
+    </section>
+    <aside class="col-md-4">
+
+
+<div class="widget-area widget-area-side" data-tagid="174596" data-contentid="2282623" data-layout="Side" data-span="4" data-key="">
+            <div class="widget-area-row">
+                    <div class="widget-area-col" data-span="12">
+
+<div class="widget widget-dfp widget-dfp-null " data-id="179496" data-lazy="false" data-widget="3" data-per="" data-min="">
+    <div class="slot slot-widget">
+        <span id="slot-8f0ca1a8">
+            <script>
+            googletag.cmd.push(function () {
+                var slot = googletag.defineSlot('/4326737/atex_LMP_site_section_subsection_1to2_S1_RON_GNG-network', [[300, 300], [300, 600], [300, 250]], 'slot-8f0ca1a8').addService(googletag.pubads());
+                                        VMslots.push(slot);
+                googletag.display('slot-8f0ca1a8');
+            });
+            </script>
+        </span>
+    </div>
+</div>
+<div class="widget widget-poll theme-blue" data-id="179497" data-widget="2">
+    <h2 class="section-heading theme-border underlined poll-maintitle">Today&#39;s Poll</h2>
+        <div class="poll theme-border">
+            
+<form action="/polls/vote" method="post">                <fieldset>
+                    <legend class="section-title-m title legend-plain">What&#39;s one thing you WON&#39;T do during COVID-19 isolation?</legend>
+                                            <label><input data-val="true" data-val-number="The field SelectedOption must be a number." data-val-required="Please select an option" name="PollViewModel.SelectedOption" type="radio" value="60741" /> Cut my partner&#39;s hair</label>
+                        <label><input name="PollViewModel.SelectedOption" type="radio" value="60742" /> Stop scrolling</label>
+                        <label><input name="PollViewModel.SelectedOption" type="radio" value="60743" /> Leave the house</label>
+                        <label><input name="PollViewModel.SelectedOption" type="radio" value="60744" /> Perform self chiropractic</label>
+                        <label><input name="PollViewModel.SelectedOption" type="radio" value="60745" /> Vote in silly online polls</label>
+                        <label><input name="PollViewModel.SelectedOption" type="radio" value="60746" /> Stop watching the news</label>
+                        <label><input name="PollViewModel.SelectedOption" type="radio" value="60747" /> Stand closer than 2m to a stranger</label>
+                        <label><input name="PollViewModel.SelectedOption" type="radio" value="60748" /> Stop believing</label>
+                        <label><input name="PollViewModel.SelectedOption" type="radio" value="60749" /> Wear pants</label>
+                        <label><input name="PollViewModel.SelectedOption" type="radio" value="60750" /> Attend a Zoom meeting</label>
+                        <label><input name="PollViewModel.SelectedOption" type="radio" value="60751" /> Give up</label>
+                    <span class="field-validation-valid" data-valmsg-for="PollViewModel.SelectedOption" data-valmsg-replace="true"></span>
+                    <p class="poll-btns">
+                        <button class="btn btn-primary">Vote</button><a class="btn btn-muted" href="/polls/whats-one-thing-you-wont-do-during-covid-19-isolation-15996">Results &gt;</a><a class="btn btn-muted" href="/polls">Archives &gt;</a>
+                    </p>
+                    <input class="poll-extra" id="PollViewModel_ExtraData" name="PollViewModel.ExtraData" type="hidden" value="" />
+                    <input name="__RequestVerificationToken" type="hidden" value="RSAh0tD8HDtcFpawmcW68mkkOkGlHV91x_qwfzO_T7OaO-phQvK03Hb5fdMvl-1pTqI1Xe6H4QAUmXFbQc7H_1h1vuX8R3WHf3dxipE20QI1" />
+                </fieldset>
+</form>        </div>
+</div>
+<div class="widget widget-dfp widget-dfp-null " data-id="179498" data-lazy="false" data-widget="3" data-per="" data-min="">
+    <div class="slot slot-widget">
+        <span id="slot-2f08b24b">
+            <script>
+            googletag.cmd.push(function () {
+                var slot = googletag.defineSlot('/4326737/atex_LMP_site_section_subsection_1to1_S1_RON_GNG-network', [[300, 300], [300, 250]], 'slot-2f08b24b').addService(googletag.pubads());
+                                        VMslots.push(slot);
+                googletag.display('slot-2f08b24b');
+            });
+            </script>
+        </span>
+    </div>
+</div><div class="widget widget-lazy" data-id="179499" data-widget="26"></div>
+<div class="widget widget-dfp widget-dfp-bbd2Mapping " data-id="179500" data-lazy="false" data-widget="3" data-per="" data-min="">
+    <div class="slot slot-widget">
+        <span id="slot-a52c5bbf">
+            <script>
+            googletag.cmd.push(function () {
+                var slot = googletag.defineSlot('/4326737/atex_LMP_site_section_subsection_1to1_S2_RON_GNG-network', [[300, 300], [300, 250]], 'slot-a52c5bbf').defineSizeMapping(bbd2Mapping).addService(googletag.pubads());
+                                        VMslots.push(slot);
+                googletag.display('slot-a52c5bbf');
+            });
+            </script>
+        </span>
+    </div>
+</div>
+<div class="widget widget-dfp widget-dfp-null widget-inject widget-inject-centre " data-id="179501" data-lazy="false" data-widget="3" data-per="100" data-min="0">
+    <div class="slot slot-widget">
+        <span id="slot-8088a53e">
+            <script>
+            googletag.cmd.push(function () {
+                var slot = googletag.defineSlot('/4326737/atex_LMP_site_section_subsection_6to1_S1_RON_GNG-network', [[600, 100], [400, 67], [300, 50]], 'slot-8088a53e').addService(googletag.pubads());
+                                        VMinjects['slot-8088a53e'] = slot;
+                googletag.display('slot-8088a53e');
+            });
+            </script>
+        </span>
+    </div>
+</div>                    </div>
+            </div>
+</div>
+
+    </aside>
+</div>
+
+
+        </div>
+        
+
+    <div class="wrap theme-blue"></div>
+
+        
+    </div>
+    <footer>
+        <div id="footer-top" class="theme-bg">
+            <div class="container ft-social">
+                <ul class="nav nav-social-ft">
+                        <li class="ib"><a href="https://www.facebook.com/VancouverIsAwesome" target="_blank" rel="noopener" title="Facebook"><i class="ic ic-facebook-w"></i></a></li>
+                                            <li class="ib"><a href="https://twitter.com/viawesome" target="_blank" rel="noopener" title="Twitter"><i class="ic ic-twitter-w"></i></a></li>
+                                            <li class="ib"><a href="https://www.instagram.com/viawesome/" target="_blank" rel="noopener" title="Instagram"><i class="ic ic-instagram-w"></i></a></li>
+                                            <li class="ib"><a href="https://www.youtube.com/channel/UCgl5g_dZjWrF4P__enMX5PQ" target="_blank" rel="noopener" title="YouTube"><i class="ic ic-youtube-w"></i></a></li>
+                                    </ul>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+    <ul class="nav nav-footer nav-footer-nested">
+                    <li class=" children nav-0 theme-blue m-expanded">
+                <a class="m-expanded navitem" href="/vancouver-news">News</a>
+                    <div class="subnav-container">
+                        <div class="subnav-wrap">
+                            <ul class="nav subnav">
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/vancouver-news">Vancouver News</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/bc-news">B.C. News</a></li>
+                                    <li class="nav-1"><a class="navitem" href="/coronavirus-covid-19-information">Covid-19</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/national-news">National News</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/opinion">Opinion</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/politics">Politics</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/transportation">Transportation</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/real-estate">Real Estate</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/business">Business</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/national-sports">National Sports</a></li>
+                                    <li class="nav-1"><a class="navitem" href="/national-business">National Business</a></li>
+                                    <li class="nav-1"><a class="navitem" href="/world-news">World News</a></li>
+                                    <li class="nav-1"><a class="navitem" href="https://issuu.com/vancouverisawesome" target="_blank">This Week&#39;s Newspaper</a></li>
+                                                                    <li class="nav-1 m-more"><a href="#" class="navitem">View more ...</a></li>
+                            </ul>
+                        </div>
+                    </div>
+            </li>
+            <li class="nav-0 theme-blue m-expanded">
+                <a class="m-expanded navitem" href="/weather">Weather</a>
+            </li>
+            <li class=" children nav-0 theme-blue m-expanded">
+                <span class="m-expanded navitem">Features</span>
+                    <div class="subnav-container">
+                        <div class="subnav-wrap">
+                            <ul class="nav subnav">
+                                    <li class="nav-1"><a class="navitem" href="/video">Videos</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/food-and-drink">Food and Drink</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/events-and-entertainment">Events and Entertainment</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/local-events">Event Calendar</a></li>
+                                    <li class="nav-1"><a class="navitem" href="/canucks-hockey">Canucks Hockey</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/history">History</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/sponsored">Sponsored</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/travel">Travel</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/outdoors">Outdoors</a></li>
+                                    <li class="nav-1"><a class="m-expanded navitem" href="/animals">Animals</a></li>
+                                    <li class="nav-1"><a class="navitem" href="/horoscopes">Horoscopes</a></li>
+                                    <li class="nav-1"><a class="navitem" href="/gas-prices">Gas Prices</a></li>
+                                    <li class="nav-1"><a class="navitem" href="/crosswords">Crosswords</a></li>
+                                                                    <li class="nav-1 m-more"><a href="#" class="navitem">View more ...</a></li>
+                            </ul>
+                        </div>
+                    </div>
+            </li>
+            <li class="nav-0 theme-blue m-expanded">
+                <a class="m-expanded navitem" href="/contests">Contests</a>
+            </li>
+            <li class="nav-0 theme-blue m-expanded">
+                <a class="m-expanded navitem" href="/account/mailinglist">Newsletters</a>
+            </li>
+            <li class="nav-0 theme-blue">
+                <a class="navitem" href="http://classifieds.vancourier.com/">Classifieds</a>
+            </li>
+            <li class="nav-0 theme-blue">
+                <a class="navitem" href="https://bcisawesome.com/" target="_blank">Shop</a>
+            </li>
+            <li class="nav-0 theme-blue">
+                <a class="navitem" href="https://www.vancouverisawesome.com/account/support/signup">Support Local News</a>
+            </li>
+    </ul>
+
+                </div>
+                <div class="col-sm-3">
+                    <div class="footer-title">About</div>
+                    <ul class="nav nav-footer">
+        <li><a class="navitem" href="/other/about">About Us</a></li>
+        <li><a class="navitem" href="/other/contact-us">Contact Us</a></li>
+        <li><a class="navitem" href="/other/policies-terms-and-conditions">Policies, Terms and Conditions</a></li>
+
+                    </ul>
+                </div>
+                <div class="col-sm-3">
+                    <a href="https://www.glaciermedia.ca/" target="_blank" rel="noopener"><img src="/images/blank.gif" class="ft-logo lazyimg" style="height:33px" data-src="https://www.vmcdn.ca/files/ui/glacier/glacier-media-group_w.svg" alt="Glacier Media Group"></a>
+                    <b>Visit our network of sites:</b>
+                    <ul class="nav nav-footer">
+                        <li><a href="http://www.vancourier.com/" class="navitem">Vancouver Courier</a></li>
+                        <li><a href="http://www.burnabynow.com/" class="navitem">Burnaby Now</a></li>
+                        <li><a href="http://www.nsnews.com/" class="navitem">North Shore News</a></li>
+                        <li><a href="http://www.richmond-news.com/" class="navitem">Richmond News</a></li>
+                        <li><a href="http://www.tricitynews.com/" class="navitem">TriCity News</a></li>
+                        <li><a href="http://www.newwestrecord.ca/" class="navitem">New West Record</a></li>
+                        <li><a href="https://biv.com/" class="navitem">Business in Vancouver</a></li>
+                        <li><a href="http://www.delta-optimist.com/" class="navitem">Delta Optimist</a></li>
+                        <li><a href="https://www.castanet.net/" class="navitem">Castanet</a></li>
+                        <li><a href="http://www.timescolonist.com/" class="navitem">Times Colonist</a></li>
+                        <li><a href="http://www.princegeorgecitizen.com/" class="navitem">Prince George Citizen</a></li>
+                        <li><a href="http://www.alaskahighwaynews.ca/" class="navitem">Alaska Highway News</a></li>
+                        <li><a href="http://www.dawsoncreekmirror.ca/" class="navitem">Dawson Creek Mirror</a></li>
+                        <li><a href="https://www.kamloopsmatters.com/" class="navitem">Kamloops Matters</a></li>
+                        <li><a href="https://www.princegeorgematters.com/" class="navitem">Prince George Matters</a></li>
+                        <li><a href="https://www.rew.ca/" class="navitem">REW.ca</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div id="footer-bottom">
+            <div class="container">
+                <p class="pull-left">Glacier Media Digital</p>
+                <p class="pull-right">&copy; 2020 Vancouver Is Awesome</p>
+            </div>
+        </div>
+    </footer>
+    
+    
+    
+
+
+    <noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=12982857&cv=2.0&cj=1" alt=""></noscript>
+    <script src="/jsb/template?v=qzZQ2zhW3U7Q-bo8WUZ5JSZo_FQ8TPipCZNrDCHkK8c1"></script>
+
+    <script>VM.Track.gaSource = "Vancouver Is Awesome";VM.Track.siteId = 34;</script>
+    
+    
+<script src="/jsb/content?v=d4wtCP2TkiApNkNfXYSUFNFUjDiBFsYAV_WYsFp5cGs1"></script>
+
+
+
+    <script>
+var pageInfo = {
+	article: true,
+	post_id: 1234,
+	post_type: story,
+	taxonomies: { },
+	url: window.location.href
+};
+
+window.pico('visit', pageInfo);
+</script>
+    
+    
+    <div class="slot-pixel slot"><span id='slot-766'></span></div>
+    <div class="slot-footer slot"><span id='slot-909'></span></div>
+        <script>googletag.cmd.push(function () { googletag.enableServices(); googletag.pubads().refresh(VMslots); });</script>
+    
+    
+      
+
+</body>
+</html>

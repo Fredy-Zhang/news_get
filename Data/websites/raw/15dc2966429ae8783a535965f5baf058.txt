@@ -1,0 +1,4244 @@
+                      <!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7" ng-app="myApp"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie10 lt-ie9 lt-ie8" ng-app="myApp"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie10 lt-ie9" ng-app="myApp"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js lt-ie10" ng-app="myApp"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" ng-app="myApp"> <!--<![endif]-->
+
+
+    <head ng-controller="bmAd">
+
+  <meta name="google-site-verification" content="zWd3GBob8xHwHzdHykjyZghrk4nEAPISbQKZaSyEpcs" />
+  <meta http-equiv="X-UA-Compatible" content="text/html, charset=UTF-8, IE=edge, chrome=1">
+  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+        <link rel="shortcut icon" type="image/x-icon" href="/img/bnn/icons/favicon.ico?v2">
+    <link rel="apple-touch-icon" href="/img/bnn/icons/apple-touch-icon.png?v2">
+    <link rel="apple-touch-icon" href="/img/bnn/icons/apple-touch-icon-57x57.png?v2" sizes="57x57">
+    <link rel="apple-touch-icon" href="/img/bnn/icons/apple-touch-icon-60x60.png?v2" sizes="60x60">
+    <link rel="apple-touch-icon" href="/img/bnn/icons/apple-touch-icon-72x72.png?v2" sizes="72x72">
+    <link rel="apple-touch-icon" href="/img/bnn/icons/apple-touch-icon-76x76.png?v2" sizes="76x76">
+    <link rel="apple-touch-icon" href="/img/bnn/icons/apple-touch-icon-114x114.png?v2" sizes="114x114">
+    <link rel="apple-touch-icon" href="/img/bnn/icons/apple-touch-icon-120x120.png?v2" sizes="120x120">
+    <link rel="apple-touch-icon" href="/img/bnn/icons/apple-touch-icon-144x144.png?v2" sizes="144x144">
+    <link rel="apple-touch-icon" href="/img/bnn/icons/apple-touch-icon-152x152.png?v2" sizes="152x152">
+    <link rel="apple-touch-icon" href="/img/bnn/icons/apple-touch-icon-180x180.png?v2" sizes="180x180">
+  
+  <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, width=device-width, user-scalable = no">
+
+    
+  
+    
+    
+  
+  
+  
+
+  <!-- General OG meta tags -->
+    <meta property="og:url" content="https://www.bnnbloomberg.ca/germany-s-most-important-river-is-drying-out-1.1427200"/>
+  <meta property="og:site_name" content="BNN"/>
+
+  
+  
+      
+        
+            
+        
+            
+              
+        
+            
+                    
+    
+        
+    
+    
+                                                                                                                                                                                                                                                                        
+                <!-- General meta tags -->
+        <meta property="title" content="Germany&rsquo;s Most Important River Is Drying Out - BNN Bloomberg"/>
+        <meta property="description" content="Germany&rsquo;s spring showers haven&rsquo;t materialized this year, and that&rsquo;s drying out Germany&rsquo;s most important river, prompting concerns that key industrial goods might have trouble making it to their destination.Typically one of the wettest months, Europe&rsquo;s biggest economy has received just 5% of its normal April rainfall so far, according to Germany&rsquo;s federal weather service. It&rsquo;s on course to be the driest month since records began in 1881."/>
+        <meta property="keywords" content="Commodities, Bloomberg, Company News, Investing"/>
+        <!-- Page specific OG tags -->
+        <meta property="og:title" content="Germany&rsquo;s Most Important River Is Drying Out - BNN Bloomberg"/>
+        <meta property="og:description" content="Germany&rsquo;s spring showers haven&rsquo;t materialized this year, and that&rsquo;s drying out Germany&rsquo;s most important river, prompting concerns that key industrial goods might have trouble making it to their destination.Typically one of the wettest months, Europe&rsquo;s biggest economy has received just 5% of its normal April rainfall so far, according to Germany&rsquo;s federal weather service. It&rsquo;s on course to be the driest month since records began in 1881."/>
+        <meta property="og:image" content="http://www.bnnbloomberg.ca/img/tsn/logos/tsn-logo.png"/>
+        <meta property="og:type" content="article"/>
+        <meta property="article:published_time" content="2020-04-26T01:19:08-04:00"/>
+        <meta property="article:author" content="Bloomberg News"/>
+                                                    <meta property="article:section" content="Commodities"/>
+                                                <meta property="article:tag" content="Bloomberg"/>
+                                                <meta property="article:tag" content="Company News"/>
+                                                <meta property="article:tag" content="Investing"/>
+                    
+    <script>
+        window.contentSpecificAd = "";
+    </script>
+
+        <!-- End of meta tags -->
+
+        <meta name="robots" content="index, follow" />
+      <meta name="robots" content="ACAP allow-index" />
+  
+                            
+                <script>
+      var isArticle = true;
+    </script>
+  
+        <title>Germany’s Most Important River Is Drying Out - BNN Bloomberg</title>
+
+  
+                	<link rel="stylesheet" href="/css/bnn-bloomberg/style.css?v1585316852">
+      
+    
+
+  
+  <script>
+  //Fix to add in IE generic stylesheet
+  if (/*@cc_on!@*/false) {
+    var head = document.head,
+        link = document.createElement('link');
+
+        link.type = 'text/css';
+        link.rel = 'stylesheet';
+        link.href = '/css/style-ie.css?v1585316852';
+
+    if (head) {
+      head.appendChild(link);
+    }
+  }
+  </script>
+
+  <script>
+    var logo = {
+      retina: window.devicePixelRatio
+    }
+
+    var gigyaLoaded = false;
+  </script>
+
+  <!--[if IE]>
+  	  	<link rel="stylesheet" href="/css/common/style-ie.css?v1585316852">
+    <![endif]-->
+  <!--[if IE 9]>
+  	  	<link rel="stylesheet" href="/css/common/style-ie9.css?v1585316852">
+    <![endif]-->
+  <!--[if IE 8]>
+  	  	<link rel="stylesheet" href="/css/common/style-ie8.css?v1585316852">
+    <![endif]-->
+  <!--[if IE 7]>
+  	  	<link rel="stylesheet" href="/css/common/style-ie7.css?v1585316852">
+    <![endif]-->
+  <!--[if IE 6]>
+  	  	<link rel="stylesheet" href="/css/common/style-ie7.css?v1585316852">
+    <![endif]-->
+
+  <!--[if lt IE 9]>
+     	<script type="text/javascript" src="/js/bellmedia/vendor/selectivizr/selectivizr-min.js?v1585316852"></script>
+    <![endif]-->
+
+              	<script type="text/javascript" src="/js/bellmedia/vendor/jquery/jquery.min.js?v1585316852"></script>
+      
+    	<script type="text/javascript" src="/js/bellmedia/vendor/jquery/jquery-ui-1.10.4.custom.min.js?v1585316852"></script>
+      	<script type="text/javascript" src="/js/bellmedia/vendor/jquery/jquery.ui.touch-punch.min.js?v1585316852"></script>
+  
+
+  
+
+    <script type="text/javascript">
+
+        //setting up default variable in case this value never gets set in production
+        var defaultAuthBrand;
+        if('' == "bnn"){
+            defaultAuthBrand = 'bnn';
+        }else{
+            defaultAuthBrand = 'bnn';
+        }
+
+        window.siteConfig = {
+            brand: 'bnn',
+
+            // Video Player Configs
+            videoPlayerConfig: {
+                axisBaseUrl: 'https://capi.9c9media.com',
+                axisDestCode: 'bnn_web',
+                playerJSONDefaultPath: 'bnn/autoplay-on.json',
+                playerJSONAutoPlayOffPath: 'bnn/autoplay-off.json',
+                localStorageEnabled: 'true',
+                authEnvironment: 'prod',
+                authBrand: defaultAuthBrand,
+                isFlashDetectionEnabled: false,
+                flashDetectionMessage: ''
+            },
+
+            // Ads Config
+            adsConfig: {
+                adSite: 'ctv.bnn',
+                kruxId: 'InSaVlLc',
+                bigboxPosition: ''
+            },
+
+            // Gigya Config
+            gigyaConfig: {
+                gigyaApiKey: '3_XLe6j4XtKn0CRHynAmTCyx8RZxX1brcJGNNjgzFIuFKCAqvkD4HVYHMykJ5z969V',
+                regSource: 'beta.bnn.ca'
+            },
+
+                            //Publishflow Config
+                publishflowConfig :{
+                    publishFlowURL: 'https://api.chartbeat.com/live/toppages/v3/?apikey=e68e1f48fc3bf3e7da5097e128e5b17b&host=bnnbloomberg.ca&limit=10&section=&sort_by=new&all_platforms=desktop&types=article',
+                    publishFlowUID: '65778',
+                    publishFlowDomain: 'bnnbloomberg.ca',
+                    publishFlowHost: 'bnnbloomberg.ca',
+                    publishFlowDefaultVideoPath: 'video'
+                },
+            
+            // Tracking Config
+            trackingConfig: {
+                trackAccount: 'ctvgmdefault',
+                trackAuthUrl: '//cauth.9c9media.com/auth9/axisAuthApi.js',
+                trackDestinationCode: 'bnn_web',
+                trackGlobalSuites: 'ctvgmtvebnnglobalsuite',
+                trackSiteAccount: 'ctvgmtvebnndesktop',
+                trackSiteId: 'bnn',
+                trackVersion: ''
+            }
+        };
+
+
+    </script>
+
+        <script type="text/javascript">
+        window.sportSection = '';
+                                                                                                                                                            window.sportSection = 'Commodities';
+                                                                                                                                                                                                                                                                                                                                                                                                        
+        //Load Auth9 Api call
+        window.axisAuthApi_pageCfg = {
+            destinationCode: window.siteConfig.videoPlayerConfig.axisDestCode,
+            id: window.siteConfig.brand.toUpperCase()
+        };
+    </script>
+
+
+          	<script type="text/javascript" src="https://webapps.9c9media.com/vidi-player/1.5.x/js/player.js"></script>
+  
+  <!--[if lt IE 9]>
+      	<script type="text/javascript" src="/js/bellmedia/vendor/html5shiv/html5shiv.min.js?v1585316852"></script>
+    <![endif]-->
+
+        
+        <link rel="canonical" href="http://www.bnnbloomberg.ca/germany-s-most-important-river-is-drying-out-1.1427200" />
+  
+    
+  
+    
+
+    <script>
+    //Ad zones variables
+    var adSite = "ctv.bnn";
+    var adZone = "Commodities";
+    var subPage = "Article";
+    var kruxId = "InSaVlLc";
+  </script>
+
+    
+  
+  
+    <script>
+    //Ad zone variable for deeper nested pages (Game Pages, Team Pages, Player Pages)
+    var subPageType = "";
+  </script>
+    
+            <!-- Permutive Scripts ::Starts -->
+        <script>  !function (n, e, o, r, i) {
+            if (!e) {
+                e = e || {}, window.permutive = e, e.q = [], e.config = i || {}, e.config.projectId = o, e.config.apiKey = r, e.config.environment = e.config.environment || "production";
+                for (var t = ["addon", "identify", "track", "trigger", "query", "segment", "segments", "ready", "on", "once", "user", "consent"], c = 0; c < t.length; c++) {
+                    var f = t[c];
+                    e[f] = function (n) {
+                        return function () {
+                            var o = Array.prototype.slice.call(arguments, 0);
+                            e.q.push({functionName: n, arguments: o})
+                        }
+                    }(f)
+                }
+            }
+        }(document, window.permutive, "289d106c-df24-4cd9-a9fa-753e928c23ad", "b1a4360a-3db9-4b39-b09d-c3e14666840a", {});
+        window.googletag = window.googletag || {}, window.googletag.cmd = window.googletag.cmd || [], window.googletag.cmd.push(function () {
+            if (0 === window.googletag.pubads().getTargeting("permutive").length) {
+                var g = window.localStorage.getItem("_pdfps");
+                window.googletag.pubads().setTargeting("permutive", g ? JSON.parse(g) : [])
+            }
+        });
+        permutive.addon('web', {})
+        </script>
+        <script async src="https://cdn.permutive.com/289d106c-df24-4cd9-a9fa-753e928c23ad-web.js"></script>
+        <!-- Permutive Scripts ::Ends-->
+    
+  <!-- Google Ad Script -->
+      	<script type="text/javascript" src="/js/bellmedia/beacon.min.js?v1585316852"></script>
+    <script type="text/javascript">
+    var sraEnabled = true;
+
+    var gptadslots = [];
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+      var gads = document.createElement('script');
+      gads.async = true; gads.type = 'text/javascript';
+      var useSSL = 'https:' == document.location.protocol;
+      gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+      var node = document.getElementsByTagName('script')[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+
+
+      </script>
+
+    <script type="text/javascript" src="//js-sec.indexww.com/ht/p/183816-157675210059039.js"></script>
+
+  <script type="text/javascript">
+     googletag.cmd.push(function() {
+        if (typeof window.headertag === 'undefined' ||
+           window.headertag.apiReady !== true) {
+           window.headertag = googletag;
+        }
+     });
+     //Init Krux
+    var kruxLoaded = false;
+
+    //This sets the adzone
+
+    //Content Specific Ad
+    if ((typeof window.contentSpecificAd !== 'undefined') && (window.contentSpecificAd !== "")) {
+        var adpg = window.contentSpecificAd;
+    }
+
+    //Homepage reset
+    //Checks for null values or generic landing pages
+    else if(adZone == "") 
+    {
+        adZone = "home";
+        subPage = "";
+        subPageType = "";
+
+        var adpg = adZone;
+    }
+    else if(adZone == "Subject Landing Page")
+    {
+        adZone = "home";
+        subPage = "";
+        subPageType = "";
+
+        var adpg = adZone;
+    }
+    else if(adZone == "Results Page")
+    {
+        adZone = "home";
+        subPage = "";
+        subPageType = "";
+
+        var adpg = adZone;
+    }
+    else if(adZone == "Video Playlist")
+    {
+        adZone = "home";
+        subPage = "";
+        subPageType = "";
+
+        var adpg = adZone;
+    } else {        
+        // If subpage exists
+        if(subPage != ""){
+            subPage = "/"+subPage;
+
+            if(adZone == "Radio"){
+                if(subPageType == ""){
+                    subPage = subPage+"/home";
+                }
+            }
+
+        } else {
+            // Otherwise if it's not the article pages then it's the homepage
+            if(adZone == "TV" || adZone == "Watch" || adZone == "Live") {
+                subPage = "";
+            } else if (adZone !== "Article") {
+                subPage = "/home";                
+            } 
+        }
+
+        //Adds second level sub page (Game Pages, Team Pages, Player Pages)
+        if(subPageType != ""){
+            subPageType = "/"+subPageType;
+        }
+
+        //Sets ad zone variable
+        if(adZone == "" || adZone == undefined){
+            adZone = "home";
+            var adpg = adZone;
+        } else {
+            var adpg = adZone+subPage+subPageType; 
+        }  
+    }
+
+    //Replace anything other than digits, word characters, underscores, and forward slashes with underscores
+    adpg = adpg.replace(/[^\w\/]/gi, '_');
+
+    //Ad Variables
+    var ad1 = {
+        adunit: "/5479/" + adSite + "/" + adpg,
+        size: "[728,90],[970,90],[970,250]",
+        divid: "leaderboard-ad",
+        slot: 1
+
+    },
+
+        ad2 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[300,250],[300,600],[300,1050]",
+            divid: "bigbox-ad",
+            slot: 2
+
+        },
+
+        ad3 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[160,600]",
+            divid: "vertical-ad",
+            slot: 3
+
+        },
+
+        ad4 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[1000,250]",
+            divid: "billboard-ad",
+            slot: 1
+
+        },
+        oopad = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            divid: "Adoop",
+            slot: 4
+        },
+        ad5 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[320,50]",
+            divid: "leaderboard-ad",
+            slot: 1
+        },
+        ad6 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[1000,45]",
+            divid: "small-billboard-ad",
+            slot: 1
+
+        },
+        ad7 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[180,40]",
+            divid: "nav-ad",
+            slot: 5
+
+        },
+        ad8 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[728,90],[970,90],[970,250]",
+            divid: "apple-leaderboard-ad",
+            slot: 1
+
+        },
+                ad9 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[300,250],[300,600],[300,1050]",
+            divid: "second-bigbox-ad",
+            slot: 2
+
+        },
+                scad = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[30,1]",
+            divid: "adSlimCut",
+            slot: 1
+        },
+        ad10 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[85,24]",
+            divid: "scoreboard-ad",
+            slot: 6
+
+        },
+        ad11 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[100,30]",
+            divid: "ticker-ad",
+            slot: 7
+        },
+        ad12 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[300,100]",
+            divid: "currency-converter-ad",
+            slot: 8
+        },
+        ad13 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[300,250],[300,600],\"fluid\"",
+            divid: "fluid-ad",
+            slot: 2
+        };
+        // //Desktop View
+        if(kruxLoaded == false){
+          krux();
+        }
+
+
+    //Krux Function
+    function krux() {
+        window.Krux || ((Krux = function() {
+            Krux.q.push(arguments)
+        }).q = []);
+        (function() {
+            var k = document.createElement('script');
+            k.type = 'text/javascript';
+            k.async = true;
+            var m, src = (m = location.href.match(/\bkxsrc=([^&]+)/)) && decodeURIComponent(m[1]);
+            k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+                (location.protocol === "https:" ? "https:" : "http:") + "//cdn.krxd.net/controltag?confid=" + kruxId;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(k, s);
+        }());
+
+        window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+            (function(){
+            function retrieve(n){
+            var m, k='kx'+n; 
+            if (window.localStorage){
+            return window.localStorage[k] || "";
+            } else if (navigator.cookieEnabled) {
+            m = document.cookie.match(k+'=([^;]*)');
+            return (m && unescape(m[1])) || "";
+            }   else {
+                    return '';
+                    }
+            }
+            Krux.user = retrieve('user');
+            Krux.segments = retrieve('segs') ? retrieve('segs').split(',') : []; 
+        // DFP Premium Interchange 
+            var dfpp = []; 
+            if (Krux.user) {
+            dfpp.push('u=' + Krux.user);
+            }
+            for (var i = 0; i < Krux.segments.length; i++ )
+            {
+            dfpp.push('ksgmnt=' + Krux.segments[i]);
+            }
+
+            Krux.dfppKeyValues = dfpp.length ? dfpp.join(';') + ';' : ''; })();
+
+            kruxLoaded = true;
+    }
+
+    var homepage = true;
+    var section = "Commodities";
+    if(section != ""){
+      homepage = false;
+    }
+    
+  </script>
+
+
+              	<script type="text/javascript" src="/js/bellmedia/tracking.min.js?v1585316852"></script>
+        <script type="text/javascript">
+    (function() {
+    /** CONFIGURATION START **/
+      var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+      _sf_async_config.uid = window.siteConfig.publishflowConfig.publishFlowUID;
+      _sf_async_config.domain = window.siteConfig.publishflowConfig.publishFlowDomain;
+      _sf_async_config.flickerControl = false;
+      _sf_async_config.useCanonical = true;
+      _sf_async_config.useCanonicalDomain = true;
+      /** CONFIGURATION END **/
+    })();
+  </script>
+  <script async="true" src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+
+</head>
+        <body>
+                                  <div id="fb-root"></div>
+            <script>(function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return;
+              js = d.createElement(s); js.id = id;
+              js.src = '//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6';
+              fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+                
+    <div class="top-container">
+      <div class="main-header">
+        <div class='scoreboard-wrapper'>
+          
+                  
+    
+  
+    
+  
+  
+              </div>
+        <div class='site-header-background'>
+          <div class="site-header">
+            
+                  
+    
+  
+    
+  
+    
+    
+        
+
+  
+  
+    <script>
+    window.searchSections = [
+                  "investing"
+                  , "personal finance"
+                  , "real estate"
+                  , "company news"
+                  , "commodities"
+                  , "economics"
+                  , "politics"
+                  , "technology"
+                  , "bloomberg news wire "
+                  , "opinion"
+                  , "etfs"
+                  , "executive"
+                  , "pursuits"
+                  , "international"
+                  , "market call"
+                  , "market call tonight"
+                  , "schedule"
+                  , "bnn bloomberg advisor"
+                ];
+  </script>
+
+      
+  
+        <script>
+      var reutersSearchObj = {
+          webApiUrl: "//data.bnn.ca/dispenser/hydra/dapi/static/search?s=%s&temp=fix"
+      } 
+    </script>
+  
+
+                  
+      <div class="global-search-element" ng-controller="Search">
+          <div class="site-header-search">
+      <div class="search-form-item">
+        <form class='search-form' action="/search/bnn-search-7.337157" method="get">
+                        <input bm-autofill class='search-field' type="text" name="q" value="Enter symbol or company" container="search-autocomplete-container"  callback-fn="searchReuters(term)" detect-width="false" autocomplete="off">
+              <input class='search-submit submit' type="submit" value="Search">
+              <div class="search-autocomplete-container">
+                <div class="message">
+                  <p>Are you looking for a stock?</p>
+                  <p>Try one of these</p>
+                </div>
+                <div ng-repeat="result in autoFillResults" class="item">
+                  <a href="/stock/{{result.ric}}">
+                    <div class="description">{{result.description}}</div>
+                    <div class="ric">{{result.ric}}</div>
+                  </a>
+                </div>
+                <div class="more"><a href=''>More Results</a></div>              
+              </div>
+                  </form>
+      </div>
+    </div>
+          </div>
+
+
+      
+    
+    
+        
+
+
+<div class="mobile-header-nav">
+	<div class="site-header-mobile">
+		<h1 class="site-header-logo"><a title="BNN" href="/" target="_self">BNN</a></h1>
+		<ul class="site-nav">
+			<li class="menu-mobile-nav-toggle"><a id="left-menu" href="#left-menu"/><div class="icon"></div></a></li>
+			<li class="sports-nav-scores"><a id="right-menu" href="#right-menu"/><div class="icon"></div></a></li>
+		</ul>
+	</div>
+</div>
+
+<div class="menu-nav-mobile">
+	<ul class="menu-nav-dropdown">
+    	            <li class="search-field-mobile no-login">
+        		
+
+  
+  
+    <script>
+    window.searchSections = [
+                  "investing"
+                  , "personal finance"
+                  , "real estate"
+                  , "company news"
+                  , "commodities"
+                  , "economics"
+                  , "politics"
+                  , "technology"
+                  , "bloomberg news wire "
+                  , "opinion"
+                  , "etfs"
+                  , "executive"
+                  , "pursuits"
+                  , "international"
+                  , "market call"
+                  , "market call tonight"
+                  , "schedule"
+                  , "bnn bloomberg advisor"
+                ];
+  </script>
+
+      
+  
+        <script>
+      var reutersSearchObj = {
+          webApiUrl: "//data.bnn.ca/dispenser/hydra/dapi/static/search?s=%s&temp=fix"
+      } 
+    </script>
+  
+
+                  
+      <div class="global-search-element" ng-controller="Search">
+          <div class="site-header-search">
+      <div class="search-form-item">
+        <form class='search-form' action="/search/bnn-search-7.337157" method="get">
+                        <input bm-autofill class='search-field' type="text" name="q" value="Enter symbol or company" container="search-autocomplete-container"  callback-fn="searchReuters(term)" detect-width="false" autocomplete="off">
+              <input class='search-submit submit' type="submit" value="Search">
+              <div class="search-autocomplete-container">
+                <div class="message">
+                  <p>Are you looking for a stock?</p>
+                  <p>Try one of these</p>
+                </div>
+                <div ng-repeat="result in autoFillResults" class="item">
+                  <a href="/stock/{{result.ric}}">
+                    <div class="description">{{result.description}}</div>
+                    <div class="ric">{{result.ric}}</div>
+                  </a>
+                </div>
+                <div class="more"><a href=''>More Results</a></div>              
+              </div>
+                  </form>
+      </div>
+    </div>
+          </div>
+
+            </li> 
+                
+                		<div class="clear"></div>
+	</ul>
+	<ul class="menu-nav-dropdown top-nav">
+					<li class="menu-top"><a href="/live-tv">Live TV</a></li>
+					<li class="menu-top"><a href="/video">Video</a></li>
+					<li class="menu-top"><a href="/shows">Shows</a></li>
+					<li class="menu-top"><a href="/market-call">Market Call</a></li>
+					<li class="menu-top"><a href="/markets">Markets</a></li>
+				<div class="clear"></div>
+	</ul>
+	<ul class="menu-nav-dropdown">
+					<li class="menu-sports"><a href="/investing">Investing</a></li>
+					<li class="menu-sports"><a href="/personal-finance">Personal Finance</a></li>
+					<li class="menu-sports"><a href="/real-estate">Real Estate</a></li>
+					<li class="menu-sports"><a href="/company-news">Company News</a></li>
+					<li class="menu-sports"><a href="/commodities">Commodities</a></li>
+					<li class="menu-sports"><a href="/economics">Economics</a></li>
+					<li class="menu-sports"><a href="/politics">Politics</a></li>
+					<li class="menu-sports"><a href="/technology">Technology</a></li>
+					<li class="menu-sports"><a href="/bloomberg-news-wire">Bloomberg News Wire </a></li>
+					<li class="menu-sports"><a href="/opinion">Opinion</a></li>
+					<li class="menu-sports"><a href="/etfs">ETFs</a></li>
+					<li class="menu-sports"><a href="/executive">Executive</a></li>
+					<li class="menu-sports"><a href="/pursuits">Pursuits</a></li>
+					<li class="menu-sports"><a href="/international">International</a></li>
+					<li class="menu-sports"><a href="/market-call">Market Call</a></li>
+					<li class="menu-sports"><a href="/market-call-tonight">Market Call Tonight</a></li>
+					<li class="menu-sports"><a href="/schedule">Schedule</a></li>
+					<li class="menu-sports"><a href="/bnn-bloomberg-advisor">BNN Bloomberg Advisor</a></li>
+							<li class="menu-sports"><a href="/live-tv">Live TV</a></li>
+					<li class="menu-sports"><a href="/video">Video</a></li>
+					<li class="menu-sports"><a href="/shows">Shows</a></li>
+					<li class="menu-sports"><a href="/market-call">Market Call</a></li>
+					<li class="menu-sports"><a href="/markets">Markets</a></li>
+						<div class="clear"></div>
+	</ul>
+</div>
+
+<div class="scores-nav-mobile">
+    <div class="scoreboard-mobile-header"><h3>Scoreboard</h3></div>
+    <ul class="scoreboard-game-list mobile">
+		<li class="date-list-wrapper">
+			<ul class="date-list"></ul>
+		</li>
+		<li class="game-list-wrapper"></li>
+    </ul>
+</div>
+
+
+<div class="site-header-main">
+    <div class="site-header-wrapper">
+	<a title="BNN" href="/" target="_self"><h1 class="site-header-logo">BNN</h1></a>
+	<ul class="site-nav">
+					<li class="sports-nav-toggle sports">
+                <a href="#" style="pointer-events:none;"/>
+                    <div class="icon"></div>
+                    <div class="title">News</div>
+				</a>
+				<div class="sports-nav">
+					<ul class="sports-nav-dropdown">
+                                                	                        								<li data-submenu-id="submenu-1">
+								<a href="/investing">Investing</a>
+								<div id="submenu-1" class="sports-nav-popover">
+																																																							<ul>
+                                                                                	                                        												<li><a href="/investing">News</a></li>
+											                                                                                	                                        												<li><a href="/investing/video">Video</a></li>
+											                                                                                	                                        												<li><a href="/bnn-bloomberg-advisor">BNN Bloomberg Advisor</a></li>
+											                                                                                	                                        												<li><a href="/etfs">ETFs</a></li>
+											                                                                                	                                        												<li><a href="/investing/reits">REITs</a></li>
+											                                        									</ul>
+									<div class="sports-nav-feed">
+										<ul class="sports-nav-feed-list">
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/omers-to-launch-us-750m-venture-fund-to-back-tech-companies-1.1427287" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>OMERS to launch US$750M venture fund to back tech companies</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/larry-berman-fixing-inequality-in-income-and-profits-will-be-a-bigger-problem-post-covid-19-1.1426544" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Larry Berman: Fixing inequality in income and profits will be a bigger problem post-COVID-19</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/investors-fret-over-prospect-of-stock-fire-sales-hitting-the-market-1.1426868" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Investors fret over prospect of stock fire sales hitting the market</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/jpmorgan-to-unlock-trillions-of-liquidity-with-tech-partnership-1.1427295" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>JPMorgan to unlock trillions of liquidity with tech partnership</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/bank-of-america-ceo-says-getting-small-business-loans-shouldn-t-be-a-race-1.1427294" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Bank of America CEO says getting small business loans shouldn't be a race</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/robert-mcwhirter-s-top-picks-april-24-2020-1.1426608" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Robert McWhirter's Top Picks: April 24, 2020</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/the-week-ahead-canadian-gdp-u-s-fed-rate-decision-1.1426760" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>The Week Ahead: Canadian GDP; U.S. Fed rate decision</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/gilead-poised-to-upend-market-with-its-first-covid-19-study-data-1.1426691" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Gilead poised to upend market with its first COVID-19 study data</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/goldman-sachs-fund-bets-on-millennial-stocks-to-navigate-turmoil-1.1426465" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Goldman Sachs fund bets on millennial stocks to navigate turmoil</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/as-cash-flows-run-dry-here-are-three-sources-that-can-provide-canadians-relief-1.1426061" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>As cash flows run dry, here are three sources that can provide Canadians relief</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/brokers-limit-oil-trades-for-some-clients-after-price-crash-1.1425918" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Brokers limit oil trades for some clients after price crash</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/gilead-tumbles-on-latest-data-leak-over-china-vaccine-trials-1.1426051" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Gilead tumbles on latest data leak over China vaccine trials</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/hedge-fund-wipeout-in-canada-leaves-only-5-gainers-in-q1-1.1425502" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Hedge fund wipeout in Canada leaves only 5 gainers in Q1</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/ross-healy-s-top-picks-april-23-2020-1.1425959" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Ross Healy's Top Picks: April 23, 2020</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/etf-mutual-fund-assets-took-10-hit-in-march-1.1425450" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>ETF, mutual fund assets took 10% hit in March</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/disney-dividend-under-scrutiny-after-theme-park-movie-shutdowns-1.1425356" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Disney dividend under scrutiny after theme-park, movie shutdowns</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/aimco-has-lost-millions-in-energy-investments-analyst-report-1.1425401" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>AIMCo has lost millions in energy investments: Analyst report</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/bryden-teich-s-top-picks-april-22-2020-1.1425370" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Bryden Teich's Top Picks: April 22, 2020</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            										</ul>
+									</div>
+								</div>
+                        	</li>
+                        	                                                	                        								<li data-submenu-id="submenu-2">
+								<a href="/personal-finance">Personal Finance</a>
+								<div id="submenu-2" class="sports-nav-popover">
+																																																							<ul>
+                                                                                	                                        												<li><a href="/personal-finance">News</a></li>
+											                                                                                	                                        												<li><a href="/personal-finance/video">Video</a></li>
+											                                        									</ul>
+									<div class="sports-nav-feed">
+										<ul class="sports-nav-feed-list">
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/navigating-the-cerb-and-covid-19-relief-programs-ask-bnn-bloomberg-1.1426449" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Navigating the CERB and COVID-19 relief programs: Ask BNN Bloomberg</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/as-cash-flows-run-dry-here-are-three-sources-that-can-provide-canadians-relief-1.1426061" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>As cash flows run dry, here are three sources that can provide Canadians relief</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/pattie-lovett-reid-for-canadians-living-close-to-the-margin-covid-19-stirs-panic-1.1426487" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Pattie Lovett-Reid: For Canadians living close to the margin, COVID-19 stirs panic</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/credit-cards-start-offering-lower-limits-amid-u-s-outbreak-1.1425785" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Credit cards start offering lower limits amid U.S. outbreak</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/temporarily-laid-off-due-to-covid-19-here-s-what-you-need-to-know-1.1409557" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Temporarily laid off due to COVID-19? Here’s what you need to know</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/to-qualify-or-not-to-qualify-for-cerb-ask-bnn-bloomberg-1.1422968" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>To qualify or not to qualify for CERB: Ask BNN Bloomberg</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/trudeau-promises-9b-aid-package-for-students-amid-covid-19-1.1425301" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Trudeau promises $9B aid package for students amid COVID-19</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/pattie-lovett-reid-planning-for-retirement-during-the-covid-19-pandemic-1.1423921" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Pattie Lovett-Reid: Planning for retirement during the COVID-19 pandemic</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/pattie-lovett-reid-2020-may-be-a-watershed-year-for-indebted-canadians-1.1359669" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Pattie Lovett-Reid: 2020 may be a watershed year for indebted Canadians</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/many-canadians-unsure-how-to-use-tfsas-to-build-wealth-rbc-poll-1.1303724" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Many Canadians unsure how to use TFSAs to build wealth: RBC poll</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/graduating-this-year-how-the-economic-fallout-from-covid-19-is-impacting-career-plans-1.1422940" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Graduating this year? How the economic fallout from COVID-19 is impacting career plans</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/pattie-lovett-reid-the-unexpected-costs-of-working-from-home-1.1422522" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Pattie Lovett-Reid: The unexpected costs of working from home</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/pattie-lovett-reid-questions-to-ask-your-financial-advisor-during-a-pandemic-1.1422425" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Pattie Lovett-Reid: Questions to ask your financial advisor during a pandemic</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/pattie-lovett-reid-what-to-do-if-you-received-both-a-cerb-and-ei-payment-1.1420747" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Pattie Lovett-Reid: What to do if you received both a CERB and EI payment</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/canadians-want-serious-progress-on-covid-19-before-returning-to-work-poll-1.1421208" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Canadians want serious progress on COVID-19 before returning to work: Poll</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/nearly-5-4m-receiving-federal-employment-aid-as-requests-climb-1.1420875" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Nearly 5.4M receiving federal employment aid as requests climb</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/economic-crisis-means-a-reprieve-for-canada-s-most-indebted-1.1420133" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Economic crisis means a reprieve for Canada's most indebted</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/from-cerb-eligibility-to-deducting-office-expenses-ask-bnn-bloomberg-1.1419877" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>From CERB eligibility to deducting office expenses: Ask BNN Bloomberg</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/what-to-do-if-you-re-an-essential-worker-and-concerned-about-covid-19-1.1419706" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>What to do if you’re an essential worker and concerned about COVID-19</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            										</ul>
+									</div>
+								</div>
+                        	</li>
+                        	                                                	                        								<li data-submenu-id="submenu-3">
+								<a href="/real-estate">Real Estate</a>
+								<div id="submenu-3" class="sports-nav-popover">
+																																																							<ul>
+                                                                                	                                        												<li><a href="/real-estate">News</a></li>
+											                                                                                	                                        												<li><a href="/real-estate/video">Video</a></li>
+											                                                                                	                                        												<li><a href="/investing/reits">REITs</a></li>
+											                                        									</ul>
+									<div class="sports-nav-feed">
+										<ul class="sports-nav-feed-list">
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/once-safer-than-gold-canadian-real-estate-braces-for-reckoning-1.1422032" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Once safer than gold, Canadian real estate braces for reckoning</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/mortgage-relief-requests-ease-up-homeowners-catch-their-breath-1.1420993" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Mortgage relief requests ease up, homeowners 'catch their breath'</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/airbnb-raises-us-1b-with-public-offering-uncertain-1.1418142" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Airbnb raises US$1B, with public offering uncertain</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/housing-concern-sends-canadian-consumer-confidence-to-new-low-1.1420838" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Housing concern sends Canadian consumer confidence to new low</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/6-things-to-know-about-trudeau-s-first-time-home-buyer-incentive-1.1309143" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>6 things to know about Trudeau's First-Time Home Buyer Incentive</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/canada-s-housing-markets-to-slow-to-a-crawl-amid-covid-19-rbc-1.1415261" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Canada's housing markets to 'slow to a crawl' amid COVID-19: RBC</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/vancouver-home-sales-up-46-in-march-but-show-signs-of-slowing-due-to-outbreak-1.1416486" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Vancouver home sales up 46% in March, but show signs of slowing due to outbreak</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/annual-pace-of-housing-starts-slowed-in-march-cmhc-says-1.1419045" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Annual pace of housing starts slowed in March, CMHC says</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/economic-uncertainty-makes-for-unusual-mortgage-rate-landscape-1.1418663" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Economic uncertainty makes for unusual mortgage rate landscape</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/home-ownership-elusive-for-young-canadians-who-fear-going-broke-1.1211448" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Home ownership elusive for young Canadians who fear going broke</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/mortgage-rates-are-rising-in-canada-despite-virus-relief-cuts-1.1414766" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Mortgage rates are rising in Canada despite virus-relief cuts</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/alternative-real-estate-lending-to-hit-the-brakes-amid-covid-19-pandemic-1.1413545" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Alternative real estate lending to hit the brakes amid COVID-19 pandemic</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/mortgage-market-sees-flurry-of-activity-amid-low-rates-virus-uncertainty-1.1412984" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Mortgage market sees flurry of activity amid low rates, virus uncertainty</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/cmhc-triples-planned-purchases-of-mortgage-securities-1.1412797" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>CMHC triples planned purchases of mortgage securities</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/canada-s-big-banks-field-213-000-requests-for-mortgage-deferrals-1.1412754" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Canada's big banks field 213,000 requests for mortgage deferrals</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/realtors-to-push-back-on-non-essential-sales-but-market-still-active-1.1412923" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Realtors to push back on non-essential sales but market still active</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/pandemic-causes-sharp-drop-in-canadians-searching-for-homes-1.1412232" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Pandemic causes sharp drop in Canadians searching for homes</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            										</ul>
+									</div>
+								</div>
+                        	</li>
+                        	                                                	                        								<li data-submenu-id="submenu-4">
+								<a href="/company-news">Company News</a>
+								<div id="submenu-4" class="sports-nav-popover">
+																																																							<ul>
+                                                                                	                                        												<li><a href="/company-news">News</a></li>
+											                                                                                	                                        												<li><a href="/company-news/video">Video</a></li>
+											                                        									</ul>
+									<div class="sports-nav-feed">
+										<ul class="sports-nav-feed-list">
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/the-last-blockbuster-on-earth-still-renting-movies-during-covid-19-pandemic-1.1427470" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>The last Blockbuster on Earth still renting movies during COVID-19 pandemic</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/airbus-ceo-warns-workers-it-s-bleeding-cash-and-cuts-are-needed-1.1427284" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Airbus CEO warns workers it's bleeding cash and cuts are needed</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/deutsche-bank-warns-of-loan-defaults-after-surprise-profit-1.1427341" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Deutsche Bank warns of loan defaults after surprise profit</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/wall-street-tries-to-figure-out-how-to-return-to-the-office-1.1427309" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Wall Street tries to figure out how to return to the office</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/jpmorgan-to-unlock-trillions-of-liquidity-with-tech-partnership-1.1427295" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>JPMorgan to unlock trillions of liquidity with tech partnership</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/how-coronavirus-will-forever-change-airlines-and-the-way-we-fly-1.1426593" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>How coronavirus will forever change airlines and the way we fly</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/branson-said-to-mull-pouring-more-money-into-wobbling-virgin-atlantic-1.1426948" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Branson said to mull pouring more money into wobbling Virgin Atlantic</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/boeing-embraer-scrap-cooperation-as-pandemic-shrinks-jet-market-1.1426885" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Boeing, Embraer scrap cooperation as pandemic shrinks jet market</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/gilead-poised-to-upend-market-with-its-first-covid-19-study-data-1.1426691" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Gilead poised to upend market with its first COVID-19 study data</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/amazon-asks-workers-sheltering-at-home-to-return-or-seek-leave-1.1426695" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Amazon asks workers sheltering at home to return or seek leave</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/at-t-s-randall-stephenson-retires-as-ceo-elevating-john-stankey-1.1426510" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>AT&T’s Randall Stephenson retires as CEO, elevating John Stankey</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/stars-group-shareholders-vote-to-approve-deal-with-flutter-entertainment-1.1426666" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Stars Group shareholders vote to approve deal with Flutter Entertainment</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/lysol-dettol-maker-warns-against-using-disinfectants-inside-body-1.1426358" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Lysol, Dettol maker warns against using disinfectants inside body</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/westjet-laying-off-3-000-as-covid-19-crushes-passenger-traffic-1.1425574" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>WestJet laying off 3,000 as COVID-19 crushes passenger traffic </strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/of-bikes-and-men-the-marketing-highs-and-lows-of-2019-1.1365658" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Of bikes and men: The marketing highs and lows of 2019</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/apple-finds-no-evidence-hackers-exploited-iphone-ipad-mail-flaw-1.1426264" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Apple finds no evidence hackers exploited iPhone, iPad mail flaw</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/amex-promises-us-3-billion-in-cost-cuts-new-platinum-rewards-1.1426591" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>AmEx promises US$3 billion in cost cuts, new platinum rewards</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/barrick-gold-vows-to-fight-nationalization-of-gold-mine-in-papua-new-guinea-1.1426528" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Barrick Gold vows to fight 'nationalization' of gold mine in Papua New Guinea</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/resentment-grows-on-main-street-over-bailout-winners-and-losers-1.1426347" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Resentment grows on Main Street over bailout winners and losers</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/verizon-misses-sales-estimates-due-to-covid-trims-2020-forecast-1.1426414" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Verizon misses sales estimates due to COVID, trims 2020 forecast</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            										</ul>
+									</div>
+								</div>
+                        	</li>
+                        	                                                	                        								<li data-submenu-id="submenu-5">
+								<a href="/commodities">Commodities</a>
+								<div id="submenu-5" class="sports-nav-popover">
+																																																							<ul>
+                                                                                	                                        												<li><a href="/commodities">News</a></li>
+											                                                                                	                                        												<li><a href="/commodities/video">Show</a></li>
+											                                                                                	                                        												<li><a href="/commodities/guests">Guests</a></li>
+											                                                                                	                                        												<li><a href="/marijuana">Cannabis News</a></li>
+											                                                                                	                                        												<li><a href="/oil">Oil</a></li>
+											                                                                                	                                        												<li><a href="/gold">Gold</a></li>
+											                                                                                	                                        												<li><a href="/silver">Silver</a></li>
+											                                        									</ul>
+									<div class="sports-nav-feed">
+										<ul class="sports-nav-feed-list">
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/the-end-game-oil-industry-set-to-shut-down-in-next-chapter-of-crisis-1.1427195" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>'The end-game': Oil industry set to shut down in next chapter of crisis</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/world-s-biggest-wheat-supply-dries-up-when-some-want-it-most-1.1427266" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>World's biggest wheat supply dries up when some want it most</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/saudis-said-to-begin-curbing-oil-output-ahead-of-opec-start-date-1.1426837" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Saudis said to begin curbing oil output ahead of OPEC+ start date</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/sanity-will-come-back-to-russia-saudi-oil-feud-precision-drilling-ceo-1.1407063" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>'Sanity will come back' to Russia-Saudi oil feud: Precision Drilling CEO</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/canada-s-energy-sector-particularly-vulnerable-after-oil-price-crash-1.1405598" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Canada's energy sector 'particularly vulnerable' after oil price crash </strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/alberta-unveils-process-for-paying-out-1b-in-oil-field-cleanup-grants-1.1426697" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Alberta unveils process for paying out $1B in oil field cleanup grants</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/trudeau-wants-it-all-on-climate-and-oil-it-s-not-working-out-1.1395913" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Trudeau wants it all on climate and oil. It's not working out.</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/oil-buoyed-on-production-cuts-but-market-still-not-balanced-1.1426206" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Oil buoyed on production cuts but market still not balanced</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/gold-is-a-no-brainer-in-rosenberg-s-bear-case-portfolio-1.1377062" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Gold is a 'no-brainer' in Rosenberg's bear case portfolio</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/bellatrix-sale-to-return-energy-proposed-as-exit-to-creditor-protection-status-1.1426010" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Bellatrix sale to Return Energy proposed as exit to creditor protection status</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/businesses-aim-to-reduce-waste-in-2020-as-consumers-become-more-eco-conscious-1.1372149" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Businesses aim to reduce waste in 2020 as consumers become more eco-conscious</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/beyond-meat-sentiment-rises-on-fears-of-beef-and-pork-shortage-1.1426879" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Beyond Meat sentiment rises on fears of beef and pork shortage</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/u-s-reels-toward-meat-shortages-and-the-world-may-be-next-1.1426664" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>U.S. reels toward meat shortages and the world may be next</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/preventive-measures-at-alberta-meat-plants-came-too-late-1.1425774" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Preventive measures at Alberta meat plants came too late </strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/canfor-warns-covid-19-will-weigh-heavily-on-results-reports-q1-70m-loss-1.1425994" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Canfor warns COVID-19 will 'weigh heavily' on results, reports Q1 $70M loss</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/oil-turmoil-tests-banks-support-for-canada-s-family-business-1.1425844" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Oil turmoil tests banks’ support for Canada’s 'family business'</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/pandemic-blamed-as-dominion-diamond-enters-court-protection-from-creditors-1.1425893" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Pandemic blamed as Dominion Diamond enters court protection from creditors</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            										</ul>
+									</div>
+								</div>
+                        	</li>
+                        	                                                	                        								<li data-submenu-id="submenu-6">
+								<a href="/economics">Economics</a>
+								<div id="submenu-6" class="sports-nav-popover">
+																																																							<ul>
+                                                                                	                                        												<li><a href="/economics">News</a></li>
+											                                                                                	                                        												<li><a href="/economics/video">Video</a></li>
+											                                                                                	                                        												<li><a href="/economics/the-takeaway-with-amanda-lang">The Takeaway with Amanda Lang</a></li>
+											                                        									</ul>
+									<div class="sports-nav-feed">
+										<ul class="sports-nav-feed-list">
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/shortlist-for-next-bank-of-canada-governor-said-to-be-down-to-two-names-1.1427488" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Shortlist for next Bank of Canada governor said to be down to two names</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/battered-and-bruised-supply-chains-shift-to-survival-mode-1.1427236" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Battered and bruised, supply chains shift to survival mode</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/ottawa-announces-62-5m-for-canada-s-fish-and-seafood-sector-1.1426907" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Ottawa announces $62.5M for Canada's fish and seafood sector</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/ontario-to-boost-pay-for-workers-fighting-coronavirus-pandemic-1.1426933" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Ontario to boost pay for workers fighting coronavirus pandemic</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/deglobalization-privacy-trade-offs-experts-on-life-after-covid-19-1.1426560" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Deglobalization, privacy trade-offs: Experts on life after COVID-19</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/nothing-off-the-table-to-support-the-economy-morneau-1.1408950" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Nothing 'off the table' to support the economy: Morneau</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/auto-sector-gasoline-boosted-retail-sales-in-january-1.1409532" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Auto sector, gasoline boosted retail sales in January</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/rosenberg-says-brace-for-60-cent-loonie-canada-downgrades-1.1426740" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Rosenberg says brace for 60-cent loonie, Canada downgrades</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/once-in-sync-loonie-s-historic-link-with-oil-is-breaking-down-1.1426751" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Once in sync, loonie's historic link with oil is breaking down</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/canadian-economy-fighting-a-five-pronged-war-rosenberg-1.1408217" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Canadian economy 'fighting a five-pronged war': Rosenberg</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/inside-mark-carney-s-brexit-adventure-at-the-bank-of-england-1.1395824" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Inside Mark Carney's Brexit adventure at the Bank of England</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/this-country-is-lagging-behind-tellier-warns-on-ottawa-s-approach-to-business-1.1360391" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>'This country is lagging behind': Tellier warns on Ottawa's approach to business</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/the-week-ahead-canadian-gdp-u-s-fed-rate-decision-1.1426760" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>The Week Ahead: Canadian GDP; U.S. Fed rate decision</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/number-of-applicants-for-cerb-tops-seven-million-1.1426522" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Number of applicants for CERB tops seven million</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/trump-signs-us-484b-virus-rescue-package-1.1426587" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Trump signs US$484B virus rescue package</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/canada-s-aaa-on-the-line-as-oil-crash-hits-debt-loaded-provinces-1.1425962" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Canada's AAA on the line as oil crash hits debt-loaded provinces</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/hedge-funds-aren-t-eligible-for-u-s-small-business-rescue-loans-1.1426545" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Hedge funds aren't eligible for U.S. small business rescue loans</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/expectant-mothers-to-get-financial-help-following-omission-qualtrough-1.1426589" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Expectant mothers to get financial help following omission: Qualtrough</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            										</ul>
+									</div>
+								</div>
+                        	</li>
+                        	                                                	                        								<li data-submenu-id="submenu-7">
+								<a href="/politics">Politics</a>
+								<div id="submenu-7" class="sports-nav-popover">
+																																																							<ul>
+                                                                                	                                        												<li><a href="/politics">News</a></li>
+											                                                                                	                                        												<li><a href="/politics/video">Video</a></li>
+											                                        									</ul>
+									<div class="sports-nav-feed">
+										<ul class="sports-nav-feed-list">
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/rent-relief-program-could-cost-approximately-2-billion-morneau-1.1426361" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Rent relief program could cost approximately $2 billion: Morneau</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/u-k-s-johnson-to-return-to-downing-street-office-on-monday-1.1426949" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>U.K.'s Johnson to return to Downing Street office on Monday</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/pence-says-coronavirus-outbreak-could-be-over-by-memorial-day-1.1426500" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Pence says coronavirus outbreak could be over by Memorial Day</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/trump-s-idea-to-inject-disinfectant-to-kill-coronavirus-alarms-medical-experts-1.1426200" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Trump's idea to inject disinfectant to kill coronavirus alarms medical experts</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/mnuchin-says-he-expects-most-of-economy-opening-by-late-summer-1.1425254" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Mnuchin says he expects most of economy opening by late summer</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/elizabeth-warren-s-brother-dies-of-coronavirus-1.1425957" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Elizabeth Warren's brother dies of coronavirus</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/trump-says-georgia-s-decision-to-reopen-is-too-soon-1.1425567" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Trump says Georgia's decision to reopen is 'too soon'</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/covid-19-latest-hurdle-in-canada-s-long-road-to-buying-new-fighter-jets-1.1424803" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>COVID-19 latest hurdle in Canada's long road to buying new fighter jets</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/senate-passes-us-484b-interim-economic-stimulus-package-1.1424562" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Senate passes US$484B interim economic stimulus package</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/trump-says-he-will-suspend-immigration-to-u-s-over-virus-concerns-1.1424346" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Trump says he will suspend immigration to U.S. over virus concerns</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/trump-s-guidelines-may-have-some-states-reopening-in-a-month-1.1422639" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Trump's guidelines may have some states reopening in a month</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/here-are-some-of-the-prominent-winners-and-losers-in-the-federal-election-1.1335088" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Here are some of the prominent winners and losers in the federal election</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/kim-jong-un-surgery-report-fuels-speculation-about-leader-s-health-1.1424331" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Kim Jong Un surgery report fuels speculation about leader's health</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/senate-sets-up-tuesday-vote-on-aid-plan-as-talks-near-agreement-1.1424162" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Senate sets up Tuesday vote on aid plan as talks near agreement</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/u-s-canada-extend-border-closure-for-30-days-trudeau-says-1.1423369" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>U.S., Canada extend border closure for 30 days, Trudeau says </strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/trump-administration-eases-ppe-export-ban-with-canada-mexico-exemptions-1.1421306" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Trump administration eases PPE export ban with Canada, Mexico exemptions</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/trudeau-bats-away-who-questions-says-canada-focused-on-covid-19-1.1421910" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Trudeau bats away WHO questions, says Canada focused on COVID-19</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/kenney-predicts-unemployment-at-25-in-alberta-due-to-covid-19-1.1418610" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Kenney predicts unemployment at 25% in Alberta due to COVID-19</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/bernie-sanders-endorses-joe-biden-setting-aside-rancor-of-primary-1.1420934" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Bernie Sanders endorses Joe Biden, setting aside rancor of primary</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/ontario-s-finance-minister-wants-aid-to-flow-faster-from-feds-1.1419944" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Ontario’s finance minister wants aid to flow faster from feds</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            										</ul>
+									</div>
+								</div>
+                        	</li>
+                        	                                                	                        								<li data-submenu-id="submenu-8">
+								<a href="/technology">Technology</a>
+								<div id="submenu-8" class="sports-nav-popover">
+																																																							<ul>
+                                                                                	                                        												<li><a href="/technology">News</a></li>
+											                                                                                	                                        												<li><a href="/technology/video">Video</a></li>
+											                                                                                	                                        												<li><a href="/the-disruptors">The Disruptors</a></li>
+											                                                                                	                                        												<li><a href="/ai">ARTIFICIAL INTELLIGENCE</a></li>
+											                                        									</ul>
+									<div class="sports-nav-feed">
+										<ul class="sports-nav-feed-list">
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/quebec-turns-its-fight-against-amazon-into-a-state-matter-1.1426870" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Quebec turns its fight against Amazon into a state matter</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/illegal-bets-match-fixing-doping-the-dark-side-of-esports-1.1426424" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Illegal bets, match-fixing, doping: The dark side of esports</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/zoom-s-good-week-ends-on-sour-note-after-facebook-crashes-party-1.1426866" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Zoom's good week ends on sour note after Facebook crashes party</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/apple-google-boost-privacy-protections-for-covid-contact-tracing-tool-1.1426577" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Apple, Google boost privacy protections for COVID contact-tracing tool</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/e-commerce-stocks-soar-with-pandemic-gains-seen-as-long-lasting-1.1426689" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>E-commerce stocks soar with pandemic gains seen as long-lasting</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/netflix-falls-as-analysts-weigh-record-growth-and-longevity-1.1425200" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Netflix falls as analysts weigh record growth and longevity </strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/google-s-real-estate-pause-shows-cracks-in-tech-office-demand-1.1426551" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Google's real estate pause shows cracks in tech office demand</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/zoom-backlash-widens-with-daimler-ericsson-and-bofa-curbs-1.1425648" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Zoom backlash widens with Daimler, Ericsson and BofA curbs</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/intel-pulls-2020-forecast-on-significant-economic-uncertainty-1.1426126" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Intel pulls 2020 forecast on 'significant economic uncertainty'</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/technology/video/everything-you-need-to-know-about-cryptocurrencies%7E1268076" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Everything you need to know about cryptocurrencies</strong>
+    																        																<span class="icon-small-video black"></span>
+        															        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/apple-aims-to-sell-macs-with-its-own-chips-starting-in-2021-1.1425799" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Apple aims to sell Macs with its own chips starting in 2021</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/facebook-s-us-6-billion-india-bet-kindles-war-with-amazon-walmart-1.1425215" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Facebook's US$6 billion India bet kindles war with Amazon, Walmart</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/netflix-adds-almost-16-million-subscribers-crushing-estimates-1.1424856" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Netflix adds almost 16 million subscribers, crushing estimates</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/ibm-reports-falling-revenue-and-withdraws-forecast-on-virus-woes-1.1424220" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>IBM reports falling revenue and withdraws forecast on virus woes</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/ai" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>BNN Bloomberg Presents: The AI Arms Race</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/walmart-to-sell-vudu-streaming-platform-to-comcast-s-fandango-1.1424180" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Walmart to sell Vudu streaming platform to Comcast's Fandango</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/shopify-offering-cash-advances-to-struggling-canadian-businesses-1.1423956" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Shopify offering cash advances to struggling Canadian businesses</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/apple-ceo-talks-covid-19-crisis-return-to-work-plan-at-company-wide-meeting-1.1422654" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Apple CEO talks COVID-19 crisis, return to work plan at company-wide meeting</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/uber-withdraws-forecast-updates-on-contra-revenue-1.1422681" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Uber withdraws forecast, updates on contra revenue</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/facebook-put-warnings-on-40-million-misleading-covid-19-posts-1.1422404" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Facebook put warnings on 40 million misleading COVID-19 posts</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            										</ul>
+									</div>
+								</div>
+                        	</li>
+                        	                                                	                        								<li data-submenu-id="submenu-9">
+								<a href="/bloomberg-news-wire">Bloomberg News Wire </a>
+								<div id="submenu-9" class="sports-nav-popover">
+																																																							<ul>
+                                                                                	                                        												<li><a href="/bloomberg-news-wire">News</a></li>
+											                                                                                	                                        												<li><a href="/bloomberg-news-wire/video">Video</a></li>
+											                                        									</ul>
+									<div class="sports-nav-feed">
+										<ul class="sports-nav-feed-list">
+                                            										</ul>
+									</div>
+								</div>
+                        	</li>
+                        	                                                	                        								<li data-submenu-id="submenu-10">
+								<a href="/opinion">Opinion</a>
+								<div id="submenu-10" class="sports-nav-popover">
+																																																							<ul>
+                                                                                	                                        												<li><a href="/opinion">News</a></li>
+											                                        									</ul>
+									<div class="sports-nav-feed">
+										<ul class="sports-nav-feed-list">
+                                            										</ul>
+									</div>
+								</div>
+                        	</li>
+                        	                                                	                        								<li data-submenu-id="submenu-11">
+								<a href="/etfs">ETFs</a>
+								<div id="submenu-11" class="sports-nav-popover">
+																																																							<ul>
+                                                                                	                                        												<li><a href="/etfs">News</a></li>
+											                                                                                	                                        												<li><a href="/etfs/video">Video</a></li>
+											                                                                                	                                        												<li><a href="">Berman's Call</a></li>
+											                                        									</ul>
+									<div class="sports-nav-feed">
+										<ul class="sports-nav-feed-list">
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/furious-rebound-in-us-2-billion-energy-etf-invites-skeptics-1.1426642" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Furious rebound in US$2 billion energy ETF invites skeptics</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/health-care-etfs-attract-us-5-4b-in-race-to-beat-virus-1.1425975" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Health-care ETFs attract US$5.4B in race to beat virus</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/troubled-oil-etf-again-shuffles-holdings-amid-market-mayhem-1.1425424" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Troubled oil ETF again shuffles holdings amid market mayhem</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/how-to-lose-90-of-your-money-in-14-years-1.1425265" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>How to lose 90% of your money in 14 years</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/oil-collapse-hits-etfs-with-biggest-fund-running-out-of-shares-1.1424603" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Oil collapse hits ETFs with biggest fund running out of shares</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/bottom-calling-bets-on-us-4-3-billion-etf-go-bad-amid-oil-plunge-1.1424002" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Bottom-calling bets on US$4.3 billion ETF go bad amid oil plunge</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/short-bets-on-biggest-junk-etf-near-record-after-fed-s-backstop-1.1421366" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Short bets on biggest junk ETF near record after Fed’s backstop</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/etf-investors-are-all-in-on-stimulus-with-us-17-billion-stock-bet-1.1420891" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>ETF investors are all-in on stimulus with US$17 billion stock bet</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/personal-finance/video/parking-cash-in-short-term-treasury-etfs%7E1937441" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Parking cash in short-term treasury ETFs</strong>
+    																        																<span class="icon-small-video black"></span>
+        															        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/inflows-into-canadian-etfs-jump-despite-market-volatility-1.1417982" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Inflows into Canadian ETFs jump, despite market volatility</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/larry-berman-s-top-picks-april-2-2020-1.1416509" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Larry Berman's Top Picks: April 2, 2020</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/hidden-asset-etfs-test-appetite-for-active-managers-amid-rout-1.1416386" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Hidden-asset ETFs test appetite for active managers amid rout</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/big-reversals-for-s-p-500-etfs-with-exodus-from-treasury-darling-1.1414696" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Big reversals for S&P 500 ETFs with exodus from Treasury darling</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/investors-are-buying-credit-etfs-faster-than-the-bonds-can-rally-1.1412989" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Investors are buying credit ETFs faster than the bonds can rally</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/mike-philbrick-s-top-picks-march-25-2020-1.1412229" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Mike Philbrick's Top Picks: March 25, 2020</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/a-us-33b-etf-sees-most-cash-in-18-years-on-fed-fuelled-rally-1.1412150" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>A US$33B ETF sees most cash in 18 years on Fed-fuelled rally</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/traders-pour-us-1b-into-biggest-credit-etf-to-front-run-fed-1.1411499" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Traders pour US$1B into biggest credit ETF to front-run Fed</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/larry-berman-s-top-picks-march-19-2020-1.1409059" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Larry Berman's Top Picks: March 19, 2020</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/people-finally-stop-throwing-money-at-s-p-500-tracking-etf-1.1408132" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>People finally stop throwing money at S&P 500 Tracking ETF</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/nowhere-to-hide-stocks-and-bonds-suffer-losses-worse-than-2008-1.1404284" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Nowhere to hide: Stocks and bonds suffer losses worse than 2008</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            										</ul>
+									</div>
+								</div>
+                        	</li>
+                        	                                                	                        								<li data-submenu-id="submenu-12">
+								<a href="/executive">Executive</a>
+								<div id="submenu-12" class="sports-nav-popover">
+																																																							<ul>
+                                                                                	                                        												<li><a href="/executive/video">Video</a></li>
+											                                        									</ul>
+									<div class="sports-nav-feed">
+										<ul class="sports-nav-feed-list">
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/bank-of-america-ceo-says-getting-small-business-loans-shouldn-t-be-a-race-1.1427294" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Bank of America CEO says getting small business loans shouldn't be a race</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/canada-infrastructure-bank-chief-executive-pierre-lavallee-steps-down-1.1417195" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Canada Infrastructure Bank chief executive Pierre Lavallee steps down</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/goldman-ceo-david-solomon-lands-cameo-on-showtime-series-billions-1.1426430" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Goldman CEO David Solomon lands cameo on Showtime series 'Billions'</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/the-dealmaker-how-bob-iger-transformed-disney-1.1395975" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>The dealmaker: How Bob Iger transformed Disney</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/billionaire-gates-s-foundation-reportedly-to-focus-solely-on-fighting-covid-19-1.1427245" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Billionaire Gates's foundation reportedly to focus solely on fighting COVID-19</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/conoco-s-cuts-seen-as-appetizer-for-big-cuts-to-oil-sands-output-1.1423037" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Conoco's cuts seen as appetizer for big cuts to oil sands output </strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/banks-can-t-take-ever-expanding-risk-in-pandemic-turmoil-rbc-ceo-1.1419229" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Banks can't take 'ever-expanding risk' in pandemic turmoil: RBC CEO</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/race-for-cheap-wireless-rates-would-be-really-bad-public-policy-bce-ceo-bibic-1.1369733" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Race for cheap wireless rates would be 'really bad public policy': BCE CEO Bibic</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/former-snc-lavalin-ceo-took-home-7m-in-2019-for-5-months-of-work-1.1418723" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Former SNC-Lavalin CEO took home $7M in 2019 for 5 months of work</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/td-ceo-sees-meaningful-recovery-after-covid-19-lockdowns-end-1.1418133" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>TD CEO sees 'meaningful recovery' after COVID-19 lockdowns end</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/former-scotia-bce-chair-thomas-o-neill-dies-1.1418099" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Former Scotia, BCE chair Thomas O'Neill dies</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/there-s-other-things-to-worry-about-magna-ceo-says-deficits-not-top-concern-1.1417008" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>'There's other things to worry about': Magna CEO says deficits not top concern</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/bmo-ceo-expects-economy-to-rebound-by-end-of-year-after-sharp-decline-1.1415377" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>BMO CEO expects economy to rebound by end of year after 'sharp' decline</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/no-dividend-cuts-as-reliable-income-incredibly-important-amid-pandemic-cibc-ceo-1.1415206" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>No dividend cuts as 'reliable income incredibly important' amid pandemic: CIBC CEO</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/bce-has-no-change-in-plans-for-dividend-amid-covid-19-crisis-ceo-1.1413400" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>BCE has 'no change in plans' for dividend amid COVID-19 crisis: CEO</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/disney-chairman-iger-to-forgo-pay-other-execs-take-cuts-1.1414746" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Disney chairman Iger to forgo pay; other execs take cuts</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/there-will-be-a-recovery-ex-rbc-ceo-gord-nixon-preaches-patience-amid-market-turmoil-1.1414657" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>'There will be a recovery': Ex-RBC CEO Gord Nixon preaches patience amid market turmoil</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            												<li class="item">
+													<div class="item-content">
+														<div class="article-content">
+															<a href="/onex-touts-ability-to-survive-pandemic-seize-opportunities-1.1412645" />
+    															<div class="icon-related-arrow"></div>
+																<span>
+    																<strong>Onex touts ability to survive pandemic, 'seize opportunities'</strong>
+    																        																															</span>
+    															
+															</a>
+														</div>
+													</div>
+												</li>
+                                            										</ul>
+									</div>
+								</div>
+                        	</li>
+                        	                                                	                        	                                                	                        	                                                	                        	                                                	                        	                                                	                        	                                                	                        	                        
+                    													<li data-submenu-id="submenu-13" class="more-sports">
+							<a href="#">More...</a>
+							<div id="submenu-13" class="sports-nav-popover more-sports-popover">
+					            <ul>
+																								        																	        																	        																	        																	        																	        																	        																	        																	        																	        																	        																	        																	                    <li><a href="/pursuits">Pursuits</a></li>
+															        																	                    <li><a href="/international">International</a></li>
+															        																	                    <li><a href="/market-call">Market Call</a></li>
+															        																	                    <li><a href="/market-call-tonight">Market Call Tonight</a></li>
+															        																	                    <li><a href="/schedule">Schedule</a></li>
+															        																	                    <li><a href="/bnn-bloomberg-advisor">BNN Bloomberg Advisor</a></li>
+															        							            </ul>
+
+					            					            				            </div>
+						</li>
+						
+					</ul>
+					<div class="nav-footer sports"></div>
+				</div>
+			</li>
+				
+        			<li class="hidden">
+				<a href="/live-tv">Live TV</a>
+			</li>
+					<li class="hidden">
+				<a href="/video">Video</a>
+			</li>
+					<li class="hidden">
+				<a href="/shows">Shows</a>
+			</li>
+					<li class="hidden">
+				<a href="/market-call">Market Call</a>
+			</li>
+					<li class="hidden">
+				<a href="/markets">Markets</a>
+			</li>
+		
+		<li class="more-nav">
+			<p>More</p>
+            <ul>
+									<li class="hidden">
+						<a href="/live-tv">Live TV</a>
+					</li>
+									<li class="hidden">
+						<a href="/video">Video</a>
+					</li>
+									<li class="hidden">
+						<a href="/shows">Shows</a>
+					</li>
+									<li class="hidden">
+						<a href="/market-call">Market Call</a>
+					</li>
+									<li class="hidden">
+						<a href="/markets">Markets</a>
+					</li>
+								<li class="nav-footer"></li>
+            </ul>
+
+		</li>
+	</ul>
+    </div>
+</div>
+      
+  
+                </div>
+        </div>
+      </div>
+    </div>
+    <div class="middle-container">
+      <div class="featured-content">
+        
+                  
+    
+  
+    
+  
+    
+    
+            <div class="topics-bar-container">
+        <div id="topics-bar">
+            <div class="topics-bar-inner">
+                <ul>
+                                    <li><a href="https://www.bnnbloomberg.ca/covid-19">COVID-19</a></li>
+                                    <li><a href="https://www.bnnbloomberg.ca/marijuana">Cannabis News</a></li>
+                                    <li><a href="https://www.bnnbloomberg.ca/politics">Politics</a></li>
+                                    <li><a href="https://www.bnnbloomberg.ca/real-estate">Real Estate</a></li>
+                                    <li><a href="https://www.bnnbloomberg.ca/bnn-bloomberg-advisor">Advisor</a></li>
+                                    <li><a href="https://www.bnnbloomberg.ca/technology">Technology</a></li>
+                                    <li><a href="https://www.bnnbloomberg.ca/investing">Investing</a></li>
+                                    <li><a href="https://www.bnnbloomberg.ca/personal-finance">Personal Finance</a></li>
+                                    <li><a href="https://www.bnnbloomberg.ca/opinion">Opinion</a></li>
+                                    <li><a href="https://www.bnnbloomberg.ca/subscribe">Newsletters</a></li>
+                                </ul>
+                <div class="shadow-left"></div>
+                <div class="shadow-right"></div>
+            </div>
+        </div>
+    </div>
+
+      
+  
+            </div>
+    </div>
+    <div id="content-container">
+            
+                  
+    
+  
+    
+  
+    
+    
+        <div class="breaking-news">
+	<div class="breaking-news-inner">
+		<ul class="breaking-news-list">
+        		</ul>
+		<div class="breaking-news-buttons">
+			<div class="breaking-news-prev"></div>
+			<div class="breaking-news-counter"></div>
+			<div class="breaking-news-next"></div>
+		</div>
+	</div>
+</div>
+      
+  
+            
+                  
+    
+  
+    
+  
+  
+            
+                  
+    
+  
+    
+  
+    
+    
+        
+	<div id="bm-HeaderAd">
+		<div id="leaderboard-ad" bm-ad-instance ad-type="ad1" allow-mobile="false"></div>
+	</div>
+
+      
+  
+            
+      <div class='content-wrapper'>      
+      <div class='section-header '>
+        
+                  
+    
+  
+    
+  
+    
+    
+        
+<div class="site-header-main">
+    <ul class="site-nav ">
+        <a href="/commodities"><h3>Commodities</h3></a>
+        <span class="icon-red-arrow-large"></span>
+        
+		                    <li class="hidden  ">
+				<a href="/commodities">News</a>
+            </li>
+		            <li class="hidden  ">
+				<a href="/commodities/video">Show</a>
+            </li>
+		            <li class="hidden  ">
+				<a href="/commodities/guests">Guests</a>
+            </li>
+		            <li class="hidden  ">
+				<a href="/marijuana">Cannabis News</a>
+            </li>
+		            <li class="hidden  ">
+				<a href="/oil">Oil</a>
+            </li>
+		            <li class="hidden  ">
+				<a href="/gold">Gold</a>
+            </li>
+		            <li class="hidden  last-section-nav">
+				<a href="/silver">Silver</a>
+            </li>
+		
+				<li class="more-nav-mobile">
+            <ul>
+				
+									<li class="active">
+						<a href="$section.Href">Article</a>
+						<div class="more-image"></div>
+					</li>
+					
+											<li>
+    						<a href="/commodities">News</a>
+    					</li>
+    										<li>
+    						<a href="/commodities/video">Show</a>
+    					</li>
+    										<li>
+    						<a href="/commodities/guests">Guests</a>
+    					</li>
+    										<li>
+    						<a href="/marijuana">Cannabis News</a>
+    					</li>
+    										<li>
+    						<a href="/oil">Oil</a>
+    					</li>
+    										<li>
+    						<a href="/gold">Gold</a>
+    					</li>
+    										<li>
+    						<a href="/silver">Silver</a>
+    					</li>
+    				
+								
+            </ul>
+		</li>
+
+				<li class="more-nav">
+			<p>More</p>
+            <ul>
+				                    <li class="">
+        				<a href="/commodities">News</a>
+                    </li>
+        		                    <li class="">
+        				<a href="/commodities/video">Show</a>
+                    </li>
+        		                    <li class="">
+        				<a href="/commodities/guests">Guests</a>
+                    </li>
+        		                    <li class="">
+        				<a href="/marijuana">Cannabis News</a>
+                    </li>
+        		                    <li class="">
+        				<a href="/oil">Oil</a>
+                    </li>
+        		                    <li class="">
+        				<a href="/gold">Gold</a>
+                    </li>
+        		                    <li class="">
+        				<a href="/silver">Silver</a>
+                    </li>
+        		            </ul>
+		</li>
+
+	</ul>
+ 	</div>
+      
+  
+            </div>
+      <section class='content '>
+        <div class='wide'>
+                            </div>
+        <div class='content-right '>
+            		    
+                  
+    
+  
+    
+  
+    
+    
+        
+<script>
+    var persistentAd = {
+        enabled: "false"
+    }
+</script>
+
+<div class="fluid-ad-outer-wrapper">
+    <div class="fluid-ad-wrapper stuck" ng-controller="PersistentPlayer">
+        <div id="fluid-ad"
+             bm-ad-instance
+             ad-type="ad13"
+             allow-mobile="true"
+             model-type="bellmedia.tsn.Article"
+             feed-list-position="3"
+             child-list-position="1"
+             content-list-position="3"
+        >
+        </div>
+    </div>
+</div>
+
+      
+    
+    
+        
+
+
+
+
+
+
+
+
+
+
+        <script>
+    var onePlayerWebObj = { type: 'oneplayerweb', language: 'en', metadataInfo: true, share: true, embed: false, overlayHeaderVisible: false, overlayFooterVisible: false};
+
+    var siteSections = [];
+		        siteSections.push("investing");
+		        siteSections.push("personal finance");
+		        siteSections.push("real estate");
+		        siteSections.push("company news");
+		        siteSections.push("commodities");
+		        siteSections.push("economics");
+		        siteSections.push("politics");
+		        siteSections.push("technology");
+		        siteSections.push("bloomberg news wire ");
+		        siteSections.push("opinion");
+		        siteSections.push("etfs");
+		        siteSections.push("executive");
+		        siteSections.push("pursuits");
+		        siteSections.push("international");
+		        siteSections.push("market call");
+		        siteSections.push("market call tonight");
+		        siteSections.push("schedule");
+		        siteSections.push("bnn bloomberg advisor");
+		
+    var axisCollectionObj_7_355152_1454435502 = {
+        contentType: 'media',
+        playerConfig: 'bnn/autoplay-off.json',
+        collectionId: 29667,
+        layout: 'rail',
+        pageSize: '10',
+        dateFilterEnabled: false,
+        videoLimit: '5',
+        videoLength: '3',
+        relatedEnabled: false,
+        siteSections: siteSections,
+        elementId: "axis_player_7_355152_1454435502",
+        adSite: "ctv.bnn",
+        autoPlay: 'bnn/autoplay-on.json'
+    };
+
+		
+</script>
+
+    <script>
+        var persistentPlayer = {
+            enabled: "true"
+        }
+    </script>
+
+
+
+<section class="axis-collection-container rail"  data-obj-id="axisCollectionObj_7_355152_1454435502" ng-controller="AxisCollection" ng-init="init()" >
+
+                        <header class="rightrail-header">
+                <p>Commodities Videos</p>
+                <div class="clear"></div>
+            </header>
+        
+			
+                        <div class="preloader" ng-hide="dataLoaded"></div>
+        
+	        <div class="media-container" ng-class="{enableAutoPlay: false == false}">
+
+            <div class="media-content">
+			                
+                <div class="video-player-wrapper" ng-if="currentStream.Id">
+
+				                                           
+                                                <div class="axis_player_7_355152_1454435502" data-axis-id="currentStream.Id"></div>
+
+                        <div id="persistent-title"><h3></h3></div>
+                        
+
+					                            <div class="videoAuthentication">
+        <span class="videoLogout" onclick="BmAuth.handleSignOut(); Tracking.trackLogout(); return false;">VIDEO SIGN OUT</span>
+    </div>
+					
+                </div>
+                
+                
+			                <div  class="headline" ng-if="currentStream" ng-cloak>
+                    <h2 >{{ currentStream.Name }}</h2>
+
+					                        <p >{{ currentStream.Desc }}</p>
+					
+					                        <add-playlist vid="{{currentStream.Id}}" video="{{currentStream}}"></add-playlist>
+					
+									                </div>
+
+            </div>
+        </div>
+
+    <div ng-cloak ng-hide="!dataLoaded || (axisCollection.length == 0)" class="wrapper">
+	        <div class="playlist-container">
+            <h2 >
+				                    Related Video
+				            </h2>
+            <div class="playlist-wrapper">
+                <ul class="playlist">
+                    <li class="playlist-item" ng-repeat="video in axisCollection" ng-class="{'last':$last,'first':$first}" ng-repeat-complete>
+                        <a href="" ng-click="handleClick(video.Id, video.Name, $event)" data-id="{{ video.Id }}" data-name="{{ video.Name }}">
+                            <div class="media">
+                                <div class="media-overlay" ng-class="{'live': video.Type == 'stream'}">
+                                    <div class="overlay-text up-next" ng-if="video.Id == nextStreamId">
+                                        <span>Up Next</span>
+                                    </div>
+                                    <div class="overlay-text now-showing" ng-if="video.Id == currentStreamId">
+                                        <span>Now Showing</span>
+                                    </div>
+                                    <div class="overlay-text" ng-if="video.Id != currentStreamId && video.Id != nextStreamId">
+                                        <span></span>
+                                    </div>
+                                </div>
+                                <img ng-if="$index > 4" ng-src="/img/elements/preloaders/preloader_black_video.gif" data-image="{{ video.Images[0].Url }}?width=140&height=79" alt="{{ video.Name }}" />
+                                <img ng-if="$index <= 4" ng-src="{{ video.Images[0].Url }}?width=140&height=79" data-image="{{ video.Images[0].Url }}?width=140&height=79" alt="{{ video.Name }}" />
+                                                            </div>
+                            <div class="video-content"><p >{{ video.Name }}</p>
+                            </div>
+                        </a>
+                        <div class="border"></div>
+                    </li>
+                </ul>
+                <div class="playlist-arrow top-arrow"></div>
+                <div class="playlist-arrow bottom-arrow"></div>
+            </div>
+
+					                <div class="playback-switch " >
+                    Continuous Play:
+                    <form class="switch">
+                        <input type="radio" name="playback" value="true" checked>ON
+                        <input type="radio" name="playback" value="false">OFF
+                    </form>
+                </div>
+			        </div>
+    </div>
+
+    <div class="no-data-found">
+		            <p>The information you requested is not available at this time, please check back again soon.</p>
+		    </div>
+
+			    	
+</section>
+
+	
+
+      
+    
+    
+        
+
+                        <div id="Adoop" bm-ad-instance ad-type="oopad" allow-mobile="true"></div>
+        
+
+
+      
+    
+    
+        
+            <div id="adSlimCut" bm-ad-instance ad-type="scad" allow-mobile="true"></div>
+    
+
+      
+  
+        		      			      				    
+                  
+    
+  
+    
+  
+    
+    
+            
+
+
+      
+  
+        			    		          </div>
+        <div class='content-main'>
+                                          
+        
+            
+                    
+    
+        
+    
+    
+                        
+                
+                    <script>
+        var persistentPlayer = {
+            enabled: "true"
+        }
+    </script>
+
+                
+
+                                        <article class="standard-article ">
+            
+            <div class="article">
+
+                                <header>
+                                            		                                                                                            
+                    <div class="tags">
+            <ul>
+                                                                                                                                                                                                                            <li class="highlighted">            <h4><a href="      /commodities  ">Commodities</a></h4>
+    </li>
+                            
+                                                                                                                                                                                                                                                                                                                                    <li class="unhighlighted">            <h4><a href="      /bloomberg-news-wire  ">News Wire</a></h4>
+    </li>
+                                                            
+                                                                                                                                                                                                                                                                                                                                    <li class="unhighlighted">            <h4><a href="      /company-news  ">Company News</a></h4>
+    </li>
+                                                            
+                                                                                                                                                                                                                                                                                                                                    <li class="unhighlighted">            <h4><a href="      /investing  ">Investing</a></h4>
+    </li>
+                                                            
+                                                                                                                                            
+                                                
+                                            </ul>
+        </div>
+        	    <div class="date ">
+	        <p>        
+                                                            Apr 26, 2020
+                                        <p>
+	    </div>
+                        
+                    <div class="headline" >
+                                                    <h1>Germany&rsquo;s Most Important River Is Drying Out</h1>
+                                                                                    </div>
+                                                            <div class="article-info no-media ">
+
+                                                                            <div class="sources"><p><span class="author">William Wilkes and Brian Parkin</span>, <span class="source">Bloomberg News</span></p></div>
+                            <script>
+                                var author='William Wilkes and Brian Parkin, Bloomberg News';
+                            </script>
+                        
+                                                
+                                                <ul class="social-right">
+                                                                                    <li>
+                                <div id="shareBarDiv"></div>
+                            </li>
+                                                                                </ul>
+                    </div>
+                    <div class="clear"></div>
+                </header>
+
+                                        
+                                                                <script>
+                    var articleText = ".article-text";
+                </script>
+                                <div class="article-text"><p>(Bloomberg) -- Germany’s spring showers haven’t materialized this year, and that’s drying out Germany’s most important river, prompting concerns that key industrial goods might have trouble making it to their destination.Typically one of the wettest months, Europe’s biggest economy has received just 5% of its normal April rainfall so far, according to Germany’s federal weather service. It’s on course to be the driest month since records began in 1881.</p><p>In addition to yellowing vegetation that’s usually a lush green in this season, the dry spell has depressed water levels on the Rhine River, a conduit for barges delivering everything from steel to oil and coal to Germany’s factories. The river is now at its lowest level for April since 2011.“If we don’t get more normal rain in May, then we’re looking at another year of serious drought conditions,” said Andreas Friedrich of Germany’s DWD federal weather service.</p><p>With its source high in the Swiss Alps, the Rhine snakes more than 800 miles (1,300 kilometers) and carries cargo barges through some of Europe’s most important industrial zones before greeting the North Sea at Rotterdam. A mix of glacial run-off and rain feeds the river, but contribution from glaciers has dwindled in recent years as summer melting out paces ice formation in winter.October 2018 saw rivers fall to just a few centimeters at a chokepoint near the village of Kaub, disrupting flows of fuels and goods to and from Germany’s advanced manufacturing heartlands in the south. The impasse was severe enough to dent German economic growth and underline how even advanced economies are feeling the impact of climate change.Waters at the Kaub bottleneck have fallen to 1 metre 15 centimetres, less than half the average water levels for this time of year. Officials at Switzerland’s federal weather service said heatwaves in summer 2019 -- where temperatures rose over 25 degrees Celsius in mountainous zones will further have destroyed glaciers, meaning they can’t be counted on to offset rain.While scientists are confident that glacial shrinkage stems from global warming, they don’t yet link an intensifying rising trend of less rainfall in April to climate change, according to Germany’s federal weather service.However, it is possible to suggest that the temperatures experienced across Europe this April have been enhanced due to global warming, and as warmer air can hold more moisture, that the evaporation rates have been increased, according to Simon Lee, climatologist at the University of Reading.“We more commonly associate that effect with summertime heatwaves,” he said. “But the mechanism is the same, and as the growing season expands due to a warming climate, the impacts of these early-season warm spells may become more significant.”</p><p>©2020 Bloomberg L.P.</p></div>
+
+            </div>
+
+        </article>
+
+
+
+                
+    
+        
+    
+    <script>
+        //Set gigya info
+        window.gigyaMeta = {
+            contentId: '1.1427200',
+            title: 'Germany\u2019s Most Important River Is Drying Out',
+            description: 'Germany\u2019s spring showers haven\u2019t materialized this year, and that\u2019s drying out Germany\u2019s most important river, prompting concerns that key industrial goods might have trouble making it to their destination.Typically one of the wettest months, Europe\u2019s biggest economy has received just 5% of its normal April rainfall so far, according to Germany\u2019s federal weather service. It\u2019s on course to be the driest month since records began in 1881.',
+            image: 'http://www.bnnbloomberg.ca/img/tsn/logos/tsn-logo.png',
+            socialPluginsLoaded: false
+        };
+
+        // Call build social plugins (in cases where the gigya API loaded before page finished rendering)
+        if(gigyaLoaded){
+            buildSocialPlugins();
+        }
+    </script>
+
+
+                                  
+                  
+    
+  
+    
+  
+    
+    
+        
+
+      
+    
+    
+        
+<article id="feed-widget" class="article-feed three-column">
+	            <div class="article-content">
+        <h3>Pot Shots</h3>
+        <div class="clear"></div>
+    </div>
+    <div class="headline">
+        <div class="feed-widget scroll-container horizontal">
+            <div class="scroll-container-frame">
+                <ul class="">
+                    
+                                        	
+                    	                        
+                                                                        
+                        <li>
+                            <a             href="/marijuana/video/ontario-pot-orders-surge-amid-quarantine%7E1941208"
+    >
+                            
+                                                                                                                                                                                                                                                                    <div class="media">
+                                                <div class="media-overlay"></div>
+                                                <img title="Ontario pot orders surge amid quarantine " alt="Ontario pot orders surge amid quarantine " src="https://images2.9c9media.com/image_asset/2020_4_16_46c856e1-1a29-42e1-a2df-5d8c4dad762c_jpg_980x551.jpg?height=135&width=240"/>
+                                                                                                    
+                        
+                        <div class="video-duration">3:12</div>
+                                                        </div>
+                                                                                                                                            
+                                <p>Ontario pot orders surge amid quarantine </p>
+                            </a>
+                        </li>
+                                        	
+                    	                        
+                                                                        
+                        <li>
+                            <a             href="/commodities/video/closing-pot-stores-amid-pandemic-could-re-stigmatize-the-industry-former-canopy-ceo%7E1934747"
+    >
+                            
+                                                                                                                                                                                                                                                                    <div class="media">
+                                                <div class="media-overlay"></div>
+                                                <img title="Closing pot stores amid pandemic could 're-stigmatize' the industry: Former Canopy CEO " alt="Closing pot stores amid pandemic could 're-stigmatize' the industry: Former Canopy CEO " src="https://images2.9c9media.com/image_asset/2020_4_6_e04e5cd0-f90e-4300-b5f0-a7ad83a75200_jpg_980x551.jpg?height=135&width=240"/>
+                                                                                                    
+                        
+                        <div class="video-duration">9:54</div>
+                                                        </div>
+                                                                                                                                            
+                                <p>Closing pot stores amid pandemic could 're-stigmatize' the industry: Former Canopy CEO </p>
+                            </a>
+                        </li>
+                                        	
+                    	                        
+                                                                        
+                        <li>
+                            <a             href="/marijuana/video/canntrust-gets-creditor-protection%7E1931707"
+    >
+                            
+                                                                                                                                                                                                                                                                    <div class="media">
+                                                <div class="media-overlay"></div>
+                                                <img title="CannTrust gets creditor protection" alt="CannTrust gets creditor protection" src="https://images2.9c9media.com/image_asset/2020_3_31_655fdfbd-5554-4c7a-a30d-4a42c90547c8_jpg_980x551.jpg?height=135&width=240"/>
+                                                                                                    
+                        
+                        <div class="video-duration">3:58</div>
+                                                        </div>
+                                                                                                                                            
+                                <p>CannTrust gets creditor protection</p>
+                            </a>
+                        </li>
+                    
+                </ul>
+                <div class="shadow-left"></div>
+                <div class="shadow-right"></div>
+            </div>
+
+            <div class="clear"></div>
+        </div>    
+    </div>
+                    </article>
+      
+  
+              </div>
+      </section>
+    </div>
+
+                        <footer class='hub-footer' bm-ad-complete>
+  <div class='site-footer'>
+    <div class='site-footer-main'>
+      
+              <ol class='site-footer-nav'>
+      
+              <li>
+          <a href="/subscribe">Subscribe to BNN Bloomberg Newsletters</a>
+        </li>
+              <li>
+          <a href="/talent">BNN Bloomberg Personalities</a>
+        </li>
+              <li>
+          <a href="/live-tv/schedule">Weekly Schedule</a>
+        </li>
+              <li>
+          <a href="/bnn-bloomberg-channel-guide-1.442318">Channel Guide</a>
+        </li>
+              <li>
+          <a href="/contact-us">Contact Us</a>
+        </li>
+              <li>
+          <a href="http://support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy#displayStep">Privacy Policy</a>
+        </li>
+              <li>
+          <a href="https://www.bellmedia.ca/sales/political-ads-registry/">Political Ad Registry</a>
+        </li>
+              <li>
+          <a href="https://www.bellmedia.ca/bell-media-website-terms-conditions/">Terms & Conditions</a>
+        </li>
+              <li>
+          <a href="/faq">FAQ</a>
+        </li>
+            </ol>
+
+                    <div class="site-footer-comScore-wrapper"><div class="left">&copy; 2020<a href="http://www.bellmedia.ca/" class="site-footer-bell-logo"> </a>All Rights Reserved</div>
+      
+            
+                  <div class="comScore-text">CTV News Sites</div>
+
+                    </div>
+                   </div>
+  </div>
+  <div id="getsat-widget-7028"></div>
+</footer>
+
+  	<script type="text/javascript" src="/js/bellmedia/plugins.min.js?v1585316852"></script>
+  
+<!--[if gt IE 8]><!-->   	<script type="text/javascript" src="/js/bellmedia/angular.min.js?v1585316852"></script>
+   <!--<![endif]-->
+<!--[if lt IE 9]>   	<script type="text/javascript" src="/js/bellmedia/angular-ie8.min.js?v1585316852"></script>
+   <![endif]-->
+
+
+
+
+
+
+
+<script type="text/javascript" src='//auth.9c9media.ca/auth/main.js'></script>
+<script type="text/javascript">
+  $(function(){
+      initAuth();
+  });
+  function initAuth () {
+              var brand = window.siteConfig.videoPlayerConfig.authBrand;
+              var platform = 'web';
+              var environment = window.siteConfig.videoPlayerConfig.authEnvironment;
+
+          BmAuth.init(brand, platform, environment)
+          .then( function() {})
+          .catch( function(errorPackage) { console.log('[BmAuth] init failed', errorPackage); });
+  };
+</script>
+
+  	<script type="text/javascript" src="/js/bellmedia/bnn-bloomberg.min.js?v1585316852"></script>
+  
+
+  
+        	<script type="text/javascript" src="/js/bellmedia/partials/common/articles.min.js?v1585316852"></script>
+    
+
+
+
+<script type="text/javascript">
+  // Set gigya registration source
+  window.__gigyaConf = { regSource : 'beta.bnn.ca' };
+  // Load gigya script asyncronously
+  (function() {
+    var s = document.createElement('script');
+    s.type='text/javascript';
+    s.async=true;
+    s.src = 'https://cdns.gigya.com/js/gigya.js?apiKey=3_XLe6j4XtKn0CRHynAmTCyx8RZxX1brcJGNNjgzFIuFKCAqvkD4HVYHMykJ5z969V';
+    document.getElementsByTagName('head')[0].appendChild(s);
+  })();
+
+</script>
+
+
+
+
+
+<script type="text/javascript">
+  var autoRefreshEnabled = ('false' == 'true') ? true : false,
+      autoRefreshInterval = parseInt('$autoRefreshInterval'), //Assume in mins
+      minRefreshInterval = 1000 * 60 * 5, //5 mins
+      refreshTimer = null;
+
+  // Convert and set auto refresh interval
+  if (!isNaN(autoRefreshInterval)) {
+    // Convert refresh interval to milliseconds
+    autoRefreshInterval = autoRefreshInterval * 60 * 1000;
+    // Make sure refresh interval is above minRefreshInterval
+    if (autoRefreshInterval < minRefreshInterval) autoRefreshInterval = minRefreshInterval;
+  } else {
+    // Otherwise set interval to minRefreshInterval
+    autoRefreshInterval = minRefreshInterval;
+  }
+
+  // If auto refresh checkbox is enabled
+  if (autoRefreshEnabled) {
+    // Start timeout function
+    window.autoRefreshStart = function(){
+        refreshTimer = setTimeout(function(){
+          window.location.reload(1); //Force clear cache
+        }, autoRefreshInterval);
+    }
+    // Stop timeout function
+    window.autoRefreshStop = function(){
+        if (refreshTimer != null){
+          clearTimeout(refreshTimer);
+          refreshTimer = null;
+        }
+    }
+    // Start timeout function
+    window.autoRefreshStart();
+  }
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+  { (i[r].q=i[r].q||[]).push(arguments)}
+  ,i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-19846804-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  <script type="text/javascript">
+    (function() {
+      /** CONFIGURATION START **/
+      var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+      _sf_async_config.sections = adZone; //using setting from ads
+      if(isArticle){
+        _sf_async_config.authors = author; //only on Articles
+      };
+      /** CONFIGURATION END **/
+      function loadChartbeat() {
+        var e = document.createElement('script');
+        var n = document.getElementsByTagName('script')[0];
+        e.type = 'text/javascript';
+        e.async = true;
+        e.src = '//static.chartbeat.com/js/chartbeat_video.js';;
+        n.parentNode.insertBefore(e, n);
+      }
+      loadChartbeat();
+    })();
+  </script>
+    
+    <div class='sidr-blocker'></div>
+    </div>
+  </body>
+</html>

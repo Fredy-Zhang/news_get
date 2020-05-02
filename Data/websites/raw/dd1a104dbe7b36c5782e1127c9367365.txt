@@ -1,0 +1,987 @@
+<!doctype html>
+<html itemtype="https://schema.org/Article" lang="en" amp>
+        <head>
+        <title>COVID- 19: India&#8217;s first coronavirus patient treated with convalescent plasma therapy recovers, Delhi hospital says it&#8217;s an encouraging news for the country</title>
+        <meta name="description" content="COVID- 19: By using the convalescent plasma therapy, a coronavirus patient has been successfully recovered and has to be on 14-days self-isolation. Delhi hospital says it's encouraging news for the country"/>
+        <meta name="keywords" content="plasma therapy, india covid, covid plasma, convalescent plasma, plasma recovery, covid patient, COVID-19 news, Coronavirus in India, Coronavirus update, Coronavirus lastest cases, plasma therapy news, India's first coronavirus patient treated with convalescent plasma therapy"/>
+        <meta charset="utf-8">
+        <meta content="width=device-width,minimum-scale=1,initial-scale=1.0" name="viewport">
+        <meta content="yes" name="apple-mobile-web-app-capable">
+        <meta content="true" name="HandheldFriendly">
+        <meta content="width" name="MobileOptimized">
+        <meta content="uK8ZjBy_LLxsS9XjniMYiB_cqYFlYwk7tNdQkbWBTyw" name="google-site-verification">
+			<link rel="icon" href="https://js.newsx.com/wp-content/uploads/2017/06/cropped-favicon-16x16-32x32.png" sizes="32x32" />
+        <link href="https://www.newsx.com/wp-content/themes/newsxlite/images/logo2.png" rel="apple-touch-icon-precomposed">
+        <link href="https://www.newsx.com/wp-content/themes/newsxlite/images/logo2.png" sizes="250x73" rel="apple-touch-icon-precomposed">
+        <link href="https://www.newsx.com/wp-content/themes/newsxlite/images/logo2.png" sizes="250x73" rel="apple-touch-icon-precomposed">
+        <link href="https://www.newsx.com/wp-content/themes/newsxlite/images/logo2.png" sizes="250x73" rel="apple-touch-icon-precomposed">
+        <!-- Open Graph data --><meta property="fb:app_id" content="2309842182575231" /><meta property="og:title" content="COVID- 19: India&#8217;s first coronavirus patient treated with convalescent plasma therapy recovers, Delhi hospital says it&#8217;s an encouraging news for the country" /><meta property="og:type" content="article" /><meta property="og:image" content="https://www.newsx.com/wp-content/uploads/2020/04/astrid-sm-12-883078-CKWeGPTj.jpg" /><meta property="og:url" content="https://www.newsx.com/national/covid-19-indias-first-coronavirus-patient-treated-with-convalescent-plasma-therapy-recovers-delhi-hospital-says-its-an-encouraging-news-for-the-country.html" /><meta property="og:description" content="COVID- 19: The first patient, who was administered convalescent plasma therapy on compassionate grounds at Max Hospital in Saket, has now fully recovered and was discharged on Sunday. Dr. Sangeeta..." /><meta property="article:published_time" content="2020-04-27T09:49:06+05:30" /><meta property="article:modified_time" content="2020-04-27T09:55:25+05:30" /><meta property="og:site_name" content="NewsX" /><meta property="article:publisher" content="https://www.facebook.com/Newsxonline"/><!-- Twitter Card data --><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="COVID- 19: India&#8217;s first coronavirus patient treated with convalescent plasma therapy recovers, Delhi hospital says it&#8217;s an encouraging news for the country" /><meta name="twitter:url" content="https://www.newsx.com/national/covid-19-indias-first-coronavirus-patient-treated-with-convalescent-plasma-therapy-recovers-delhi-hospital-says-its-an-encouraging-news-for-the-country.html" /><meta name="twitter:description" content="COVID- 19: The first patient, who was administered convalescent plasma therapy on compassionate grounds at Max Hospital in Saket, has now fully recovered and was discharged on Sunday. Dr. Sangeeta..." /><meta name="twitter:image:src" content="https://www.newsx.com/wp-content/uploads/2020/04/astrid-sm-12-883078-CKWeGPTj.jpg" /><meta name="twitter:image:width" content="480" /><meta name="twitter:image:height" content="267" />        	<link rel="canonical" href="https://www.newsx.com/national/covid-19-indias-first-coronavirus-patient-treated-with-convalescent-plasma-therapy-recovers-delhi-hospital-says-its-an-encouraging-news-for-the-country.html" />
+			<script custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js" async></script>
+			<script custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js" async></script>
+			<script custom-element="amp-instagram" src="https://cdn.ampproject.org/v0/amp-instagram-0.1.js" async></script>
+			<script custom-element="amp-dailymotion" src="https://cdn.ampproject.org/v0/amp-dailymotion-0.1.js" async></script>
+		<script src="https://cdn.ampproject.org/v0.js" async></script>
+			<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic">
+		<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+				                 <script async custom-element="amp-live-list" src="https://cdn.ampproject.org/v0/amp-live-list-0.1.js"></script>
+        <script custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js" async></script>
+		<script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js">
+        </script><script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+<script type="application/ld+json">
+{ "@context": "https://schema.org",
+"@type": "WebPage",
+"name": "COVID- 19: India&#8217;s first coronavirus patient treated with convalescent plasma therapy recovers, Delhi hospital says it&#8217;s an encouraging news for the country",
+"description": "",
+"keywords":"plasma therapy, india covid, covid plasma, convalescent plasma, plasma recovery, covid patient, COVID-19 news, Coronavirus in India, Coronavirus update, Coronavirus lastest cases, plasma therapy news, India's first coronavirus patient treated with convalescent plasma therapy",
+"url" : "https://www.newsx.com/national/covid-19-indias-first-coronavirus-patient-treated-with-convalescent-plasma-therapy-recovers-delhi-hospital-says-its-an-encouraging-news-for-the-country.html"
+}
+</script>
+        <script type="application/ld+json">
+                    {
+                    	"@context": "https://schema.org",
+                    	"@type": "NewsArticle",
+					    "mainEntityOfPage":"https://www.newsx.com/national/covid-19-indias-first-coronavirus-patient-treated-with-convalescent-plasma-therapy-recovers-delhi-hospital-says-its-an-encouraging-news-for-the-country.html",
+					    "articleSection":"National News",
+						"inLanguage":"en",
+                    	"headline": "COVID- 19: India&#8217;s first coronavirus patient treated with convalescent plasma therapy recovers, Delhi hospital says it&#8217;s an encouraging news for the country",
+						"articleBody": "COVID- 19: The first patient, who was administered convalescent plasma therapy on compassionate grounds at Max Hospital in Saket, has now fully recovered and was discharged on Sunday. Dr. Sangeeta told ANI: 'It is encouraging news for India. He was finally discharged today. He will be in-home quarantine for another two weeks as per the government norm.' The 49-year-old critically ill patient was administered fresh plasma as a treatment modality as a side-line to standard treatment protocols on the night of April 14. The 49-year-old male patient from Delhi had tested COVID-19 positive on April 4 and was admitted at the COVID facility at the hospital with moderate symptoms and a history of fever and respiratory issues. His condition deteriorated during the next few days and he soon required external oxygen to maintain saturation. He soon developed pneumonia with Type I respiratory failure and had to be put on ventilator support on April 8. https://www.youtube.com/watch?v=fFxIv_A2zwc When the patient showed no improvement in his condition, his family requested the hospital for the administration of plasma therapy on compassionate grounds, a first of its kind treatment modality that was used for this disease in India. The family came forward to arrange a donor for extracting plasma. The donor had recovered from the infection -- confirmed by two consecutive negative reports -- three weeks before her donation and again tested COVID-19 negative at the time of donation along with other standard tests to rule out infections like Hep B, Hep C, and HIV. https://www.youtube.com/watch?v=_N5yDdrq7EI According to Max Hospital doctors, a single donor can donate 400 ml of plasma, which can save two lives, as 200 ml is sufficient to treat one patient. After receiving the treatment, the patient showed progressive improvement and by the fourth day was weaned off ventilator support on the morning of April 18 and continued on supplementary oxygen. https://twitter.com/ANINewsUP/status/1254618910814429186 He had started taking the oral feeds in 24-hour after being off ventilator support. He was shifted to a room with round-the-clock monitoring on Monday after testing negative twice within 24 hours, said the Max Hospital doctor. https://twitter.com/ANI/status/1254618596514422786",
+                    	"image": {
+                    		"@type": "ImageObject",
+                    		"url": "https://www.newsx.com/wp-content/uploads/2020/04/astrid-sm-12-883078-CKWeGPTj.jpg",
+                    		"height": 444,
+                    		"width": 790
+                    	},
+						"keywords": "plasma therapy, india covid, covid plasma, convalescent plasma, plasma recovery, covid patient, COVID-19 news, Coronavirus in India, Coronavirus update, Coronavirus lastest cases, plasma therapy news, India's first coronavirus patient treated with convalescent plasma therapy",
+								  "datePublished": "2020-04-27T09:49:06+05:30",
+		     		"dateModified": "2020-04-27T09:55:25+05:30",
+                    	"author": {    
+                    		"@type": "Person",
+                    		"name": "ANI"
+                    	},
+                    	"publisher": {
+                    		"@type": "Organization",
+                    		"name": "NewsX",
+                    		"logo": {
+                    			"@type": "ImageObject",
+                    			"url": "https://www.newsx.com/wp-content/uploads/2019/04/newsx.png",
+                    			"width": 600,
+                    			"height": 60
+                    		}
+                    	},
+                    	"description": "COVID- 19: The first patient, who was administered convalescent plasma therapy on compassionate grounds at Max Hospital in Saket, has now fully recovered and was discharged on Sunday. Dr. Sangeeta"
+                    }
+                </script>
+			<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@graph": 
+	[
+      {
+          "@context": "https://schema.org",
+          "@type":"SiteNavigationElement",
+          "@id":"#top-menu",
+          "name": "NATIONAL NEWS ",
+          "url": "https://www.newsx.com/national"
+      },
+      {
+          "@context": "https://schema.org",
+          "@type":"SiteNavigationElement",
+          "@id":"#top-menu",
+          "name": "ENTERTAINMENT NEWS",
+          "url": "https://www.newsx.com/entertainment"
+      },
+      {
+          "@context": "https://schema.org",
+          "@type":"SiteNavigationElement",
+          "@id":"#top-menu",
+          "name": "EDUCATION AND JOBS NEWS",
+          "url": "https://www.newsx.com/education-and-jobs"
+      },
+      {
+          "@context": "https://schema.org",
+          "@type":"SiteNavigationElement",
+          "@id":"#top-menu",
+          "name": "Live TV",
+          "url": "https://www.newsx.com/live-tv/newsx-live-tv-watch-online-india-news"
+      }
+	]
+}
+</script>
+                        <meta name="news_keywords" content="plasma therapy, india covid, covid plasma, convalescent plasma, plasma recovery, covid patient, COVID-19 news, Coronavirus in India, Coronavirus update, Coronavirus lastest cases, plasma therapy news, India's first coronavirus patient treated with convalescent plasma therapy "/>
+                <meta name="description" content="COVID- 19: The first patient, who was administered convalescent plasma therapy on compassionate grounds at Max Hospital in Saket, has now fully recovered and was discharged on Sunday. Dr. Sangeeta..."/>
+        <!-- Schema.org markup for Google+ -->
+        <meta itemprop="name" content="COVID- 19: India&#8217;s first coronavirus patient treated with convalescent plasma therapy recovers, Delhi hospital says it&#8217;s an encouraging news for the country">
+        <meta itemprop="description" content="COVID- 19: The first patient, who was administered convalescent plasma therapy on compassionate grounds at Max Hospital in Saket, has...">
+        <meta itemprop="image" content="https://www.newsx.com/wp-content/uploads/2020/04/astrid-sm-12-883078-CKWeGPTj.jpg">
+        <style amp-custom>
+ body {font-family: 'Merriweather', 'Times New Roman', Times, Serif;}.body-container {padding: 5px 30px;max-width:600px;margin:0 auto;}/* fixed top menu has a 40px height*/ nav {height:50px;position:relative;top:0;left:0;right:0;background:#232f3c;z-index:990;padding:8px 5px 0px;}/* remove bullets and add transition effect */nav ul {list-style-type: none;margin:0;padding:0;transition: transform .75s ease-in-out;-webkit-transition: transform .75s ease-in-out;width: 50px;z-index: 999;height: 50px;float: left;}/* fixed menu button */         nav > ul >li {position: absolute;left: 0;top: 0px;z-index: 999;padding: 9px 8px;width: 50px;line-height: 40px;color: #fff;font-size: 24px;margin-top: 0;text-align: center;}/* initial state: hide the menu */         nav > ul > li > ul {position: absolute;top: 58px;left: -260px;box-shadow: 3px 5px 12px -3px #000;width: 200px;bottom: 0;background: #232f3c;z-index: 990;border-right: 1px solid #666;}/* Hover state, the menu button has been clicked*/         /* scroll the menu into the page */         nav > ul > li:hover > ul {transform: translate3d( 240px, 0, 0 );-webkit-transform: translate3d( 240px, 0, 0 );}/* div on top of menu to simulate the close button, delay animation for .75s*/         #closemenu {position:absolute;top: -40px;left: 0;right: 0;height: 40px;z-index: 999;line-height: 40px;padding-left: 170px;font-size: 36px;transition: transform .02s ease-in-out;-webkit-transition: transform .02s ease-in-out;}/* the the close menu button, uses ~ selector */         #closemenu {color:#fff;display:none;} nav ul:hover ~ #closemenu {transform: translate3d( 0, 40px, 0 );-webkit-transform: translate3d( 0, 40px, 0 );color:#fff;}/* styling */         nav > ul > li > ul > li {padding:5px 10px;border-bottom:1px solid #666;}nav > ul > li > ul > li >a {display: block;text-decoration: none;padding: 0px 0;color: #ddd;font-size: 14px;letter-spacing: 1px;text-transform: capitalize;}.menu {height:500px;overflow:auto;}.brandlogo {width: 33%;margin: 0 auto;}.brandlogo amp-img {width:110px;height:40px;margin:0 auto;}.article-body table { overflow: scroll; width: 100%; display: block;}.breadcrum {clear:both;margin-top:10px;padding:0;list-style: none;} .breadcrum::after {content:" ";display:block;width:100%;clear:both;float:none;}.breadcrum li {float:left;}.breadcrum li a {color:#aaa;font-size:12px;text-decoration: none;}.breadcrum li a:hover {text-decoration:none;} .breadcrum li::after {content:" / ";display:block;float:right;margin:0 8px;font-size:18px;color:#aaa;}.breadcrum li:last-child {content:unset;}.article {margin-bottom:40px;}.article-title h1 {font-size:24px;}.publish-date {margin-bottom:8px;font-size:14px;font-weight:bold;color:#666;}.article-body {clear:both;}.article-body p {line-height:1.4;color:#444;}.also-read {background-color: #eee;border-radius: 4px;padding: 5px 8px;border:1px solid #ccc;}.also-read p {margin: 0;color: #333;font-weight: 600;letter-spacing:3px;}.also-read a {color: #333;text-decoration: none;font-weight: 500;margin-left: 8px;letter-spacing:0;}.related-story-panel h2 {font-size:20px;margin-bottom:0;border-bottom:1px solid #333;padding-bottom:5px;color:#333;}.related-stories {border-bottom:1px solid #ccc;padding:12px 0;width:100%;height:auto;overflow: auto;}.related-stories:last-child {border-bottom:none;}.related-stories .related-story-img {width: 100%;margin-bottom: 15px;}.related-stories .related-story-title a {color:#333;text-decoration: none;font-size:14px;}.top-stories {width:100%;/*float:left;*/margin: 5px 15px 30px 0;background-color:#eee;clear:both;}.top-stories h3 {background-color: #232f3c;color: #ddd;margin: 0;letter-spacing: 1px;font-size: 15px;text-transform: uppercase;padding: 5px 8px;text-align: center;}.top-stories ul {list-style: none;padding:0 5px 5px 5px;margin:0;border:1px solid #ccc;}.top-stories li {border-bottom:1px solid #aaa;padding:5px;}.top-stories li:last-child {border:none;}.top-stories a {color:#333;text-decoration: none;font-size:12px;text-align: justify;}footer {height: auto;overflow: auto;font-size: 14px;padding-bottom: 5px;}.footer-container {background-color:#232f3c;color:#ddd;padding:8px;margin-top:25px;}.footer-links {list-style:none;padding:0 10px 15px;height:auto;overflow:auto;border-bottom:1px solid #ddd;text-align:center;}.footer-links a {color:#ddd;text-decoration: none;float:left;padding:5px 8px;border-right:1px solid #ddd;margin:5px 0px;font-size:14px;}.footer-links li:last-child a {border:none;}.footer-container p {margin:0;text-align: center;}.social-share {background-color:#fff;margin:10px 0;height:auto;overflow:auto;}amp-social-share {background-size: 26px;float:left;border-right:2px solid #fff;}blockquote {color: #353535;background: rgba(127, 127, 127, .125);border-left: 2px solid #232f3c;margin: 8px 0 24px 0;padding: 16px;}blockquote p:last-child {margin-bottom: 0;}.amp-wp-article-content amp-img{max-width:100%;}/*liveblogcustomcss*/.amp-live-list-item{padding: 10px;background: #f6f6f6;border-bottom: 1px solid #ccc;}.bloghead { border-bottom: 3px solid #cf0000; padding-bottom: 20px; font-family: 'Roboto',sans-serif;}.background{background:#f6f6f6;}.livedojo_update.c2 {padding:30px 0px 0px 0px;}.livedojo_update.c2 .livedojo_headme{display: table;width:100%;margin-top:-1px;position:relative;margin-bottom:30px;}.livedojo_update.c2 .livedojo_headme .livedojo_head{height:35px;}.livedojo_update.c2 .livedojo_headme .livedojo_time {margin-bottom:0px;border-radius:4px;height:35px;padding:0px 10px 0px 9px;line-height:35px;}.livedojo_update.c2 .livedojo_headme .livedojo_separator {top: 17px;}.livedojo_update.c2 .livedojo_headme .livedojo_separator_dot{width:11px;height:11px;top:12px;}.livedojo_update.c2 .livedojo_headme .livedojo_title { padding:3px 0px 0px 0px;}.livedojo_update.c2 .livedojo_headme .livedojo_content {padding-bottom:0px;border:0px;}.livedojo_update.c2 .livedojo_contentme {display: table;width:100%;margin-top:-10px;}.livedojo_update.c2 .livedojo_contentme .livedojo_head .livedojo_images{margin-top:10px;}.livedojo_update.c2 .livedojo_video + .livedojo_contentme {margin-top:0px;}.livedojo_update.c2 .livedojo_contentme .livedojo_head .livedojo_images img {border-radius:4px;}.livedojo_update.c2 .livedojo_contentme .livedojo_content {padding-top:0px;padding-bottom:33px;line-height:1.9em;}.livedojo_update.c2 .livedojo_featured {display: table;margin-bottom:30px;}.livedojo_update.c2 .livedojo_featured img {width:100%;border-radius:4px;}.livedojo_update.c2 .livedojo_video {display: block;position: relative; 	padding-bottom: 56.25%; /* 16:9 */ 	height: 0;margin-bottom:30px;}.livedojo_update {width:95%;box-sizing: border-box; padding:1em 0px 0px 0px;margin:0px auto;line-height: 1em;clear:both;box-sizing: border-box;min-height:4.5em;position:relative;display:table;font-size:14px;}.livedojo_update > div {display:table-cell;vertical-align: top;}.livedojo_update .livedojo_head{width:200px;display:table-cell;padding-right:1.5em;}.livedojo_update .livedojo_time {float:left;line-height:1.5em;background-color:#dadada;position:absolute;padding:0.5em;height:2.5em;box-sizing: border-box;color:#666666; transition:all 300ms ease-in-out 0ms;}.livedojo_update .livedojo_time i {line-height:inherit;}.livedojo_update .livedojo_separator {height:1px; width:165px;background-color: #ddd;position:absolute;display:block;float:left;top:2.25em;transition:all 300ms ease-in-out 0ms;}.livedojo_update .livedojo_separator_dot {height:0.8em; width:0.8em;background-color: #e74c3c;position:absolute;display:block;left:calc( 170px - 0.8em);top:1.9em;border-radius:50%;float:left;}.livedojo_update .livedojo_content {display:table-cell;padding:0em 1.5em 0.7em 0em;line-height:1.5em;color:#333333;font-size:16px;vertical-align:top;}.livedojo_update .livedojo_content p { margin-bottom:0px;}.livedojo_update .livedojo_content p +p {margin-top:1.68em;}.livedojo_update .livedojo_title {font-weight:bold;font-size:16px;color:#111;line-height:1.5em;padding-bottom:1em;}.livedojo_images {/*margin-top:3.5em;*/margin-top:calc( 30px - 0.8em);}.livedojo_images img {width:170px; height:170px;margin-bottom:1em;}.livedojo_images.livedojo_gallery {margin-left:-15px; margin-right:-15px;}.livedojo_images.livedojo_gallery img {width:70px;height:70px;margin:0px 15px 30px 15px;}.livedojo_content img{display:block;margin:auto;margin-bottom:10px;}.liveblogbg { background: #cf0000; color: #fff; font-size: 24px; font-weight: 700; padding: 10px 30px; position: relative;text-align:center;}.titleforliveblog{    font-weight: bold; font-size: 18px; color: #111; line-height: 1.5em; }.adscenter{text-align:center;}.excerpt{margin-bottom:15px;}.excerpt span{font-size:14px;color: #444;line-height:1.4}ol.wikitype { border: 1px solid #ddd; padding-bottom: 10px; overflow: hidden; float: left; background: #e8e8ff; width: 90%;}ol.wikitype li:first-child{border-top:0;}ol.wikitype li:before{    color: #337ab7;font-size: initial;top:10px;}ol.wikitype li { border-top: 1px solid #ccc;padding-top: 10px; margin-top: 10px;}.article-body h2{padding-top: 10px; padding-bottom: 10px; font-size: 25px; font-weight: bold;}ol.wikitype li a { text-decoration: none; padding-bottom: 10px; display: block;}.related-story-img amp-img{height:169px;}.notification_sec{background: url(https://js.inkhabar.com/wp-content/uploads/2019/10/amp_logo2.png) no-repeat 0 0;
+position:fixed;left:2px;bottom:30px;z-index:999;width: 50px; height: 50px;background-size:50px;}
+.accordion-panel__heading {
+    position: relative;
+    padding: 15px 0px 10px 10px;
+    display: block;
+    text-decoration: none;
+    color: #000;
+    background: #f5f5f5;
+    font-size: 18px;
+    font-weight: 600;
+    transition: all .2s;
+    cursor: pointer;
+}	
+section p{padding: 10px 14px 10px 10px;}			
+</style> 
+ </head>
+ <body>
+<nav>
+ <ul>
+    <li>&#9776;
+              <ul id="menu-header" class="menu"><li id="menu-item-242319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-242319"><a href="https://www.newsx.com/live-tv">Live TV</a></li>
+<li id="menu-item-581050" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-581050"><a href="https://www.newsx.com/podcasts">Podcasts</a></li>
+<li id="menu-item-107245" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107245"><a href="https://www.newsx.com/entertainment">Entertainment</a></li>
+<li id="menu-item-571543" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-571543"><a href="https://www.newsx.com/questions-answers-faq">FAQ</a></li>
+<li id="menu-item-559858" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-559858"><a href="https://www.newsx.com/bigg-boss/bigg-boss-season-13-2019">Bigg Boss 13</a></li>
+<li id="menu-item-107252" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107252"><a href="https://www.newsx.com/education-and-jobs">Education &#038; Jobs</a></li>
+<li id="menu-item-107244" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-107244"><a href="https://www.newsx.com/national">National</a></li>
+<li id="menu-item-205787" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-205787"><a href="https://www.newsx.com/regional">Regional</a></li>
+<li id="menu-item-107242" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107242"><a href="https://www.newsx.com/sports">Sports</a></li>
+<li id="menu-item-107246" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107246"><a href="https://www.newsx.com/world">World</a></li>
+<li id="menu-item-261488" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-261488"><a href="https://www.newsx.com/photo-gallery">Photos</a></li>
+<li id="menu-item-107253" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107253"><a href="https://www.newsx.com/business">Business</a></li>
+<li id="menu-item-107248" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107248"><a href="https://www.newsx.com/auto">Auto News</a></li>
+<li id="menu-item-436509" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-436509"><a href="https://www.newsx.com/gadgets">Gadgets</a></li>
+<li id="menu-item-107249" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107249"><a href="https://www.newsx.com/lifestyle-and-fashion">Lifestyle &#038; Fashion</a></li>
+<li id="menu-item-107254" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107254"><a href="https://www.newsx.com/travel-and-food">Travel &#038; Food</a></li>
+<li id="menu-item-107255" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107255"><a href="https://www.newsx.com/health-and-environment">Health &#038; Environment</a></li>
+<li id="menu-item-107346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107346"><a href="https://www.newsx.com/offbeat">Offbeat</a></li>
+<li id="menu-item-405577" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405577"><a href="https://www.newsx.com/amazon-quiz">Amazon Quiz</a></li>
+<li id="menu-item-405578" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405578"><a href="https://www.newsx.com/dream-11-prediction">Dream 11 Prediction</a></li>
+<li id="menu-item-107256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107256"><a href="https://www.newsx.com/video-gallery">video gallery</a></li>
+</ul>            </li>
+  </ul>
+          <div id="closemenu">&#215;</div>
+          <div class="brandlogo"> <a target="_blank" href="https://www.newsx.com">
+            <amp-img src="https://www.newsx.com/wp-content/uploads/2017/01/logo2.png" width="110" height="40" layout="responsive" alt=""></amp-img>
+            </a> </div>
+        </nav>
+<div class="body-container">
+          <ul class="breadcrum" itemscope itemtype="http://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://www.newsx.com" itemprop="item"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://www.newsx.com/national" itemprop="item"> <span itemprop="name">National&nbsp;News</span></a><meta itemprop="position" content="2" /></li>
+</ul>
+          <div class="article">
+    <div class="article-title">
+              <h1>
+        COVID- 19: India&#8217;s first coronavirus patient treated with convalescent plasma therapy recovers, Delhi hospital says it&#8217;s an encouraging news for the country      </h1>
+            </div>
+            			     <div class="adscenter">
+ <amp-ad width=300 height=250
+    type="doubleclick"
+	data-loading-strategy="prefer-viewability-over-views"		
+    data-slot="/21673111209/NewsX_Article_Mobile_MPU_1"
+    data-multi-size="300x250,250x250">
+	   </amp-ad></div>
+			      <div class="publish-date"> <span>Updated on:</span> <span class="updated-date">
+            27 April 2020      9:55 AM            </span> </div>
+			   <div class="social-share">
+              <amp-social-share type="facebook"  data-param-text="COVID- 19: India&#8217;s first coronavirus patient treated with convalescent plasma therapy recovers, Delhi hospital says it&#8217;s an encouraging news for the country" data-param-href="https://www.newsx.com/national/covid-19-indias-first-coronavirus-patient-treated-with-convalescent-plasma-therapy-recovers-delhi-hospital-says-its-an-encouraging-news-for-the-country.html" data-param-app_id="2309842182575231"></amp-social-share>
+              <amp-social-share type="twitter"></amp-social-share>
+              <amp-social-share type="gplus"></amp-social-share>
+              <amp-social-share type="whatsapp"></amp-social-share>
+            </div>
+			  <div class="excerpt"><span>COVID- 19: By using the convalescent plasma therapy, a coronavirus patient has been successfully recovered and has to be on 14-days self-isolation. Delhi hospital says it's encouraging news for the country</span></div>
+   
+			  <div class="article-image">
+                            <div class="ampforwp-featured-holder">
+        <amp-img
+							    src="https://www.newsx.com/wp-content/uploads/2020/04/astrid-sm-12-883078-CKWeGPTj.jpg"		   
+							    width="1024"
+							    height="576"
+							    layout="responsive"
+							    title="India's first coronavirus patient treated with convalescent plasma therapy recovers" alt="India's first coronavirus patient treated with convalescent plasma therapy recovers"> </amp-img>
+      </div>
+                          </div>
+  
+    <div class="article-body">
+              						<div style="text-align:center;margin-top:20px;">
+		<amp-ad width=300 height=280
+    type="doubleclick"
+    data-loading-strategy="prefer-viewability-over-views"
+    data-slot="/21673111209/NewsX_Article_Mobile_MPU_3"
+    data-multi-size="300x250,250x250">
+		</amp-ad></div> <div class="amp-wp-article-content"> <p><strong>COVID- 19:</strong> The first patient, who was administered convalescent plasma therapy on compassionate grounds at Max Hospital in Saket, has now fully recovered and was discharged on Sunday. Dr. Sangeeta told ANI: âIt is encouraging news for India. He was finally discharged today. He will be in-home quarantine for another two weeks as per the government norm.â</p>
+<p>The 49-year-old critically ill patient was administered fresh plasma as a treatment modality as a side-line to standard treatment protocols on the night of April 14.<br />
+The 49-year-old male patient from Delhi had tested COVID-19 positive on April 4 and was admitted at the COVID facility at the hospital with moderate symptoms and a history of fever and respiratory issues.</p>
+<p><amp-ad width="300" height="280" type="doubleclick" data-slot="/21673111209/NewsX_Article_Mobile_MPU_2" data-multi-size="300x250,250x250"></amp-ad></p>
+<p>His condition deteriorated during the next few days and he soon required external oxygen to maintain saturation. He soon developed pneumonia with Type I respiratory failure and had to be put on ventilator support on April 8.</p>
+<p><amp-youtube data-videoid="fFxIv_A2zwc" layout="responsive" width="600" height="338"></amp-youtube></p>
+<p>When the patient showed no improvement in his condition, his family requested the hospital for the administration of plasma therapy on compassionate grounds, a first of its kind treatment modality that was used for this disease in India.</p>
+<p>The family came forward to arrange a donor for extracting plasma. The donor had recovered from the infection â confirmed by two consecutive negative reports â three weeks before her donation and again tested COVID-19 negative at the time of donation along with other standard tests to rule out infections like Hep B, Hep C, and HIV.</p>
+<p><amp-youtube data-videoid="_N5yDdrq7EI" layout="responsive" width="600" height="338"></amp-youtube></p>
+<p>According to Max Hospital doctors, a single donor can donate 400 ml of plasma, which can save two lives, as 200 ml is sufficient to treat one patient.<br />
+After receiving the treatment, the patient showed progressive improvement and by the fourth day was weaned off ventilator support on the morning of April 18 and continued on supplementary oxygen.</p>
+<p><amp-twitter data-tweetid="1254618910814429186" layout="responsive" width="600" height="480"></amp-twitter></p>
+<p>He had started taking the oral feeds in 24-hour after being off ventilator support. He was shifted to a room with round-the-clock monitoring on Monday after testing negative twice within 24 hours, said the Max Hospital doctor.</p>
+<p><amp-twitter data-tweetid="1254618596514422786" layout="responsive" width="600" height="480"></amp-twitter></p>
+<p><amp-twitter data-tweetid="1254469233804587008" layout="responsive" width="600" height="480"></amp-twitter></p>
+	 
+               </div>
+                          </div>
+			  
+			  			
+<div><amp-embed width="100" height="100"
+    type="outbrain"
+    layout="responsive"
+    data-widgetIds="AMP_1">
+</amp-embed></div>
+			  
+  </div>
+          <div class="related-story-panel">
+		  <div class="adscenter">
+			<amp-ad width=300 height=250
+			type="adsense"
+			data-ad-client="ca-pub-7552149977928927"
+			data-ad-slot="8962907954">
+			<div overflow></div>
+			</amp-ad>
+		  </div>
+		  
+    <h2>Related Stories</h2>
+            <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-india-update-total-cases-report-health-ministry.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/coronavirus-cases-963290-347XHFLH-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-india-update-total-cases-report-health-ministry.html">
+                Coronavirus update: 1,396 fresh cases in India in last 24 hours, total cases near 28,000 with toll at 872                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/congress-manish-tewari-centre-covid-19-post-lockdown-plan-exit-road-map.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/manish-tewari-749830-0kAmJoCw-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/congress-manish-tewari-centre-covid-19-post-lockdown-plan-exit-road-map.html">
+                Congress&#8217;s Manish Tewari says Centre failed to anticipate magnitude of COVID-19, seeks comprehensive post-lockdown plan and exit roadmap                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/pm-modi-to-meet-cms-today-9-states-to-put-forward-their-views-at-10-am.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/pm-narendra-modi-pc-976611-REYrgASk-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/pm-modi-to-meet-cms-today-9-states-to-put-forward-their-views-at-10-am.html">
+                PM Modi to meet CMs today, 9 states to put forward their views at 10 AM                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/arvind-kejriwal-govt-says-293-fresh-coronavirus-cases-reported-total-cases-in-delhi-grow-to-2918.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/02/kejriwal-063826-aQyLvgT9-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/arvind-kejriwal-govt-says-293-fresh-coronavirus-cases-reported-total-cases-in-delhi-grow-to-2918.html">
+                Arvind Kejriwal govt says 293 fresh coronavirus cases reported, total cases in Delhi grow to 2,918                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/pawar-writes-to-pm-modi-seeks-generous-financial-package-for-maharashtra.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2019/11/sharad-pawar-201743-Gpzp7E7C-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/pawar-writes-to-pm-modi-seeks-generous-financial-package-for-maharashtra.html">
+                Pawar writes to PM Modi, seeks generous financial package for Maharashtra                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/rss-chief-mohan-bhagwat-says-india-never-discriminates-helping-other-countries-with-medicines-in-fight-against-covid-19.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2019/10/rss-719536-P7MHvKa8-347x195.png" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/rss-chief-mohan-bhagwat-says-india-never-discriminates-helping-other-countries-with-medicines-in-fight-against-covid-19.html">
+                RSS chief Mohan Bhagwat says India never discriminates, helping other countries with medicines in fight against COVID-19                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-with-1975-fresh-cases-in-24-hours-positive-cases-in-india-total-nears-27000.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/03/astrid-sm-21-183200-XNZVBsPg-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-with-1975-fresh-cases-in-24-hours-positive-cases-in-india-total-nears-27000.html">
+                COVID-19 cases in India surge to 26,917                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/union-health-minister-dr-harsh-vardhan-visits-aiims-trauma-centre.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2016/06/HarshVardhan-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/union-health-minister-dr-harsh-vardhan-visits-aiims-trauma-centre.html">
+                Union Health Minister Dr Harsh Vardhan visits AIIMS Trauma Centre                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-india-transfer-rs-7500-per-month-for-the-next-three-months-to-all-who-have-lost-their-livelihoods-sitaram-yechury-demands-centre.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/sitaram-204077-rMnaw629-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-india-transfer-rs-7500-per-month-for-the-next-three-months-to-all-who-have-lost-their-livelihoods-sitaram-yechury-demands-centre.html">
+                Coronavirus India: Transfer Rs 7,500 per month for the next three months to all who have lost their livelihoods: Sitaram Yechury demands Centre                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-lockdown-delhi-cm-arvind-kejriwal-number-of-new-cases-deaths-come-down-will-implement-centre-decision-to-open-certain-shops.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/arvind-kejriwal-1-474555-I6mpk1GR-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-lockdown-delhi-cm-arvind-kejriwal-number-of-new-cases-deaths-come-down-will-implement-centre-decision-to-open-certain-shops.html">
+                Coronavirus lockdown: Delhi CM Arvind Kejriwal says number of new cases and deaths have come down; will implement Centre&#8217;s decision to open certain shops                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/armed-forces-know-their-responsibility-in-battle-against-covid-19-cds-gen-bipin-rawat.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/cds-gen-bipin-rawat-335027-YsvTwLPs-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/armed-forces-know-their-responsibility-in-battle-against-covid-19-cds-gen-bipin-rawat.html">
+                Armed Forces know their responsibility in battle against COVID-19: CDS Gen Bipin Rawat                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/mann-ki-baat-pm-modi-india-fight-against-coronavirus-people-driven-new-digital-portal-to-develop-united-front-of-coronawarriors.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/mann-ki-baat-588417-Zly6Yy04-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/mann-ki-baat-pm-modi-india-fight-against-coronavirus-people-driven-new-digital-portal-to-develop-united-front-of-coronawarriors.html">
+                Mann Ki Baat: PM Modi says Indiaâs fight against coronavirus is people-driven, launches new digital portal to develop a united front of coronawarriors                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-update-out-of-61266-covid-19-tests-conducted-in-andhra-pradesh-1-66-samples-test-positive.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/covid-19-874638-cnQMnRab-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-update-out-of-61266-covid-19-tests-conducted-in-andhra-pradesh-1-66-samples-test-positive.html">
+                Coronavirus update: Out of 61,266 COVID-19 tests conducted in Andhra Pradesh, 1.66% samples test positive                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-india-hindu-rao-hospital-in-north-delhi-sealed-after-nurse-tests-positive.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/nurse-748471-P4nWSz83-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-india-hindu-rao-hospital-in-north-delhi-sealed-after-nurse-tests-positive.html">
+                Coronavirus India: Hindu Rao Hospital in North Delhi sealed after nurse tests positive                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-india-update-total-cases-health-ministry.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/coronavirus-lockdown-day-10-673764-e947wLd3-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-india-update-total-cases-health-ministry.html">
+                Coronavirus update: Total cases in India cross 26000 with toll at 824                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-jammu-and-kashmir-government-permits-standalone-shops-to-open-following-mhas-order.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/jammu-and-kashmir-government-490018-QspkF3K6-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-jammu-and-kashmir-government-permits-standalone-shops-to-open-following-mhas-order.html">
+                Coronavirus: Following MHA&#8217;s order, Jammu and Kashmir government permits standalone shops to open                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/covid-19-andhra-pradesh-adopts-four-pronged-strategy-to-aggressively-trace-coronavirus-suspects-curb-virus-spread.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/astrid-sm-21-062954-I1Ygd3CM-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/covid-19-andhra-pradesh-adopts-four-pronged-strategy-to-aggressively-trace-coronavirus-suspects-curb-virus-spread.html">
+                COVID-19: Andhra Pradesh adopts four-pronged strategy to aggressively trace coronavirus suspects, curb virus spread                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-health-ministry-says-growth-in-positive-cases-declined-to-6-in-24-hours-lowest-since-march.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/harsh-vardhan-310386-e62NF2YY-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-health-ministry-says-growth-in-positive-cases-declined-to-6-in-24-hours-lowest-since-march.html">
+                Coronavirus: Health Ministry says growth in positive cases declined to 6% in 24 hours, lowest since March                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/fight-against-covid-19-uttarakhand-launches-cm-relief-fund-website-for-receiving-donations.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/trivendra-singh-rawat-044041-n3nURQN9-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/fight-against-covid-19-uttarakhand-launches-cm-relief-fund-website-for-receiving-donations.html">
+                Fight against COVID-19: Uttarakhand launches CM Relief fund website for receiving donations                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/mumbai-airport-gears-up-to-restart-operations-with-safety-measures-in-place.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/mumbai-airport-859997-iXF8yyBg-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/mumbai-airport-gears-up-to-restart-operations-with-safety-measures-in-place.html">
+                Mumbai airport gears up to restart operations with safety measures in place                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/egov-foundation-launches-covid-e-pass-platform-for-movement-of-essential-goods-and-service-providers.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/lockdown-1-919254-OMUtwdOz-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/egov-foundation-launches-covid-e-pass-platform-for-movement-of-essential-goods-and-service-providers.html">
+                eGov Foundation launches COVID e-pass platform for movement of essential goods and service providers                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-stationery-shops-open-in-delhi-as-mha-eases-lockdown-guidelines.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/astrid-sm-9-614792-WISyOFVu-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-stationery-shops-open-in-delhi-as-mha-eases-lockdown-guidelines.html">
+                Coronavirus: Stationery shops open in Delhi as MHA eases lockdown guidelines                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-lockdown-public-gatherings-up-prohibited-june-30-yogi-adityanath.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/03/yogi-933579-jfwosYz1-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-lockdown-public-gatherings-up-prohibited-june-30-yogi-adityanath.html">
+                Coronavirus lockdown: UP CM Yogi Adityanath prohibits public gatherings till June 30                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/mha-clarifies-on-opening-of-shops-in-urban-and-rural-areas-restrictions-continue-on-sale-of-liquor-and-delivery-of-non-essential-items-by-e-commerce-companies.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/mha-clarification-750920-RhtWJV8p-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/mha-clarifies-on-opening-of-shops-in-urban-and-rural-areas-restrictions-continue-on-sale-of-liquor-and-delivery-of-non-essential-items-by-e-commerce-companies.html">
+                MHA clarifies on opening of shops in urban and rural areas; restrictions continue on sale of liquor and delivery of non-essential items by e-commerce companies                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-lockdown-confederation-of-all-india-traders-asks-shopkeepers-to-wait-for-state-governments-to-take-decision-on-opening-shops.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/shops-912832-LlPnIZGr-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-lockdown-confederation-of-all-india-traders-asks-shopkeepers-to-wait-for-state-governments-to-take-decision-on-opening-shops.html">
+                Coronavirus lockdown: Confederation of All India Traders asks shopkeepers to wait for state governments to take decision on opening shops                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-update-total-cases-in-india-nears-25000-toll-at-775.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/coronavirus-1-326870-iBulXoW9-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-update-total-cases-in-india-nears-25000-toll-at-775.html">
+                Coronavirus update: Total cases in India nears 25000, toll at 775                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/education-and-jobs/coronavirus-india-new-academic-year-for-colleges-may-begin-from-september-instead-of-july.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/du-940456-eOni3GPR-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/education-and-jobs/coronavirus-india-new-academic-year-for-colleges-may-begin-from-september-instead-of-july.html">
+                Coronavirus India: New academic year for colleges may begin from September instead of July                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/iit-delhis-low-cost-testing-kit-gets-icmr-approval.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/covid-19-874638-cnQMnRab-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/iit-delhis-low-cost-testing-kit-gets-icmr-approval.html">
+                IIT-Delhi&#8217;s low-cost testing kit gets ICMR approval                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-lockdown-home-ministry-allows-reopening-of-shops-with-conditions-malls-to-remain-closed.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/centre-allows-shops-to-open-111937-cCFPwL2a-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-lockdown-home-ministry-allows-reopening-of-shops-with-conditions-malls-to-remain-closed.html">
+                Coronavirus lockdown: Home Ministry allows reopening of shops with conditions, malls to remain closed                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-india-1752-new-cases-37-deaths-last-24-hours-health-ministry-reports-23452-confirmed-cases-toll-reaches-743.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/coronavirus-india-1-922939-DvmSMF6M-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-india-1752-new-cases-37-deaths-last-24-hours-health-ministry-reports-23452-confirmed-cases-toll-reaches-743.html">
+                Coronavirus India: 1752 new cases and 37 deaths in last 24 hours, Health ministry reports 23,452 confirmed cases, toll reaches 743                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/ramzan-celebrations-india-pm-modi-extends-wishes.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/ramadan-536069-QNAprgCZ-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/ramzan-celebrations-india-pm-modi-extends-wishes.html">
+                Ramzan celebrations begin in India; PM Modi extends wishes, says may we achieve a decisive victory over COVID-19                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/arnab-goswami-deeply-grateful-to-sc-for-defending-his-freedom-of-expression-says-congress-filed-over-150-firs-to-intimidate-him.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/arnab-goswami-612115-HnViSui9-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/arnab-goswami-deeply-grateful-to-sc-for-defending-his-freedom-of-expression-says-congress-filed-over-150-firs-to-intimidate-him.html">
+                Arnab Goswami deeply grateful to SC for defending his freedom of expression, says Congress filed over 150 FIRs to intimidate him                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/iata-indias-aviation-industry-to-suffer-11-2-billion-revenue-loss-while-2-9-million-jobs-at-risk-due-to-covid-19-crisis.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/astrid-sm-5-457559-V5KI0elA-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/iata-indias-aviation-industry-to-suffer-11-2-billion-revenue-loss-while-2-9-million-jobs-at-risk-due-to-covid-19-crisis.html">
+                India&#8217;s aviation industryÂ to suffer $11.2 billion revenue loss, 2.9 million jobs at risk due to COVID-19 crisis, says IATA                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-congress-president-sonia-gandhi-accuses-bjp-of-spreading-hate-virus-asks-for-exit-plan-after-may-3.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/astrid-sm-4-759293-6ubpe8SJ-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-congress-president-sonia-gandhi-accuses-bjp-of-spreading-hate-virus-asks-for-exit-plan-after-may-3.html">
+                Coronavirus: Congress president Sonia Gandhi accuses BJP of spreading hate virus, asks for exit plan after May 3                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/congress-modi-government-freezing-da.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/da-917972-Q41oFpbv-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/congress-modi-government-freezing-da.html">
+                Congress hits back at Modi government&#8217;s decision to freeze DA, says government is adding insult to injury instead of giving relief                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-india-delhi-cm-arvind-kejriwal-recovered-patients-donate-plasma.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/arvind-kejriwal-239188-eCvss91V-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-india-delhi-cm-arvind-kejriwal-recovered-patients-donate-plasma.html">
+                Coronavirus India: Delhi CM Arvind Kejriwal urges recovered patients to donate plasma                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-india-tamil-nadu-complete-lockdown-chennai-madurai-coimbatore-26-to-29-april.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/lockdown-1-919254-OMUtwdOz-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-india-tamil-nadu-complete-lockdown-chennai-madurai-coimbatore-26-to-29-april.html">
+                Coronavirus India: Complete lockdown in Tamil Nadu&#8217;s Chennai, Madurai, Coimbatore from April 26 to 29                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/supreme-court-grants-three-weeks-interim-protection-from-arrest-to-arnab-goswami.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/arnab-goswami-368562-6xHQ9TaW-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/supreme-court-grants-three-weeks-interim-protection-from-arrest-to-arnab-goswami.html">
+                Supreme Court grants three weeks interim protection from arrest to Arnab Goswami                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/pm-modi-address-sarpanches-on-panchayati-raj-day.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/narendra-modi-2-492361-iCmXPa07-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/pm-modi-address-sarpanches-on-panchayati-raj-day.html">
+                Only tough times teach us hard lessons, says PM Modi in address to sarpanches on Panchayati Raj Day                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-india-update-total-cases-health-ministry-report.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/coronavirus-cases-963290-347XHFLH-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-india-update-total-cases-health-ministry-report.html">
+                Coronavirus update: Spike of 1,684 cases with 37 deaths in last 24 hours, total cases cross 23,000 with toll at 718                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/donald-trump-kim-jong-un-illness.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/trump-255844-OWgpcpxr-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/donald-trump-kim-jong-un-illness.html">
+                Donald Trump denies reports of Kim Jong-Un&#8217;s illness, says they share a good relationship                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/kerala-to-scale-up-testing-for-covid-19-plans-random-tests-to-check-community-transmission.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/chief-minister-pinarayi-vijayan-351321-4iby5v3w-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/kerala-to-scale-up-testing-for-covid-19-plans-random-tests-to-check-community-transmission.html">
+                Kerala to scale up testing for COVID-19, plans random tests to check community transmission                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/union-minister-dharmendra-pradhan-calls-omc-officials-to-speed-up-delivery-of-free-cylinders-to-pmuy-beneficiaries.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2019/09/uu-484754-GqFz9VMt-347x195.png" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/union-minister-dharmendra-pradhan-calls-omc-officials-to-speed-up-delivery-of-free-cylinders-to-pmuy-beneficiaries.html">
+                Union Minister Dharmendra Pradhan calls OMC officials to speed up delivery of free cylinders to PMUY beneficiaries                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/covid-19-health-ministry-coronavirus-cases-in-india.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/coronavirus-india-202470-Tu3yxJur-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/covid-19-health-ministry-coronavirus-cases-in-india.html">
+                COVID-19: Health Ministry says growth in coronavirus cases not exponential; recovery rate grows to 19.89%                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/covid-19-centre-freezes-hikes-in-dearness-allowance-relief-for-employees-pensioners-till-july-next-year.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/nirmala-sitharaman-337605-jqWPlxJH-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/covid-19-centre-freezes-hikes-in-dearness-allowance-relief-for-employees-pensioners-till-july-next-year.html">
+                Covid-19: Centre freezes hikes in dearness allowance, relief for employees, pensioners till July next year                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/union-minister-prakash-javadekar-felicitates-frontline-coronawarriors.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/prakash-javadekar-174429-DcpSkzS5-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/union-minister-prakash-javadekar-felicitates-frontline-coronawarriors.html">
+                Union Minister Prakash Javadekar felicitates frontline coronawarriors                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/covid-19-haryana-manohar-lal-khattar-rs-10-lakh-insurance-for-journalist.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/manohar-lal-khattar-810374-JDikRguS-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/covid-19-haryana-manohar-lal-khattar-rs-10-lakh-insurance-for-journalist.html">
+                COVID-19: Haryana government announces Rs 10 lakh insurance for journalist                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/rahul-gandhi-priyanka-gandhi-congress-cwc-migrant-workers-covid19-coronavirus.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/rahul-gandhi-1-504746-kd3G8xLm-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/rahul-gandhi-priyanka-gandhi-congress-cwc-migrant-workers-covid19-coronavirus.html">
+                Rahul Gandhi, Priyanka Gandhi raise issue of migrant workers at CWC meeting                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-india-sonia-gandhi-says-unemployment-likely-to-rise-every-family-should-be-provided-at-least-rs-7500.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/sonia-gandhi-986334-FzQduyfN-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-india-sonia-gandhi-says-unemployment-likely-to-rise-every-family-should-be-provided-at-least-rs-7500.html">
+                Coronavirus India: Sonia Gandhi says unemployment likely to rise, every family should be provided at least Rs 7,500                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/entertainment/coronavirus-india-pm-modi-praises-divyanka-tripathi-rashami-desai-and-other-television-celebrities-initiative-to-raise-funds.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/pm-modi-4-606051-hO8vCmPB-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/entertainment/coronavirus-india-pm-modi-praises-divyanka-tripathi-rashami-desai-and-other-television-celebrities-initiative-to-raise-funds.html">
+                Coronavirus India: PM Modi praises Divyanka Tripathi, Rashami Desai and other television celebrities&#8217; initiative to raise funds                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/covid-19-coronavirus-india-update-health-ministry-reports.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/president-ram-nath-kovind-530841-0UnCLKKn-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/covid-19-coronavirus-india-update-health-ministry-reports.html">
+                Coronavirus update: Total cases in India reach 21,393 with toll at 681, President approves ordinance to punish attacks on health workers                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/president-ram-nath-kovind-passes-ordinance-to-amend-epidemic-diseases-act.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/01/president-kovind-822681-oXYnMqtr-347x195.png" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/president-ram-nath-kovind-passes-ordinance-to-amend-epidemic-diseases-act.html">
+                President Ram Nath Kovind passes ordinance to amend Epidemic Diseases Act                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/mukesh-ambani-asia-richest-after-reliance-jio-facebook-deal.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/mukesh-ambani-578964-BW1ieqTS-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/mukesh-ambani-asia-richest-after-reliance-jio-facebook-deal.html">
+                Mukesh Ambani becomes Asia&#8217;s richest after Reliance Jio-Facebook deal                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/nasa-says-lockdown-has-brought-air-pollution-down.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/nasa-584378-fYsU0PlS-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/nasa-says-lockdown-has-brought-air-pollution-down.html">
+                NASA says lockdown has brought air pollution down                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/covid-19-pm-narendra-modi-says-no-compromise-with-security-of-health-workers-will-talk-to-chief-ministers-via-video-conference-on-monday-to-review-situation.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/pm-modi-3-594518-9XM7CYv6-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/covid-19-pm-narendra-modi-says-no-compromise-with-security-of-health-workers-will-talk-to-chief-ministers-via-video-conference-on-monday-to-review-situation.html">
+                COVID-19: PM Narendra Modi says no compromise with security of health workers; will talk to Chief Ministers via video conference on Monday to review situation                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/himanta-biswa-sarma-says-no-fresh-covid-19-case-reported-in-assam-in-last-7-days.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/hemanta-biswa-sarma-812297-CWJlG1LU-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/himanta-biswa-sarma-says-no-fresh-covid-19-case-reported-in-assam-in-last-7-days.html">
+                Himanta Biswa Sarma says no fresh COVID-19 case reported in Assam in last 7 days                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/covid-19-union-minister-prakash-javadekar-says-fine-upto-rs-5-lakh-7-year-jail-if-anyone-attacks-health-workers.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/03/prakash-javadekar-746508-PqlwFcUY-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/covid-19-union-minister-prakash-javadekar-says-fine-upto-rs-5-lakh-7-year-jail-if-anyone-attacks-health-workers.html">
+                Covid-19: Union Minister Prakash Javadekar says fine upto Rs 5 lakh, 7-year jail if anyone attacks health workers                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/ima-calls-off-planned-protest-after-amit-shah-assures-security-to-doctors-medical-staff.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2019/09/amit-shah-324249-ewxDTEEt-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/ima-calls-off-planned-protest-after-amit-shah-assures-security-to-doctors-medical-staff.html">
+                IMA calls off planned protest after Amit Shah assures security to doctors, medical staff                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/covid-19-2-doctors-6-staff-members-test-positive-in-mumbai.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/coronavirus-2-402944-O162EiGB-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/covid-19-2-doctors-6-staff-members-test-positive-in-mumbai.html">
+                COVID-19: 2 doctors, 6 staff members test positive in Mumbai                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/madhya-pradesh-shivraj-cabinet-ministers-appointed.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2018/12/ShivrajSinghChouhan-790-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/madhya-pradesh-shivraj-cabinet-ministers-appointed.html">
+                Madhya Pradesh Shivraj Cabinet Ministers Appointed                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/covid-19-police-officer-loses-battle-of-life-in-ujjain.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/mp-police-423765-jB592ZQE-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/covid-19-police-officer-loses-battle-of-life-in-ujjain.html">
+                COVID-19: Police officer loses battle of life in Ujjain                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/civil-aviation-ministrys-office-sealed-after-employee-tests-positive.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/indias-civil-aviation-ministrys-office-541353-qQkDoVdE-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/civil-aviation-ministrys-office-sealed-after-employee-tests-positive.html">
+                Coronavirus: Part of Civil Aviation Ministry&#8217;s office sealed after employee tests positive                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-muslim-religious-leaders-appeal-to-public-to-observe-ramzan-at-home.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/muslim-leaders-824890-FqtRp0cI-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-muslim-religious-leaders-appeal-to-public-to-observe-ramzan-at-home.html">
+                Coronavirus: Muslim religious leaders appeal to public to observe Ramzan at home                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/covid-19-coronavirus-india-update-health-ministry.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/coronavirus-496247-2rZJfjFv-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/covid-19-coronavirus-india-update-health-ministry.html">
+                Coronavirus cases in India: COVID-19 positive cases crosses 20,000 mark, toll rises to 652                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/delhi-noida-border-sealed-district-magistrate-allows-exemptions.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/delhi-noida-border-068942-o7dbmhEs-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/delhi-noida-border-sealed-district-magistrate-allows-exemptions.html">
+                Delhi-Noida border sealed, district magistrate allows exemptions                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/n-chandrababu-naidu-tells-jagan-mohan-reddy-to-hold-all-party-meet-on-covid-19-stop-attributing-motives-to-parties.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/chandrababu-naidu-528592-5I5FZhyZ-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/n-chandrababu-naidu-tells-jagan-mohan-reddy-to-hold-all-party-meet-on-covid-19-stop-attributing-motives-to-parties.html">
+                N Chandrababu Naidu suggests CM Jagan Mohan Reddy to call all party meet on covid-19, stop attributing motives to parties                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/crackdown-on-crorona-villains.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/coronavirus-2-402944-O162EiGB-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/crackdown-on-crorona-villains.html">
+                Crackdown on crorona villains                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/andhra-pradesh-mlas-ignore-lockdown-for-publicity-ignore-covid-19-measures.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/ap-mla-731671-6RsCdAHZ-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/andhra-pradesh-mlas-ignore-lockdown-for-publicity-ignore-covid-19-measures.html">
+                Andhra Pradesh MLAs ignore lockdown for publicity, ignore COVID-19 measures                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/massive-traffic-jam-at-delhi-ghaziabad-border.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/delhi-up-365398-8C1Ebmxm-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/massive-traffic-jam-at-delhi-ghaziabad-border.html">
+                Massive traffic jam at Delhi-Ghaziabad border                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-scare-at-rashtrapati-bhawan.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/rashtrapati-bhawan-371198-Lr08pvi3-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-scare-at-rashtrapati-bhawan.html">
+                Coronavirus scare at Rashtrapati Bhawan                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/states-advised-against-rapid-tests-for-2-days.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/covid-058018-4ZpD5FTT-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/states-advised-against-rapid-tests-for-2-days.html">
+                States advised against rapid tests for 2 days                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/union-minister-dharmendra-pradhan-interacts-with-over-1000-lpg-distributors-through-video-conferencing-asks-them-to-maximise-free-ujjwala-refills-for-benefit-of-poor.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/dharmendra-pradhan-745276-TeXyK7cx-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/union-minister-dharmendra-pradhan-interacts-with-over-1000-lpg-distributors-through-video-conferencing-asks-them-to-maximise-free-ujjwala-refills-for-benefit-of-poor.html">
+                Union Minister Dharmendra Pradhan interacts with over 1000 LPG distributors through video conferencing, asks them to maximise free Ujjwala refills for benefit of poor                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/samaritans-pitch-in-during-testing-in-andhra-pradesh.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/jaganmohan-reddy-108649-dLkLTyaK-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/samaritans-pitch-in-during-testing-in-andhra-pradesh.html">
+                Samaritans pitch in during testing times in Andhra Pradesh                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/congress-rahul-gandhi-coronavirus-narendra-modi.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/rahul-gandhi-997221-Rx2rK1qy-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/congress-rahul-gandhi-coronavirus-narendra-modi.html">
+                Rahul Gandhi says govt making sanitiser for rich from poor&#8217;s share of rice                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/kerala-high-court-notice-periyar-river-water-quality.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/pariyar-river-468467-AOwyPApJ-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/kerala-high-court-notice-periyar-river-water-quality.html">
+                Kerala High Court takes suo motu notice on Periyar river water quality, seeks report                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/covid-19-coronavirus-recovery-percentage.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/coronavirus-496247-2rZJfjFv-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/covid-19-coronavirus-recovery-percentage.html">
+                COVID-19: No testing through rapid kits for next 2 days, says govt                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/indian-citizens-stranded-us-evacuated-lockdown-supreme-court.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/supreme-court-852007-ojWDK0mP-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/indian-citizens-stranded-us-evacuated-lockdown-supreme-court.html">
+                Indian citizens stranded in US can&#8217;t be evacuated amid lockdown: Supreme Court                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-in-odisha-cm-naveen-patnaik-announces-rs-50-lakh-compensation-to-deceased-healthcare-staffs-family-says-the-state-will-treat-them-as-martyrs.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/astrid-sm-9-671766-hXTY2Wc5-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-in-odisha-cm-naveen-patnaik-announces-rs-50-lakh-compensation-to-deceased-healthcare-staffs-family-says-the-state-will-treat-them-as-martyrs.html">
+                Coronavirus in Odisha: CM Naveen Patnaik announces Rs 50 lakh compensation to deceased healthcare staffâs family, says the state will treat them as martyrs                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/congress-goa-cm-pramod-sawant-covid-19-free.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/pramod-sawant-934739-gkt4WUy4-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/congress-goa-cm-pramod-sawant-covid-19-free.html">
+                Congress hits out at Goa CM Pramod Sawant for declaring state as COVID-19 free, says tests have not been conducted properly                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-update-27-journalists-of-tamil-news-channel-test-positive-after-coming-in-contact-with-infected-colleague-in-chennai.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/coronavirus-1-326870-iBulXoW9-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-update-27-journalists-of-tamil-news-channel-test-positive-after-coming-in-contact-with-infected-colleague-in-chennai.html">
+                Coronavirus update: 27 journalists of Tamil news channel test positive after coming in contact with infected colleague in Chennai                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/mukhtar-abbas-naqvi-lashes-out-at-oic-over-islamophobia-remark-says-india-is-heaven-for-muslims-and-their-rights-are-secured.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/astrid-sm-8-618814-Mfs8S9XJ-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/mukhtar-abbas-naqvi-lashes-out-at-oic-over-islamophobia-remark-says-india-is-heaven-for-muslims-and-their-rights-are-secured.html">
+                Mukhtar Abbas Naqvi lashes out at OIC over Islamophobia remark, says India is heaven for Muslims and their rights are secured                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/palghar-mob-lynching-uma-bharti-maharashtra-cm-uddhav-thackeray-bal-thackeray.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/uma-bharti-541322-q8h68YZa-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/palghar-mob-lynching-uma-bharti-maharashtra-cm-uddhav-thackeray-bal-thackeray.html">
+                Palghar mob lynching: Uma Bharti writes to Maharashtra CM Uddhav Thackeray, demands strict action by invoking Bal Thackeray                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-india-25-families-rashtrapati-bhavan-self-isolate-employee-relative-tests-positive.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/rashtrapati-bhavan-373863-26El65R9-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-india-25-families-rashtrapati-bhavan-self-isolate-employee-relative-tests-positive.html">
+                Coronavirus India: 25 families in Rashtrapati Bhavan asked to self-isolate after an employee&#8217;s relative tests positive                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-update-india-case-count-crosses-18000-death-toll-at-590.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/coronavirus-cases-963290-347XHFLH-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-update-india-case-count-crosses-18000-death-toll-at-590.html">
+                Coronavirus update: India case count crosses 18,000, death toll at 590                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/delhis-azadpur-mandi-to-remain-open-for-24-hours-amid-lockdown-from-today.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/azadpur-mandi-967590-hyCBZFwp-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/delhis-azadpur-mandi-to-remain-open-for-24-hours-amid-lockdown-from-today.html">
+                Delhi&#8217;s Azadpur Mandi to remain open for 24 hours amid lockdown from today                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/andhra-pradesh-cm-ys-jaganmohan-reddy-talks-to-muslim-leaders-before-ramzan.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/jaganmohan-reddy-056475-Mct2IN5t-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/andhra-pradesh-cm-ys-jaganmohan-reddy-talks-to-muslim-leaders-before-ramzan.html">
+                Andhra Pradesh CM YS Jaganmohan Reddy talks to Muslim leaders before Ramzan                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/union-minister-dharmendra-pradhan-holds-meeting-of-national-biofuel-coordination-committee-with-social-distancing-norms.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/03/dharmendra-pradhan-1-662801-RmwJaKZ2-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/union-minister-dharmendra-pradhan-holds-meeting-of-national-biofuel-coordination-committee-with-social-distancing-norms.html">
+                Union Minister Dharmendra Pradhan holds meeting of National Biofuel Coordination Committee with social distancing norms                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/uk-court-turns-down-vijay-mallyas-appeal-against-extradition-uk-home-secretary-priti-patel-to-decide-extradition-date.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2019/02/vijay-mallya-extradition1-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/uk-court-turns-down-vijay-mallyas-appeal-against-extradition-uk-home-secretary-priti-patel-to-decide-extradition-date.html">
+                UK court turns down Vijay Mallya&#8217;s appeal against extradition, UK Home Secretary Priti Patel to decide extradition date                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/andhra-pradesh-sees-record-spike-in-covid-19-cases-on-day-of-lockdown-relaxation-telangana-to-continue-lockdown-till-may-7.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/jagan-mohan-reddy-926103-p4evBeQ4-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/andhra-pradesh-sees-record-spike-in-covid-19-cases-on-day-of-lockdown-relaxation-telangana-to-continue-lockdown-till-may-7.html">
+                Andhra Pradesh sees record spike in COVID-19 cases on day of lockdown relaxation, Telangana to continue lockdown till May 7                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/581068.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/corona-new-563101-33yXCAVf-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/581068.html">
+                Coronavirus positive cases go past 17000 in India, 543 deaths; Govt says case doubling rate down to 7.5 days                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/palghar-mob-lynching-amit-shah-maharashtra-cm-uddhav-thackeray-cid-100-people-arrested-2-policemen-suspended.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/amit-shah-512407-dHy16wzq-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/palghar-mob-lynching-amit-shah-maharashtra-cm-uddhav-thackeray-cid-100-people-arrested-2-policemen-suspended.html">
+                Palghar mob lynching: Amit Shah seeks report from Maharashtra CM Uddhav Thackeray, CID to take over investigation, 100 people arrested and 2 policemen suspended                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/indias-revised-fdi-guidelines-against-wtos-principle-of-non-discrimination-and-general-trend-of-liberalisation-says-china.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/india-china-431318-xOyslBwp-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/indias-revised-fdi-guidelines-against-wtos-principle-of-non-discrimination-and-general-trend-of-liberalisation-says-china.html">
+                Indiaâs revised FDI guidelines against WTOâs principle of non-discrimination and general trend of liberalisation, says China                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/up-cm-yogi-adityanath-condoles-death-of-his-father-anand-singh-bisht-says-will-be-forced-to-miss-last-rites-due-to-states-fight-against-coronavirus.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/yogi-adityanath-755649-BAwZPY3M-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/up-cm-yogi-adityanath-condoles-death-of-his-father-anand-singh-bisht-says-will-be-forced-to-miss-last-rites-due-to-states-fight-against-coronavirus.html">
+                UP CM Yogi Adityanath condoles death of his father Anand Singh Bisht, says will be forced to miss last rites due to state&#8217;s fight against coronavirus                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/up-cm-yogi-adityanath-father-anand-singh-bisht-passes-away-in-delhis-aiims.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/yogi-adiyanath-152172-X9jdld7z-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/up-cm-yogi-adityanath-father-anand-singh-bisht-passes-away-in-delhis-aiims.html">
+                UP CM Yogi Adityanath&#8217;s father Anand Singh Bisht passes away in Delhi&#8217;s AIIMS                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/covid-19-coronavirus-india-lockdown-updates-total-death-cases-india-health-ministry.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/india-lockdown-1-907143-YyIxYQUB-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/covid-19-coronavirus-india-lockdown-updates-total-death-cases-india-health-ministry.html">
+                Coronavirus update: Total number of cases reach 17,265 with death toll at 543, selective relaxation in nationwide lockdown from today                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-lockdown-pm-narendra-modi-thanks-shopkeepers-and-traders-for-ensuring-essentials-reach-the-public.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/03/narendra-modi-382720-ZP1ZpdB8-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-lockdown-pm-narendra-modi-thanks-shopkeepers-and-traders-for-ensuring-essentials-reach-the-public.html">
+                Coronavirus lockdown: PM Narendra Modi thanks shopkeepers, traders for ensuring essentials reach the public                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/telangana-cm-k-chandrasekhar-rao-lockdown-till-may-7.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/kcr-631837-0aiuS6Yh-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/telangana-cm-k-chandrasekhar-rao-lockdown-till-may-7.html">
+                Telangana CM K Chandrasekhar Rao extends lockdown till May 7, no relaxation in red zones                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/ap-doctors-among-top-in-covid-19-tests-lockdown-to-continue-in-red-zones.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/img-20200419-201311-418464-ZgbLytu0-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/ap-doctors-among-top-in-covid-19-tests-lockdown-to-continue-in-red-zones.html">
+                AP doctors among top in COVID-19 tests; lockdown to continue in red zones                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/coronavirus-lockdown-relaxations-from-april-20-heres-a-list-of-graded-economic-activities-starting-from-monday.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/img-20200419-193538-516639-w4yVUAKz-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/coronavirus-lockdown-relaxations-from-april-20-heres-a-list-of-graded-economic-activities-starting-from-monday.html">
+                Coronavirus lockdown relaxations from April 20: Here&#8217;s a list of graded economic activities starting from Monday                </a> </div>
+            </div>
+        <div class="related-stories">
+              <div class="related-story-img"> <a target="_blank" href="https://www.newsx.com/national/pm-narendra-modi-coronavirus-civic-19-epidemic-india.html">
+               				  <amp-img src="https://www.newsx.com/wp-content/uploads/2020/04/pm-modi-2-083365-cCOWN6cN-347x195.jpg" width="150" height="150" layout="responsive" alt=""></amp-img>
+				                  </a> </div>
+              <div class="related-story-title"> <a href="https://www.newsx.com/national/pm-narendra-modi-coronavirus-civic-19-epidemic-india.html">
+                PM Narendra Modi says coronavirus does not see race, religion, colour, caste, language; all are together in this epidemic                </a> </div>
+            </div>
+      </div>
+	
+        </div>
+<footer>
+          <div class="footer-container">
+    <ul class="footer-links">
+              <li><a href="/">Home</a></li>
+              <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107242"><a href="https://www.newsx.com/sports">Sports</a></li>
+              <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-107244"><a href="https://www.newsx.com/national">National</a></li>
+              <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107245"><a href="https://www.newsx.com/entertainment">Entertainment</a></li>
+              <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107246"><a href="https://www.newsx.com/world">World</a></li>
+              <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107253"><a href="https://www.newsx.com/business">Business</a></li>
+              <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107252"><a href="https://www.newsx.com/education-and-jobs">Education</a></li>
+              <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107346"><a href="https://www.newsx.com/offbeat">Offbeat</a></li>
+            </ul>
+    <p>Copyright Â© 2020 NewsX. All Rights Reserved </p>
+  </div>
+        </footer>
+<amp-analytics type="googleanalytics" id="analytics1"> 
+          <script type="application/json">
+							{
+							  "vars": {
+							    "account": "UA-60481614-1"
+							  },
+							  "triggers": {
+							    "trackPageview": {
+							      "on": "visible",
+							      "request": "pageview"
+							    }
+							  }
+							}
+							</script> 
+        </amp-analytics>
+<amp-analytics type="comscore" id="newsx-comscore"><script type="application/json">{ "vars": { "c2": "26194803" }, "extraUrlParams": { "comscorekw": "amp" } }</script></amp-analytics>
+	 <a href="https://www.newsx.com/national">
+	 <div class="notification_sec"> </div>
+	 </a>
+</body>
+</html>

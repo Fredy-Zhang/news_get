@@ -1,0 +1,617 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="title" content="Canada's reopening won't depend on immunity: Trudeau" /><link rel="image_src" href="http://www.digitaljournal.com/img/1/0/4/8/0/9/3/i/4/6/1/p-large/6ffdccc74c92a41bb23d3de93fd4e4cf2f6339a5.jpg" /><meta property="og:type" content="article" /><meta property="og:description" content="Prime Minister Justin Trudeau said Saturday that Canada's approach to reopening its economy from the coronavirus shutdown would be &quot;cautious&quot; and not depend on the development of widespread immunity in the population." /><meta property="og:title" content="Canada's reopening won't depend on immunity: Trudeau" /><meta property="og:image" content="http://www.digitaljournal.com/img/1/0/4/8/0/9/3/i/4/6/1/p-large/6ffdccc74c92a41bb23d3de93fd4e4cf2f6339a5.jpg" /><meta property="og:url" content="http://www.digitaljournal.com/news/world/canada-s-reopening-won-t-depend-on-immunity-trudeau/article/570779" /><meta property="article:published_time" content="2020-04-25T19:00:12-04:00" /><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@digitaljournal">
+<meta name="twitter:title" content="Canada's reopening won't depend on immunity: Trudeau">
+<meta name="twitter:description" content="Prime Minister Justin Trudeau said Saturday that Canada's approach to reopening its economy from the coronavirus shutdown would be "cautious" and not depend on the development of widespread immunity in the population.">
+<meta name="twitter:image:src" content="http://www.digitaljournal.com/img/1/0/4/8/0/9/3/i/4/6/1/p-large/6ffdccc74c92a41bb23d3de93fd4e4cf2f6339a5.jpg">
+<meta property="fb:app_id" content="321580635153" />
+<meta name="keywords" content="Health, Virus, Canada" />
+<meta name="description" content="Prime Minister Justin Trudeau said Saturday that Canada's approach to reopening its economy from the coronavirus shutdown would be &quot;cautious&quot; and not depend on the development of widespread immunity in the population." />
+<style type='text/css'>
+  @import url(/yui-6.css);
+  @import url(/commonmin-163.css);
+  @import url(/css/bricks-100.css);
+</style>
+<!--[if IE 7]>
+<link rel="stylesheet" href="/css/fontawesome/css/font-awesome-ie7.min.css">
+<![endif]-->
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<link href='https://fonts.googleapis.com/css?family=PT+Sans:700,400|PT+Serif:700,400' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="/yui-10.js">
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+  if (!window.jQuery) { document.write('<script src="/js/jquery-1.11.1.min.js"><\/script>'); }
+</script>
+<script type="text/javascript" src="/djmin-214.js">
+</script>
+  <script src="http://f1.na.readspeaker.com/script/4357/ReadSpeaker.js?pids=embhl" type="text/javascript"></script>
+<link href="https://plus.google.com/+digitaljournal" rel="publisher" />
+<link rel="canonical" href="http://www.digitaljournal.com/news/world/canada-s-reopening-won-t-depend-on-immunity-trudeau/article/570779" /><script type="text/javascript">
+  var pubid="ca-pub-1077026815079259";
+  djp.user.set_vis_cookies();
+  djp.ga_addserv(pubid);
+  djp.ga_enable();
+</script>
+
+<script type="text/javascript">
+  djp.domain = 'digitaljournal.com';
+  djp.ga_addattr('dju',djp.user.is_loggedin()?1:0);
+  if (djp.user.is_loggedin() && typeof(upg)!='undefined') {
+    djp.ga_addattr('djut',upg);
+    djp.ga_addattr('djg','');
+  }
+  if (typeof(ga_targeting)!='undefined' && ga_targeting  && ga_targeting.length)
+  for(var k in ga_targeting)
+    djp.ga_addattr(k,ga_targeting[k]);
+  djp.fb_permissions = 'email,user_birthday,user_interests,user_education_history,user_location,user_religion_politics,user_hometown,user_work_history';
+</script>
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1021963/728x90-Leaderboard-ATF', [[728, 90], [970, 270]], 'div-gpt-ad-1546610721350-0').addService(googletag.pubads());
+    googletag.defineSlot('/1021963/300x250-Big-Box-ATF', [[300, 250], [300, 600]], 'div-gpt-ad-1546610999628-0').addService(googletag.pubads());
+    googletag.defineSlot('/1021963/300x250-Big-Box-2-ATF', [300, 250], 'div-gpt-ad-1546611114322-0').addService(googletag.pubads());
+    googletag.defineSlot('/1021963/300x250-Big-Box-PR', [300, 250], 'div-gpt-ad-1546611262863-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<title>Canada's reopening won't depend on immunity: Trudeau</title>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P5K6RGP');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body id="djbody" class="yui-skin-sam" marginheight=0 marginwidth=0>
+<div id="loadextras">
+<iframe id="djajaxfrm" src="/images/djlogo_onblack.gif"></iframe>
+<input id="djajaxfld" type="hidden">
+</div>
+<div id="loadextrasinv">
+</div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P5K6RGP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<div id="fb-root"></div>
+<script type="text/javascript">
+  (function(){
+    window.fbAsyncInit = function() {
+      djp.console('after FB source loaded, '+ typeof(FB));
+      djp.init_fb();
+          };
+
+    // Load the SDK Asynchronously
+    (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   })(document);
+})();
+</script>
+
+
+<div class=invis><div>
+<form id="dj-login-form" name="user_login_form" action="/edit/user-login" method="post" onsubmit="return false">
+<table bgcolor=white cellpadding=0 cellspacing=0 border=0 width="100%"><tr><td><table align="center" bgcolor=white cellpadding=10 cellspacing=3 border=0><tr><td class="tar" style="padding-right:0">Email</td><td colspan=2><input tabindex=1 type="text" size=35 name="user[email]" value="" /></td></tr>
+<tr><td style="padding-right:0">Password</td><td><input tabindex=2 type="password" size=16 name="user[pass_raw]" value="" /></td><td><input tabindex=4 type="submit" value="Login" class="fancy-button green" /></td></tr>
+<tr><td class=tar style="padding-right:0"><input tabindex=3 type="checkbox" name="rememberme" value="1" checked /></td><td>Remember me</td><td class="tar"><a tabindex=5 href="/user/password_reminder.php" target="_top">Forgot&nbsp;password?</a></td></tr></table></td></tr></table>
+<input type=hidden name=frameless value="1" /><input type=hidden name="output_mode" value="xml" /><input type=hidden name=login_ia value="1" /><input type=hidden name="user[fb_uid]" value="" /><div></div></form>
+
+<div style="margin-top:15px;padding-top:10px;border-top:1px solid #cccccc;background: #fff;" class="tar hide_fb invis">
+  <a href="" onmouseover="djp.user.tt(this,event,{ t:'help', id:'connect_with_fb'});" onclick="return false;" class="help-embed"><i class="icon icon-question-sign"></i></a>
+ &nbsp; &nbsp;
+  <button href="" onclick="djp.user.login_with_fb(null, true, true);return false;" class="fancy-button"><i class="icon-facebook-sign"></i> Log in with Facebook</button>
+  <a href="/connect/with/twitter" class="fancy-button"><i class="icon-twitter"></i> Log in with Twitter</a>
+</div>
+
+</div></div>
+
+
+<div>
+	  <div><div><div id="header">
+		<div id="logobar">
+			<div class="flleft" style="overflow:hidden">
+        <a href="/" class="dj-logo"><img src="/images/dj-logo-2x.png" border="0" height="24"></a>
+			</div>
+      <div style="width:90px;overflow:hidden;height:20px;margin-top:7px;" class="flleft"><fb:like href="http://www.facebook.com/digitaljournal" layout="button_count" width="90"></fb:like></div>
+
+			<div style="margin:14px 10px 0 0;" class="flright">
+                  <a href="" onclick="try{ djp.user.show_login_form();} catch(err){ }return false;">Log In</a>
+                			</div>
+			<div style="clear:both"></div>
+		</div>
+
+        <div id="headernav">
+      <div style="" class="headernav-inner">
+        <div id="headernavcats" class="clearfix">
+          <ul>
+                        <li><a href="/news" class="with-subs" data-type="metadepartment" data-name="news" data-department="">news</a></li>
+                                      <li><a href="/tech-and-science" class="with-subs" data-type="metadepartment" data-name="tech & science" data-department="">tech & science</a></li>
+                                      <li><a href="/social+media" class="" data-type="metadepartment" data-name="social media" data-department="49">social media</a></li>
+                                      <li><a href="/business" class="" data-type="metadepartment" data-name="business" data-department="19">business</a></li>
+                                      <li><a href="/entertainment" class="with-subs" data-type="metadepartment" data-name="entertainment" data-department="">entertainment</a></li>
+                                      <li><a href="/life" class="with-subs" data-type="metadepartment" data-name="life" data-department="">life</a></li>
+                                      <li><a href="/sports" class="" data-type="metadepartment" data-name="sports" data-department="37">sports</a></li>
+                                    </ul>
+        </div>
+        <div class="flright">
+          <form style="margin:0" onsubmit="var q = this.q.value, m = q.replace(/^(user|group|image|blog|comment|article|press):.*$/,'$1');if(m && this.q.value!=m)this.mode.value=m;return (q?true:false)" action="/search/" method="get">
+            <div class="flright">
+              <button class="search fancy-button no-shadow">
+                <i class="icon-search"></i>
+              </button>
+            </div>
+            <div class="flright">
+              <input type="text" size="30" style="width:90px;" title="Search Digital Journal" name="q" value="" class="search-field" placeholder="SEARCH..." />
+            </div>
+            <input type=hidden name=mode value="" />
+          </form>
+        </div>
+
+        <div class="social-bar">
+          <div class="follow-dj">
+            <a href="http://djour.nl/GOJ0WK" target="_blank" class="icon-facebook-sign"></a>
+            &nbsp;
+            <a href="http://djour.nl/slInX9O" target="_blank" class="icon-twitter"></a>
+            &nbsp;
+            <a href="http://djour.nl/8HZ6HL" target="_blank" class="icon-google-plus"></a>
+          </div>
+        </div>
+
+        <div class="clearfix"></div>
+      </div>
+    </div>
+      </div></div></div>
+</div>
+
+    <div style="background: #333; width: 1000px; margin: 20px auto;">
+    <div style="margin:10px auto; width: 728px;" class="clearfix">
+      <!-- /1021963/728x90-Leaderboard-ATF -->
+      <div id='div-gpt-ad-1546610721350-0'>
+        <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-1546610721350-0'); });
+        </script>
+      </div>
+    </div>
+  </div>
+  
+<table class=djcont bgcolor=white align=center cellpadding=0 cellspacing=0 border=0>
+	<tr><td><div class=block><div class=blockin><div class=blockcnt style="border-top-width:0;">
+
+
+<table cellpadding=0 cellspacing=0 border=0 width="100%">
+<tr valign="top">
+	<td width="100%" id="djframe">
+
+
+
+  
+<div class="">
+
+<div id="ap">
+<div id="article_text">
+<div style="">
+
+
+
+
+<h1 class="in-article rs-content"><span class="rs_skip"><img src="/img/1/0/4/8/0/9/3/i/4/6/1/o/6ffdccc74c92a41bb23d3de93fd4e4cf2f6339a5.jpg" title="" alt="article image" border=0 class="invis" /></span>Canada's reopening won't depend on immunity: Trudeau</h1>
+
+  
+
+
+
+<div class="rs-content abstract">
+  
+  <div class="author clearfix">
+
+    <div class="article-top-social rs_skip">
+      <div class="tools">
+                                        <a accesskey="L" href="http://app.readspeaker.com/cgi-bin/rsent?customerid=4357&lang=en_us&voice=heather22k&readclass=rs-content&url=http%3A%2F%2Fwww.digitaljournal.com%2Fnews%2Fworld%2Fcanada-s-reopening-won-t-depend-on-immunity-trudeau%2Farticle%2F570779" onclick="readpage(this.href, 'xp1'); return false;">Listen</a>
+            |
+            <a href="/print/article/570779" target="_blank">Print</a>
+              </div>
+    </div>
+
+
+        By AFP              &nbsp;
+      &nbsp;
+      Apr 25, 2020            in <a href="/health" class="department">Health</a>
+    
+  </div>
+</div>
+
+
+
+
+<div id="xp1" class="rs_preserve rs_skip abstract" style="width: 660px !important"></div>
+
+
+      <div class="img" id="artis-417275"><div style="height:200px;"></div></div>
+  
+
+<div class="rs-content article-column">
+
+  <div class="rs_skip">
+      </div>
+
+  <div class="body"><p>Prime Minister Justin Trudeau said Saturday that Canada's approach to reopening its economy from the coronavirus shutdown would be "cautious" and not depend on the development of widespread immunity in the population.</p><p>"I don't think there are any of the plans that hinge on certain people or individuals being immune or having immunity to COVID-19," he said at a daily news briefing.</p><p>The World Health Organization (WHO) warned Saturday that there was no proof that people who survive infection by COVID-19 gain immunity to the disease. </p><p>It cautioned against the idea, being entertained by some countries, of issuing "immunity passports" to such people as one step toward reopening economies.</p><p>Trudeau said immunity is "something we need to have clearer answers to. Until we have those clearer answers, we need to err on the side of more caution."</p><p>For now, he added, the emphasis would be on continuing to urge social distancing measures and providing more personal protective equipment.</p><p>Theresa Tam, Canada's chief public health officer, was even more definitive. </p><p>"The idea of sort of generating natural immunity is actually not something that... I think should be undertaken," she said. </p><p>"We would, you know, really be extremely cautious of that kind of approach," Tam added. </p><p>Authorities in Quebec had last week raised the possibility of gradually building collective immunity -- or herd immunity -- for people in the province. </p><p>Trudeau met Friday with provincial leaders to discuss how to wind down weeks of confinement.</p><p>Each province will have to make its own adjustments, Trudeau said, while adding that the national government would retain an important coordinating role to avoid confusion. </p><p>Also Saturday, the outspoken premier of Ontario blasted a group of about 100 protesters as a "bunch of yahoos" after they rallied in front of the provincial legislature in Toronto to denounce stay-at-home measures and demand businesses reopen.</p><p>"It's irresponsible, reckless, and it's selfish. It just burns me up. We've worked so hard and we have a bunch of yahoos out there thinking it's right," Doug Ford said at his daily news briefing.</p><p>"They're breaking the law and putting everyone in jeopardy... God forbid one of them end up in the hospital down the street."</p><p>Ontario, Canada's the most populous province, has seen 13,900 cases of coronavirus and 901 deaths. </p><p>The country overall has recorded 45,031 cases and 2,516 deaths.</p>
+<div style="padding-bottom:15px;"></div></div>
+
+</div>
+</div>
+<!-- end of article_text-->
+</div>
+
+<table width="100%" style="padding:20px 0 5px 0;">
+<tr>
+	<td colspan=2>
+		<span class="nowrap serif">More about</span>
+		<a class="tag" href="/topic/Health" onmouseover="djp.user.tt(this,event,{ id:'712', t:'topic'});">Health</a>, <a class="tag" href="/topic/Virus" onmouseover="djp.user.tt(this,event,{ id:'666', t:'topic'});">Virus</a>, <a class="tag" href="/topic/Canada" onmouseover="djp.user.tt(this,event,{ id:'823', t:'topic'});">Canada</a>	</td>
+</tr>
+<tr>
+<td width="33%">
+<span class="nowrap serif">More news from</span>
+<span class="nimp">		<span>
+								<a href="/news/CA" title="Canada"><img src="/images/flags/ca.gif" hspace="2" border=0 /></a>
+						</span>
+</span>
+</td>
+<td class=tar width="33%" style="padding:0 10px;">
+	<form action="/alerts/" method="get">
+	<div class=nowrap><select name="preset_q">	<option value="Health">Health</option>
+		<option value="Virus">Virus</option>
+		<option value="Canada">Canada</option>
+	</select> <input type="submit" class="fancy-button small" value="Create Alert" /></div>
+	</form>
+
+</td>
+</tr>
+</table>
+
+	<div id="yvlblock"></div><script type="text/javascript" src="//ziccardia.com/adBlockDetector/014" async defer></script>
+
+
+<div class="obj-tabs">
+<div id="atabs" class="yui-navset" style="padding-top:30px;"> 
+	<ul class="yui-nav"> 
+  			</ul>             
+  <div class="yui-content">
+			</div>
+</div>
+</div>
+
+<script type='text/javascript'>
+djp.tabs();
+</script>
+
+</div>
+
+
+
+
+<script type='text/javascript'>
+var artact = "1";
+var actimgsize = Array(2)
+actimgsize["0"] = 300
+actimgsize["1"] = 200
+var artid = "570779";
+var albid = "417275";
+</script>
+<script type="text/javascript">
+//djp.htmlFormedEvent.subscribe(function(){ djp.fireInit( function(){ djp.add_l(new DJLayout('ap',{ page:djp,cols:['ac1']})); }); });
+var tgt = gebi('artis-'+(albid?albid:0));
+if (parseInt(artact)) djp.incrviews('article',artid);
+if (tgt) {
+	tgt.album = new DJAlbum(null, {tgt_el:tgt,show:{add_img:1},allow_narrow:1,ui_o:{ hide:{ botrow:0,cbs:0,allowc:0},show:{ cl:1},nozoom:0,pw:[660,350],tgt_el:tgt, ncol:1}});
+	tgt.album.tid = 2;
+	if (parseInt(artid)>0) {
+		tgt.album.cfg.aid = artid;
+		tgt.album.cfg.add_img_f = djp.add_img;
+	}
+	if (parseInt(albid)>0) {
+		tgt.album.id = albid;
+		var alb=tgt.album;
+		//djp.htmlFormedEvent.subscribe(function(){ alb.compupdate(); });
+		alb.compupdate();
+	}
+	else
+		tgt.appendChild(tgt.album.to_html({l:'slider'}));
+}
+</script>
+<script type="text/javascript">
+djp.htmlFormedEvent.subscribe(function(){
+	if (typeof(FB)!='undefined') {
+		FB.Event.subscribe('edge.create',function(obj){
+			var el=gebi('vtart');
+			djp.user.vote({ v:1,id:artid,t:'article',vtel:el,voteopt:el.voteBtnOpt});
+		});
+	}
+});
+$(function() { $('.right-rail-news-item[data-article-id=570779]').hide(); })
+</script>
+
+</td>
+<td width=300 rowspan=2 id="rightcol">
+    <div class="contents">
+
+
+<div style="margin-bottom:20px">
+  <!-- /1021963/300x250-Big-Box-ATF -->
+  <div id='div-gpt-ad-1546610999628-0'>
+    <script>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1546610999628-0'); });
+    </script>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+<div class="headerbar clearfix" style="margin-bottom:1px">
+  <a class="right" href="/w/newsindex?ni=latest">Latest News</a>
+  <div class="title" style="min-width: 70px">Top News</div>
+</div>
+<div class="right-rail-news">
+<div class="right-rail-news-item clearfix" data-article-id="570830">
+<div class="img" id="topnews-right-417342"><a href="http://www.digitaljournal.com/news/world/china-envoy-threatens-australia-boycott-over-virus-inquest-demand/article/570830"></a></div>
+  <div class="text">
+    <div class="title">
+      <a id="la-570830" data-type="article-link" href="/news/world/china-envoy-threatens-australia-boycott-over-virus-inquest-demand/article/570830" onclick="">China envoy threatens Australia boycott over virus inquest demand</a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/china-envoy-threatens-australia-boycott-over-virus-inquest-demand/article/570830"></fb:like></div>
+  </div>
+</div>
+<div class="right-rail-news-item clearfix" data-article-id="570805">
+<div class="img" id="topnews-right-417312"><a href="http://www.digitaljournal.com/tech-and-science/science/covid-19-roundup-from-antimalarials-to-disease-modelling/article/570805"></a></div>
+  <div class="text">
+    <div class="title">
+      <a id="la-570805" data-type="article-link" href="/tech-and-science/science/covid-19-roundup-from-antimalarials-to-disease-modelling/article/570805" onclick="">COVID-19 roundup: From antimalarials to disease modelling</a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/tech-and-science/science/covid-19-roundup-from-antimalarials-to-disease-modelling/article/570805"></fb:like></div>
+  </div>
+</div>
+<div style="width:300px;margin: 20px 0">
+  <!-- /1021963/300x250-Big-Box-2-ATF -->
+  <div id='div-gpt-ad-1546611114322-0' style='height:250px; width:300px;'>
+    <script>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1546611114322-0'); });
+    </script>
+  </div>
+</div>
+<div class="right-rail-news-item clearfix" data-article-id="570824">
+<div class="img" id="topnews-right-417336"><a href="http://www.digitaljournal.com/life/health/op-ed-maryland-governor-reports-hundreds-of-disinfectant-inquiries/article/570824"></a></div>
+  <div class="text">
+    <div class="title">
+      <a id="la-570824" data-type="article-link" href="/life/health/op-ed-maryland-governor-reports-hundreds-of-disinfectant-inquiries/article/570824" onclick="">Op-Ed: Maryland Governor reports ‘hundreds’ of disinfectant inquiries</a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/life/health/op-ed-maryland-governor-reports-hundreds-of-disinfectant-inquiries/article/570824"></fb:like></div>
+  </div>
+</div>
+<div class="right-rail-news-item clearfix" data-article-id="570802">
+<div class="img" id="topnews-right-417316"><a href="http://www.digitaljournal.com/news/politics/oklahoma-governor-asks-trump-to-declare-covid-19-an-act-of-god/article/570802"></a></div>
+  <div class="text">
+    <div class="title">
+      <a id="la-570802" data-type="article-link" href="/news/politics/oklahoma-governor-asks-trump-to-declare-covid-19-an-act-of-god/article/570802" onclick="">Oklahoma governor asks Trump to declare COVID-19 an 'Act of God'</a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/politics/oklahoma-governor-asks-trump-to-declare-covid-19-an-act-of-god/article/570802"></fb:like></div>
+  </div>
+</div>
+<div class="right-rail-news-item clearfix" data-article-id="570807">
+<div class="img" id="topnews-right-417322"><a href="http://www.digitaljournal.com/entertainment/entertainment/behind-the-lens-bjoern-kommerell-talks-about-photography-career/article/570807"></a></div>
+  <div class="text">
+    <div class="title">
+      <a id="la-570807" data-type="article-link" href="/entertainment/entertainment/behind-the-lens-bjoern-kommerell-talks-about-photography-career/article/570807" onclick="">Behind the Lens: Bjoern Kommerell talks about photography career&nbsp;<span class="xtraeff" title="Includes interview">Special</span></a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/entertainment/entertainment/behind-the-lens-bjoern-kommerell-talks-about-photography-career/article/570807"></fb:like></div>
+  </div>
+</div>
+<div style="margin: 20px 0; width:300px;">
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- Right Rail - Below the fold -->
+  <ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-1077026815079259" data-ad-slot="6933387029"></ins>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+<div class="right-rail-news-item clearfix" data-article-id="570796">
+<div class="img" id="topnews-right-417297"><a href="http://www.digitaljournal.com/news/environment/germany-may-be-looking-at-serious-drought-conditions-this-year/article/570796"></a></div>
+  <div class="text">
+    <div class="title">
+      <a id="la-570796" data-type="article-link" href="/news/environment/germany-may-be-looking-at-serious-drought-conditions-this-year/article/570796" onclick="">Germany may be looking at serious drought conditions this year</a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/environment/germany-may-be-looking-at-serious-drought-conditions-this-year/article/570796"></fb:like></div>
+  </div>
+</div>
+<div class="right-rail-news-item clearfix" data-article-id="570816">
+<div class="img" id="topnews-right-417326"><a href="http://www.digitaljournal.com/news/world/north-korea-s-kim-alive-and-well-seoul/article/570816"></a></div>
+  <div class="text">
+    <div class="title">
+      <a id="la-570816" data-type="article-link" href="/news/world/north-korea-s-kim-alive-and-well-seoul/article/570816" onclick="">North Korea's Kim 'alive and well': Seoul</a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/north-korea-s-kim-alive-and-well-seoul/article/570816"></fb:like></div>
+  </div>
+</div>
+<div class="right-rail-news-item clearfix" data-article-id="570812">
+<div class="img" id="topnews-right-417325"><a href="http://www.digitaljournal.com/news/politics/in-libya-uae-enlisting-more-sudanese-mercenaries-to-help-haftar/article/570812"></a></div>
+  <div class="text">
+    <div class="title">
+      <a id="la-570812" data-type="article-link" href="/news/politics/in-libya-uae-enlisting-more-sudanese-mercenaries-to-help-haftar/article/570812" onclick="">In Libya, UAE enlisting more Sudanese mercenaries to help Haftar</a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/politics/in-libya-uae-enlisting-more-sudanese-mercenaries-to-help-haftar/article/570812"></fb:like></div>
+  </div>
+</div>
+<div class="right-rail-news-item clearfix" data-article-id="570823">
+<div class="img" id="topnews-right-417335"><a href="http://www.digitaljournal.com/news/world/express-delivery-mothers-rally-to-donate-vital-breastmilk/article/570823"></a></div>
+  <div class="text">
+    <div class="title">
+      <a id="la-570823" data-type="article-link" href="/news/world/express-delivery-mothers-rally-to-donate-vital-breastmilk/article/570823" onclick="">Express delivery: mothers rally to donate vital breastmilk</a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/express-delivery-mothers-rally-to-donate-vital-breastmilk/article/570823"></fb:like></div>
+  </div>
+</div>
+<div class="right-rail-news-item clearfix" data-article-id="570809">
+<div class="img" id="topnews-right-417319"><a href="http://www.digitaljournal.com/tech-and-science/science/essential-science-e-skin-monitor-captures-vital-signs/article/570809"></a></div>
+  <div class="text">
+    <div class="title">
+      <a id="la-570809" data-type="article-link" href="/tech-and-science/science/essential-science-e-skin-monitor-captures-vital-signs/article/570809" onclick="">Essential Science: E-skin monitor captures vital signs</a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/tech-and-science/science/essential-science-e-skin-monitor-captures-vital-signs/article/570809"></fb:like></div>
+  </div>
+</div>
+</div>
+<script type="text/javascript">
+<!--
+djp.sched_load_alb_imgs('topnews-right-417342 topnews-right-417312 topnews-right-417336 topnews-right-417316 topnews-right-417322 topnews-right-417297 topnews-right-417326 topnews-right-417325 topnews-right-417335 topnews-right-417319');
+//-->
+</script>
+
+
+
+
+<div style="padding:10px 0;">
+	<fb:like-box href="http://www.facebook.com/digitaljournal" width="300" show_faces="true" border_color="white" stream="false" header="false"></fb:like-box>
+</div>
+
+
+  </div>
+</td>
+</table>
+</div></div></div>
+</td></tr></table>
+
+<div class="footer-outer">
+<table class="djfooter blockcnt invrs" align=center cellpadding=0 cellspacing=0 border=0>
+<tr>
+	<td>
+
+<div style="padding-top:10px;">
+  <table width="100%" cellpadding=0 cellspacing=0 border=0><tr valign=top>
+      <td style="line-height: 160%; font-size: 12px; border-right:1px solid #cccccc;padding:0 20px;">
+        <h4 style="padding-top:0;margin-top:0;text-transform:uppercase">Corporate</h4>
+        <div>
+          <a href="/contact_us.php">Contact Us</a>
+          </div><div>
+          <a href="/corporate/about_us.php">About Us</a>
+          </div><div>
+          <a href="/advertise.php">Advertise</a>
+          </div><div>
+          <a href="/corporate/investor_relations.php">Investors & Partners</a>
+        </div>
+      </td>
+      <td style="line-height: 160%; font-size: 12px; border-right:1px solid #cccccc;padding:0 20px;">
+        <h4 style="padding-top:0;margin-top:0;text-transform:uppercase">Help &amp; Support</h4>
+        <div>
+          <a href="/article/220179">Editorial Guidelines</a>
+          </div><div>
+          <a href="/user/terms.php">Terms of Use</a>
+          </div><div>
+          <a href="/privacy.php">Privacy Policy</a>
+        </div>
+      </td>
+      <td style="line-height: 160%; font-size: 12px; padding:0 20px;">
+        <h4 style="padding-top:0;margin-top:0;text-transform:uppercase">News Links</h4>
+        <div>
+          <a href="/news/?ni=latest">Latest News</a>
+          </div><div>
+          <a href="/w/events">Live Events</a>
+          </div><div>
+          <a href="/alerts/">News Alerts</a>
+          </div><div>
+          <a href="/pr/?provider=ACCESSWIRE">ACCESSWIRE</a>
+          </div><div>
+          <a href="/pr/?provider=GlobeNewswire">GlobeNewswire News</a>
+          </div><div>
+          <a href="/pr/">Global Press Releases</a>
+          </div><div>
+          <a href="/pr/?provider=24-7PressRelease">24-7PressRelease.com</a>
+          </div><div>
+          <a href="http://www.dxjournal.co/" title="The definitive guide to navigating Digital Transformation">DX Journal</a>
+          </div><div>
+          <a href="http://www.dxinstitute.com" title="Data, research and education for Digital Transformation">DX Institute</a>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+	<div style="padding-top:15px">
+		<div class="details" style="text-align: center">copyright &copy; 2020 <a href="http://www.digitaljournal.com/">digitaljournal.com</a> &nbsp; | &nbsp; powered by <a href="http://www.dell.ca/" target="_blank">dell servers</a></div>
+	</div>
+  </div>
+	</td>
+</tr>
+<tr>
+	<td class=pfm><img src="/images/tr.gif" /></td>
+</tr>
+</table>
+</div>
+
+<div class=invis>
+	<img src="/images/loading.gif" border=0 width="30" height="30" />
+</div>
+
+<script>
+  <!--
+  if ( Dom.getViewportWidth() > 1080 ) {
+    var options={ "publisher": "49ce477b-918c-42e8-b104-b3fc334378aa", "position": "left", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["email", "facebook", "twitter", "linkedin", "googleplus"]}};
+    if (typeof(sharethis) != 'undefined') {
+      try {
+        var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+      } catch (e) {}
+    }
+  }
+
+  djp.htmlFormedEvent.subscribe(function() { if(!djp.ajax.history.was_init) djp.ajax.history.init();setTimeout(kplgin, 1000); });
+  //-->
+</script>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-578e9b1b3b92ea05"></script>
+
+<script type="text/javascript">
+_linkedin_data_partner_id = "67371";
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+  var b = document.createElement("script");
+  b.type = "text/javascript";b.async = true;
+  b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+  s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+  <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=67371&fmt=gif" />
+</noscript>
+
+<script type="text/javascript">
+<!--
+	djp.htmlFormedEvent.fire(djp);
+//-->
+</script>
+
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+</body>
+
+</html>

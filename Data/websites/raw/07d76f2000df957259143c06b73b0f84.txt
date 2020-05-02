@@ -1,0 +1,1001 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYBVFdQGwUAUFdSBQQO",licenseKey:"47c9021fa3",applicationID:"60460259"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(9),t(8),"addEventListener"in window&&t(5),c.xhrWrappable&&t(10),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(9),s=t(8),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(7),"addEventListener"in window&&t(5);var x=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof x&&(this.bstStart=y.now())}),o.on(w,function(t,n){var e=t[0];e instanceof x&&i("bst",[e,n,this.bstStart,y.now()])}),a.on(m,function(t,n,e){this.bstStart=y.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,y.now(),this.bstType])}),s.on(m,function(){this.bstStart=y.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,y.now(),"requestAnimationFrame"])}),o.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),o.on(g+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t("wrap-function")(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){function r(t,n,e){var r=t[n];"function"==typeof r&&(t[n]=function(){var t=i(arguments),n={};o.emit(e+"before-start",[t],n);var a;n[m]&&n[m].dt&&(a=n[m].dt);var s=r.apply(this,t);return o.emit(e+"start",[t,a],s),s.then(function(t){return o.emit(e+"end",[null,t],s),t},function(t){throw o.emit(e+"end",[t],s),t})})}var o=t("ee").get("fetch"),i=t(22),a=t(21);n.exports=o;var s=window,c="fetch-",f=c+"body-",u=["arrayBuffer","blob","json","text","formData"],d=s.Request,l=s.Response,p=s.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,n){r(d[h],n,f),r(l[h],n,f)}),r(s,"fetch",c),o.on(c+"end",function(t,n){var e=this;if(n){var r=n.headers.get("content-length");null!==r&&(e.rxSize=r),o.emit(c+"done",[null,n],e)}else o.emit(c+"done",[t],e)}))},{}],7:[function(t,n,e){var r=t("ee").get("history"),o=t("wrap-function")(r);n.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],8:[function(t,n,e){var r=t("ee").get("raf"),o=t("wrap-function")(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],9:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t("wrap-function")(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],10:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",s)}function i(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];n.exports=u;var x=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,n,e){function r(t){if(!i(t))return null;var n=window.NREUM;if(!n.loader_config)return null;var e=(n.loader_config.accountID||"").toString()||null,r=(n.loader_config.agentID||"").toString()||null,s=(n.loader_config.trustKey||"").toString()||null;if(!e||!r)return null;var c=a.generateCatId(),f=a.generateCatId(),u=Date.now(),d=o(c,f,u,e,r,s);return{header:d,guid:c,traceId:f,timestamp:u}}function o(t,n,e,r,o,i){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var s={v:[0,1],d:{ty:"Browser",ac:r,ap:o,id:t,tr:n,ti:e}};return i&&r!==i&&(s.d.tk=i),btoa(JSON.stringify(s))}function i(t){var n=!1,e=!1,r={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(r=NREUM.init.distributed_tracing,e=!!r.enabled),e)if(t.sameOrigin)n=!0;else if(r.allowed_origins instanceof Array)for(var o=0;o<r.allowed_origins.length;o++){var i=s(r.allowed_origins[o]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){n=!0;break}}return e&&n}var a=t(19),s=t(13);n.exports={generateTracePayload:r,shouldGenerateTrace:i}},{}],12:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(d[r],this.listener,!1);n.aborted||(e.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):i(this,t),e.cbTime=this.cbTime,u.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime]))}}function o(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.parsedOrigin=c(n),t.sameOrigin=t.parsedOrigin.sameOrigin}function i(t,n){t.params.status=n.status;var e=w(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(13),f=t(11).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(17),m=t(16),w=t(14),v=window.XMLHttpRequest;a.features.xhr=!0,t(10),t(6),u.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){i(n,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=f(this.parsedOrigin);e&&e.header&&(n.setRequestHeader("newrelic",e.header),this.dt=e)}),u.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=m(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<l;s++)n.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),u.on("xhr-load-added",function(t,n){var e=""+p(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,n){var e=""+p(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],n)}),u.on("removeEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],n)}),u.on("fn-start",function(t,n,e){n instanceof v&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,n){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)}),u.on("fetch-before-start",function(t){var n,e=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url&&(n=t[0].url),n&&(this.parsedOrigin=c(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var r=f(this.parsedOrigin);if(r&&r.header){var o=r.header;if("string"==typeof t[0]){var i={};for(var a in e)i[a]=e[a];i.headers=new Headers(e.headers||{}),i.headers.set("newrelic",o),this.dt=r,t.length>1?t[1]=i:t.push(i)}else t[0]&&t[0].headers&&(t[0].headers.append("newrelic",o),this.dt=r)}})}},{}],13:[function(t,n,e){var r={};n.exports=function(t){if(t in r)return r[t];var n=document.createElement("a"),e=window.location,o={};n.href=t,o.port=n.port;var i=n.href.split("://");!o.port&&i[1]&&(o.port=i[1].split("/")[0].split("@").pop().split(":")[1]),o.port&&"0"!==o.port||(o.port="https"===i[0]?"443":"80"),o.hostname=n.hostname||e.hostname,o.pathname=n.pathname,o.protocol=i[0],"/"!==o.pathname.charAt(0)&&(o.pathname="/"+o.pathname);var a=!n.protocol||":"===n.protocol||n.protocol===e.protocol,s=n.hostname===document.domain&&n.port===e.port;return o.sameOrigin=a&&(!n.hostname||s),"/"===o.pathname&&(r[t]=o),o}},{}],14:[function(t,n,e){function r(t,n){var e=t.responseType;return"json"===e&&null!==n?n:"arraybuffer"===e||"blob"===e||"json"===e?o(t.response):"text"===e||"document"===e||""===e||void 0===e?o(t.responseText):void 0}var o=t(16);n.exports=r},{}],15:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],16:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],17:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],18:[function(t,n,e){function r(t,n){var e=t.getEntries();e.forEach(function(t){"first-paint"===t.name?c("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&c("timing",["fcp",Math.floor(t.startTime)])})}function o(t,n){var e=t.getEntries();e.length>0&&c("lcp",[e[e.length-1]])}function i(t){if(t instanceof u&&!l){var n,e=Math.round(t.timeStamp);n=e>1e12?Date.now()-e:f.now()-e,l=!0,c("timing",["fi",e,{type:t.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,s,c=t("handle"),f=t("loader"),u=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),s=new PerformanceObserver(o);try{a.observe({entryTypes:["paint"]}),s.observe({entryTypes:["largest-contentful-paint"]})}catch(d){}}if("addEventListener"in document){var l=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(t){document.addEventListener(t,i,!1)})}}},{}],19:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],20:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],21:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],22:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],23:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([x,e,r,a]),a}}function p(t,n){g[t]=m(t).concat(n)}function h(t,n){var e=g[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return g[t]||[]}function w(t){return d[t]=d[t]||o(e)}function v(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var g={},y={},x={on:p,addEventListener:p,removeEventListener:h,emit:e,get:w,listeners:m,context:n,buffer:v,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),l=window,p=l.document,h="addEventListener",m="attachEvent",w=l.XMLHttpRequest,v=w&&w.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:w,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var g=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1167.min.js"},x=w&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:g,features:{},xhrWrappable:x,userAgent:d};t(15),t(18),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}],"wrap-function":[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}]},{},["loader",2,12,4,3]);</script>
+<meta name="robots" content="noodp">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<meta name="theme-color" content="#000000" />
+<title>‘Turn the angry-mob mode off’: Cannon-Brookes calls on divided tech industry to back government’s COVIDSafe app - SmartCompany</title>
+
+<meta name="description" content="Mike Cannon-Brookes has come out in support of the government’s COVIDSafe tracking app, even as the broader tech community remains divided." />
+<meta name="news_keywords" content="covid-19 app, covid-19 tracking, covid-19 tracking app, covidsafe app, covidsafe mike cannon brookes, tech industry covid-19 tracking app, tech industry opinion on covid-19 tracking app, news, information and advice for small business and startups" />
+<meta name="original-source" content="https://www.smartcompany.com.au/coronavirus/angry-mob-cannon-brookes-covidsafe-app/" />
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://www.smartcompany.com.au/coronavirus/angry-mob-cannon-brookes-covidsafe-app/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="‘Turn the angry-mob mode off’: Cannon-Brookes calls on divided tech industry to back government’s COVIDSafe app - SmartCompany" />
+<meta property="og:description" content="Mike Cannon-Brookes has come out in support of the government’s COVIDSafe tracking app, even as the broader tech community remains divided." />
+<meta property="og:url" content="https://www.smartcompany.com.au/coronavirus/angry-mob-cannon-brookes-covidsafe-app/" />
+<meta property="og:site_name" content="SmartCompany" />
+<meta property="article:publisher" content="https://www.facebook.com/SmartCompany" />
+<meta property="article:tag" content="COVID-19 app" />
+<meta property="article:tag" content="COVID-19 tracking" />
+<meta property="article:tag" content="COVID-19 tracking app" />
+<meta property="article:tag" content="CovidSafe app" />
+<meta property="article:tag" content="CovidSafe Mike Cannon Brookes" />
+<meta property="article:tag" content="tech industry covid-19 tracking app" />
+<meta property="article:tag" content="tech industry opinion on COVID-19 tracking app" />
+<meta property="article:section" content="Coronavirus" />
+<meta property="article:published_time" content="2020-04-27T02:21:01+00:00" />
+<meta property="article:modified_time" content="2020-04-27T02:21:35+00:00" />
+<meta property="og:updated_time" content="2020-04-27T02:21:35+00:00" />
+<meta property="og:image" content="https://www.smartcompany.com.au/content/uploads/2019/01/Mike_Scott_1.jpg" />
+<meta property="og:image:secure_url" content="https://www.smartcompany.com.au/content/uploads/2019/01/Mike_Scott_1.jpg" />
+<meta property="og:image:width" content="681" />
+<meta property="og:image:height" content="334" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Mike Cannon-Brookes has come out in support of the government’s COVIDSafe tracking app, even as the broader tech community remains divided." />
+<meta name="twitter:title" content="‘Turn the angry-mob mode off’: Cannon-Brookes calls on divided tech industry to back government’s COVIDSafe app - SmartCompany" />
+<meta name="twitter:site" content="@smartcompany" />
+<meta name="twitter:image" content="https://www.smartcompany.com.au/content/uploads/2019/01/Mike_Scott_1.jpg" />
+<meta name="twitter:creator" content="@journostef" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.smartcompany.com.au/#website","url":"https://www.smartcompany.com.au/","name":"SmartCompany","inLanguage":"en-US","description":"Business news, business advice and information for Australian SMEs, startups and entrepreneurs","potentialAction":[{"@type":"SearchAction","target":"https://www.smartcompany.com.au/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"ImageObject","@id":"https://www.smartcompany.com.au/coronavirus/angry-mob-cannon-brookes-covidsafe-app/#primaryimage","inLanguage":"en-US","url":"https://www.smartcompany.com.au/content/uploads/2019/01/Mike_Scott_1.jpg","width":681,"height":334,"caption":"Mike Cannon-Brookes"},{"@type":"WebPage","@id":"https://www.smartcompany.com.au/coronavirus/angry-mob-cannon-brookes-covidsafe-app/#webpage","url":"https://www.smartcompany.com.au/coronavirus/angry-mob-cannon-brookes-covidsafe-app/","name":"\u2018Turn the angry-mob mode off\u2019: Cannon-Brookes calls on divided tech industry to back government\u2019s COVIDSafe app - SmartCompany","isPartOf":{"@id":"https://www.smartcompany.com.au/#website"},"inLanguage":"en-US","primaryImageOfPage":{"@id":"https://www.smartcompany.com.au/coronavirus/angry-mob-cannon-brookes-covidsafe-app/#primaryimage"},"datePublished":"2020-04-27T02:21:01+00:00","dateModified":"2020-04-27T02:21:35+00:00","author":{"@id":"https://www.smartcompany.com.au/#/schema/person/78886fa42406856d6e13479ae8ddfbaa"},"description":"Mike Cannon-Brookes has come out in support of the government\u2019s COVIDSafe tracking app, even as the broader tech community remains divided.","potentialAction":[{"@type":"ReadAction","target":["https://www.smartcompany.com.au/coronavirus/angry-mob-cannon-brookes-covidsafe-app/"]}]},{"@type":["Person"],"@id":"https://www.smartcompany.com.au/#/schema/person/78886fa42406856d6e13479ae8ddfbaa","name":"Stephanie Palmer-Derrien","image":{"@type":"ImageObject","@id":"https://www.smartcompany.com.au/#authorlogo","inLanguage":"en-US","url":"https://www.smartcompany.com.au/content/uploads/2018/05/Steph-Palmer-Derrien-DP-96x96.jpg","caption":"Stephanie Palmer-Derrien"},"description":"Stephanie Palmer-Derrien is the editor at <em>StartupSmart</em>. You can contact her at <a href=\"mailto:spd@smartcompany.com.au\" target=\"_blank\" rel=\"noopener\">spd@smartcompany.com.au</a>.","sameAs":["https://www.linkedin.com/in/stephanie-palmer-derrien-72927672/","https://twitter.com/journostef"]}]}</script>
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//clientcdn.pushengage.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//s7.addthis.com' />
+<link rel='dns-prefetch' href='//m.addthisedge.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="SmartCompany &raquo; Feed" href="https://www.smartcompany.com.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="SmartCompany &raquo; Comments Feed" href="https://www.smartcompany.com.au/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="SmartCompany &raquo; ‘Turn the angry-mob mode off’: Cannon-Brookes calls on divided tech industry to back government’s COVIDSafe app Comments Feed" href="https://www.smartcompany.com.au/coronavirus/angry-mob-cannon-brookes-covidsafe-app/feed/" />
+<meta property="fb:pages" content="126215308565" />
+<link rel='stylesheet' id='wgs2-css' href='https://www.smartcompany.com.au/content/plugins/wp-google-search/wgs2.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='pullquote_headcss-css' href='https://www.smartcompany.com.au/content/plugins/pullquote/css/pullquote.css?ver=20180606' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.smartcompany.com.au/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mpp_gutenberg-css' href='https://www.smartcompany.com.au/content/plugins/metronet-profile-picture/dist/blocks.style.build.css?ver=2.3.11' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-parsely-style-css' href='https://www.smartcompany.com.au/content/plugins/wp-parsely/wp-parsely.css?ver=1586401931' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css' href='https://www.smartcompany.com.au/content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css' href='https://www.smartcompany.com.au/content/themes/smartcompany_2/css/style.1587945822.css' type='text/css' media='all' />
+<link rel='stylesheet' id='addthis-css' href='//m.addthisedge.com/live/boost/ra-4f67ce7e0165961d/_ate.track.config_resp?ver=5.3.2' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://www.smartcompany.com.au/content/plugins/pullquote/js/pullquote.js?ver=20180606'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var basestring = {"reCAPTCHA_SITEKEY":"6LczjtsUAAAAAA8lJigGr6-lYj95Cl0y4ImgUNFy"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.smartcompany.com.au/content/themes/smartcompany_2/js/dist/scripts.1587681521.js'></script>
+<script type='text/javascript' src='https://www.smartcompany.com.au/content/themes/smartcompany_2/assets/js/base.1582581305.js'></script>
+<script type='text/javascript' src='https://www.smartcompany.com.au/content/themes/smartcompany_2/assets/js/legacy.1580648978.js'></script>
+<script type='text/javascript' src='https://www.smartcompany.com.au/content/themes/smartcompany_2/assets/js/stick_me.1580648979.js'></script>
+<script type='text/javascript' src='https://www.smartcompany.com.au/content/themes/smartcompany_2/assets/js/cycle_carousel.1580648979.js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LczjtsUAAAAAA8lJigGr6-lYj95Cl0y4ImgUNFy&#038;ver=5.3.2'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js?ver=5.3.2'></script>
+<link rel='https://api.w.org/' href='https://www.smartcompany.com.au/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.smartcompany.com.au/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.smartcompany.com.au/wp/wp-includes/wlwmanifest.xml" />
+<link rel='shortlink' href='https://www.smartcompany.com.au/?p=185834' />
+<link rel="alternate" type="application/json+oembed" href="https://www.smartcompany.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smartcompany.com.au%2Fcoronavirus%2Fangry-mob-cannon-brookes-covidsafe-app%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.smartcompany.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smartcompany.com.au%2Fcoronavirus%2Fangry-mob-cannon-brookes-covidsafe-app%2F&#038;format=xml" />
+
+<meta name="wp-parsely_version" id="wp-parsely_version" content="2.0" />
+<script type="application/ld+json">
+		{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/www.smartcompany.com.au\/coronavirus\/angry-mob-cannon-brookes-covidsafe-app\/"},"headline":"\u2018Turn the angry-mob mode off\u2019: Cannon-Brookes calls on divided tech industry to back government\u2019s COVIDSafe app","url":"http:\/\/www.smartcompany.com.au\/coronavirus\/angry-mob-cannon-brookes-covidsafe-app\/","thumbnailUrl":"https:\/\/www.smartcompany.com.au\/content\/uploads\/2019\/01\/Mike_Scott_1-100x100.jpg","image":{"@type":"ImageObject","url":"https:\/\/www.smartcompany.com.au\/content\/uploads\/2019\/01\/Mike_Scott_1-100x100.jpg"},"dateCreated":"2020-04-27T02:21:01Z","datePublished":"2020-04-27T02:21:01Z","dateModified":"2020-04-27T02:21:01Z","articleSection":"Coronavirus","author":[{"@type":"Person","name":"Stephanie Palmer-Derrien"}],"creator":["Stephanie Palmer-Derrien"],"keywords":["covid-19 app","covid-19 tracking","covid-19 tracking app","covidsafe app","covidsafe mike cannon brookes","tech industry covid-19 tracking app","tech industry opinion on covid-19 tracking app"],"publisher":{"@type":"Organization","name":"SmartCompany","logo":{"@type":"ImageObject","url":""}}}
+		</script>
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="application-name" content="SmartCompany" />
+<meta name="msapplication-TileColor" content="#ffffff" />
+<!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+<script src="https://use.typekit.net/xcd6dix.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+        {'gtm.start': new Date().getTime(),event:'gtm.js'}
+    );var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-M9NPCTW');</script>
+
+
+<style type="text/css">
+  
+  .is-sticky .ad_vrec2 .sussidebar{
+
+    margin-top:50px; 
+  }
+  
+  .ad-top-sticky{
+      z-index: 99998 !important;
+      background: rgb(255, 255, 255);
+  }
+
+  @media only screen and (max-width: 768px) {
+    
+    .ad-top-sticky{
+        top: 0px !important;
+    }
+
+  }
+
+</style>
+<script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+<script>   
+
+    googletag.cmd.push(function() {
+    
+        /*
+          Create size maps to only display ads and ad sizes on different screen sizes
+       */
+
+
+        var mapping1 = googletag.sizeMapping()
+        .addSize([864, 0], [[300, 600]])
+        .addSize([672, 0], [[300,250]])
+        .addSize([0, 0], [[300,250]])
+        .build();
+
+        var mapping2 = googletag.sizeMapping()
+        .addSize([864, 0], [[300, 250]])
+        .addSize([672, 0], [[300,250]])
+        .addSize([0, 0], [[300,250]])
+        .build();
+
+        var mapping3 = googletag.sizeMapping()
+        .addSize([864, 0], [[728, 90], [970, 90], [970, 250]])
+        .addSize([672, 0], [[728, 90]])
+        .addSize([0, 0], [[320,50], [320,100], [300,50]])
+        .build();
+
+        var position_ROS = googletag.sizeMapping()
+        .addSize([864, 0], [[320,100]])
+        .addSize([672, 0], [[320,100]])
+        .addSize([0, 0], [[320,100]])
+        .build();              
+
+        var Nativead_position = googletag.sizeMapping()
+        .addSize([864, 0], [[645, 120], [733, 120]])
+        .addSize([672, 0], [[645, 120]])
+        .addSize([0, 0], [[300, 250]])
+        .build();   
+          
+        /*
+          Define the different ad slots. Home, categories, and single posts use different slots.
+          Include .defineSizeMapping() where a size map is required.
+        */
+
+        
+          googletag.defineSlot('/21827659304/SmartCompany/startupsmart/news', [[300, 250], [300, 600]], 'div-gpt-ad-1494222548849-0')
+          .defineSizeMapping(mapping1)
+          .setTargeting('pos', '1')
+          .addService(googletag.pubads())
+          .setCollapseEmptyDiv(true);
+       
+          googletag.defineSlot('/21827659304/SmartCompany/startupsmart/news', [[300, 250]], 'div-gpt-ad-1494222548849-1')
+              .defineSizeMapping(mapping2)
+              .setTargeting('pos', '2')
+              .addService(googletag.pubads())
+              .setCollapseEmptyDiv(true);
+
+          googletag.defineSlot('/21827659304/SmartCompany/startupsmart/news', [[300, 250]], 'div-gpt-ad-1494222548849-5')
+              .defineSizeMapping(mapping2)
+              .setTargeting('pos', '3')
+              .addService(googletag.pubads())
+              .setCollapseEmptyDiv(true);
+
+          googletag.defineSlot('/21827659304/SmartCompany/startupsmart/news', [[728, 90], [970, 90], [970, 250]], 'div-gpt-ad-1494222548849-2')
+          .defineSizeMapping(mapping3)
+          .setTargeting('pos', '1')
+          .addService(googletag.pubads())
+          .setCollapseEmptyDiv(true);
+
+          googletag.defineSlot('/21827659304/SmartCompany/startupsmart/news', [[728, 90], [970, 90], [970, 250]], 'div-gpt-ad-1494222548849-3')
+          .defineSizeMapping(mapping3)
+          .setTargeting('pos', '2')
+          .addService(googletag.pubads())
+          .setCollapseEmptyDiv(true);
+        
+          googletag.defineSlot('/21827659304/SmartCompany/startupsmart/news', [[728, 90], [970, 90], [970, 250]], 'div-gpt-ad-1494222548849-4')
+          .defineSizeMapping(mapping3)
+          .setTargeting('pos', '3')
+          .addService(googletag.pubads())
+          .setCollapseEmptyDiv(true);
+
+          googletag.defineSlot('/21827659304/SmartCompany/startupsmart/news', [[300, 80]], 'div-gpt-ad-1557809889221-0')
+          //.defineSizeMapping(Native_ad_pos1)
+          .addService(googletag.pubads())
+          .setTargeting('pos', '1')
+          .setCollapseEmptyDiv(true);
+        
+          
+          googletag.defineSlot('/21827659304/SmartCompany/startupsmart/news', [[320,100]], 'div-gpt-ad-1557873659148-0')
+          .defineSizeMapping(position_ROS)
+          .setTargeting('pos', '4')          
+          .addService(googletag.pubads())
+          .setCollapseEmptyDiv(true);
+
+          googletag.defineSlot('/21827659304/SmartCompany/startupsmart/news', [[320,100]], 'div-gpt-ad-1557873972465-0')
+          .defineSizeMapping(position_ROS)          
+          .setTargeting('pos', '5')
+          .addService(googletag.pubads())
+          .setCollapseEmptyDiv(true);
+
+          googletag.defineSlot('/21827659304/SmartCompany/startupsmart/news', [[320,100]], 'div-gpt-ad-1557874081003-0')
+          .defineSizeMapping(position_ROS)    
+          .setTargeting('pos', '6')      
+          .addService(googletag.pubads())
+          .setCollapseEmptyDiv(true);
+                    
+
+          
+          googletag.defineSlot('/21827659304/SmartCompany/startupsmart/news', [[300, 100], [645, 120], [733, 120]], 'div-gpt-ad-1558485359249-0')
+          .defineSizeMapping(Nativead_position)
+          .setTargeting('pos', '1')
+          .addService(googletag.pubads())
+          .setCollapseEmptyDiv(true);
+          
+          
+          
+        /*
+            Setup targeting for Post ID, profanity, and category.
+        */
+        googletag.pubads().setTargeting('pl_pageid', '185834');
+        googletag.pubads().setTargeting('pl_profanity', 'false');
+
+        
+        
+                /*DFP Tag */ 
+        var pl_urlpath = ["angry","mob","cannon","brookes","covidsafe","app"]; 
+        googletag.pubads().setTargeting('URL_path', pl_urlpath);
+
+        
+        googletag.pubads().setTargeting('pl_industry', 'coronavirus');
+        
+        
+            googletag.pubads().setTargeting('pl_category', 'Coronavirus, Startup News');
+        
+        googletag.pubads().enableLazyLoad({
+          fetchMarginPercent: 50,
+          renderMarginPercent: 0,
+          mobileScaling: 2.0
+        });
+
+        //googletag.pubads().collapseEmptyDivs();
+        //googletag.pubads().enableSingleRequest();
+
+        googletag.enableServices();
+    });
+
+</script>
+
+
+
+<style type="text/css">
+        
+        .article__meta-category a{
+            color: #27E6CB;
+        }
+
+    </style>
+
+</head>
+<body class="post-template-default single single-post postid-185834 single-format-standard type-standard">
+
+<div id="overlay"></div>
+<nav id="nav">
+<div id="nav__header">
+<span>
+Close
+</span>
+</div>
+<ul id="menu-mainmenu" class=""><li id="menu-item-94034" class="menu-item menu-item-type-taxonomy menu-item-object-category has-children menu-item-94034"><a id="main-menu-item" href="https://www.smartcompany.com.au/business-advice/">Business Advice</a>
+<ul class="sub-menu">
+<li id="menu-item-94037" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94037"><a id="main-menu-item" href="https://www.smartcompany.com.au/business-advice/franchising/">Franchising</a></li>
+<li id="menu-item-94038" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94038"><a id="main-menu-item" href="https://www.smartcompany.com.au/business-advice/innovation/">Innovation</a></li>
+<li id="menu-item-94040" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94040"><a id="main-menu-item" href="https://www.smartcompany.com.au/business-advice/intellectual-property/">Intellectual Property</a></li>
+<li id="menu-item-94041" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94041"><a id="main-menu-item" href="https://www.smartcompany.com.au/business-advice/legal/">Legal</a></li>
+<li id="menu-item-94042" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94042"><a id="main-menu-item" href="https://www.smartcompany.com.au/business-advice/politics/">Politics</a></li>
+<li id="menu-item-94043" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94043"><a id="main-menu-item" href="https://www.smartcompany.com.au/business-advice/strategy/">Strategy</a></li>
+</ul>
+</li>
+<li id="menu-item-94044" class="menu-item menu-item-type-taxonomy menu-item-object-category has-children menu-item-94044"><a id="main-menu-item" href="https://www.smartcompany.com.au/finance/">Finance</a>
+<ul class="sub-menu">
+<li id="menu-item-94046" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94046"><a id="main-menu-item" href="https://www.smartcompany.com.au/finance/cashflow/">Cashflow</a></li>
+<li id="menu-item-94047" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94047"><a id="main-menu-item" href="https://www.smartcompany.com.au/finance/economy/">Economy</a></li>
+<li id="menu-item-181281" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181281"><a id="main-menu-item" href="https://www.smartcompany.com.au/finance/fraud/">Fraud</a></li>
+<li id="menu-item-94048" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94048"><a id="main-menu-item" href="https://www.smartcompany.com.au/finance/funding/">Funding</a></li>
+<li id="menu-item-181282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181282"><a id="main-menu-item" href="https://www.smartcompany.com.au/finance/grants/">Grants</a></li>
+<li id="menu-item-94050" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94050"><a id="main-menu-item" href="https://www.smartcompany.com.au/finance/superannuation/">Superannuation</a></li>
+<li id="menu-item-94049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94049"><a id="main-menu-item" href="https://www.smartcompany.com.au/finance/tax/">Tax</a></li>
+</ul>
+</li>
+<li id="menu-item-181283" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181283"><a>Growth</a></li>
+<li id="menu-item-181301" class="menu-item menu-item-type-custom menu-item-object-custom has-children menu-item-181301"><a id="main-menu-item" href="https://www.smartcompany.com.au/industries/">Industries</a>
+<ul class="sub-menu">
+<li id="menu-item-181302" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181302"><a id="main-menu-item" href="https://www.smartcompany.com.au/industries/agribusiness/">Agribusiness</a></li>
+<li id="menu-item-181303" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181303"><a id="main-menu-item" href="https://www.smartcompany.com.au/industries/construction-engineering/">Construction</a></li>
+<li id="menu-item-181304" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181304"><a id="main-menu-item" href="https://www.smartcompany.com.au/industries/energy-resources/">Energy &#038; Resources</a></li>
+<li id="menu-item-181305" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181305"><a id="main-menu-item" href="https://www.smartcompany.com.au/industries/hospitality/">Hospitality</a></li>
+<li id="menu-item-181306" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181306"><a id="main-menu-item" href="https://www.smartcompany.com.au/industries/manufacturing/">Manufacturing</a></li>
+<li id="menu-item-181307" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181307"><a id="main-menu-item" href="https://www.smartcompany.com.au/industries/property/">Property</a></li>
+<li id="menu-item-181308" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181308"><a id="main-menu-item" href="https://www.smartcompany.com.au/industries/retail/">Retail</a></li>
+<li id="menu-item-181309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181309"><a id="main-menu-item" href="https://www.smartcompany.com.au/industries/telecommunications/">Telecommunications</a></li>
+<li id="menu-item-181310" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181310"><a id="main-menu-item" href="https://www.smartcompany.com.au/industries/tourism/">Tourism</a></li>
+<li id="menu-item-181311" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181311"><a id="main-menu-item" href="https://www.smartcompany.com.au/industries/transport-logistics/">Transport</a></li>
+</ul>
+</li>
+<li id="menu-item-94051" class="menu-item menu-item-type-taxonomy menu-item-object-category has-children menu-item-94051"><a id="main-menu-item" href="https://www.smartcompany.com.au/marketing/">Marketing</a>
+<ul class="sub-menu">
+<li id="menu-item-94052" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94052"><a id="main-menu-item" href="https://www.smartcompany.com.au/marketing/advertising/">Advertising</a></li>
+<li id="menu-item-181298" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181298"><a id="main-menu-item" href="https://www.smartcompany.com.au/marketing/branding/">Branding</a></li>
+<li id="menu-item-181299" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181299"><a id="main-menu-item" href="https://www.smartcompany.com.au/marketing/networking/">Networking</a></li>
+<li id="menu-item-181300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181300"><a id="main-menu-item" href="https://www.smartcompany.com.au/marketing/public-relations/">Public Relations</a></li>
+<li id="menu-item-94053" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94053"><a id="main-menu-item" href="https://www.smartcompany.com.au/marketing/sales/">Sales</a></li>
+<li id="menu-item-94054" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94054"><a id="main-menu-item" href="https://www.smartcompany.com.au/marketing/social-media/">Social Media</a></li>
+</ul>
+</li>
+<li id="menu-item-94055" class="menu-item menu-item-type-taxonomy menu-item-object-category has-children menu-item-94055"><a id="main-menu-item" href="https://www.smartcompany.com.au/people-human-resources/">People &#038; Human Resources</a>
+<ul class="sub-menu">
+<li id="menu-item-94056" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94056"><a id="main-menu-item" href="https://www.smartcompany.com.au/people-human-resources/industrial-relations/">Industrial Relations</a></li>
+<li id="menu-item-94057" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94057"><a id="main-menu-item" href="https://www.smartcompany.com.au/people-human-resources/leadership/">Leadership</a></li>
+<li id="menu-item-94058" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94058"><a id="main-menu-item" href="https://www.smartcompany.com.au/people-human-resources/managing/">Managing</a></li>
+<li id="menu-item-181295" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181295"><a id="main-menu-item" href="https://www.smartcompany.com.au/people-human-resources/productivity/">Productivity</a></li>
+<li id="menu-item-181296" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181296"><a id="main-menu-item" href="https://www.smartcompany.com.au/people-human-resources/professional-development/">Professional Development</a></li>
+<li id="menu-item-94059" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94059"><a id="main-menu-item" href="https://www.smartcompany.com.au/people-human-resources/recruitment-hiring/">Recruitment &#038; Hiring</a></li>
+<li id="menu-item-94060" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94060"><a id="main-menu-item" href="https://www.smartcompany.com.au/people-human-resources/training-development/">Training &#038; Development</a></li>
+<li id="menu-item-181297" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181297"><a id="main-menu-item" href="https://www.smartcompany.com.au/people-human-resources/wellbeing/">Wellbeing</a></li>
+</ul>
+</li>
+<li id="menu-item-94062" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94062"><a id="main-menu-item" href="https://www.smartcompany.com.au/entrepreneurs/">Entrepreneurs</a></li>
+<li id="menu-item-94064" class="menu-item menu-item-type-taxonomy menu-item-object-category has-children menu-item-94064"><a id="main-menu-item" href="https://www.smartcompany.com.au/partner-content/">Partner Content</a>
+<ul class="sub-menu">
+<li id="menu-item-94065" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94065"><a id="main-menu-item" href="https://www.smartcompany.com.au/partner-content/articles/">Articles</a></li>
+<li id="menu-item-119715" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-119715"><a id="main-menu-item" href="https://www.smartcompany.com.au/partner-content/article-series/">Article Series</a></li>
+<li id="menu-item-94066" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94066"><a id="main-menu-item" href="https://www.smartcompany.com.au/partner-content/ebooks/">eBooks</a></li>
+<li id="menu-item-94069" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94069"><a id="main-menu-item" href="https://www.smartcompany.com.au/partner-content/webinars/">Webinars</a></li>
+</ul>
+</li>
+<li id="menu-item-181289" class="menu-item menu-item-type-custom menu-item-object-custom has-children menu-item-181289"><a id="main-menu-item" href="https://www.smartcompany.com.au/startupsmart/">Startups</a>
+<ul class="sub-menu">
+<li id="menu-item-181290" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181290"><a id="main-menu-item" href="https://www.smartcompany.com.au/startupsmart/news/">News</a></li>
+<li id="menu-item-181291" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181291"><a id="main-menu-item" href="https://www.smartcompany.com.au/startupsmart/analysis/">Analysis</a></li>
+<li id="menu-item-181292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181292"><a id="main-menu-item" href="https://www.smartcompany.com.au/startupsmart/advice/">Advice</a></li>
+<li id="menu-item-181293" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181293"><a id="main-menu-item" href="https://www.smartcompany.com.au/startupsmart/op-ed/">Opinion</a></li>
+<li id="menu-item-181294" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181294"><a id="main-menu-item" href="https://www.smartcompany.com.au/startupsmart/profiles/">Profiles</a></li>
+</ul>
+</li>
+<li id="menu-item-181288" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181288"><a id="main-menu-item" href="https://www.smartcompany.com.au/sustainability/">Sustainability</a></li>
+<li id="menu-item-181284" class="menu-item menu-item-type-custom menu-item-object-custom has-children menu-item-181284"><a id="main-menu-item" href="https://www.smartcompany.com.au/technology/">Technology</a>
+<ul class="sub-menu">
+<li id="menu-item-181285" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181285"><a id="main-menu-item" href="https://www.smartcompany.com.au/technology/apps/">Apps</a></li>
+<li id="menu-item-181286" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181286"><a id="main-menu-item" href="https://www.smartcompany.com.au/technology/cyber-security/">Cyber Security</a></li>
+<li id="menu-item-181287" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181287"><a id="main-menu-item" href="https://www.smartcompany.com.au/technology/seo/">SEO</a></li>
+</ul>
+</li>
+<li id="menu-item-94070" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94070"><a id="main-menu-item" href="/events/">Events</a></li>
+<li id="menu-item-126169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126169"><a id="main-menu-item" href="https://www.smartcompany.com.au/smart50-awards/">Smart50 Awards</a></li>
+</ul>
+</nav>
+<div id="search">
+<div class="container">
+<div id="search__inner">
+<form method="get" id="searchform" action="https://www.smartcompany.com.au/search" class="form-search">
+<input type="text" value="" name="q" id="td-header-search-new" class="needsclick" />
+<input type="hidden" id="by_date" name="by_date" value="1m">
+<input type="submit" />
+</form>
+</div>
+</div>
+</div>
+<header id="header">
+<div class="container">
+<div id="header__inner">
+<div id="header__hamburger">
+<div>
+<div id="header__hamburger-inner">
+<span></span>
+<span></span>
+<span></span>
+</div>
+<span>
+Menu
+</span>
+</div>
+</div>
+<div id="header__logo">
+<a href="/" id="header-logo-link">
+<img src="https://www.smartcompany.com.au/content/themes/smartcompany_2/img/logo.svg" />
+</a>
+</div>
+<div id="header__right">
+<div id="header__right-inner">
+<div>
+<a href="https://www.smartcompany.com.au/subscribe/" id="header__right-subscribe">
+Subscribe
+</a>
+<div id="header__right-search-trigger">
+<img src="https://www.smartcompany.com.au/content/themes/smartcompany_2/img/icon-search.svg" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="wrap">
+
+<section class="ad" id="leaderboard">
+<div class="container">
+<div class="row center">
+
+<div id='div-gpt-ad-1494222548849-2'>
+<script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1494222548849-2'); });
+    </script>
+</div>
+
+</div>
+</div>
+</section>
+<section id="article__wrap" class="bb">
+<div class="container">
+<div class="row">
+ <article>
+<div class="article__header">
+<div class="article__category">
+<a href="https://www.smartcompany.com.au/coronavirus/" rel="category tag">Coronavirus</a>, <a href="https://www.smartcompany.com.au/startupsmart/news/" rel="category tag">Startup News</a> </div>
+<h1>‘Turn the angry-mob mode off’: Cannon-Brookes calls on divided tech industry to back government’s COVIDSafe app</h1>
+</div>
+<div class="article__meta">
+<div class="article__meta-author">
+<a href="https://www.smartcompany.com.au/author/spalmerderrien/">
+Stephanie Palmer-Derrien </a>
+</div>
+<div class="article__meta-date">
+April 27, 2020 </div>
+<div class="article__meta-social">
+
+<div class="addthis_sharing_toolbox inline addthis_sharing_toolboxpost"></div>
+
+</div>
+</div>
+<div class="article__content">
+<div class="article__image">
+<img width="681" height="334" src="https://www.smartcompany.com.au/content/uploads/2019/01/Mike_Scott_1.jpg" class="attachment-post size-post wp-post-image" alt="Mike Cannon-Brookes" srcset="https://www.smartcompany.com.au/content/uploads/2019/01/Mike_Scott_1.jpg 681w, https://www.smartcompany.com.au/content/uploads/2019/01/Mike_Scott_1-660x325.jpg 660w, https://www.smartcompany.com.au/content/uploads/2019/01/Mike_Scott_1-295x145.jpg 295w, https://www.smartcompany.com.au/content/uploads/2019/01/Mike_Scott_1-350x172.jpg 350w, https://www.smartcompany.com.au/content/uploads/2019/01/Mike_Scott_1-180x88.jpg 180w" sizes="(max-width: 681px) 100vw, 681px" /> <div class="article__image-caption">
+<p class="wp-caption-text">Atlassian's founders Scott Farquhar and Mike Cannon-Brookes. Source: supplied.</p> </div>
+</div>
+<p>Atlassian co-founder and Aussie tech entrepreneur Mike Cannon-Brookes has come out in support of the government’s COVIDSafe tracking app, even as the broader tech community remains divided and sceptical.</p>
+<p>Released on Sunday morning, the tracking app was reportedly downloaded by <a href="https://www.abc.net.au/news/2020-04-27/coronavirus-tracing-app-covidsafe-one-million-downloads/12187806" target="_blank" rel="noopener noreferrer">one million people within five hours</a>.</p>
+<p>Although the Department of Health has promised to make the app’s source code public, in a bid to alleviate privacy concerns, as of yet, the code has <a href="https://www.innovationaus.com/covidsafe-app-lands-sourcecode-yet-to-come/" target="_blank" rel="noopener noreferrer">not been released</a>.</p>
+<p>The app is intended to track connections between individuals and alert those who have been in the vicinity of someone who has tested positive for COVID-19. However, it has divided public opinion and attracted questions about privacy and surveillance.</p>
+<p>On Sunday, Cannon-Brookes tweeted his support of the app.</p> <section class="subscribev2 horizontalv2">
+<div class="container">
+<div class="subscribe__inner">
+<div class="row">
+<div>
+<div class="subscribe__small">
+ Get COVID-19 news you can use delivered to your inbox.
+</div>
+</div>
+<form action="/wp/wp-admin/admin-ajax.php" id="subscriber-box-horizontalv2" method="post" _lpchecked="1">
+<div class="form__row">
+<label>
+First Name
+</label>
+<input type="text" placeholder="First Name" id="subscribe_form_firstname" name="firstname" required="required" />
+</div>
+<div class="form__row">
+<label>
+Last name
+</label>
+<input type="text" placeholder="Last name" id="subscribe_form_surname" name="surname" required="required" />
+</div>
+<div class="form__row">
+<label>
+Email Address
+</label>
+<input type="text" placeholder="Email Address" id="subscribe_form_email" name="email" required="required" />
+</div>
+<input name="nl" type="hidden" value="sc">
+<div class="form__row footer">
+<button class="subscribe_bt">Subscribe</button>
+</div>
+</form>
+<div class="msg_div">
+You’ll also receive special offers from our partners. You can opt-out at any time.
+</div>
+</div>
+</div>
+</div>
+</section>
+<p>He also shared a comment he had written on Hacker News, saying he believes the source code will indeed be released, calling on the tech industry to “turn the HN angry mob mode off”.</p><div id="Teads-inread"></div>
+<div id="div-gpt-ad-1558510053956-0">
+<script>
+        googletag.cmd.push(function () {googletag.display("div-gpt-ad-1558510053956-0");});
+    </script>
+</div>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">FYI I wrote a brief comment on Hacker News to try to explain how the tech community in Australia can fight some of the FUD about this app:<a href="https://t.co/lpn1xJfme6">https://t.co/lpn1xJfme6</a><a href="https://twitter.com/hashtag/covidsafe?src=hash&amp;ref_src=twsrc%5Etfw">#covidsafe</a> <a href="https://t.co/RWtrACSsZ2">https://t.co/RWtrACSsZ2</a></p>
+<p>— Mike Cannon-Brookes ????????‍???????? (@mcannonbrookes) <a href="https://twitter.com/mcannonbrookes/status/1254376884332228609?ref_src=twsrc%5Etfw">April 26, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Rather, Cannon-Brookes urged the community to commend the government on the good decisions it has made regarding security — for example, deleting data after 21 days, and the promise to release the source code — and to look for bugs in the tech and help close them.</p>
+<p>However, his stance on the app has attracted everything from commenters defending the angry mob and its place in democracy, to those questioning the tech track record of the Morrison government. Or, what one commenter calls it’s “unilateral self-righteous anti-privacy rampage”.</p>
+<p>To Cannon-Brookes’ original tweet about the app, one commenter even suggested the post should have been labelled as sponsored content.</p>
+<p>Elsewhere, Matthew Robbins, founder of Aussie productivity startup MFractor, noted in a Twitter thread that the app is not obfuscated, and that it can, therefore, be unpacked to a point he says is “almost as good as having the original source code”.</p>
+<p>And unpick it he has, ultimately suggesting the app is “above board, very transparent and follows industry standard”.</p>
+<div id="div-gpt-ad-1558485359249-0">
+<script>
+        googletag.cmd.push(function () {googletag.display("div-gpt-ad-1558485359249-0");});
+    </script>
+</div>
+<div id="div-gpt-ad-1529461394788-1" class="ad-mrec-mobile">
+<script>
+        googletag.cmd.push(function() { googletag.display("div-gpt-ad-1529461394788-1"); });
+    </script>
+</div>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">So, I&#8217;ve downloaded and decompiled the Android app using the freely available, open source tools apktool and JadX.</p>
+<p>Here are my findings for those who are interested interested:</p>
+<p>— Matthew Robbins (@matthewrdev) <a href="https://twitter.com/matthewrdev/status/1254336106625036289?ref_src=twsrc%5Etfw">April 26, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Again, the sticking point here is a mistrust of the government and its approach to tech — specifically privacy — historically.</p>
+<p>Cannon-Brookes himself was a <a href="https://www.smartcompany.com.au/startupsmart/news/startupaus-submission-aa-bill/" target="_blank" rel="noopener noreferrer">staunch campaigner against the government’s </a><em><a href="https://www.smartcompany.com.au/startupsmart/news/startupaus-submission-aa-bill/" target="_blank" rel="noopener noreferrer">Assistance and Access Bill</a></em>, passed in late-2018.</p>
+<p>And, just from a browse of Aussie tech Twitter, there’s a noticeable lack of faith in the government.</p>
+<blockquote class="twitter-tweet" data-conversation="none">
+<p dir="ltr" lang="en">Thanks for diving in. I&#8217;m a bit miffed they haven&#8217;t released source, given the importance of trust in getting people to install this and a very chequered past with privacy issues for both this govt and labor.</p>
+<p>— Simeon J M (@simeonjm) <a href="https://twitter.com/simeonjm/status/1254348161398652929?ref_src=twsrc%5Etfw">April 26, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">thing is, adoption of <a href="https://twitter.com/hashtag/covidsafe?src=hash&amp;ref_src=twsrc%5Etfw">#covidsafe</a> relies upon trust in gov&#8217;t — a rare &amp; precious commodity that <a href="https://twitter.com/ScottMorrisonMP?ref_src=twsrc%5Etfw">@ScottMorrisonMP</a> &amp; <a href="https://twitter.com/GregHuntMP?ref_src=twsrc%5Etfw">@GregHuntMP</a> have wantonly frittered away over many years.</p>
+<p>analysis by privacy/security geeks is helping me do an end-run around that trust deficit. considering it.</p>
+<p>— ????simon holmes à court ???? (@simonahac) <a href="https://twitter.com/simonahac/status/1254389842906976258?ref_src=twsrc%5Etfw">April 26, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Others have noted that consumers hand over their data when downloading all kinds of apps. But that comparison doesn’t quite hold up.</p>
+<p>While those apps may use your data for financial gain, targeting and all manner of other surreptitious activities, they hardly have the power of a sitting government.</p>
+<p>The Morrison government is going to lengths to reassure the public of the safety of the app.</p>
+<p>Data will reportedly be deleted after 21 days, and a privacy impact assessment conducted by law firm Maddocks says the government does not intend to use data for any purposes other than for contact tracing.</p>
+<p>“The government understands there are public concerns that information collected by the app will be used or disclosed for purposes other than contact tracing, such as law enforcement,” the report says.</p>
+<p>It also suggests the government is working to amend legislation under the <em>Biosecurity Act 2015</em>, to add additional legal protections for any data collected, to “minimise the risk of ‘functional creep’”.</p>
+<p>The government has said, however, that personal information could be disclosed if it is necessary to “prosecute a breach of the law in relation to contact tracing under the <em>Biosecurity Determination and the Biosecurity Act 2015</em>”.</p>
+<p>Is the government’s tracking app a good thing getting bad PR off the back of previous mistakes? Or is it a threat to privacy that will do more harm than good? Let us know what you think.</p>
+<p><strong><a href="https://www.smartcompany.com.au/coronavirus/elon-musk-deepfake-zoom/" target="_blank" rel="noopener noreferrer">NOW READ: Zoombombed by Elon? New program brings deepfakes to video conferencing</a></strong></p>
+<p><strong><a href="https://www.smartcompany.com.au/coronavirus/stimulus/seven-scenarios-jobkeepers-alternative-eligibility-tests-explained/" target="_blank" rel="noopener noreferrer">NOW READ: Seven scenarios: JobKeeper’s alternative eligibility tests explained</a></strong></p>
+</div>
+</article>
+<aside>
+<section class="ad" id="halfpage">
+
+<div id='div-gpt-ad-1494222548849-0'>
+<script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1494222548849-0'); });
+    </script>
+</div>
+
+</section>
+<section class="ad vrec2">
+
+<div id='div-gpt-ad-1494222548849-1'>
+<script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1494222548849-1'); });
+    </script>
+</div>
+
+</section>
+
+<div class="sidebar__group">
+<h3>PARTNER CONTENT</h3>
+<div class="sidebar__group-inner">
+<a href="https://www.smartcompany.com.au/partner-content/articles/marketing-tips-for-covid-19/#post-185321" id="partner-content-widget">
+<img class="png" border="0" src="https://www.smartcompany.com.au/content/uploads/2020/04/GRAVIA-WP-IMG-170x116.jpg" width="95" height="65">
+<h6>“The most unprecedented value on your advertising spend”: Distress Rate Media director Grant Allen’s marketing tips for COVID-19</h6>
+</a>
+<a href="https://www.smartcompany.com.au/partner-content/webinars/kate-carnell-webinar/#post-185768" id="partner-content-widget">
+<img class="png" border="0" src="https://www.smartcompany.com.au/content/uploads/2020/04/ASBFEO-WEBINAR-IMG-170x116.jpg" width="95" height="65">
+<h6>In Conversation with ASBFEO Kate Carnell</h6>
+</a>
+<a href="https://www.smartcompany.com.au/partner-content/articles/kate-carnell-covid-19/#post-185761" id="partner-content-widget">
+ <img class="png" border="0" src="https://www.smartcompany.com.au/content/uploads/2020/04/ASBFEO-ARTICLE-IMG-170x116.jpg" width="95" height="65">
+<h6>JobKeeper eligibility, cash flow and ATO insights from ASBFEO Kate Carnell</h6>
+</a>
+</div>
+</div>
+
+<div class="sidebar__group noborder">
+
+<iframe WIDTH="300" HEIGHT="450" SCROLLING="NO" src="//www.dianomi.com/smartads.epl?id=5776" style="width: 300px; height: 450px; border: none; overflow: hidden;"></iframe>
+
+<section class="ad" id="mrec">
+
+<div id='div-gpt-ad-1494222548849-5'>
+<script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1494222548849-5'); });
+    </script>
+</div>
+
+</section>
+</div>
+</aside>
+</div>
+</div>
+</section>
+<section class="ad" id="leaderboard">
+<div class="container">
+<div class="row center">
+
+<div id='div-gpt-ad-1494222548849-3'>
+<script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1494222548849-3'); });
+    </script>
+</div>
+
+</div>
+</div>
+</section>
+
+<section class="grey content__alt">
+<div class="container">
+<h3>Trending</h3>
+<div class="row">
+<article class="col col-4">
+<a href="https://www.smartcompany.com.au/finance/tax/jobkeeper-applications-open/" id="trending-section-posts">
+<img width="408" height="227" src="https://www.smartcompany.com.au/content/uploads/2016/12/ato_600.jpg" class="attachment-home-trending-section size-home-trending-section wp-post-image" alt="JobKeeper applications are now open - find out where to apply, how and everything else you need to know to access the $1,500 fortnightly payments." srcset="https://www.smartcompany.com.au/content/uploads/2016/12/ato_600.jpg 600w, https://www.smartcompany.com.au/content/uploads/2016/12/ato_600-340x189.jpg 340w, https://www.smartcompany.com.au/content/uploads/2016/12/ato_600-273x152.jpg 273w, https://www.smartcompany.com.au/content/uploads/2016/12/ato_600-350x195.jpg 350w, https://www.smartcompany.com.au/content/uploads/2016/12/ato_600-584x325.jpg 584w, https://www.smartcompany.com.au/content/uploads/2016/12/ato_600-180x100.jpg 180w" sizes="(max-width: 408px) 100vw, 408px" />
+<h4>
+<span class="u">JobKeeper applications now open: Here&#8217;s how to apply</span>
+</h4>
+<div class="article__meta">
+<div class="article__meta-category">
+<span class="u"><a href="https://www.smartcompany.com.au/coronavirus/" rel="category tag">Coronavirus</a>, <a href="https://www.smartcompany.com.au/coronavirus/stimulus/" rel="category tag">Stimulus</a>, <a href="https://www.smartcompany.com.au/finance/tax/" rel="category tag">Tax</a></span>
+</div>
+<div class="article__meta-author">
+ <span class="u">
+Matthew Elmas </span>
+</div>
+<div class="article__meta-date">
+20 April 2020 </div>
+</div>
+<div class="article__content">
+JobKeeper applications are now open - find out where to apply, how and everything else you need to know to access the $1,500 fortnightly payments. </div>
+</a>
+</article>
+<article class="col col-4">
+<a href="https://www.smartcompany.com.au/coronavirus/jobkeeper-ato-application/" id="trending-section-posts">
+<img width="412" height="201" src="https://www.smartcompany.com.au/content/uploads/2020/03/Chris-Jordan-412x201.jpg" class="attachment-home-trending-section size-home-trending-section wp-post-image" alt="JobKeeper" srcset="https://www.smartcompany.com.au/content/uploads/2020/03/Chris-Jordan-412x201.jpg 412w, https://www.smartcompany.com.au/content/uploads/2020/03/Chris-Jordan-660x322.jpg 660w, https://www.smartcompany.com.au/content/uploads/2020/03/Chris-Jordan-519x253.jpg 519w, https://www.smartcompany.com.au/content/uploads/2020/03/Chris-Jordan-461x225.jpg 461w, https://www.smartcompany.com.au/content/uploads/2020/03/Chris-Jordan-306x149.jpg 306w, https://www.smartcompany.com.au/content/uploads/2020/03/Chris-Jordan-626x306.jpg 626w, https://www.smartcompany.com.au/content/uploads/2020/03/Chris-Jordan-203x99.jpg 203w, https://www.smartcompany.com.au/content/uploads/2020/03/Chris-Jordan-295x144.jpg 295w, https://www.smartcompany.com.au/content/uploads/2020/03/Chris-Jordan-350x171.jpg 350w, https://www.smartcompany.com.au/content/uploads/2020/03/Chris-Jordan-180x88.jpg 180w, https://www.smartcompany.com.au/content/uploads/2020/03/Chris-Jordan.jpg 733w" sizes="(max-width: 412px) 100vw, 412px" />
+<h4>
+<span class="u">JobKeeper applications open April 20, as ATO works to clarify eligibility criteria</span>
+</h4>
+<div class="article__meta">
+<div class="article__meta-category">
+<span class="u"><a href="https://www.smartcompany.com.au/coronavirus/" rel="category tag">Coronavirus</a>, <a href="https://www.smartcompany.com.au/coronavirus/stimulus/" rel="category tag">Stimulus</a>, <a href="https://www.smartcompany.com.au/finance/tax/" rel="category tag">Tax</a></span>
+</div>
+<div class="article__meta-author">
+<span class="u">
+Matthew Elmas </span>
+</div>
+<div class="article__meta-date">
+15 April 2020 </div>
+</div>
+<div class="article__content">
+The ATO will open applications for JobKeeper wage subsidies on April 20, amid ongoing efforts to provide more clarity about eligibility for the payments. </div>
+</a>
+</article>
+<article class="col col-4">
+<a href="https://www.smartcompany.com.au/coronavirus/gst-turnover-jobkeeper-eligibility/" id="trending-section-posts">
+<img width="412" height="202" src="https://www.smartcompany.com.au/content/uploads/2016/07/business-people-worried.jpg" class="attachment-home-trending-section size-home-trending-section wp-post-image" alt="coronavirus tax relief" srcset="https://www.smartcompany.com.au/content/uploads/2016/07/business-people-worried.jpg 681w, https://www.smartcompany.com.au/content/uploads/2016/07/business-people-worried-340x167.jpg 340w, https://www.smartcompany.com.au/content/uploads/2016/07/business-people-worried-295x145.jpg 295w, https://www.smartcompany.com.au/content/uploads/2016/07/business-people-worried-350x172.jpg 350w, https://www.smartcompany.com.au/content/uploads/2016/07/business-people-worried-660x325.jpg 660w, https://www.smartcompany.com.au/content/uploads/2016/07/business-people-worried-180x88.jpg 180w" sizes="(max-width: 412px) 100vw, 412px" />
+<h4>
+<span class="u">GST turnover explained: How to pass the JobKeeper eligibility test</span>
+</h4>
+<div class="article__meta">
+<div class="article__meta-category">
+<span class="u"><a href="https://www.smartcompany.com.au/coronavirus/" rel="category tag">Coronavirus</a>, <a href="https://www.smartcompany.com.au/coronavirus/stimulus/" rel="category tag">Stimulus</a>, <a href="https://www.smartcompany.com.au/finance/tax/" rel="category tag">Tax</a></span>
+</div>
+<div class="article__meta-author">
+<span class="u">
+Matthew Elmas </span>
+</div>
+<div class="article__meta-date">
+21 April 2020 </div>
+</div>
+<div class="article__content">
+Here's what you need to know to pass the JobKeeper test. What is GST turnover? Which month's revenue do I need to use? We've got some answers for you. </div>
+</a>
+</article>
+</div>
+<div class="divider">
+<div></div>
+</div>
+<div class="row">
+<article class="col col-3">
+<a href="https://www.smartcompany.com.au/coronavirus/jobkeeper-cash-flow-catch/" id="trending-section-posts">
+<h5>
+<span class="u">Holding out for JobKeeper? There’s a cashflow catch you need to know about</span>
+</h5>
+<div class="article__meta">
+<div class="article__meta-category">
+<span class="u"><a href="https://www.smartcompany.com.au/coronavirus/" rel="category tag">Coronavirus</a>, <a href="https://www.smartcompany.com.au/coronavirus/stimulus/" rel="category tag">Stimulus</a></span>
+</div>
+<div class="article__meta-author">
+<span class="u"> Stephanie Palmer-Derrien</span>
+</div>
+</div>
+</a>
+</article>
+<article class="col col-3">
+<a href="https://www.smartcompany.com.au/industries/retail/anzac-day-2020-coronavirus/" id="trending-section-posts">
+<h5>
+<span class="u">Coronavirus exemptions: ANZAC Day 2020 trading hours explained</span>
+</h5>
+<div class="article__meta">
+<div class="article__meta-category">
+<span class="u"><a href="https://www.smartcompany.com.au/coronavirus/" rel="category tag">Coronavirus</a>, <a href="https://www.smartcompany.com.au/industries/retail/" rel="category tag">Retail</a></span>
+</div>
+<div class="article__meta-author">
+<span class="u"> Matthew Elmas</span>
+</div>
+</div>
+</a>
+</article>
+<article class="col col-3">
+<a href="https://www.smartcompany.com.au/coronavirus/jobkeeper-casuals-law/" id="trending-section-posts">
+<h5>
+ <span class="u">JobKeeper Q&#038;A: Struggling to convince casuals to take shifts? Here&#8217;s what the law says</span>
+</h5>
+<div class="article__meta">
+<div class="article__meta-category">
+<span class="u"><a href="https://www.smartcompany.com.au/coronavirus/" rel="category tag">Coronavirus</a>, <a href="https://www.smartcompany.com.au/finance/" rel="category tag">Finance</a>, <a href="https://www.smartcompany.com.au/coronavirus/stimulus/" rel="category tag">Stimulus</a></span>
+</div>
+<div class="article__meta-author">
+<span class="u"> Matthew Elmas</span>
+</div>
+</div>
+</a>
+</article>
+<article class="col col-3">
+<a href="https://www.smartcompany.com.au/coronavirus/stimulus/seven-scenarios-jobkeepers-alternative-eligibility-tests-explained/" id="trending-section-posts">
+<h5>
+<span class="u">Seven scenarios: JobKeeper&#8217;s alternative eligibility tests explained</span>
+</h5>
+<div class="article__meta">
+<div class="article__meta-category">
+<span class="u"><a href="https://www.smartcompany.com.au/coronavirus/" rel="category tag">Coronavirus</a>, <a href="https://www.smartcompany.com.au/business-advice/politics/" rel="category tag">Politics</a>, <a href="https://www.smartcompany.com.au/coronavirus/stimulus/" rel="category tag">Stimulus</a></span>
+</div>
+<div class="article__meta-author">
+<span class="u"> Stephanie Palmer-Derrien</span>
+</div>
+</div>
+</a>
+</article>
+<article class="col col-3">
+<a href="https://www.smartcompany.com.au/coronavirus/warning-employers-jobkeeper-fraud/" id="trending-section-posts">
+<h5>
+<span class="u">&#8216;Dob them in&#8217;: Morrison lays down the law for employers thinking of pocketing the JobKeeper subsidy</span>
+</h5>
+<div class="article__meta">
+<div class="article__meta-category">
+<span class="u"><a href="https://www.smartcompany.com.au/coronavirus/" rel="category tag">Coronavirus</a>, <a href="https://www.smartcompany.com.au/coronavirus/stimulus/" rel="category tag">Stimulus</a></span>
+</div>
+<div class="article__meta-author">
+<span class="u"> Stephanie Palmer-Derrien</span>
+</div>
+</div>
+</a>
+</article>
+<article class="col col-3">
+<a href="https://www.smartcompany.com.au/industries/property/property-markets-april-2020/" id="trending-section-posts">
+<h5>
+<span class="u">State by state: An April update on Australia’s property markets</span>
+</h5>
+<div class="article__meta">
+<div class="article__meta-category">
+<span class="u"><a href="https://www.smartcompany.com.au/coronavirus/" rel="category tag">Coronavirus</a>, <a href="https://www.smartcompany.com.au/industries/property/" rel="category tag">Property</a></span>
+</div>
+<div class="article__meta-author">
+<span class="u"> Michael Yardney</span>
+</div>
+</div>
+</a>
+ </article>
+<article class="col col-3">
+<a href="https://www.smartcompany.com.au/coronavirus/atlas-dining-pivot-covid-19/" id="trending-section-posts">
+<h5>
+<span class="u">This Melbourne restaurant is seeing business boom after COVID-19 forced it to make a tech pivot</span>
+</h5>
+<div class="article__meta">
+<div class="article__meta-category">
+<span class="u"><a href="https://www.smartcompany.com.au/coronavirus/" rel="category tag">Coronavirus</a>, <a href="https://www.smartcompany.com.au/entrepreneurs/" rel="category tag">Entrepreneurs</a>, <a href="https://www.smartcompany.com.au/industries/hospitality/" rel="category tag">Hospitality</a></span>
+</div>
+<div class="article__meta-author">
+<span class="u"> Stephanie Palmer-Derrien</span>
+</div>
+</div>
+</a>
+</article>
+<article class="col col-3">
+<div id='div-gpt-ad-1557809889221-0'>
+<script>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1557809889221-0'); });
+                    </script>
+</div>
+</article>
+</div>
+</div>
+</section>
+
+
+<section class="content__alt small">
+<div class="container">
+<script type="text/javascript" id="dianomi_context_script" src="https://www.dianomi.com/js/contextfeed.js"></script>
+<div class="dianomi_context" data-dianomi-context-id="155"></div>
+</div>
+</section>
+
+
+<section class="subscribe horizontal">
+<div class="container">
+<div class="subscribe__inner">
+<div class="row">
+<div>
+<div class="subscribe__large">
+Daily News
+</div>
+<div class="subscribe__small">
+Made For You
+</div>
+</div>
+<form action="https://www.smartcompany.com.au/wp/wp-admin/admin-ajax.php" id="subscriber-box-horizontal" method="post" _lpchecked="1">
+<div class="form__row">
+<label>
+First Name
+</label>
+<input type="text" placeholder="First Name" id="subscribe_form_firstname" name="firstname" required="required" />
+</div>
+<div class="form__row">
+<label>
+Surname
+</label>
+<input type="text" placeholder="Surname" id="subscribe_form_surname" name="surname" required="required" />
+</div>
+<div class="form__row">
+<label>
+Email Address
+</label>
+<input type="text" placeholder="Email Address" id="subscribe_form_email" name="email" required="required" />
+</div>
+<input name="nl" type="hidden" value="sc">
+<div class="form__row footer">
+<button class="subscribe_bt">Subscribe</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</section>
+
+<footer>
+<div class="container">
+<img src="https://www.smartcompany.com.au/content/themes/smartcompany_2/img/logo-alt.svg" />
+<div class="row">
+<div>
+<p>
+SmartCompany is the leading online publication in Australia for free news, information and resources catering to Australia's entrepreneurs, small and medium business owners and business managers.
+</p>
+</div>
+<div>
+<p>
+<strong>SmartCompany</strong>
+Level 6, 22 William St,<br />
+Melbourne, 3000 Australia
+</p>
+</div>
+<div class="footer_menu">
+<div class="footer__heading">
+<strong>Follow</strong> SmartCompany
+</div>
+<ul>
+<li>
+<a href="https://www.facebook.com/SmartCompany" target="_blank">
+<img src="https://www.smartcompany.com.au/content/themes/smartcompany_2/img/icon-fb.svg" />
+<span>Facebook</span>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/smartcompany" target="_blank">
+<img src="https://www.smartcompany.com.au/content/themes/smartcompany_2/img/icon-twitter.svg" />
+<span>Twitter</span>
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/smartcompanyau/" target="_blank">
+<img src="https://www.smartcompany.com.au/content/themes/smartcompany_2/img/icon-instagram.svg" />
+<span>Instagram</span>
+</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/company/smartcompany" target="_blank">
+<img src="https://www.smartcompany.com.au/content/themes/smartcompany_2/img/icon-li.svg" />
+<span>LinkedIn</span>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UCfZtBPn8YSWnc21dQu4TRSA" target="_blank">
+<img src="https://www.smartcompany.com.au/content/themes/smartcompany_2/img/icon-yt.svg" />
+<span>YouTube</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="footer_menu">
+<ul id="menu-footer" class="menu"><li id="menu-item-182937" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182937"><a href="https://www.smartcompany.com.au/subscribe/">Subscribe</a></li>
+<li id="menu-item-94076" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94076"><a href="/about-us/">About Us</a></li>
+<li id="menu-item-94077" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94077"><a href="/contact-us">Contact Us</a></li>
+<li id="menu-item-181918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-181918"><a href="https://www.smartcompany.com.au/how-to-contribute-smartcompany/">Contribute</a></li>
+<li id="menu-item-94078" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94078"><a href="/advertise/">Advertise</a></li>
+<li id="menu-item-94079" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94079"><a href="/terms-and-conditions/">Terms &#038; Conditions</a></li>
+<li id="menu-item-121393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121393"><a href="https://www.smartcompany.com.au/code-of-conduct/">Code-of-Conduct</a></li>
+<li id="menu-item-94080" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94080"><a href="/privacy/">Privacy Policy</a></li>
+</ul> </div>
+<div class="footer_menu">
+<ul>
+<li><a href="http://www.crikey.com.au/" target="_blank">Crikey</a></li>
+<li><a href="http://www.themandarin.com.au/" target="_blank">The Mandarin</a></li>
+<li><a href="https://www.engagementbureau.com.au/" target="_blank">Bureau</a></li>
+<li><a href="http://www.privatemedia.com.au/" target="_blank">Private Media</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="footer__bottom">
+<p>
+Copyright © 2020 Private Media Pty Ltd. Publishers of SmartCompany. All Rights Reserved.
+</p>
+</div>
+</footer>
+</div> 
+
+
+<script data-cfasync="false" id="parsely-cfg" data-parsely-site="smartcompany.com.au" src="//cdn.parsely.com/keys/smartcompany.com.au/p.js"></script>
+
+<script type="text/javascript">function showhide_toggle(a,b,d,f){var e=jQuery("#"+a+"-link-"+b),c=jQuery("a",e),g=jQuery("#"+a+"-content-"+b);a=jQuery("#"+a+"-toggle-"+b);e.toggleClass("sh-show sh-hide");g.toggleClass("sh-show sh-hide").toggle();"true"===c.attr("aria-expanded")?c.attr("aria-expanded","false"):c.attr("aria-expanded","true");a.text()===d?a.text(f):a.text(d)};</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"010786939569441296345:jkad-d8di20"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.smartcompany.com.au/content/plugins/wp-google-search/assets/js/google_cse_v2.js?ver=1'></script>
+<script type='text/javascript' src='https://www.smartcompany.com.au/content/plugins/metronet-profile-picture/js/mpp-frontend.js?ver=2.3.11'></script>
+<script type='text/javascript'>
+window._peq = window._peq || []; window._peq.push(['init']);
+</script>
+<script type='text/javascript' async src='https://clientcdn.pushengage.com/core/ab329c8b753ec0acac0eaf586f3d48a5.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://www.smartcompany.com.au/content/themes/smartcompany_2/assets/js/lib/jquery-ui.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://www.smartcompany.com.au/content/themes/smartcompany_2/assets/js/lib/jquery.cookie.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://www.smartcompany.com.au/content/themes/smartcompany_2/assets/js/lib/modernizr.custom.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://www.smartcompany.com.au/content/themes/smartcompany_2/assets/js/lib/classie.js?ver=5.3.2'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/uikit/2.24.2/js/uikit.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='//s7.addthis.com/js/300/addthis_widget.js?ver=5.3.2#pubid=ra-4f67ce7e0165961d'></script>
+<script type='text/javascript' src='https://www.smartcompany.com.au/content/themes/smartcompany_2/assets/js/lib/jquery.sticky.js?ver=170510'></script>
+<script type='text/javascript' src='https://www.smartcompany.com.au/wp/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+<script type="text/javascript">
+
+            jQuery.ajax({
+                type: "POST",
+                url: 'https://www.smartcompany.com.au/post-counter/',
+                data: {action: 'register_hit', app: 1, id: '185834' },
+            });
+
+        </script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"47c9021fa3","applicationID":"60460259","transactionName":"NQFbYhQDWEFRBxIMWgxLeFUSC1lcHxcPC1IOAQ==","queueTime":0,"applicationTime":342,"atts":"GUZYFFwZS08=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

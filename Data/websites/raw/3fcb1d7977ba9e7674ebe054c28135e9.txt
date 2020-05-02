@@ -1,0 +1,9 @@
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;france24&#46;com&#47;en&#47;20200427&#45;europe&#45;prepares&#45;to&#45;roll&#45;back&#45;covid&#45;19&#45;restrictions" on this server.<P>
+Reference&#32;&#35;18&#46;10834768&#46;1587985640&#46;4158ff78
+</BODY>
+</HTML>

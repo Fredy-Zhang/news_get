@@ -1,0 +1,996 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <meta name="apple-itunes-app" content="app-id=1093074623">
+    <meta name="google-play-app" content="app-id=com.trtworld.android">
+    <title>Over 3 million people around the world are now infected – latest updates</title>
+    <!-- Icon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.trtworld.com/images/favicons/apple-touch-icon.png">
+    <link rel="shortcut icon" href="https://www.trtworld.com/images/favicons/favicon.png" type="image/png" />
+    <!-- Style -->
+    <link href="/css/app.css?id=fe862017b7fbd895dbf1" rel="stylesheet" type="text/css">
+        <!-- Metadata -->
+    <meta name="title" content="Over 3 million people around the world are now infected – latest updates"/>
+    <meta name="description" content="Global coronavirus cases are inching towards the three million mark with over 207,000 people killed. Here are the latest developments for April 27:"/>
+    <meta name="image" content="https://cdni0.trtworld.com/w480/h270/q75/77443_AP_20076355021447_1587974391050.jpg"/>
+    <link rel="image_src" href="https://cdni0.trtworld.com/w480/h270/q75/77443_AP_20076355021447_1587974391050.jpg"/>
+    <link rel="canonical" href="https://www.trtworld.com/life/over-3-million-people-around-the-world-are-now-infected-latest-updates-35769"/>
+
+    <!-- Facebook Meta -->
+    <meta property="og:title" content="Over 3 million people around the world are now infected – latest updates"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:description" content="Global coronavirus cases are inching towards the three million mark with over 207,000 people killed. Here are the latest developments for April 27:"/>
+    <meta property="og:site_name" content="Over 3 million people around the world are now infected – latest updates"/>
+    <meta property="og:locale" content="tr_TR"/>
+    <meta property="og:article:author" content="TRT World"/>
+    <meta property="og:article:section" content="News"/>
+    <meta property="og:url" content="https://www.trtworld.com/life/over-3-million-people-around-the-world-are-now-infected-latest-updates-35769"/>
+    <meta property="og:image" content="https://cdni0.trtworld.com/w480/h270/q75/77443_AP_20076355021447_1587974391050.jpg"/>
+
+    <link rel="amphtml" href="https://www.trtworld.com/life/over-3-million-people-around-the-world-are-now-infected-latest-updates-35769/amp">
+    <!-- Google Micro Data -->
+    <script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "articleSection": "Life",
+    "mainEntityOfPage": {
+        "@type":"WebPage",
+        "@id": "https://www.trtworld.com/life/over-3-million-people-around-the-world-are-now-infected-latest-updates-35769"
+    },
+    "headline": "Over 3 million people around the world are now infected – latest updates",
+    "wordCount": "10465",
+    "datePublished": "2020-04-27 10:19:39",
+    "dateModified": "2020-04-27 10:01:25",
+    "description": "Global coronavirus cases are inching towards the three million mark with over 207,000 people killed. Here are the latest developments for April 27:",
+    "articleBody":"Monday, April 27Iran death toll risesThe death toll from the outbreak of new coronavirus in Iran rose by 96 in the past 24 hours to 5,806, Health Ministry spokesman Kianush Jahanpur said in a statement on state TV on Monday.The total number of diagnosed cases of new coronavirus in Iran, one of the countries hardest hit by the outbreak in the Middle East, has reached 91,472, he said.&amp;nbsp;Spain&amp;#39;s daily death toll picks up slightlyThe number of daily fatalities reported in Spain rose to 331, up from 288 the previous day, the health ministry said.The overall death toll caused by the disease rose to 23,521 from 23,190 the day before.&amp;nbsp;The total number of diagnosed cases rose to 209,465 from 207,634 the day before.Indonesia reports 214 new infectionsIndonesia&amp;#39;s number of reported cases has risen by 214 to 9,096, health ministry official Achmad Yurianto said.Death rose by 22 to 765 while 1,151 people have recovered, Yurianto said.More than 59,000 people have been tested in Indonesia.&amp;nbsp;Malaysia continues with decline in figuresMalaysia reported 40 new confirmed cases of the novel coronavirus, taking the cumulative total to 5,820 infections.The health ministry also reported one new death, raising the total number of fatalities from the outbreak to 99.The country is on a two-week low trend as figures continue decreasing.Philippines figures continues to declineThe Philippines reported 198 new cases and 10 deaths, bringing the country&amp;#39;s tally to 7,777 cases and 511 fatalities.The Department of Health also said 70 individuals have recovered from the infection, bringing the total number of recoveries to 932.&amp;nbsp;The country is on a weeks-long low trend as figures continue decreasing.Indonesia sees rate of virus infections lower by JuneIndonesia expects the rate of virus infections to fall by June, its Covid-19 task force chief Doni Monardo said on Monday.&amp;quot;The President has asked that we work harder, for the people to obey and be more disciplined, and for the authorities to be more stern so that by June, we&amp;#39;re hoping we can lower the infections in Indonesia. In July, we&amp;#39;re hoping to resume our normal lives,&amp;quot; Monardo said after a cabinet meeting.Monardo pledged to increase tests between April and May&amp;quot;massively&amp;quot;.Over 3 million people now have Covid-19Global infections from Covid-19 has now reached a new record by infecting over three million people, according to the Worldometre tracker.The tracking service uses the latest data from health ministries around the world in real time.It took just three months for the virus to infect three million people and 12 days for it to reach from two million to three million people.Russia&amp;#39;s cases rise to 87,147, surpass China&amp;#39;sRussia reported 6,198 new confirmed cases versus 6,361 on the previous day, which took the national tally of infections to 87,147.The Russian crisis response centre said that 50 more deaths were confirmed in the last 24 hours.In the number of confirmed cases, Russia surpassed mainland China, which reported the total of 82,830 cases on Monday.Singapore confirms 799 new casesSingapore has confirmed 799 more infections, its health ministry said, taking the city-state&amp;#39;s tally of cases to 14,423.Most of the new cases are among migrant workers living in dormitories in the city-state, which has among the highest number of coronavirus infections in Asia.&amp;nbsp;New Zealand has won a battle against virus transmission &amp;ndash; PMPrime Minister Jacinda Ardern claimed New Zealand had scored a significant victory against the spread of the virus, as the country began a phased exit from lockdown.&amp;quot;There is no widespread, undetected community transmission in&amp;nbsp;New Zealand,&amp;quot; Ardern declared. &amp;quot;We have won that battle.&amp;quot;After nearly five weeks at the maximum Level Four restrictions &amp;ndash;&amp;ndash;with only essential services operating &amp;ndash;&amp;ndash; the country will move to Level Three late on Monday.That will allow some businesses, takeaway food outlets and schools to reopen.But Ardern warned there was no certainty about when all transmission can be eliminated, allowing a return to normal life.Everyone wants to &amp;quot;bring back the social contact that we all miss&amp;quot;, she said, &amp;quot;but to do it confidently we need to move slowly and we need to move cautiously.&amp;quot;&amp;quot;I will not risk the gains we&amp;#39;ve made in the health of New Zealanders. So if we need to remain at Level Three, we will.&amp;quot;Mosque&amp;rsquo;s makeshift morgue shows virus toll on UK minoritiesThe holy month of Ramadan is underway, and the Central Jamia Mosque Ghamkol Sharif in Birmingham should be full of worshippers. But this year, the main arrivals are the dead.While the mosque in the central England city has been closed in response to the pandemic, its parking lot has been transformed into a temporary morgue with room for 150 bodies.The volunteer-run mortuary, with its white tents, industrial refrigerators and neat stacks of coffins, is evidence of the toll the virus is taking on Britain&amp;rsquo;s Muslim and ethnic-minority communities.The two most diverse regions of the UK &amp;mdash; London and the Midlands area centred in Birmingham &amp;mdash; have seen the largest number of deaths in the outbreak.Students return to class in Shanghai and BeijingTens of thousands of students returned to school in Shanghai and Beijing Monday after months of closures intended to curb the spread of the coronavirus, as China&amp;#39;s major cities gradually return to normality.Shanghai students in their final year of middle and high school returned to classrooms, while only high-school seniors in Beijing were allowed back on campus to prepare for the all-important &amp;quot;gaokao&amp;quot; university entrance exam.China has largely curbed the spread of the deadly disease, but is still on high alert with growing fears of imported cases and a second wave of domestic infections in the northeast.Kids return to school in NorwayNorway, which says it has the epidemic under control, reopened primary schools to the youngest students, in another step toward a gradual normalisation, though some parents expressed concern.One week after nursery schools, pupils aged six to 10 started returning to their school desks after six weeks of remote learning from home in the Nordic country.Classes were however reduced to a maximum of 15 students.Kazakhstan starts easing restrictionsKazakhstan will ease some restrictions in the coming days despite extending its state of emergency until May 11, President Kassym-Jomart Tokayev said.The Central Asian nation will, in particular, renew flights between its two major cities from May 1, he said in a statement.The state of emergency declared was due to end on April 30.Thailand continues with decline in figuresThailand reported nine new virus cases and one death, bringing the country&amp;#39;s totals to 2,931 cases and 52 fatalities.It is the first time since the outbreak started in January that there have been no new local transmissions reported in Bangkok, said Taweesin Wisanuyothin, a spokesman for the government&amp;#39;s Centre for Covid-19 Situation Administration.Of the new cases, three were linked to previous cases, two are arrivals from overseas that have been under state quarantined, and four others were reported from the southern province of Yala, where the authorities are aggressively testing the population due to high infection rates.The latest death was of a 64-year-old Thai woman.Since the outbreak escalated in January 2,609 patients have recovered and gone home.New Zealand begins to ease lockdown restrictionsNew Zealanders will be allowed to go fishing, surfing, hunting and hiking this week for the first time in more than a month as the country begins to ease its way out of a strict lockdown that successfully stopped the spread of the virus.Around 400,000 people will return to work after the country shifts its alert level down a notch at midnight on Monday, but shops and restaurants will remain closed as several social restrictions remain in place.New Zealand&amp;#39;s 5 million residents were subjected to one of the strictest lockdowns in the world in response to the pandemic, with Prime Minister Jacinda Ardern closing offices, schools, bars and restaurants, including take away and delivery services, on March 26.Germany sees decrease in daily Covid-19 figuresGermany has seen a slight decrease in its daily figures.New virus cases rose by 1,018 to a total of 158,788 data from tracker Worldometre showed.The reported death toll rose by 110 to 6,086.This in comparison to yesterday&amp;#39;s rise of over 1,200.US records 1,330 deaths in past 24 hoursThe United States recorded 1,330 more virus deaths in the past 24 hours, according to figures reported by the Johns Hopkins University.The country now has an overall death toll of 54,841, with 964,937 confirmed infections, according to a tally by the Baltimore-based institution at 20:30 (00:30 GMT).China reports three cases in mainlandChina reported three new confirmed coronavirus cases on April 26, down from 11 a day earlier, with no new deaths, the country&amp;#39;s health authority said.Of the new cases, two were imported, down from five imported cases on the previous day, the National Health Commission said in its daily bulletin.There was one case of local infection in the northeastern border province of Heilongjiang.China also reported 25 new asymptomatic cases on the mainland on April 26, compared to 30 a day earlier.Italy&amp;#39;s PM delays Serie A restart decisionItalian Prime Minister Giuseppe Conte delayed a decision on restarting Serie A football but gave the green light for top athletes to resume training in a week&amp;#39;s time.He said individual athletes would be allowed to resume training on May 4.Teams could start to train together again on May 18.But Conte did not say when Serie A might resume a season interrupted on March 9 with Juventus leading Lazio by a point.Italian football chiefs agreed on Thursday to push back the end of the Serie A season from June 30 to August 2.Mexico coronavirus infections rise to 14,677Mexico&amp;#39;s health ministry reported 835 new confirmed cases and 46 additional fatalities, bringing the total in the country to 14,677 cases and 1,351 deaths. ",
+    "author": {
+        "@type": "Person",
+        "name": "TRTWorld"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TRT World",
+      "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.trtworld.com/images/logo.png",
+            "height": "228",
+            "width": "30"
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://cdni0.trtworld.com/w480/h270/q75/77443_AP_20076355021447_1587974391050.jpg",
+        "height": "480",
+        "width": "270"
+    },
+    "keywords":"Mexico,US,china,Italy,Coronavirus,Cobid-19,global,world,Coronavirus Americas,Coronavirus Asia,Coronavirus Middle East,Coronavirus Africa,Covid-19 Europe,"
+    }
+
+    </script>
+
+    <!-- Breadcrumb -->
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https://www.trtworld.com",
+          "name": "Over 3 million people around the world are now infected – latest updates"
+        }
+      },{
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@id": "https://www.trtworld.com/Life",
+          "name": "Life"
+        }
+      },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https://www.trtworld.com/life/over-3-million-people-around-the-world-are-now-infected-latest-updates-35769",
+          "name": "Over 3 million people around the world are now infected – latest updates"
+        }
+      }]
+    }
+
+    </script>
+
+    <!-- Twitter Meta -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@trtworld">
+    <meta name="twitter:title" content="Over 3 million people around the world are now infected – latest updates">
+    <meta name="twitter:description" content="Global coronavirus cases are inching towards the three million mark with over 207,000 people killed. Here are the latest developments for April 27:">
+    <meta name="twitter:creator" content="@trtworld">
+    <meta name="twitter:image" content="https://cdni0.trtworld.com/w480/h270/q75/77443_AP_20076355021447_1587974391050.jpg">
+    <meta name="twitter:domain" content="https://www.trtworld.com">
+    <!-- Extra Meta -->
+    <meta property="shortlink" content="https://www.trtworld.com/article/35769"/>
+    <meta property="shorturl" content="http://trt.world/14zq"/>
+
+    <meta name="csrf-token" content="Rg9pD9D5uqqH6k23cxngmQ46Pyh1SpfTmZ1tZWtU">
+</head>
+<body>
+
+<div class="container-fluid topbar hidden-xs hidden-sm hidden-md">
+	<div class="container">
+		<ul class="nav navbar-inverse">
+			<li class="live hidden-xs">
+				<table>
+					<tr>
+						<td>
+							<a href="/live" class="btn btn-danger pull-left watch-live-header">&#9679; &nbsp;Watch Live</a>
+						</td>
+						<td class="visible-lg visible-md visible-xl visible-xxl">
+							<div class="header-micro-details">
+								<div class="listcontacts">
+                                    <span class="contact-link"><a href="https://www.facebook.com/trtworld" target="_blank">
+                                            <img src="https://www.trtworld.com/images/iconas/contact1l.svg" class="img-responsive"></a>
+                                    </span> <span class="contact-link"><a href="https://twitter.com/trtworld" target="_blank">
+                                            <img src="https://www.trtworld.com/images/iconas/contact2l.svg" class="img-responsive"></a>
+                                    </span> <span class="contact-link"><a href="https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw" target="_blank">
+                                            <img src="https://www.trtworld.com/images/iconas/contact8l.svg" class="img-responsive"></a>
+                                    </span> <span class="contact-link"><a href="https://www.instagram.com/trtworld/" target="_blank">
+                                            <img src="https://www.trtworld.com/images/iconas/contact9l.svg" class="img-responsive"></a>
+                                    </span>
+								</div>
+							</div>
+						</td>
+					</tr>
+				</table>
+			</li>
+		</ul>
+	</div>
+</div>
+<header role="banner" class="navbar navbar-inverse">
+	<button type="button" class="pull-left navbar-toggle collapsed" data-toggle="collapse-side"
+			data-target=".side-collapse" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+	</button>
+	<a class="mobile-brand text-center" href="/"> <img src="https://www.trtworld.com/images/logo.svg" class="img-responsive"> </a>
+	<div class="container">
+		<div class="searchBox">
+			<div id="searchOpener" class="searchOpener pull-right "></div>
+			<div id="searchContainer" class="searchContainer">
+				<form action="/search" method="get" name="formSuggestedSearch">
+					<input type="hidden" name="_token" value="Rg9pD9D5uqqH6k23cxngmQ46Pyh1SpfTmZ1tZWtU">
+					<div class="typeahead__container">
+						<div class="typeahead__field">
+							<div class="typeahead__query">
+								<input class="suggestedSearch" id="headerSearch" name="query" type="search" placeholder="What can we help you find?" autocomplete="off">
+							</div>
+							<div class="typeahead__button">
+								<button id="headerSearchSubmit" type="submit"></button>
+							</div>
+						</div>
+					</div>
+				</form>
+			</div>
+
+
+		</div>
+		<div class="navbar-inverse side-collapse in">
+			<ul class="nav scroll-logo hidden-xs hidden-sm hidden-md">
+				<li>
+					<a href="/"> <img src="https://www.trtworld.com/images/logo.svg" class="img-responsive"> </a>
+				</li>
+			</ul>
+			<nav role="navigation" class="navbar-collapse">
+				<ul class="nav navbar-nav">
+											 
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Regions<b class="caret"></b> </a>
+								<ul class="dropdown-menu" role="menu">
+																			<li><a href="https://www.trtworld.com/americas" >Americas</a></li>
+																			<li><a href="https://www.trtworld.com/asia" >Asia</a></li>
+																			<li><a href="https://www.trtworld.com/europe" >Europe</a></li>
+																			<li><a href="https://www.trtworld.com/middle-east" >Middle East</a></li>
+																			<li><a href="https://www.trtworld.com/africa" >Africa</a></li>
+																			<li><a href="https://www.trtworld.com/turkey" >Turkey</a></li>
+																	</ul>
+							</li>
+												 
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Sections<b class="caret"></b> </a>
+								<ul class="dropdown-menu" role="menu">
+																			<li><a href="https://www.trtworld.com/art-culture" >Arts & Culture</a></li>
+																			<li><a href="https://www.trtworld.com/business" >Business</a></li>
+																			<li><a href="https://www.trtworld.com/life" >Life</a></li>
+																			<li><a href="https://www.trtworld.com/sport" >Sports</a></li>
+																	</ul>
+							</li>
+												  <li><a href="https://www.trtworld.com/opinion" >Opinion</a></li>
+												  <li><a href="https://www.trtworld.com/magazine" >Magazine</a></li>
+												  <li><a href="https://www.trtworld.com/topics" >Topics</a></li>
+												 
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Documentaries<b class="caret"></b> </a>
+								<ul class="dropdown-menu" role="menu">
+																			<li><a href="https://www.trtworld.com/video/focal-point" >Focal Point</a></li>
+																			<li><a href="https://www.trtworld.com/video/off-the-grid" >Off The Grid</a></li>
+																			<li><a href="https://www.trtworld.com/topics/storyteller" >Storyteller</a></li>
+																	</ul>
+							</li>
+												  <li><a href="https://www.trtworld.com/video" >Video</a></li>
+												 
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown">More<b class="caret"></b> </a>
+								<ul class="dropdown-menu" role="menu">
+																			<li><a href="https://www.trtworld.com/perspectives" >Perspectives</a></li>
+																			<li><a href="https://researchcentre.trtworld.com/" target=&quot;_blank&quot;>Research Centre</a></li>
+																			<li><a href="https://www.trtworld.com/worldcitizen/" target=&quot;_blank&quot;>World Citizen</a></li>
+																			<li><a href="https://kariyer.trt.net.tr/en/" target=&quot;_blank&quot;>Jobs</a></li>
+																	</ul>
+							</li>
+																		<li class="visible-xs-inline-block ">
+							<a href="/live" class="btn btn-danger pull-left bg-red-light ">Watch Live</a>
+						</li>
+
+						<li class="visible-xs">
+							<div class="header-micro-details">
+								<div class="listcontacts">
+                                    <span class="contact-link"><a href="https://www.facebook.com/trtworld" target="_blank">
+                                            <img src="https://www.trtworld.com/images/iconas/contact1l.svg" class="img-responsive"></a>
+                                    </span> <span class="contact-link"><a href="https://twitter.com/trtworld" target="_blank">
+                                            <img src="https://www.trtworld.com/images/iconas/contact2l.svg" class="img-responsive"></a>
+                                    </span> <span class="contact-link"><a href="https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw" target="_blank">
+                                            <img src="https://www.trtworld.com/images/iconas/contact8l.svg" class="img-responsive"></a>
+                                    </span> <span class="contact-link"><a href="https://www.instagram.com/trtworld/" target="_blank">
+                                            <img src="https://www.trtworld.com/images/iconas/contact9l.svg" class="img-responsive"></a>
+                                    </span>
+								</div>
+							</div>
+						</li>
+					
+				</ul>
+			</nav>
+		</div>
+	</div>
+</header>
+
+
+
+    <section class="container no-gutters">
+        
+        <div id="shareBox" class="col-xs-1 shareBox noMedia">
+            <div id="shareBar" class="article-micro-details noMedia">
+                <table width="100%">
+                    <tr>
+                        <td class="pull-left">
+                            <div class="listcontacts bg-w shadow pull-left">
+                                <span class="contact-link">SHARE</span>
+                                <span class="contact-link">
+                                    <a class="shareLink" target="_blank" href="https://www.facebook.com/sharer.php?u=https://www.trtworld.com/life/over-3-million-people-around-the-world-are-now-infected-latest-updates-35769">
+                                        <img src="https://www.trtworld.com/images/iconas/contact1c.svg" class="img-responsive">
+                                    </a>
+                                </span>
+                                <span class="contact-link">
+                                    <a class="shareLink" target="_blank" href="https://twitter.com/intent/tweet?url=https://www.trtworld.com/life/over-3-million-people-around-the-world-are-now-infected-latest-updates-35769&text=Over 3 million people around the world are now infected – latest updates%20@TRTWorld">
+                                        <img src="https://www.trtworld.com/images/iconas/contact2c.svg" class="img-responsive">
+                                    </a>
+                                </span>
+                                <span class="contact-link">
+                                    <a class="shareLink" target="_blank" href="https://www.linkedin.com/shareArticle?url=https://www.trtworld.com/life/over-3-million-people-around-the-world-are-now-infected-latest-updates-35769&title=Over 3 million people around the world are now infected – latest updates">
+                                        <img src="https://www.trtworld.com/images/iconas/contact3c.svg" class="img-responsive">
+                                    </a>
+                                </span>
+                                <span class="contact-link reddit">
+                                    <a class="shareLink" target="_blank" href="https://reddit.com/submit?url=https://www.trtworld.com/life/over-3-million-people-around-the-world-are-now-infected-latest-updates-35769&title=Over 3 million people around the world are now infected – latest updates">
+                                        <img src="https://www.trtworld.com/images/iconas/contact4c.svg" class="img-responsive">
+                                    </a>
+                                </span>
+                                <span class="contact-link">
+                                    <a class="shareLink" target="_blank" href="mailto:?subject=Shared%20from%20TRT%20World&body=Over 3 million people around the world are now infected – latest updates - Read More: https://www.trtworld.com/life/over-3-million-people-around-the-world-are-now-infected-latest-updates-35769">
+                                        <img src="https://www.trtworld.com/images/iconas/contact5c.svg" class="img-responsive">
+                                    </a>
+                                </span>
+                                <span class="contact-link visible-xs-inline-block">
+                                    <a class="shareLink" target="_blank" href="whatsapp://send?text=https://www.trtworld.com/life/over-3-million-people-around-the-world-are-now-infected-latest-updates-35769">
+                                        <img src="https://www.trtworld.com/images/iconas/contact6c.svg" class="img-responsive whatsapp">
+                                    </a>
+                                </span>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <div class="col-xs-12 col-md-8 article-header">
+                        <div class="noMedia article-header-info">
+                <ol class="breadcrumb hidden-xs">
+                                            <li><a class="breadcrumb-a" href="/Life">News</a></li>
+                        <li><a class="breadcrumb-a"
+                               href="/Life">Life</a>
+                        </li>
+                                    </ol>
+                <h1 class="article-title">Over 3 million people around the world are now infected – latest updates</h1>
+                <div class="desktopRow">
+                    <div id="d1">
+                        <ul class="author">
+                            
+                                                            <li>46 minutes ago</li>
+                                                    </ul>
+                    </div>
+                    <div id="d2"></div>
+                                    </div>
+            </div>
+        </div>
+
+                    <div id="sparkBox" class="col-xs-12 col-md-4 hidden-xs hidden-sm sparkBox noMedia">
+                <div id="sidebar" class="noMedia">
+                    <div class="sparkDescBox bg-gray-dark">
+                        <div class="sparkDescription">What would you like to learn more about?</div>
+                    </div>
+                    <div class="tab-content bg-turquoise-mid">
+                                                    <div role="tabpanel" class="tab-panel" id="topics">
+                                <div class="sparkHeader">Topics</div>
+                                <ul class="media-list">
+                                                                                                                        <li class="spark-topic">
+                                                <a class="gtm-article-topic" href="/news/mexico">Mexico</a>
+                                            </li>
+                                                                                                                                                                <li class="spark-topic">
+                                                <a class="gtm-article-topic" href="/news/us">US</a>
+                                            </li>
+                                                                                                                                                                <li class="spark-topic">
+                                                <a class="gtm-article-topic" href="/news/china">china</a>
+                                            </li>
+                                                                                                                                                                <li class="spark-topic">
+                                                <a class="gtm-article-topic" href="/news/italy">Italy</a>
+                                            </li>
+                                                                                                                                                                <li class="spark-topic">
+                                                <a class="gtm-article-topic" href="/news/coronavirus">Coronavirus</a>
+                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+                            </div>
+                                                                            <div role="tabpanel" class="tab-panel" id="related">
+                                <div class="sparkHeader">Related</div>
+                                <ul class="media-list">
+                                                                            <li class="spark-article">
+                                            <div class="media">
+                                                <div class="media-left">
+                                                                                                            <a href="/asia/2019-a-year-of-lengthy-protests-31933">
+                                                            <img src="https://cdni0.trtworld.com/w480/h270/q75/69278_SDNAlaaSalahSudanwomanoncar190408TRTWORLD_1577806200470.jpeg" class="media-object gtm-article-related">
+                                                        </a>
+                                                                                                    </div>
+                                                <div class="media-body">
+                                                    <a class="gtm-article-related"
+                                                       href="/asia/2019-a-year-of-lengthy-protests-31933"> 2019 - a year of lengthy protests </a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                                                            <li class="spark-article">
+                                            <div class="media">
+                                                <div class="media-left">
+                                                                                                            <a href="/asia/countries-scramble-to-contain-coronavirus-amid-fears-of-mutating-virus-33189">
+                                                            <img src="https://cdni0.trtworld.com/w480/h270/q75/70709_GettyImages1195347955_1579824742035.jpg" class="media-object gtm-article-related">
+                                                        </a>
+                                                                                                    </div>
+                                                <div class="media-body">
+                                                    <a class="gtm-article-related"
+                                                       href="/asia/countries-scramble-to-contain-coronavirus-amid-fears-of-mutating-virus-33189"> Countries scramble to contain coronavirus amid fears of mutating virus </a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                                                            <li class="spark-article">
+                                            <div class="media">
+                                                <div class="media-left">
+                                                                                                            <a href="/magazine/is-the-world-at-risk-of-a-coronavirus-pandemic-33524">
+                                                            <img src="https://cdni0.trtworld.com/w480/h270/q75/71537_Coronavirusrender_1580904484944.png" class="media-object gtm-article-related">
+                                                        </a>
+                                                                                                    </div>
+                                                <div class="media-body">
+                                                    <a class="gtm-article-related"
+                                                       href="/magazine/is-the-world-at-risk-of-a-coronavirus-pandemic-33524"> Is the world at risk of a coronavirus pandemic? </a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                                                            <li class="spark-article">
+                                            <div class="media">
+                                                <div class="media-left">
+                                                                                                            <a href="/asia/latest-figures-new-strain-of-coronavirus-has-infected-over-23-000-in-china-33503">
+                                                            <img src="https://cdni0.trtworld.com/w480/h270/q75/70830_Medicalstafferstransportapatientwithsuspectedcaseofvirus_1580853752562.jpg" class="media-object gtm-article-related">
+                                                        </a>
+                                                                                                    </div>
+                                                <div class="media-body">
+                                                    <a class="gtm-article-related"
+                                                       href="/asia/latest-figures-new-strain-of-coronavirus-has-infected-over-23-000-in-china-33503"> Latest figures: New strain of coronavirus has infected over 23,000 in China </a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                                                            <li class="spark-article">
+                                            <div class="media">
+                                                <div class="media-left">
+                                                                                                            <a href="/europe/who-declares-global-emergency-over-china-virus-33362">
+                                                            <img src="https://cdni0.trtworld.com/w480/h270/q75/71164_20200130GLOvirus_1580416483969.JPG" class="media-object gtm-article-related">
+                                                        </a>
+                                                                                                    </div>
+                                                <div class="media-body">
+                                                    <a class="gtm-article-related"
+                                                       href="/europe/who-declares-global-emergency-over-china-virus-33362"> WHO declares global emergency over China virus </a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                                            <div role="tabpanel" class="tab-panel" id="popular">
+                                <div class="sparkHeader">Popular</div>
+                                <ul class="media-list">
+                                                                            <div class="media">
+                                            <div class="media-left">1</div>
+                                            <div class="media-body">
+                                                <a class="gtm-article-popular" href="/asia/kashmiri-volunteer-groups-pitch-in-with-protective-gear-supplies-35781">Kashmiri volunteer groups pitch in with protective gear supplies </a>
+                                            </div>
+                                        </div>
+                                                                            <div class="media">
+                                            <div class="media-left">2</div>
+                                            <div class="media-body">
+                                                <a class="gtm-article-popular" href="/business/south-africa-seeks-5b-from-multilateral-lenders-to-fight-virus-35777">South Africa seeks $5B from multilateral lenders to fight virus </a>
+                                            </div>
+                                        </div>
+                                                                            <div class="media">
+                                            <div class="media-left">3</div>
+                                            <div class="media-body">
+                                                <a class="gtm-article-popular" href="/asia/south-korean-intelligence-says-kim-jong-un-is-alive-and-well-35780">South Korean intelligence says Kim Jong-un is alive and well </a>
+                                            </div>
+                                        </div>
+                                                                            <div class="media">
+                                            <div class="media-left">4</div>
+                                            <div class="media-body">
+                                                <a class="gtm-article-popular" href="/business/unions-go-virtual-as-virus-wipes-out-may-day-marches-35775">Unions go virtual as virus wipes out May Day marches </a>
+                                            </div>
+                                        </div>
+                                                                            <div class="media">
+                                            <div class="media-left">5</div>
+                                            <div class="media-body">
+                                                <a class="gtm-article-popular" href="/europe/french-police-seize-140-000-black-market-face-masks-35772">French police seize 140,000 black market face masks </a>
+                                            </div>
+                                        </div>
+                                                                    </ul>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+        
+        <div class="col-xs-12 col-md-8 article-body">
+            <div id="gaTeam" class="hidden">Fast News</div>
+            <div class="contentBox bg-w noMedia">
+                <div class="row tabletRow">
+                    <div id="t1"></div>
+                    <div id="t3"></div>
+                    <div id="t2"><h3 class="article-description ">Global coronavirus cases are inching towards the three million mark with over 207,000 people killed. Here are the latest developments for April 27:</h3></div>
+                </div>
+
+                                    <figure class="content-image">
+                        <img alt="A man adjusts his face mask as he walks past a mural of a crying woman in Rome's Trullo neighborhood, Monday, March 16, 2020."
+                             class="content-image lazy preview" src="https://cdni0.trtworld.com/w32/q50/77443_AP_20076355021447_1587974391050.jpg"
+                             data-src="https://cdni0.trtworld.com/w960/h540/q75/77443_AP_20076355021447_1587974391050.jpg"/>
+                        <figcaption>
+                            A man adjusts his face mask as he walks past a mural of a crying woman in Rome's Trullo neighborhood, Monday, March 16, 2020.
+                                                        (AP)
+                        </figcaption>
+                    </figure>
+                
+                                                                                        <p><strong>Monday, April 27</strong></p><p><strong>Iran death toll rises</strong></p><p>The death toll from the outbreak of new coronavirus in Iran rose by 96 in the past 24 hours to 5,806, Health Ministry spokesman Kianush Jahanpur said in a statement on state TV on Monday.</p><p>The total number of diagnosed cases of new coronavirus in Iran, one of the countries hardest hit by the outbreak in the Middle East, has reached 91,472, he said.&nbsp;</p><p><strong>Spain&#39;s daily death toll picks up slightly</strong></p><p>The number of daily fatalities reported in Spain rose to 331, up from 288 the previous day, the health ministry said.</p><p>The overall death toll caused by the disease rose to 23,521 from 23,190 the day before.&nbsp;</p><p>The total number of diagnosed cases rose to 209,465 from 207,634 the day before.</p><p><strong>Indonesia reports 214 new infections</strong></p><p>Indonesia&#39;s number of reported cases has risen by 214 to 9,096, health ministry official Achmad Yurianto said.</p><p>Death rose by 22 to 765 while 1,151 people have recovered, Yurianto said.</p><p>More than 59,000 people have been tested in Indonesia.&nbsp;</p><p><strong>Malaysia continues with decline in figures</strong></p><p>Malaysia reported 40 new confirmed cases of the novel coronavirus, taking the cumulative total to 5,820 infections.</p><p>The health ministry also reported one new death, raising the total number of fatalities from the outbreak to 99.</p><p>The country is on a two-week low trend as figures continue decreasing.</p><p><strong>Philippines figures continues to decline</strong></p><p>The Philippines reported 198 new cases and 10 deaths, bringing the country&#39;s tally to 7,777 cases and 511 fatalities.</p><p>The Department of Health also said 70 individuals have recovered from the infection, bringing the total number of recoveries to 932.&nbsp;</p><p>The country is on a weeks-long low trend as figures continue decreasing.</p><p><strong>Indonesia sees rate of virus infections lower by June</strong></p><p>Indonesia expects the rate of virus infections to fall by June, its Covid-19 task force chief Doni Monardo said on Monday.</p><p>&quot;The President has asked that we work harder, for the people to obey and be more disciplined, and for the authorities to be more stern so that by June, we&#39;re hoping we can lower the infections in Indonesia. In July, we&#39;re hoping to resume our normal lives,&quot; Monardo said after a cabinet meeting.</p><p>Monardo pledged to increase tests between April and May&quot;massively&quot;.</p><p><strong>Over 3 million people now have Covid-19</strong></p><p>Global infections from Covid-19 has now reached a new record by infecting over three million people, according to the Worldometre tracker.</p><p>The tracking service uses the latest data from health ministries around the world in real time.</p><p>It took just three months for the virus to infect three million people and 12 days for it to reach from two million to three million people.</p><p><strong>Russia&#39;s cases rise to 87,147, surpass China&#39;s</strong></p><p>Russia reported 6,198 new confirmed cases versus 6,361 on the previous day, which took the national tally of infections to 87,147.</p><p>The Russian crisis response centre said that 50 more deaths were confirmed in the last 24 hours.</p><p>In the number of confirmed cases, Russia surpassed mainland China, which reported the total of 82,830 cases on Monday.</p><p><strong>Singapore confirms 799 new cases</strong></p><p>Singapore has confirmed 799 more infections, its health ministry said, taking the city-state&#39;s tally of cases to 14,423.</p><p>Most of the new cases are among migrant workers living in dormitories in the city-state, which has among the highest number of coronavirus infections in Asia.&nbsp;</p><p><strong>New Zealand has won a battle against virus transmission &ndash; PM</strong></p><p>Prime Minister Jacinda Ardern claimed New Zealand had scored a significant victory against the spread of the virus, as the country began a phased exit from lockdown.</p><p>&quot;There is no widespread, undetected community transmission in&nbsp;New Zealand,&quot; Ardern declared. &quot;We have won that battle.&quot;</p><p>After nearly five weeks at the maximum Level Four restrictions &ndash;&ndash;with only essential services operating &ndash;&ndash; the country will move to Level Three late on Monday.</p><p>That will allow some businesses, takeaway food outlets and schools to reopen.</p><p>But Ardern warned there was no certainty about when all transmission can be eliminated, allowing a return to normal life.</p><p>Everyone wants to &quot;bring back the social contact that we all miss&quot;, she said, &quot;but to do it confidently we need to move slowly and we need to move cautiously.&quot;</p><p>&quot;I will not risk the gains we&#39;ve made in the health of New Zealanders. So if we need to remain at Level Three, we will.&quot;</p><p><strong><b data-stringify-type="bold">Mosque&rsquo;s makeshift morgue shows virus toll on UK minorities</b></strong></p><p>The holy month of Ramadan is underway, and the Central Jamia Mosque Ghamkol Sharif in Birmingham should be full of worshippers. But this year, the main arrivals are the dead.</p><p>While the mosque in the central England city has been closed in response to the pandemic, its parking lot has been transformed into a temporary morgue with room for 150 bodies.</p><p>The volunteer-run mortuary, with its white tents, industrial refrigerators and neat stacks of coffins, is evidence of the toll the virus is taking on Britain&rsquo;s Muslim and ethnic-minority communities.<br>The two most diverse regions of the UK &mdash; London and the Midlands area centred in Birmingham &mdash; have seen the largest number of deaths in the outbreak.</p><p><b data-stringify-type="bold">Students return to class in Shanghai and Beijing</b></p><p>Tens of thousands of students returned to school in Shanghai and Beijing Monday after months of closures intended to curb the spread of the coronavirus, as China&#39;s major cities gradually return to normality.</p><p>Shanghai students in their final year of middle and high school returned to classrooms, while only high-school seniors in Beijing were allowed back on campus to prepare for the all-important &quot;gaokao&quot; university entrance exam.</p><p>China has largely curbed the spread of the deadly disease, but is still on high alert with growing fears of imported cases and a second wave of domestic infections in the northeast.</p><p><strong>Kids return to school in Norway</strong></p><p>Norway, which says it has the epidemic under control, reopened primary schools to the youngest students, in another step toward a gradual normalisation, though some parents expressed concern.</p><p>One week after nursery schools, pupils aged six to 10 started returning to their school desks after six weeks of remote learning from home in the Nordic country.</p><p>Classes were however reduced to a maximum of 15 students.</p><p><strong>Kazakhstan starts easing restrictions</strong></p><p>Kazakhstan will ease some restrictions in the coming days despite extending its state of emergency until May 11, President Kassym-Jomart Tokayev said.</p><p>The Central Asian nation will, in particular, renew flights between its two major cities from May 1, he said in a statement.</p><p>The state of emergency declared was due to end on April 30.</p><p><strong>Thailand continues with decline in figures</strong></p><p>Thailand reported nine new virus cases and one death, bringing the country&#39;s totals to 2,931 cases and 52 fatalities.</p><p>It is the first time since the outbreak started in January that there have been no new local transmissions reported in Bangkok, said Taweesin Wisanuyothin, a spokesman for the government&#39;s Centre for Covid-19 Situation Administration.</p><p>Of the new cases, three were linked to previous cases, two are arrivals from overseas that have been under state quarantined, and four others were reported from the southern province of Yala, where the authorities are aggressively testing the population due to high infection rates.</p><p>The latest death was of a 64-year-old Thai woman.</p><p>Since the outbreak escalated in January 2,609 patients have recovered and gone home.</p><p><strong>New Zealand begins to ease lockdown restrictions</strong></p><p>New Zealanders will be allowed to go fishing, surfing, hunting and hiking this week for the first time in more than a month as the country begins to ease its way out of a strict lockdown that successfully stopped the spread of the virus.</p><p>Around 400,000 people will return to work after the country shifts its alert level down a notch at midnight on Monday, but shops and restaurants will remain closed as several social restrictions remain in place.</p><p>New Zealand&#39;s 5 million residents were subjected to one of the strictest lockdowns in the world in response to the pandemic, with Prime Minister Jacinda Ardern closing offices, schools, bars and restaurants, including take away and delivery services, on March 26.</p><p><strong>Germany sees decrease in daily Covid-19 figures</strong></p><p>Germany has seen a slight decrease in its daily figures.</p><p>New virus cases rose by 1,018 to a total of 158,788 data from tracker Worldometre showed.</p><p>The reported death toll rose by 110 to 6,086.</p><p>This in comparison to yesterday&#39;s rise of over 1,200.</p><p><strong>US records 1,330 deaths in past 24 hours</strong></p><p>The United States recorded 1,330 more virus deaths in the past 24 hours, according to figures reported by the Johns Hopkins University.</p><p>The country now has an overall death toll of 54,841, with 964,937 confirmed infections, according to a tally by the Baltimore-based institution at 20:30 (00:30 GMT).</p><p><strong>China reports three cases in mainland</strong></p><p>China reported three new confirmed coronavirus cases on April 26, down from 11 a day earlier, with no new deaths, the country&#39;s health authority said.</p><p>Of the new cases, two were imported, down from five imported cases on the previous day, the National Health Commission said in its daily bulletin.</p><p>There was one case of local infection in the northeastern border province of Heilongjiang.</p><p>China also reported 25 new asymptomatic cases on the mainland on April 26, compared to 30 a day earlier.</p><p><a href="http://cms.trtworld.com/panel/#!/article/new/nhq/2020-04-26%2020:29:34_AFPtext_TX-PAR-LMI07" target="_blank"></a><strong>Italy&#39;s PM delays Serie A restart decision</strong></p><p>Italian Prime Minister Giuseppe Conte delayed a decision on restarting Serie A football but gave the green light for top athletes to resume training in a week&#39;s time.</p><p>He said individual athletes would be allowed to resume training on May 4.</p><p>Teams could start to train together again on May 18.</p><p>But Conte did not say when Serie A might resume a season interrupted on March 9 with Juventus leading Lazio by a point.</p><p>Italian football chiefs agreed on Thursday to push back the end of the Serie A season from June 30 to August 2.</p><p><strong>Mexico coronavirus infections rise to 14,677</strong></p><p>Mexico&#39;s health ministry reported 835 new confirmed cases and 46 additional fatalities, bringing the total in the country to 14,677 cases and 1,351 deaths.</p>
+                                                                                                <div class="article-source"> Source: TRTWorld and agencies</div>
+                
+            </div>
+        </div>
+
+    </section>
+    
+
+            <section class="container no-gutters article-related-news">
+            <div class="col-xs-12 col-md-8">
+
+                <div class="contentBox bg-w clearfix">
+                    <div class="col-xs-12 page-header">Related News</div>
+                    <div class="boxContainer">
+                                                                                    <div class="box bg-w">
+                                                                            <div class="thumbnail">
+                                            <a class="gtm-article-related" href="/asia/2019-a-year-of-lengthy-protests-31933">
+                                                <img class="img-responsive lazy" src="https://cdni0.trtworld.com/w480/h270/q75/69278_SDNAlaaSalahSudanwomanoncar190408TRTWORLD_1577806200470.jpeg" alt="2019 - a year of lengthy protests">
+                                            </a>
+                                        </div>
+                                                                        <div class="article-meta bg-w">
+                                        <div class="caption">
+                                            <h4>
+                                                <a class="gtm-article-related" href="/asia/2019-a-year-of-lengthy-protests-31933">2019 - a year of lengthy protests</a>
+                                            </h4>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                                                                                                <div class="box bg-w">
+                                                                            <div class="thumbnail">
+                                            <a class="gtm-article-related" href="/asia/countries-scramble-to-contain-coronavirus-amid-fears-of-mutating-virus-33189">
+                                                <img class="img-responsive lazy" src="https://cdni0.trtworld.com/w480/h270/q75/70709_GettyImages1195347955_1579824742035.jpg" alt="Countries scramble to contain coronavirus amid fears of mutating virus">
+                                            </a>
+                                        </div>
+                                                                        <div class="article-meta bg-w">
+                                        <div class="caption">
+                                            <h4>
+                                                <a class="gtm-article-related" href="/asia/countries-scramble-to-contain-coronavirus-amid-fears-of-mutating-virus-33189">Countries scramble to contain coronavirus amid fears of mutating virus</a>
+                                            </h4>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                                                                                                <div class="box bg-w">
+                                                                            <div class="thumbnail">
+                                            <a class="gtm-article-related" href="/magazine/is-the-world-at-risk-of-a-coronavirus-pandemic-33524">
+                                                <img class="img-responsive lazy" src="https://cdni0.trtworld.com/w480/h270/q75/71537_Coronavirusrender_1580904484944.png" alt="Is the world at risk of a coronavirus pandemic?">
+                                            </a>
+                                        </div>
+                                                                        <div class="article-meta bg-w">
+                                        <div class="caption">
+                                            <h4>
+                                                <a class="gtm-article-related" href="/magazine/is-the-world-at-risk-of-a-coronavirus-pandemic-33524">Is the world at risk of a coronavirus pandemic?</a>
+                                            </h4>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                                                                                                <div class="box bg-w">
+                                                                            <div class="thumbnail">
+                                            <a class="gtm-article-related" href="/asia/latest-figures-new-strain-of-coronavirus-has-infected-over-23-000-in-china-33503">
+                                                <img class="img-responsive lazy" src="https://cdni0.trtworld.com/w480/h270/q75/70830_Medicalstafferstransportapatientwithsuspectedcaseofvirus_1580853752562.jpg" alt="Latest figures: New strain of coronavirus has infected over 23,000 in China">
+                                            </a>
+                                        </div>
+                                                                        <div class="article-meta bg-w">
+                                        <div class="caption">
+                                            <h4>
+                                                <a class="gtm-article-related" href="/asia/latest-figures-new-strain-of-coronavirus-has-infected-over-23-000-in-china-33503">Latest figures: New strain of coronavirus has infected over 23,000 in China</a>
+                                            </h4>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                                                                                                            </div>
+                </div>
+            </div>
+        </section>
+    
+            <section class="container no-gutters article-category-news">
+            <div class="col-xs-12 col-md-8">
+                <div class="contentBox bg-w clearfix">
+                    <div class="col-xs-12 page-header">Category News</div>
+                    <div class="boxContainer">
+                                                                                    <div class="box bg-w">
+                                                                            <div class="thumbnail">
+                                            <a class="gtm-article-category" href="/life/italy-reports-260-virus-deaths-lowest-since-march-14-latest-updates-35747">
+                                                <img class="img-responsive lazy" src="https://cdni0.trtworld.com/w480/h270/q75/77552_ESP200427SpainlockdownAP_1587939390326.jpg" alt="Italy reports 260 virus deaths, lowest since March 14 – latest updates">
+                                            </a>
+                                        </div>
+                                                                        <div class="article-meta bg-w">
+                                        <div class="caption">
+                                            <h4>
+                                                <a class="gtm-article-category" href="/life/italy-reports-260-virus-deaths-lowest-since-march-14-latest-updates-35747">Italy reports 260 virus deaths, lowest since March 14 – latest updates</a>
+                                            </h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                                                                <div class="box bg-w">
+                                                                            <div class="thumbnail">
+                                            <a class="gtm-article-category" href="/life/dolphins-reclaim-bosphorus-amid-virus-lockdown-in-istanbul-35763">
+                                                <img class="img-responsive lazy" src="https://cdni0.trtworld.com/w480/h270/q75/77539_000_1QT923_1587911566244.jpg" alt="Dolphins reclaim Bosphorus amid virus lockdown in Istanbul">
+                                            </a>
+                                        </div>
+                                                                        <div class="article-meta bg-w">
+                                        <div class="caption">
+                                            <h4>
+                                                <a class="gtm-article-category" href="/life/dolphins-reclaim-bosphorus-amid-virus-lockdown-in-istanbul-35763">Dolphins reclaim Bosphorus amid virus lockdown in Istanbul</a>
+                                            </h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                                                                <div class="box bg-w">
+                                                                            <div class="thumbnail">
+                                            <a class="gtm-article-category" href="/life/nations-prepare-to-ease-lockdowns-as-virus-deaths-pass-200-000-35754">
+                                                <img class="img-responsive lazy" src="https://cdni0.trtworld.com/w480/h270/q75/77515_20200425T181713Z_1998802626_RC2UBG93YTX4_RTRMADP_3_HEALTHCORONAVIRUSFRANCE_1587881966515.JPG" alt="Nations prepare to ease lockdowns as virus deaths pass 200,000">
+                                            </a>
+                                        </div>
+                                                                        <div class="article-meta bg-w">
+                                        <div class="caption">
+                                            <h4>
+                                                <a class="gtm-article-category" href="/life/nations-prepare-to-ease-lockdowns-as-virus-deaths-pass-200-000-35754">Nations prepare to ease lockdowns as virus deaths pass 200,000</a>
+                                            </h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                                                                <div class="box bg-w">
+                                                                            <div class="thumbnail">
+                                            <a class="gtm-article-category" href="/americas/showdown-looms-between-silicon-valley-us-states-over-contact-tracing-apps-35751">
+                                                <img class="img-responsive lazy" src="https://cdni0.trtworld.com/w480/h270/q75/77512_20200424T000000Z_1806119412_RC2BBG9S4PJP_RTRMADP_3_HEALTHCORONAVIRUSUSAAPPS_1587870816049.JPG" alt="Showdown looms between Silicon Valley, US states over contact tracing apps">
+                                            </a>
+                                        </div>
+                                                                        <div class="article-meta bg-w">
+                                        <div class="caption">
+                                            <h4>
+                                                <a class="gtm-article-category" href="/americas/showdown-looms-between-silicon-valley-us-states-over-contact-tracing-apps-35751">Showdown looms between Silicon Valley, US states over contact tracing apps</a>
+                                            </h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                        </div>
+                </div>
+            </div>
+        </section>
+    
+
+            <section class="container bottom-mobile visible-xs visible-sm">
+            <div class="row">
+                                <div class=" col-xs-12  no-gutters pull-right bottom-spark-wrapper">
+                    <span class="shown">
+                        <div class=" col-xs-12  pull-right"
+                             id="sparkBox_bottom">
+                            <div id="sidebar_bottom">
+                                <div class="tab-content">
+                                                                            <div role="tabpanel" class="tab-pane fade" id="topics_bottom">
+                                        <ul class="media-list">
+                                                                                                                                                <li> <a href="/news/mexico">Mexico</a></li>
+                                                                                                                                                                                                <li> <a href="/news/us">US</a></li>
+                                                                                                                                                                                                <li> <a href="/news/china">china</a></li>
+                                                                                                                                                                                                <li> <a href="/news/italy">Italy</a></li>
+                                                                                                                                                                                                <li> <a href="/news/coronavirus">Coronavirus</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                                        <span class="tab-closer">BACK</span>
+                                    </div>
+                                                                                                                <div role="tabpanel" class="tab-pane fade related_bottom" id="related_bottom">
+                                        <ul class="media-list">
+                                                                                            <li>
+                                                    <div class="media">
+                                                        <div class="media-left">
+                                                                                                                            <a href="/asia/2019-a-year-of-lengthy-protests-31933">
+                                                                    <img src="https://cdni0.trtworld.com/w480/h270/q75/69278_SDNAlaaSalahSudanwomanoncar190408TRTWORLD_1577806200470.jpeg" class="media-object">
+                                                                </a>
+                                                                                                                    </div>
+                                                        <div class="media-body">
+                                                            <a href="/asia/2019-a-year-of-lengthy-protests-31933"> 2019 - a year of lengthy protests </a>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                                                            <li>
+                                                    <div class="media">
+                                                        <div class="media-left">
+                                                                                                                            <a href="/asia/countries-scramble-to-contain-coronavirus-amid-fears-of-mutating-virus-33189">
+                                                                    <img src="https://cdni0.trtworld.com/w480/h270/q75/70709_GettyImages1195347955_1579824742035.jpg" class="media-object">
+                                                                </a>
+                                                                                                                    </div>
+                                                        <div class="media-body">
+                                                            <a href="/asia/countries-scramble-to-contain-coronavirus-amid-fears-of-mutating-virus-33189"> Countries scramble to contain coronavirus amid fears of mutating virus </a>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                                                            <li>
+                                                    <div class="media">
+                                                        <div class="media-left">
+                                                                                                                            <a href="/magazine/is-the-world-at-risk-of-a-coronavirus-pandemic-33524">
+                                                                    <img src="https://cdni0.trtworld.com/w480/h270/q75/71537_Coronavirusrender_1580904484944.png" class="media-object">
+                                                                </a>
+                                                                                                                    </div>
+                                                        <div class="media-body">
+                                                            <a href="/magazine/is-the-world-at-risk-of-a-coronavirus-pandemic-33524"> Is the world at risk of a coronavirus pandemic? </a>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                                                            <li>
+                                                    <div class="media">
+                                                        <div class="media-left">
+                                                                                                                            <a href="/asia/latest-figures-new-strain-of-coronavirus-has-infected-over-23-000-in-china-33503">
+                                                                    <img src="https://cdni0.trtworld.com/w480/h270/q75/70830_Medicalstafferstransportapatientwithsuspectedcaseofvirus_1580853752562.jpg" class="media-object">
+                                                                </a>
+                                                                                                                    </div>
+                                                        <div class="media-body">
+                                                            <a href="/asia/latest-figures-new-strain-of-coronavirus-has-infected-over-23-000-in-china-33503"> Latest figures: New strain of coronavirus has infected over 23,000 in China </a>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                                                            <li>
+                                                    <div class="media">
+                                                        <div class="media-left">
+                                                                                                                            <a href="/europe/who-declares-global-emergency-over-china-virus-33362">
+                                                                    <img src="https://cdni0.trtworld.com/w480/h270/q75/71164_20200130GLOvirus_1580416483969.JPG" class="media-object">
+                                                                </a>
+                                                                                                                    </div>
+                                                        <div class="media-body">
+                                                            <a href="/europe/who-declares-global-emergency-over-china-virus-33362"> WHO declares global emergency over China virus </a>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                                                    </ul>
+                                        <span class="tab-closer">BACK</span>
+                                    </div>
+                                                                                                                <div role="tabpanel" class="tab-pane fade" id="popular_bottom">
+                                        <ul class="media-list">
+                                                                                            <div class="popular media">
+                                                    <div class="media-left">1
+                                                    </div>
+                                                    <div class="media-body">
+                                                        <a href="/asia/kashmiri-volunteer-groups-pitch-in-with-protective-gear-supplies-35781">Kashmiri volunteer groups pitch in with protective gear supplies </a>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="popular media">
+                                                    <div class="media-left">2
+                                                    </div>
+                                                    <div class="media-body">
+                                                        <a href="/business/south-africa-seeks-5b-from-multilateral-lenders-to-fight-virus-35777">South Africa seeks $5B from multilateral lenders to fight virus </a>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="popular media">
+                                                    <div class="media-left">3
+                                                    </div>
+                                                    <div class="media-body">
+                                                        <a href="/asia/south-korean-intelligence-says-kim-jong-un-is-alive-and-well-35780">South Korean intelligence says Kim Jong-un is alive and well </a>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="popular media">
+                                                    <div class="media-left">4
+                                                    </div>
+                                                    <div class="media-body">
+                                                        <a href="/business/unions-go-virtual-as-virus-wipes-out-may-day-marches-35775">Unions go virtual as virus wipes out May Day marches </a>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="popular media">
+                                                    <div class="media-left">5
+                                                    </div>
+                                                    <div class="media-body">
+                                                        <a href="/europe/french-police-seize-140-000-black-market-face-masks-35772">French police seize 140,000 black market face masks </a>
+                                                    </div>
+                                                </div>
+                                                                                    </ul>
+                                        <span class="tab-closer">BACK</span>
+                                    </div>
+                                                                    </div>
+                            </div>
+                            <div id="sidebar_bottom_nav">
+                                <ul class="nav nav-tabs nav-stacked">
+                                                                            <li role="presentation">
+                                            <a href="#topics_bottom" aria-controls="tags" role="tab" data-toggle="tab">Show people, places and other topics in this story
+                                            </a>
+                                        </li>
+                                                                                                                <li role="presentation">
+                                            <a href="#related_bottom" aria-controls="related" role="tab" data-toggle="tab">Read articles related to this story</a>
+                                        </li>
+                                                                                                                <li role="presentation">
+                                            <a href="#popular_bottom" aria-controls="popular" role="tab" data-toggle="tab">See what's popular on TRT World</a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                    </span>
+                    <div class="closer">CLOSE</div>
+                    <label class="indicator hidden-xs">What would you like to learn?</label>
+                    <label class="indicator hidden-sm">LEARN MORE</label>
+                </div>
+            </div>
+        </section>
+    
+                                                                                                                                                                
+    <section class="social-footer footer container-fluid bg-w">
+    <div class="container">
+        <div class="contact09-instagram">
+            <span>
+                <a href="https://www.instagram.com/trtworld/" target="_blank">
+                    <img src="https://www.trtworld.com/images/iconas/contact9l.svg">
+                </a>
+                <div class="description">A picture is worth a thousand words. Follow us on Instagram.</div>
+                <a href="https://www.instagram.com/trtworld/" target="_blank" class="btn btn-9">FOLLOW TRTWORLD</a>
+            </span>
+        </div>
+        <div class="others">
+            <div class="contact05-email">
+            <span id="subscribe">
+                <subscribe></subscribe>
+            </span>
+            </div>
+            <div class="contact08-youtube">
+            <span>
+                <a href="https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw" target="_blank">
+                    <img src="https://www.trtworld.com/images/iconas/contact8c.svg" class="img-responsive">
+                </a>
+                <h2>TRT World on Youtube</h2>
+                <p>Subscribe to our Youtube channel for all latest in-depth, on the ground reporting from around the world.</p>
+                <a href="https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw" target="_blank" class="btn btn-gray-mid">Subscribe</a>
+            </span>
+            </div>
+            <div class="contact01-facebook">
+                <span>
+                    <span class="brand hidden-sm">
+                        <a href="https://www.facebook.com/trtworld" target="_blank">
+                            <img src="https://www.trtworld.com/images/iconas/contact1c.svg" class="img-responsive hidden-sm">
+                        </a>
+                        <h2 class="hidden-sm">TRT World<br />on Facebook</h2>
+                    </span>
+                    <span class="like">
+                        <a href="https://www.facebook.com/trtworld" target="_blank" class="btn btn-gray-mid">
+                            <img src="https://www.trtworld.com/images/iconas/likel.svg" class="img-responsive">Like
+                        </a>
+                    </span>
+                </span>
+            </div>
+            <div class="contact02-twitter">
+                <span>
+                    <a href="http://twitter.com/trtworld" target="_blank">
+                        <img src="https://www.trtworld.com/images/iconas/contact2c.svg" class="img-responsive hidden-sm">
+                    </a>
+                    <a href="http://twitter.com/trtworld" target="_blank" class="btn btn-gray-mid">
+                        <img src="https://www.trtworld.com/images/iconas/contact2l.svg" class="img-responsive">Follow
+                    </a>
+                </span>
+            </div>
+            <div class="contact10-periscope">
+                <span>
+                    <a href="https://www.pscp.tv/trtworld" target="_blank">
+                        <img src="https://www.trtworld.com/images/iconas/contact10c.svg" class="img-responsive hidden-sm">
+                    </a>
+                    <a href="https://www.pscp.tv/trtworld" target="_blank" class="btn btn-gray-mid">
+                        <img src="https://www.trtworld.com/images/iconas/contact10l.svg" class="img-responsive">Follow
+                    </a>
+                </span>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+
+<section class="container-fluid gdpr-banner bg-gray-mid color-w" style="display: none;">
+    <div class="container">
+        <div class="gdpr-container">
+            <div class="gdprDesc">This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. <a href="/cookie-policy">Learn more</a></div>
+
+            <div class="gdprCloser">Accept</div>
+        </div>
+    </div>
+</section>
+
+<section class="container-fluid page-footer bg-gray-dark">
+    <div class="container no-gutters">
+        <div class="panel-group" id="accordion">
+
+            <div class="col-xs-12 col-sm-3 col-md-4 no-gutters">
+                <div class="panel panel-body col-xs-12">
+                    <div id="collapseOne" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            <img src="https://www.trtworld.com/images/logo.svg" class="img-responsive center-block">
+                            <p class="copyright hidden-xs text-center">Copyright © 2020 TRT World.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xs-12 col-sm-9 col-md-8 no-gutters">
+                <div class="panel panel-body col-xs-12 col-sm-3">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a class="accordion-toggle" data-toggle="collapse" href="#collapseTwo">TRT World</a>
+                        </h4>
+                    </div>
+                    <div id="collapseTwo" class="panel-collapse collapse in">
+                        <ul class="list-group">
+                            <li class="list-group-item"><a href="/live">Watch Live</a></li>
+                            <li class="list-group-item"><a href="/tv-schedule">TV Schedule</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="panel panel-body col-xs-12 col-sm-3">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a class="accordion-toggle" data-toggle="collapse" href="#collapseThree">Where to Watch</a>
+                        </h4>
+                    </div>
+                    <div id="collapseThree" class="panel-collapse collapse in">
+                        <ul class="list-group">
+                            <li class="list-group-item"><a href="/connect">Connect with TRT World</a></li>
+                            <li class="list-group-item"><a href="https://appsto.re/tr/_6Vjbb.i" target="_blank">iOS</a></li>
+                            <li class="list-group-item"><a href="https://play.google.com/store/apps/details?id=com.trtworld.android" target="_blank">Android</a></li>
+                            <li class="list-group-item"><a href="https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw" target="_blank">Youtube</a></li>
+                            <li class="list-group-item"><a href="/coverage" target="_blank">Satellite Coverage</a></li>
+                            <li class="list-group-item"><a href="/partners/hotels" target="_blank">Partner Hotels</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="panel panel-body col-xs-12 col-sm-3">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a class="accordion-toggle" data-toggle="collapse" href="#collapseFour">Corporate</a>
+                        </h4>
+                    </div>
+                    <div id="collapseFour" class="panel-collapse collapse in">
+                        <ul class="list-group">
+                            <li class="list-group-item"><a href="/about">About TRT World</a></li>
+                            <li class="list-group-item hidden"><a href="">Partnership</a></li>
+                            <li class="list-group-item"><a target="_blank" href="https://kariyer.trt.net.tr/en/">Jobs</a></li>
+                            <li class="list-group-item"><a href="/press-releases">Press Releases</a></li>
+                            <li class="list-group-item"><a href="/documentary">Documentary Submission</a></li>
+                            <li class="list-group-item"><a href="/contact-us">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="panel panel-body col-xs-12 col-sm-3">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a class="accordion-toggle" data-toggle="collapse" href="#collapseFive">Legal</a>
+                        </h4>
+                    </div>
+                    <div id="collapseFive" class="panel-collapse collapse in">
+                        <ul class="list-group">
+                            <li class="list-group-item"><a href="/terms-of-use">Terms of Use</a></li>
+                            <li class="list-group-item"><a href="/privacy-policy">Privacy Policy</a></li>
+                            <li class="list-group-item"><a href="/cookie-policy">Cookie Policy</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xs-12 visible-xs no-gutters">
+                    <p class="copyright text-center">Copyright © 2020 TRT World.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<script src="/js/app.js?id=19447b953e6b0361677e"></script>
+
+
+    <!-- small fix in figcaption's space between brackets-->
+    <script>
+      $('body').find('figcaption').each(function () {
+        var caption = $(this);
+        caption.text(caption.text().replace(/\s+(?=[^(\)]*\))/g, function (match, index) {
+          if (caption.text()[index] != " ") {
+            return "";
+          }
+          else {
+            return " ";
+          }
+        }));
+      });
+    </script>
+
+    <!-- Article Page Scripts -->
+    <script src="/js/article.js?id=1ddc442c3323d8b98ca5"></script>
+
+<script type="text/javascript">
+  var d = new Date();
+  d.setTime(d.getTime() + (24*60*60*1000));
+  var expires = "expires="+ d.toUTCString();
+  if (navigator.cookieEnabled) {
+    document.cookie = "tzo="+ (- new Date().getTimezoneOffset()) + ";" + expires + ";path=/";
+  }
+</script>
+<!-- Google Analytics -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-62924116-1', 'auto');
+    ga('require', 'GTM-M3DZH7N');
+    ga('send', 'pageview');
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5CL424L');</script>
+<!-- Google Adsense -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1356194074885317",
+    enable_page_level_ads: true
+  });
+</script>
+</body>
+</html>

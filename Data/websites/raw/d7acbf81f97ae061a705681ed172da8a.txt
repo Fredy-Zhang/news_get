@@ -1,0 +1,2392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="alternate" href="/android-app://com.rappler.RapplerMobile/http/www.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<base href="https://www.rappler.com/" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQYOVl5ACwUGVlRXBAE=",licenseKey:"77a19f2746",applicationID:"36625530"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(9),t(8),"addEventListener"in window&&t(5),c.xhrWrappable&&t(10),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(9),s=t(8),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(7),"addEventListener"in window&&t(5);var x=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof x&&(this.bstStart=y.now())}),o.on(w,function(t,n){var e=t[0];e instanceof x&&i("bst",[e,n,this.bstStart,y.now()])}),a.on(m,function(t,n,e){this.bstStart=y.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,y.now(),this.bstType])}),s.on(m,function(){this.bstStart=y.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,y.now(),"requestAnimationFrame"])}),o.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),o.on(g+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t("wrap-function")(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){function r(t,n,e){var r=t[n];"function"==typeof r&&(t[n]=function(){var t=i(arguments),n={};o.emit(e+"before-start",[t],n);var a;n[m]&&n[m].dt&&(a=n[m].dt);var s=r.apply(this,t);return o.emit(e+"start",[t,a],s),s.then(function(t){return o.emit(e+"end",[null,t],s),t},function(t){throw o.emit(e+"end",[t],s),t})})}var o=t("ee").get("fetch"),i=t(22),a=t(21);n.exports=o;var s=window,c="fetch-",f=c+"body-",u=["arrayBuffer","blob","json","text","formData"],d=s.Request,l=s.Response,p=s.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,n){r(d[h],n,f),r(l[h],n,f)}),r(s,"fetch",c),o.on(c+"end",function(t,n){var e=this;if(n){var r=n.headers.get("content-length");null!==r&&(e.rxSize=r),o.emit(c+"done",[null,n],e)}else o.emit(c+"done",[t],e)}))},{}],7:[function(t,n,e){var r=t("ee").get("history"),o=t("wrap-function")(r);n.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],8:[function(t,n,e){var r=t("ee").get("raf"),o=t("wrap-function")(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],9:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t("wrap-function")(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],10:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",s)}function i(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];n.exports=u;var x=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,n,e){function r(t){if(!i(t))return null;var n=window.NREUM;if(!n.loader_config)return null;var e=(n.loader_config.accountID||"").toString()||null,r=(n.loader_config.agentID||"").toString()||null,s=(n.loader_config.trustKey||"").toString()||null;if(!e||!r)return null;var c=a.generateCatId(),f=a.generateCatId(),u=Date.now(),d=o(c,f,u,e,r,s);return{header:d,guid:c,traceId:f,timestamp:u}}function o(t,n,e,r,o,i){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var s={v:[0,1],d:{ty:"Browser",ac:r,ap:o,id:t,tr:n,ti:e}};return i&&r!==i&&(s.d.tk=i),btoa(JSON.stringify(s))}function i(t){var n=!1,e=!1,r={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(r=NREUM.init.distributed_tracing,e=!!r.enabled),e)if(t.sameOrigin)n=!0;else if(r.allowed_origins instanceof Array)for(var o=0;o<r.allowed_origins.length;o++){var i=s(r.allowed_origins[o]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){n=!0;break}}return e&&n}var a=t(19),s=t(13);n.exports={generateTracePayload:r,shouldGenerateTrace:i}},{}],12:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(d[r],this.listener,!1);n.aborted||(e.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):i(this,t),e.cbTime=this.cbTime,u.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime]))}}function o(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.parsedOrigin=c(n),t.sameOrigin=t.parsedOrigin.sameOrigin}function i(t,n){t.params.status=n.status;var e=w(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(13),f=t(11).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(17),m=t(16),w=t(14),v=window.XMLHttpRequest;a.features.xhr=!0,t(10),t(6),u.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){i(n,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=f(this.parsedOrigin);e&&e.header&&(n.setRequestHeader("newrelic",e.header),this.dt=e)}),u.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=m(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<l;s++)n.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),u.on("xhr-load-added",function(t,n){var e=""+p(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,n){var e=""+p(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],n)}),u.on("removeEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],n)}),u.on("fn-start",function(t,n,e){n instanceof v&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,n){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)}),u.on("fetch-before-start",function(t){var n,e=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url&&(n=t[0].url),n&&(this.parsedOrigin=c(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var r=f(this.parsedOrigin);if(r&&r.header){var o=r.header;if("string"==typeof t[0]){var i={};for(var a in e)i[a]=e[a];i.headers=new Headers(e.headers||{}),i.headers.set("newrelic",o),this.dt=r,t.length>1?t[1]=i:t.push(i)}else t[0]&&t[0].headers&&(t[0].headers.append("newrelic",o),this.dt=r)}})}},{}],13:[function(t,n,e){var r={};n.exports=function(t){if(t in r)return r[t];var n=document.createElement("a"),e=window.location,o={};n.href=t,o.port=n.port;var i=n.href.split("://");!o.port&&i[1]&&(o.port=i[1].split("/")[0].split("@").pop().split(":")[1]),o.port&&"0"!==o.port||(o.port="https"===i[0]?"443":"80"),o.hostname=n.hostname||e.hostname,o.pathname=n.pathname,o.protocol=i[0],"/"!==o.pathname.charAt(0)&&(o.pathname="/"+o.pathname);var a=!n.protocol||":"===n.protocol||n.protocol===e.protocol,s=n.hostname===document.domain&&n.port===e.port;return o.sameOrigin=a&&(!n.hostname||s),"/"===o.pathname&&(r[t]=o),o}},{}],14:[function(t,n,e){function r(t,n){var e=t.responseType;return"json"===e&&null!==n?n:"arraybuffer"===e||"blob"===e||"json"===e?o(t.response):"text"===e||"document"===e||""===e||void 0===e?o(t.responseText):void 0}var o=t(16);n.exports=r},{}],15:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],16:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],17:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],18:[function(t,n,e){function r(t,n){var e=t.getEntries();e.forEach(function(t){"first-paint"===t.name?c("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&c("timing",["fcp",Math.floor(t.startTime)])})}function o(t,n){var e=t.getEntries();e.length>0&&c("lcp",[e[e.length-1]])}function i(t){if(t instanceof u&&!l){var n,e=Math.round(t.timeStamp);n=e>1e12?Date.now()-e:f.now()-e,l=!0,c("timing",["fi",e,{type:t.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,s,c=t("handle"),f=t("loader"),u=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),s=new PerformanceObserver(o);try{a.observe({entryTypes:["paint"]}),s.observe({entryTypes:["largest-contentful-paint"]})}catch(d){}}if("addEventListener"in document){var l=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(t){document.addEventListener(t,i,!1)})}}},{}],19:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],20:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],21:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],22:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],23:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([x,e,r,a]),a}}function p(t,n){g[t]=m(t).concat(n)}function h(t,n){var e=g[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return g[t]||[]}function w(t){return d[t]=d[t]||o(e)}function v(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var g={},y={},x={on:p,addEventListener:p,removeEventListener:h,emit:e,get:w,listeners:m,context:n,buffer:v,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),l=window,p=l.document,h="addEventListener",m="attachEvent",w=l.XMLHttpRequest,v=w&&w.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:w,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var g=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1167.min.js"},x=w&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:g,features:{},xhrWrappable:x,userAgent:d};t(15),t(18),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}],"wrap-function":[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}]},{},["loader",2,12,4,3]);</script>
+<meta name="keywords" content="Dasmarinas Village, Philippine National Police, Makati City, novel coronavirus, coronavirus, COVID-19, coronavirus Philippine updates" />
+<meta name="rights" content="All rights reserved by Rappler, Inc.   " />
+<meta name="news_keywords" content="Dasmarinas Village, Philippine National Police, Makati City, novel coronavirus, coronavirus, COVID-19, coronavirus Philippine updates" />
+<meta name="description" content="(UPDATED) Javier Salvador Parra is told to pay a P1,000 fine because his house staff was not wearing a face mask while watering plants within their property" />
+<title>Man in private village assaulted, nearly arrested without warrant by Makati police</title>
+<link rel="stylesheet" href="https://static.rappler.com/cache/assets/1557569470-b362bbd95c0fa31420ff40c9035cb62a.css" type="text/css" />
+<script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+<script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js" type="text/javascript"></script>
+<script src="https://static.rappler.com/cache/assets/1531905295-d42e171172ff949812e4bfb6f8ab1e9c.js" type="text/javascript"></script>
+<link href="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/F8C8AA4B4FAC4F1AA6566ACF2748F87F/screenshot.jpg" rel="image_src" />
+<link href="https://static.rappler.com/templates/rappler3_default/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="http://feeds.feedburner.com/rappler/" rel="alternate" type="application/rss+xml" title="RAPPLER" />
+<meta property="fb:admins" content="659407145" />
+<meta property="fb:app_id" content="129650183806730" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police" />
+<meta property="article:publisher" content="https://www.facebook.com/rapplerdotcom"/>
+<meta property="og:title" content="Man in private village assaulted, nearly arrested without warrant by Makati police" />
+<meta name="cXenseParse:recs:articleid" content="259129"/>
+<meta name="cXenseParse:pageclass" content="article" />
+<meta name="cXenseParse:recs:publishtime" content="2020-04-27T01:50:07+0000"/>
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:app:country" content="PH">
+<meta name="twitter:site" content="@rapplerdotcom">
+<meta name="twitter:app:id:iphone" content="600797927" />
+<meta name="twitter:app:id:ipad" content="600797927" />
+<meta name="twitter:app:id:googleplay" content="com.rappler.RapplerMobile" />
+<meta name="twitter:app:url:googleplay" content="rappler://nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police" />
+<meta property="al:android:url" content="fb129650183806730://nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police">
+<link rel="canonical" href="https://www.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police" />
+<meta property="og:image" content="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/F8C8AA4B4FAC4F1AA6566ACF2748F87F/screenshot.jpg" />
+<meta name="twitter:image" content="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/F8C8AA4B4FAC4F1AA6566ACF2748F87F/screenshot.jpg" />
+<meta property="og:description" content="(UPDATED) Javier Salvador Parra is told to pay a P1,000 fine because his house staff was not wearing a face mask while watering plants within their property" />
+<meta name="twitter:description" content="(UPDATED) Javier Salvador Parra is told to pay a P1,000 fine because his house staff was not wearing a face mask while watering plants within their property" />
+<meta property="og:site_name" content="Rappler" />
+<meta name="cXenseParse:recs:image" content="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/A68DBD4B979F46B0AAC4BBBFAA527FA4/screenshot_A68DBD4B979F46B0AAC4BBBFAA527FA4.jpg"/>
+<meta property="Content-Security-Policy" content="upgrade-insecure-requests" />
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
+<link rel="amphtml" href="https://amp.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police">
+<script>
+var articleMeta = {
+categories:  "nation",
+articleId: "259129",
+keywords: ['Dasmarinas Village','Philippine National Police','Makati City','novel coronavirus','coronavirus','COVID-19','coronavirus Philippine updates']
+};
+var deviceType = "desktop";
+var cx_user = document.cookie.split("; cX_P=").pop().split(";").shift();
+var googleNotYeDisplayedSlots = [];
+var cX = cX || {};
+var adUnitSlot = {};
+cX.callQueue = cX.callQueue || [];
+var googletag = googletag || {cmd:[]};
+cX.callQueue.push(["invoke", function() {
+googletag.cmd.push(function() {
+googletag.pubads().disableInitialLoad();
+googletag.pubads().enableSingleRequest();
+googletag.pubads().setCentering(true);
+googletag.pubads().enableVideoAds();
+googletag.pubads().setTargeting("CxSegments", cX.getUserSegmentIds({
+persistedQueryId: "82ef547962d8ecd598da83a1543cb91a6670175e"
+}));
+googletag.enableServices();
+});
+}]);
+</script>
+<script>
+//UPDATED BY PROPS
+function wrapDFPWithCxsense(adSlot, adUnitName) {
+var adUnit = adSlot;
+var _adUnitName = adSlot;
+cX.callQueue.push(["invoke", function() {
+googletag.cmd.push(function() {
+//generate a new Slot ID
+var randNumber = Math.floor((Math.random() * 10000000) + 1);
+var newSlot = adSlot + "-" + randNumber;
+//replace the Old ID with the New ID
+document.getElementById(adSlot).id = newSlot;
+var sizes;
+var adSlotDevice = "2019_Rappler_Desktop";
+var adPath = window.location.pathname;
+var AdBottomSizing = googletag.sizeMapping()
+.addSize([750, 200], [728, 90])
+.addSize([500, 200], [468, 60])
+.addSize([1, 1 ], [300, 250])
+.build();
+if(adUnitName) {
+_adUnitName = adUnitName;
+} else {
+_adUnitName = adSlot;
+}
+switch(adSlot.toLowerCase()) {
+case "ad_rectangle_top" :
+sizes = [[336,280],[300,250]];
+break;
+case "Rappler_Mid" :
+sizes = [[336,280],[300,250]];
+break;
+case "ad_premium_billboard" :
+sizes = [[970,90],[970,250]];
+break;
+case "ad_premium_leaderboard" :
+sizes = [[728, 90],[468, 60],[970, 250],[336, 280],[320, 50],[300, 250]];
+break;
+case "ad_premium_leaderboard_top" :
+sizes = [[728, 90],[970, 90]];
+break;
+case "ad_premium_leaderboard_bottom" :
+sizes = [[728, 90],[970, 90]];
+break;
+case "ad_premium_portrait" :
+sizes = [[300, 1050],[160, 600]];
+break; 
+case "ad_premium_footer" :
+sizes = [[300, 250],[336, 280]];
+break;
+case "ad_breaker_1" :
+sizes = [[300, 250],[336, 280]];
+break;
+case "ad_breaker_2" :
+sizes = [[300, 250],[336, 280]];
+break;
+case "ad_rectangle_moods" :
+sizes = [[300,250],[336,280]];
+break;
+case "ad_premium_skyscraper":
+sizes = [[160,600],[120,600]];
+break;
+case "ad_bottom":
+sizes = [[300,250],[336,280]];
+break;
+case "ad_script":
+sizes = [[1,1]];
+break;
+case "ad_script_2":
+sizes = [[1,1]];
+break;
+case "ad_articleinline":
+sizes = [[300, 600], [336, 280],[300, 250],[320, 480]];
+break;
+case "ad_articleinline_2":
+sizes = [[300, 600], [336, 280],[300, 250],[320, 480]];
+break;
+case "ad_oop":
+sizes = [];
+break;
+case "ad_bottom":
+sizes = [[728, 90],[468, 60],[970, 250],[336, 280],[320, 50],[300, 250]];
+break;
+default:
+break;
+}
+if(deviceType === "mobile") {
+adSlotDevice = "2019_Rappler_Mobile";
+switch(adSlot.toLowerCase()) {
+case "ad_premium_leaderboard_top" :
+sizes = [[320, 50], [336, 280],[300, 250]];
+break;
+case "ad_premium_leaderboard_bottom" :
+sizes = [[320, 50], [336, 280],[300, 250]];
+break;
+default:
+break;
+}
+}
+if(adPath) {
+adPath = adPath.split("/");
+if(adPath.length > 2) {
+adPath.pop();
+}
+while(adPath.length > 3) {
+adPath.pop();
+}
+adPath = adPath.join("/");
+}
+if(adPath === "/") {
+adPath = "/homepage";
+}
+var unit = "/15125093/" + adSlotDevice + adPath + "/" + _adUnitName;
+if(adSlot.toLowerCase() === "ad_oop") 
+{
+adUnitSlot[adUnit] = googletag.defineOutOfPageSlot(unit, newSlot)
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords)
+.setTargeting("CxSegments", cX.getUserSegmentIds({
+persistedQueryId: "82ef547962d8ecd598da83a1543cb91a6670175e"
+}));
+} else if(adSlot.toLowerCase() === "ad_bottom") 
+{
+adUnitSlot[adUnit] = googletag.defineSlot(unit, sizes, newSlot)
+.defineSizeMapping(AdBottomSizing)
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords)
+.setTargeting("CxSegments", cX.getUserSegmentIds({
+persistedQueryId: "82ef547962d8ecd598da83a1543cb91a6670175e"
+}));
+}
+else 
+{ 
+adUnitSlot[adUnit] = googletag.defineSlot(unit, sizes, newSlot)
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords)
+.setTargeting("CxSegments", cX.getUserSegmentIds({
+persistedQueryId: "82ef547962d8ecd598da83a1543cb91a6670175e"
+}));
+}
+googletag.display(newSlot);
+googletag.pubads().collapseEmptyDivs(true);
+googletag.pubads().refresh([adUnitSlot[adUnit]]);
+});
+}]);
+}
+</script>
+<script type="text/javascript" src="https://static.rappler.com/components/com_rappler/js/oc-react.js"></script><meta name="alexaVerifyID" content="boi3S3jgq4MUulG4x97ZaZ1dpDQ" />  <script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-26553497-1', 'auto'); </script>  
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1552358998376092&ev=PageView&noscript=1"
+/></noscript><meta property="fb:pages" content="310621318958658" />
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-26553497-1', { 'send_page_view': false , 'optimize_id': 'GTM-WQRQBGM'});
+</script>
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-WQRQBGM':true});</script>
+</head>
+<body>
+<script> window.dataLayer = window.dataLayer || []; var pubDate = new Date('2020-04-27 01:50:07'); pubDate = new Date(Date.UTC(pubDate.getFullYear(), pubDate.getMonth(), pubDate.getDate(), pubDate.getHours(), pubDate.getMinutes(), pubDate.getSeconds())); var timeDiff = Math.abs(new Date().getTime() - pubDate); var diffDays = Math.ceil(timeDiff / (1000 * 3600 * 24)) - 1; dataLayer.push({ AuthorName: "Marguerite de Leon", PublishedDt: '2020-04-27 01:50:07', RevisedDt: '2020-04-27 06:12:52', AuthorTags: "Dasmarinas Village, Philippine National Police, Makati City, novel coronavirus, coronavirus, COVID-19, coronavirus Philippine updates", ArticleId: '259129', ArticleTitle: "Man in private village assaulted, nearly arrested without warrant by Makati police", ArticleAge: diffDays });</script> <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-LCSN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-LCSN');</script>  <noscript><img src="https://static.rappler.com/plugins/system/lazyload/blank.png" data-original="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=Jv+uf1agkf00Of" style="display:none" height="1" width="1" alt="" /></noscript>        
+<div class="custom"  >
+<div id="Ad_Script" style="height: 1px; width: 1px;">
+</div></div>
+<div class="custom"  >
+<div id="Ad_OOP" style="height: 1px; width: 1px;">
+</div></div>
+<div id="page" style="overflow: hidden;">
+<div style="display: none;"> HELLO FEATURE MARKUP VAL: </div>
+<div id="askedition" style="background-color:#000;color:#fff;font-size:14px;padding:10px 10px 10px 10px;display:none">
+Welcome to Rappler, please select your default country:&nbsp;&nbsp;
+<a id="editionPhilippines" href="javascript:void(0)" style="font-weight:normal;padding:10px">Philippines</a>&nbsp;&nbsp;
+<a id="editionIndonesia" href="javascript:void(0)" style="font-weight:normal;padding:10px">Indonesia</a>
+</div>
+<div id="masthead" class="navbar hidden-lg box-shadow-2" style="padding:0px;">
+<div class="form-inline" style="margin-bottom:0px; padding:8px 10px;">
+<div class="form-addon padding right text-left">
+<div class="form-inline" style="margin: 0;">
+<div class="form-addon padding right">
+<a href="#menu" id="mobile-menu-trigger"><i class="fa fa-bars fa-fw light"></i></a>
+</div>
+<div class="form-input">
+<a href="/"><img src="https://static.rappler.com/templates/rappler3_default/img/rapplerlogosvg.svg" style="width:100px!important; max-width:none!important;"></a>
+</div>
+</div>
+</div>
+<div class="dropdown mobile-search-dropdown form-input text-right">
+<a href="/plus" class="white link padding left" id="support-button">
+<button class="support-button">
+Join Rappler PLUS
+</button>
+</a>
+<a role="button" data-toggle="dropdown" data-target="#" href="#" class="padding left"><i class="fa fa-search fa-fw light"></i></a>
+<ul class="side-nav no-padding dropdown-menu menu-dropdown col-xs-12 rappler-light-gray">
+<li class="row">
+<div class="col-xs-12 col-sm-12 col-md-12">
+<form class="form-inline" role="search" method="GET" action="/">
+<div class="form-input padding right">
+<input type="hidden" name="option" value="com_rappler">
+<input type="hidden" name="task" value="search">
+<input type="hidden" name="language" value="english">
+<input type="text" name="q" placeholder="Search">
+</div>
+<div class="form-addon">
+<button class="rappler-orange bg" type="submit" >Go!</button>
+</div>
+</form>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div> 
+<div class="menu-trigger nav-full">
+<header class="navbar navbar-rappler-top visible-lg" role="banner">
+<a class="navbar-brand-top" href="/"><img src="https://static.rappler.com/templates/rappler3_default/img/rappler-basic-logo.svg"></a>
+<div class="mdd-wrapper">
+<nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+<ul class="nav navbar-nav navbar-left">
+<li>
+<a href="/?mdd=1" id="menuPhilippines" style="display:inline-block;">Philippines</a><a id="menuIndonesia"  style="display:inline-block;" href="/indonesia/" class="padding left">Indonesia</a>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li>
+<a href="http://coupons.rappler.com" target="_blank">
+Coupons                                </a>
+</li>
+<li>
+<a href="https://www.lazada.com.ph/rapplerxchange/" target="_blank">
+<i class="fa fa-shopping-cart"></i>&nbsp;&nbsp;Rappler Shop</a>
+</li>
+<li><a href="https://www.facebook.com/rapplerdotcom" target="_blank"><i class="fa fa-facebook padding left"></i></a></li>
+<li><a href="http://twitter.com/rapplerdotcom" target="_blank"><i class="fa fa-twitter"></i></a></li>
+<li><a href="http://instagram.com/rappler" target="_blank"><i class="fa fa-instagram"></i></a></li>
+<li><a href="http://feeds.feedburner.com/rappler/" target="_blank"><i class="fa fa-rss padding right"></i></a></li>
+<li>
+<a id="rpl_auth_container" href="javascript:void(0)" data-toggle="popover">
+<i id="login_user_icon" class="fa fa-user margin right"></i><span id="login_user_firstname" class="caption">Login to Rappler</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="login-content hide">
+<label class="clickover-txt caption no-margin" style="line-height: 1.25">Login to Rappler using your social account:</label>
+<div id="pop_loginui" style="width:200px;">
+<button class="facebook bg block text-left" style="margin-bottom: 8px; margin-top: 8px;" onClick="javascript:fbSignIn()">
+<i class="fa fa-facebook-square white" aria-hidden="true" style="padding-right: 4px;"></i> Login with Facebook
+</button>
+<button class="twitter bg block text-left" style="margin-bottom: 8px;" onClick="javascript:twitterSignIn()">
+<i class="fa fa-twitter white" aria-hidden="true" style="padding-right: 4px;"></i> Login with Twitter
+</button>
+<button class="bg block text-left" style="margin-bottom: 8px; border: 1px solid #eee;" style="background-color: #d34836" onClick="javascript:googleSignIn()">
+<img src="https://assets.rappler.com/44B63D44C5B9471D8162729F56BAB766/img/84C6CF9CA34C4631BD2723B89AF3E45F/google-icon.png" style="padding-right: 0px; width: 25px; margin-left: -4px;" class="nolazy"> Login with Google
+</button>
+</div>
+<label class="clickover-txt caption no-margin" style="line-height: 1.25; margin-top: 8px;">
+Already have a Rappler Account?
+<a href="javascript:emailLogIn();$('.login-content').find('.close').click();"><b>Login</b></a>
+or <a href="javascript:fnRegister(null);$('.login-content').find('.close').click();"><b>Register</b></a> to create one.
+</label>
+</div>
+</header>
+<nav id="menu" class="mm-menu">
+<ul>
+<li class="selected"><a href="/">Home</a></li>
+<li class="item-5260 parent" deeper><a href="/news"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:News"  >News</a><ul><li><li class="item-5261 active"><a href="/nation"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Philippines"  >Philippines</a></li><li class="item-5873"><a href="/nation/politics/elections/2019"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#PHvote 2019"  >#PHvote 2019</a></li><li class="item-5262 parent"><a href="/world"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:World"  >World</a></li><li class="item-5272"><a href="/move-ph/balikbayan"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#BalikBayan"  >#BalikBayan</a></li><li class="item-5273 parent"><a href="/science-nature"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Science &amp; Nature"  >Science &amp; Nature</a></li></ul></li><li class="item-5282 parent" deeper><a href="/video"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Video"  >Video</a><ul><li><li class="item-5283"><a href="/video/newscast"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Newscast"  >Newscast</a></li><li class="item-5285"><a href="/video/shows"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Shows"  >Shows</a></li><li class="item-5286"><a href="/video/reports"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Reports"  >Reports</a></li><li class="item-5287"><a href="/video/documentary"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Documentary"  >Documentary</a></li><li class="item-5288"><a href="/video/specials"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Specials"  >Specials</a></li></ul></li><li class="item-5289 parent" deeper><a href="/business"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Business"  >Business</a><ul><li><li class="item-5290"><a href="/business/economy-watch"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Economy"  >Economy</a></li><li class="item-5433"><a href="/brandrap/brighter-life"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Brighter Life"  >Brighter Life</a></li><li class="item-5291"><a href="/business/industries"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Industries"  >Industries</a></li><li class="item-5292"><a href="/business/personal-finance"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Money"  >Money</a></li><li class="item-5294"><a href="/business/features"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Features"  >Features</a></li><li class="item-5295"><a href="/business/infographics"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Specials"  >Specials</a></li></ul></li><li class="item-5296 parent" deeper><a href="/newsbreak"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Newsbreak"  >Newsbreak</a><ul><li><li class="item-5298"><a href="/newsbreak/investigative"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Investigative"  >Investigative</a></li><li class="item-5492"><a href="/newsbreak/in-depth"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:In-depth"  >In-depth</a></li><li class="item-5299"><a href="/newsbreak/iq"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Rappler IQ"  >Rappler IQ</a></li><li class="item-5300"><a href="/newsbreak/inside-track"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Inside Track"  >Inside Track</a></li><li class="item-5301"><a href="/newsbreak/fact-check"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Fact Check"  >Fact Check</a></li><li class="item-5523"><a href="/newsbreak/videos-podcasts"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Videos &amp; Podcasts"  >Videos &amp; Podcasts</a></li></ul></li><li class="item-5341 parent" deeper><a href="/move-ph"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:MovePH"  >MovePH</a><ul><li><li class="item-5343"><a href="/move-ph/issues"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Issues"  >Issues</a></li><li class="item-5342"><a href="/move-ph/issues/disasters"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#Agos"  >#Agos</a></li><li class="item-5344"><a href="/move-ph/issues/budget-watch"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#BudgetWatch"  >#BudgetWatch</a></li><li class="item-5345"><a href="/move-ph/issues/hunger"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#HungerProject"  >#HungerProject</a></li><li class="item-5346"><a href="/bulletin-board"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Community"  >Community</a></li><li class="item-5520"><a href="/views/imho"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:IMHO"  >IMHO</a></li><li class="item-5898"><a href="/move-ph/plus"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Rappler Plus"  >Rappler Plus</a></li></ul></li><li class="item-5303 parent" deeper><a href="/views"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Views"  >Views</a><ul><li><li class="item-5304"><a href="/thought-leaders"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Thought Leaders"  >Thought Leaders</a></li><li class="item-5305"><a href="/move-ph/ispeak"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:iSpeak"  >iSpeak</a></li><li class="item-5434"><a href="/rappler-blogs"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Rappler Blogs"  >Rappler Blogs</a></li><li class="item-5455"><a href="/views/animated"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#AnimatED"  >#AnimatED</a></li><li class="item-5918"><a href="/views/newsletters"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Rappler Newsletters"  >Rappler Newsletters</a></li></ul></li><li class="item-5306 parent" deeper><a href="/life-and-style"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Life &amp; Style"  >Life &amp; Style</a><ul><li><li class="item-5307"><a href="/life-and-style/best-eats"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Food"  >Food</a></li><li class="item-5308"><a href="/life-and-style/career"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Career"  >Career</a></li><li class="item-5309"><a href="/life-and-style/travel"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Travel"  >Travel</a></li><li class="item-5310"><a href="/life-and-style/specials"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Specials"  >Specials</a></li><li class="item-5311"><a href="/pugad-baboy"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#PugadBaboy"  >#PugadBaboy</a></li></ul></li><li class="item-5312 parent" deeper><a href="/entertainment"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Entertainment"  >Entertainment</a><ul><li><li class="item-5314"><a href="/entertainment/news"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Entertainment News"  >Entertainment News</a></li><li class="item-5855"><a href="/entertainment/tv"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:TV"  >TV</a></li><li class="item-5315"><a href="/entertainment/movies"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Movies"  >Movies</a></li><li class="item-5316"><a href="/entertainment/music"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Music"  >Music</a></li><li class="item-5317"><a href="/entertainment/specials"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Special Coverage"  >Special Coverage</a></li></ul></li><li class="item-5318 parent" deeper><a href="/sports"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Sports"  >Sports</a><ul><li><li class="item-5320"><a href="/sports/by-sport/basketball"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Basketball"  >Basketball</a></li><li class="item-5861"><a href="/sports/by-sport/volleyball"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Volleyball"  >Volleyball</a></li><li class="item-5319"><a href="/sports/by-sport/boxing-mma"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Boxing"  >Boxing</a></li><li class="item-5321"><a href="/sports/by-sport/football"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Football"  >Football</a></li><li class="item-5322"><a href="/sports/by-sport/other-sports"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Other Sports"  >Other Sports</a></li><li class="item-5323"><a href="/sports/university"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:University Sports"  >University Sports</a></li></ul></li><li class="item-5325 parent" deeper><a href="/technology"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Tech"  >Tech</a><ul><li><li class="item-5326"><a href="/technology/news"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:News"  >News</a></li><li class="item-5327"><a href="/technology/features"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Features"  >Features</a></li><li class="item-5328"><a href="/technology/reviews"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Reviews"  >Reviews</a></li><li class="item-5329"><a href="/technology/video/hands-on"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Hands on"  >Hands on</a></li><li class="item-5331"><a href="/technology/social-media"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Social Media"  >Social Media</a></li></ul></li><li class="item-5931"><a href="/hustle-stories"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Hustle"  >Hustle</a></li><li class="item-5335 parent" deeper><a href="/brandrap"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:BrandRap"  >BrandRap</a><ul><li><li class="item-5347"><a href="/brandrap/finance-and-industries"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Finance &amp; Industries"  >Finance &amp; Industries</a></li><li class="item-5336"><a href="/brandrap/health-and-self"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Health &amp; Self"  >Health &amp; Self</a></li><li class="item-5337"><a href="/brandrap/travel-food-and-lifestyle"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Lifestyle"  >Lifestyle</a></li><li class="item-5338"><a href="/brandrap/tech-and-innovation"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Tech &amp; Innovation"  >Tech &amp; Innovation</a></li><li class="item-5741"><a href="http://www.rappler.com/advertise"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Advertise"  >Advertise</a></li><li class="item-5909"><a href="/brandrap/goodrap"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:GoodRap"  >GoodRap</a></li><li class="item-5911"><a href="/brandrap/detours"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#Detours"  >#Detours</a></li><li class="item-5923"><a href="/brandrap/credit-education"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#RejectED to #CreditED"  >#RejectED to #CreditED</a></li></ul></li><li class="item-5928"><a href="/covid-19"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:COVID-19"  >COVID-19</a></li>                <li class="selected"><a href="http://jobs.rappler.com">Jobs</a></li>
+<li class="selected"><a href="http://coupons.rappler.com">Coupons</a></li>
+<li class="selected"><a href="http://ho.lazada.com.ph/SHcknN?web_url=https%253A%252F%252Fwww.lazada.com.ph%252Frapplerxchange%252F&deeplink=lazada%3A%2F%2Fph%2Fpage%3Furl_key%3Drapplerxchange">Rappler Shop</a></li>
+</ul>
+</nav>
+</div>
+<div class="header-menu">
+<div class="menu-trigger Xheader nav-mini">
+<header class="navbar navbar-rappler visible-lg" role="banner">
+<div class="mdd-wrapper box-shadow-2">
+<div class="navbar-header">
+<a href="/"><img src="https://static.rappler.com/templates/rappler3_default/img/Rappler-Logo-SVG.svg" id="logo-rappler"></a>
+</div>
+<nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+<ul class="menu nav navbar-nav">
+<li class="mdd-item item-5260 parent" deeper><a href="/news"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:News"  >News</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5261 active"><a href="/nation"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Philippines"  >Philippines</a></li><li class="mdd-item item-5873"><a href="/nation/politics/elections/2019"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#PHvote 2019"  >#PHvote 2019</a></li><li class="mdd-item item-5262 parent"><a href="/world"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:World"  >World</a></li><li class="mdd-item item-5272"><a href="/move-ph/balikbayan"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#BalikBayan"  >#BalikBayan</a></li><li class="mdd-item item-5273 parent"><a href="/science-nature"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Science &amp; Nature"  >Science &amp; Nature</a></li>
+</ul></li><li class="mdd-item item-5282 parent" deeper><a href="/video"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Video"  >Video</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5283"><a href="/video/newscast"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Newscast"  >Newscast</a></li><li class="mdd-item item-5285"><a href="/video/shows"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Shows"  >Shows</a></li><li class="mdd-item item-5286"><a href="/video/reports"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Reports"  >Reports</a></li><li class="mdd-item item-5287"><a href="/video/documentary"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Documentary"  >Documentary</a></li><li class="mdd-item item-5288"><a href="/video/specials"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Specials"  >Specials</a></li>
+</ul></li><li class="mdd-item item-5289 parent" deeper><a href="/business"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Business"  >Business</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5290"><a href="/business/economy-watch"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Economy"  >Economy</a></li><li class="mdd-item item-5433"><a href="/brandrap/brighter-life"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Brighter Life"  >Brighter Life</a></li><li class="mdd-item item-5291"><a href="/business/industries"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Industries"  >Industries</a></li><li class="mdd-item item-5292"><a href="/business/personal-finance"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Money"  >Money</a></li><li class="mdd-item item-5294"><a href="/business/features"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Features"  >Features</a></li><li class="mdd-item item-5295"><a href="/business/infographics"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Specials"  >Specials</a></li>
+</ul></li><li class="mdd-item item-5296 parent" deeper><a href="/newsbreak"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Newsbreak"  >Newsbreak</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5298"><a href="/newsbreak/investigative"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Investigative"  >Investigative</a></li><li class="mdd-item item-5492"><a href="/newsbreak/in-depth"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:In-depth"  >In-depth</a></li><li class="mdd-item item-5299"><a href="/newsbreak/iq"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Rappler IQ"  >Rappler IQ</a></li><li class="mdd-item item-5300"><a href="/newsbreak/inside-track"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Inside Track"  >Inside Track</a></li><li class="mdd-item item-5301"><a href="/newsbreak/fact-check"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Fact Check"  >Fact Check</a></li><li class="mdd-item item-5523"><a href="/newsbreak/videos-podcasts"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Videos &amp; Podcasts"  >Videos &amp; Podcasts</a></li>
+</ul></li><li class="mdd-item item-5341 parent" deeper><a href="/move-ph"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:MovePH"  >MovePH</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5343"><a href="/move-ph/issues"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Issues"  >Issues</a></li><li class="mdd-item item-5342"><a href="/move-ph/issues/disasters"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#Agos"  >#Agos</a></li><li class="mdd-item item-5344"><a href="/move-ph/issues/budget-watch"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#BudgetWatch"  >#BudgetWatch</a></li><li class="mdd-item item-5345"><a href="/move-ph/issues/hunger"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#HungerProject"  >#HungerProject</a></li><li class="mdd-item item-5346"><a href="/bulletin-board"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Community"  >Community</a></li><li class="mdd-item item-5520"><a href="/views/imho"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:IMHO"  >IMHO</a></li><li class="mdd-item item-5898"><a href="/move-ph/plus"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Rappler Plus"  >Rappler Plus</a></li>
+</ul></li><li class="mdd-item item-5303 parent" deeper><a href="/views"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Views"  >Views</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5304"><a href="/thought-leaders"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Thought Leaders"  >Thought Leaders</a></li><li class="mdd-item item-5305"><a href="/move-ph/ispeak"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:iSpeak"  >iSpeak</a></li><li class="mdd-item item-5434"><a href="/rappler-blogs"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Rappler Blogs"  >Rappler Blogs</a></li><li class="mdd-item item-5455"><a href="/views/animated"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#AnimatED"  >#AnimatED</a></li><li class="mdd-item item-5918"><a href="/views/newsletters"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Rappler Newsletters"  >Rappler Newsletters</a></li>
+</ul></li><li class="mdd-item item-5306 parent" deeper><a href="/life-and-style"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Life &amp; Style"  >Life &amp; Style</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5307"><a href="/life-and-style/best-eats"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Food"  >Food</a></li><li class="mdd-item item-5308"><a href="/life-and-style/career"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Career"  >Career</a></li><li class="mdd-item item-5309"><a href="/life-and-style/travel"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Travel"  >Travel</a></li><li class="mdd-item item-5310"><a href="/life-and-style/specials"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Specials"  >Specials</a></li><li class="mdd-item item-5311"><a href="/pugad-baboy"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#PugadBaboy"  >#PugadBaboy</a></li>
+</ul></li><li class="mdd-item item-5312 parent" deeper><a href="/entertainment"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Entertainment"  >Entertainment</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5314"><a href="/entertainment/news"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Entertainment News"  >Entertainment News</a></li><li class="mdd-item item-5855"><a href="/entertainment/tv"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:TV"  >TV</a></li><li class="mdd-item item-5315"><a href="/entertainment/movies"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Movies"  >Movies</a></li><li class="mdd-item item-5316"><a href="/entertainment/music"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Music"  >Music</a></li><li class="mdd-item item-5317"><a href="/entertainment/specials"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Special Coverage"  >Special Coverage</a></li>
+</ul></li><li class="mdd-item item-5318 parent" deeper><a href="/sports"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Sports"  >Sports</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5320"><a href="/sports/by-sport/basketball"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Basketball"  >Basketball</a></li><li class="mdd-item item-5861"><a href="/sports/by-sport/volleyball"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Volleyball"  >Volleyball</a></li><li class="mdd-item item-5319"><a href="/sports/by-sport/boxing-mma"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Boxing"  >Boxing</a></li><li class="mdd-item item-5321"><a href="/sports/by-sport/football"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Football"  >Football</a></li><li class="mdd-item item-5322"><a href="/sports/by-sport/other-sports"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Other Sports"  >Other Sports</a></li><li class="mdd-item item-5323"><a href="/sports/university"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:University Sports"  >University Sports</a></li>
+</ul></li><li class="mdd-item item-5325 parent" deeper><a href="/technology"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Tech"  >Tech</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5326"><a href="/technology/news"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:News"  >News</a></li><li class="mdd-item item-5327"><a href="/technology/features"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Features"  >Features</a></li><li class="mdd-item item-5328"><a href="/technology/reviews"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Reviews"  >Reviews</a></li><li class="mdd-item item-5329"><a href="/technology/video/hands-on"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Hands on"  >Hands on</a></li><li class="mdd-item item-5331"><a href="/technology/social-media"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Social Media"  >Social Media</a></li>
+</ul></li><li class="mdd-item item-5931"><a href="/hustle-stories"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Hustle"  >Hustle</a></li><li class="mdd-item item-5335 parent" deeper><a href="/brandrap"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:BrandRap"  >BrandRap</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5347"><a href="/brandrap/finance-and-industries"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Finance &amp; Industries"  >Finance &amp; Industries</a></li><li class="mdd-item item-5336"><a href="/brandrap/health-and-self"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Health &amp; Self"  >Health &amp; Self</a></li><li class="mdd-item item-5337"><a href="/brandrap/travel-food-and-lifestyle"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Lifestyle"  >Lifestyle</a></li><li class="mdd-item item-5338"><a href="/brandrap/tech-and-innovation"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Tech &amp; Innovation"  >Tech &amp; Innovation</a></li><li class="mdd-item item-5741"><a href="http://www.rappler.com/advertise"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Advertise"  >Advertise</a></li><li class="mdd-item item-5909"><a href="/brandrap/goodrap"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:GoodRap"  >GoodRap</a></li><li class="mdd-item item-5911"><a href="/brandrap/detours"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#Detours"  >#Detours</a></li><li class="mdd-item item-5923"><a href="/brandrap/credit-education"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#RejectED to #CreditED"  >#RejectED to #CreditED</a></li>
+</ul></li><li class="mdd-item item-5928"><a href="/covid-19"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:COVID-19"  >COVID-19</a></li>                        </ul>
+<ul class="menu nav navbar-nav navbar-right">
+<style>
+.support-button {
+padding: 2px 8px !important;
+height: auto !important;
+background-color: #ff9900 !important;
+color: #FFF;
+font-weight: 700;
+display: none;
+}
+.support-link {
+padding: 6px 10px !important;
+}
+</style>
+<li class="visible-lg">
+<a href="/plus" class="support-link">
+<button class="support-button box-shadow-1">
+Join Rappler PLUS 
+</button>
+</a>
+</li>                            
+<li class="mdd-info"><a href="#"><i class="fa fa-info-circle"></i></a>
+<ul class="side-nav no-padding menu-dropdown">
+<li>
+<div class="main-wrapper">
+<div class="custom"  >
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<div class="label-wrapper">
+<div class="float-rappler-label rappler-dark-gray bg">ABOUT RAPPLER</div>
+</div>
+<p class="caption">Welcome to Rappler, a social news network where stories inspire community engagement and digitally fuelled actions for social change. Rappler comes from the root words "rap" (to discuss) + "ripple" (to make waves).</p>
+<p class="caption"><a class="rappler-paragraph link" href="https://www.rappler.com/about-rappler/about-us/385-about-rappler">Read more</a></p>
+<div class="row">
+<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+<div class="caption">
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/about-rappler/about-us/197192-rappler-2018-board-directors">Rappler's 2018 Board</a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/about-rappler/about-us/10941-rappler-privacy-statement">Privacy Statement</a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/about-us/1557-contact-us">Contact Us</a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/about-rappler/about-us/6677-the-people-behind-rappler">Rappler's Founding Board</a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/about-rappler/about-us/19840-rappler-community-and-site-use-rules">Terms of Use</a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/about-rappler/about-us/21739-advertise-with-us">Advertise With Us</a></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+<div class="caption">
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/about-rappler/about-us/21743-rappler-team">Rappler Team</a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/indonesia/tentang-kami">Rappler Indonesia Team</a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/about-rappler/about-us/27506-comment-moderation-policy">Comment Moderation Policy<br /></a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/topics">Rappler Index of Topics</a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/previous-articles">Archives</a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/bulletin-board/30113-job-openings-rappler">Job Openings</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+<div class="label-wrapper">
+<div class="float-rappler-label rappler-orange bg"><a class="bg-rappler-orange">OTHER CONTENT</a></div>
+</div>
+<div class="caption"> <a href="https://www.rappler.com/views/animated">Rappler editorials</a> <span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/nation/special-coverage/weather-alert">Weather Forecast Philippines</a> <span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/newsbreak/investigative">Rappler Investigative stories</a> <span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/newsbreak/investigative/beginning-war-on-drugs-philippines">War on drugs</a> <span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/move-ph/issues/disasters">Project Agos for disaster preparedness</a> <span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/entertainment/live-jam/">Rappler Live Jam</a> <span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/newsbreak/in-depth/190522-filipinos-beauty-pageants-series-part-1">Beauty pageant series</a> <span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/world/201354-press-freedom-day-2018">World Press Freedom Day 2018</a> <a class="rappler-paragraph link" href="https://www.rappler.com/move-ph/issues/disasters/response"></a><span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/move-ph/166425-virtual-visita-iglesia-360-degrees-video">Virtual Visita Iglesia</a> <span class="h-spacer" style="opacity: 0.2!important;"></span><span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/?option=com_rappler&amp;task=search&amp;language=english&amp;q=Facebook+data+scandal">Facebook data scandal</a> <span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/move-ph/263-rappler-internship-program-careers">Rappler Internships</a>  <span class="h-spacer" style="opacity: 0.2!important;">•</span> <span class="h-spacer" style="opacity: 0.2!important;"></span><a href="https://ph.rappler.com/elections/2019/race/Philippines/1/Senator/3/year/2019/unofficial">Senatorial election results 2019</a> <span class="h-spacer" style="opacity: 0.2!important;">• </span><a href="https://phvote.rappler.com">#PHVOTE</a> <span class="h-spacer" style="opacity: 0.2!important;">• </span><a href="https://ph.rappler.com/elections/2019/race/Philippines/1/Senator/3/year/2019/unofficial">Senatorial election results 2019</a> <span class="h-spacer" style="opacity: 0.2!important;">• </span><a href="https://ph.rappler.com/elections/2019/race/Philippines/1/Party-list/14/year/2019/OAV">Party-list election results 2019</a> <span class="h-spacer" style="opacity: 0.2!important;">• </span><a href="https://ph.rappler.com/local-elections">Local election results 2019</a> <span class="h-spacer" style="opacity: 0.2!important;">• </span></div>
+</div></div>                                        </div>
+</li>
+</ul>
+</li>
+<li class="mdd-search">
+<a href="#"><i class="fa fa-search"></i></a>
+<ul class="side-nav no-padding menu-dropdown">
+<li id="search-dropdown">
+<div class="main-wrapper">
+<div class="row">
+<div class="col-xs-12 col-sm-4 pull-right">
+<form class="form-inline" role="search" method="GET" action="/">
+<div class="form-input padding right">
+<input type="hidden" name="option" value="com_rappler">
+<input type="hidden" name="task" value="search">
+<input type="hidden" name="language" value="english">
+<input type="text" name="q" placeholder="Search">
+</div>
+<div class="form-addon">
+<button class="rappler-orange bg" type="submit" >Go!</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+</div>
+</div>
+<div class="jt-code">
+</div>
+<div class="wrapper mega-menu-offset header-news-slider">
+<div class="rappler-light-gray bg">
+<div class="main-wrapper">
+<div class="latest-header-slider">
+<div class="controls-container">
+<a class="details rappler-headline link hidden-xs track-header-slider" href="/previous-articles" class="link">LATEST NEWS</a>
+<div class="left-nav-arrow"></div>
+<div class="right-nav-arrow"></div>
+</div>
+<div class="thumbs-container">
+<div id="common-header-slider">
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/nation/259171-chr-online-reporting-portal-gender-based-violence-coronavirus-lockdown" title="CHR launches online reporting portal for gender-based violence during lockdown"><img class="lazyOwl" data-src="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/9C992D8684D04C7486F6437E2EF6CC90/gender-ombud_9C992D8684D04C7486F6437E2EF6CC90.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/nation/259171-chr-online-reporting-portal-gender-based-violence-coronavirus-lockdown" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="CHR launches online reporting portal for gender-based violence during lockdown">
+CHR launches online reporting portal for gender-based violence during lockdown</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/nation" class="rappler-paragraph link track-header-slider">
+Philippines                                        </a>
+</span>
+</div>
+</div>
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/nation/259177-health-workers-coronavirus-cases-philippines-april-27-2020" title="Number of PH health workers positive for coronavirus rises to 1,245"><img class="lazyOwl" data-src="https://assets.rappler.com/3AE2E6A81BBC4B01BF73D213C46AC805/img/B4C3CBC4C2E947C89ED22E1157228E5C/health-workers-testing-covid-19-coronavirus-april-21-2020-001_B4C3CBC4C2E947C89ED22E1157228E5C.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/nation/259177-health-workers-coronavirus-cases-philippines-april-27-2020" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="Number of PH health workers positive for coronavirus rises to 1,245">
+Number of PH health workers positive for coronavirus rises to 1,245</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/nation" class="rappler-paragraph link track-header-slider">
+Philippines                                        </a>
+</span>
+</div>
+</div>
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/entertainment/news/259170-vickie-rushton-takes-tesda-courses-online" title="LOOK: Vickie Rushton takes TESDA courses online"><img class="lazyOwl" data-src="https://assets.rappler.com/082B3CAF5C554BB890EA150BA17E8E99/img/FBD3D12355D64E469CE3E18DFE40D0E8/vickierushton_FBD3D12355D64E469CE3E18DFE40D0E8.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/entertainment/news/259170-vickie-rushton-takes-tesda-courses-online" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="LOOK: Vickie Rushton takes TESDA courses online">
+LOOK: Vickie Rushton takes TESDA courses online</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/entertainment/news" class="rappler-paragraph link track-header-slider">
+Entertainment News                                        </a>
+</span>
+</div>
+</div>
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/sports/by-sport/basketball/pba/259175-leo-austria-coach-of-the-year-2019" title="Leo Austria bests Tim Cone for 2019 PBA Coach of the Year"><img class="lazyOwl" data-src="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/E1AE14E27DEA4D43BE859266695E3DB8/leo_E1AE14E27DEA4D43BE859266695E3DB8.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/sports/by-sport/basketball/pba/259175-leo-austria-coach-of-the-year-2019" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="Leo Austria bests Tim Cone for 2019 PBA Coach of the Year">
+Leo Austria bests Tim Cone for 2019 PBA Coach of the Year</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/sports/by-sport/basketball/pba" class="rappler-paragraph link track-header-slider">
+PBA                                        </a>
+</span>
+</div>
+</div>
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/nation/259164-human-rights-watch-asks-dilg-rein-in-out-of-control-cops" title="Human Rights Watch asks DILG to rein in 'out of control' law enforcers"><img class="lazyOwl" data-src="https://assets.rappler.com/9B770D5BFF2F4C389CC001504B62489D/img/326E101DEC8441DBAE3C45A1864B6E0F/blumentritt-market-pnp-sap-covid-19-coronavirus-april-21-2020-004_326E101DEC8441DBAE3C45A1864B6E0F.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/nation/259164-human-rights-watch-asks-dilg-rein-in-out-of-control-cops" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="Human Rights Watch asks DILG to rein in 'out of control' law enforcers">
+Human Rights Watch asks DILG to rein in 'out of control' law enforcers</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/nation" class="rappler-paragraph link track-header-slider">
+Philippines                                        </a>
+</span>
+</div>
+</div>
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/business/259168-cloudeats-seed-funding-round-coronavirus-pandemic" title="CloudEats raises $1.4 million in seed funding"><img class="lazyOwl" data-src="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/61CDAA5E6AD244FA8584A6995D800C16/webp_61CDAA5E6AD244FA8584A6995D800C16.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/business/259168-cloudeats-seed-funding-round-coronavirus-pandemic" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="CloudEats raises $1.4 million in seed funding">
+CloudEats raises $1.4 million in seed funding</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/business" class="rappler-paragraph link track-header-slider">
+Business                                        </a>
+</span>
+</div>
+</div>
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/nation/259161-supreme-court-told-non-release-vulnerable-prisoners-pandemic-can-cause-riots" title="Supreme Court told: Non-release of vulnerable prisoners can cause riots"><img class="lazyOwl" data-src="https://assets.rappler.com/EEEADAC17ACF4819BF6F6479EC3C3239/img/1EAC5FBFB5404CC48772B23F52018797/quezon-city-jail-afp-april-7-2020_1EAC5FBFB5404CC48772B23F52018797.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/nation/259161-supreme-court-told-non-release-vulnerable-prisoners-pandemic-can-cause-riots" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="Supreme Court told: Non-release of vulnerable prisoners can cause riots">
+Supreme Court told: Non-release of vulnerable prisoners can cause riots</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/nation" class="rappler-paragraph link track-header-slider">
+Philippines                                        </a>
+</span>
+</div>
+</div>
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/entertainment/movies/259154-memories-of-overdevelopment-lockdown-cinema-club" title="Watch Kidlat Tahimik's 'Memories of Overdevelopment' on Lockdown Cinema Club"><img class="lazyOwl" data-src="https://assets.rappler.com/7E7D9659F68C477BBB5ECD476D1549CE/img/8B0395FB0C554B63BB7ABD919609BBDC/20180904_-_kidlat_tahimik_8B0395FB0C554B63BB7ABD919609BBDC.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/entertainment/movies/259154-memories-of-overdevelopment-lockdown-cinema-club" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="Watch Kidlat Tahimik's 'Memories of Overdevelopment' on Lockdown Cinema Club">
+Watch Kidlat Tahimik's 'Memories of Overdevelopment' on Lockdown Cinema Club</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/entertainment/movies" class="rappler-paragraph link track-header-slider">
+Movies                                        </a>
+</span>
+</div>
+</div>
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/life-and-style/best-eats/259160-family-mart-launches-fam-on-wheels-delivery-service-coronavirus-pandemic" title="Family Mart launches 'Fam on Wheels,' delivery service"><img class="lazyOwl" data-src="https://assets.rappler.com/BE35DD11BAD94A9AAF9FB50A7E9982C3/img/E1624CB0D5144AF39CB8ED5C7959C1E2/famonwheelsprphoto_E1624CB0D5144AF39CB8ED5C7959C1E2.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/life-and-style/best-eats/259160-family-mart-launches-fam-on-wheels-delivery-service-coronavirus-pandemic" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="Family Mart launches 'Fam on Wheels,' delivery service">
+Family Mart launches 'Fam on Wheels,' delivery service</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/life-and-style/best-eats" class="rappler-paragraph link track-header-slider">
+Food                                        </a>
+</span>
+</div>
+</div>
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/move-ph/ispeak/259158-opinion-mass-promote-now-no-student-left-behind-coronavirus" title="[OPINION] Mass promote now: No student should be left behind"><img class="lazyOwl" data-src="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/CB7D0B292B98426D813392D884A67E1F/no-student-left-behind-640_CB7D0B292B98426D813392D884A67E1F.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/move-ph/ispeak/259158-opinion-mass-promote-now-no-student-left-behind-coronavirus" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="[OPINION] Mass promote now: No student should be left behind">
+[OPINION] Mass promote now: No student should be left behind</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/move-ph/ispeak" class="rappler-paragraph link track-header-slider">
+iSpeak                                        </a>
+</span>
+</div>
+</div>
+<div style="display: table;">
+<div style="display:table-cell; vertical-align:middle;">
+<h6 class="no-margin small">
+<a href="/previous-articles/" class="rappler-headline link track-header-slider">
+<i class="fa fa-fw fa-arrow-circle-right"></i>View more stories
+</a>
+</h6>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="content" class="main-wrapper">
+<div class="text-center" style="margin: 0 auto;" id="rappler3-common-desktop-premium-billboard">
+<div class="custom"  >
+<div id="Ad_Premium_Billboard" class="wrapper"> 
+</div> 
+</div>
+</div>
+<div class="row">
+<div id="infinite-container" class="col-xs-12 col-sm-8 col-md-8 col-lg-8 infinite-container waypoint print-main-area">
+<div class="infinite-item" id="item-259129">
+<div class="wrapper">
+<span id="count" style="display: none;">1</span><span id="match-ogimg" style="display:none;">MATCH URL: https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/F8C8AA4B4FAC4F1AA6566ACF2748F87F/screenshot.jpg</span>
+<div id="story-area-259129" class="story-area"
+data-article_categories="21,696,31"
+data-article_url="http://www.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police"
+data-article_via=""
+data-article_pubdate="2020-04-27 01:50:07"
+data-article_modifieddate="2020-04-27 06:12:52"
+data-article_authors="Marguerite de Leon"
+data-article_parenttitle="ROOT"
+data-article_cattitle="Philippines"
+data-article_metakey="Dasmarinas Village, Philippine National Police, Makati City, novel coronavirus, coronavirus, COVID-19, coronavirus Philippine updates"
+data-article_title="Man in private village assaulted, nearly arrested without warrant by Makati police">
+<div class="blob-inline"><div class="flex-video widescreen mobile-video-margin"><iframe src="https://www.dailymotion.com/embed/video/x7tjpsy" frameborder="0" width="640" height="360"></iframe></div></div>    
+<div class="form-inline select-cat-tooltip" style="width:100%;">
+<div class="form-addon text-left margin padding right">
+<div class="label-wrapper">
+<div class="float-rappler-label rappler-dark-gray bg" style="text-transform:uppercase">
+<a href="/nation" class="white link" style="white-space: nowrap;text-overflow: ellipsis;">
+Philippines                    </a>
+</div>
+</div>
+</div>
+</div>
+<h1 class="select-headline">Man in private village assaulted, nearly arrested without warrant by Makati police</h1>
+<p class="select-metadesc">
+(UPDATED) Javier Salvador Parra is told to pay a P1,000 fine because his house staff was not wearing a face mask while watering plants within their property    </p>
+<div class="storypage-divider desktop">
+<div class="author-box cxenseignore">
+<div class="flex-reverse wrapper">
+<div class="flex-child">
+<div class="portrait">
+<a href="/authorprofile/marguerite-de-leon">
+<div class="default-profile-pic" style="background-image:url('https://assets.rappler.com/A8BE991C80DD41B5A23A9F9B158F5887/img/56066C122F4740F3A7A73F831917ED16/margie-de-leon-circle.png');"></div>
+</a>
+</div>
+</div>
+<div class="flex-child">
+<div class="flex-reverse byline-container">
+<div class="flex-child">
+<h6 class="byline">
+<a class="rappler-headline link" href="/authorprofile/marguerite-de-leon">
+Marguerite de Leon                                    </a>
+</h6> 
+</div>
+<div class="flex-child">
+<div class="twitter-follow">
+<a class="rappler-paragraph link" target="_blank" href="https://twitter.com/intent/user?screen_name=margie_deleon">
+@margie_deleon                                    </a>
+</div>
+</div>
+</div>
+<div style="width:auto;">
+<div>
+<div class="published">
+Published 9:50 AM, April 27, 2020                                    </div>
+<div class="updated">
+Updated 2:12 PM, April 27, 2020                                                                             </div>
+</div>
+</div>                       
+</div>                        
+</div>
+<div class="storypage-share" id="storypageShare-259129"></div>
+<div class="text-center" style="margin: 0 auto;" id="rappler3-common-desktop-premium_skyscraper">
+<div class="custom"  >
+<div><span>
+<div id="Ad_Premium_Skyscraper" class="wrapper">
+</div>
+</div></div>
+</div>
+</div>
+<div class="cXenseParse">
+<p id="ext-gen3882" class="p1"><img id="F8C8AA4B4FAC4F1AA6566ACF2748F87F" src="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/F8C8AA4B4FAC4F1AA6566ACF2748F87F/screenshot.jpg" class="nolazy" border="0" alt="TACKLED. Parra is thrown to the ground by a Makati police offiical. Screenshot from Parra video " data-parentid="" /><p class="caption">TACKLED. Parra is thrown to the ground by a Makati police offiical. Screenshot from Parra video </p></p>
+<p class="p1">MANILA, Philippines (UPDATED) – A man was physically assaulted and nearly arrested by police in the front yard of his own home in a private Makati subdivision, Sunday, April 26.<span class="Apple-converted-space"> </span></p>
+<p class="p1">Around 6 pm, Javier Salvador Parra, a resident of Dasmariñas Village in Makati City, was told by a house staff member that Makati police, who came in an official vehicle, were outside his home to fine him P1,000 because his helper was not wearing a face mask while watering plants.</p>
+<p>According to a report by the National Capital Region Police Office (NCRPO) on Monday, cops apparently "chanced upon" Parra's helper watering their plants without a face mask, telling her to wear one. Cops were on patrol inside the village, the NCRPO said, because the barangay captain had requested them to do so.</p>
+<p>Parra then went out to confront police about enforcing the mask requirement in his property.<span class="Apple-converted-space"> </span> </p>
+<p><iframe src="https://www.dailymotion.com/embed/video/x7tjrnl" frameborder="0" width="640" height="360"></iframe></p>
+<p class="p1">No law or regulation states that you or your companions must wear face masks in your own private property to prevent the spread of the novel coronavirus. (READ: <a href="https://www.rappler.com/nation/255023-luzon-lockdown-dos-donts-coronavirus">Luzon lockdown: What are the do's and don'ts?)</a> </p>
+<p>Parra faced the unidentified uniformed men – one in fatigues and another in a black shirt – to tell them that a fine was unnecessary.</p>
+<p>In a video captured by cops, Parra was seen cursing at them and asking them to leave his property, telling them to focus instead on enforcing lockdown rules in other areas where people converged.</p>
+<p>This prompted the man in fatigues to arrest Parra. He charged at Parra and tackled him to the ground, causing injuries. (READ: <a href="https://www.rappler.com/nation/259138-pnp-says-man-dasmarinas-village-makati-went-berserk-cursed-police" target="_blank">Makati man went berserk, cursed police – PNP</a>)</p>
+<p class="p1">Parra’s wife, who was capturing the incident on video, also begged the police to stop, telling them that Parra had a severe back injury and that being pushed on the ground was dangerous to his health.<span class="Apple-converted-space"> </span></p>
+<p class="p1">She also asserted that the men had no right to arrest her husband, as they had no warrant for his arrest. With Parra back on his feet, the men continued to attempt an arrest, and told his wife that they would be arresting her, too.<span class="Apple-converted-space"> </span></p>
+<p class="p1">The wife urged her husband to enter their home, closing the front door. The police left not long after.<span class="Apple-converted-space"> </span> </p>
+<p class="p1">“Does Makati police not have better things to do, like stop real criminals? If there was no camera running, would he perhaps have shot me, like the police man did with the mentally challenged man few days ago?” Parra told Rappler. He is referring to <a href="https://www.rappler.com/nation/259077-winston-ragos-burial-libingan-ng-mga-bayani-april-26-2020">the case of Corporal Winston Ragos</a>, a retired military man<span class="Apple-converted-space"> who was </span>suffering from schizophrenia and trauma, and was shot dead by police in Quezon City for supposedly violating lockdown rules.<span class="Apple-converted-space"> </span></p>
+<p class="p1">“My concern is mainly that this police officer and Makati police does this also to the poor…. Filipinos are all in a dire situation with the lockdown, the last thing they need is Makati policemen [wreaking] havoc on Makati citizens,” he added.<span class="Apple-converted-space"> </span><strong><br /></strong><br />Rappler tried to reach the Makati City police regarding the incident but was told they are still verifying the video and are unable to release a statement at this point. We will be updating this story once a statement from the police is released. <strong>– Rappler.com</strong></p>    </div>
+</div>
+<div class="wrapper" style="text-align:center">
+</div>
+<div class="custom"  >
+<div>
+<div>
+<div>
+<style>
+#cv-footer-module-wrapper {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+background-color: lightgray;
+border: solid 1px #f2f2f2;
+padding: 10px;
+margin: 7px 0 24px 0;
+}
+#cv-footer-module-wrapper > p {
+margin-bottom: 8px;
+font-weight: 700;
+text-align: center;
+}
+@media only screen and (max-width: 768px) {
+#cv-footer-module-wrapper {
+padding: 10px;
+margin: -7px 0 17px 0;
+}
+}
+</style>
+</div>
+</div>
+</div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div></div>
+<div class="custom"  >
+<div id="dmRelatedPlayer"></div> 
+<style> 
+@media only screen and (min-width: 768px) { 
+#dmRelatedPlayer{ 
+margin-left: 0em; 
+margin-top: -25px; 
+} 
+} 
+@media only screen and (min-width: 1280px) { 
+#dmRelatedPlayer{ 
+margin-left: 180px; 
+} 
+} 
+@media only screen and (min-width: 1400px) { 
+#dmRelatedPlayer{ 
+margin-left: 180px; 
+} 
+} 
+</style> 
+</div>
+<div class="customhidden-desktop"  >
+<link href="https://cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css"> 
+<style type="text/css"> 
+#newsletterSignUp_widget_wrapper { 
+display: flex; 
+flex-direction: column; 
+align-items: center; 
+justify-content: center; 
+margin-left: 180px; 
+} 
+@media only screen and (max-width: 768px) { 
+#newsletterSignUp_widget_wrapper { 
+margin-left: 0px; 
+} 
+} 
+#mc_embed_signup { 
+clear:left;  
+font-size: calc(14px + (17 - 14) * ((100vw - 400px) / (1600 - 400))); 
+font-family: 'Roboto','Helvetica Neue',Helvetica,Arial,sans-serif;  
+background-color: #f4f4f4; 
+width: 100%; 
+} 
+#mc-embedded-subscribe.button { 
+background-color: #e76229; 
+} 
+#mc_embed_signup_scroll > div:nth-child(2) > div { 
+background-color: #f4f4f4 !important; 
+margin: 2px 0 0 0 !important; 
+} 
+#mc_embed_signup > form > div#mc_embed_signup_scroll > h2 { 
+font-size: calc(17px + (22 - 17) * ((100vw - 400px) / (1600 - 400))); 
+font-family: 'Roboto','Helvetica Neue',Helvetica,Arial,sans-serif;  
+} 
+#mc-embedded-subscribe.button { 
+background-color: #e76229; 
+clear: both; 
+border: 0 none; 
+border-radius: 4px; 
+transition: all 0.23s ease-in-out 0s; 
+color: #FFFFFF; 
+cursor: pointer; 
+display: inline-block; 
+font-size: 15px; 
+font-weight: normal; 
+height: 32px; 
+line-height: 32px; 
+margin: 0 5px 10px 0; 
+padding: 0 22px; 
+text-align: center; 
+text-decoration: none; 
+vertical-align: top; 
+white-space: nowrap; 
+width: auto; 
+} 
+#mc-embedded-subscribe.button:hover { 
+background-color: #e76229; 
+color: #eee; 
+opacity: 0.8; 
+} 
+.mc-field-group > label { 
+font-size: calc(11px + (14 - 11) * ((100vw - 400px) / (1600 - 400))); 
+font-family: 'Roboto','Helvetica Neue',Helvetica,Arial,sans-serif; 
+} 
+div.mc-field-group.input-group { 
+clear: left; 
+position: relative; 
+width: 96%; 
+padding-bottom: 3%; 
+min-height: 50px; 
+margin-top: 6px; 
+} 
+div.mc-field-group.input-group > ul{ 
+margin: 0; 
+padding: 5px 0; 
+list-style: none; 
+} 
+div.mc-field-group.input-group > ul > li > input{ 
+display: inline; 
+height: unset; 
+width: auto; 
+border: none; 
+margin: 3px 1ex; 
+} 
+div.mc-field-group.input-group > ul > li > label{ 
+display: inline; 
+font-size: calc(11px + (14 - 11) * ((100vw - 400px) / (1600 - 400))); 
+font-family: 'Roboto','Helvetica Neue',Helvetica,Arial,sans-serif; 
+} 
+.required.email { 
+color: #000 !important; 
+} 
+</style> 
+<div id="newsletterSignUp_widget_wrapper"> 
+<div id="mc_embed_signup"> 
+<form action="https://rappler.us4.list-manage.com/subscribe/post?u=81b6ec9d9be6b6261a822deb0&amp;id=d18b1557b8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" autocomplete="on" novalidate> 
+<div id="mc_embed_signup_scroll"> 
+<h2>Subscribe</h2> 
+<div class="mc-field-group"> 
+<label for="mce-EMAIL">Email Address </label> 
+<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on"> 
+</div> 
+<div class="mc-field-group input-group"> 
+<strong>Newsletters </strong> 
+<ul> 
+<li><input type="checkbox" value="2" name="group[16005][2]" id="mce-group[16005]-16005-1" checked><label for="mce-group[16005]-16005-1">Glenda Gloria's Take this Tuesday</label></li> 
+<li><input type="checkbox" value="4" name="group[16005][4]" id="mce-group[16005]-16005-2" checked><label for="mce-group[16005]-16005-2">Huddle by Miriam Grace Go</label></li> 
+<li><input type="checkbox" value="8" name="group[16005][8]" id="mce-group[16005]-16005-3" checked><label for="mce-group[16005]-16005-3">The Newsbreak Agenda by Chay Hofileña</label></li> 
+<li><input type="checkbox" value="16" name="group[16005][16]" id="mce-group[16005]-16005-4" checked><label for="mce-group[16005]-16005-4">Sometimes, all you need is video by Lilibeth Frondoso</label></li> 
+</ul> 
+</div> 
+<div id="mce-responses" class="clear"> 
+<div class="response" id="mce-error-response" style="display:none"></div> 
+<div class="response" id="mce-success-response" style="display:none"></div> 
+</div> 
+<div style="position: absolute; left: -5000px;" aria-hidden="true"> 
+<input type="text" name="b_81b6ec9d9be6b6261a822deb0_d18b1557b8" tabindex="-1" value=""> 
+</div> 
+<div class="clear rapplerSubmit"> 
+<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div> 
+</div> 
+</form> 
+</div> 
+</div> 
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div></div>
+</div>
+<div id="taboola-below-article-thumbnails-259129"></div>
+<div id="story-ad-bottom-259129"></div>
+<div id="metakeyword_content-259129" style="display:none"><div class="rappler3-metakey"><b>Filed under:</b><a href="/previous-articles?filterMeta=COVID-19" title="COVID-19">COVID-19</a><span class="bullet-list">&#8226;</span><a href="/previous-articles?filterMeta=Makati%20City" title="Makati City">Makati City</a><span class="bullet-list">&#8226;</span><a href="/previous-articles?filterMeta=Philippine%20National%20Police" title="Philippine National Police">Philippine National Police</a><span class="bullet-list">&#8226;</span><a href="/previous-articles?filterMeta=coronavirus" title="coronavirus">coronavirus</a><span class="bullet-list">&#8226;</span><a href="/previous-articles?filterMeta=coronavirus%20Philippine%20updates" title="coronavirus Philippine updates">coronavirus Philippine updates</a><span class="bullet-list">&#8226;</span><a href="/previous-articles?filterMeta=novel%20coronavirus" title="novel coronavirus">novel coronavirus</a><span class="bullet-list">&#8226;</span><a href="/previous-articles?filterMeta=Dasmarinas%20Village" title="Dasmarinas Village">Dasmarinas Village</a></div></div>
+</div>
+<div id="comments-tag-area-259129" class="wrapper">
+<div class="form-block">
+<div class="form-input">
+<div class="visible-lg">
+<div id="rappler3-metakey-wrapper-259129"></div>
+</div>
+</div>
+<div class="form-button">
+<button id="countbtn" style="min-width:180px" class="rappler-orange bg block" type="button" data-toggle="collapse" data-target="#comments-container_259129" aria-expanded="false" aria-controls="comments-container">
+Leave a comment <i class="fa-angle-down fa"></i>
+<span id="contcount_259129"></span>
+</button>
+</div>
+</div>
+<div class="collapse" id="comments-container_259129">
+<div id="article_comments_259129" class="collapse" style="margin-top:16px;"></div>
+</div>
+</div>
+<div id="story-separator-ads" class="wrapper" style="text-align:center;">
+<div class="text-center wrapper" style="min-height:50px; max-height:100px; min-width:320px; width: 100%;" id="rappler3-common-desktop-tablet-bottom-ad">
+<div id='Ad_Bottom'>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a class="infinite-more-link" href="/"></a>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 print-invisible" style="position: relative;">
+<div id="sidebar-upper">
+<div class="text-center wrapper" style="min-height:200px; min-width:320px;" id="rappler3-common-desktop-top-ad">
+<div class="custom"  >
+<div><span>
+<div id="Ad_Rectangle_Top">
+</div>
+</div></div>
+</div>
+<div class="wrapper text-center">
+</div>
+</div>
+<div style="position:relative; width: 100%;">
+<div id="sidebar-others" style="width:100% !important;">
+<div class="flip-container">
+<div class="flipper">
+<div class="front">
+<div class="rappler-light-gray bg box-shadow-1 wrapper">
+<div class="mm-new wrapper" data-article_id="259129">
+<div id="mood-meter-title" class="rappler-label rappler-orange bg" style="text-transform:uppercase;">
+HOW DOES THIS STORY MAKE YOU FEEL?</div>
+<div id="mood-clicked" style="display:none;"></div>
+<div class="text-center mm-circle-container padding all" style="max-width: 360px; margin: 0 auto;">
+<div style="margin: 0 auto;" id="dot-mm">
+<div class="dot_mmm_circle happy bg active" rel="1" data-event-category="Reader Intel" data-event-action="Mood Meter Vote" data-event-label="Happy:http://www.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police">
+<br><strong class="happy bg"></strong>
+<br>Happy</div>
+<div class="dot_mmm_circle sad bg active" rel="2" data-event-category="Reader Intel" data-event-action="Mood Meter Vote" data-event-label="Sad:http://www.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police">
+<br><strong class="sad bg"></strong>
+<br>Sad</div>
+<div class="dot_mmm_circle angry bg active" rel="3" data-event-category="Reader Intel" data-event-action="Mood Meter Vote" data-event-label="Angry:http://www.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police">
+<br><strong class="angry bg"></strong>
+<br>Angry</div>
+<div class="dot_mmm_circle dontcare bg active" rel="4" data-event-category="Reader Intel" data-event-action="Mood Meter Vote" data-event-label="DontCare:http://www.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police">
+<br><strong class="dontcare bg"></strong>
+<br>Don't Care</div>
+<div class="dot_mmm_circle inspired bg active" rel="5" data-event-category="Reader Intel" data-event-action="Mood Meter Vote" data-event-label="Inspired:http://www.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police">
+<br><strong class="inspired bg"></strong>
+<br>Inspired</div>
+<div class="dot_mmm_circle afraid bg active" rel="6" data-event-category="Reader Intel" data-event-action="Mood Meter Vote" data-event-label="Afraid:http://www.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police">
+<br><strong class="afraid bg"></strong>
+<br>Afraid</div>
+<div class="dot_mmm_circle amused bg active" rel="7" data-event-category="Reader Intel" data-event-action="Mood Meter Vote" data-event-label="Amused:http://www.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police">
+<br><strong class="amused bg"></strong>
+<br>Amused</div>
+<div class="dot_mmm_circle annoyed bg active" rel="8" data-event-category="Reader Intel" data-event-action="Mood Meter Vote" data-event-label="Annoyed:http://www.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police">
+<br><strong class="annoyed bg"></strong>
+<br>Annoyed</div>
+</div>
+<div id='mood-all' style='height: auto; width:336px; margin:16px auto 0 auto;' class="mm-preloader">
+<div class="custom"  >
+<div id="Ad_Rectangle_Moods" style="height: auto; width: 336px;"> 
+</div> 
+</div>
+</div>
+</div>
+<div id="mood-meter-dominant" class="rappler-label-top bg" style="text-transform:uppercase;display:block;">
+</div>
+</div>
+</div>
+</div>
+<div class="back">
+<div class="rappler-light-gray bg box-shadow-1 padding all">
+<div class="form-inline" style="width:100%;">
+<div class="form-addon padding right">
+<button class="rappler-dark-gray bg" id="mood-back">
+<i class="fa fa-angle-left"></i> Back
+</button>
+</div>
+<div id="voteshare" class="form-addon" style="float:right;"></div>
+</div>
+<hr>
+<div>
+<p style="font-size:18px;" class="no-margin">
+These stories made other people <b id="mood-clicked-after"></b>
+</p>
+<label>Check them out!</label>
+</div>
+<div class="padding all mm-preloader" id="mood-sponsorship" style="display: none;">
+</div>
+<span id="latestmoodstories"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="mmm_popup_thanks" class="text-left modal fade" tabindex="-1" role="dialog" aria-labelledby="popupmodal" aria-hidden="true">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<br>
+<h4 id="mmm_thankyou_title" class="modal-title" style="text-align:center"></h4>
+<h6 style="text-align:center">Would you like to share your vote?</h6>
+</div>
+<div class="modal-body" style="padding-left:0; padding-right:0; padding-bottom:16px;">
+<div id="mmm_thankyou_share" style="margin:0 auto 16px auto;width:155px;"></div>
+<div id="mobile-mood-sponsorship" class="mm-preloader" style="margin: 0 auto 0 auto; display: none;"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer-wrapper" class="wrapper footer padding print-invisible">
+<div class="main-wrapper">
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<div class="custom"  >
+<div class="label-wrapper">
+<div class="float-rappler-label rappler-orange bg"><a class="white link" href="#">ABOUT RAPPLER</a></div>
+</div>
+<p class="caption light">Welcome to Rappler, a social news network where stories inspire community engagement and digitally fuelled actions for social change. Rappler comes from the root words "rap" (to discuss) + "ripple" (to make waves).</p>
+<p class="caption light"><a class="white link" href="https://www.rappler.com/about-rappler/about-us/385-about-rappler">Read more</a></p>
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<ul class="caption light side-nav2">
+<li><a class="white link" href="https://www.rappler.com/about-rappler/about-us/6677-the-people-behind-rappler">Rappler's Founding Board</a></li>
+<li><a class="white link" href="https://www.rappler.com/about-rappler/about-us/197192-rappler-2018-board-directors">Rappler's 2017-2018 Board</a></li>
+<li><a class="white link" href="https://www.rappler.com/about-rappler/about-us/197192-rappler-2018-board-directors">Rappler's 2019 Board of Directors</a></li>
+<li><a class="white link" href="https://www.rappler.com/about-rappler/about-us/21743-rappler-team">Rappler Team</a></li>
+<li><a class="white link" href="https://www.rappler.com/indonesia/tentang-kami">Rappler Indonesia Team</a></li>
+<li><a class="white link" href="https://www.rappler.com/topics">Rappler Index of Topics</a></li>
+<li><a class="white link" href="https://www.rappler.com/previous-articles">Archives</a></li>
+<li><a class="white link" href="https://x.rappler.com">X</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<ul class="caption light side-nav2">
+<li><a class="white link" href="https://www.rappler.com/about-rappler/about-us/10941-rappler-privacy-statement">Privacy statement</a></li>
+<li><a class="white link" href="https://www.rappler.com/about-rappler/about-us/19840-rappler-community-and-site-use-rules">Terms of Use</a></li>
+<li><a class="white link" href="https://www.rappler.com/about-rappler/about-us/27506-comment-moderation-policy">Comment moderation Policy</a></li>
+<li><a class="white link" href="https://www.rappler.com/bulletin-board/30113-job-openings-rappler">Job Openings</a></li>
+<li><a class="white link" href="https://www.rappler.com/advertise">Advertise With Us</a></li>
+<li><a class="white link" href="https://www.rappler.com/about-us/1557-contact-us">Contact Us</a></li>
+</ul>
+</div>
+</div></div>
+<div class="custom"  >
+<style type="text/css">
+.cp-slider-popup {
+position: fixed;
+width: 100%;
+left: 0;
+right: 0;
+bottom: 0;
+z-index: 99999;
+}
+.cp-wrapper {
+position: relative;
+}
+.close-button {
+color: #fff;
+cursor: pointer;
+font-size: 30px;
+width: 35px;
+height: 35px;
+position: absolute;
+top: 5px;
+right: 5px;
+z-index: 100000;
+}
+</style>
+<div class="cp-slider-popup">
+<div class="cp-wrapper">
+<div class="close-button">
+<i class="fa fa-times-circle"></i>
+</div>
+<div>
+<div id="cookie-popup-rappler"></div>
+</div>
+</div>
+</div>
+<div id="emailPopupDiv" style="position: fixed;"></div> 
+</div>
+<div class="custom"  >
+<div> 
+<IMG SRC="https://ad.doubleclick.net/ddm/trackimp/N186801.1915385RAPPLER1/B21975308.233584330;dc_trk_aid=431335536;dc_trk_cid=100061672;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?" BORDER="0" HEIGHT="1" WIDTH="1" ALT="Advertisement"> 
+<IMG SRC="https://ad.doubleclick.net/ddm/trackimp/N186801.1915385RAPPLER/B22021840.235006653;dc_trk_aid=432468630;dc_trk_cid=100061672;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?" BORDER="0" HEIGHT="1" WIDTH="1" ALT="Advertisement"> 
+<IMG SRC="https://ad.doubleclick.net/ddm/trackimp/N186801.1915385RAPPLER/B22021840.235006653;dc_trk_aid=432468630;dc_trk_cid=100061672;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?" BORDER="0" HEIGHT="1" WIDTH="1" ALT="Advertisement"> 
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<div class="custom"  >
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 hidden-xs">
+<div class="label-wrapper">
+<div class="float-rappler-label rappler-orange bg"><a class="white link">SECTIONS</a></div>
+</div>
+<ul class="caption light side-nav2">
+<li><a class="white link" href="https://www.rappler.com/news">News</a></li>
+<li><a class="white link" href="https://www.rappler.com/video">Video</a></li>
+<li><a class="white link" href="https://www.rappler.com/business">Business</a></li>
+<li><a class="white link" href="https://www.rappler.com/newsbreak">Newsbreak</a></li>
+<li><a class="white link" href="https://www.rappler.com/move-ph">MovePH</a></li>
+<li><a class="white link" href="https://www.rappler.com/views">Views</a></li>
+<li><a class="white link" href="https://www.rappler.com/life-and-style">Life &amp; Style </a></li>
+<li><a class="white link" href="https://www.rappler.com/entertainment">Entertainment</a></li>
+<li><a class="white link" href="https://www.rappler.com/sports">Sports</a></li>
+<li><a class="white link" href="https://www.rappler.com/technology">Tech</a></li>
+<li><a class="white link" href="https://live.rappler.com">Live</a></li>
+<li><a class="white link" href="https://www.rappler.com/brandrap">BrandRap</a></li>
+<li><a class="white link" href="https://www.rappler.com/nation/special-coverage/weather-alert" target="_blank"><span>Weather in the Philippines</span></a></li>
+<li><a class="white link" href="https://www.rappler.com/move-ph/issues/disasters" target="_blank">Disasters</a></li>
+<li><a class="white link" href="https://www.rappler.com/life-and-style/travel" target="_blank">Travel destinations</a></li>
+<li><a class="white link" href="https://coupons.rappler.com" target="_blank" rel="nofollow">Coupons</a></li>
+<li><a class="white link" href="https://ph.rappler.com/elections/2019" target="_blank" rel="nofollow">#PHVOTE</a></li>
+<li><a class="white link" href="https://ph.rappler.com/elections/2019/race/Philippines/1/Senator/3/year/2019/unofficial" target="_blank" rel="nofollow">Senatorial election results 2019</a></li>
+<li><a class="white link" href="https://ph.rappler.com/elections/2019/race/Philippines/1/Party-list/14/year/2019/OAV" target="_blank" rel="nofollow">Party-list election results 2019</a></li>
+<li><a class="white link" href="https://ph.rappler.com/local-elections" target="_blank" rel="nofollow">Local election results 2019</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 hidden-xs">
+<div class="label-wrapper">
+<div class="float-rappler-label rappler-orange bg"><a class="white link">COMMUNITY</a></div>
+</div>
+<ul class="caption light side-nav2">
+<li><a class="white link" href="https://www.facebook.com/rapplerdotcom">Facebook</a></li>
+<li><a class="white link" href="https://twitter.com/rapplerdotcom">Twitter</a></li>
+<li><a class="white link" href="https://plus.google.com/+Rappler/posts">Google+</a></li>
+<li><a class="white link" href="https://www.youtube.com/rappler">Youtube</a></li>
+<li><a class="white link" href="https://instagram.com/rappler">Instagram</a></li>
+<li><a class="white link" href="https://play.google.com/store/apps/details?id=com.rappler.RapplerMobile">Android</a></li>
+<li><a class="white link" href="https://itunes.apple.com/ph/app/rappler/id600797927?mt=8&amp;ign-mpt=uo%3D4">iOS</a></li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div> 
+<style>
+#userlogin_modal .form-addon {
+width:15% !important;
+text-align: right;
+padding-right: 4px;
+}
+#userupd_modal .form-addon,
+#userreg_modal .form-addon {
+width:17% !important;
+text-align: right;
+padding-right: 4px;
+}
+#userreg_modal .subscription_chk .form-addon,
+#userreg_modal .terms_chk .form-addon {
+width:100px !important;
+}
+.form-inline {
+margin-bottom: 12px;
+}
+</style>
+<div id="usererror_modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="login" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+<h3 id="usererror_modal_header" class="thin-margin">Error</h3>
+</div>
+<div id="usererror_modal_body" class="modal-body">
+An unknonw error has occurred. Please try again later.
+</div>
+<div class="modal-footer">
+<button class="rappler-red bg" data-dismiss="modal" aria-hidden="true">Ok</button>
+</div>
+</div>
+</div>
+</div>
+<div id="userlogin_modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="login" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+<h3 id="userlogin_modal_header" class="thin-margin">Login</h3>
+</div>
+<div class="modal-body">
+<div id="frm_login_error" class="alert alert-danger hide" style="text-align:center;color:red"></div>
+<form id="frm_login" role="form">
+<br/>
+<fieldset>
+<div class="form-inline">
+<div class="form-addon">
+<p class="no-margin caption">Email:</p>
+</div>
+<div class="form-input" style="margin-bottom: 12px;">
+<input type="text" id="login_id" class="usr_text" name="login_id" value="" placeholder="me@rappler.com" required="required" autocomplete="on">
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+<p class="no-margin caption">Password:</p>
+</div>
+<div class="form-input">
+<input type="password" id="login_password" class="usr_text" name="login_password" value="" placeholder="******" required="required" autocomplete="on" />
+</div>
+</div>
+</fieldset>
+</form>
+</div>
+<div class="modal-footer">
+<img id="frm_login_loader" src="https://static.rappler.com/templates/rappler3_default/img/AjaxLoader.gif" class="hide nolazyload" style="margin: 0 auto; text-align: center;">
+<div style="margin: 0 15%;">
+<button id="btn_login_submit" class="rappler-orange bg" type="button" style="width: 49%;">Login</button>
+<button id="btn_login_cancel" class="rappler-neutral bg" data-dismiss="modal" style="width: 49%;">Cancel</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="userreg_modal" class="fade modal" tabindex="-1" role="dialog" aria-labelledby="registration" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+<span id="userreg_modal_header_container">
+<h3 id="userreg_modal_header" class="thin-margin">Register for a RAPPLER Account</h3>
+</span>
+</div>
+<div class="modal-body" style="padding-top:10px; padding-bottom: 0px;">
+<div id="reg_thankyou" class="hero-unit hide" style="text-align:center">
+<p>Thank You.
+<span id="reg_custommsg"></span>
+<br>View your profile page
+<a href="/index.php?option=com_rappler&task=userprofile&layout=userprofile">here</a> OR
+<br>Click close to continue.
+</p>
+</div>
+<form id="frm_register" role="form">
+<fieldset>
+<p class="details">Fields with <b>*</b> are required.</p>
+<div class="form-inline">
+<div class="form-addon">
+<p class="no-margin caption">Email*:</p>
+</div>
+<div class="form-input">
+<input type="email" id="reg_email" class="usr_text" name="email" value="" placeholder="email@rappler.com*" required="required" autocomplete="on">
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+<p class="no-margin caption">Password*:</p>
+</div>
+<div class="form-input">
+<input type="password" id="reg_password" class="usr_text" name="password" value="" placeholder="*******" required="required" autocomplete="off" />
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+<p class="no-margin caption">First Name:</p>
+</div>
+<div class="form-input">
+<input type="text" id="reg_first_name" class="usr_text" name="first_name" value="" placeholder="Juan" autocomplete="on" />
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+<p class="no-margin caption">Last Name:</p>
+</div>
+<div class="form-input">
+<input type="text" id="reg_last_name" class="usr_text" name="last_name" value="" placeholder="dela Cruz" autocomplete="on" />
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+<p class="no-margin caption">Birthday:</p>
+</div>
+<div class="form-input">
+<input type="text" id="reg_birthdate" class="usr_text" name="birthdate" value="" autocomplete="off" />
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+<p class="no-margin caption">Gender:</p>
+</div>
+<div class="form-input">
+<select id="reg_gender" name="gender" class="usr_select" style="width:100%;">
+<option value="select">Select gender</option>
+<option value="male">Male</option>
+<option value="female">Female</option>
+</select>
+</div>
+</div>
+<div class="terms_chk" style="border-top: 1px solid #f4f4f4; margin-top: 30px; padding-top: 30px;">
+<div class="form-inline">
+<div class="form-addon">
+<input type="checkbox" name="agree" id="agree" value="YES" />
+</div>
+<div id="reg_agree_text" class="form-input" style="padding-left: 4px;">
+<p class="no-margin caption">I've read the Rappler <a href="http://www.rappler.com/about-rappler/about-us/10941-rappler-privacy-statement">privacy statement</a>, <a href="http://www.rappler.com/about-rappler/about-us/19840-rappler-community-and-site-use-rules">site use policy</a>, <a href="http://www.rappler.com/about-rappler/about-us/27506-comment-moderation-policy">comment moderation policy</a></p>
+</div>
+</div>
+</div>
+</fieldset>
+</form>
+</div>
+<div class="modal-footer">
+<div id="frm_register_error" class="alert alert-error hide" style="padding:10px;color:red"></div>
+<img id="frm_register_loader" src="https://static.rappler.com/templates/rappler3_default/img/AjaxLoader.gif" class="hide" class="nolazyload">
+<div style="margin: 0 17%;">
+<button id="btn_usr_submit" class="rappler-orange bg" type="button" style="width: 49%;">Submit</button>
+<button id="btn_usr_cancel" class="rappler-neutral bg" data-dismiss="modal" aria-hidden="true" style="width: 49%;">Cancel</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="userupd_modal" class="rappler_bmodal modal" tabindex="-1" role="dialog" aria-labelledby="registration" data-backdrop="static" data-keyboard="false" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span></button>
+<span id="userupd_modal_header_container">
+<h3 id="userupd_modal_header" class="thin-margin">Update your information</h3>
+<p id="userupd_modal_subheader" class="details"> Fields with <b>*</b> are required. </p>
+</span>
+</div>
+<div class="modal-body">
+<div id="upd_thankyou" class="jumbotron hide" style="text-align:center">
+<p>Thank You.<br>You have successfully updated your account.</p>
+</div>
+<form id="frm_update">
+<input type="hidden" id="upd_sendconfirm" name="sendconfirmation" value="0" />
+<div id="frm_update_error" style="color:red;margin:10px" class="alert alert-error hide"></div>
+<fieldset>
+<div class="form-inline">
+<div class="form-addon">
+First Name:
+</div>
+<div class="form-input">
+<input type="text" id="upd_first_name" class="usr_text" name="first_name" value="" placeholder="Enter First Name*" required="required" autocomplete="off" />
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+Last Name:
+</div>
+<div class="form-input">
+<input type="text" id="upd_last_name" class="usr_text" name="last_name" value="" placeholder="Enter Last Name" required="required" autocomplete="off" />
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+Email:
+</div>
+<div class="form-input">
+<input type="email" id="upd_email" class="usr_text" name="email" value="" placeholder="Enter Email*" required="required" autocomplete="off" />
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+Birthday: <br>(YYYY-MM-DD)
+</div>
+<div class="form-input">
+<input type="text" id="upd_birthdate" class="usr_text" name="birthdate" value="" autocomplete="off" />
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+City/Municipality:
+</div>
+<div class="form-input">
+<input type="text" id="upd_city" class="usr_text" name="city" value="" autocomplete="off">
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+Province:
+</div>
+<div class="form-input">
+<input type="text" id="upd_province" class="usr_text" name="province" value="" autocomplete="off">
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+Gender:
+</div>
+<div class="form-input">
+<select id="upd_gender" name="gender" class="usr_select" style="width:100%;">
+<option value="select">Select gender</option>
+<option value="male">Male</option>
+<option value="female">Female</option>
+</select>
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+Contact Number:
+</div>
+<div class="form-input">
+<input type="text" id="upd_contactno" class="usr_text" name="contactno" value="">
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+School/Work:
+</div>
+<div class="form-input">
+<input type="text" id="upd_org" class="usr_text" name="org" value="" autocomplete="off">
+</div>
+</div>
+</fieldset>
+</form>
+</div>
+<div class="modal-footer">
+<img id="frm_update_loader" src="https://static.rappler.com/templates/rappler3_default/img/AjaxLoader.gif" class="hide nolazyload">
+<button id="btn_usrupd_cancel" class="rappler-red bg" data-dismiss="modal" aria-hidden="true">Cancel</button>
+<button id="btn_usrupd_submit" class="rappler-orange bg" type="button">Submit</button>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+var mm_server = 'https://mm.rappler.com';
+var fbkey='129650183806730';
+var userServiceUrl = 'https://i.rappler.com/prod';
+var isSharingImageTextEnabled = false; 
+WebFont.load({
+google: {
+families: ['Roboto: 300,400,700', 'Roboto Condensed: 300,400,700']
+}
+});
+(function() {
+var css = document.createElement('link');
+css.href = 'https://assets.rappler.com/75896611AEC64769BABA100A7D0AC04C/doc/8203A77706A24CC7948038F87356B4D9/font-awesome.min.css';
+css.rel = 'stylesheet';
+css.type = 'text/css';
+document.getElementsByTagName('head')[0].appendChild(css);
+})();
+</script>
+<script> firebase.initializeApp({"apiKey":"AIzaSyD76aY5bs3I63Uu-yXfxlh_e7shH7bdePU","authDomain":"rapplerprod.firebaseapp.com","databaseURL":"https://rapplerprod.firebaseio.com","projectId":"rapplerprod","storageBucket":"rapplerprod.appspot.com","messagingSenderId":"324930496467"}); </script> 
+<script src="https://www.googletagmanager.com/gtag/js?id=UA-26553497-1" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/16.4.2/umd/react.production.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.4.2/umd/react-dom.production.min.js" type="text/javascript"></script>
+<script src="https://assets.rappler.com/widgets/CookiePopup.js" type="text/javascript"></script>
+<script src="https://assets.rappler.com/widgets/EmailPopup.js" type="text/javascript"> 
+</script>
+<script src="https://cdn.innity.net/zone.js" type="text/javascript"></script>
+<script src="https://static.rappler.com/cache/assets/1569373887-420b9f52da7bd6c903c8f34f21999b03.js" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery(document).ready(function() { if(typeof(setInitialContentId)=='function'&&typeof(initContentId)=='undefined') { setInitialContentId( '259129', "http://www.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police", "Man in private village assaulted, nearly arrested without warrant by Makati police", "(UPDATED) Javier Salvador Parra is told to pay a P1,000 fine because his house staff was not wearing a face mask while watering plants within their property"); }});$(document).ready(function(a) {
+setTimeout(function(b) {
+$(window.location.hash).modal("show");
+},2000);
+});
+$(document).ready(function() {
+if($("div.js-megamenu img").length>0) {
+$("div.js-megamenu img").lazyload({event:"megamenu"});
+}
+if($("#latest-news-carousel img").length>0) {
+$("#latest-news-carousel img").lazyload({event:"latestnewscarousel"});
+}
+if($("#rappler3-related-carousel img").length>0) {
+$("#rappler3-related-carousel img").lazyload({event:"relatedcarousel"});
+}
+$("img").lazyload({effect:"fadeIn",skip_invisible:false,failure_limit:50});
+});
+!function (e, f, u) {   e.async = 1; e.src = u; f.parentNode.insertBefore(e, f);}(document.createElement('script'), document.getElementsByTagName('script')[0], '//cdn.taboola.com/libtrc/rappler-rappler/loader.js');
+var gigya = null;
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1552358998376092');
+fbq('track', 'PageView');
+var fbkey="129650183806730"
+var gbl_iscomponent       = false;
+var user_agent            = 'Amazon CloudFront';
+var isAndroid = user_agent.toLowerCase().indexOf('android') > -1;
+//gamification
+var gm_view = 'article';
+var published_state = '1';
+var enable_state = '1';
+var enableInlineRecomendations = 1;
+var deviceType = 'desktop';
+var adInlineWordCount = '400';
+_atrk_opts = { atrk_acct:"Jv+uf1agkf00Of", domain:"rappler.com",dynamic: true}; (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+// <![CDATA[
+wrapDFPWithCxsense('Ad_Script');
+// ]]>
+// <![CDATA[
+wrapDFPWithCxsense('Ad_OOP');
+// ]]>
+$(document).ready(function() {
+var userAgent = window.navigator.userAgent.toLowerCase(),
+safari = /safari/.test( userAgent ),
+ios = /iphone|ipod|ipad/.test( userAgent );
+if( ios ) {
+if ( safari ) {
+//browser
+$('.support-button').css('display','inline-block');
+} else if ( !safari ) {
+//webview
+};
+} else {
+$('.support-button').css('display','inline-block');
+};                
+});
+$(document).ready(function() {
+var owl = $("#common-header-slider");
+owl.owlCarousel({
+items : 5,
+itemsDesktop : [1400,4],
+itemsDesktopSmall : [1100,3],
+itemsTablet: [768,2],
+itemsMobile : [480,1],
+lazyLoad : true,
+rewindNav : false
+});
+// Custom Navigation Events
+$(".right-nav-arrow").click(function(){
+owl.trigger('owl.next');
+})
+$(".left-nav-arrow").click(function(){
+owl.trigger('owl.prev');
+})
+});
+wrapDFPWithCxsense('Ad_Premium_Billboard');
+wrapDFPWithCxsense('Ad_Premium_Skyscraper');
+var getThirdToTheLastChild;
+getThirdToTheLastChild = $('div.auto-mood-meter').length <= 0 ? "div.cXenseParse p:nth-child(9)" : "div.auto-mood-meter p:nth-child(9)";
+$(getThirdToTheLastChild).after( `
+<div id="cv-footer-module-wrapper">
+<p>To stay updated on news, advisories, and explainers, check out our <a href="https://www.rappler.com/nation/250663-novel-coronavirus-outbreak" target="_blank">special coverage page, “Novel Coronavirus Outbreak.”</a></p>
+</div>`);
+//id of div where init the player 
+const divId = "dmRelatedPlayer"; 
+//xid of video to fallback 
+let fallbackVideo = ""; 
+//Minimum length of words to keep 
+const minWordLength = 3; 
+//Minimum words to perform a search: while no results it will removes a word and retry search 
+const minWordSearch = 2; 
+//Maximum of words used for the search: more words you keep, less are chances to get a result 
+const maxWordSearch = 10; 
+//Category to filter. List of available values: https://api.dailymotion.com/channels 
+const category = ""; 
+//language of videos. List of available values here: https://developer.dailymotion.com/api/partners#languages 
+const language = ""; 
+//Which sort to use. List of available values: https://developer.dailymotion.com/api#video-sort-filter 
+const sort = "relevance"; 
+//xid OR username of the channels to search separated by "," 
+const owners = "rapplerdotcom"; 
+//xid of videos to exclude separated by "," 
+const excludeIds = ""; 
+//search in a playlit ? provide playlist xid OR false 
+const searchInPlaylist = false; 
+let videoTitle = ""; 
+/** 
+* Takes a string and returns keywords following some rules 
+*  
+* @param title {string} a sentence 
+* @returns {array} keywords 
+*/ 
+const sanitizeTitle = function(title){ 
+return title.replace(/[^\u3131-\uD79D a-zA-Z0-9 \u00C0-\u00FF \u0153]/g, ' ') 
+.split(' ') 
+.filter(word => word.length >= minWordLength); 
+} 
+/** 
+* Find keywords from the current page using og:title or h1 tags 
+*  
+* @returns {Array} keywords 
+*/ 
+const findKeywords = function(){ 
+let title = document.querySelector("meta[name='keywords']"); 
+if(title !== null) title = title.getAttribute("content"); 
+if(title !== null) title = sanitizeTitle(title); 
+if((title === null || title.length === 0) && document.getElementsByTagName("h1")[0] !== undefined) 
+title = sanitizeTitle(document.getElementsByTagName("h1")[0].textContent); 
+return title; 
+} 
+let searchParams = {  
+'fields': 'id,title', 
+'sort': sort, 
+'limit': 1, 
+'search': findKeywords().sort((a, b) => b.length - a.length).slice(0, maxWordSearch).join(' ') 
+}; 
+if(!searchInPlaylist){  
+searchParams.private = 0; 
+searchParams.flags = "no_live,exportable" + (owners.length > 0? "": ",verified"); 
+searchParams.longer_than = 0.35; //21sec 
+if(owners){ searchParams.owners = owners; } 
+if(category){ searchParams.channel = category; } 
+if(excludeIds){ searchParams.exclude_ids = excludeIds; } 
+} 
+if(language){ searchParams.language = language; } 
+let playerParams = { 
+'width': "100%", 
+'height': "100%", 
+'video': fallbackVideo, 
+} 
+const initRelatedPlayer = function() { 
+if (document.getElementById(divId) !== null) { 
+let elm = document.getElementById(divId); 
+let stickyContainer = document.createElement("div"); 
+stickyContainer.setAttribute("class", "stickyContainer"); 
+stickyContainer.setAttribute("style", "margin: 60px 0 50px 0; width: 100%; z-index: 999; display: block;"); 
+stickyContainer.innerHTML = '<p style="text-align: center; color: #333333; margin: 0px; line-height: 26px; font-size: 20px; padding-top: 10px; font-weight: bold;">See Also</p>'; 
+//stickyContainer.innerHTML += ''; 
+stickyContainer.innerHTML += '<div class="dailyWrapper" style="padding: 10px 20px 0px 20px;"><div class="dailymotion-cpe" video-id="' + playerParams.video + '"></div></div>'; 
+stickyContainer.innerHTML += '<p class="titleVideo" style="text-align: center; margin: 0; font-size: 16px!important; line-height: 18px!important; text-overflow: ellipsis; white-space: nowrap; padding: 16px!important; overflow: hidden; color: dimgrey;"> '+ videoTitle + '</p>'; 
+let cpeId = "5d5d0adac52b3f465d7bb0e3"; 
+if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) 
+cpeId = "5d9ff7aa9be440000e04bfb5"; 
+elm.appendChild(stickyContainer); 
+(function(w,d,s,u,n,i,f,g,e,c){w.WDMObject=n;w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments);};w[n].l=1*new Date();w[n].i=i;w[n].f=f;w[n].g=g;e=d.createElement(s);e.async=1;e.src=u;c=d.getElementsByTagName(s)[0];c.parentNode.insertBefore(e,c);})(window,document,"script","//api.dmcdn.net/pxl/cpe/client.min.js","cpe",cpeId) 
+}  
+} 
+const apiSearch = function(){ 
+let e = new Event('relatedSearchFinish'); 
+console.log("%c DM related ", "background: #56C7FF; color: #232323", "Search: " + searchParams.search); 
+const properties = Object.keys(searchParams).map(function(k) { return encodeURIComponent(k) + '=' + encodeURIComponent(searchParams[k])}).join('&'); 
+const dmSearch = "https://api.dailymotion.com/" + (searchInPlaylist ? "playlist/" + searchInPlaylist + "/videos" : "videos") + "?" + properties; 
+fetch(dmSearch).then((response) => { return response.json(); }).then((data) => { 
+if(data.total > 0){ 
+playerParams.video = data.list[0].id; 
+videoTitle = data.list[0].title; 
+window.dispatchEvent(e); 
+} 
+else{ 
+searchParams.search = searchParams.search.substring(0, searchParams.search.lastIndexOf(' ')); 
+if(searchParams.search.split(' ').length >= minWordSearch && searchParams.search.length > 0)  
+apiSearch(); 
+else{ 
+console.log("%c DM related ", "background: #56C7FF; color: #232323", "Can not find related video. Fallback video used."); 
+playerParams.video = fallbackVideo; 
+window.dispatchEvent(e); 
+} 
+} 
+}); 
+}; 
+const getFallbackVideo = function(){ 
+fetch("https://api.dailymotion.com/videos?owners=" + owners + "&sort=recent&limit=1&fields=id").then((response) => { return response.json(); }).then((data) => { 
+if(data.list.length > 0){  
+fallbackVideo = data.list[0].id; 
+videoTitle = data.list[0].title; 
+} 
+else { console.warn("DM related Unable to find a fallback video"); } 
+}); 
+} 
+getFallbackVideo(); 
+apiSearch(); 
+window.addEventListener('relatedSearchFinish', (e) => { initRelatedPlayer(); });
+setTimeout(function() { 
+let headTag = document.getElementsByTagName("head")[0], 
+createScript = document.createElement('script'); 
+createScript.type = 'text/javascript'; 
+createScript.src = 'https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'; 
+headTag.appendChild(createScript); 
+}, 10000); 
+setTimeout(function($) { 
+window.fnames = new Array(); 
+window.ftypes = new Array(); 
+fnames[0]='EMAIL'; 
+ftypes[0]='email'; 
+fnames[1]='FNAME'; 
+ftypes[1]='text'; 
+fnames[2]='LNAME'; 
+ftypes[2]='text'; 
+fnames[3]='ADDRESS'; 
+ftypes[3]='address'; 
+fnames[4]='PHONE'; 
+ftypes[4]='phone'; 
+}(jQuery), 10000); 
+setTimeout(function() { 
+var $mcj = jQuery.noConflict(true); 
+}, 10000)
+window._taboola = window._taboola || [];
+//   _taboola.push({
+//     mode: 'thumbnails-b',
+//     container: 'taboola-below-article-thumbnails-259129',
+//     placement: 'Below Article Thumbnails',
+//     target_type: 'mix'
+//   });
+//var _ain = {};
+$(document).ready(function () {
+var orentation = 'desktop' === 'mobile' ? 'horizontal' : 'vertical';
+// Render sharebars
+rapplerCreateSharebar({
+title      : 'Man in private village assaulted, nearly arrested without warrant by Makati police',
+url        : 'http://www.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police',
+showpin    : 'https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/F8C8AA4B4FAC4F1AA6566ACF2748F87F/screenshot.jpg',
+container  : 'storypageShare-259129',
+providers  : ['facebook', 'twitter', 'reddit', 'email'],
+orientation: orentation,
+showcount  : 'top',
+via        : ''
+}, true, true, 259129)
+rapplerCreateSharebar({
+title      : 'Man in private village assaulted, nearly arrested without warrant by Makati police',
+url        : 'http://www.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police',
+showpin    : 'https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/F8C8AA4B4FAC4F1AA6566ACF2748F87F/screenshot.jpg',
+container  : 'gysharebarh-2-259129',
+orientation: 'horizontal',
+showcount  : 'top',
+via        : ''
+}, true, true, 259129)
+rapplerCreateSharebar({
+title      : 'Man in private village assaulted, nearly arrested without warrant by Makati police',
+url        : 'http://www.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police',
+showpin    : 'https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/F8C8AA4B4FAC4F1AA6566ACF2748F87F/screenshot.jpg',
+container  : 'gysharebarh-259129',
+orientation: 'horizontal',
+showcount  : 'none',
+via        : ''
+}, true)
+// metakeys
+$('#rappler3-metakey-wrapper-259129').empty().html($('#metakeyword_content-259129').html());
+// - show comments
+showComments('http://www.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police', 259129, 'Man in private village assaulted, nearly arrested without warrant by Makati police');
+// - add the comment button with number of shares
+// var fn = function(r) {
+/* CONFIGURATION START */
+// _ain = {
+//     id: "1258",
+//     postid: "259129",
+//     url: "http://www.rappler.com/nation/259129-man-private-village-assaulted-nearly-arrested-without-warrant-makati-police",
+//     title: "Man in private village assaulted, nearly arrested without warrant by Makati police",
+//     pubdate: "2020-04-27 01:50:07",
+//     authors: "Marguerite de Leon",
+//     sections: "",
+//     tags: "Dasmarinas Village, Philippine National Police, Makati City, novel coronavirus, coronavirus, COVID-19, coronavirus Philippine updates",
+//     comments: r.streamInfo.commentCount.toString()
+// };
+/* CONFIGURATION END */
+// (function (d, s) {
+//     var sf = d.createElement(s);
+//     sf.type = 'text/javascript'; sf.async = true;
+//     sf.src = (('https:' == d.location.protocol) ? 'https://d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com' : 'http://t.contentinsights.com')+'/stf.js';
+//     var t = d.getElementsByTagName(s)[0];
+//     t.parentNode.insertBefore(sf, t);
+// })(document, 'script');
+//}
+//getCommentCount('259129',fn);
+});
+wrapDFPWithCxsense('Ad_Rectangle_Top');
+wrapDFPWithCxsense('Ad_Rectangle_Moods');
+$(document).ready(function(a) {
+// console.log('Doc ready')
+let mmMaxWidth = $('#sidebar-upper').width();
+$('.flip-container').css('max-width',mmMaxWidth);
+});
+// auto executed when the article loads for the first time
+function setInitialContentId(id, url, title, description) {
+setMoods(id);
+}
+// reset mm to before user voted
+function resetMM() {
+$('#mood-meter-title').html("HOW DOES THIS STORY MAKE YOU FEEL?").attr('class','rappler-label bg rappler-orange');
+$('#mobile-mood-meter-title').html("HOW DOES THIS STORY MAKE YOU FEEL?").attr('class','rappler-label bg rappler-orange');
+$('#mood-clicked').html("");
+}
+// callback function after share is done
+function gyShareCallback(e) {
+}
+//sets the mood values given the id
+function setMoods(item_id, noreset) {
+$('.mm-new').attr('data-article_id', item_id);
+$.get('https://mm.rappler.com/moodmeter/ranking?rsort=1&content_id=' + item_id, {}, function (data) {
+var mood_el = $('#dot-mm'),
+mobile_mood_el = $('#dot-mobile-mm-' + item_id);
+if (mood_el.length > 0) {
+$('.mm-new').css('opacity', 0);
+mood_el.find('strong.happy').html(data.moods.happy + '%');
+mood_el.find('strong.sad').html(data.moods.sad + '%');
+mood_el.find('strong.angry').html(data.moods.angry + '%');
+mood_el.find('strong.dontcare').html(data.moods.dont_care + '%');
+mood_el.find('strong.inspired').html(data.moods.inspired + '%');
+mood_el.find('strong.afraid').html(data.moods.afraid + '%');
+mood_el.find('strong.amused').html(data.moods.amused + '%');
+mood_el.find('strong.annoyed').html(data.moods.annoyed + '%');
+window.setTimeout(function () {
+$('.mm-new').css('opacity', 1);
+}, 100);
+}
+if (mobile_mood_el.length > 0) {
+mobile_mood_el.find('strong.happy').html(data.moods.happy + '%');
+mobile_mood_el.find('strong.sad').html(data.moods.sad + '%');
+mobile_mood_el.find('strong.angry').html(data.moods.angry + '%');
+mobile_mood_el.find('strong.dontcare').html(data.moods.dont_care + '%');
+mobile_mood_el.find('strong.inspired').html(data.moods.inspired + '%');
+mobile_mood_el.find('strong.afraid').html(data.moods.afraid + '%');
+mobile_mood_el.find('strong.amused').html(data.moods.amused + '%');
+mobile_mood_el.find('strong.annoyed').html(data.moods.annoyed + '%');
+}
+// console.log(data);
+var topmood,
+largest = 0,
+cls = 'rappler-orange',
+txt = 'People are divided on this issue';
+for(var i in data.moods) {
+if(data.moods[i] > largest) {
+topmood = i;
+largest = data.moods[i];
+}
+}
+var storymakespeople = 'THIS STORY MAKES PEOPLE';
+switch (topmood) {
+case 'afraid':
+txt = storymakespeople + ' Afraid';
+break;
+case 'amused':
+txt = storymakespeople + ' Amused';
+break;
+case 'annoyed':
+txt = storymakespeople + ' Annoyed';
+break;
+case 'angry':
+txt = storymakespeople + ' Angry';
+break;
+case 'dont_care':
+txt = "People do not care about this story";
+break;
+case 'happy':
+txt = storymakespeople + ' Happy';
+break;
+case 'inspired':
+txt = storymakespeople + ' Inspired';
+break;
+case 'sad':
+txt = storymakespeople + ' Sad';
+break;
+}
+if(topmood == 'dont_care') {
+cls = 'dontcare'
+} else {
+if(typeof(topmood)!='undefined') {
+cls = topmood;
+}
+}
+resetMM();
+$('#mood-meter-dominant').attr('class','');
+$('#mood-meter-dominant').addClass('rappler-label-top bg '+cls);
+$('#mood-meter-dominant').html(txt)
+$('#mobile-mood-meter-dominant').attr('class','');
+$('#mobile-mood-meter-dominant').addClass('rappler-label-top bg '+cls);
+$('#mobile-mood-meter-dominant').html(txt)
+});
+}
+//set moodmeter language
+function setMoodMeterLanguage(url){
+if((url.indexOf('/world/regions/asia-pacific/indonesia') > -1 || url.indexOf('/indonesia') > -1) && url.indexOf('/englishedition') == -1){
+} else{
+}
+$(".happy .bg").each(function() {
+$(this).nextAll("br").get(0).nextSibling.nodeValue = "Happy";
+});
+$(".sad .bg").each(function() {
+$(this).nextAll("br").get(0).nextSibling.nodeValue = "Sad";
+});
+$(".angry .bg").each(function() {
+$(this).nextAll("br").get(0).nextSibling.nodeValue = "Angry";
+});
+$(".dontcare .bg").each(function() {
+$(this).nextAll("br").get(0).nextSibling.nodeValue = "Don't Care";
+});
+$(".inspired .bg").each(function() {
+$(this).nextAll("br").get(0).nextSibling.nodeValue = "Inspired";
+});
+$(".afraid .bg").each(function() {
+$(this).nextAll("br").get(0).nextSibling.nodeValue = "Afraid";
+});
+$(".amused .bg").each(function() {
+$(this).nextAll("br").get(0).nextSibling.nodeValue = "Amused";
+});
+$(".annoyed .bg").each(function() {
+$(this).nextAll("br").get(0).nextSibling.nodeValue = "Annoyed";
+});
+}
+// execute this once a new story is added to the page
+function initStoryItem(id, url, title, pubdate, authors, sections, tags, previousUrl) {
+// reset moodmeter
+$('.flip-container').removeClass('hover');
+// do we have an x module ?
+// initialize if we do
+if($('#item-'+id).find('.x_stories_module').length>0) {
+var m = $('#item-'+id).find('.x_stories_module')[0];
+m_id = $(m).attr('data-module_id');
+head.js("https://static.rappler.com/modules/mod_rappler3_x_stories/assets/js/mod_rappler3_x_stories.js", function () {
+if(typeof(getXStories)!=='undefined') {
+getXStories(m_id);
+createXLink(m_id);
+}
+});
+}
+// do we have a scrolly slider (aka owl carousel) ?
+if($('#item-'+id).find('.rappler-scrolly-slider').length>0) {
+head.load("https://static.rappler.com/templates/rappler3_default/js/owl-carousel/owl.carousel.css",
+"https://static.rappler.com/templates/rappler3_default/js/owl-carousel/owl.theme.css",
+"https://static.rappler.com/templates/rappler3_default/js/owl-carousel/owl.transitions.css",
+"https://static.rappler.com/templates/rappler3_default/css/scrollyslider.css",
+"https://static.rappler.com/templates/rappler3_default/js/owl-carousel/owl.carousel.js",
+"https://static.rappler.com/templates/rappler3_default/js/scrollyslider.js", function () {
+if(typeof(initOwlSlider)!=='undefined') {
+initOwlSlider($('#item-'+id).find('.rappler-scrolly-slider'));
+}
+});
+}
+// resetMM();
+// fetch moods
+setMoods(id);
+// create sharebar for new story
+rapplerCreateSharebar({
+title: title,
+url: url,
+showpin: 1,
+container: 'storypageShare-' + id,
+orientation: 'vertical',
+showcount: 'top',
+via: '@rapplerdotcom'
+}, true, true, id)
+// - meta keywords
+$('#rappler3-metakey-wrapper-' + id).empty().html($('#metakeyword_content-' + id).html());
+// - show comments
+showComments(url, id, title);
+// - add the comment button with number of shares
+getCommentCount(id);
+// NOTE : updating of the url needs to be done in initScrolly inside storypage.php
+//  because that's where we detect the direction of the scroll
+//  detecting the direction is crucial so we know when
+//  to update the url and moodmeter
+// - load twitter again
+twttr.widgets.load()
+// HAM : content insights after we get comments
+// var fn = function(r) {
+// _ain.id = "1258";
+// _ain.postid = id;
+// _ain.url = url;
+// _ain.title = title;
+// _ain.pubdate = pubdate;
+// _ain.authors = authors;
+// _ain.sections = sections;
+// _ain.tags = tags;
+// _ain.maincontent = "#story-area-" + id;
+// _ain.comments = r.streamInfo.commentCount.toString();
+// _ain.track();
+// }
+// rapplerGetCommentcount(id,fn);
+// TODO : only execute if this article is brandrap
+}
+// listen to mood votes
+head.js("https://static.rappler.com/components/com_rappler/js/jquery.cookie.min.js",
+"https://static.rappler.com/modules/mod_rappler3_moods/js/moodmeter.min.js",
+"https://static.rappler.com/modules/mod_rappler3_moods/js/moodmeter_client.min.js", function () {
+moodMeterClient = new MoodMeterClient({domain: "https://mm.rappler.com"});
+moodMeterClient.initClient(function (isExists, hash) {
+// listen to vote clicks
+$(document).click(function (e) {
+if ($(e.target).hasClass('dot_mmm_circle')) {
+var mood_type_id = $(e.target).attr('rel'),
+mood = '',
+moodClicked = '',
+moodText = '',
+moodClass = $('#mood-clicked').attr('class'),
+contentId = $(e.target).parents('div.mm-new').attr('data-article_id'),
+mobile_parent = $(e.target).parents('#dot-mobile-mm-' + contentId);
+// console.log(contentId);
+// console.log(mood);
+// console.log(mood_type_id);
+if ($(e.target).hasClass('happy')) {
+mood = "Happy";
+moodText = 'Happy';
+}
+if ($(e.target).hasClass('sad')) {
+mood = "Sad";
+moodText = 'Sad';
+}
+if ($(e.target).hasClass('angry')) {
+mood = "Angry";
+moodText = 'Angry';
+}
+if ($(e.target).hasClass('inspired')) {
+mood = "Inspired";
+moodText = 'Inspired';
+}
+if ($(e.target).hasClass('afraid')) {
+mood = "Afraid";
+moodText = 'Afraid';
+}
+if ($(e.target).hasClass('amused')) {
+mood = "Amused";
+moodText = 'Amused';
+}
+if ($(e.target).hasClass('dontcare')) {
+mood = "Don't Care";
+moodText = "Don't Care";
+}
+if ($(e.target).hasClass('annoyed')) {
+mood = "Annoyed";
+moodText = 'Annoyed';
+}
+moodClicked = mood.toLowerCase()
+if (moodClicked == "don't care") {
+mood = 'dontcare';
+moodText = "Don't Care";
+}
+var prefix = "I am";
+if (mood_type_id == 4) {
+prefix = "I";
+}
+//printMoodSponsorship(mood);
+// record the vote
+$.post('https://mm.rappler.com/moodmeter/vote', {
+hash: hash,
+mood_type_id: mood_type_id,
+mood_type_name: mood,
+content_id: contentId,
+cookies_enabled: 1
+}, function (data) {
+var moodTypeId = 0;
+if (!data.content_mood_id) {
+if (mobile_parent.length == 1) {
+// voting on mobile
+$('#mmm_thankyou_title').html('You have already voted <span class="' + moodClicked + '">' + moodText + '</span>')
+$('#mmm_popup_thanks').modal('show');
+rapplerCreateSharebar({
+title: prefix + ' ' + mood + ' - ' + document.title,
+url: window.location.href,
+showpin: 0,
+container: 'mmm_thankyou_share',
+orientation: 'horizontal',
+showcount: 'none',
+via: 'rapplerdotcom'
+}, false, false, contentId)
+} else {
+// update share this vote
+rapplerCreateSharebar({
+title: prefix + ' ' + mood + ' - ' + document.title,
+url: window.location.href,
+showpin: 0,
+container: 'voteshare',
+orientation: 'horizontal',
+showcount: 'none',
+via: 'rapplerdotcom'
+}, false, false, contentId)
+// update the mood counts
+setMoods(contentId);
+// do the flip
+$('.flip-container').toggleClass('hover');
+// update the flip panel text
+$('#mood-meter-title').html('You already voted ' + moodText).attr('class','rappler-label bg '+ moodClicked);
+$('#mobile-mood-meter-title').html('You already voted ' + moodText).attr('class','rappler-label bg '+ moodClicked);
+$("#mood-clicked").html(moodText).attr('class','').addClass(moodClicked);
+$("#mood-clicked-after").html(moodText).attr('class','').addClass(moodClicked);
+var oldMoodClicked = moodClicked;
+$( "#mood-back" ).one( "click", function() {
+switch(data.mood_type_slug) {
+case 'happy':
+moodClicked = 'Happy';
+moodText = 'Happy';
+break;
+case 'sad':
+moodClicked = 'Sad';
+moodText = 'Sad';
+break;
+case 'angry':
+moodClicked = 'Angry';
+moodText = 'Angry';
+break;
+case 'dontcare':
+moodClicked = "Don't Care";
+moodText = "Don't Care";
+break;
+case 'amused':
+moodClicked = 'Amused';
+moodText = 'Amused';
+break;
+case 'afraid':
+moodClicked = 'Afraid';
+moodText = 'Afraid';
+break;
+case 'annoyed':
+moodClicked = 'Annoyed';
+moodText = 'Annoyed';
+break;
+}
+$('#mood-meter-title').html('You already voted ' + moodText).attr('class','rappler-label bg '+ data.mood_type_slug);
+$('#mobile-mood-meter-title').html('You already voted ' + moodText).attr('class','rappler-label bg '+ data.mood_type_slug);
+$("#mood-clicked").html(moodText).attr('class','').addClass(data.mood_type_slug);
+$("#mood-clicked-after").html(moodText).attr('class','').addClass(data.mood_type_slug);
+//$("#mood-sponsorship").html('');
+});
+var relatedmood = "";
+if (moodClicked == "Don't Care") {
+relatedmood = 'Dont+care';
+} else {
+relatedmood = moodClicked;
+}
+$.getJSON('https://mm.rappler.com/api/votes/voted-top-in-moods', {type: relatedmood}, function (data) {
+$('#latestmoodstories').html('');
+$.each(data.results, function (index, entry) {
+if (index < 5) {
+var b = '1px solid #eaeaea';
+if (index == (data.length - 1)) {
+b = '';
+}
+$('#latestmoodstories').append(
+$('<div>').append(
+$('<h6>').append(
+$('<a>').addClass('rappler-headline link').attr('href', '/?option=com_rappler&task=mobileapi.rdir&id=' + entry.contentId).html(entry.title)
+)
+)
+).append('<hr>');
+}
+});
+});
+}
+} else {
+if (mobile_parent.length == 1) {
+$('#mmm_thankyou_title').html('Thank you for voting <span class="' + moodClicked + '">' + moodText + '</span>')
+$('#mmm_popup_thanks').modal('show');
+rapplerCreateSharebar({
+title: prefix + ' ' + mood + ' - ' + document.title,
+url: window.location.href,
+showpin: 0,
+container: 'mmm_thankyou_share',
+orientation: 'horizontal',
+showcount: 'none',
+via: 'rapplerdotcom'
+}, false, false, contentId)
+} else {
+// update share this vote
+rapplerCreateSharebar({
+title: prefix + ' ' + mood + ' - ' + document.title,
+url: window.location.href,
+showpin: 0,
+container: 'voteshare',
+orientation: 'horizontal',
+showcount: 'none',
+via: 'rapplerdotcom'
+}, false, false, contentId)
+// update the mood counts
+setMoods(contentId);
+// do the flip
+$('.flip-container').toggleClass('hover');
+// update the flip panel text
+window.setTimeout(function () {
+$("#mood-clicked-after").html(moodText).attr('class','').addClass(moodClicked);
+}, 100);
+$('#mood-meter-title').html('<? echo $mood_name["youalreadyvoted"]; ?> ' + moodText).attr('class','rappler-label bg '+ moodClicked);
+$('#mobile-mood-meter-title').html('<? echo $mood_name["youalreadyvoted"]; ?> ' + moodText).attr('class','rappler-label bg '+ moodClicked);
+// fetch related news
+var relatedmood = "";
+if (moodClicked == "Don't Care") {
+relatedmood = 'Dont+care';
+} else {
+relatedmood = moodClicked;
+}
+$.getJSON('https://mm.rappler.com/api/votes/voted-top-in-moods', {type: relatedmood}, function (data) {
+$('#latestmoodstories').html('');
+$.each(data.results, function (index, entry) {
+if (index < 5) {
+var b = '1px solid #eaeaea';
+if (index == (data.length - 1)) {
+b = '';
+}
+$('#latestmoodstories').append(
+$('<div>').addClass('stats').append(
+$('<h6>').addClass('top-in-moods-title').append(
+$('<a>').addClass('rappler-headline link').attr('href', '/?option=com_rappler&task=mobileapi.rdir&id=' + entry.contentId).html(entry.title)
+)
+)
+).append('<hr>');
+}
+});
+});
+}
+recordGigAction('mood_vote',{
+content_id:contentId,
+mood_type_id:mood_type_id,
+mood_type_name:mood
+});
+recordCommunityAction('mood_vote', {
+content_id:contentId,
+mood_type_id:mood_type_id,
+mood_type_name:mood
+});
+}
+})
+}
+})
+})
+})
+$('#mood-back').click(function () {
+$('.flip-container').removeClass('hover');
+});
+var id = 259129;
+var title = $("#story-area-" + id).attr("data-article_title");
+CookiePopup.init({
+selector: 'cookie-popup-rappler',
+});
+$('.close-button *').click(function() {
+$('.cp-slider-popup').animate({
+bottom: '-700px',
+}, 500, function() {
+console.log('Animation Done');
+});
+});
+//EmailPopup.init({ 
+//selector: 'emailPopupDiv', 
+//});
+new innity_premiumZone("82713", {"origin": "PH"});
+new innity_premiumZone("82714", {"origin": "PH"});
+new innity_premiumZone("82927", {"origin": "PH"});
+WebFont.load({
+google: {
+families: ['PT Serif: 400,700', 'Oswald: 300,400']
+}
+});
+window._taboola = window._taboola || [];
+_taboola.push({flush: true});
+cX.callQueue.push([
+"invoke",
+function invoke() {
+cX.getUserSegmentIds({
+persistedQueryId: "82ef547962d8ecd598da83a1543cb91a6670175e",
+callback: function callback(segmentIds) {
+if (document.readyState === "complete") {
+fbq("trackCustom", "CxSegments", { segmentIds: segmentIds });
+} else {
+var earlyOnReadyStateChange = document.onreadystatechange;
+document.onreadystatechange = function onReadyStateChange() {
+if (earlyOnReadyStateChange) {
+earlyOnReadyStateChange();
+}
+if (document.readyState === "complete") {
+fbq("trackCustom", "CxSegments", { segmentIds: segmentIds });
+}
+};
+}
+}
+});
+}
+]);
+var readerCountry = 'INTL';
+// var is_uiwebview = /(iPhone|iPod|iPad).*AppleWebKit(?!.*Version)/i.test(navigator.userAgent);
+ga('set', 'dimension17', readerCountry);
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"77a19f2746","applicationID":"36625530","transactionName":"ZVdWNhZWDUFWU0EPXFwddQEQXgxcGHNaCEdXXEAhC1kXQFhcWQNBHVZdERRbAks=","queueTime":0,"applicationTime":1157,"atts":"SRBVQF5MHk8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

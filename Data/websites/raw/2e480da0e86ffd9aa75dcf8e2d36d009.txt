@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="de-DE"><head>
+    <meta charset="utf-8"/>
+<link rel="dns-prefetch preconnect" href="https://u.jimcdn.com/" crossorigin="anonymous"/>
+<link rel="dns-prefetch preconnect" href="https://assets.jimstatic.com/" crossorigin="anonymous"/>
+<link rel="dns-prefetch preconnect" href="https://image.jimcdn.com" crossorigin="anonymous"/>
+<link rel="dns-prefetch preconnect" href="https://fonts.jimstatic.com" crossorigin="anonymous"/>
+<link rel="dns-prefetch preconnect" href="https://www.google-analytics.com" crossorigin="anonymous"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="description" content="Bundestagspräsident Schäuble hat angesichts der Einschränkungen von Grundrechte davor gewarnt, dem Schutz von Leben in der Corona-Krise alles unterzuordnen."/>
+<meta name="robots" content="index, follow, archive"/>
+<meta property="st:section" content="Bundestagspräsident Schäuble hat angesichts der Einschränkungen von Grundrechte davor gewarnt, dem Schutz von Leben in der Corona-Krise alles unterzuordnen."/>
+<meta name="twitter:title" content="Corona-Krise: Dem Schutz des Lebens nicht alles unterordnen"/>
+<meta name="twitter:description" content="Bundestagspräsident Wolfgang Schäuble hat angesichts der Einschränkungen vieler Grundrechte davor gewarnt, dem Schutz von Leben in der Corona-Krise alles unterzuordnen."/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta property="og:url" content="https://www.interview-welt.de/2020/04/26/corona-krise-dem-schutz-des-lebens-nicht-alles-unterordnen/"/>
+<meta property="og:title" content="Corona-Krise: Dem Schutz des Lebens nicht alles unterordnen"/>
+<meta property="og:description" content="Bundestagspräsident Wolfgang Schäuble hat angesichts der Einschränkungen vieler Grundrechte davor gewarnt, dem Schutz von Leben in der Corona-Krise alles unterzuordnen."/>
+<meta property="og:type" content="article"/>
+<meta property="og:locale" content="de_DE"/>
+<meta property="og:site_name" content="Hintermeier Daily - Das Magazin zu Fragen der Zeit"/>
+<meta name="twitter:image" content="https://image.jimcdn.com/app/cms/image/transf/dimension=4000x3000:format=jpg/path/sa30144307879fe65/image/i25985928f85ad79e/version/1587900794/image.jpg"/>
+<meta property="og:image" content="https://image.jimcdn.com/app/cms/image/transf/dimension=4000x3000:format=jpg/path/sa30144307879fe65/image/i25985928f85ad79e/version/1587900794/image.jpg"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="427"/>
+<meta property="og:image:secure_url" content="https://image.jimcdn.com/app/cms/image/transf/dimension=4000x3000:format=jpg/path/sa30144307879fe65/image/i25985928f85ad79e/version/1587900794/image.jpg"/>
+<meta property="article:published_time" content="2020-04-26 13:25:40"/><title>Corona-Krise: Dem Schutz des Lebens nicht alles unterordnen - Hintermeier Daily - Das Magazin zu Fragen der Zeit</title>
+<link rel="shortcut icon" href="https://u.jimcdn.com/cms/o/sa30144307879fe65/img/favicon.ico?t=1553626397"/>
+    <link rel="alternate" type="application/rss+xml" title="Blog" href="https://www.interview-welt.de/rss/blog"/>    
+<link rel="canonical" href="https://www.interview-welt.de/2020/04/26/corona-krise-dem-schutz-des-lebens-nicht-alles-unterordnen/"/>
+
+        <script src="https://assets.jimstatic.com/ckies.js.5d80ddd8bf8162834c88.js"></script>
+
+    <style>html,body{margin:0}.hidden{display:none}.n{padding:5px}#cc-website-title a {text-decoration: none}.cc-m-image-align-1{text-align:left}.cc-m-image-align-2{text-align:right}.cc-m-image-align-3{text-align:center}</style>
+
+
+        <link href="https://u.jimcdn.com/cms/o/sa30144307879fe65/layout/dm_52e2c9601032a1d2272a59e368ca436d/css/layout.css?t=1583507390" rel="stylesheet" type="text/css" id="jimdo_layout_css"/>
+<script>     /* <![CDATA[ */     /*!  loadCss [c]2014 @scottjehl, Filament Group, Inc.  Licensed MIT */     window.loadCSS = window.loadCss = function(e,n,t){var r,l=window.document,a=l.createElement("link");if(n)r=n;else{var i=(l.body||l.getElementsByTagName("head")[0]).childNodes;r=i[i.length-1]}var o=l.styleSheets;a.rel="stylesheet",a.href=e,a.media="only x",r.parentNode.insertBefore(a,n?r:r.nextSibling);var d=function(e){for(var n=a.href,t=o.length;t--;)if(o[t].href===n)return e.call(a);setTimeout(function(){d(e)})};return a.onloadcssdefined=d,d(function(){a.media=t||"all"}),a};     window.onloadCSS = function(n,o){n.onload=function(){n.onload=null,o&&o.call(n)},"isApplicationInstalled"in navigator&&"onloadcssdefined"in n&&n.onloadcssdefined(o)}     /* ]]> */ </script>     <script>
+// <![CDATA[
+onloadCSS(loadCss('https://assets.jimstatic.com/web.css.ec74bcad89a485bd6a5639535a46c0ba.css') , function() {
+    this.id = 'jimdo_web_css';
+});
+// ]]>
+</script>
+<link href="https://assets.jimstatic.com/web.css.ec74bcad89a485bd6a5639535a46c0ba.css" rel="preload" as="style"/>
+<noscript>
+<link href="https://assets.jimstatic.com/web.css.ec74bcad89a485bd6a5639535a46c0ba.css" rel="stylesheet"/>
+</noscript>
+    <script>
+    //<![CDATA[
+        var jimdoData = {"isTestserver":false,"isLcJimdoCom":false,"isJimdoHelpCenter":false,"isProtectedPage":false,"cstok":"a3ac4171dcd91041d83ad3eee1f7bc8a23c30118","cacheJsKey":"99a9659b8803fdc05bafbe7071888b6fe711f086","cacheCssKey":"99a9659b8803fdc05bafbe7071888b6fe711f086","cdnUrl":"https:\/\/assets.jimstatic.com\/","minUrl":"https:\/\/assets.jimstatic.com\/app\/cdn\/min\/file\/","authUrl":"https:\/\/a.jimdo.com\/","webPath":"https:\/\/www.interview-welt.de\/","appUrl":"https:\/\/a.jimdo.com\/","cmsLanguage":"de_DE","isFreePackage":false,"mobile":false,"isDevkitTemplateUsed":true,"isTemplateResponsive":true,"websiteId":"sa30144307879fe65","pageId":2809653724,"packageId":2,"shop":{"deliveryTimeTexts":{"1":"1 - 3 Tage Lieferzeit","2":"3 - 5 Tage Lieferzeit","3":"5 - 8 Tage Lieferzeit"},"checkoutButtonText":"Zur Kasse","isReady":false,"currencyFormat":{"pattern":"#,##0.00 \u00a4","convertedPattern":"#,##0.00 $","symbols":{"GROUPING_SEPARATOR":".","DECIMAL_SEPARATOR":",","CURRENCY_SYMBOL":"\u20ac"}},"currencyLocale":"de_DE"},"tr":{"gmap":{"searchNotFound":"Die angegebene Adresse konnte nicht gefunden werden.","routeNotFound":"Die Anfahrtsroute konnte nicht berechnet werden. M\u00f6gliche Gr\u00fcnde: Die Startadresse ist zu ungenau oder zu weit von der Zieladresse entfernt."},"shop":{"checkoutSubmit":{"next":"N\u00e4chster Schritt","wait":"Bitte warten"},"paypalError":"Da ist leider etwas schiefgelaufen. Bitte versuche es erneut!","cartBar":"Zum Warenkorb","maintenance":"Dieser Shop ist vor\u00fcbergehend leider nicht erreichbar. Bitte probieren Sie es sp\u00e4ter noch einmal.","addToCartOverlay":{"productInsertedText":"Der Artikel wurde dem Warenkorb hinzugef\u00fcgt.","continueShoppingText":"Weiter einkaufen","reloadPageText":"neu laden"},"notReadyText":"Dieser Shop ist noch nicht vollst\u00e4ndig eingerichtet.","numLeftText":"Mehr als {:num} Exemplare dieses Artikels sind z.Z. leider nicht verf\u00fcgbar.","oneLeftText":"Es ist leider nur noch ein Exemplar dieses Artikels verf\u00fcgbar."},"common":{"timeout":"Es ist ein Fehler aufgetreten. Die von dir ausgew\u00e4hlte Aktion wurde abgebrochen. Bitte versuche es in ein paar Minuten erneut."},"form":{"badRequest":"Es ist ein Fehler aufgetreten: Die Eingaben konnten leider nicht \u00fcbermittelt werden. Bitte versuche es sp\u00e4ter noch einmal!"}},"jQuery":"jimdoGen002","isJimdoMobileApp":false,"bgConfig":{"id":174295524,"type":"picture","options":{"fixed":true},"images":[{"id":9906303924,"url":"https:\/\/image.jimcdn.com\/app\/cms\/image\/transf\/none\/path\/sa30144307879fe65\/backgroundarea\/id467375ccfcf7c2f\/version\/1577376850\/image.jpg"}]},"bgFullscreen":null,"responsiveBreakpointLandscape":767,"responsiveBreakpointPortrait":480,"copyableHeadlineLinks":false,"tocGeneration":false,"googlemapsConsoleKey":false,"loggingForAnalytics":false,"loggingForPredefinedPages":false,"isFacebookPixelIdEnabled":true,"userAccountId":"c66a6202-fcb9-406f-9b88-904d3ae8d810"};
+    // ]]>
+</script>
+
+    <script type="text/javascript">if (document.cookie.indexOf('ga-disable-UA-134065821-1') != -1 || !window.ckies.useMarketing()) { window['ga-disable-UA-134065821-1'] = true; }if (document.cookie.indexOf('ga-disable-UA-24207326-97') != -1 || !window.ckies.useMarketing()) { window['ga-disable-UA-24207326-97'] = true; }</script> <script> (function(window) { 'use strict'; var regBuff = window.__regModuleBuffer = []; var regModuleBuffer = function() { var args = [].slice.call(arguments); regBuff.push(args); }; if (!window.regModule) { window.regModule = regModuleBuffer; } })(window); </script>
+    <script src="https://assets.jimstatic.com/web.js.8da9df419c17e798fdbb.js" async="true"></script>
+<meta name="google-site-verification" content="pRUyPa_RTU34ev88Yarj3ewvXAtxkwvIDqEIGd_M89U"/>
+
+<script type="text/javascript">
+//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NKR9JW2');
+//]]>
+</script>
+
+<script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-9976407243146634",
+          enable_page_level_ads: true
+     });
+//]]>
+</script>
+<meta name="msvalidate.01" content="5160749AC109F59EDDD62E70134E1734"/>
+<link href="//www.findberry.com/search/css/framebox.css" rel="stylesheet" type="text/css"/>
+
+<script src="//www.findberry.com/search/js/jquery.min.js" type="text/javascript"></script>
+
+<script src="//www.findberry.com/search/js/findberryfx.js" type="text/javascript"></script>
+
+<script src="//www.findberry.com/search/js/findberry.framebox.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+    (function(window, document){
+      window._blogfoster=window._blogfoster || {};
+      window._blogfoster.insights=window._blogfoster.insights || {};
+      window._blogfoster.insights.websiteId=17289;
+      var t="https://insights.blogfoster.com/v1/" + window._blogfoster.insights.websiteId + ".js";
+      var e=document, s=e.createElement("script"), a=e.getElementsByTagName("script")[0];
+      s.type="text/javascript"; s.defer=true; s.async=true; s.src=t; a.parentNode.insertBefore(s,a);
+    })(window, document);
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+window._epn = {campaign: 5338661591};
+//]]>
+</script>
+    <script type="text/javascript">
+//<![CDATA[
+
+if(ckies.useMarketing()) {
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.agent='pljimdo';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '622261931554640'); 
+    fbq('track', 'PageView');
+}
+
+//]]>
+</script>
+</head>
+
+<body class="body cc-page cc-page-blog j-m-gallery-styles j-m-video-styles j-m-hr-styles j-m-header-styles j-m-text-styles j-m-emotionheader-styles j-m-htmlCode-styles j-m-rss-styles j-m-form-styles-disabled j-m-table-styles j-m-textWithImage-styles j-m-downloadDocument-styles j-m-imageSubtitle-styles j-m-flickr-styles j-m-googlemaps-styles j-m-blogSelection-styles-disabled j-m-comment-styles j-m-jimdo-styles j-m-profile-styles j-m-guestbook-styles j-m-promotion-styles j-m-twitter-styles j-m-hgrid-styles j-m-shoppingcart-styles j-m-catalog-styles j-m-product-styles-disabled j-m-facebook-styles j-m-sharebuttons-styles j-m-formnew-styles-disabled j-m-callToAction-styles j-m-turbo-styles j-m-spacing-styles j-m-googleplus-styles j-m-dummy-styles j-m-search-styles j-m-booking-styles j-footer-styles cc-pagemode-default cc-content-parent" id="page-2809653724">
+
+<div id="cc-inner" class="cc-content-parent">
+
+    <!-- _mobile-navigation.sass -->
+    <input type="checkbox" id="jtpl-mobile-navigation__checkbox" class="jtpl-mobile-navigation__checkbox"/><!-- END _mobile-navigation.sass --><!-- _main.sass --><div class="jtpl-main cc-content-parent">
+
+      <!-- background-area -->
+        <div class="jtpl-background-area" background-area=""></div>
+      <!-- END background-area -->
+
+      <div class="jtpl-main__inner content-options-box alignment-options navigation-content-colors cc-content-parent">
+
+        <!-- _header.sass -->
+        <header class="jtpl-header"><div class="jtpl-logo">
+            
+          </div>
+          <div class="jtpl-title">
+            <div id="cc-website-title" class="cc-single-module-element"><div id="cc-m-15364531024" class="j-module n j-header"><a href="https://www.interview-welt.de/"><span class="cc-within-single-module-element j-website-title-content" id="cc-m-header-15364531024">Hintermeier Daily - Das Magazin zu Fragen der Zeit</span></a></div></div>
+          </div>
+        </header><!-- END _header.sass --><!-- _navigation.sass --><nav class="jtpl-navigation navigation-colors navigation-alignment border-options"><div data-container="navigation"><div class="j-nav-variant-nested"><ul class="cc-nav-level-0 j-nav-level-0"><li id="cc-nav-view-2782090524" class="jmd-nav__list-item-0"><a href="/" data-link-title="Start up">Start up</a></li><li id="cc-nav-view-2782528324" class="jmd-nav__list-item-0 j-nav-has-children"><a href="/blog/" data-link-title="Journal">Journal</a><span data-navi-toggle="cc-nav-view-2782528324" class="jmd-nav__toggle-button"></span></li><li id="cc-nav-view-2782090724" class="jmd-nav__list-item-0"><a href="/it-s-me/" data-link-title="Redaktion">Redaktion</a></li><li id="cc-nav-view-2782090824" class="jmd-nav__list-item-0"><a href="/interviewwelt-gmail-com/" data-link-title="Kontakt">Kontakt</a></li><li id="cc-nav-view-2785075924" class="jmd-nav__list-item-0"><a href="/media/" data-link-title="Media">Media</a></li></ul></div></div>
+        </nav><!-- END _navigation.sass --><!-- _mobile-navigation.sass PART 1/2 --><label for="jtpl-mobile-navigation__checkbox" class="jtpl-mobile-navigation__label">
+          <span class="jtpl-mobile-navigation__borders content-options__contrast-black-white"></span>
+        </label>
+        <!-- END _mobile-navigation.sass PART 1/2 -->
+
+        <!-- _section.sass -->
+        <section class="jtpl-section content-options-inner cc-content-parent"><div class="jtpl-section__main cc-content-parent">
+            <div id="content_area" data-container="content"><div id="content_start"></div>
+        <article class="j-blog"><div class="n j-blog-meta j-blog-post--header">
+    <div class="j-text j-module n">
+                    <a href="https://www.interview-welt.de/blog/politics-economics/" class="j-blog-post--category">
+                Politics &amp; Economics            </a>
+         ·         <span class="j-text j-blog-post--date">
+            26. April 2020        </span>
+    </div>
+    <h1 class="j-blog-header j-blog-headline j-blog-post--headline">Corona-Krise: Dem Schutz des Lebens nicht alles unterordnen</h1>
+</div>
+<div class="post j-blog-content">
+        <div id="cc-matrix-4605731024"><div id="cc-m-15770080824" class="j-module n j-textWithImage "><figure class="cc-imagewrapper cc-m-image-align-1">
+<img srcset="https://image.jimcdn.com/app/cms/image/transf/dimension=288x1024:format=jpg/path/sa30144307879fe65/image/i8f83127b49dfb6d0/version/1587900823/image.jpg 288w, https://image.jimcdn.com/app/cms/image/transf/dimension=320x1024:format=jpg/path/sa30144307879fe65/image/i8f83127b49dfb6d0/version/1587900823/image.jpg 320w, https://image.jimcdn.com/app/cms/image/transf/dimension=576x1024:format=jpg/path/sa30144307879fe65/image/i8f83127b49dfb6d0/version/1587900823/image.jpg 576w" sizes="(min-width: 288px) 288px, 100vw" id="cc-m-textwithimage-image-15770080824" src="https://image.jimcdn.com/app/cms/image/transf/dimension=288x1024:format=jpg/path/sa30144307879fe65/image/i8f83127b49dfb6d0/version/1587900823/image.jpg" alt="" class="" data-src-width="640" data-src-height="427" data-src="https://image.jimcdn.com/app/cms/image/transf/dimension=288x1024:format=jpg/path/sa30144307879fe65/image/i8f83127b49dfb6d0/version/1587900823/image.jpg" data-image-id="9984296824"/>    
+
+</figure>
+<div>
+    <div id="cc-m-textwithimage-15770080824" data-name="text" data-action="text" class="cc-m-textwithimage-inline-rte">
+        <p>
+    <em><strong>"Wenn ich höre, alles andere habe vor dem Schutz von Leben zurückzu-treten, dann muss ich sagen: Das ist in dieser Absolutheit nicht richtig", sagte Schäuble in einem Interview mit
+    dem "Tagesspiegel". </strong></em>
+</p>
+
+<p>
+     
+</p>
+
+<p>
+    "Wenn es überhaupt einen absoluten Wert in unserem Grundgesetz gibt, dann ist das die Würde des Menschen. Die ist unantastbar. Aber sie schließt nicht aus, dass wir sterben müssen", betonte
+    Schäuble. "Der Staat muss für alle die bestmögliche gesundheitliche Versorgung gewährleisten. Aber Menschen werden weiter auch an Corona sterben", sagte der CDU-Politiker. "Mit allen
+    Vorbelastungen und bei meinem Alter bin ich Hochrisikogruppe. Meine Angst ist aber begrenzt. Wir sterben alle. Und ich finde, Jüngere haben eigentlich ein viel größeres Risiko als ich. Mein
+    natürliches Lebensende ist nämlich ein bisschen näher." 
+</p>
+
+<p>
+     
+</p>
+
+<p>
+    <strong>Die Stimmung in der Bevölkerung kann kippen</strong>
+</p>
+
+<p>
+     
+</p>
+
+<p>
+    Schäuble warnte, bald könne ein Kipppunkt bei der Stimmung in der Bevölkerung erreicht sein. "Es wird schwieriger, je länger es dauert." Gesundheitsminister Jens Spahn habe recht, wenn er sage,
+    alle hätten miteinander noch viel zu lernen und vielleicht werde man in einigen Wochen feststellen, dass wir manches besser anders gemacht hätten. "Wir alle wissen nicht, was unser Handeln für
+    Aus-wirkungen hat, aber die Politik muss trotzdem handeln", sagte Schäuble. 
+</p>
+
+<p>
+     
+</p>
+
+<p>
+    <strong>Das Zurücknehmen wird viel schwieriger</strong>
+</p>
+
+<p>
+     
+</p>
+
+<p>
+    Der Weg zurück aus dem Stillstand sei der viel Schwierigere. "Man muss vorsichtig Schritt für Schritt vorgehen und bereit sein, zu lernen. Manche sagen, wenn's zu viel war, muss man Lockerungen
+    wieder zurücknehmen." Das Zurücknehmen werde aber viel schwieriger. "Wir dürfen nicht allein den Virologen die Entscheidungen überlassen, sondern müssen auch die gewaltigen ökonomischen,
+    sozialen, psychologischen und sonstigen Auswirkungen abwägen. Zwei Jahre lang einfach alles stillzulegen, auch das hätte fürchterliche Folgen." <em><strong>pm, ots</strong></em>
+</p>
+
+<p>
+     
+</p>
+
+<p>
+    <em><strong>English version</strong></em>
+</p>
+
+<p>
+     
+</p>
+
+<p>
+    <em><strong>In view of the restrictions on many basic Wolfgang Schäuble, President of the German parliament, has warned against subordinating everything else to the protection of life in the
+    Corona crisis: "When I hear that everything else has to step back from the protection of life, then I have to say that this is not right in this absoluteness", said Schäuble in an interview with
+    the "Tagesspiegel". </strong></em>
+</p>
+
+<p>
+     
+</p>
+
+<p>
+    "If there is an absolute value in our constitution, then it is the dignity of man. It is inviolable. But it does not exclude the possibility that we have to die," Schäuble stressed. "The state
+    must guarantee the best possible health care for everyone. But people will continue to die of Corona," said the CDU politician. "With all the previous burdens and at my age I am a high-risk
+    group. But my fear is limited. We all die. And I think younger people are actually at a much higher risk than me. My natural end is a little bit closer. 
+</p>
+
+<p>
+     
+</p>
+
+<p>
+    <strong>The mood of the population can get out of hand</strong>
+</p>
+
+<p>
+     
+</p>
+
+<p>
+    Schäuble warned that a tipping point in the mood of the population could soon be reached. "It will become more difficult the longer it takes." Health minister Jens Spahn was right when he said
+    that everyone still had a lot to learn from each other and maybe in a few weeks we will find out that we did some things better differently. "We all do not know what effects our actions will
+    have, but politicians must act nevertheless", said Schäuble. 
+</p>
+
+<p>
+     
+</p>
+
+<p>
+    <strong>Taking back will be much more difficult</strong>
+</p>
+
+<p>
+     
+</p>
+
+<p>
+    The way back from standstill is the much more difficult one. "One must proceed carefully, step by step, and be prepared to learn. Some say, if it was too much, you have to take it back." But it's
+    much harder to take it back. "We must not leave the decisions to the virologists alone, but must also weigh up the enormous economic, social, psychological and other effects. To simply shut
+    everything down for two years would have terrible consequences." <em><strong>pm, ots, mei</strong></em>
+</p>    </div>
+</div>
+
+<div class="cc-clear"></div>
+<script id="cc-m-reg-15770080824">// <![CDATA[
+
+    window.regModule("module_textWithImage", {"data":{"imageExists":true,"hyperlink":"","hyperlink_target":"","hyperlinkAsString":"","pinterest":"0","id":15770080824,"widthEqualsContent":"0","resizeWidth":"288","resizeHeight":193},"id":15770080824});
+// ]]>
+</script></div></div>
+        </div><div class="j-module n j-text j-blog-post--tags-wrapper"><span class="j-blog-post--tags--template" style="display: none;"><a class="j-blog-post--tag" href="https://www.interview-welt.de/blog/?tag=tagPlaceholder">tagPlaceholder</a></span><span class="j-blog-post--tags-label" style="display: none;">Tags:</span> <span class="j-blog-post--tags-list"></span></div><div class="n" id="flexsocialbuttons">
+<div class="cc-sharebuttons-element cc-sharebuttons-size-32 cc-sharebuttons-style-colored cc-sharebuttons-design-square cc-sharebuttons-align-left">
+
+
+    <a class="cc-sharebuttons-facebook" href="http://www.facebook.com/sharer.php?u=https://www.interview-welt.de/2020/04/26/corona-krise-dem-schutz-des-lebens-nicht-alles-unterordnen/&amp;t=Corona-Krise%3A%20Dem%20Schutz%20des%20Lebens%20nicht%20alles%20unterordnen" title="Facebook" target="_blank"></a><a class="cc-sharebuttons-twitter" href="http://twitter.com/share?text=Corona-Krise%3A%20Dem%20Schutz%20des%20Lebens%20nicht%20alles%20unterordnen&amp;url=https%3A%2F%2Fwww.interview-welt.de%2F2020%2F04%2F26%2Fcorona-krise-dem-schutz-des-lebens-nicht-alles-unterordnen%2F" title="Twitter" target="_blank"></a><a class="cc-sharebuttons-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.interview-welt.de/2020/04/26/corona-krise-dem-schutz-des-lebens-nicht-alles-unterordnen/&amp;title=Corona-Krise%3A%20Dem%20Schutz%20des%20Lebens%20nicht%20alles%20unterordnen" title="LinkedIn" target="_blank"></a><a class="cc-sharebuttons-xing" href="https://www.xing.com/social_plugins/share/new?url=https://www.interview-welt.de/2020/04/26/corona-krise-dem-schutz-des-lebens-nicht-alles-unterordnen/" title="Xing" target="_blank"></a>
+
+</div>
+</div>
+                <div class="n j-comment">
+                    <div id="commentsModule15770080424"><p id="skiptoform15770080424" class="skiptoform"><a href="#" data-id="15770080424" data-action="goToForm">Kommentar schreiben</a></p><div class="j-blog-comment-counter" id="numComments15770080424"> Kommentare: <i class="cc-comments-count">0</i> </div><ul class="com-list-noava" id="commentOutput15770080424"><li id="commentFormContainer15770080424" class="commentstd clearover cc-m-comment-loading"><a name="commentForm15770080424"></a></li></ul><div id="commentError15770080424" class="message-error" style="display: none;"></div><div id="commentSuccess15770080424" class="message-ok" style="display: none;"></div></div><script>// <![CDATA[
+
+    window.regModule("module_comment", {"data":{"id":"15770080424","closed":"0","captcha":"a8cafda15b9b7c52b3bf5555f1ec2fa4","avatar":false,"lang":{"comment":"Kommentar","comments":"Kommentare"}}});
+// ]]>
+</script>
+                </div></article>
+        </div>
+          </div>
+          <aside class="jtpl-section__aside"><!-- _subnavigation.sass --><nav class="jtpl-subnavigation subnavigation-colors"><div data-container="navigation"><div class="j-nav-variant-nested"></div></div>
+            </nav><!-- END _subnavigation.sass --><div class="jtpl-sidebar">
+              <div data-container="sidebar"><div id="cc-matrix-4498574924"><div id="cc-m-15354926424" class="j-module n j-htmlCode "><script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<script>
+
+/* <![CDATA[ */
+
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-9976407243146634",
+    enable_page_level_ads: true
+  });
+/*]]>*/
+</script></div><div id="cc-m-15340709424" class="j-module n j-hgrid ">    <div class="cc-m-hgrid-column" style="width: 63.76%;">
+        <div id="cc-matrix-4498575224"><div id="cc-m-15389556524" class="j-module n j-sharebuttons ">
+<div class="cc-sharebuttons-element cc-sharebuttons-size-32 cc-sharebuttons-style-colored cc-sharebuttons-design-square cc-sharebuttons-align-left">
+
+
+    <a class="cc-sharebuttons-facebook" href="http://www.facebook.com/sharer.php?u=https://www.interview-welt.de/2020/04/26/corona-krise-dem-schutz-des-lebens-nicht-alles-unterordnen/&amp;t=Corona-Krise%3A%20Dem%20Schutz%20des%20Lebens%20nicht%20alles%20unterordnen" title="Facebook" target="_blank"></a><a class="cc-sharebuttons-twitter" href="http://twitter.com/share?text=Corona-Krise%3A%20Dem%20Schutz%20des%20Lebens%20nicht%20alles%20unterordnen&amp;url=https%3A%2F%2Fwww.interview-welt.de%2F2020%2F04%2F26%2Fcorona-krise-dem-schutz-des-lebens-nicht-alles-unterordnen%2F" title="Twitter" target="_blank"></a><a class="cc-sharebuttons-evernote" href="http://www.evernote.com/clip.action?url=https://www.interview-welt.de/2020/04/26/corona-krise-dem-schutz-des-lebens-nicht-alles-unterordnen/&amp;title=Corona-Krise%3A%20Dem%20Schutz%20des%20Lebens%20nicht%20alles%20unterordnen" title="Evernote" target="_blank"></a><a class="cc-sharebuttons-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.interview-welt.de/2020/04/26/corona-krise-dem-schutz-des-lebens-nicht-alles-unterordnen/&amp;title=Corona-Krise%3A%20Dem%20Schutz%20des%20Lebens%20nicht%20alles%20unterordnen" title="LinkedIn" target="_blank"></a><a class="cc-sharebuttons-xing" href="https://www.xing.com/social_plugins/share/new?url=https://www.interview-welt.de/2020/04/26/corona-krise-dem-schutz-des-lebens-nicht-alles-unterordnen/" title="Xing" target="_blank"></a><a class="cc-sharebuttons-reddit" href="http://reddit.com/submit?url=https://www.interview-welt.de/2020/04/26/corona-krise-dem-schutz-des-lebens-nicht-alles-unterordnen/&amp;title=Corona-Krise%3A%20Dem%20Schutz%20des%20Lebens%20nicht%20alles%20unterordnen" title="Reddit" target="_blank"></a><a class="cc-sharebuttons-digg" href="http://digg.com/submit?partner=addthis&amp;url=https://www.interview-welt.de/2020/04/26/corona-krise-dem-schutz-des-lebens-nicht-alles-unterordnen/&amp;title=Corona-Krise%3A%20Dem%20Schutz%20des%20Lebens%20nicht%20alles%20unterordnen" title="Digg" target="_blank"></a>
+
+</div>
+</div><div id="cc-m-15340709524" class="j-module n j-header "><h2 class="" id="cc-m-header-15340709524">Themen auf dieser Seite</h2></div><div id="cc-m-15340709724" class="j-module n j-text "><p>
+    <span style="letter-spacing: -0.3840000033378601px;">Im Mittelpunkt stehen die wichtigsten gesellschaftlichen und politischen Themen, die Menschen bewegen. Aktuell ist es die Corona-Krise und
+    deren politischen, sozialen und wirtschaftlichen  Folgen. </span><span style="letter-spacing: -0.3840000033378601px;">Darüber hinaus bietet die Seite </span>Interviews und
+     Specials, die besondere Themen gewidmet sind.
+</p>
+
+<p>
+     
+</p>
+
+<p>
+    <em><strong>English version </strong></em>
+</p>
+
+<p>
+     
+</p>
+
+<p>
+    The site focuses on the most important social and political issues that move people. Currently, it is the Corona crisis and its political, social and economic consequences. In addition, the site
+    offers interviews and specials dedicated to specific topics.  
+</p></div></div>    </div>
+            <div class="cc-m-hgrid-separator" data-display="cms-only"><div></div></div>
+        <div class="cc-m-hgrid-column last" style="width: 34.23%;">
+        <div id="cc-matrix-4498575324"><div id="cc-m-15353505624" class="j-module n j-htmlCode "><a target="_blank" href="https://www.amazon.de/gp/product/B00N28818A/ref=as_li_tl?ie=UTF8&amp;camp=1638&amp;creative=6742&amp;creativeASIN=B00N28818A&amp;linkCode=as2&amp;tag=wilmots0a-21&amp;linkId=2acdfd0897138abec14d0d8ac49bc4bf">
+<img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=B00N28818A&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL110_&amp;tag=wilmots0a-21"/></a><img src="//ir-de.amazon-adsystem.com/e/ir?t=wilmots0a-21&amp;l=am2&amp;o=3&amp;a=B00N28818A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/></div></div>    </div>
+    
+<div class="cc-m-hgrid-overlay" data-display="cms-only"></div>
+
+<br class="cc-clear"/>
+
+</div></div></div>
+            </div>
+          </aside></section><!-- END _section.sass --><!-- _footer.sass --><footer class="jtpl-footer footer-options"><div class="jtpl-footer__inner">
+            <div id="contentfooter" data-container="footer">
+
+    
+    <div class="j-meta-links">
+        <a href="/about/">Impressum</a> | <a href="//www.interview-welt.de/j/privacy">Datenschutz</a> | <a href="//www.interview-welt.de/j/cookies/policy">Cookie-Richtlinie</a> | <a href="/sitemap/">Sitemap</a><br/>Copyright der Webseite Hintermeier Daily - Das mit dem Kürzel "mei" oder namentlich gekennzeichnet Text- und Videomaterial ist urheberrechtlich geschützt und ausschließlich für die persönliche
+Information bestimmt. Jede weitergehende Verwendung, insbesondere die Speicherung in Datenbanken, Veröffentlichungen, Verfielfältigungen und jede Form der gewerblichen Nutzung sowie die Weitergabe an
+Dritte - auch in Teilen oder in überarbeiteter Form - ohne ausdrückliche Zustimmung der Betreiber der Webseite Hintermeier Daily ist untersagt.    </div>
+
+    <div class="j-admin-links">
+            
+    <span class="loggedout">
+        <a rel="nofollow" id="login" href="/login">Anmelden</a>
+    </span>
+
+<span class="loggedin">
+    <a rel="nofollow" id="logout" target="_top" href="https://cms.e.jimdo.com/app/cms/logout.php">
+        Abmelden    </a>
+    |
+    <a rel="nofollow" id="edit" target="_top" href="https://a.jimdo.com/app/auth/signin/jumpcms/?page=2809653724">Bearbeiten</a>
+</span>
+        </div>
+
+    
+</div>
+
+          </div>
+        </footer><!-- END _footer.sass --><!-- _cart.sass --><div class="jtpl-cart">
+          <div class="jtpl-cart__inner alignment-options">
+            
+          </div>
+        </div>
+        <!-- END _cart.sass -->
+
+      </div>
+
+      <!-- _mobile-navigation.sass PART 2/2 -->
+      <nav class="jtpl-mobile-navigation navigation-colors"><div data-container="navigation"><div class="j-nav-variant-nested"><ul class="cc-nav-level-0 j-nav-level-0"><li id="cc-nav-view-2782090524" class="jmd-nav__list-item-0"><a href="/" data-link-title="Start up">Start up</a></li><li id="cc-nav-view-2782528324" class="jmd-nav__list-item-0 j-nav-has-children"><a href="/blog/" data-link-title="Journal">Journal</a><span data-navi-toggle="cc-nav-view-2782528324" class="jmd-nav__toggle-button"></span><ul class="cc-nav-level-1 j-nav-level-1"><li id="cc-nav-view-2785288924" class="jmd-nav__list-item-1"><a href="/blog/politics-economics/" data-link-title="Politics &amp; Economics">Politics &amp; Economics</a></li><li id="cc-nav-view-2799730624" class="jmd-nav__list-item-1"><a href="/blog/klimawandel-und-umwelt/" data-link-title="Klimawandel und Umwelt">Klimawandel und Umwelt</a></li><li id="cc-nav-view-2785299424" class="jmd-nav__list-item-1"><a href="/blog/europa-im-blick/" data-link-title="Europa im Blick">Europa im Blick</a></li><li id="cc-nav-view-2785290924" class="jmd-nav__list-item-1"><a href="/blog/im-fokus-greta-thunberg-und-donald-trump/" data-link-title="Im Fokus: Greta Thunberg und Donald Trump">Im Fokus: Greta Thunberg und Donald Trump</a></li><li id="cc-nav-view-2785351524" class="jmd-nav__list-item-1"><a href="/blog/das-interview/" data-link-title="Das Interview">Das Interview</a></li><li id="cc-nav-view-2785374924" class="jmd-nav__list-item-1"><a href="/blog/mobilität-und-reise/" data-link-title="Mobilität und Reise">Mobilität und Reise</a></li><li id="cc-nav-view-2787086624" class="jmd-nav__list-item-1"><a href="/blog/job-und-beruf/" data-link-title="Job und Beruf">Job und Beruf</a></li><li id="cc-nav-view-2785707524" class="jmd-nav__list-item-1"><a href="/blog/sport-wirtschaft/" data-link-title="Sport &amp; Wirtschaft">Sport &amp; Wirtschaft</a></li><li id="cc-nav-view-2785351724" class="jmd-nav__list-item-1"><a href="/blog/schalke-04-die-blaue-seite-der-macht/" data-link-title="Schalke 04 - Die blaue Seite der Macht">Schalke 04 - Die blaue Seite der Macht</a></li><li id="cc-nav-view-2803639624" class="jmd-nav__list-item-1"><a href="/blog/coronavirus-spezial/" data-link-title="Coronavirus Spezial">Coronavirus Spezial</a></li><li id="cc-nav-view-2803890524" class="jmd-nav__list-item-1"><a href="/blog/polizei-blaulicht-spezial/" data-link-title="Polizei Blaulicht Spezial">Polizei Blaulicht Spezial</a></li></ul></li><li id="cc-nav-view-2782090724" class="jmd-nav__list-item-0"><a href="/it-s-me/" data-link-title="Redaktion">Redaktion</a></li><li id="cc-nav-view-2782090824" class="jmd-nav__list-item-0"><a href="/interviewwelt-gmail-com/" data-link-title="Kontakt">Kontakt</a></li><li id="cc-nav-view-2785075924" class="jmd-nav__list-item-0"><a href="/media/" data-link-title="Media">Media</a></li></ul></div></div>
+      </nav><!-- END _mobile-navigation.sass PART 2/2 -->
+</div>
+    <!-- END _main.sass -->
+
+  </div>
+    <ul class="cc-FloatingButtonBarContainer cc-FloatingButtonBarContainer-left hidden">
+
+                    <!-- scroll to top button -->
+            <li class="cc-FloatingButtonBarContainer-button-scroll">
+                <a href="javascript:void(0);" title="Nach oben scrollen">
+                    <span>Nach oben scrollen</span>
+                </a>
+            </li>
+            <script>// <![CDATA[
+
+    window.regModule("common_scrolltotop", []);
+// ]]>
+</script>    </ul>
+    <script type="text/javascript">
+//<![CDATA[
+var _gaq = [];
+
+_gaq.push(
+    ['_gat._anonymizeIp'],
+    ['a._setAccount', 'UA-134065821-1'],
+    ['a._trackPageview']
+    ,
+    ['b._setAccount', 'UA-24207326-97'],
+    ['b._setCustomVar', '1', 'websiteid', 'sa30144307879fe65'],
+    ['b._setDomainName', 'none'],
+    ['b._setAllowLinker', true],
+    ['b._trackPageview']
+);
+
+if (window.ckies.useMarketing()) {
+    (function() {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = 'https://www.google-analytics.com/ga.js';
+    
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+}
+//]]>
+</script>
+
+<div id="loginbox" class="hidden">
+
+    <div id="loginbox-header">
+
+    <a class="cc-close" title="Dieses Element zuklappen" href="#">zuklappen</a>
+
+    <div class="c"></div>
+
+</div>
+
+<div id="loginbox-content">
+
+        <div id="resendpw"></div>
+
+        <div id="loginboxOuter"></div>
+    </div>
+</div>
+<div id="loginbox-darklayer" class="hidden"></div>
+<script>// <![CDATA[
+
+    window.regModule("web_login", {"url":"https:\/\/www.interview-welt.de\/","pageId":2809653724});
+// ]]>
+</script>
+
+<div id="cc-cookie-law" class="cc-cookie-law-hidden" style="display: none;">
+                         <span id="cc-cookie-law-text">
+                            <span id="cc-cookie-law-headline">Diese Website verwendet Cookies. </span>
+                            Cookies werden zur Benutzerführung und Webanalyse verwendet und helfen dabei, diese Webseite zu verbessern. Durch die weitere Nutzung dieser Webseite erklären Sie sich mit unserer Cookie-Richtlinie einverstanden. Mehr Infos hier: <a href="https://www.interview-welt.de/j/cookies/policy">Cookie Policy</a>
+                         </span>
+                         <div id="cc-cookie-law-button-group">
+                             <span id="cc-cookie-law-button">
+                    <a data-action="enable" href="javascript:;" class="cc-btn cc-btn-icon btn-tick"><span></span>Ok</a>
+                </span>
+                         </div>
+                   </div><script>// <![CDATA[
+
+    window.regModule("web_cookielaw", []);
+// ]]>
+</script>
+
+</body>
+
+</html>
