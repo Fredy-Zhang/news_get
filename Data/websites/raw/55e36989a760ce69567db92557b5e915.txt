@@ -1,0 +1,722 @@
+
+
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta charset="UTF-8">
+<title>Online criticism of outdated paper-and-fax coronavirus infection reports spark change in Japan - The Mainichi</title>
+<meta name="viewport" content="width=1100px,user-scalable=yes">
+<meta name="format-detection" content="telephone=no">
+<meta name="title" content="Online criticism of outdated paper-and-fax coronavirus infection reports spark change in Japan">
+<meta name="keywords" content="Japan,Latest Articles,The Mainichi,National,JAPAN">
+<meta name="description" content="TOKYO -- Online criticism of the novel coronavirus infection reporting method, which requires doctors to fill out forms by hand and fax them to public">
+<meta name="firstcreate" content="2020-05-03 11:40:00">
+<meta name="lastupdate" content="2020-05-03 11:40:06">
+<meta name="mainichi:art-type" content="all">
+<meta name="mixi-check-robots" content="noimage">
+<meta name="robots" content="noarchive"><meta name="Hatena::Bookmark" content="noindex"><link rel="canonical" href="https://mainichi.jp/english/articles/20200502/p2a/00m/0na/022000c">
+
+<!--| favicon |-->
+<link rel="icon" href="https://cdn.mainichi.jp/vol1/images/icon/english/favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="https://cdn.mainichi.jp/vol1/images/icon/english/apple-touch.png">
+
+<!--| open graph |-->
+<meta property="og:title" content="Online criticism of outdated paper-and-fax coronavirus infection reports spark change in Japan - The Mainichi">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:locale:alternate" content="ja_JP"><meta property="og:site_name" content="The Mainichi">
+<meta property="og:url" content="https://mainichi.jp/english/articles/20200502/p2a/00m/0na/022000c">
+<meta property="og:description" content="TOKYO -- Online criticism of the novel coronavirus infection reporting method, which requires doctors to fill out forms by hand and fax them to public">
+<meta property="og:image" content="https://cdn.mainichi.jp/vol1/2020/05/02/20200502p2a00m0na021000p/0c8.jpg?3">
+
+<!--| twitter card |-->
+<meta name="twitter:site" content="@themainichi">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image:src" content="https://cdn.mainichi.jp/vol1/2020/05/02/20200502p2a00m0na021000p/0c8.jpg?3">
+<meta name="twitter:title" content="Online criticism of outdated paper-and-fax coronavirus infection reports spark change in Japan">
+<meta name="twitter:description" content="TOKYO -- Online criticism of the novel coronavirus infection reporting method, which requires doctors to fill out forms by hand and fax them to public">
+<meta name="twitter:url" content="https://mainichi.jp/english/articles/20200502/p2a/00m/0na/022000c">
+
+<!--| Facebook |-->
+<meta property="fb:app_id" content="829413960504653">
+<meta property="article:publisher" content="https://www.facebook.com/themainichi/">
+<meta property="article:author" content="https://www.facebook.com/themainichi/">
+<meta name="cXenseParse:mai-fee-charging" content="">
+<meta name="cXenseParse:mai-entitlement" content="free-entry">
+<meta name="cXenseParse:recs:image" content="https://cdn.mainichi.jp/vol1/2020/05/02/20200502p2a00m0na021000p/0c6.jpg?3">
+<meta name="cXenseParse:recs:mai-cbtitle" content="Online criticism of outdated paper-and-fax coronavirus infection reports spark change in Japan">
+
+
+
+<meta name="cXenseParse:recs:publishtime" content="2020-05-03T11:40:00.000+0900">
+
+<meta property="article:modified_time" content="2020-05-03T11:40:06.000+0900"/>
+<meta name="cXenseParse:genrecd-big" content="p2a">
+<meta name="cXenseParse:ch-category" content="Japan">
+<meta name="cXenseParse:ch-category" content="Latest Articles">
+<meta name="cXenseParse:subdirectory" content="The Mainichi">
+<meta name="cXenseParse:mai-relevance" content="National">
+<meta name="cXenseParse:ch-country" content="JAPAN">
+<meta name="cXenseParse:genrecd-small" content="0na">
+<meta name="cXenseParse:genrecd-medium" content="00m">
+
+<meta name="cXenseParse:characters" content="U-6000">
+<meta name="cXenseParse:keywordline" content="National">
+<meta name="cXenseParse:recs:articleid" content="20200502p2a00m0na022000c1">
+<meta name="cXenseParse:mai-category" content="m100000023">
+<meta name="cXenseParse:mai-category" content="m010000045">
+<meta name="cXenseParse:mai-category" content="m300000026">
+<meta name="cXenseParse:atclid" content="20200502p2a00m0na022000c">
+
+
+
+
+
+
+
+<!-- Cxense 計測タグ #4000 -->
+<script type='text/javascript'>
+document.write('<scr'+'ipt type="text/javascript" src="http'+(location.protocol==='https:'?'s://s':'://')+'cdn.cxense.com/cx.js"></scr'+'ipt>');
+</script>
+<!--<script type='text/javascript' src='https://scdn.cxense.com/cx.js'></script>-->
+<script type="text/javascript">
+var cX = window.cX = window.cX || {}; cX.callQueue = cX.callQueue || [];
+cX.CCE = cX.CCE || {}; cX.CCE.callQueue = cX.CCE.callQueue || [];
+cX.callQueue.push(["invoke", function() {
+var cx_prnd = cX.getCookie('prnd');
+if(cx_prnd){
+cX.setRandomId(cx_prnd);
+}
+if(!cX.getUserId(false)) {cX.setCustomParameters({"newuser":"true"}); cX.startSessionAnnotation({"newuser_S":"true"});}
+}]);
+//STG
+//cX.callQueue.push(['setSiteId', '1133979783833564085']);
+//本番
+cX.callQueue.push(['setSiteId', '9222356687186286883']);
+</script>
+
+<!--Cxense測定用(中間・全文) BGN-->
+<script>dataLayer = [{'art-type':'all'}];</script>
+
+
+<meta name="ob:title" content="Online criticism of outdated paper-and-fax coronavirus infection reports spark change in Japan">
+<meta name="ob:keywordline" content="National">
+
+
+<script src="https://yads.c.yimg.jp/js/ytag.js"></script>
+<script>
+  window.yjDataLayer = window.yjDataLayer || [];
+  function ytag() {yjDataLayer.push(arguments);}
+  ytag({"type": "ycl_cookie"});
+  ytag({"type": "ycl_cookie_extended"});
+</script>
+
+
+
+<!--| CSS |-->
+<link rel="stylesheet" href="//cdn.mainichi.jp/vol1/css/pc/common_v3.css?20200415">
+<link rel="prefetch" href="//cdn.mainichi.jp/vol1/css/pc/print.css?dt=2">
+
+
+
+<!--| JS |-->
+<script src="//cdn.mainichi.jp/vol1/js/jquery-1.11.3.min.js"></script>
+<script src="//cdn.mainichi.jp/vol1/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="//cdn.mainichi.jp/vol1/js/pc/script.js?dt=20190905"></script>
+<script type="text/javascript" src="//cdn.mainichi.jp/vol1/js/mode-select.js?dt=0109"></script>
+<style>
+li .keyword:empty{display:none;min-height:1px;}
+</style>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="//cdn.mainichi.jp/vol1/js/pc/html5.js"></script>
+<![endif]-->
+<link rel="stylesheet" href="//cdn.mainichi.jp/vol1/css/pc/english.css?date=09">
+
+
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script type="text/javascript">
+document.write('<scr'+'ipt type="text/javascript" src="http'+(location.protocol==='https:'?'s://s':'://')+'cdn.cxense.com/cx.js"></scr'+'ipt>');
+</script>
+
+<script>
+ var cX = cX || {};cX.callQueue = cX.callQueue || [];
+  cX.callQueue.push(['invoke',function(){
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/41213723/PC/english/rec1', ['fluid', [300, 250], [300, 600]], 'PC-english-rec1').addService(
+    googletag.pubads()).setTargeting("CxSegments",cX.getUserSegmentIds({persistedQueryId:'f31589e34340c498c7c5098297d506a55eed6620'}));
+    googletag.defineSlot('/41213723/PC/english/rec2', ['fluid', [300, 250]], 'PC-english-rec2').addService(
+    googletag.pubads()).setTargeting("CxSegments",cX.getUserSegmentIds({persistedQueryId:'f31589e34340c498c7c5098297d506a55eed6620'}));
+    googletag.pubads().setTargeting("url","https://mainichi.jp/english/articles/20200502/p2a/00m/0na/022000c");
+    googletag.pubads().setTargeting("keywords","Japan,Latest Articles,The Mainichi,National,JAPAN");
+    googletag.pubads().setTargeting("genreBig","p2a");
+    googletag.pubads().setTargeting("genreMedium","00m");
+    googletag.pubads().setTargeting("genreSmall","0na");
+    googletag.pubads().setTargeting("subjectCode","health,government,technology");
+    googletag.pubads().setTargeting("kanrenMidashi","National");
+    googletag.pubads().setTargeting("category","Japan");
+    googletag.pubads().setTargeting("articleType","free-entry");
+    googletag.pubads().setTargeting("entitlement","non-login");
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().enableLazyLoad({fetchMarginPercent: 10, renderMarginPercent: 60, mobileScaling: 2.0});
+    var cookiesArray = document.cookie.split("; ");
+    for(var i=0; i<cookiesArray.length; i++){
+        if(cookiesArray[i].split("=")[0] == "_ga"){
+            var cid = cookiesArray[i].split("=")[1].substr(6);
+            break;
+        }
+    }
+    var ppid = (cid+cid).replace(/(\.||-||_)/g,"").substring(0,149);
+    googletag.pubads().setPublisherProvidedId(ppid);
+    googletag.enableServices();
+  });
+ }]);
+  //Async load of cx.js
+  (function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+  e.src='http'+('https:'===location.protocol?'s://s':'://')+'cdn.cxense.com/cx.js';
+  t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+</script>
+
+
+
+<!-- Page hiding snippet (recommended) -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>
+(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);
+})(window,document.documentElement,'async-hide','dataLayer',4000,{'GTM-5M48NC':true});
+</script>
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5M48NC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5M48NC');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body>
+<p class="hide"><a href="#main">Please view the main text area of the page by skipping the main menu.</a></p>
+<noscript>
+<p class="nojs">The page may not be displayed properly if the JavaScript is deactivated on your browser.</p>
+</noscript>
+
+<!--| header BGN |-->
+<header id="top">
+<!--| header-box BGN |-->
+<nav class="header-main">
+
+<!--| container BGN |-->
+<div class="container">
+
+<p class="logo"><a href="/english/"><img src="//cdn.mainichi.jp/vol1/images/pc/logo-theMainichi.png" width="230" alt="The Mainichi">
+<span>Japan's National Daily Since 1922</span></a></p>
+<ul>
+<li class="search">
+<div class="header-search">
+<form method="get" action="/english/search" id="hsearch" name="hsearch" enctype="application/x-www-form-urlencoded">
+<div id="search-input"><input type="text" class="form-input" name="q"></div>
+<div id="search-btn"><input type="submit" class="form-btn" value="Search"></div>
+</form>
+</div>
+</li>
+<li class="sublink"><a href="https://mainichi.jp/">Japanese</a></li>
+<li class="sublink"><a href="https://form.mainichi.jp/mdn/common/content.html">Contact Us</a></li>
+</ul>
+
+</div>
+<!--| container END |-->
+
+</nav>
+<!--| header-box END |-->
+
+<!--| main-navi BGN |-->
+<div id="mainNavi" class="main-navi">
+<!--| container BGN |-->
+<div class="container">
+<ul>
+<li><a href="//mainichi.jp/english/">Top</a></li>
+<li><a href="//mainichi.jp/english/latest/1">Latest</a></li>
+<li class="active"><a href="//mainichi.jp/english/japan/">Japan</a></li>
+<li><a href="//mainichi.jp/english/world/">World</a></li>
+<li><a href="//mainichi.jp/english/business/">Business</a></li>
+<li><a href="//mainichi.jp/english/sports/">Sports</a></li>
+<li><a href="//mainichi.jp/english/entertainment/">Entertainment</a></li>
+<li><a href="//mainichi.jp/english/opinion/">Opinion</a></li>
+<li><a href="//mainichi.jp/english/lifestyle/">Lifestyle</a></li>
+<li><a href="//mainichi.jp/english/features/">Features</a></li>
+<li><a href="//mainichi.jp/english/photos/">Photos</a></li>
+<li><a href="//mainichi.jp/english/videos/">Videos</a></li>
+</ul>
+</div>
+<!--| container END |-->
+</div>
+<!--| main-navi END |-->
+
+
+
+
+
+</header>
+<!--| header END |-->
+
+
+
+<!--| container BGN |-->
+<div class="container">
+<!--| main BGN |-->
+<div id="main">
+<!--| article BGN |-->
+<article id="main-cont">
+
+<!--| header BGN |-->
+<header>
+<!--| header-box BGN |-->
+<div class="header-box">
+<ul class="inline-list">
+
+</ul>
+</div>
+
+<!--| header-box BGN |-->
+<h1>Online criticism of outdated paper-and-fax coronavirus infection reports spark change in Japan</h1>
+<div class="article-infoBox">
+<div class="article-info">
+<p class="post"><time>May 3, 2020</time> (Mainichi Japan)</p>
+
+</div>
+<!--| sub BGN |-->
+<div class="sub">
+<p class="japanese"><a href="//mainichi.jp/articles/20200501/k00/00m/040/181000c">Japanese version</a></p></div>
+<!--| sub END |-->
+</div>
+</header>
+<!--| header END |-->
+
+
+
+<!--| main-text BGN |-->
+<div class="main-text">
+<!-- cxenseparse_start -->
+
+<div class="img-left">
+<figure>
+<div class="img">
+<a data-href="https://cdn.mainichi.jp/vol1/2020/05/02/20200502p2a00m0na021000p/9.jpg?3" data-lightbox="photos" data-title="A copy of a template for reporting confirmed cases of the novel coronavirus from the Ministry of Health, Labor and Welfare website is seen in this photo. The columns are narrow, and require small handwriting. These are filled out by doctors and faxed to public health centers. (Mainichi)">
+<span class="wrap">
+<img src="https://cdn.mainichi.jp/vol1/2020/05/02/20200502p2a00m0na021000p/6.jpg?3" alt="" class="horizontal-photo">
+<div class="img-zoom" title="拡大写真"></div>
+</span>
+<div class="img-mask"></div>
+</a>
+</div>
+<figcaption>A copy of a template for reporting confirmed cases of the novel coronavirus from the Ministry of Health, Labor and Welfare website is seen in this photo. The columns are narrow, and require small handwriting. These are filled out by doctors and faxed to public health centers. (Mainichi)</figcaption>
+</figure>
+</div>
+<p class="txt">
+    TOKYO -- Online criticism of the novel coronavirus infection reporting method, which requires doctors to fill out forms by hand and fax them to public health centers, has prompted authorities to enable the forms to be submitted online from mid-May.
+</p>
+<!-- cxenseparse_end -->
+<div><ul class="list-typeD typeD-line">
+<li>
+<a href="//mainichi.jp/english/articles/20200418/p2g/00m/0na/071000c">
+<span class="midashi ">【Related】New wave of infections threatens to collapse Japan hospitals</span>
+</a>
+</li>
+
+<li>
+<a href="//mainichi.jp/english/articles/20200423/p2g/00m/0fe/095000c">
+<span class="midashi ">【Related】Experts call for more coronavirus tests in Japan as positive rate rises</span>
+</a>
+</li>
+
+<li>
+<a href="//mainichi.jp/english/articles/20200421/p2a/00m/0in/018000c">
+<span class="midashi ">【Related】Public health center workers in Tokyo exhausted as coronavirus cases keep rising</span>
+</a>
+</li>
+</ul></div>
+<!-- cxenseparse_start -->
+<p class="txt">
+    The dated reporting method caused a stir online after a Twitter user who claims to be a doctor specializing in respiratory medicine at a public hospital tweeted on April 23, "Come on, let's stop this already. Reporting cases in handwriting ... Even with corona, we're handwriting and faxing." The doctor branded the practice "Showa period stuff," referring to the era from 1926-1989, when faxes were still in common use.
+</p>
+<p class="txt">
+    Under the infectious diseases law, when a physician confirms a case of novel coronavirus or other infectious diseases in a patient, they have to submit a report of the case to their regional public health center in each prefecture right away. The problem is that the doctors using forms prepared by local authorities had to fill them in by hand, and fax them to public health centers and other institutions.
+</p>
+<p class="txt">
+    As soon as the tweet went up, it gained attention and was retweeted at least 10,000 times, attracting comments such as "What a waste to be forced to write those kinds of reports in a war-zone-like situation where the health care system is about to collapse." The responses came from people who weren't health care workers, too. 
+</p>
+<p class="txt">
+    On the website of the Ministry of Health, Labor and Welfare, which has jurisdiction over the infectious diseases act, there is a printable novel coronavirus "report" template. Each prefecture has its own version based on the health ministry's one, and doctors across the country have been using regional templates to report coronavirus cases to their local public health center.
+</p>
+<p class="txt">
+    The form requires the physician to fill in 19 fields by hand, including the patient's name, address, occupation, symptoms, first consultation date, and diagnostic method. The columns are narrow, and the necessary information won't fit unless written in small letters. Making these an additional demand on top of doctors' everyday tasks, is seen as a waste of time.
+</p>
+<p class="txt">
+    An official at the health ministry's Tuberculosis and Infectious Diseases Control Division told the Mainichi Shimbun: "The infectious diseases law stipulates the kind of information that must be reported, such as the patient's address and symptoms, but there are no legal requirements on the format the report should be made in, or the method for submitting it. They can be handwritten and faxed, inputted by computer, or emailed by doctors to public health centers. But the methods are left to the discretion of prefectural or other local governments."
+</p>
+<p class="txt">
+    Upon further research, it became apparent that while there are municipalities where doctors fax handwritten reports, there are others where faxes are sent without patients' personal information due to concerns faxes could be sent to wrong numbers. The originals with the personal information on them are subsequently posted to public health centers. According to the health ministry official, some municipalities do not use paper, and doctors submit reports online. Essentially, methods vary from region to region.
+</p>
+<p class="txt">
+    "Public health center staff take the information sent to them in the reports and enter it into the National Epidemiological Surveillance of Infectious Diseases (NESID) System, which is an online system that ties local health centers to the national and prefectural governments," the health ministry official said. "Some of the staff say that when they do the data entry, it's easier having the information on paper."
+</p>
+<p class="txt">
+    However, following calls to scrap the paper-and-fax method, State Minister of Cabinet Office Masaaki Taira, who is in charge of Japan's information technology policy, pledged he would "address the problem."
+</p>
+<p class="txt">
+    The outcome is a new system, through which doctors can send novel coronavirus infection reports to public health centers over the internet. This information will be shared with the central and prefectural governments, so the health centers do not have to input the information again. The system will be launched by some local bodies from May 10 and expanded to cover the whole country from May 17.
+</p>
+<p class="txt">
+    While seemingly late in arriving, the new system has been welcomed online, with doctors and other internet users taking to Twitter to comment that they would be glad if it proves to be "a step toward improving inefficient practices within the central government and local bodies."
+</p>
+<p class="txt">
+    The reason issues around outdated reporting methods attracted widespread attention in the first place was something to do with the novel coronavirus outbreak's very unique circumstances. 
+</p>
+<p class="txt">
+    "Unlike for influenza, where it's only required to report the confirmed number of patients per week at certain medical facilities, with the novel coronavirus, all doctors and medical institutions must report the names, symptoms, and other details of every patient they confirm has the virus (otherwise known as notifiable disease surveillance)," one Tokyo Metropolitan Government official said. The official said the paper-based system was probably still in place partly because it wasn't made with consideration for there ever being this kind of large-scale infectious disease that requires notifiable disease surveillance.
+</p>
+<p class="txt">
+    In other words, problems with the reporting system were exposed by the COVID-19 outbreak. The aforementioned health ministry official said the system had been under debate for at least 10 years, before going on to say that the online system used to date was paper based, and that it had been left to doctors and public health center workers to pick up the slack. 
+</p>
+<p class="txt">
+    With the coronavirus outbreak, working styles are changing. If the government is going to call for a productivity revolution, it must help health care professionals on the ground do away with Showa-era traditions.
+</p>
+<p class="txt">
+    (Japanese original by Riki Yoshii, Integrated Digital News Center)
+</p>
+<!-- cxenseparse_end -->
+
+<!--| tools BGN |-->
+<div id="tools">
+<ul>
+<li class="btn-fontSize"><a href="#" class="btn" title="Font Size">Font Size</a>
+<ul class="tool"><li class="font-s fonts">S</li><li class="font-m fonts">M</li><li class="font-l fonts">L</li></ul></li>
+<li class="btn-print"><a href="javascript:void(0);" onClick="printFunc();return false;" class="btn" title="Print">Print</a></li>
+<li class="btn-share active"><a href="#" class="btn" title="Share">Share</a>
+<ul class="share tool"></ul>
+</li>
+</ul>
+</div>
+<!--| tools END |-->
+</div>
+<!--| main-text END |-->
+
+<!--| aside BGN |-->
+<aside class="nav">
+<ul>
+<li><a href="/english/">Go to The Mainichi Home Page</a></li>
+</ul>
+</aside>
+<!--| aside END |-->
+
+
+
+
+</article>
+<!--| article END |-->
+
+<!--| Recommend BGN |-->
+<div class="recommend col-set">
+<h2>Also in The Mainichi</h2>
+<div id="cx_recsBottomOfArticleccePC"></div>
+</div>
+<!--| Recommend END |-->
+<!--| Recomend BGN |-->
+<aside class="ad">
+<!--| Outbrain content widget: PC English Article Bottom BGN |-->
+<div class="OUTBRAIN" data-src="https://mainichi.jp/english/articles/20200502/p2a/00m/0na/022000c" data-widget-id="AR_8" data-ob-template="TheMainichi"></div>
+<div class="OUTBRAIN" data-src="https://mainichi.jp/english/articles/20200502/p2a/00m/0na/022000c" data-widget-id="AR_9" data-ob-template="TheMainichi"></div>
+<div class="OUTBRAIN" data-src="https://mainichi.jp/english/articles/20200502/p2a/00m/0na/022000c" data-widget-id="AR_10" data-ob-template="TheMainichi"></div>
+<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+<!--| Outbrain content widget END |-->
+</aside>
+<!--| Recomend END |-->
+
+</div>
+<!--| main END |-->
+
+<!--| sub BGN |-->
+<div id="sub">
+
+<!-- PC-english-rec1 -->
+<div id='PC-english-rec1'>
+<script>
+cX.callQueue.push(['invoke',function(){
+googletag.cmd.push(function() { googletag.display('PC-english-rec1'); });
+}]);
+</script>
+</div>
+
+<!--| sns BGN |-->
+<dl class="accounts">
+<dt style="float:none">The Mainichi on social media</dt>
+<dd>
+<ul class="inline-list">
+<li class="fb btn-sns"><a href="http://www.facebook.com/themainichi" target="_blank" title="Facebook"><span></span></a></li>
+<li class="tw btn-sns"><a href="https://twitter.com/themainichi" target="_blank" title="twitter"><span></span></a></li>
+<li class="ig btn-sns"><a href="https://www.instagram.com/themainichi/" target="_blank" title="instagram"><span></span></a></li>
+<li class="rss btn-sns"><a href="/english/rss/" title="RSS">RSS<span></span></a></li>
+</ul>
+</dd>
+</dl>
+<!--| sns END |-->
+
+<!--| section BGN |-->
+<div class="section">
+<h2>Latest Articles</h2>
+<ul class="list-typeD">
+<li>
+<a href="//mainichi.jp/english/articles/20200505/p2g/00m/0fe/081000c">
+<div class="thumb img"><img src="https://cdn.mainichi.jp/vol1/2020/05/05/20200505p2g00m0fe080000p/4.jpg?1" alt="A soldier of the Swiss army wearing a protective face mask holds a smartphone with an app using Decentralized Privacy-Preserving Proximity Tracing (DP-3T) during a test with 100 soldiers in the military compound of Chamblon near Yverdon-les-Bains, Switzerland, on April 30, 2020. (Laurent Gillieron/Keystone via AP)" class="horizontal-photo"><div class="img-mask"></div></div>
+<span class="midashi ">Here come COVID-19 tracing apps -- and privacy tradeoffs</span>
+</a>
+</li>
+<li>
+<a href="//mainichi.jp/english/articles/20200505/p2a/00m/0na/013000c">
+<div class="thumb img"><img src="https://cdn.mainichi.jp/vol1/2020/05/04/20200504p2a00m0na005000p/4.jpg?2" alt="" class="square-photo"><div class="img-mask"></div></div>
+<span class="midashi ">Editorial: Long-term support needed as Japan's state of emergency continues</span>
+</a>
+</li>
+<li>
+<a href="//mainichi.jp/english/articles/20200505/p2g/00m/0et/091000c">
+<div class="thumb img"><img src="https://cdn.mainichi.jp/vol1/2020/05/05/20200505p2g00m0et090000p/4.jpg?1" alt="This combination photo shows the cover of "The Nickel Boys," left, and a portrait of author Colson Whitehead. (Doubleday, left, and Madeline Whitehead/Doubleday via AP)" class="horizontal-photo"><div class="img-mask"></div></div>
+<span class="midashi ">Colson Whitehead's 'The Nickel Boys' wins Pulitzer Prize</span>
+</a>
+</li>
+</ul>
+<p class="txt-right small">
+<a href="//mainichi.jp/english/latest/1">More Articles</a>
+</p>
+</div>
+<!--| section END |-->
+
+<!--| section BGN |-->
+<div class="section">
+<h2>Trending</h2>
+<!--| Cxense content widget: PC 英語版 記事ページ ライトパネル BGN |-->
+<div id="cx_recsrightCol" style="height:1px;"></div>
+<div id="cx_recsTargetRightCol" style="display: none;"></div>
+<script type="text/javascript">
+    var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+    cX.callQueue.push(['invoke', function() {
+      var point = document.getElementById('cx_recsrightCol') ? document.getElementById('cx_recsrightCol').id : "cx_recsrightCol";
+      cX.trackElement({elementId: point,
+        trigger: {
+          on: function(state) { return state.visibility.maxPercent > 0; },
+          callback: function(state) {
+            cX.setSiteId('9222356687186286883');
+            cX.setEventAttributes({origin:'mai-web', persistedQueryId:'fead2bc65fbe64e10dbc2f536fe1f09ba4412432'});
+            cX.sendEvent('inview', {widgetId:'c272bb0f76ee4cc1b87c073ad8f6b8b41550214b',widgetName:"PC右カラム（英語）"});
+          }
+        }
+      });
+    }]);
+    cX.callQueue.push(['insertWidget', {
+        widgetId: 'c272bb0f76ee4cc1b87c073ad8f6b8b41550214b',
+        insertBeforeElementId: 'cx_recsTargetRightCol',
+        width: '100%', height: 416, renderTemplateUrl: 'auto',
+    }]);
+    // Async load of cx.js
+    (function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+    e.src='http'+('https:'===location.protocol?'s://s':'://')+'cdn.cxense.com/cx.js';
+    t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+</script>
+<!--| Cxense content widget END |-->
+</div>
+<!--| section END |-->
+<!-- PC-english-rec2 -->
+<div id='PC-english-rec2'>
+<script>
+cX.callQueue.push(['invoke',function(){
+googletag.cmd.push(function() { googletag.display('PC-english-rec2'); });
+}]);
+</script>
+</div>
+
+</div>
+<!--| sub END |-->
+
+</div>
+<!--| container END |-->
+
+<!--| contents-end BGN |-->
+<div class="contents-end">
+<div class="container">
+<ul>
+<li><a href="#top">Go to Page Top</a></li>
+</ul>
+</div>
+</div>
+<!--| contents-end END |-->
+
+
+
+<footer>
+
+<!--| sitemap BGN |-->
+<div class="sitemap">
+
+<div class="container">
+
+<ul class="sitemap-list inline-list">
+<li>
+<dl>
+<dt><a href="/english/japan/">Japan</a></dt>
+<dd>
+<ul>
+<li><a href="/english/fukushima/">Fukushima &amp; Nuclear Power</a></li>
+</ul>
+</dd>
+<dt><a href="/english/world/">World</a></dt>
+<dd><ul>
+<li>&nbsp;</li>
+</ul>
+</dd>
+<dt><a href="/english/business/">Business</a></dt>
+<dd><ul>
+<li>&nbsp;</li>
+</ul>
+</dd>
+</dl>
+</li>
+
+<li>
+<dl><dt><a href="/english/opinion/">Opinion</a></dt>
+<dd>
+<ul>
+<li><a href="/english/editorial/">Editorial</a></li>
+<li><a href="/english/pulse/">Japan Political Pulse</a></li>
+<li><a href="/english/yoroku/">Yoroku</a></li>
+<li><a href="/english/analysis/">Analysis</a></li>
+<li><a href="/english/newsnavigator/">News Navigator</a></li>
+<li><a href="/english/column/">Selected Columns</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+
+<li>
+<dl>
+<dt><a href="/english/entertainment/">Entertainment</a></dt>
+<dd>
+<ul>
+<li><a href="/english/haiku/">Haiku</a></li>
+</ul>
+</dd>
+<dt><a href="/english/sports/">Sports</a></dt>
+<dd>
+<ul>
+<li><a href="/english/olympics/">Olympics</a></li>
+</ul>
+</dd>
+<dt><a href="/english/lifestyle/">Lifestyle</a></dt>
+<dd>
+<ul>
+<li><a href="/english/travel/">Travel</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+
+<li>
+<dl><dt><a href="/english/features/">Features</a></dt>
+<dd>
+<ul>
+<li><a href="/english/hibakusha/">Hibakusha Series</a></li>
+<li><a href="/english/nuclear/">Nuclear Focus</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+
+<li>
+<dl><dt><a href="/english/photos/">Photos</a></dt>
+<dd>
+<ul>
+<li><a href="/english/photojournal/">Photo Journal</a></li>
+<li><a href="/english/photospecials/">Photo Specials</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+
+<li>
+<dl><dt><a href="/english/videos/">Videos</a></dt>
+<dt><a href="/english/odd/">Odds &amp; Ends</a></dt>
+</dl>
+</li>
+
+</ul>
+
+<dl class="sitemap-list2">
+<dt>The Mainichi on social media</dt>
+<dd>
+<ul class="inline-list">
+<li class="fb btn-sns"><a href="http://www.facebook.com/themainichi" target="_blank" title="Facebook"></a></li>
+<li class="tw btn-sns"><a href="https://twitter.com/themainichi" target="_blank" title="twitter"></a></li>
+<li class="ig btn-sns"><a href="https://www.instagram.com/themainichi/" target="_blank" title="instagram"></a></li>
+</ul>
+</dd>
+</dl>
+
+</div>
+
+</div>
+<!--||-->
+
+
+
+<!--| infomation |-->
+<div class="infomation">
+<div class="container">
+
+<p class="logo"><img src="//cdn.mainichi.jp/vol1/images/pc/logo-mainichi_w_e.png"></p>
+
+<ul class="inline-list">
+<li><a href="/english/info/copyright_en.html">Copyright</a></li>
+<li><a href="/english/info/etc/privacy2.html">Privacy Policy</a></li>
+<li><a href="/advertising/english/">Advertise with Us</a></li>
+<li><a href="https://form.mainichi.jp/mdn/common/content.html">Contact Us</a></li>
+</ul>
+
+<p>Copyright THE MAINICHI NEWSPAPERS. All rights reserved.</p>
+
+</div>
+</div>
+<!--||-->
+
+</footer>
+<!--| script BGN |-->
+<script type="text/javascript" src="https://cdn.mainichi.jp/vol1/js/pc/lightbox.js"></script>
+<script type="text/javascript" src="https://cdn.mainichi.jp/vol1/js/pc/script-lightbox.js"></script>
+<!--| script BGN |-->
+<!-- cXense CCE #3472 -->
+<div id="cxSubscMsg"></div>
+<div id="cxGdprMsg"></div>
+<div id="cxPageBottomBnr"></div>
+<div id="cxPageModalBnr"></div>
+
+<!--リスティング広告計測用 #3705 -->
+<script id="tagjs" type="text/javascript">
+  (function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "//s.yjtag.jp/tag.js#site=LAFKJA6";
+    s.parentNode.insertBefore(tagjs, s);
+  }());
+</script>
+<noscript>
+  <iframe src="//b.yjtag.jp/iframe?c=LAFKJA6" width="1" height="1" title="yjtag"></iframe>
+</noscript>
+</body>
+</html>

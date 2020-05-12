@@ -1,0 +1,13 @@
+
+                              Coronavirus: Scientists hail 'groundbreaking' discovery of antibody which prevents infection
+                      
+Building on research into antibodies which target the SARS coronavirus, scientists have identified one that blocks COVID-19.
+Scientists have discovered an antibody which prevents the coronavirus from infecting human cells in "groundbreaking research" which could lead to the development of new treatments.
+They discovered that an antibody which prevents the SARS virus from infecting human cells could also block the novel coronavirus from infecting human cells too, according a peer reviewed study published on Monday in the journal Nature Communications.
+Testing their collection of antibodies on cultured human cells, researchers discovered one which binds to a specific part which is present in both SARS and the virus causing COVID-19.
+The discovery could offer an initial step towards developing a fully-human antibody to treat or prevent the disease, which has infected more then 3.5 million people worldwide, and led to more than 247,000 deaths.
+The neutralising antibody "has potential to alter the course of infection in the infected host, support virus clearance or protect an uninfected individual that is exposed to the virus," said Dr Berend-Jan Bosch, co-lead author on the study.
+Dr Frank Grosveld, the study's other co-lead author, said the discovery provided "a strong foundation for additional research to characterise this antibody and begin development as a potential COVID-19 treatment".
+"The antibody used in this work is 'fully human', allowing development to proceed more rapidly and reducing the potential for immune-related side effects," he added.
+The fully-human antibody is different from conventional therapeutic antibodies, which are often first developed in other species before being "humanised" so they can be transmitted to people.
+It was developed using Harbour BioMed's H2L2 transgenic mouse technology - effectively a mouse which has been genetically engineered to contain human genes, enabling researchers to develop "human" antibodies without testing them on living people.

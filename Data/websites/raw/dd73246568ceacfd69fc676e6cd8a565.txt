@@ -1,0 +1,954 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+
+    
+
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <meta name="ROBOTS" content="index,follow"/>
+    <meta name="language" content="English"/>
+    <meta name="copyright" content="Saudi Gazette"/>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+    
+
+    <script src="https://tags.crwdcntrl.net/c/12596/cc_af.js"></script>
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+	<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/3387746/SG_Business_1X1_Desktop', [1, 1], 'div-gpt-ad-1517902858377-0').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_Business_1X1_Mobile', [1, 1], 'div-gpt-ad-1517902858377-1').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_Business_BB_Desktop', [970, 250], 'div-gpt-ad-1517902858377-2').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_Business_HP_Desktop', [300, 600], 'div-gpt-ad-1517902858377-3').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_Business_Interstitial_Mobile', [320, 480], 'div-gpt-ad-1517902858377-4').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_Business_LB_Desktop', [728, 90], 'div-gpt-ad-1517902858377-5').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_Business_LB_Mobile', [[300, 50], [320, 100], [320, 50], [300, 100]], 'div-gpt-ad-1517902858377-6').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_Business_MPU_Desktop', [300, 250], 'div-gpt-ad-1517902858377-7').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_Business_MPU_Mobile', [300, 250], 'div-gpt-ad-1517902858377-8').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_Business_SSleft_Desktop', [160, 600], 'div-gpt-ad-1517902858377-9').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_Business_SSright_Desktop', [160, 600], 'div-gpt-ad-1517902858377-10').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script>
+function EmbedScript() {
+var _Impulser = window.parent.document.createElement('script'); _Impulser.type = 'text/javascript';
+_Impulser.async = true;
+_Impulser.src = ('https:' == window.parent.document.location.protocol ? 'https://' : 'http://')   'impulse.forkcdn.com/impulse3/config/impulse.js';
+var _scripter = window.parent.document.getElementsByTagName('script')[0];
+_scripter.parentNode.insertBefore(_Impulser, _scripter);
+};
+function inIframe () {
+    try {
+        return window.self !== window.top;
+    } catch (e) {
+        return true;
+    }
+}
+if(inIframe()) {
+    window.parent.$ImpulseID = "IMPL-SAUDIGAZETTE-SAUDIGAZETTE-RESP-GENERIC";
+    EmbedScript();
+} else {
+    $ImpulseID = "IMPL-SAUDIGAZETTE-SAUDIGAZETTE-RESP-GENERIC";
+    EmbedScript();
+}
+</script><script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/3387746/SG_KSA_1X1_Desktop', [1, 1], 'div-gpt-ad-1517902285096-0').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_KSA_1X1_Mobile', [1, 1], 'div-gpt-ad-1517902285096-1').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_KSA_BB_Desktop', [970, 250], 'div-gpt-ad-1517902285096-2').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_KSA_HP_Desktop', [728, 90], 'div-gpt-ad-1517902285096-3').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_KSA_Interstitial_Mobile', [320, 480], 'div-gpt-ad-1517902285096-4').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_KSA_LB_Desktop', [728, 90], 'div-gpt-ad-1517902285096-5').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_KSA_LB_Mobile', [[320, 100], [300, 50], [300, 100], [320, 50]], 'div-gpt-ad-1517902285096-6').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_KSA_MPU_Desktop', [300, 250], 'div-gpt-ad-1517902285096-7').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_KSA_MPU_Mobile', [300, 250], 'div-gpt-ad-1517902285096-8').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_KSA_SSleft_Desktop', [160, 600], 'div-gpt-ad-1517902285096-9').addService(googletag.pubads());
+    googletag.defineSlot('/3387746/SG_KSA_SSright_Desktop', [160, 600], 'div-gpt-ad-1517902285096-10').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+    <script data-ad-client="ca-pub-9392826248043988" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+    
+    <title>Desert locusts&amp;#039; situation under control in KSA - Saudi Gazette</title>    <base href="https://saudigazette.com.sa/themes/saudigazette/"/>
+
+    <link rel="icon" type="image/png" href="images/fav.png"/>
+
+<!--    <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+	<link href="css/default/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+	<link href="css/owl.carousel.css" rel="stylesheet"/>
+	<link rel="stylesheet" href="css/jquery-ui.min.css"/>
+    <link rel="stylesheet" href="css/jquery-ui.structure.min.css"/>
+	<link href="https://saudigazette.com.sa/css/focuspoint.min.css" rel="stylesheet" type="text/css"/>
+	<link rel="stylesheet" href="https://saudigazette.com.sa/css/master.min.css"/>
+	<link rel="stylesheet" href="css/font.min.css"/>
+	<link rel="stylesheet" href="css/style.min.css"/>-->
+
+<!-- css removed
+	<link rel="stylesheet" href="css/default/alertify/alertify.core.min.css"/>
+    <link rel="stylesheet" href="css/default/alertify/alertify.bootstrap.min.css"/>
+	<link rel="stylesheet" href="https://saudigazette.com.sa/css/validationEngine.jquery.min.css" type="text/css"/>
+    <link rel="stylesheet" href="css/select2.min.css"/>
+-->
+
+	<link rel="stylesheet" href="https://saudigazette.com.sa/themes/saudigazette/css/style-one.min.css"/>
+
+
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+
+    
+		<link href="https://saudigazette.com.sa/article/592619" rel="canonical" />
+	
+
+	<meta name="description" content="The Ministry, in addition, reiterated its rapid intervention plans set to thwart locusts&amp;#039; swarms as they invade the border areas." />
+<meta name="keywords" content="saudigazette Newspaper, saudi sazette, saudigazette, Saudi Arabia, kingdom of saudi arabia, latest news, world, opinion, sports, business, technology, life, cartoon, king salman , Saudi, Desert Locusts, Environment, Water, Agriculture" />
+<meta name="Idkeywords" content="835618" />
+<meta name="pageType" content="article" />
+<meta name="url" content="http://saudigazette.com.sa/article/592619/SAUDI-ARABIA/Desert-locusts-situation-under-control-in-KSA" />
+<meta name="datePublished" content="2020-05-03 12:05:00" />
+<meta name="dateModified" content="2020-05-03 12:05:00" />
+<meta name="author" content="" />
+<meta name="inLanguage" content="en" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Desert locusts&#039; situation under control in KSA" />
+<meta name="twitter:description" content="The Ministry, in addition, reiterated its rapid intervention plans set to thwart locusts&#039; swarms as they invade the border areas." />
+<meta property="og:url" content="http://saudigazette.com.sa/article/592619/SAUDI-ARABIA/Desert-locusts-situation-under-control-in-KSA" />
+<meta property="og:title" content="Desert locusts&#039; situation under control in KSA" />
+<meta property="og:description" content="The Ministry, in addition, reiterated its rapid intervention plans set to thwart locusts&#039; swarms as they invade the border areas." />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:site_name" content="Saudigazette" />
+<meta property="article:published_time" content="2020-05-03 12:05:00" />
+<meta property="article:author" content="" />
+<meta property="article:section" content="SAUDI ARABIA" />
+<meta property="og:image" content="https://saudigazette.com.sa/uploads/images/2020/05/03/1556672.jpg" />
+<meta name="twitter:image" content="https://saudigazette.com.sa/uploads/images/2020/05/03/1556672.jpg" />
+<meta name="thumbnailUrl" content="https://saudigazette.com.sa/uploads/images/2020/05/03/1556672.jpg" />
+<meta itemprop="identifier" content="592619" />
+<meta itemprop="headline" content="Desert locusts&amp;#039; situation under control in KSA" />
+<meta itemprop="pageType" content="article" />
+<meta itemprop="articleSection" content="SAUDI ARABIA" />
+<meta itemprop="datePublished" content="2020-05-03T12:05:00+03:00" />
+<meta itemprop="dateModified" content="2020-05-03T12:05:00+03:00" />
+<meta itemprop="url" content="https://saudigazette.com.sa/article/592619" />
+<meta itemprop="inLanguage" content="ar" />
+<meta itemprop="author" content="" />
+<meta itemprop="image" content="uploads/images/2020/05/03/1556672.jpg" />
+<meta itemprop="thumbnailUrl" content="https://saudigazette.com.sa/uploads/images/2020/05/03/1556672.jpg" />
+<meta itemprop="publisher" content="NEWSPAPER_NAME" />
+<meta http-equiv="EXPIRES" content="Tue, 05 May 2020 09:40:00" />
+<meta http-equiv="Cache-control" content="max-age=18000, must-revalidate, public" />
+
+        <!--END SEO META TAGS-->
+
+    	<!-- google recaptcha-->
+	<script src='https://www.google.com/recaptcha/api.js'></script>
+	<script src="https://tags.crwdcntrl.net/c/12596/cc_af.js"></script>
+</head>
+<body>
+
+	<form action="https://saudigazette.com.sa/">
+		<fieldset>
+			<input id="BASE_URL" type="hidden" value="https://saudigazette.com.sa/" />
+		</fieldset>
+	</form>
+
+	<div id="fb-root"></div>
+
+	<!--HEADER-->
+	<header class="no-print">
+		
+<div class="socialFixOuter hidden-xs hidden-sm" style="display: none;">
+	<a href="https://www.facebook.com/SaudiGazette" target="_blank" class="socialFix" style="background-color: #67cef5;color: #fff;padding-left: 13px;" title="Twitter"><i class="fa fa-twitter"></i></a>
+	<a href="https://twitter.com/saudi_gazette" target="_blank" class="socialFix"  style="background-color: #39589b;color: #fff;padding-left: 16px;" title="Facebook"><i class="fa fa-facebook"></i></a>
+	<a href="https://saudigazette.com.sa//rss" target="_blank" class="socialFix"  style="background-color: #ebe212;color: #fff;padding-left: 13px;" title="Snapchat"><i class="fa fa-snapchat-ghost"></i></a>
+	<a href="https://www.instagram.com/saudigazette_sa/" target="_blank" class="socialFix" style="background-color: #f68c1e;color: #fff;padding-left: 13px;" title="RSS"><i class="fa fa-rss"></i></a>
+</div>
+<div id="subscribeModal" class="modal fade headerPopup" role="dialog" style="display: none">
+	<div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+				<div class="clear"></div>
+                <div class="modal-title">
+					<div class="row upperSection">
+						<a class="titleUpperSection" style="color: #0573da">Subscribe</a>
+						<span style="background-color: #0573da"></span>
+					</div>
+				</div>
+				<div class="content">
+					<div class="text">
+						To subscribe to Saudi Gazette, please contact:<br>
+						+966 12 676 0000 Ext.2403, 2405, 5557<br>
+						<a href="mailto:sgmarketing@saudigazette.com.sa">email: sgmarketing@saudigazette.com.sa</a>
+					</div>
+				</div>
+				<button class="btn btn-danger right" type="button" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div><div id="advertiseWithUs" class="modal fade headerPopup" role="dialog" style="display: none">
+	<div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+				<div class="clear"></div>
+                <div class="modal-title">
+					<div class="row upperSection">
+						<a class="titleUpperSection" style="color: #0573da">Advertise</a>
+						<span style="background-color: #0573da"></span>
+					</div>
+				</div>
+				<div class="content">
+					<div class="text">
+						For a full technical spec including more detail on rich media formats, payment terms or any other questions you may have,<br>
+						Please contact<a href="mailto:sgadvertising@saudigazette.com.sa" title="sgadvertising@saudigazette.com.sa">email:  sgadvertising@saudigazette.com.sa</a>
+					</div>
+				</div>
+				<button class="btn btn-danger right" type="button" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row header">
+	<div class="clear"></div>
+	<div class="container">
+		<div class="row">
+			<div class="row headerContent">
+				<div class="socialHeader">
+					<a href="https://www.facebook.com/SaudiGazette" target="_blank"><i class="fa fa-facebook"></i></a>
+					<a href="https://twitter.com/saudi_gazette" target="_blank"><i class="fa fa-twitter"></i></a>
+					<a href="../../rss" target="_blank"><i class="fa fa-rss"></i></a>
+					<a href="https://www.instagram.com/saudigazette_sa/" target="_blank"><i class="fa icon-instagram-01"></i></a>
+					<a href="https://www.youtube.com/channel/UC533uSPWSFXF_JmbknAtmOw" target="_blank"><i class="fa fa-youtube-play" ></i></a>
+					<a href="https://www.snapchat.com/add/saudigazette" target="_blank"><i class="fa fa-snapchat-ghost" ></i></a>
+				</div>
+				<div class="headerExtraInfo hidden-xs">
+					<a class="pages" data-toggle="modal" data-target="#advertiseWithUs">
+						<span>advertise</span>
+					</a>
+					<a class="pages" data-toggle="modal" data-target="#subscribeModal">
+						<span>Subscribe</span>
+					</a>
+					<a class="pages" href="http://www.saudigazette.com.sa/epaper/" target="_blank">
+						<span>E-paper</span>
+					</a>
+				</div>
+				<div class="left">
+					<div class="headerDate hidden-xs">
+						<div class="w-font schedule-i">
+							<span>Tuesday  May 5,  2020</span>
+							<span>/</span>
+							<span>12 , Ramadan , 1441</span>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+		<div class="row">
+			<div class="col-md-4">
+				<a href="https://saudigazette.com.sa/" class="logo">
+					<img src="images/footerLogo.png" class="img-responsive" alt="Header Logo" >
+				</a>
+			</div>
+			<div class="col-md-8">
+				<div class="headerAd"><!-- /3387746/SGNew_LB_HP_Desktop -->
+<div id='div-gpt-ad-1491741722148-3' style='height:90px; width:728px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491741722148-3'); });
+</script>
+</div></div>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+
+<div class="menuOuter">
+	<div class="container">
+		<div class="menuTop">
+			<nav class="navbar-fluid">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-menu" aria-expanded="false">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<div class="mobileLogo visible-xs">
+						<a class="logo"  href="https://saudigazette.com.sa/"><img src="images/footerLogo.png" class="img-responsive" style="max-width: 100%;" alt="Footer Header" ></a>
+					</div>
+					<div class="mobileSearch visible-xs">
+						<i class="fa fa-search"></i>
+					</div>
+					<div class="searchMobileBox">
+						<input type="text" class="query" placeholder="Type To Search ...">
+					</div>
+				</div>
+				<div class="collapse navbar-collapse" id="nav-menu">
+					<ul class="nav navbar-nav">
+						<li class="menu">
+							<a class="scrollLogo" href="https://saudigazette.com.sa/">SG</a>
+						</li>
+												<li class="menu">
+							<a class="menuText " href="https://saudigazette.com.sa/Saudi-Arabia" >
+							Saudi Arabia							</a>
+													</li>
+												<li class="menu">
+							<a class="menuText " href="https://saudigazette.com.sa/World" >
+							World							</a>
+													</li>
+												<li class="menu">
+							<a class="menuText " href="https://saudigazette.com.sa/Opinion" >
+							Opinion							</a>
+													</li>
+												<li class="menu">
+							<a class="menuText " href="https://saudigazette.com.sa/Sports" >
+							Sports							</a>
+													</li>
+												<li class="menu">
+							<a class="menuText " href="https://saudigazette.com.sa/Business" >
+							Business							</a>
+													</li>
+												<li class="menu">
+							<a class="menuText " href="https://saudigazette.com.sa/Technology" >
+							Technology							</a>
+													</li>
+												<li class="menu">
+							<a class="menuText " href="https://saudigazette.com.sa/Life" >
+							Life							</a>
+													</li>
+											</ul>
+				</div>
+			</nav>
+		</div>
+<!--		<div class="moreMenu">
+			<div class="allSection">ALL SECTIONS</div>
+			<span></span>
+			<span></span>
+			<span></span>
+		</div>-->
+		<div class="searchTop">
+			<i class="fa fa-search"></i>
+		</div>
+		<div class="toggleMenu">
+			<div class="searchToggle">
+				<input type="text" class="query" placeholder="Type To Search ...">
+			</div>
+<!--			<div class="moreMenuToggle">
+						<a class="title " href="https://saudigazette.com.sa/Saudi-Arabia" >
+			Saudi Arabia			</a>
+						<a class="title " href="https://saudigazette.com.sa/World" >
+			World			</a>
+						<a class="title " href="https://saudigazette.com.sa/Opinion" >
+			Opinion			</a>
+						<a class="title " href="https://saudigazette.com.sa/Sports" >
+			Sports			</a>
+						<a class="title " href="https://saudigazette.com.sa/Business" >
+			Business			</a>
+						<a class="title " href="https://saudigazette.com.sa/Technology" >
+			Technology			</a>
+						<a class="title " href="https://saudigazette.com.sa/Life" >
+			Life			</a>
+						</div>-->
+		</div>
+	</div>
+</div>
+</div>
+<div class="breadCrumb">
+	<div class="container">
+					<div class="title text-uppercase">
+				<a href="https://saudigazette.com.sa/" class="home">Home</a>
+								<a class="section"   href="https://saudigazette.com.sa/morearticles/Saudi-arabia" >SAUDI ARABIA</a>
+											</div>
+			</div>
+</div>
+
+<div class="topAd hidden">
+	<div id='div-gpt-ad-1479112627502-1' style='width:728px;'>
+		<script>googletag.cmd.push(function() {
+		googletag.display('div-gpt-ad-1479112627502-1');
+	});</script>
+	</div>
+</div>
+<div class="container" style="padding: 0px 10px">
+
+</div>
+	<div class="container" style="padding: 0px 10px;">
+		<div class="row upperSection">
+			<a class="titleUpperSection" style="color: #b300a7"  href="https://saudigazette.com.sa/morearticles/Saudi-arabia"  >SAUDI ARABIA</a>
+			<span style="background-color: #b300a7"></span>
+		</div>
+	</div>
+
+<div class="container">
+	<div class="header-square-ad">
+		<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+		<script>
+		  var googletag = googletag || {};
+		  googletag.cmd = googletag.cmd || [];
+		</script>
+			<!--SGNew_Interstitial_IP_Mobile-->
+	<script>
+	googletag.cmd.push(function() {
+		googletag.defineSlot('/3387746/SGNew_Interstitial_IP_Mobile', [320, 480], 'div-gpt-ad-1512652261671-0').addService(googletag.pubads());
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+	});
+  </script>
+
+  <!-- /3387746/SGNew_Interstitial_IP_Mobile -->
+  <div id='div-gpt-ad-1512652261671-0' style='height:480px; width:320px;'>
+  <script>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1512652261671-0'); });
+  </script>
+  </div>	</div>
+</div>
+	</header>
+
+	<section>
+		<div class="container" style="position: relative;">
+			<nav id="nav">
+				<div class="adv1"><!--sidead-view-left-->
+<div id="floating_side_div_left" class="sideAd">
+	<!-- /3387746/SG_KSA_SSleft_Desktop --><div id="div-gpt-ad-1517902285096-9" style="height:600px; width:160px;"><script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-1517902285096-9"); });</script></div></div>
+</div>
+				<div class="adv2"><!--sidead-view-right-->
+<div id="floating_side_div_right" class="sideAd">
+	<!-- /3387746/SG_KSA_SSright_Desktop --><div id="div-gpt-ad-1517902285096-10" style="height:600px; width:160px;"><script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-1517902285096-10"); });</script></div></div>
+</div>
+			</nav>
+			<div class="clear"></div>
+			
+<input type="hidden" id="cmsArticleId" value="592619">
+
+<div class="row"><div class="col-md-12 noPadding col-xs-12"><!--ads-display-mobile 3213-->
+<!--ads type : LB_Mobile-->
+</div></div><div class="row"><div class="col-md-12 noPadding col-xs-12"><!--ads-display 3214-->
+<!--ads type : BB_Desktop-->
+		<div class="padd10px margin-mobile extraWidthRight hidden-xs">
+			<!-- /3387746/SG_KSA_BB_Desktop --><div id="div-gpt-ad-1517902285096-2" style="height:250px; width:970px;"><script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-1517902285096-2"); });</script></div>		</div>
+	</div></div><div class="row"><div class="col-md-8 col-xs-12"><!--article-details.tpl.php-->
+
+<!--CMS: 592619-->
+<!--NP: 835618-->
+<!--ISOLD: 0-->
+<!--OLD: 0-->
+
+<div class="row rowArticleDetail paddRight30">
+            <div class="article-header"
+         style="position: relative;">
+
+        <div class="articleActions row upper">
+            <!--			<div class="title"></div>-->
+            <div class="titleArticle">
+                <h1>
+                    Desert locusts&#039; situation under control in KSA                </h1>
+            </div>
+            <div class="subTitleArticle">
+                <h2>
+                                    </h2>
+            </div>
+            <div>
+                <div class="articleDate">
+                    <i class="fa fa-clock-o"></i>
+                    <span>   May 3,  2020</span>
+                </div>
+				                <div class="view">
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <span>1620 views</span>
+                </div>
+				
+				
+                <div class="socialArticle" style="line-height: 50px;">
+                    <a class="addthis_button_facebook" addthis:url="https://saudigazette.com.sa/article/592619"
+                       addthis:title="Desert locusts' situation under control in KSA"
+                       addthis:media="https://saudigazette.com.sa/uploads/images/2020/05/03/1556672.jpg">
+                        <i class="fa fa-facebook"></i></a>
+                    <a class="addthis_button_twitter" addthis:url="https://saudigazette.com.sa/article/592619"
+                       addthis:title="Desert locusts' situation under control in KSA"
+                       addthis:media="https://saudigazette.com.sa/uploads/images/2020/05/03/1556672.jpg">
+                        <i class="fa fa-twitter"></i></a>
+                </div>
+
+				            </div>
+
+        </div>
+
+        <div class="space20"></div>
+        <div class="addthis_inline_share_toolbox"></div>
+        <script type="text/javascript">
+            var addthis_share = {
+                // ... other options
+                url_transforms: {
+                    shorten: {
+                        twitter: 'bitly',
+                        whatsapp: 'bitly',
+                        facebook: 'bitly'
+                    }
+                },
+                shorteners: {
+                    bitly: {}
+                }
+            }
+        </script>
+		<div style="clear: both;"></div>
+        
+
+            <div class="row" style="position: relative">
+                <div class="col-sm-12 article-img-block imgThumb" data-id="">
+                    
+                        					<a class="fancybox" href="../../uploads/images/2020/05/03/1556672.jpg" data-fancybox-group="gallery" title="File photo of Desert Locust invading the borders of Kingdom. The Ministry of Environment, Water and Agriculture has reasserted that the desert locustâs situation and movement is under control.">
+                        <img class="img-responsive articleImage" style="max-width: 100%;height: auto !important;" width="100%"
+                             title="Desert locusts&#039; situation under control in KSA"
+                             caption="File photo of Desert Locust invading the borders of Kingdom. The Ministry of Environment, Water and Agriculture has reasserted that the desert locustâs situation and movement is under control." onerror="this.src='images/no-image.png'" src="https://saudigazette.com.sa/uploads/images/2020/05/03/1556672.jpg">
+					</a>
+
+                        											<div class="loadArticleCaption">File photo of Desert Locust invading the borders of Kingdom. The Ministry of Environment, Water and Agriculture has reasserted that the desert locustâs situation and movement is under control.</div>
+					                </div>
+            </div>
+                </div>
+
+
+		<!--ad to be added-->
+		               				<script type="text/javascript" class="teads" async="true" src="//a.teads.tv/page/29098/tag"></script>
+               			
+
+    <div class="row" style="position: relative">
+        <div class="col-sm-12">
+            <div class="articleBody">
+				<a >
+                    <b></b>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-12">
+            <div class="articleBody">
+                <p>
+                    <strong>RIYADH â</strong> The Ministry of Environment, Water and Agriculture has reasserted that the desert locustâs situation and movement is under control while releasing indicators that the threat to thwart the menace is being managed.<br><br>The Ministry stated that the situation is under control as exploring and combat teams are on alert to carry on with their intensive tasks to eradicate the locusts, in addition to following up the situation in neighboring countries.<!--mobileAd--><br><br>The Ministry, in addition, reiterated its rapid intervention plans set to thwart locusts&#39; swarms as they invade the border areas.<br><br>It showed indicators related to the desert locusts situation and movement in the different regions of the Kingdom during May as well as June 2020 to highlight the situation.<br><br>On the indicators of the threat, the ministry reasserted that the current situation of the locusts could be classified as orange or yellow, in neighboring Oman and Yemen, while the threat is red in the Horn of Africa countries.<br><br>The spread of the locust has taken more than seven months now with the swarms varying in numbers in wide range of areas. â SPA<div><script type="text/javascript" class="teads" async="true" src="//a.teads.tv/page/29098/tag"></script></div><div class="clear"></div><br/><div class="pagingWrap" style="display:none;"><a style="display:none;" href="https://saudigazette.com.sa/article/592619/SAUDI ARABIA?page=0" class="button grey prevBtn">< Previous Page</a><a style="display:none;" href="https://saudigazette.com.sa/article/592619/SAUDI ARABIA?page=2" class="button grey nextBtn">Next Page ></a></div>                </p>
+            </div>
+
+            <script>
+            (function (d, s, wid, eid) {
+                var scriptId = "spk-script-" + eid;
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(scriptId)) return;
+                js = d.createElement(s);
+                js.scriptId = scriptId;
+                js.async = 1;
+                js.src = "//cdn.speakol.com/widget/js/speakol-widget.js?wid=" + wid + "&eid=" + eid;
+                fjs.parentNode.insertBefore(js, fjs);
+            })(document, "script", "wi-3333", "spk-wi-3333");
+            </script>
+                <!-- Speakol will render the widget here -->
+            <div class="speakol-widget" id="spk-wi-3333"></div>
+
+        </div>
+		<div class="col-sm-12">
+			<div class="addthis_inline_share_toolbox"></div>
+			<div class="clear space20"></div>
+			<div class="wordCloudBoxArticles">
+				<div class="text-center">
+									</div>
+			</div>
+			<div class="space20"></div>
+
+			<div>
+				<div class="articleDate">
+					<i class="fa fa-clock-o"></i>
+					<span>2 days ago</span>
+				</div>
+								<div class="view">
+					<i class="fa fa-eye" aria-hidden="true"></i>
+					<span>1620 views</span>
+				</div>
+								<div class="socialArticle" style="line-height: 50px;">
+					<a class="addthis_button_facebook" addthis:url="https://saudigazette.com.sa/article/592619"
+					   addthis:title="Desert locusts' situation under control in KSA" addthis:media="https://saudigazette.com.sa/uploads/images/2020/05/03/1556672.jpg"><i class="fa fa-facebook"></i></a>
+					<a class="addthis_button_twitter" addthis:url="https://saudigazette.com.sa/article/592619"
+					   addthis:title="Desert locusts' situation under control in KSA" addthis:media="https://saudigazette.com.sa/uploads/images/2020/05/03/1556672.jpg"><i class="fa fa-twitter"></i></a>
+				</div>
+			</div>
+		</div>
+
+
+        <!--		<div class="space10" style="background-color: #cfcfcf"></div>-->
+    </div>
+    
+</div>
+<!--ads-display 20695-->
+<!--ads type : Under_Article_Body-->
+		<div class="padd10px margin-mobile extraWidthRight hidden-xs">
+			<script async src="https://cdn.wickplayer.pro/player/thewickfirm.js"></script>
+
+<script data-playerPro="current">(function(){var s=document.querySelector('script[data-playerPro="current"]');s.removeAttribute("data-playerPro");(playerPro=window.playerPro||[]).push({id:"Y6Pqi5HJkWoWO_77K8UeSoiYm5xcFysgWpQ9pG9YYtGetwb1DnnM",after:s});})();</script>		</div>
+	<!--ads-display-mobile 20696-->
+<!--ads type : Under_Article_Body-->
+<div class="row visible-xs" style="margin: 0 auto; text-align:center;">
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <div id='okaz1'>
+      <script>
+         window.googletag = window.googletag || {cmd: []};
+           googletag.cmd.push(function() {
+             googletag
+               .defineSlot('/15918106/okaz', [[300, 250], [360, 280], [336, 280], [360, 300]], 'okaz1')
+               .addService(googletag.pubads());
+                googletag.pubads().set('page_url', 'www.saudigazette.com.sa');
+                googletag.enableServices();
+                googletag.display('okaz1');
+         });
+      </script>
+    </div>
+</div>
+
+<div class="padd10px">
+    <input type="hidden" id="disqus_url" value="https://saudigazette.com.sa/article/592619"/>
+    <input type="hidden" id="disqus_shortname" value="http-saudigazette-com-sa"/>
+	<input type="hidden" id="disqus_identifier" value="592619"/>
+	<a name="comments"></a>
+    <div id="disqus_thread"></div>
+</div>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments
+        powered by Disqus.</a></noscript>
+
+<div class="row visible-xs" style="margin: 0 auto; text-align:center; width:300px;">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-4718739967940771"
+         data-ad-slot="6883091791"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+
+<!--related-articles.tpl.php-->
+        <div class="padd10px relatedArticles">
+			<div class="upperSection">
+				<a class="titleUpperSection" href=""
+				   style="color:#0573da">
+					related articles				</a><span style="background-color:#0573da"></span>
+			</div>
+			<div class="row">
+							<div class="col-xs-6 col-md-4 padd10px">
+					
+					<a class="ratio" href="https://saudigazette.com.sa/article/592692/SAUDI-ARABIA/PNU-students-present-creativesolutions-to-combat-coronavirus">
+						<div class="focuspoint"	data-focus-x="0" data-focus-y="0">
+						   <img src="https://saudigazette.com.sa/uploads/images/2020/05/05/1557812.jpg"	alt=""		onerror="this.src='images/no-image.png'">
+						</div>
+					</a>
+					<div class="publishTimeArticle">   May 5,  2020</div>
+					<a class="titleBoxWidget" href="https://saudigazette.com.sa/article/592692/SAUDI-ARABIA/PNU-students-present-creativesolutions-to-combat-coronavirus">PNU students present creativeÂ solutions to combat coronavirus</a>
+				</div>
+							<div class="col-xs-6 col-md-4 padd10px">
+					
+					<a class="ratio" href="https://saudigazette.com.sa/article/592691/SAUDI-ARABIA/Prosecution-orders-arrest-of-Saudi-citizen-for-abusing-expatriate">
+						<div class="focuspoint"	data-focus-x="0" data-focus-y="0">
+						   <img src="https://saudigazette.com.sa/uploads/images/2020/05/05/1557802.jpg"	alt="Saudi Arabia&#039;s Public Prosecution"		onerror="this.src='images/no-image.png'">
+						</div>
+					</a>
+					<div class="publishTimeArticle">   May 5,  2020</div>
+					<a class="titleBoxWidget" href="https://saudigazette.com.sa/article/592691/SAUDI-ARABIA/Prosecution-orders-arrest-of-Saudi-citizen-for-abusing-expatriate">Prosecution orders arrest of Saudi citizen for abusing expatriate</a>
+				</div>
+							<div class="hidden-xs col-md-4 padd10px">
+					
+					<a class="ratio" href="https://saudigazette.com.sa/article/592690/SAUDI-ARABIA/Health-Ministry-Plasma-from-recovered-COVID-19-patients-used-in-three-regions">
+						<div class="focuspoint"	data-focus-x="0" data-focus-y="0">
+						   <img src="https://saudigazette.com.sa/uploads/images/2020/05/05/1557788.jpg"	alt=""		onerror="this.src='images/no-image.png'">
+						</div>
+					</a>
+					<div class="publishTimeArticle">   May 5,  2020</div>
+					<a class="titleBoxWidget" href="https://saudigazette.com.sa/article/592690/SAUDI-ARABIA/Health-Ministry-Plasma-from-recovered-COVID-19-patients-used-in-three-regions">Health Ministry: Plasma from recovered COVID-19 patients used in three...</a>
+				</div>
+						</div>
+
+		</div>
+    </div><div class="col-md-4 col-xs-12"><!--ads-display 3215-->
+<!--ads type : MPU_Desktop-->
+		<div class="padd10px margin-mobile extraWidthRight hidden-xs">
+			<!-- /3387746/SG_KSA_MPU_Desktop --><div id="div-gpt-ad-1517902285096-7" style="height:250px; width:300px;"><script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-1517902285096-7"); });</script></div>		</div>
+	<!--ads-display-mobile 732-->
+<!--ads type : MPU_Mobile-->
+    <!--highlights-section.tpl.php-->
+
+    
+        <div class="padd10px">
+            <div class="row highlightsSection">
+				<a class="upper" href="https://saudigazette.com.sa/morearticles/World" style="color: #fff;background-color: #cf0202">
+					highlights				</a>
+				<div class="content">
+                					<div class="outer">
+						<div class="publishTimeArticle">0 days ago</div>
+						<a href="https://saudigazette.com.sa/article/592694/World/Asia/India-denies-forcing-migrantlaborers-to-pay-train-fares" class="titleBoxWidget">India denies forcing migrantlaborers to pay train fares</a>
+					</div>
+                    					<div class="outer">
+						<div class="publishTimeArticle">0 days ago</div>
+						<a href="https://saudigazette.com.sa/article/592693/World/Lab-or-wet-market-Where-didthe-coronavirus-come-from" class="titleBoxWidget">Lab or wet market: Where didthe coronavirus come from?</a>
+					</div>
+                    					<div class="outer">
+						<div class="publishTimeArticle">0 days ago</div>
+						<a href="https://saudigazette.com.sa/article/592692/SAUDI-ARABIA/PNU-students-present-creativesolutions-to-combat-coronavirus" class="titleBoxWidget">PNU students present creativeÂ solutions to combat coronavirus</a>
+					</div>
+                    					<div class="outer">
+						<div class="publishTimeArticle">0 days ago</div>
+						<a href="https://saudigazette.com.sa/article/592691/SAUDI-ARABIA/Prosecution-orders-arrest-of-Saudi-citizen-for-abusing-expatriate" class="titleBoxWidget">Prosecution orders arrest of Saudi citizen for abusing expatriate</a>
+					</div>
+                    				</div>
+            </div>
+        </div>
+        <!--ads-display 736-->
+<!--ads type : HP_Desktop-->
+		<div class="padd10px margin-mobile extraWidthRight hidden-xs">
+			<!-- /3387746/SG_KSA_HP_Desktop --><div id="div-gpt-ad-1517902285096-3" style="height:90px; width:728px;"><script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-1517902285096-3"); });</script></div>		</div>
+		<style>
+	.fb-page,
+	.fb-page span,
+	._2p3a,
+	.fb-page span iframe[style]
+	{
+		width: 100% !important;
+	}
+	</style>
+    <div class="hidden-xs padd10px">
+        <div class='fb-page' data-href='https://www.facebook.com/SaudiGazette' data-tabs='timeline' data-width='370' data-height='376' data-small-header='false' data-adapt-container-width='true' data-hide-cover='false' data-show-facepile='true'><blockquote cite='https://www.facebook.com/SaudiGazette' class='fb-xfbml-parse-ignore'><a href='https://www.facebook.com/SaudiGazette'>âSaudiGazette - SaudiGazette</a></blockquote></div>    </div>
+    	<style>
+	#twitter-widget-0
+	{
+		min-width: 100% !important;
+	}
+	</style>
+    <div class="hidden-xs padd10px">
+        <a class='twitter-timeline' data-width='252' data-height='376' href='https://twitter.com/Saudi_Gazette'>Tweets by Saudi_Gazette</a> <script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>    </div>
+    <!--today-newspaper-widget.tpl.php-->
+<div class="padd10px">
+	<div class="todayNewspaper">
+	<a href="http://www.saudigazette.com.sa/epaper/" target="_blank" class="newspaperImage" style="background-image:url(https://saudigazette.com.sa/uploads/images/2020/01/06/1472512.jpg)"></a>
+	</div>
+</div>
+<!--full-ad.tpl.php 3117-->
+    <div class="padd10px fullAd">
+		<div>
+        <script>    (function(P,o,s,t,Q,r,e){P['RecsWidgetObject']=Q;P[Q]=P[Q]||function(){            (P[Q].q=P[Q].q||[]).push(arguments)},P[Q].l=1*new Date();r=o.createElement(s),        e=o.getElementsByTagName(s)[0];r.async=1;r.src=t;e.parentNode.insertBefore(r,e) })(        window,document,'script','//widget.postquare.com/_widget_loader.js','__posWidget');    __posWidget('createWidget',{wwei:'POSTQUARE_WIDGET_112929',pubid: 162627,webid:166072,wid:112929,on:'postquare'});</script><div id="POSTQUARE_WIDGET_112929"></div>		</div>
+    </div>
+    </div></div><div class="row"><div class="col-md-8 col-xs-12"><!--ads-display 3217-->
+<!--ads type : 1X1_Desktop-->
+		<div class="padd10px margin-mobile extraWidthRight hidden-xs">
+			<!-- /3387746/SG_KSA_1X1_Desktop --><div id="div-gpt-ad-1517902285096-0" style="height:1px; width:1px;"><script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-1517902285096-0"); });</script></div>		</div>
+	</div></div><div class="row"><div class="col-md-12 noPadding col-xs-12"><!--ads-display-mobile 3216-->
+<!--ads type : Interstitial_Mobile-->
+</div></div><div class="row"><div class="col-md-8 col-xs-12"><!--ads-display-mobile 3218-->
+<!--ads type : 1X1_Mobile-->
+</div></div>			<div class="clear"></div>
+		</div>
+			</section>
+
+	<footer class="no-print">
+		<div id="newsletterModal" class="modal fade headerPopup" role="dialog" style="display: none">
+	<div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+				<div class="clear"></div>
+                <div class="modal-title">
+					<div class="row upperSection">
+						<a class="titleUpperSection" style="color: #0573da">Subscribe</a>
+						<span style="background-color: #0573da"></span>
+					</div>
+				</div>
+				<div class="content">
+					<div class="inputNewsletter">
+						<input id="emailSubscription" type="text" placeholder="Please fill your email ..">
+					</div>
+					<button onclick="SubscribeForm()"><i class="fa fa-angle-right"></i></button>
+				</div>
+				<button class="btn btn-danger right" type="button" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="socialMediaModal" class="modal fade headerPopup" role="dialog" style="display: none;">
+	<div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+				<div class="clear"></div>
+                <div class="modal-title">
+					<div class="row upperSection">
+						<a class="titleUpperSection" style="color: #0573da">Social Media</a>
+						<span style="background-color: #0573da"></span>
+					</div>
+				</div>
+				<div class="content">
+					<div class="socialPopUp">
+						<a href="https://www.facebook.com/SaudiGazette" target="_blank"><i class="fa fa-facebook"></i></a>
+						<a href="https://twitter.com/saudi_gazette" target="_blank"><i class="fa fa-twitter"></i></a>
+						<a href="../../rss" target="_blank"><i class="fa fa-rss"></i></a>
+						<a href="https://www.instagram.com/saudigazette_sa/" target="_blank"><i class="fa icon-instagram-01"></i></a>
+						<a href="https://www.youtube.com/channel/UC7uskRSjWoPTfjbVCYlJwLg" target="_blank"><i class="fa fa-youtube-play" ></i></a>
+						<a href="https://www.snapchat.com/add/saudigazette" target="_blank"><i class="fa fa-snapchat-ghost" ></i></a>
+						<div class="clear"></div>
+					</div>
+				</div>
+            </div>
+        </div>
+    </div>
+</div>	<div class="padd10px container morePages">
+		<div class="outer"  style="color:#b300a7;text-align: right;">
+			<a href=https://saudigazette.com.sa/morearticles/Saudi-arabia>More in SAUDI ARABIA</a>
+		</div>
+	</div>
+	<div class="clear"></div>
+
+<div id="rowFooter" class="footer-wrapper">
+	<div class="line"></div>
+	<div class="container">
+		<div class="row text-uppercase padd10px">
+			<div class="col-md-6 col-sm-12 col-xs-12">
+				<div class="footerLogo">
+					<a  href="https://saudigazette.com.sa/"><img src="images/footerLogo.png" class="img-responsive" style="max-width: 100%;" alt="footer logo"></a>
+					<div class="AllRightReserved visible-lg visible-md">Copyright Â© 2016 www.saudigazette.com.sa - All rights reserved</div>
+					<div class="newsPress visible-lg visible-md">
+						<span>Powered by <a href="http://layoutintl.com" target="_blank">NewsPress</a></span>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-sm-12 col-xs-12 padd010px">
+				<div class="col-md-4 col-sm-4 col-xs-4 text-center">
+					<div class="footerMenu sections">
+						                        <a href="https://saudigazette.com.sa/saudi-arabia" class="footerText">saudi arabia</a>
+                                            <a href="https://saudigazette.com.sa/world" class="footerText">world</a>
+                                            <a href="https://saudigazette.com.sa/opinion" class="footerText">opinion</a>
+                                            <a href="https://saudigazette.com.sa/business" class="footerText">business</a>
+                                            <a href="https://saudigazette.com.sa/technology" class="footerText">technology</a>
+                                            <a href="https://saudigazette.com.sa/sports" class="footerText">sports</a>
+                                            <a href="https://saudigazette.com.sa/life" class="footerText">life</a>
+                    					</div>
+				</div>
+				<div class="col-md-4 col-sm-4 col-xs-4 text-center">
+					<div class="footerMenu">
+						                        <a href="http://saudigazette.com.sa/about-us" class="footerText">about us</a>
+                                            <a href="http://saudigazette.com.sa/epaper" class="footerText">Epaper</a>
+                                            <a href="http://saudigazette.com.sa/contact-us" class="footerText">contact us</a>
+                    						<a data-toggle="modal" data-target="#advertiseWithUs" class="footerText">Advertise</a>
+						<a data-toggle="modal" data-target="#socialMediaModal" class="footerText">Social Media</a>
+
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-4 col-xs-4 text-center">
+					<div class="footerMenu">
+						                        <a href="http://saudigazette.com.sa/archive/" class="footerText">Archive</a>
+                    						<a class="footerText" data-toggle="modal" data-target="#subscribeModal">Subscribe</a>
+					</div>
+
+				</div>
+			</div>
+		</div>
+		<div class="AllRightReserved hidden-lg hidden-md">Copyright Â© 2016 www.saudigazette.com.sa - All rights reserved</div>
+		<div class="newsPress hidden-lg hidden-md">
+			<span>Powered by <a href="http://layoutintl.com" target="_blank">NewsPress</a></span>
+		</div>
+	</div>
+</div>
+		<input type="hidden" id="FOOTER_HEIGHT" value="" />
+	</footer>
+
+	<!--Vibe-saudigazette-->
+		<script src="//vibecdn.forkcdn.com/Inarticle/iav.js?publisher=saudigazette" id ="_forkIAVScript" async></script>
+	
+	<script type="text/javascript">(function (d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=1981563878789116";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+
+	<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5762a2ef9dee4c8c" async="async"></script>
+
+	<!--<script type="text/javascript" src="js/default/discuss-comments.js"></script>-->
+
+	<script>
+	   // $('div .articleBody').selectionSharer();
+	</script>
+		<script>
+		/* * * CONFIGURATION VARIABLES * * */
+		var disqus_shortname = 'http-saudigazette-com-sa';
+
+		/* * * DON'T EDIT BELOW THIS LINE * * */
+		(function () {
+			var s = document.createElement('script');
+			s.async = true;
+			s.type = 'text/javascript';
+			s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+			(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+		}());
+	</script>
+
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3885354-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<!-- COPYRIGHT EFFECTIVE MEASURE -->
+<script type="text/javascript">
+	(function() {
+		var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+		em.src = ('https:' == document.location.protocol ? 'https://me-ssl' : 'http://me-cdn') + '.effectivemeasure.net/em.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+	})();
+</script>
+<noscript>
+	<img src="https://me.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+</noscript>
+<!--END EFFECTIVE MEASURE CODE -->
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"hOrcu1DlQy20Y8", domain:"saudigazette.com.sa",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=hOrcu1DlQy20Y8" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript --> 
+
+
+	<script>
+		var addthis_config = addthis_config || {};
+		addthis_config.data_track_addressbar = false;
+		addthis_config.data_track_clickback = false;
+	</script>
+
+
+	<!--
+	<script  src="https://saudigazette.com.sa/js/bootstrap.min.js"></script>
+	<script  src="https://saudigazette.com.sa/js/select2.min.js"></script>
+	<script  src="https://saudigazette.com.sa/js/jquery.pageup.js"></script>
+	<script  src="https://saudigazette.com.sa/js/jquery-ui.min.js"></script>
+	<script  src="https://saudigazette.com.sa/js/focuspoint.min.js"></script>
+	<script  src="https://saudigazette.com.sa/js/master.min.js"></script>
+	<script  src="js/script.min.js"></script> -->
+
+	<!-- not use
+	<script  src="https://saudigazette.com.sa/js/jquery.validationEngine.min.js"></script>
+	<script  src="https://saudigazette.com.sa/js/jquery.validationEngine-en.min.js"></script>
+	<script  src="https://saudigazette.com.sa/js/jquery.min.js"></script>
+	<script  src="https://saudigazette.com.sa/js/alertify.min.js"></script>
+	-->
+
+
+	<script  src="https://saudigazette.com.sa/themes/saudigazette/js/script-one.min.js"></script>
+
+	
+	</body>
+</html>

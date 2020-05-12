@@ -57,6 +57,7 @@ stories = get_links("worldnews", token)
 import os
 # data_folder = os.path.join(os.path.expanduser("/home/pi/fredy/projects/news_get/"), "Data", "websites", "raw")
 data_folder = "Data/websites/raw/"
+os.system("mkdir -p {}".format(data_folder))
 import hashlib
 number_errors = 0
 num = 0

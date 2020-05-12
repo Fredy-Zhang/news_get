@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 7]><html class="lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="en" dir="ltr"><!--<![endif]-->
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PCHSJZZ');</script>
+<!-- End Google Tag Manager -->
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+<meta http-equiv="cleartype" content="on" />
+<link href="https://nltimes.nl/sites/all/themes/adaptivetheme/at_subtheme/images/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="https://nltimes.nl/sites/all/themes/adaptivetheme/at_subtheme/images/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="https://nltimes.nl/sites/all/themes/adaptivetheme/at_subtheme/images/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="https://nltimes.nl/sites/all/themes/adaptivetheme/at_subtheme/images/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://nltimes.nl/sites/all/themes/adaptivetheme/at_subtheme/images/apple-touch-icon.png" rel="shortcut icon" />
+<script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@graph": [
+        {
+            "@type": "NewsArticle",
+            "headline": "Fire at two transmission masts in The Hague",
+            "description": "Two transmissions masts in The Hague were found burning during the early hours of Monday morning. The fires at masts on Jaap Edenweg and Laan Van Poot were reported shortly after one another, local safety region Veiligheidsregio Haaglanden confirmed to NU.nl. The police closed down the areas around both masts for investigation. The one on Jaap Edenweg is a C2000 mast, which is used for communication between emergency services. The extent of the damage is not yet clear. On Friday night, a transmission mast on the A67 in Maasbree, Limburg was also set on fire.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "NL Times",
+                "url": "https://nltimes.nl"
+            },
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://nltimes.nl/sites/nl-times.nl/files/styles/fb_main/public/2020/04/gsm-zendmast-joost-km-460x280.jpg",
+                "width": "600",
+                "height": "316"
+            },
+            "mainEntityOfPage": "https://nltimes.nl/2020/05/04/fire-two-transmission-masts-hague"
+        }
+    ]
+}</script>
+<link rel="shortcut icon" href="https://nltimes.nl/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<meta name="description" content="Two transmissions masts in The Hague were found burning during the early hours of Monday morning. The fires at masts on Jaap Edenweg and Laan Van Poot were reported shortly after one another, local safety region Veiligheidsregio Haaglanden confirmed to NU.nl. The police closed down the areas around both masts for investigation. The one on Jaap Edenweg is a C2000 mast, which is" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="abstract" content="Two transmissions masts in The Hague were found burning during the early hours of Monday morning. The fires at masts on Jaap Edenweg and Laan Van Poot were reported shortly after one another, local safety region Veiligheidsregio Haaglanden confirmed to NU.nl. The police closed down the areas around both masts for investigation. The one on Jaap Edenweg is a C2000 mast, which is used for communication between emergency services. The extent of the damage is not yet clear. On Friday night, a transmission mast on the A67 in Maasbree, Limburg was also set on fire." />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="robots" content="follow, index" />
+<link rel="image_src" href="https://nltimes.nl/sites/nl-times.nl/files/styles/fb_main/public/2020/04/gsm-zendmast-joost-km-460x280.jpg" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://nltimes.nl/2020/05/04/fire-two-transmission-masts-hague" />
+<link rel="shortlink" href="https://nltimes.nl/node/46574" />
+<meta property="fb:app_id" content="573451942835225" />
+<meta property="og:site_name" content="NL Times" />
+<meta property="og:title" content="Fire at two transmission masts in The Hague" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nltimes.nl/2020/05/04/fire-two-transmission-masts-hague" />
+<meta property="og:description" content="Two transmissions masts in The Hague were found burning during the early hours of Monday morning. The fires at masts on Jaap Edenweg and Laan Van Poot were reported shortly after one another, local safety region Veiligheidsregio Haaglanden confirmed to NU.nl. The police closed down the areas around both masts for investigation. The one on Jaap Edenweg is a C2000 mast, which is used for communication between emergency services. The extent of the damage is not yet clear. On Friday night, a transmission mast on the A67 in Maasbree, Limburg was also set on fire." />
+<meta property="og:updated_time" content="2020-05-04T08:43:21+02:00" />
+<meta property="og:image" content="https://nltimes.nl/sites/nl-times.nl/files/styles/fb_main/public/2020/04/gsm-zendmast-joost-km-460x280.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="316" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="robots" content="max-snippet:200" />
+<meta name="robots" content="max-video-preview:5" />
+<meta name="twitter:creator" content="@NL_Times" />
+<meta name="twitter:creator:id" content="1079955560" />
+<meta name="twitter:title" content="Fire at two transmission masts in The Hague" />
+<meta name="twitter:url" content="https://nltimes.nl/2020/05/04/fire-two-transmission-masts-hague" />
+<meta name="twitter:description" content="Two transmissions masts in The Hague were found burning during the early hours of Monday morning. The fires at masts on Jaap Edenweg and Laan Van Poot were reported shortly after one another, local" />
+<meta name="twitter:image" content="https://nltimes.nl/sites/nl-times.nl/files/styles/fb_main/public/2020/04/gsm-zendmast-joost-km-460x280.jpg" />
+<meta name="twitter:image:width" content="600" />
+<meta name="twitter:image:height" content="316" />
+<meta property="article:published_time" content="2020-05-04T07:28:10+02:00" />
+<meta property="article:modified_time" content="2020-05-04T08:43:21+02:00" />
+<meta itemprop="name" content="Fire at two transmission masts in The Hague" />
+<meta itemprop="description" content="Two transmissions masts in The Hague were found burning during the early hours of Monday morning. The fires at masts on Jaap Edenweg and Laan Van Poot were reported shortly after one another, local safety region Veiligheidsregio Haaglanden confirmed to NU.nl. The police closed down the areas around both masts for investigation. The one on Jaap Edenweg is a C2000 mast, which is used for communication between emergency services. The extent of the damage is not yet clear. On Friday night, a transmission mast on the A67 in Maasbree, Limburg was also set on fire." />
+<title>Fire at two transmission masts in The Hague | NL Times</title>
+<link type="text/css" rel="stylesheet" href="https://nltimes.nl/sites/nl-times.nl/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://nltimes.nl/sites/nl-times.nl/files/css/css_u08zSnzAIYd0YBKYW9GpJI0rDMED05jVXkQ4Z7f-OFY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://nltimes.nl/sites/nl-times.nl/files/css/css_-Uxyx1hkMNMyjJEjs_3Q6GlL6fd4f0w_lsUqXNRQVms.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://nltimes.nl/sites/nl-times.nl/files/css/css_iaY0LLl4Za9JHI0SWT-tNbb1OIins6b6ePvbIZ9tbUU.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://nltimes.nl/sites/nl-times.nl/files/css/css_QA8P_x_dgO3MuUGHEFDal9jHRR7fYGlKe-awhVlmCLs.css" media="only screen" />
+<link type="text/css" rel="stylesheet" href="https://nltimes.nl/sites/nl-times.nl/files/css/css_rh1WqRmx_kqWuGz1ITu5O0c2VRItc9F9JD9AA-2oquU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://nltimes.nl/sites/nl-times.nl/files/css/css_TkFTfwcOrENdVdslp0vKDHZFEcz1scEu9e5EMPuKql0.css" media="only screen" />
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="https://nltimes.nl/sites/nl-times.nl/files/css/css_Md3yPgGR5mbt-iGHhXf0I0OedGzAZTQtAhFpkG3VGcg.css" media="screen" />
+<![endif]-->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_uacct = "UA-41560579-1";
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://nltimes.nl/sites/nl-times.nl/files/js/js_YugKKhmJA2mi9jNB8l5S52Plxi7hnkyYJ6QZwY2xnLE.js"></script>
+<script type="text/javascript" src="https://nltimes.nl/sites/nl-times.nl/files/js/js_TEbvenu4svS87L6907ZrtUt6IFP9TQIDqI1K-x6_8zo.js"></script>
+<script type="text/javascript" src="https://nltimes.nl/sites/nl-times.nl/files/js/js_8XfXWvdT53uA5tHBhQcQ8Z024xJ3aD4maAM-O8c-zk4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-41560579-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("require", "displayfeatures");ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://nltimes.nl/sites/nl-times.nl/files/js/js_hdlyPhSD8hBV66e9zPiqWdCwwiBRLE4SFXGZaCddK7c.js"></script>
+<script type="text/javascript" src="https://nltimes.nl/sites/nl-times.nl/files/js/js_c58DeiqIyszP0v2tn4K8ev-Wt2vZiz-LEghNTBJISX0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"adaptivetheme_subtheme","theme_token":"EnEdU0HyH8GM4QZQbMnpYUGs9GzPzq43Ty8U1ljhdFs","js":{"0":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_dollar\/jquery_dollar.js":1,"misc\/jquery.cookie.js":1,"misc\/ajax.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/js\/responsive_menus_simple.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/modules\/rrssb\/rrssb.init.js":1,"sites\/all\/libraries\/rrssb-plus\/js\/rrssb.min.js":1,"sites\/all\/modules\/quicktabs\/js\/quicktabs.js":1,"misc\/progress.js":1,"sites\/all\/libraries\/addtohomescreen\/src\/addtohomescreen.min.js":1,"sites\/all\/modules\/addtohomescreen\/addtohomescreen.js":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.js":1,"sites\/all\/themes\/adaptivetheme\/at_core\/scripts\/scalefix.js":1,"sites\/all\/themes\/adaptivetheme\/at_core\/scripts\/outside-events.js":1,"sites\/all\/themes\/adaptivetheme\/at_core\/scripts\/menu-toggle.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/css\/responsive_menus_simple.css":1,"public:\/\/rrssb\/rrssb.354b2d0e.css":1,"sites\/all\/libraries\/rrssb-plus\/css\/rrssb.css":1,"sites\/all\/modules\/quicktabs\/css\/quicktabs.css":1,"sites\/all\/libraries\/addtohomescreen\/style\/addtohomescreen.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/adaptivetheme\/at_subtheme\/css\/global.base.css":1,"sites\/all\/themes\/adaptivetheme\/at_subtheme\/css\/global.styles.css":1,"public:\/\/adaptivetheme\/adaptivetheme_subtheme_files\/adaptivetheme_subtheme.responsive.layout.css":1,"public:\/\/adaptivetheme\/adaptivetheme_subtheme_files\/adaptivetheme_subtheme.menutoggle.css":1,"public:\/\/adaptivetheme\/adaptivetheme_subtheme_files\/adaptivetheme_subtheme.responsive.styles.css":1,"public:\/\/adaptivetheme\/adaptivetheme_subtheme_files\/adaptivetheme_subtheme.lt-ie9.layout.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"better_exposed_filters":{"views":{"top_stories":{"displays":{"block":{"filters":[]},"block_1":{"filters":[]}}}}},"responsive_menus":[{"toggler_text":"\u2630","selectors":["#block-menu-menu-categories"],"media_size":"768","media_unit":"px","absolute":"1","remove_attributes":"1","responsive_menus_style":"responsive_menus_simple"}],"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/search\/node":true,"\/2020\/05\/04\/fire-two-transmission-masts-hague":true},"rrssb":{"size":"","shrink":"","regrow":"","minRows":"","maxRows":"1","prefixReserve":"","prefixHide":"","alignRight":0},"quicktabs":{"qt_front":{"name":"front","tabs":[{"bid":"views_delta_top_stories-block","hide_title":1},{"bid":"views_delta_top_stories-block_1","hide_title":1}],"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"}}},"colorbox_node":{"width":"600px","height":"600px"},"adaptivetheme":{"adaptivetheme_subtheme":{"layout_settings":{"bigscreen":"two-sidebars-right","tablet_landscape":"two-sidebars-right-stack","tablet_portrait":"one-col-vert","smalltouch_landscape":"one-col-stack","smalltouch_portrait":"one-col-stack"},"media_query_settings":{"bigscreen":"only screen and (min-width:1025px)","tablet_landscape":"only screen and (min-width:900px) and (max-width:1024px)","tablet_portrait":"only screen and (min-width:581px) and (max-width:900px)","smalltouch_landscape":"only screen and (min-width:321px) and (max-width:580px)","smalltouch_portrait":"only screen and (max-width:320px)"},"menu_toggle_settings":{"menu_toggle_tablet_portrait":"true","menu_toggle_tablet_landscape":"false"}}},"addtohomescreen":{"debug":0,"modal":0,"mandatory":0,"skipFirstVisit":1,"autostart":1,"icon":1,"startDelay":1,"lifespan":15,"displayPace":2880,"maxDisplayCount":2}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]>
+<script src="https://nltimes.nl/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?q9njao"></script>
+<![endif]-->
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+    <script>
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+    </script>
+    <script>
+      googletag.cmd.push(function(){
+        gam_desktop_lb_mapping = googletag.sizeMapping()
+                                      .addSize([1024, 0], [[468, 60], [728, 90]])
+                                      .addSize([0, 0], [])
+                                      .build();
+
+        gam_desktop_lb_bb_mapping = googletag.sizeMapping()
+                                      .addSize([1024, 0], [[468, 60], [728, 90], [970, 70], [970, 90], [970, 250]])
+                                      .addSize([0, 0], [])
+                                      .build();
+
+        gam_desktop_rt_hpa_mapping = googletag.sizeMapping()
+                                      .addSize([1024, 0], [[300, 250], [300, 600]])
+                                      .addSize([0, 0], [])
+                                      .build();
+
+        gam_tablet_mapping = googletag.sizeMapping()
+                                      .addSize([1024, 0], [])
+                                      .addSize([740, 0], [[728, 90], [468, 60]])
+                                      .addSize([480, 0], [[468, 60]])
+                                      .addSize([0, 0], [])
+                                      .build();
+
+        gam_mobile_mapping = googletag.sizeMapping()
+                                      .addSize([480, 0], [])
+                                      .addSize([300, 0], [[300, 50], [300, 100], [320, 50], [320, 100], [300, 250], [320, 240], [320, 250], [320, 480]])
+                                      .addSize([0, 0], [])
+                                      .build();
+        
+        gam_mobile_header_mapping = googletag.sizeMapping()
+                                      .addSize([480, 0], [])
+                                      .addSize([300, 0], [[320, 50], [320, 100], [300, 50], [300, 100] ])
+                                      .addSize([0, 0], [])
+                                      .build();
+
+        gam_static_top_alpha_desktop = googletag.defineSlot('/140008389/ps_nltimes/nltimes_ros_static-top_alpha', [[970, 250], [970, 90], [970, 70], [728, 90], [468, 60]], 'gam_static_top_alpha_desktop').defineSizeMapping(gam_desktop_lb_bb_mapping).addService(googletag.pubads());
+        gam_static_top_bravo_desktop = googletag.defineSlot('/140008389/ps_nltimes/nltimes_ros_static-top_bravo', [[300, 250], [300, 600]], 'gam_static_top_bravo_desktop').defineSizeMapping(gam_desktop_rt_hpa_mapping).addService(googletag.pubads());
+        gam_static_bot_alpha_desktop = googletag.defineSlot('/140008389/ps_nltimes/nltimes_ros_static-bot_alpha', [[728, 90], [468, 60]], 'gam_static_bot_alpha_desktop').defineSizeMapping(gam_desktop_lb_mapping).addService(googletag.pubads());
+        gam_sticky_mid_alpha_desktop = googletag.defineSlot('/140008389/ps_nltimes/nltimes_ros_sticky-mid_alpha', [[300, 600], [300, 250]], 'gam_sticky_mid_alpha_desktop').defineSizeMapping(gam_desktop_rt_hpa_mapping).addService(googletag.pubads());
+
+        gam_static_top_alpha_tablet = googletag.defineSlot('/140008389/ps_nltimes/nltimes_ros_static-top_alpha', [[728, 90], [468, 60]], 'gam_static_top_alpha_tablet').defineSizeMapping(gam_tablet_mapping).addService(googletag.pubads());
+        gam_static_mid_alpha_tablet = googletag.defineSlot('/140008389/ps_nltimes/nltimes_ros_static-mid_alpha', [[728, 90], [468, 60]], 'gam_static_mid_alpha_tablet').defineSizeMapping(gam_tablet_mapping).addService(googletag.pubads());
+        gam_static_bot_alpha_tablet = googletag.defineSlot('/140008389/ps_nltimes/nltimes_ros_static-bot_alpha', [[728, 90], [468, 60]], 'gam_static_bot_alpha_tablet').defineSizeMapping(gam_tablet_mapping).addService(googletag.pubads());
+
+        gam_static_top_alpha_mobile = googletag.defineSlot('/140008389/ps_nltimes/nltimes_ros_static-top_alpha', [[300, 50], [300, 100], [320, 50], [320, 100], [300, 250], [320, 240], [320, 250], [320, 480]], 'gam_static_top_alpha_mobile').defineSizeMapping(gam_mobile_mapping).addService(googletag.pubads());
+        gam_static_mid_alpha_mobile = googletag.defineSlot('/140008389/ps_nltimes/nltimes_ros_static-mid_alpha', [[300, 50], [300, 100], [320, 50], [320, 100], [300, 250], [320, 240], [320, 250], [320, 480]], 'gam_static_mid_alpha_mobile').defineSizeMapping(gam_mobile_mapping).addService(googletag.pubads());
+        gam_static_bot_alpha_mobile = googletag.defineSlot('/140008389/ps_nltimes/nltimes_ros_static-bot_alpha', [[300, 50], [300, 100], [320, 50], [320, 100], [300, 250], [320, 240], [320, 250], [320, 480]], 'gam_static_bot_alpha_mobile').defineSizeMapping(gam_mobile_mapping).addService(googletag.pubads());
+        gam_sticky_bot_alpha_mobile = googletag.defineSlot('/140008389/ps_nltimes/nltimes_ros_sticky-bot_alpha', [[300, 50], [300, 100], [320, 50], [320, 100]], 'gam_sticky_bot_alpha_mobile').defineSizeMapping(gam_mobile_header_mapping).addService(googletag.pubads());
+
+        gam_oop_top = googletag.defineOutOfPageSlot('/140008389/ps_nltimes/nltimes_ros_static-top_alpha', 'gam_oop_top').setTargeting('adunit_position', ['top']).addService(googletag.pubads());
+
+        googletag.pubads().setTargeting('category', ['']).setTargeting('page_id', ['']);
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        //googletag.pubads().enableLazyLoad({
+        //  renderMarginPercent: 0,
+        //});
+        googletag.enableServices();
+      });
+    </script>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({article:'auto'});
+        !function (e, f, u, i) {
+            if (!document.getElementById(i)){
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+        }
+    }(document.createElement('script'), document.getElementsByTagName('script')[0], '//cdn.taboola.com/libtrc/nltimes/loader.js', 'tb_loader_script');
+    if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+    </script> 
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-46574 node-type-newsarticle site-name-hidden atr-7.x-3.x atv-7.x-3.4">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PCHSJZZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <div id="skip-link" class="nocontent">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper">
+  <div id="page" class="container page at-mt">
+
+    <!-- !Leaderboard Region -->
+    
+    <header id="header" class="clearfix" role="banner">
+        <div id="header-inner">
+                        <!-- !Branding -->
+            <div id="branding" class="branding-elements clearfix">
+                <div id="logo"><a href="/" title="The top Netherlands news source in English is NLTimes.nl"><img class="site-logo" src="/sites/nl-times.nl/files/nltimes-sm-logo.png" alt="NL Times"></a></div>
+            </div>
+                        <!-- !Header Region -->
+            <div class="region region-header"><div class="region-inner clearfix"><nav id="block-menu-menu-categories" class="block block-menu no-title odd first last block-count-1 block-region-header block-menu-categories"  role="navigation"><div class="block-inner clearfix">  
+  
+  <ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-7607"><a href="/categories/top-stories" title="">Top stories</a></li><li class="leaf menu-depth-1 menu-item-1982"><a href="/categories/crime" title="">Crime</a></li><li class="leaf menu-depth-1 menu-item-1983"><a href="/categories/politics" title="">Politics</a></li><li class="leaf menu-depth-1 menu-item-1984"><a href="/categories/business" title="">Business</a></li><li class="leaf menu-depth-1 menu-item-2225"><a href="/categories/sports" title="">Sports</a></li><li class="leaf menu-depth-1 menu-item-2226"><a href="/categories/food" title="">Food</a></li><li class="leaf menu-depth-1 menu-item-2227"><a href="/categories/health" title="">Health</a></li><li class="leaf menu-depth-1 menu-item-2228"><a href="/categories/weird" title="">Weird</a></li><li class="leaf menu-depth-1 menu-item-2229"><a href="/categories/technology" title="">Technology</a></li><li class="last leaf menu-depth-1 menu-item-2224"><a href="/categories/entertainment" title="">Entertainment</a></li></ul>
+  </div></nav></div></div>        </div>
+    </header>
+
+    <!-- !Navigation -->
+            
+    <!-- !Breadcrumbs -->
+    
+    <!-- !Messages and Help -->
+        
+    <!-- !Secondary Content Region -->
+    <div class="region region-secondary-content"><div class="region-inner clearfix"><div id="block-block-11" class="block block-block no-title odd first last block-count-2 block-region-secondary-content block-11" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><script type="text/javascript">
+<!--
+  if ((window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth) >= 970) {
+  document.write('<div id="gam_static_top_alpha_desktop"><script>googletag.cmd.push(function() {googletag.display("gam_static_top_alpha_desktop");});</script></div>');
+  }
+//-->
+<!--
+  if ((window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth) < 970) {
+  document.write('<div id="gam_static_top_alpha_mobile"><script>googletag.cmd.push(function() {googletag.display("gam_static_top_alpha_mobile");});</script></div>');
+  }
+//-->
+</script></div>
+  </div></div></div></div>
+    <div id="columns" class="columns clearfix">
+      <main id="content-column" class="content-column" role="main">
+        <div class="content-inner">
+
+          <!-- !Highlighted region -->
+          
+          <div id="main-content">
+
+            
+            <!-- !Main Content Header -->
+            
+            <!-- !Main Content -->
+                          <div id="content" class="region">
+                <div id="block-system-main" class="block block-system no-title odd first block-count-3 block-region-content block-main" >  
+  
+  <div  role="article" class="ds-1col node node-newsarticle article odd node-full view-mode-full clearfix">
+
+  
+  <div class="field field-name-field-categories field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/categories/crime">Crime</a></li><li class="field-item odd"><a href="/categories/top-stories">Top Stories</a></li></ul></div><div class="field field-name-title-field field-type-text field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><h1 class="page-title">Fire at two transmission masts in The Hague</h1>
+</div></div></div><span class="submitted-by">By Janene Pieters on May 4, 2020 - 07:28</span><div class="field field-name-field-hoofdafbeelding field-type-image field-label-hidden view-mode-full"><div class="field-items"><figure class="clearfix field-item even"><div  class="ds-1col file file-image file-image-jpeg view-mode-default clearfix">
+
+  
+  <img class="image-style-main" src="https://nltimes.nl/sites/nl-times.nl/files/styles/main/public/2020/04/gsm-zendmast-joost-km-460x280.jpg" width="920" height="564" alt="Transmission mast" /><div class="field field-name-credit-line field-type-ds field-label-hidden view-mode-default"><div class="field-items"><figure class="clearfix field-item even"><span class="img-description">Transmission mast</span><span class="img-details"><span class="img-creditsource"><a href="https://www.politie.nl/nieuws/2020/april/29/11-politie-houdt-derde-verdachte-zendmastbranden-aan.html"><span class="img-credittext">Politie</span><span class="img-source"></span></a><span class="img-licencetext"><a href=""></a></span></span></figure></div></div></div>
+
+</figure></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><p>Two transmissions masts in The Hague were found burning during the early hours of Monday morning. The fires at masts on Jaap Edenweg and Laan Van Poot were reported shortly after one another, local safety region Veiligheidsregio Haaglanden confirmed to NU.nl.</p>
+<p>The police closed down the areas around both masts for investigation. The one on Jaap Edenweg is a C2000 mast, which is used for communication between emergency services. The extent of the damage is not yet clear.</p>
+<p>On Friday night, a transmission mast on the A67 in Maasbree, Limburg was also set on fire. </p>
+<p>The police can't confirm yet whether arson was involved, but as <a href="https://nltimes.nl/tags/5g-arson">more than 20 transmission masts </a>in the country have been set alight since April 3rd, it seems likely.</p>
+<p>The suspicion is that the fires are extremist protests against the roll out of the 5G network. Conspiracy theories online linked the network to the coronavirus, saying that it destroys the immune system and therefore left people vulnerable to the virus. There is no evidence for this.</p>
+<p>So far three suspects have been arrested. A <a href="https://nltimes.nl/2020/04/24/suspect-arrested-groningen-transmission-mast-arson">Groningen man</a> is suspected of setting fire to a mast in Groningen. And <a href="https://nltimes.nl/2020/04/30/telecom-mast-arson-suspects-reportedly-brothers-said-didnt">two men from Swifterbant </a>are suspected of arson in Dronten. </p>
+<p>A protest against the 5G network will be held in The Hague on Monday. </p>
+<p> </p>
+</div></div></div><section class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above view-mode-full"><h2 class="field-label">Tags:&nbsp;</h2><ul class="field-items"><li class="field-item even"><a href="/tags/the-hague">The Hague</a></li><li class="field-item odd"><a href="/tags/veiligheidsregio-haaglanden">Veiligheidsregio Haaglanden</a></li><li class="field-item even"><a href="/tags/fire">fire</a></li><li class="field-item odd"><a href="/tags/arson">arson</a></li><li class="field-item even"><a href="/tags/5g-arson">5G arson</a></li><li class="field-item odd"><a href="/tags/5g">5G</a></li><li class="field-item even"><a href="/tags/jaap-edenweg">Jaap Edenweg</a></li><li class="field-item odd"><a href="/tags/laan-van-poot">Laan van Poot</a></li><li class="field-item even"><a href="/tags/police">police</a></li></ul></section></div>
+
+
+  </div><div id="block-block-12" class="block block-block no-title even block-count-4 block-region-content block-12" >  
+  
+  <script type='text/javascript'>
+jQuery(function($) {
+$(document).ready(function(){
+  $(".field-name-body .field-item > p:nth-child(3)").after($("#block-block-12"));
+});
+})
+</script>
+<iframe id='29' src='https://vcdn.planetnine.com/player/29/29' onload='window.addEventListener("message", function(e) {if(e.data.id == 29){ document.getElementById("29").style.display = e.data.dis; document.getElementById("29").style.height = e.data.height; document.getElementById("29").style.opacity = e.data.opacity; document.getElementById("29").style.marginTop = e.data.marginTop; } }, false);' scrolling='no' allowfullscreen frameborder='0'  style='height: 1px; opacity:0; width: 100%; display: block; margin-top:-20px;'></iframe>
+  </div><div id="block-rrssb-rrssb" class="block block-rrssb no-title odd block-count-5 block-region-content block-rrssb" >  
+  
+  <div class="rrssb"><ul class="rrssb-buttons"><li class="rrssb-facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnltimes.nl%2F2020%2F05%2F04%2Ffire-two-transmission-masts-hague" class="popup"><span class="rrssb-icon"></span><span class="rrssb-text">facebook</span></a></li><li class="rrssb-reddit"><a href="http://www.reddit.com/submit?url=https%3A%2F%2Fnltimes.nl%2F2020%2F05%2F04%2Ffire-two-transmission-masts-hague&title=Fire%20at%20two%20transmission%20masts%20in%20The%20Hague" class="popup"><span class="rrssb-icon"></span><span class="rrssb-text">reddit</span></a></li><li class="rrssb-twitter"><a href="https://twitter.com/intent/tweet?text=Fire%20at%20two%20transmission%20masts%20in%20The%20Hague&url=https%3A%2F%2Fnltimes.nl%2F2020%2F05%2F04%2Ffire-two-transmission-masts-hague" class="popup"><span class="rrssb-icon"></span><span class="rrssb-text">twitter</span></a></li><li class="rrssb-linkedin"><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fnltimes.nl%2F2020%2F05%2F04%2Ffire-two-transmission-masts-hague&title=Fire%20at%20two%20transmission%20masts%20in%20The%20Hague" class="popup"><span class="rrssb-icon"></span><span class="rrssb-text">linkedin</span></a></li><li class="rrssb-whatsapp"><a href="whatsapp://send?text=Fire%20at%20two%20transmission%20masts%20in%20The%20Hague https%3A%2F%2Fnltimes.nl%2F2020%2F05%2F04%2Ffire-two-transmission-masts-hague" class="popup"><span class="rrssb-icon"></span><span class="rrssb-text">whatsapp</span></a></li></ul></div>
+  </div><div id="block-block-10" class="block block-block no-title even block-count-6 block-region-content block-10" >  
+  
+  <script type="text/javascript">
+<!--
+  if ((window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth) >= 970) {
+  document.write('<div id="gam_static_bot_alpha_desktop"><script>googletag.cmd.push(function() {googletag.display("gam_static_bot_alpha_desktop");});</script></div>');
+  }
+//-->
+</script>
+<script type="text/javascript">
+<!--
+  if ((window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth) < 970) {
+  document.write('<div id="gam_static_mid_alpha_mobile"><script>googletag.cmd.push(function() {googletag.display("gam_static_mid_alpha_mobile");});</script></div>');
+  }
+//-->
+</script>
+  </div><div id="block-block-13" class="block block-block no-title odd last block-count-7 block-region-content block-13" >  
+  
+  <div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script> 
+  </div>              </div>
+            
+            <!-- !Feed Icons -->
+            
+            
+          </div><!-- /end #main-content -->
+
+          <!-- !Content Aside Region-->
+          
+        </div><!-- /end .content-inner -->
+      </main><!-- /end #content-column -->
+
+      <!-- !Sidebar Regions -->
+      <div class="region region-sidebar-first sidebar"><div class="region-inner clearfix"><div id="block-search-form" class="block block-search no-title odd first block-count-8 block-region-sidebar-first block-form"  role="search"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><form action="/2020/05/04/fire-two-transmission-masts-hague" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-JE-92XYALzI9N9S3iBLAm_L_DLodp4BVNcMlnr_ivZw" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+  </div></div><div id="block-block-7" class="block block-block no-title even block-count-9 block-region-sidebar-first block-7" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><script type="text/javascript">
+<!--
+  if ((window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth) >= 970) {
+  document.write('<div id="gam_static_top_bravo_desktop"><script>googletag.cmd.push(function() {googletag.display("gam_static_top_bravo_desktop");});</script></div>');
+  }
+//-->
+</script></div>
+  </div></div><div id="block-quicktabs-front" class="block block-quicktabs no-title odd block-count-12 block-region-sidebar-first block-front" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div  id="quicktabs-front" class="quicktabs-wrapper quicktabs-style-nostyle"><div class="item-list item-list-q"><ul class="quicktabs-tabs quicktabs-style-nostyle"><li class="active even first"><a href="/2020/05/04/fire-two-transmission-masts-hague?qt-front=0#qt-front" id="quicktabs-tab-front-0" class="quicktabs-tab quicktabs-tab-block quicktabs-tab-block-views-delta-top-stories-block active">Top stories</a></li><li class="odd last"><a href="/2020/05/04/fire-two-transmission-masts-hague?qt-front=1#qt-front" id="quicktabs-tab-front-1" class="quicktabs-tab quicktabs-tab-block quicktabs-tab-block-views-delta-top-stories-block-1 active">Recent stories</a></li></ul></div><div id="quicktabs-container-front" class="quicktabs_main quicktabs-style-nostyle"><div  id="quicktabs-tabpage-front-0" class="quicktabs-tabpage "><div id="block-views-top-stories-block" class="block block-views no-title odd first block-count-10 block-region-quicktabs-tabpage block-top-stories-block" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div class="view view-top-stories view-id-top_stories view-display-id-block view-dom-id-e8e1c160162b66b4b11d4a5aaed86a05">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-hoofdafbeelding">        <div class="field-content"><a href="/2020/05/05/klm-restart-flights-mouth-masks-required-flights"><img class="image-style-thumbnail" src="https://nltimes.nl/sites/nl-times.nl/files/styles/thumbnail/public/2020/04/depositphotos_9729459_l-2015.jpg" width="60" height="60" alt="KLM" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/2020/05/05/klm-restart-flights-mouth-masks-required-flights">KLM to restart more flights; mouth masks required on flights</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-hoofdafbeelding">        <div class="field-content"><a href="/2020/05/05/radio-station-funx-scraps-ramadan-show-death-threats"><img class="image-style-thumbnail" src="https://nltimes.nl/sites/nl-times.nl/files/styles/thumbnail/public/2016/12/mouw-nieuwe-uniform-politie.jpg" width="60" height="60" alt="Police" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/2020/05/05/radio-station-funx-scraps-ramadan-show-death-threats">Radio station FunX scraps Ramadan show after death threats</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-hoofdafbeelding">        <div class="field-content"><a href="/2020/05/05/govt-may-reopen-terraces-june-1-hair-salons-next-week-report"><img class="image-style-thumbnail" src="https://nltimes.nl/sites/nl-times.nl/files/styles/thumbnail/public/2020/03/depositphotos_262925262_l-2015.jpg" width="60" height="60" alt="Packed up terrace" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/2020/05/05/govt-may-reopen-terraces-june-1-hair-salons-next-week-report">Gov&#039;t may reopen terraces on June 1, hair salons next week: report</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-field-hoofdafbeelding">        <div class="field-content"><a href="/2020/05/04/covid-19-icu-discharges-quickly-outpacing-deaths"><img class="image-style-thumbnail" src="https://nltimes.nl/sites/nl-times.nl/files/styles/thumbnail/public/2020/04/depositphotos_70999831_l-2015.jpg" width="60" height="60" alt="Hospital" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/2020/05/04/covid-19-icu-discharges-quickly-outpacing-deaths">Covid-19 ICU discharges quickly outpacing deaths</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-field-hoofdafbeelding">        <div class="field-content"><a href="/2020/05/04/third-teachers-worried-schools-reopening"><img class="image-style-thumbnail" src="https://nltimes.nl/sites/nl-times.nl/files/styles/thumbnail/public/2019/01/depositphotos_51325433_l-2015.jpg" width="60" height="60" alt="Primary school classroom" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/2020/05/04/third-teachers-worried-schools-reopening">Third of teachers worried about schools reopening</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-hoofdafbeelding">        <div class="field-content"><a href="/2020/05/04/mayor-calls-adam-residents-responsibility-adhere-coronavirus-measures-hoping-relaxation"><img class="image-style-thumbnail" src="https://nltimes.nl/sites/nl-times.nl/files/styles/thumbnail/public/2017/10/800px-femke_halsema_2.jpg" width="60" height="60" alt="Femke Halsema" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/2020/05/04/mayor-calls-adam-residents-responsibility-adhere-coronavirus-measures-hoping-relaxation">Mayor calls on A&#039;dam residents&#039; responsibility to adhere to coronavirus measures, hoping for more relaxation soon</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  </div></div></div><div  id="quicktabs-tabpage-front-1" class="quicktabs-tabpage quicktabs-hide"><div id="block-views-top-stories-block-1" class="block block-views no-title even block-count-11 block-region-quicktabs-tabpage block-top-stories-block-1" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div class="view view-top-stories view-id-top_stories view-display-id-block_1 view-dom-id-1df225e068280420628ce57398e15f37">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-hoofdafbeelding">        <div class="field-content"><a href="/2020/05/05/biggest-production-decrease-ever-dutch-industry-bad-rest-eu"><img class="image-style-thumbnail" src="https://nltimes.nl/sites/nl-times.nl/files/styles/thumbnail/public/legacy-nlt/uploads/2013/09/Dutch-Industry.jpg" width="60" height="60" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/2020/05/05/biggest-production-decrease-ever-dutch-industry-bad-rest-eu">Biggest production decrease ever in Dutch industry, not as bad as rest of EU</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-hoofdafbeelding">        <div class="field-content"><a href="/2020/05/05/netherlands-lights-14-freedom-fires-liberation-day"><img class="image-style-thumbnail" src="https://nltimes.nl/sites/nl-times.nl/files/styles/thumbnail/public/2020/05/800px-vrijheidsvuur_first_lighting.jpg" width="60" height="60" alt="First lighting of the Liberation Day fire in Wageningen, 5 May 2011" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/2020/05/05/netherlands-lights-14-freedom-fires-liberation-day">Netherlands lights 14 freedom fires on Liberation Day</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-hoofdafbeelding">        <div class="field-content"><a href="/2020/05/05/dutch-investigative-journalist-wins-pulitzer"><img class="image-style-thumbnail" src="https://nltimes.nl/sites/nl-times.nl/files/styles/thumbnail/public/2020/03/depositphotos_50711949_l-2015.jpg" width="60" height="60" alt="Newspapers " /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/2020/05/05/dutch-investigative-journalist-wins-pulitzer">Dutch investigative journalist wins Pulitzer</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-field-hoofdafbeelding">        <div class="field-content"><a href="/2020/05/05/klm-restart-flights-mouth-masks-required-flights"><img class="image-style-thumbnail" src="https://nltimes.nl/sites/nl-times.nl/files/styles/thumbnail/public/2020/04/depositphotos_9729459_l-2015.jpg" width="60" height="60" alt="KLM" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/2020/05/05/klm-restart-flights-mouth-masks-required-flights">KLM to restart more flights; mouth masks required on flights</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-field-hoofdafbeelding">        <div class="field-content"><a href="/2020/05/05/radio-station-funx-scraps-ramadan-show-death-threats"><img class="image-style-thumbnail" src="https://nltimes.nl/sites/nl-times.nl/files/styles/thumbnail/public/2016/12/mouw-nieuwe-uniform-politie.jpg" width="60" height="60" alt="Police" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/2020/05/05/radio-station-funx-scraps-ramadan-show-death-threats">Radio station FunX scraps Ramadan show after death threats</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-hoofdafbeelding">        <div class="field-content"><a href="/2020/05/05/suspect-defense-lawyers-murder-linked-another-attempted-killing"><img class="image-style-thumbnail" src="https://nltimes.nl/sites/nl-times.nl/files/styles/thumbnail/public/politie-amsterdam-liquidatie-advocaat-buitenveldert-1b.jpg" width="60" height="60" alt="Police forensics at Derk Wiersum shooting scene" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/2020/05/05/suspect-defense-lawyers-murder-linked-another-attempted-killing">Suspect in defense lawyer&#039;s murder linked to another attempted killing</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  </div></div></div></div></div></div>
+  </div></div><div id="block-block-14" class="block block-block no-title even last block-count-13 block-region-sidebar-first block-14" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><script type="text/javascript">
+<!--
+  if ((window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth) >= 970) {
+  document.write('<div id="gam_sticky_mid_alpha_desktop"><script>googletag.cmd.push(function() {googletag.display("gam_sticky_mid_alpha_desktop");});</script></div>');
+  }
+//-->
+</script></div>
+  </div></div></div></div>      
+    </div><!-- /end #columns -->
+
+    <!-- !Tertiary Content Region -->
+    
+    <!-- !Footer -->
+          <footer id="footer" class="clearfix" role="contentinfo">
+        <div class="region region-footer"><div class="region-inner clearfix"><div id="block-block-15" class="block block-block no-title odd first block-count-14 block-region-footer block-15" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><script type="text/javascript">
+<!--
+  if ((window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth) < 970) {
+  document.write('<div id="gam_sticky_bot_alpha_mobile"><script>googletag.cmd.push(function() {googletag.display("gam_sticky_bot_alpha_mobile");});</script></div>');
+  }
+//-->
+</script></div>
+  </div></div><div id="block-block-4" class="block block-block no-title even last block-count-15 block-region-footer block-4" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><p>© 2012-2020 NLTimes.nl, All rights reserved.</p>
+</div>
+  </div></div></div></div>              </footer>
+    
+  </div>
+</div> 
+  <script>document['ABR_KEY']='CfmnLzGubdjB';(function(a,b,c,d){d=a.createElement(b);a=a.getElementsByTagName(b)[0];d.async=1;d.src=c;a.parentNode.insertBefore(d,a)})(document,'script','//adblockrelief.com/assets/js/app.min.js');</script>
+<script src="//d81idz8m5qll8.cloudfront.net/app.min.js" async></script>
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#aa0000",
+      "text": "#ffdddd"
+    },
+    "button": {
+      "background": "#479124"
+    }
+  },
+  "position": "bottom-left",
+  "content": {
+    "message": "NL Times uses cookies. For many reasons. They make the site function properly on all of your devices and browsers. They provide insight so we can continue providing relevant content. And yes, they help us show advertising: marketing material that hopefully is more interesting to you than the random junk ads for smileys and ringtones that annoyed us a decade ago. Cookies are necessary to our continued success. We’ve already served you 25 million pageviews. We’d like to serve you 25 million more.",
+    "dismiss": "Allow cookies",
+    "link": "How we use cookies",
+    "href": "https://nltimes.nl/cookie-policy"
+  }
+});
+</script>
+<script type="text/javascript" src="//nl.ads.justpremium.com/adserve/js.php?zone=78954&us_privacy=${US_PRIVACY}"></script>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script> 
+</body>
+</html>

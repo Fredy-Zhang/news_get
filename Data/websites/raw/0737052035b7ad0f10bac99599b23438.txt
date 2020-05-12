@@ -1,0 +1,837 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="mee">
+  <head>
+    <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"bbd70f8a9d",applicationID:"255513480"};window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var i=n[t]={exports:{}};e[t][0].call(i.exports,function(n){var i=e[t][1][n];return r(i||n)},i,i.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(e,n,t){function r(){}function i(e,n,t){return function(){return o(e,[u.now()].concat(f(arguments)),n?null:this,t),n?void 0:this}}var o=e("handle"),a=e(4),f=e(5),c=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",d=l+"ixn-";a(p,function(e,n){s[n]=i(l+n,!0,"api")}),s.addPageAction=i(l+"addPageAction",!0),s.setCurrentRouteName=i(l+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,i="function"==typeof n;return o(d+"tracer",[u.now(),e,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return n.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],t),e}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=i(d+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){var t=e.getEntries();t.forEach(function(e){"first-paint"===e.name?c("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&c("timing",["fcp",Math.floor(e.startTime)])})}function i(e,n){var t=e.getEntries();t.length>0&&c("lcp",[t[t.length-1]])}function o(e){if(e instanceof s&&!l){var n,t=Math.round(e.timeStamp);n=t>1e12?Date.now()-t:u.now()-t,l=!0,c("timing",["fi",t,{type:e.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,f,c=e("handle"),u=e("loader"),s=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),f=new PerformanceObserver(i);try{a.observe({entryTypes:["paint"]}),f.observe({entryTypes:["largest-contentful-paint"]})}catch(p){}}if("addEventListener"in document){var l=!1,d=["click","keydown","mousedown","pointerdown","touchstart"];d.forEach(function(e){document.addEventListener(e,o,!1)})}}},{}],3:[function(e,n,t){function r(e,n){if(!i)return!1;if(e!==i)return!1;if(!n)return!0;if(!o)return!1;for(var t=o.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}n.exports={agent:i,version:o,match:r}},{}],4:[function(e,n,t){function r(e,n){var t=[],r="",o=0;for(r in e)i.call(e,r)&&(t[o]=n(r,e[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],5:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,i=t-n||0,o=Array(i<0?0:i);++r<i;)o[r]=e[n+r];return o}n.exports=r},{}],6:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function i(e){function n(e){return e&&e instanceof r?e:e?c(e,f,o):o()}function t(t,r,i,o){if(!l.aborted||o){e&&e(t,r,i);for(var a=n(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function d(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||i(t)}function w(e,n){u(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:d,addEventListener:d,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(l.aborted=!0,s=l.backlog={})}var f="nr@context",c=e("gos"),u=e(4),s={},p={},l=n.exports=i();l.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(i.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[n]=r,r}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){i.buffer([e],r),i.emit(e,n,t)}var i=e("ee").get("handle");n.exports=r,r.ee=i},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=E.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();u(y,function(n,t){e[n]||(e[n]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function i(){"complete"===d.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=e("handle"),u=e(4),s=e("ee"),p=e(3),l=window,d=l.document,m="addEventListener",v="attachEvent",g=l.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:g,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1167.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=n.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),e(2),d[m]?(d[m]("DOMContentLoaded",o,!1),l[m]("load",r,!1)):(d[v]("onreadystatechange",i),l[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=e(6)},{}],"wrap-function":[function(e,n,t){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;n.exports=function(e,n){function t(e,n,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){l([u,"",[r,a,i],f])}s(n+"start",[r,a,i],f);try{return c=e.apply(a,r)}catch(p){throw s(n+"err",[r,a,p],f),p}finally{s(n+"end",[r,a,c],f)}}return r(e)?e:(n||(n=""),nrWrapper[a]=e,p(e,nrWrapper),nrWrapper)}function u(e,n,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<n.length;c++)f=n[c],a=e[f],r(a)||(e[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||n){var o=c;c=!0;try{e.emit(t,r,i,n)}catch(a){l([a,t,r,i])}c=o}}function p(e,n){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(e);return t.forEach(function(t){Object.defineProperty(n,t,{get:function(){return e[t]},set:function(n){return e[t]=n,n}})}),n}catch(r){l([r])}for(var i in e)f.call(e,i)&&(n[i]=e[i]);return n}function l(n){try{e.emit("internal-error",n)}catch(t){}}return e||(e=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+<meta name="twitter:card" content="summary_large_image" />
+<link rel="shortlink" href="https://www.middleeasteye.net/node/169611" />
+<meta property="og:site_name" content="Middle East Eye" />
+<link rel="canonical" href="https://www.middleeasteye.net/news/turkey-public-oppose-imf-loan-austerity" />
+<meta property="og:type" content="article" />
+<meta name="twitter:description" content="Past austerity measures have made Turkish people distrustful of the fund, but economists believe Ankara needs to find resources fast for its maturing foreign debt" />
+<meta name="description" content="Past austerity measures have made Turkish people distrustful of the fund, but economists believe Ankara needs to find resources fast for its maturing foreign debt" />
+<meta name="twitter:title" content="Turkey&#039;s economy is in trouble but the public oppose an IMF loan" />
+<meta property="fb:app_id" content="882711278504931" />
+<meta property="og:url" content="http://www.middleeasteye.net/news/turkey-public-oppose-imf-loan-austerity" />
+<meta name="twitter:creator" content="@middleeasteye" />
+<link rel="image_src" href="https://www.middleeasteye.net/sites/default/files/images-story/000_1qr2gb.jpg" />
+<meta name="generator" content="Drupal 8 (http://drupal.org)" />
+<meta property="og:title" content="Turkey&#039;s economy is in trouble but the public oppose an IMF loan" />
+<meta property="og:description" content="Past austerity measures have made Turkish people distrustful of the fund, but economists believe Ankara needs to find resources fast for its maturing foreign debt" />
+<meta name="twitter:url" content="http://www.middleeasteye.net/news/turkey-public-oppose-imf-loan-austerity" />
+<meta property="og:image" content="https://www.middleeasteye.net/sites/default/files/styles/article_page/public/images-story/000_1qr2gb.jpg?itok=_-3u7nAl" />
+<meta property="og:image:url" content="http://www.middleeasteye.net/sites/default/files/images-story/000_1qr2gb.jpg" />
+<meta property="article:author" content="https://www.facebook.com/middleeasteye/" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #0779bf} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
+<link rel="shortcut icon" href="/sites/default/files/MEE%20Purple.png" type="image/png" />
+<link rel="alternate" hreflang="en" href="https://www.middleeasteye.net/news/turkey-public-oppose-imf-loan-austerity" />
+<link rel="revision" href="https://www.middleeasteye.net/news/turkey-public-oppose-imf-loan-austerity" />
+<script src="/sites/default/files/google_tag/meye_gtm_english/google_tag.script.js?q9binp" defer></script>
+
+    <title>Turkey&#039;s economy is in trouble but the public oppose an IMF loan | Middle East Eye</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_7CAbgI9CxDGLvfYjZUGLoguaOSLFdyHXEwlsT1mF30A.css" />
+<link rel="stylesheet" media="all" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_3JnPCnCd3MOLWfsTkvLfBu4CC8ulDez6CLUWoMtXPlo.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_9Rsa8q5bFI1e6Xfg13uiMb3WJxIBBTAEVXRjPvjy2Tc.css" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/169611","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"adsense\/adsense.css,bootstrap\/popover,bootstrap\/tooltip,ckeditor_indentblock\/indentblock,colorbox\/colorbox,colorbox\/default,core\/html5shiv,disqus\/disqus,eu_cookie_compliance\/eu_cookie_compliance,mee_components\/general,mee_social_share\/mee_social_share.sharethis,mee_social_share\/sticky-widget,mee_subtheme\/alexa,mee_subtheme\/chartbeat,search_api_autocomplete\/search_api_autocomplete,social_media_links\/fontawesome.component,social_media_links\/social_media_links.theme,system\/base,views\/views.module","theme":"mee_subtheme","theme_token":null},"ajaxTrustedUrl":{"\/search\/content":true},"eu_cookie_compliance":{"popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-out\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E\n\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-secondary-button\u0022\u003ENo, thanks\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EOK, I agree\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-out\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-secondary-button\u0022\u003ENo, thanks\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EOK, I agree\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/terms-and-conditions","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"disagree_do_not_show_popup":false,"method":"opt_out","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"withdraw_button_on_info_popup":false,"cookie_categories":[],"enable_save_preferences_button":true,"fix_first_cookie_category":true,"select_all_categories_by_default":false},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_keyboard":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","popover_trigger_autoclose":1,"tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"node":{"author":"Ragip Soylu","type":"story"},"disqusComments":"middleeasteye","disqus":{"domain":"middleeasteye","url":"http:\/\/www.middleeasteye.net\/news\/turkey-public-oppose-imf-loan-austerity","title":"Turkey\u0027s economy is in trouble but the public oppose an IMF loan","identifier":"node\/169611","disable_mobile":false},"search_api_autocomplete":{"search_content":{"auto_submit":true}},"user":{"uid":0,"permissionsHash":"cc4a0867b27442a11b28272c1e1a7e714fe3b70f827a386d332b69e729e5bc48"}}</script>
+
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/sites/default/files/js/js_Qa_XuUBJgVmf9WHFOk9Wm5LalCHh3nb-p_LzYkXRhoE.js"></script>
+<script src="//platform-api.sharethis.com/js/sharethis.js#property=5d245fb16d20a10012251c07&amp;product=sticky-share-buttons" async="async"></script>
+
+  </head>
+  <body class="path-node page-node-type-story has-glyphicons">
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TJWJ5S9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+        <div class="region region-before-navigation">
+    <section id="block-adsense-top" class="block block-adsense block-adsense-managed-ad-block clearfix">
+  
+    
+
+      <div class="text-align-center">
+  <div class="adsense responsive" >
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6114695881218027"
+     data-ad-slot="8074323968"
+     data-ad-format="horizontal"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  </div>
+</div>
+
+  </section>
+
+
+  </div>
+
+  
+      <header id="navigation-header" role="banner">
+      <div class="navigation-header">
+          <div class="region region-navigation">
+          <a class="logo navbar-btn" href="/" title="Home" rel="home">
+      <img class="en navigation" src="/themes/mee_subtheme/images/logo-en.svg" alt="Home" />
+    </a>
+  <nav role="navigation" aria-labelledby="block-top-menu-en-menu" id="block-top-menu-en">
+            
+  <h3 class="visually-hidden block-title" id="block-top-menu-en-menu">Top Menu - English Version</h3>
+  
+
+        
+      <ul class="menu menu--top-menu-en nav">
+                        <li class="navitem-news section-active">
+        <a href="/news" class="navitem-news" data-drupal-link-system-path="node/120391">News</a>
+                  </li>
+                        <li class="navitem-opinion">
+        <a href="/opinion" class="navitem-opinion" data-drupal-link-system-path="node/120006">Opinion</a>
+                  </li>
+                        <li class="navitem-video">
+        <a href="/video" class="navitem-video" data-drupal-link-system-path="node/120011">Video</a>
+                  </li>
+                        <li class="navitem-story">
+        <a href="/thebigstory" class="navitem-story" data-drupal-link-system-path="node/120056">The Big Story</a>
+                  </li>
+                        <li class="navitem-life">
+        <a href="/discover" class="navitem-life" data-drupal-link-system-path="node/120061">Discover</a>
+                  </li>
+        </ul>
+  
+
+  </nav>
+<section class="language-switcher-language-url block block-language block-language-blocklanguage-interface clearfix" id="block-languageswitcher" role="navigation">
+  
+    
+
+      <ul class="links"><li hreflang="en" data-drupal-link-system-path="node/169611" class="is-active"><a href="/news/turkey-public-oppose-imf-loan-austerity" class="language-link is-active" hreflang="en" data-drupal-link-system-path="node/169611">English</a></li><li hreflang="fr" data-drupal-link-system-path="&lt;front&gt;"><a href="/fr" class="language-link" hreflang="fr" data-drupal-link-system-path="&lt;front&gt;">Français</a></li></ul>
+  </section>
+
+<section class="views-exposed-form block--views-exposed-form--search-content--page-1 block block-views-exposed-filter-blocks block-views-exposed-filter-blocks-block clearfix" data-drupal-selector="views-exposed-form-search-content-page-1" id="block-viewsexposedfilterblock">
+  
+    
+
+      <form action="/search/content" method="get" id="views-exposed-form-search-content-page-1" accept-charset="UTF-8">
+  <span class="search-label" data-drupal-selector="edit-search-label"><span class="icon glyphicon glyphicon-search search-icon" data-drupal-selector="edit-search-icon"></span>
+<span class="search-text" data-drupal-selector="edit-search-text">Search</span>
+</span>
+<div class="js-form-item form-item js-form-type-search-api-autocomplete form-item-keys js-form-item-keys form-no-label">
+        <div class="input-group"><input placeholder="Search in MEE" data-drupal-selector="edit-keys" data-search-api-autocomplete-search="search_content" class="form-autocomplete form-text" data-autocomplete-path="/search_api_autocomplete/search_content?display=page_1&amp;&amp;filter=keys" type="text" id="edit-keys" name="keys" value="" size="30" maxlength="128" /><span class="input-group-addon"><span class="icon glyphicon glyphicon-remove close-icon"></span><span class="icon glyphicon glyphicon-refresh ajax-progress ajax-progress-throbber" aria-hidden="true"></span></span></div>
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper container-element" id="edit-actions"><button data-drupal-selector="edit-submit-search-content" class="button js-form-submit form-submit btn-primary" type="submit" id="edit-submit-search-content" value="Search" name="">Search</button></div>
+
+
+</form>
+
+  </section>
+
+<section class="views-element-container block-collapsible block-collapsed block block-views block-views-blockcountries-list-block-1 clearfix" id="block-countries-list-block-header">
+  
+    
+
+      <span class="icon glyphicon glyphicon-globe globe-icon"><span class="icon glyphicon glyphicon-chevron-down dropdown-icon"></span>
+</span>
+<div class="container-element">      <a class="logo navbar-btn" href="/" title="Home" rel="home">
+      <img class="en navigation_collapsible" src="/themes/mee_subtheme/images/logo-mobile-en.svg" alt="Home" />
+    </a>
+  <div class="js-view-dom-id-a8da414175ed1d3b2ccfb548b10557aed1e8d80da76da36a27cd351a12296a3f view-content">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="views-rows"><div class="item-list">
+  
+  <ul>
+
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/algeria" hreflang="en">Algeria</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/bahrain" hreflang="en">Bahrain</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/egypt" hreflang="en">Egypt</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/iran" hreflang="en">Iran</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/iraq" hreflang="en">Iraq</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/israel" hreflang="en">Israel</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/jordan" hreflang="en">Jordan</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/kuwait" hreflang="en">Kuwait</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/lebanon" hreflang="en">Lebanon</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/libya" hreflang="en">Libya</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/mauritania" hreflang="en">Mauritania</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/morocco" hreflang="en">Morocco</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/oman" hreflang="en">Oman</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/palestine" hreflang="en">Palestine</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/qatar" hreflang="en">Qatar</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/saudi-arabia" hreflang="en">Saudi Arabia</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/sudan" hreflang="en">Sudan</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/syria" hreflang="en">Syria</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/tunisia" hreflang="en">Tunisia</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/turkey" hreflang="en">Turkey</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/united-arab-emirates" hreflang="en">United Arab Emirates</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/yemen" hreflang="en">Yemen</a></span></div></li>
+    
+  </ul>
+
+</div>
+</div>
+  
+  
+
+  
+  
+
+  
+  
+</div>
+<span class="icon glyphicon glyphicon-remove close-icon"></span>
+</div>
+
+  </section>
+
+<section id="block-socialmedialinks-2" class="block-social-media-links block block-social-media-links-block clearfix">
+  
+    
+
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a href="https://www.facebook.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-facebook fa-lg'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.twitter.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-twitter fa-lg'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.instagram.com/middleeasteye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-instagram fa-lg'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.youtube.com/channel/UCR0fZh5SBxxMNYdg0VzRFkg"  target="_blank" rel="nofollow" >
+        <span class='fa fa-youtube fa-lg'></span>
+      </a>
+
+          </li>
+  </ul>
+
+  </section>
+
+<section class="views-element-container block block-views block-views-blocktrending-topics-block-english clearfix" id="block-trending-topics-en-header">
+  
+      <h3 class="block-title">Now</h3>
+    
+
+      <div class="container-element"><div class="js-view-dom-id-0699ca68814041e77fcc664c564165408a3394b3e0cad1a317ba7f79415d5920 view-content">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="views-rows">    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/coronavirus" hreflang="en">Coronavirus</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/libya-crisis" hreflang="en">Libya Crisis</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/dispatch-podcast" hreflang="en">Dispatch podcast</a></span></div></div>
+</div>
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </section>
+
+
+  </div>
+
+                          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+            <i class="fa fa-bars"></i>
+            <span class="sr-only">Toggle navigation</span>
+          </button>
+              </div>
+
+                    <div id="navbar-collapse" class="navbar-collapse collapse width">
+          <div id="navbar-collapse-content">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+              <i class="fa fa-times"></i>
+              <span class="sr-only">Toggle navigation</span>
+            </button>            
+              <div class="region region-navigation-collapsible">
+          <a class="logo navbar-btn" href="/" title="Home" rel="home">
+      <img class="en navigation_collapsible" src="/themes/mee_subtheme/images/logo-mobile-en.svg" alt="Home" />
+    </a>
+  <nav role="navigation" aria-labelledby="block-sidebar-menu-mobile-en-menu" id="block-sidebar-menu-mobile-en">
+            
+  <h3 class="visually-hidden block-title" id="block-sidebar-menu-mobile-en-menu">Sidebar Menu Mobile En</h3>
+  
+
+        
+      <ul class="menu menu--main-menu-mobile-en nav">
+                        <li>
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+                  </li>
+                        <li class="section-active">
+        <a href="/news" data-drupal-link-system-path="node/120391">News</a>
+                  </li>
+                        <li>
+        <a href="/opinion" data-drupal-link-system-path="node/120006">Opinion</a>
+                  </li>
+                        <li>
+        <a href="/video" data-drupal-link-system-path="node/120011">Video</a>
+                  </li>
+                        <li>
+        <a href="/thebigstory" data-drupal-link-system-path="node/120056">The Big Story</a>
+                  </li>
+                        <li>
+        <a href="/contact">Contact</a>
+                  </li>
+                        <li class="navitem-life">
+        <a href="/discover" class="navitem-life" data-drupal-link-system-path="node/120061">Discover</a>
+                  </li>
+        </ul>
+  
+
+  </nav>
+<section class="language-switcher-language-url block block-language block-language-blocklanguage-interface clearfix" id="block-languageswitcher-2" role="navigation">
+  
+    
+
+      <ul class="links"><li hreflang="en" data-drupal-link-system-path="node/169611" class="is-active"><a href="/news/turkey-public-oppose-imf-loan-austerity" class="language-link is-active" hreflang="en" data-drupal-link-system-path="node/169611">English</a></li><li hreflang="fr" data-drupal-link-system-path="&lt;front&gt;"><a href="/fr" class="language-link" hreflang="fr" data-drupal-link-system-path="&lt;front&gt;">Français</a></li></ul>
+  </section>
+
+<section class="views-element-container block block-views block-views-blocktrending-topics-block-english clearfix" id="block-trending-topics-en-mobile">
+  
+      <h3 class="block-title">Now</h3>
+    
+
+      <div class="container-element"><div class="js-view-dom-id-b9a664a06647a11402e11f90db25afda5ceb83875e1d407230bcdc4b4858e79c view-content">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="views-rows">    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/coronavirus" hreflang="en">Coronavirus</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/libya-crisis" hreflang="en">Libya Crisis</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/dispatch-podcast" hreflang="en">Dispatch podcast</a></span></div></div>
+</div>
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </section>
+
+<section id="block-socialmedialinks-mobile" class="block-social-media-links block block-social-media-links-block clearfix">
+  
+      <h3 class="block-title">Follow us</h3>
+    
+
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a href="https://www.youtube.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-youtube fa-lg'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.facebook.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-facebook fa-lg'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.twitter.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-twitter fa-lg'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.instagram.com/middleeasteye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-instagram fa-lg'></span>
+      </a>
+
+          </li>
+  </ul>
+
+  </section>
+
+
+  </div>
+
+          </div>
+        </div>
+          </header>
+  
+  <div role="main" class=" js-quickedit-main-content main-content page-node-article-type page-node-story">
+                                    <div role="heading" class="top-bar top-bar-node-story">
+                  <div class="large-container">
+                         <a href="/news/all">News</a>    | <span class="article-topic">            <div class="field field-field-topic"><a href="/topics/inside-turkey" hreflang="en">Inside Turkey</a></div>
+      </span>
+                  </div>
+              </div>
+                
+                              <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+              
+            
+            
+      <div class="page-content-wrapper">
+                      <div class="content-top">
+              
+                <div class="region region-content-top">
+      
+  <h1 class="page-title"><span class="field field-title">Turkey&#039;s economy is in trouble but the public oppose an IMF loan</span>
+</h1>
+
+
+
+  </div>
+
+                
+          </div>
+                  
+            <section class="page-main-content">
+                                  <a id="main-content"></a>
+                    
+                <div class="field field-field-subhead">Past austerity measures have made Turkish people distrustful of the fund, but economists believe Ankara needs to find resources fast for its maturing foreign debt</div>
+      
+                      <div class="field field-field-main-image">  <img src="/sites/default/files/styles/article_page/public/images-story/000_1qr2gb.jpg?itok=_-3u7nAl" width="1400" height="955" alt="" typeof="foaf:Image" />
+
+
+</div>
+      
+                    <div class="field field-field-cutline">People wearing a protective facemask shop at a street market in Ankara, on April 22, 2020, ahead of the Muslim holy month of Ramadan. (AFP)</div>
+      
+            <div class="author-field author-info author-location">
+              <span class="author-by">By </span><div class="author-name"><a title="View user profile." href="/users/ragip-soylu" lang="" about="/users/ragip-soylu" typeof="schema:Person" property="schema:name" datatype="">Ragip Soylu</a></div> in             <div class="field field-field-article-location">Ankara </div>
+                </div>
+                  <div class="submitted-date">
+          <span class="date-created">Published date:</span> 4 May 2020 13:49 UTC
+            <span class="date-separator">| </span>
+            <span class="date-updated">Last update:</span> 19 hours 25 min ago        </div>
+            
+                <div class="region region-content">
+    <section id="block-meesocialshare" class="block block-mee-social-share block-mee-social-share-block clearfix">
+  
+    
+
+      
+
+<div  class="mee-social-share-block">
+  <div class="sharethis-inline-share-buttons"></div>
+
+</div>
+  </section>
+
+  <article data-history-node-id="169611" role="article" about="/news/turkey-public-oppose-imf-loan-austerity" class="story full article-type clearfix">
+                <div class="field field-body clearfix"><p>The Turkish central bank’s international reserves are drying up and the lira has hit a 20-month low&nbsp;amid the <a href="https://www.middleeasteye.net/topics/coronavirus">coronavirus crisis</a>, yet the overwhelming majority of Turkish citizens don’t want Ankara to take a loan from the International Monetary Fund.</p>
+<p>In a poll conducted last month, 69.2 percent of respondents said they oppose taking a credit line from the IMF to alleviate the economic fallout from coronavirus. <a href="https://www.turkiyeraporu.com/sizce-imfden-borc-alinmali-mi">The poll</a> was run by the Istanbul Economy Research, which spoke to 1,537 people in 12 Turkish provinces.</p>
+<p>The results could come as happy news to President Recep Tayyip Erdogan, who has in recent years campaigned against the IMF, even calling it last year “the biggest usurer around the world”.</p>
+<p><div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right">
+  <a class="mee-readmore-img-link" href="/news/turkey-us-courts-disillusionment-russia-grows"><img class="mee-readmore-image" src="/sites/default/files/styles/read_more/public/images-story/000_1qv7tw.jpg?itok=LNUDERl8" width="400" height="250" alt="" typeof="foaf:Image" />
+
+</a>  <div class="mee-readmore-description">Turkey courts Washington as disillusionment with Russia grows</div>
+    <a class="mee-readmore-link" href="/news/turkey-us-courts-disillusionment-russia-grows">Read More »</a>
+</div></p>
+<p>The Erdogan administration paid the final instalment of an IMF loan in 2013, and since then has gloated about its success in becoming&nbsp;financially independent.</p>
+<p>The financial body's reputation is apparently little higher among the Turkish people: 56 percent of respondents said they don’t trust the IMF and 43 percent said they believe there would be a cost if Turkey takes a loan from it.</p>
+<p>Past austerity measures insisted upon by the IMF, which squeezed Turkish people through budget cuts and privatisations, have contributed to its poor standing.</p>
+<p>For example, last year Kemal Kilicdaroglu, head of the CHP opposition party, labelled the government's economic programme as “IMF-inspired” in an attempt to discredit it.</p>
+<p>Conspiracy theories about the fund are rampant.</p>
+<p>Just over the weekend, Ramazan Kurtoglu, a popular economist, claimed that the IMF has required Sub-Saharan African countries to vaccinate children and plant microchips in them to meet criteria for a loan.</p>
+<p>“The Kenya government has announced that similar vaccination has left 500,000 women aged between 14-49 permanently infertile,” he said. Asked about his source on Twitter, he <a href="https://twitter.com/KurtogluKagan/status/1256838008952758272?s=20">refused </a>to provide one.</p>
+<h3>Maturing debt</h3>
+<p>However, economists are ringing alarm bells as economic conditions in the country worsen. The IMF expects that the Turkish economy will contract 5 percent this year due to the pandemic.</p>
+<p>The country has $168.5bn of <a href="https://www.bloomberg.com/news/articles/2020-04-28/lira-defense-drains-reserves-faster-than-turkey-can-restock-them">foreign currency debt, </a>mostly private-sector owned, <a href="https://www.bloomberg.com/news/articles/2020-04-28/lira-defense-drains-reserves-faster-than-turkey-can-restock-them"> </a>maturing in the next 12 months, while the central bank's gross reserves stand around $86bn.</p>
+<p>Economy Minister Berat Albayrak&nbsp;<a href="https://www.sabah.com.tr/yazarlar/muderrisoglu/2020/05/04/yerel-parayla-ticaret-icin-1-2-aya-adim-atacagiz">said</a> in a televised interview on Sunday&nbsp;that Turkey’s official reserves were enough to cover the debt maturing in upcoming months, as the government has only $4.4bn of debt to pay for this year.</p>
+<p>But Baris Soydan, an economist writing for independent news outlet T24<strong>,</strong> believes Turkey still needs to find a way to finance the private sector debt, almost half of which belongs to the banks.</p>
+<p>“It is true that the IMF has some disadvantages for the ordinary employees. An IMF deal might mean less annual salary increase for the public employees and for the minimum wage,” Soydan told Middle East Eye.</p>
+<p>“However you have to pay this debt one way or another. Either you are going to get a swap line from the Fed, getting dollars in return of Turkish lira, or an IMF loan. One could also choose to watch the big businesses going bankrupt because of lack of funds. That’s a choice.”</p>
+<blockquote><p>'You have to pay this debt one way or another. Either you are going to get a swap line from the Fed, getting dollars in return of Turkish lira, or an IMF loan'</p>
+<p><em>- Baris Soydan, economist</em></p>
+</blockquote>
+<p>Albayrak, the economy minister, reminded in the interview that Turkey has never failed to pay its foreign debts, even at the height of the <a href="https://www.middleeasteye.net/news/analysis-turkeys-currency-and-debt-crisis-has-been-years-making">2018 financial crisis</a>. “Our banks and private sector were able to pay more than 90 percent of their debts in the past,” he said. “Neither the banks nor the firms have short-term open currency positions.”</p>
+<p>However, according to Soydan the coronavirus has put Turkey in a previously unseen position, because the crisis itself was unprecedented. “This time you don’t have some incomes you used to have,” he added.</p>
+<p>In March, tourist arrivals <a href="https://www.dunya.com/kose-yazisi/turizme-yaz-bu-yaz-gelemeyecek/469371">decreased</a> 68 percent to 718,000 compared to last year, while Turkish exports <a href="https://tr.sputniknews.com/ekonomi/202005041041963390-dis-ticarete-koronavirus-darbesi-ihracat-yuzde-41-ithalat-yuzde-28-dustu/">dropped</a> 41 percent to $9bn in April year-on-year. Analysts expect that the tourism sector will suffer huge losses over the summer. Turkey <a href="https://www.dunya.com/sektorler/turizm/turizm-gelirleri-2019da-yuzde-17-artti-345-milyar-dolar-haberi-461579">made</a> $34bn last year thanks to millions of tourists visiting the country.&nbsp;</p>
+<p>Central bank governor Murat Uysal said last month that Turkey has been seeking swap lines with other central banks to provide more liquidity. A Turkish official told MEE last month that Erdogan&nbsp;relayed a request to get a swap line from the US Federal Reserve in a phone call with President Donald Trump.&nbsp;</p>
+<p><div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right">
+  <a class="mee-readmore-img-link" href="/news/analysis-turkeys-currency-and-debt-crisis-has-been-years-making"><img class="mee-readmore-image" src="/sites/default/files/styles/read_more/public/main-images/000_18C673.jpg?itok=9WXQOe1x" width="400" height="250" alt="" typeof="foaf:Image" />
+
+</a>  <div class="mee-readmore-description">ANALYSIS: Turkey’s currency and debt crisis has been years in the making</div>
+    <a class="mee-readmore-link" href="/news/analysis-turkeys-currency-and-debt-crisis-has-been-years-making">Read More »</a>
+</div></p>
+<p>In March, the Fed added temporary lines to the central banks of Brazil, South Korea and Mexico to support financial markets around the world as they struggle with coronavirus. US officials say the swap line decision is entirely financial and it is up to the Fed to make the move on whether to grant a line for Turkey.&nbsp;</p>
+<p>Some in Turkey believe an IMF loan should be avoided because it is an easy way to avoid chronic fiscal problems, without addressing the root causes.</p>
+<p>Sevket Pamuk, a respected economic&nbsp;historian, <a href="https://www.haberturk.com/prof-sevket-pamuk-salgin-sonrasi-donem-2-dunya-savasi-sonrasindaki-refah-donemi-gibi-olmaz-2666757">told</a> Haberturk TV that Turkey has been at the top of the list of countries that have gone to the IMF for assistance since its founding in 1945.</p>
+<p>“I see the IMF as a crutch. If we take a loan we will pay it in five years, and 10 years later we will knock on their door again,” he said.</p>
+<p>“Turkey needs to learn to stand on its own feet and resolve its structural problems."</p>
+</div>
+      
+  
+  
+</article>
+
+
+  </div>
+
+              
+                </section>
+
+                                    <aside role="complementary" class="sidebar-second">
+                        <div class="sidebar-photo-extend"></div>
+  
+                    <div class="region region-sidebar-second">
+    <section id="block-managedad-2" class="block block-adsense block-adsense-managed-ad-block clearfix">
+  
+    
+
+      <div class="text-align-center">
+  <div class="adsense" style="width:300px;height:250px;">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6114695881218027"
+     data-ad-slot="9954860777"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  </div>
+</div>
+
+  </section>
+
+<section id="block-recommendedarticles" class="block block-mee-custom block-recommended clearfix">
+  
+      <h3 class="block-title">Recommended</h3>
+    
+
+      <div class="recommended-block">
+  <div class="recommended-landing"></div>
+  <div class="recommended-other"><div class="mee-article-tile mee-article-tile-type--story mee-article-tile-image-no">
+    <div class="mee-tile-main">
+    <div class="mee-tile-topic"><a href="/topics/coronavirus">Coronavirus</a></div>
+    <a class="mee-tile-title" href="/news/coronavirus-turkey-begin-easing-pandemic-restrictions-starting-next-week">Turkey to begin easing coronavirus restrictions next week </a>
+      </div>
+</div><div class="mee-article-tile mee-article-tile-type--video mee-article-tile-image-no">
+    <div class="mee-tile-main">
+    <div class="mee-tile-topic"><a href="/topics/coronavirus">Coronavirus</a></div>
+    <a class="mee-tile-title" href="/video/coronavirus-istanbul-mosque-turned-groceries-pick-point-people-need">Coronavirus: Istanbul mosque turned grocery pick-up point for people in need</a>
+      </div>
+</div><div class="mee-article-tile mee-article-tile-type--story mee-article-tile-image-no">
+    <div class="mee-tile-main">
+    <div class="mee-tile-topic"><a href="/topics/khashoggi">Khashoggi</a></div>
+    <a class="mee-tile-title" href="/news/khashoggi-indictment-oven-well-evidence-destroyed">Turkish Khashoggi indictment sheds new light on Saudi cover-up</a>
+      </div>
+</div></div>
+</div>
+  </section>
+
+<section id="block-managedad-3" class="block block-adsense block-adsense-managed-ad-block clearfix">
+  
+    
+
+      <div class="text-align-center">
+  <div class="adsense" style="width:300px;height:250px;">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6114695881218027"
+     data-ad-slot="8074323968"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  </div>
+</div>
+
+  </section>
+
+
+  </div>
+
+                  
+              </aside>
+                      </div>
+
+                                    <div class="content-bottom">  <div class="paragraph--type--landing-page-segment segment--no-type">
+  <div class="segment-content">
+    <h3 class="segment-title">Read more</h3>
+    <div class="landing-layout-wrapper">
+  <div class="first-layout"><div class="mee-subtheme-segment-layout mee-subtheme-segment-layout--articles-below-3 segment-layout-std">
+  <div class="mee-article-tile mee-article-tile-type--story mee-article-tile-image">
+    <div class="mee-tile-image">
+    <a href="/news/netanyahu-turkey-new-page-gantz"><img src="/sites/default/files/styles/landing_tile/public/images-story/000_1gx4bq.jpg?itok=-yNb4x70" width="448" height="280" alt="" typeof="foaf:Image" />
+
+</a>
+  </div>
+    <div class="mee-tile-main">
+    <div class="mee-tile-topic"><a href="/topics/analysis">Analysis</a></div>
+    <a class="mee-tile-title" href="/news/netanyahu-turkey-new-page-gantz">Israel-Turkey relations are going the same place as Netanyahu - nowhere</a>
+      </div>
+</div><div class="mee-article-tile mee-article-tile-type--story mee-article-tile-image">
+    <div class="mee-tile-image">
+    <a href="/news/coronavirus-middle-east-economy-imf-arab-world"><img src="/sites/default/files/styles/landing_tile/public/images-story/000_1qk6rr.jpg?itok=FVRbZFBB" width="448" height="280" alt="" typeof="foaf:Image" />
+
+</a>
+  </div>
+    <div class="mee-tile-main">
+    <div class="mee-tile-topic"><a href="/topics/coronavirus">Coronavirus</a></div>
+    <a class="mee-tile-title" href="/news/coronavirus-middle-east-economy-imf-arab-world">Coronavirus will cause biggest shock to Middle East economy in 40 years: IMF</a>
+      </div>
+</div><div class="mee-article-tile mee-article-tile-type--story mee-article-tile-image">
+    <div class="mee-tile-image">
+    <a href="/news/coronavirus-egypt-seeks-aid-imf-amid-virus-inflicted-downturn"><img src="/sites/default/files/styles/landing_tile/public/images-story/egypt_imf-afp-4_24_20.jpeg?itok=vxeTDyis" width="448" height="280" alt="" typeof="foaf:Image" />
+
+</a>
+  </div>
+    <div class="mee-tile-main">
+    <div class="mee-tile-topic"><a href="/topics/coronavirus">Coronavirus</a></div>
+    <a class="mee-tile-title" href="/news/coronavirus-egypt-seeks-aid-imf-amid-virus-inflicted-downturn">Egypt seeks aid from IMF amid pandemic-inflicted downturn</a>
+      </div>
+</div>
+</div></div>
+  	</div>
+  </div>
+</div>
+
+        <div class="field field-field-comments">
+              <div><div id="disqus_thread" class="container-element"><noscript>
+  <p>
+    <a href="http://middleeasteye.disqus.com/">View the discussion thread.</a>
+  </p>
+</noscript>
+</div>
+</div>
+          </div>
+  
+</div>
+                  </div>
+
+  <footer class="footer " role="contentinfo">
+      
+    <div id="footer-top-wrapper">
+        <div class="region region-footer">
+          <a class="logo navbar-btn" href="/" title="Home" rel="home">
+      <img class="en footer" src="/themes/mee_subtheme/images/logo-en.svg" alt="Home" />
+    </a>
+  <nav role="navigation" aria-labelledby="block-top-menu-en-footer-menu" id="block-top-menu-en-footer">
+            
+  <h3 class="visually-hidden block-title" id="block-top-menu-en-footer-menu">Top Menu En</h3>
+  
+
+        
+      <ul class="menu menu--top-menu-en nav">
+                        <li class="navitem-news section-active">
+        <a href="/news" class="navitem-news" data-drupal-link-system-path="node/120391">News</a>
+                  </li>
+                        <li class="navitem-opinion">
+        <a href="/opinion" class="navitem-opinion" data-drupal-link-system-path="node/120006">Opinion</a>
+                  </li>
+                        <li class="navitem-video">
+        <a href="/video" class="navitem-video" data-drupal-link-system-path="node/120011">Video</a>
+                  </li>
+                        <li class="navitem-story">
+        <a href="/thebigstory" class="navitem-story" data-drupal-link-system-path="node/120056">The Big Story</a>
+                  </li>
+                        <li class="navitem-life">
+        <a href="/discover" class="navitem-life" data-drupal-link-system-path="node/120061">Discover</a>
+                  </li>
+        </ul>
+  
+
+  </nav>
+<section class="language-switcher-language-url block block-language block-language-blocklanguage-interface clearfix" id="block-language-switcher-footer" role="navigation">
+  
+    
+
+      <ul class="links"><li hreflang="en" data-drupal-link-system-path="node/169611" class="is-active"><a href="/news/turkey-public-oppose-imf-loan-austerity" class="language-link is-active" hreflang="en" data-drupal-link-system-path="node/169611">English</a></li><li hreflang="fr" data-drupal-link-system-path="&lt;front&gt;"><a href="/fr" class="language-link" hreflang="fr" data-drupal-link-system-path="&lt;front&gt;">Français</a></li></ul>
+  </section>
+
+<section id="block-socialmedialinks-footer" class="block-social-media-links block block-social-media-links-block clearfix">
+  
+    
+
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a href="https://www.facebook.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-facebook fa-lg'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.twitter.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-twitter fa-lg'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.instagram.com/middleeasteye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-instagram fa-lg'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.youtube.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-youtube fa-lg'></span>
+      </a>
+
+          </li>
+  </ul>
+
+  </section>
+
+
+  </div>
+
+      <a class="top-link" href="#"><i class="fa fa-angle-double-up"></i>Top</a>
+    </div>
+    <div id="footer-bottom-wrapper">
+        <div class="region region-footer-bottom">
+    <section class="views-element-container block-collapsible block-collapsed block block-views block-views-blockcountries-list-block-2 clearfix" id="block-countries-list-block-footer">
+  
+      <h3 class="block-title">Countries</h3>
+    
+
+      <div class="container-element"><div class="js-view-dom-id-796760d1ed562444c356bd5ad26c2374be918cf6545b778af91a3bad742b6bf2 view-content">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="views-rows"><div class="item-list">
+  
+  <ul>
+
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/algeria" hreflang="en">Algeria</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/bahrain" hreflang="en">Bahrain</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/egypt" hreflang="en">Egypt</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/iran" hreflang="en">Iran</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/iraq" hreflang="en">Iraq</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/israel" hreflang="en">Israel</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/jordan" hreflang="en">Jordan</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/kuwait" hreflang="en">Kuwait</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/lebanon" hreflang="en">Lebanon</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/libya" hreflang="en">Libya</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/mauritania" hreflang="en">Mauritania</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/morocco" hreflang="en">Morocco</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/oman" hreflang="en">Oman</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/palestine" hreflang="en">Palestine</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/qatar" hreflang="en">Qatar</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/saudi-arabia" hreflang="en">Saudi Arabia</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/sudan" hreflang="en">Sudan</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/syria" hreflang="en">Syria</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/tunisia" hreflang="en">Tunisia</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/turkey" hreflang="en">Turkey</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/united-arab-emirates" hreflang="en">United Arab Emirates</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/yemen" hreflang="en">Yemen</a></span></div></li>
+    
+  </ul>
+
+</div>
+</div>
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </section>
+
+<section id="block-about" class="block-collapsible block-collapsed block block-system block-system-menu-blockabout clearfix">
+  
+      <h3 class="block-title">About</h3>
+    
+
+    <div class="container-element">
+    
+      <ul class="menu menu--about">
+                        <li>
+        <a href="/about-middle-east-eye" data-drupal-link-system-path="node/2">About us</a>
+                  </li>
+                        <li>
+        <a href="/privacy-policy" data-drupal-link-system-path="node/3">Privacy</a>
+                  </li>
+                        <li>
+        <a href="/terms-and-conditions" data-drupal-link-system-path="node/1">Terms and conditions</a>
+                  </li>
+                        <li>
+        <a href="/form/contact" title="Contact Us" data-drupal-link-system-path="webform/contact">Contact Us</a>
+                  </li>
+        </ul>
+  
+
+  </div>
+</section>
+
+<section id="block-copyright" class="block block-block-content block-block-content1f6aeddb-b5ee-4c7c-9eb5-f21cb5a0bf3c clearfix">
+  
+    
+
+                  <div class="field field-body clearfix"><p><span>© Middle East Eye 2020 - all rights reserved. </span> <span>Only England And Wales jurisdiction apply in all legal matters.</span></p>
+</div>
+      
+  </section>
+
+
+  </div>
+
+    </div>
+  </footer>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_kEqaJBA2qdvK8jWZbxwKDuAkS41xIdV1qXzrlTPO2yo.js"></script>
+   
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"bbd70f8a9d","applicationID":"255513480","transactionName":"NFEAMkVUWkYFAUIKXg0bIwVDXFtbSyZEFkECWD4LUlBrVhERQgxcP3cNCENHW1kIB0Q\/fAZRLg9BUHZZCwVjE1UCQAclWFtARwsOWgZDTgoBDlJWX3QHAVMQQg==","queueTime":0,"applicationTime":662,"atts":"GBYDRA1OSUg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

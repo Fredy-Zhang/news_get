@@ -1,0 +1,1210 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+<script src="//tags.tiqcdn.com/utag/bbg/rferl-pangea/prod/utag.sync.js"></script> <script type='text/javascript' src='https://www.youtube.com/iframe_api'></script>
+<link rel="manifest" href="/manifest.json">
+<script type="text/javascript">
+//a general 'js' detection, must be on top level in <head>, due to CSS performance
+document.documentElement.className = "js";
+var cacheBuster = "148";
+var appBaseUrl = "/";
+var imgEnhancerBreakpoints = [0, 144, 256, 408, 650, 1023, 1597, 2114];
+var isLoggingEnabled = false;
+var pwaEnabled = true;
+var swCacheDisabled;
+</script>
+<script type="text/javascript">
+// register service worker if supported
+// Service-worker file needs to exist in root folder, because it defines its scope = it can intercept only requests below it in the tree structure
+var isPreview = (/[\&\?](previewId|design)=/).test(window.location.href);
+if (!isPreview) {
+window.addEventListener('load', function () {
+if ('serviceWorker' in navigator && (pwaEnabled || typeof OneSignal != 'undefined' || !swCacheDisabled)) {
+var sw = '/OneSignalSDKWorker.js';
+if (typeof OneSignal != 'undefined' && OneSignal.config) {
+sw = sw + '?appId='+OneSignal.config.appId;
+}
+if (pwaEnabled) {
+sw = sw.indexOf('?') > -1 ? sw + '&pwa=true' : sw + '?pwa=true';
+}
+if (swCacheDisabled) {
+sw = sw.indexOf('?') > -1 ? sw + '&sw-cache-dis=true' : sw + '?sw-cache-dis=true';
+}
+navigator.serviceWorker.register(sw).then(function (registration) {
+console.log('ServiceWorker registration successful with scope: ', registration.scope);
+}, function (err) {
+console.log('ServiceWorker registration failed: ', err);
+});
+}
+});
+}
+</script>
+<meta charset="utf-8" />
+<title>Pashtun Rights Activist Dies After Shooting Attack In Pakistan&#39;s Tribal Areas</title>
+<meta name="title" content="Pashtun Rights Activist Dies After Shooting Attack In Pakistan&#39;s Tribal Areas" />
+<meta name="description" content="Pashtun rights activist and political leader Sardar Arif Wazir has died of injuries sustained in a shooting attack in Pakistan&#39;s South Waziristan tribal district." />
+<meta name="keywords" content="RFERL" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="msvalidate.01" content="AFF83BB0F77ADA2BD47CD50D350DBDC7" />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+var OneSignal = window.OneSignal || [];
+OneSignal.push(function() {
+OneSignal.init({
+appId: "dcba9732-9d59-46ec-aea0-e487e980e249",
+safari_web_id: 'web.onesignal.auto.14c30330-c4fb-483f-9c66-942ad147f917'
+});
+});
+</script>
+<script data-cfasync="false">
+window.OneSignal = window.OneSignal || [];
+var numVisitsTrigger = 10; /* Number of page visits before prompting user */
+window.OneSignal.push(function() {
+var numVisits = new Number(localStorage['numVisitsTrigger'] || 0);
+numVisits += 1;
+localStorage['numVisitsTrigger'] = numVisits;
+if (numVisits > numVisitsTrigger) {
+promptAndSubscribeUser();
+/* numVisitsTrigger + 1 means: when the threshold is reached, show the promp 1 time, before counting from start again */
+if (numVisits >= (numVisitsTrigger + 1)) {
+localStorage['numVisitsTrigger'] = 0;
+}
+}
+});
+function promptAndSubscribeUser() {
+window.OneSignal.isPushNotificationsEnabled(function(isEnabled) {
+if (!isEnabled) {
+OneSignal.push(function() {
+OneSignal.showSlidedownPrompt();
+});
+}
+});
+}
+</script>
+<link href="https://www.rferl.org/a/pashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas/30588960.html" rel="canonical" />
+<meta name="apple-mobile-web-app-title" content="RFE/RL" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="apple-itunes-app" content="app-id=475986784, app-argument=//30588960.ltr" />
+<meta content="Pashtun Rights Activist Dies After Shooting Attack In Pakistan&#39;s Tribal Areas" property="og:title" />
+<meta content="Pashtun rights activist and political leader Sardar Arif Wazir has died of injuries sustained in a shooting attack in Pakistan&#39;s South Waziristan tribal district." property="og:description" />
+<meta content="article" property="og:type" />
+<meta content="https://www.rferl.org/a/pashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas/30588960.html" property="og:url" />
+<meta content="RadioFreeEurope/RadioLiberty" property="og:site_name" />
+<meta content="https://www.facebook.com/rferl" property="article:publisher" />
+<meta content="https://gdb.rferl.org/66270167-B4F4-4D14-BAB5-EE13C3119B5A_cx0_cy10_cw0_w1200_r1.jpg" property="og:image" />
+<meta content="1200" property="og:image:width" />
+<meta content="675" property="og:image:height" />
+<meta content="953446944667626" property="fb:app_id" />
+<meta content="RFE/RL&#39;s Radio Mashaal" name="Author" />
+<meta content="summary_large_image" name="twitter:card" />
+<meta content="@RFERL" name="twitter:site" />
+<meta content="https://gdb.rferl.org/66270167-B4F4-4D14-BAB5-EE13C3119B5A_cx0_cy10_cw0_w1200_r1.jpg" name="twitter:image" />
+<link rel="amphtml" href="https://www.rferl.org/amp/pashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas/30588960.html" />
+<script type="application/ld+json">{"articleSection":"Pakistan","headline":"Pashtun Rights Activist Dies After Shooting Attack In Pakistan\u0027s Tribal Areas","inLanguage":"en-US","keywords":"News, Watchdog, Pakistan","author":{"@type":"Person","url":"","description":"Radio Mashaal is a public-service broadcaster providing a powerful alternative to extremist propaganda in Pakistan\u0027s remote tribal regions along the border with Afghanistan.","image":{"@type":"ImageObject","url":"https://gdb.rferl.org/FFFF2C9A-5C49-4E78-91E1-199CA432D6F4.png"},"name":"RFE/RL\u0027s Radio Mashaal"},"datePublished":"2020-05-02","dateModified":"2020-05-02 12:15:37Z","publisher":{"logo":{"width":512,"height":220,"@type":"ImageObject","url":"https://www.rferl.org/Content/responsive/RFE/en-US/img/logo.png"},"@type":"NewsMediaOrganization","url":"https://www.rferl.org","sameAs":["https://facebook.com/rferl","https://twitter.com/RFERL","https://www.youtube.com/user/rferlonline","https://www.instagram.com/rfe.rl/","https://t.me/rferl"],"name":"Radio Free Europe / Radio Liberty","alternateName":""},"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.rferl.org/a/pashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas/30588960.html","url":"https://www.rferl.org/a/pashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas/30588960.html","description":"Pashtun rights activist and political leader Sardar Arif Wazir has died of injuries sustained in a shooting attack in Pakistan\u0027s South Waziristan tribal district.","image":{"width":1080,"height":608,"@type":"ImageObject","url":"https://gdb.rferl.org/66270167-B4F4-4D14-BAB5-EE13C3119B5A_cx0_cy10_cw0_w1080_h608.jpg"},"name":"Pashtun Rights Activist Dies After Shooting Attack In Pakistan\u0027s Tribal Areas"}</script>
+<link href="/Content/responsive/RFE/en-US/RFE-en-US.css?&amp;av=0.1.0.0&amp;cb=148" rel="stylesheet"/>
+<script src="/Scripts/responsive/infographics.b?v=dVbZ-Cza7s4UoO3BqYSZdbxQZVF4BOLP5EfYDs4kqEo1&amp;av=0.1.0.0&amp;cb=148"></script>
+<script src="/Scripts/responsive/loader.b?v=vwunHuEh1haFRb_xfEQJPgXQ8bSU8I0Sralj7ojj-6M1?&amp;av=0.1.0.0&amp;cb=148"></script>
+<link rel="shortcut icon" href="/Content/responsive/RFE/img/webApp/favicon.ico" />
+<link rel="apple-touch-icon" sizes="152x152" href="/Content/responsive/RFE/img/webApp/ico-152x152.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/Content/responsive/RFE/img/webApp/ico-144x144.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/Content/responsive/RFE/img/webApp/ico-114x114.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/Content/responsive/RFE/img/webApp/ico-72x72.png" />
+<link rel="apple-touch-icon-precomposed" href="/Content/responsive/RFE/img/webApp/ico-57x57.png" />
+<link rel="icon" sizes="192x192" href="/Content/responsive/RFE/img/webApp/ico-192x192.png" />
+<link rel="icon" sizes="128x128" href="/Content/responsive/RFE/img/webApp/ico-128x128.png" />
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="msapplication-TileImage" content="/Content/responsive/RFE/img/webApp/ico-144x144.png" />
+<link rel="alternate" type="application/rss+xml" title="RFE/RL - Top Stories [RSS]" href="/api/" />
+<link rel="sitemap" type="application/rss+xml" href="/sitemap.xml" />
+
+  <script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false"}]);</script>
+  <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="KY3Z7-Z27WB-Q4HRJ-PYULD-D44Q8",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,o,_,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",_=document.getElementsByTagName("script")[0],_.parentNode.insertBefore(r,_);try{o=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",o=r.contentWindow.document}o.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"KY3Z7-Z27WB-Q4HRJ-PYULD-D44Q8",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},o.write("<bo"+'dy onload="document._l();">'),o.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="px7beyqxewgkwxvrgtfa-f-b3ec39231-clientnsv4-s.akamaihd.net",i={"ak.v":"27","ak.cp":"52394","ak.ai":parseInt("211610",10),"ak.ol":"0","ak.cr":28,"ak.ipv":4,"ak.proto":"","ak.rid":"1dcf3e48","ak.r":23319,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"125.254.18.0","ak.cport":37110,"ak.gh":"104.97.78.56","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1588671690","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==db2Tdgx7RFeV6bd7NG+alLy9X6VUOeR67gy+AJUdDYuPo96SBIAdn3n96XjpLPlspxkKUVqLFyOU5SvFJCa5Ts/4Lx8CoIIqJLQUF98c0BgTg9mGnuqj167S3lPtEhAKuRq8SX1q5n/vGAP3kiOiq5KeLfDJsnMbT1JKCOBOrcYgKBIRQeO4cGi4dJ4ZAitFtqXBCsxPXwKbQOtEu/Ys8SofYIm6gbwIleNvTvkCPLBRnwi8arGOA+EVH/gJZkg1q20Jv4XbMO2vsI2v3uo3Pstlb1bl+bq/Yaz168U0RnYtsp4GLkKfS1uleYoXiUpUqnP2l8fTgWmLcP8toeL/ECY4sKCqdwcYjB12pb+jpbR3vi04m8mCzkkVi/GQRbAEwy6K3OgHkZq1vXIJ0beOZdSmFmo745TXCEE59nIpSh4=","ak.pv":"276"};if(""!==t)i["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body class="nav-no-loaded pg-article print-lay-article nojs-images ">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXZBPZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script type="text/javascript">
+if (top.location === self.location) { //if not inside of an IFrame
+var renderGtm = "true";
+if (renderGtm === "true") {
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WXZBPZ');
+}
+}
+</script>
+<!--Analytics tag js version start-->
+<script type="text/javascript">
+var utag_data={entity:"RFE",language:"English",language_service:"RFERL English",short_language_service:"ENG",property_id:"420",platform:"Responsive",platform_short:"R",runs_js:"Yes",page_title:"Pashtun Rights Activist Dies After Shooting Attack In Pakistan\u0026#39;s Tribal Areas",page_type:"article",page_name:"Pashtun Rights Activist Dies After Shooting Attack In Pakistan\u0026#39;s Tribal Areas",short_headline:"Pashtun Rights Activist Dies After Shooting Attack In Pakistan\u0026#39;s Tribal ...",long_headline:"Pashtun Rights Activist Dies After Shooting Attack In Pakistan\u0026#39;s Tribal Areas",headline:"Pashtun Rights Activist Dies After Shooting Attack In Pakistan\u0026#39;s Tribal Areas",content_type:"article",subcontent_type:"article",enviro_type:"prod",url:"https://www.rferl.org/a/pashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas/30588960.html",domain:"www.rferl.org",pub_year:"2020",pub_month:"05",pub_day:"02",pub_hour:"12",pub_minute:"12",pub_weekday:"Saturday",dateline:"",byline:"Radio Mashaal, RFE/RL\u0026#39;s",categories:"news,watchdog,pakistan",tags:"",slug:"pashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas",section:"pakistan",english_section:"pakistan",article_uid:"30588960"};
+if(typeof(TealiumTagFrom)==='function' && typeof(TealiumTagSearchKeyword)==='function') {
+var utag_from=TealiumTagFrom();var utag_searchKeyword=TealiumTagSearchKeyword();
+if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyword"]==null) utag_data["search_keyword"]=utag_searchKeyword;if(utag_from!=null && utag_from!=='') utag_data["from"]=TealiumTagFrom();}
+(function(a,b,c,d){ a="https://tags.tiqcdn.com/utag/bbg/rferl-pangea/prod/utag.js"; b=document;c="script";d=b.createElement(c);d.src=a;d.type="text/java"+c;d.async=true; a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a); })();
+</script>
+<!--Analytics tag js version end-->
+<!-- Analytics tag management NoScript -->
+<noscript>
+<img style="position: absolute; border: none;" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrrfeenglish-bbgprod-bbgentityrferl-bbgunitrferlenglish/1/G.4--NS/1266150720?pageName=rfe%3aeng%3ar%3aarticle%3apashtun%20rights%20activist%20dies%20after%20shooting%20attack%20in%20pakistan%27s%20tribal%20areas&amp;c6=pashtun%20rights%20activist%20dies%20after%20shooting%20attack%20in%20pakistan%27s%20tribal%20areas&amp;v6=D=c6&amp;g=https%3a%2f%2fwww.rferl.org&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=pashtun%20rights%20activist%20dies%20after%20shooting%20attack%20in%20pakistan%27s%20tribal%20areas&amp;v7=D=c7&amp;c16=rferl%20english&amp;v16=D=c16&amp;c5=pakistan&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=article&amp;v4=D=c4&amp;c14=30588960&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" alt="analytics" width="1" height="1" /></noscript>
+<!-- End of Analytics tag management NoScript -->
+<!--*** Accessibility links - For ScreenReaders only ***-->
+<section>
+<div class="sr-only">
+<h2>Accessibility links</h2>
+<ul>
+<li><a href="#content" data-disable-smooth-scroll="1">Skip to main content</a></li>
+<li><a href="#navigation" data-disable-smooth-scroll="1">Skip to main Navigation</a></li>
+<li><a href="#txtHeaderSearch" data-disable-smooth-scroll="1">Skip to Search</a></li>
+</ul>
+</div>
+</section>
+<div dir="ltr">
+<div id="page">
+<aside>
+<div class="c-lightbox overlay-modal">
+<div class="c-lightbox__intro">
+<h2 class="c-lightbox__intro-title"></h2>
+<button class="btn btn--rounded c-lightbox__btn c-lightbox__intro-next" title="Next">
+<span class="ico ico--rounded ico-chevron-forward"></span>
+<span class="sr-only">Next</span>
+</button>
+</div>
+<div class="c-lightbox__nav">
+<button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--close" title="Close">
+<span class="ico ico--rounded ico-close"></span>
+<span class="sr-only">Close</span>
+</button>
+<button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--prev" title="Previous">
+<span class="ico ico--rounded ico-chevron-backward"></span>
+<span class="sr-only">Previous</span>
+</button>
+<button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--next" title="Next">
+<span class="ico ico--rounded ico-chevron-forward"></span>
+<span class="sr-only">Next</span>
+</button>
+</div>
+<div class="c-lightbox__content-wrap">
+<figure class="c-lightbox__content">
+<span class="c-spinner c-spinner--lightbox">
+<img src="/Content/responsive/img/player-spinner.png"
+alt="please wait"
+title="please wait" />
+</span>
+<div class="c-lightbox__img">
+<div class="thumb">
+<img src="" alt="" />
+</div>
+</div>
+<figcaption>
+<div class="c-lightbox__info c-lightbox__info--foot">
+<span class="c-lightbox__counter"></span>
+<span class="caption c-lightbox__caption"></span>
+</div>
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="print-dialogue">
+<div class="container">
+<h3 class="print-dialogue__title section-head">Print Options:</h3>
+<div class="print-dialogue__opts">
+<ul class="print-dialogue__opt-group">
+<li class="form__group form__group--checkbox">
+<input class="form__check " id="checkboxImages" name="checkboxImages" type="checkbox" checked="checked" />
+<label for="checkboxImages" class="form__label m-t-md">Images</label>
+</li>
+<li class="form__group form__group--checkbox">
+<input class="form__check " id="checkboxMultimedia" name="checkboxMultimedia" type="checkbox" checked="checked" />
+<label for="checkboxMultimedia" class="form__label m-t-md">Multimedia</label>
+</li>
+</ul>
+<ul class="print-dialogue__opt-group">
+<li class="form__group form__group--checkbox">
+<input class="form__check " id="checkboxEmbedded" name="checkboxEmbedded" type="checkbox" checked="checked" />
+<label for="checkboxEmbedded" class="form__label m-t-md">Embedded Content</label>
+</li>
+<li class="form__group form__group--checkbox">
+<input class="form__check " id="checkboxComments" name="checkboxComments" type="checkbox" />
+<label for="checkboxComments" class="form__label m-t-md">Comments</label>
+</li>
+</ul>
+</div>
+<div class="print-dialogue__buttons">
+<button class="btn btn--secondary close-button" type="button" title="Cancel">
+<span class="btn__text ">Cancel</span>
+</button>
+<button class="btn btn-cust-print m-l-sm" type="button" title="Print">
+<span class="btn__text ">Print</span>
+</button>
+</div>
+</div>
+</div> </aside>
+<div class="hdr">
+<div class="hdr-nav-frag">
+<div class="container">
+<a href="/" id="logo">
+<img src="/Content/responsive/RFE/en-US/img/logo-compact.png" class="small" alt="logo-compact">
+<img src="/Content/responsive/RFE/en-US/img/logo.png" class="big" alt="logo">
+</a>
+<img src="/Content/responsive/RFE/en-US/img/logo-print.gif" class="logo-print" alt="logo-print">
+<img src="/Content/responsive/RFE/en-US/img/logo-print_color.png" class="logo-print logo-print--color" alt="logo-print">
+<ul class="compact-actions">
+<li class="action action-entity-sites">
+<a href="/navigation/allsites">
+<span class="ico ico-languages"></span>
+</a>
+</li>
+<li class="action action-srch">
+<a href="/s" title="toggle search input"><span class="sr-only access-help-text">toggle search input</span><span class="ico ico-search"></span></a>
+</li>
+<li class="action action-menu">
+<a href="/navigation.html" title="toggle main navigation" class="link-js"><span class="sr-only access-help-text">toggle main navigation</span><span class="ico ico-menu"></span></a>
+</li>
+</ul>
+<div class="actions">
+<div class="actions__safe-wrap">
+<div class="action action-entity-sites">
+<a href="/navigation/allsites" class="action__link" data-smoothscroll="disabled">
+<span class="ico ico-languages"></span> <span class="action__txt action__txt--entity-sites">All RFE/RL sites</span>
+<span class="arrow-open"></span>
+</a>
+</div>
+<div class="action action-socials socials">
+<ul class="follow colored">
+<li>
+<a href="https://facebook.com/rferl" title="Follow us on Facebook" class="btn btn--rounded btn-facebook" target="_blank">
+<span class="ico ico-facebook-alt ico--nobg"></span>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/RFERL" title="Follow us on Twitter" class="btn btn--rounded btn-twitter" target="_blank">
+<span class="ico ico-twitter ico--nobg"></span>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/user/rferlonline" title="Follow us on YouTube" class="btn btn--rounded btn-youtube" target="_blank">
+<span class="ico ico-youtube ico--nobg"></span>
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/rfe.rl/" title="Follow us on Instagram" class="btn btn--rounded btn-instagram" target="_blank">
+<span class="ico ico-instagram ico--nobg"></span>
+</a>
+</li>
+<li>
+<a href="https://t.me/rferl" title="Follow us on Telegram" class="btn btn--rounded btn-telegram" target="_blank">
+<span class="ico ico-telegram ico--nobg"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="pnl-srch-top collapsed">
+<form action="/s" id="form-headerSearch" method="get" pp="" r="" role="search" tab=""><div class="srch-elem">
+<ul class="form__list">
+<li class="form__group m-tb-0">
+<span class="input-wrap">
+<label for="txtHeaderSearch" class="form__label sr-only">Search</label>
+<input type="text" id="txtHeaderSearch" name="k" placeholder="Search" accesskey="s" value="" class="form__input analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) }" />
+</span>
+<button title="Search" type="submit" class="btn btn-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) ">
+<span class="ico ico-search"></span>
+<span class="text">Search</span>
+</button>
+</li>
+</ul>
+</div></form>
+</div>
+</div>
+</div>
+</div>
+<div class="sticky-nav-wrap container">
+<div class="sticked-nav-actions">
+<a href="#" title="search" class="btn btn--rounded btn-open-srch">
+<span class="sr-only access-help-text">Search</span>
+<span class="ico ico-search"></span>
+</a>
+</div>
+</div>
+<div class="nav-hdr-outer-container">
+<div class="container" id="nav-hdr-container">
+<div class="navigation collapsed" id="navigation">
+<div class="menu">
+<ul class="items">
+<li class=" collapsible item">
+<span class="handler">
+Russia
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/Russia">Russia</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/TatarstanBashkortostan">Tatar-Bashkir</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/NorthCaucasus">North Caucasus</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" item">
+<a class="handler" href="/Iran">Iran</a> </li>
+<li class=" collapsible item">
+<span class="handler">
+Central Asia
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/Kazakhstan">Kazakhstan</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/Kyrgyzstan">Kyrgyzstan</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/Tajikistan">Tajikistan</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/Turkmenistan">Turkmenistan</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/Uzbekistan">Uzbekistan</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" collapsible item">
+<span class="handler">
+Caucasus
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/Armenia">Armenia</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/Azerbaijan">Azerbaijan</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/Georgia">Georgia</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" collapsible item">
+<span class="handler">
+South Asia
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/Afghanistan">Afghanistan</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/Pakistan">Pakistan</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" collapsible item">
+<span class="handler">
+SE Europe/Balkans
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/BosniaHerzegovina">Bosnia</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/Bulgaria">Bulgaria</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/Kosovo">Kosovo</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/Moldova">Moldova</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/Montenegro">Montenegro</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/6360.html">North Macedonia</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/Romania">Romania</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/Serbia">Serbia</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" collapsible item">
+<span class="handler">
+East Europe
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/Belarus">Belarus</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/Ukraine">Ukraine</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" item">
+<a class="handler" href="https://www.currenttime.tv/" onclick="window.open(&#39;https://www.currenttime.tv/&#39;);return false;" target="_blank">Current Time</a> </li>
+<li class=" item">
+<a class="handler" href="/Multimedia">Visuals</a> </li>
+<li class=" item">
+<a class="handler" href="https://pressroom.rferl.org" onclick="window.open(&#39;https://pressroom.rferl.org&#39;);return false;" target="_blank">Pressroom</a> </li>
+<li class=" last-menu-item item">
+<a class="handler" href="https://pressroom.rferl.org/p/6091.html" onclick="window.open(&#39;https://pressroom.rferl.org/p/6091.html&#39;);return false;" target="_blank">About</a> </li>
+<li class="service item collapsible collapsed show-more">
+<span class="handler" id="service-handler">
+<span class="more">More</span><span class="ico ico-menu"></span>
+</span>
+<div class="inner">
+<ul class="stored-items subitems"></ul>
+<ul class="options subitems">
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div data-trigger="btn-open-srch" class="sticked-nav-popup popup-srch">
+<div class="container">
+<div class="stick-srch-form">
+<form action="/s" id="form-stickyNavSearch" method="get" pp="" r="" role="search" tab=""><div class="srch-elem">
+<ul class="form__list">
+<li class="form__group m-tb-0">
+<span class="input-wrap">
+<label for="txtStickyNavSearch" class="form__label sr-only">Search</label>
+<input type="text" id="txtStickyNavSearch" name="k" placeholder="Search" accesskey="s" value="" class="form__input analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('txtStickyNavSearch')[0].value) }" />
+</span>
+<button title="Search" type="submit" class="btn btn-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('txtStickyNavSearch')[0].value) ">
+<span class="ico ico-search"></span>
+<span class="text">Search</span>
+</button>
+</li>
+</ul>
+</div></form>
+</div>
+<button class="btn btn-close"><span class="ico ico-close"></span></button>
+</div>
+</div>
+</div>
+<div class="c-hlights c-hlights--breaking c-hlights--no-item js-hidden" data-hlight-display="mobile,desktop">
+<div class="c-hlights__wrap container p-0">
+<div class="c-hlights__nav">
+<a role="button" href="#" title="Previous">
+<span class="ico ico-chevron-backward m-0"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a role="button" href="#" title="Next">
+<span class="ico ico-chevron-forward m-0"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+<input class="switcher-controller" id="more-less-1" type="checkbox">
+<span class="c-hlights__label">
+<span class="">Breaking News</span>
+<span class="switcher-trigger">
+<label for="more-less-1" class="switcher-trigger__label switcher-trigger__label--more p-b-0" title="Show more">
+<span class="ico ico-chevron-down"></span>
+</label>
+<label for="more-less-1" class="switcher-trigger__label switcher-trigger__label--less p-b-0" title="Show less">
+<span class="ico ico-chevron-up"></span>
+</label>
+</span>
+</span>
+<ul class="c-hlights__items switcher-target">
+</ul>
+</div>
+</div> <div id="content">
+<div class="container">
+<div class="hdr-container">
+<div class="row">
+<div class="col-category col-xs-12 col-md-2 pull-left"> <img src="" data-src="https://livetracker.rfe.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=30588960&amp;SiteId=8&amp;r=1992066119&amp;it=0&amp;pd=20200502121237" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+data-lt-referrerControllerUrl="https://livetracker.rfe.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="30588960" data-lt-siteId="8" />
+<noscript>
+<img src="https://livetracker.rfe.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=30588960&amp;SiteId=8&amp;r=1992066119&amp;it=0&amp;pd=20200502121237" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+data-lt-referrerControllerUrl="https://livetracker.rfe.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="30588960" data-lt-siteId="8" />
+</noscript>
+<div class="category">
+<a class="" href="/z/2930">Pakistan</a> </div>
+</div><div class="col-title col-xs-12 col-md-10 pull-right"> <h1 class="title pg-title" >
+Pashtun Rights Activist Dies After Shooting Attack In Pakistan&#39;s Tribal Areas
+</h1>
+</div><div class="col-publishing-details col-xs-12 col-sm-12 col-md-2 pull-left"> <div class="publishing-details">
+<div class="published">
+<span class="date" >
+<time datetime="2020-05-02T12:12:37+00:00">
+May 02, 2020 12:12 GMT
+</time>
+</span>
+</div>
+<div class="links">
+<ul class="links__list links__list--column">
+<li class="links__item">
+By <a class="links__item-link" href="/author/rfe-rls-radio-mashaal/q$v_q_" title="RFE/RL&#39;s Radio Mashaal">RFE/RL&#39;s Radio Mashaal</a>
+</li>
+</ul>
+</div>
+</div>
+</div><div class="col-lg-12 separator"> <div class="separator">
+<hr class="title-line" />
+</div>
+</div><div class="col-multimedia col-xs-12 col-md-10 pull-right"> <div class="cover-media">
+<figure class="media-image js-media-expand">
+<div class="img-wrap">
+<div class="thumb thumb16_9">
+<img src="https://gdb.rferl.org/66270167-B4F4-4D14-BAB5-EE13C3119B5A_cx0_cy10_cw0_w250_r1_s.jpg" itemprop="url" alt="Sardar Arif Wazir " />
+</div>
+<span class="ico ico-fullscreen ico--media-expand ico--rounded"></span>
+</div>
+<figcaption>
+<span class="caption" itemprop="caption" data-cms-inline-wrap="caption" data-cms-inline-text="">Sardar Arif Wazir </span>
+</figcaption>
+</figure>
+</div>
+</div><div class="col-xs-12 col-md-2 pull-left article-share pos-rel"> <div class="share--box">
+<aside class="share flex-column js-share--apply-sticky js-share--expandable js-share--horizontal"
+data-counter-separator="."
+data-counter-url="/a/pashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas/30588960.html"
+>
+<span class="label label--share">Share</span>
+<ul class="share__list">
+<li class="share__item"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_facebook' })">
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.rferl.org%2fa%2fpashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas%2f30588960.html"
+title="Share on Facebook" target="_blank"
+class="btn btn--rounded btn-facebook">
+<span class="ico ico--rounded ico-facebook ico--l">
+</span>
+</a>
+<span class="share__count share__count--facebook share__count--empty">&nbsp;</span>
+</li>
+<li class="share__item"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_twitter' })">
+<a href="https://twitter.com/share?url=https%3a%2f%2fwww.rferl.org%2fa%2fpashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas%2f30588960.html&amp;text=Pashtun+Rights+Activist+Dies+After+Shooting+Attack+In+Pakistan%27s+Tribal+Areas"
+title="Share on Twitter" target="_blank"
+class="btn btn--rounded btn-twitter">
+<span class="ico ico--rounded ico-twitter ico--l">
+</span>
+</a>
+<span class="share__count shares__twitter share__count--empty">&nbsp;</span>
+</li>
+<li class="share__item share__item--additional"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_vkontakte' })">
+<a href="https://vkontakte.ru/share.php?url=https%3a%2f%2fwww.rferl.org%2fa%2fpashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas%2f30588960.html"
+title="Share on В Контакте" target="_blank"
+class="btn btn--rounded btn-vkontakte">
+<span class="ico ico--rounded ico-vkontakte ico--l">
+</span>
+</a>
+<span class="share__count share__count--vkontakte share__count--empty">&nbsp;</span>
+</li>
+<li class="share__item share__item--additional"
+>
+<a href="mailto:?body=https%3a%2f%2fwww.rferl.org%2fa%2fpashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas%2f30588960.html&amp;subject=Pashtun Rights Activist Dies After Shooting Attack In Pakistan&#39;s Tribal Areas"
+title="Email to a Friend"
+class="btn btn--rounded btn-email ">
+<span class="ico ico--rounded ico-email ico--l">
+</span>
+</a>
+<span class="share__count share__count--email share__count--empty">&nbsp;</span>
+</li>
+<li class="share__item share__item--additional"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_linkedIn' })">
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.rferl.org%2fa%2fpashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas%2f30588960.html&amp;title=Pashtun Rights Activist Dies After Shooting Attack In Pakistan&#39;s Tribal Areas"
+title="Share on LinkedIn" target="_blank"
+class="btn btn--rounded btn-linkedin">
+<span class="ico ico--rounded ico-linkedin ico--l">
+</span>
+</a>
+</li>
+<li class="share__item share__item--sharing-more">
+<a title="toggle more sharing options" class="btn btn--rounded btn--show-more hidden">
+<span class="ico ico--rounded ico-ellipsis ico--l"></span>
+</a>
+</li>
+</ul>
+</aside>
+<div class="sticky-share-container" style="display:none">
+<div class="container">
+<a href="https://www.rferl.org" id="logo-sticky-share">&nbsp;</a>
+<div class="pg-title">
+Pashtun Rights Activist Dies After Shooting Attack In Pakistan&#39;s Tribal Areas
+</div>
+<div class="sticked-nav-actions">
+<aside class="share share--sticky js-share--expandable">
+<span class="label label--share">share</span>
+<ul class="share__list">
+<li class="share__item share__item--horizontal"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_facebook' })">
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.rferl.org%2fa%2fpashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas%2f30588960.html"
+title="Share on Facebook" target="_blank"
+class="btn btn--rounded btn-facebook">
+<span class="ico ico--rounded ico-facebook ico--s">
+</span>
+</a>
+</li>
+<li class="share__item share__item--horizontal"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_twitter' })">
+<a href="https://twitter.com/share?url=https%3a%2f%2fwww.rferl.org%2fa%2fpashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas%2f30588960.html&amp;text=Pashtun+Rights+Activist+Dies+After+Shooting+Attack+In+Pakistan%27s+Tribal+Areas"
+title="Share on Twitter" target="_blank"
+class="btn btn--rounded btn-twitter">
+<span class="ico ico--rounded ico-twitter ico--s">
+</span>
+</a>
+</li>
+<li class="share__item share__item--horizontal"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_vkontakte' })">
+<a href="https://vkontakte.ru/share.php?url=https%3a%2f%2fwww.rferl.org%2fa%2fpashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas%2f30588960.html"
+title="Share on В Контакте" target="_blank"
+class="btn btn--rounded btn-vkontakte">
+<span class="ico ico--rounded ico-vkontakte ico--s">
+</span>
+</a>
+</li>
+<li class="share__item share__item--additional share__item--horizontal"
+>
+<a href="mailto:?body=https%3a%2f%2fwww.rferl.org%2fa%2fpashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas%2f30588960.html&amp;subject=Pashtun Rights Activist Dies After Shooting Attack In Pakistan&#39;s Tribal Areas"
+title="Email to a Friend"
+class="btn btn--rounded btn-email ">
+<span class="ico ico--rounded ico-email ico--s">
+</span>
+</a>
+</li>
+<li class="share__item share__item--additional share__item--horizontal"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_linkedIn' })">
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.rferl.org%2fa%2fpashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas%2f30588960.html&amp;title=Pashtun Rights Activist Dies After Shooting Attack In Pakistan&#39;s Tribal Areas"
+title="Share on LinkedIn" target="_blank"
+class="btn btn--rounded btn-linkedin">
+<span class="ico ico--rounded ico-linkedin ico--s">
+</span>
+</a>
+</li>
+<li class="share__item share__item--sharing-more">
+<a title="toggle more sharing options" class="btn btn--rounded btn--show-more hidden">
+<span class="ico ico--rounded ico-ellipsis ico--s"></span>
+</a>
+</li>
+</ul>
+</aside>
+</div>
+</div>
+</div>
+<div class="links">
+<p class="link-print visible-md visible-lg">
+<button class="btn btn--link btn-print" onclick="if (typeof FireAnalyticsTagEvent === 'function') {FireAnalyticsTagEvent({ on_page_event: 'print_story' });}return false" title="(CTRL+P)">
+<span class="ico ico-print"></span>
+<span class="btn__text">Print</span>
+</button>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="body-container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 pull-right">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 pull-left bottom-offset content-offset">
+<div id="article-content" class="content-floated-wrap fb-quotable">
+<div class="wsw">
+<p>Pashtun rights activist and political leader Sardar Arif Wazir has died of injuries sustained in a shooting attack in Pakistan's South Waziristan tribal district.</p>
+<p>The Pashtun Tahaffuz Movement (PTM), a rights group that Wazir helped lead, confirmed to RFE/RL's Radio Mashaal that Wazir died in Islamabad on May 2. </p>
+<p>Wazir was injured when the vehicle he was traveling in came under fire in the city of Wanna. </p>
+<p>The attackers, who fired from another vehicle, have not been identified.</p>
+<p>Police officials have confirmed that a search operation is under way to find the perpetrators of the attack, for which no group has claimed responsibility.</p>
+<p>The rights watchdog Amnesty International <strong><a class="wsw__a" href="https://twitter.com/amnestysasia/status/1256474888073854978" target="_blank">on May 2 called </a></strong>on &quot;the Pakistani authorities to carry out an independent and effective investigation.&quot;</p>
+<p>The attack came after Pakistani police arrested Wazir on April 17 for delivering an &quot;anti-Pakistan&quot; speech during a recent visit to Afghanistan. He was released on bail this week. </p>
+<p>Mohsin Dawar, a member of Pakistan’s lower house of parliament and prominent figure in the PTM, earlier accused “state-sponsored militants” of carrying out the attack.</p>
+<p>“The masters of the attackers should know that bullets, injuries, and prisons can't weaken our resolve,” <strong><a class="wsw__a" href="https://twitter.com/mjdawar/status/1256295282196824065" target="_blank">he wrote on Twitter.</a></strong></p>
+<p>There was no immediate response from the government.</p>
+<p>The PTM has campaigned for civil rights for Pashtuns, the country's largest ethnic minority, since 2018.</p>
+<p>The group has attracted tens of thousands of people to public rallies to denounce the powerful Pakistani Army's heavy-handed operations against militants in tribal regions that have killed thousands of Pashtun civilians and forced millions more to abandon their homes since 2003.</p>
+<p>The PTM has been calling for the removal of military checkpoints in tribal areas and an end to &quot;enforced disappearances,&quot; in which suspects are detained by security forces without due process.</p>
+<p>Pakistan's government rejects allegations that its security forces and intelligence agents are responsible for forced disappearances.</p>
+<p>Since the movement was formed in January 2018, international rights groups say authorities have banned peaceful rallies organized by the PTM and some of its leading members have been arbitrarily detained and prevented from traveling within the country. Some members have also faced charges of sedition and cybercrimes.</p>
+<p>The Human Rights Commission of Pakistan (HRCP) has said the authorities have made allegations of anti-state activities “an expedient label for human rights defenders, particularly those associated with the PTM.&quot;<br />
+</p>
+</div>
+<ul>
+<li>
+<div class="c-author c-author--hlight">
+<div class="media-block">
+<a href="/author/rfe-rls-radio-mashaal/q$v_q_" class="img-wrap img-wrap--xs img-wrap--float img-wrap--t-spac">
+<div class="thumb thumb1_1 rounded">
+<noscript class="nojs-img">
+<img src="https://gdb.rferl.org/FFFF2C9A-5C49-4E78-91E1-199CA432D6F4_w100_r5.png" alt="16x9 Image" class="avatar">
+</noscript>
+<img alt="16x9 Image" class="avatar" data-src="https://gdb.rferl.org/FFFF2C9A-5C49-4E78-91E1-199CA432D6F4_w66_r5.png" src="" />
+</div>
+</a>
+<div class="c-author__content">
+<h4 class="media-block__title media-block__title--author">
+<a href="/author/rfe-rls-radio-mashaal/q$v_q_">RFE/RL&#39;s Radio Mashaal</a>
+</h4>
+<div class="wsw c-author__wsw">
+<p>Radio Mashaal is a public-service broadcaster providing a powerful alternative to extremist propaganda in Pakistan&#39;s remote tribal regions along the border with Afghanistan.</p>
+</div>
+<div class="c-author__email">
+<a href="mailto:webteam@rferl.org">webteam@rferl.org</a>
+</div>
+<div class="c-author__btns m-t-md">
+<a class="btn btn-rss btn--social" href="/api/aq$v_q_ekvt_q_" title="Subscribe via RSS">
+<span class="ico ico-rss"></span>
+<span class="btn__text">Subscribe via RSS</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pull-left design-top-offset"> <div class="region">
+<div class="media-block-wrap" id="wrowblock-12172_21" data-area-id=R1_1>
+<div class="wsw">
+<div class="clear"></div>
+<div class="wsw__embed">
+<div class="infgraphicsAttach">
+<a class="flexible-iframe" data-height="350" data-iframe="true" data-layout="5" data-width="100%" href="/a/pashtun-rights-activist-dies-after-shooting-attack-in-pakistan-s-tribal-areas/29791891.html?layout=5">New Feature Alert Signup Widget</a>
+</div>
+</div>
+<p /> </div>
+</div>
+<div class="media-block-wrap" id="wrowblock-2025_21" data-area-id=R3_1>
+<h2 class="section-head">
+Editors&#39; Picks </h2>
+<div class="row">
+<ul>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/whats-behind-the-ousting-of-nazarbaev-s-powerful-daughter-in-kazakhstan-/30592571.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="What&#39;s Behind The Ouster Of Nazarbaev&#39;s Powerful Daughter In Kazakhstan?">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.rferl.org/2CFDBAEF-F30C-40A6-BDE6-01B721C8FDC2_w100_r1.jpg" alt="Has Darigha Nazarbaeva been pushed out of power for good? ">
+</noscript>
+<img data-src="https://gdb.rferl.org/2CFDBAEF-F30C-40A6-BDE6-01B721C8FDC2_w33_r1.jpg" src="" alt="Has Darigha Nazarbaeva been pushed out of power for good? ">
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/whats-behind-the-ousting-of-nazarbaev-s-powerful-daughter-in-kazakhstan-/30592571.html">
+<h4 class="media-block__title media-block__title--size-4" title="What&#39;s Behind The Ouster Of Nazarbaev&#39;s Powerful Daughter In Kazakhstan?">
+What&#39;s Behind The Ouster Of Nazarbaev&#39;s Powerful Daughter In Kazakhstan?
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/uzbek-ministry-promises-to-investigate-police-detention-of-journalists/30592495.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="Uzbek Ministry Promises To Investigate Police Detention Of Journalists">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.rferl.org/50745DD5-AAF1-4D58-A76C-8FC920F323CD_w100_r1.jpg" alt="dam grab">
+</noscript>
+<img data-src="https://gdb.rferl.org/50745DD5-AAF1-4D58-A76C-8FC920F323CD_w33_r1.jpg" src="" alt="dam grab">
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/uzbek-ministry-promises-to-investigate-police-detention-of-journalists/30592495.html">
+<h4 class="media-block__title media-block__title--size-4" title="Uzbek Ministry Promises To Investigate Police Detention Of Journalists">
+Uzbek Ministry Promises To Investigate Police Detention Of Journalists
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/hrw-calls-for-investigation-into-shocking-allegation-of-iranian-border-guards-drowning-afghan-migrants/30592290.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="HRW Calls For Investigation Into &#39;Shocking&#39; Allegation Of Iranian Border Guards Drowning Afghan Migrants">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.rferl.org/E59398A0-8047-4D47-8CE9-382005F9C285_w100_r1.jpg" alt="Family members of the Afghan migrants gather to collect their bodies on May 2.">
+</noscript>
+<img data-src="https://gdb.rferl.org/E59398A0-8047-4D47-8CE9-382005F9C285_w33_r1.jpg" src="" alt="Family members of the Afghan migrants gather to collect their bodies on May 2.">
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/hrw-calls-for-investigation-into-shocking-allegation-of-iranian-border-guards-drowning-afghan-migrants/30592290.html">
+<h4 class="media-block__title media-block__title--size-4" title="HRW Calls For Investigation Into &#39;Shocking&#39; Allegation Of Iranian Border Guards Drowning Afghan Migrants">
+HRW Calls For Investigation Into &#39;Shocking&#39; Allegation Of Iranian Border Guards Drowning Afghan Migrants
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/third-russian-doctor-mysteriously-falls-from-hospital-window-amid-coronavirus-outbreak/30591638.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="Third Russian Doctor Mysteriously Falls From Hospital Window Amid Coronavirus Outbreak">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.rferl.org/19BE82F1-2D41-476E-9B90-24779C013C14_w100_r1.jpg" alt="Many doctors in Russia have complained about equipment shortages. ">
+</noscript>
+<img data-src="https://gdb.rferl.org/19BE82F1-2D41-476E-9B90-24779C013C14_w33_r1.jpg" src="" alt="Many doctors in Russia have complained about equipment shortages. ">
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/third-russian-doctor-mysteriously-falls-from-hospital-window-amid-coronavirus-outbreak/30591638.html">
+<h4 class="media-block__title media-block__title--size-4" title="Third Russian Doctor Mysteriously Falls From Hospital Window Amid Coronavirus Outbreak">
+Third Russian Doctor Mysteriously Falls From Hospital Window Amid Coronavirus Outbreak
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/week-ahead-in-russia-media-freedom/30591708.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="Podcast: Media Freedom And Unfreedom In A New Era">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.rferl.org/6ECF0310-D17A-4877-B9DA-91F14070440F_w100_r1.jpg" alt=" ">
+</noscript>
+<img data-src="https://gdb.rferl.org/6ECF0310-D17A-4877-B9DA-91F14070440F_w33_r1.jpg" src="" alt=" ">
+</div>
+<span class="ico ico-audio ico--media-type"></span>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/week-ahead-in-russia-media-freedom/30591708.html">
+<h4 class="media-block__title media-block__title--size-4" title="Podcast: Media Freedom And Unfreedom In A New Era">
+Podcast: Media Freedom And Unfreedom In A New Era
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/feeding-hungry-migrants-amid-moscow-s-covid-19-lockdown/30592217.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="Feeding Hungry Migrants Amid Moscow&#39;s COVID-19 Lockdown">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.rferl.org/F60B094A-FCE7-4EFF-A28F-A9F2E50219B5_w100_r1.jpg" alt="GRAB - Feeding Hungry Migrants Amid Moscow&#39;s COVID-19 Lockdown">
+</noscript>
+<img data-src="https://gdb.rferl.org/F60B094A-FCE7-4EFF-A28F-A9F2E50219B5_w33_r1.jpg" src="" alt="GRAB - Feeding Hungry Migrants Amid Moscow&#39;s COVID-19 Lockdown">
+</div>
+<span class="ico ico-video ico--media-type"></span>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/feeding-hungry-migrants-amid-moscow-s-covid-19-lockdown/30592217.html">
+<h4 class="media-block__title media-block__title--size-4" title="Feeding Hungry Migrants Amid Moscow&#39;s COVID-19 Lockdown">
+Feeding Hungry Migrants Amid Moscow&#39;s COVID-19 Lockdown
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/russia-may-day-absurdity-coronavirus/30592323.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="Strange Days: Locked-Down Russians Greet Spring With Absurdist Online Demonstration">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.rferl.org/36A7DEB6-14B7-43BB-9384-E6D489DB2FEB_cx0_cy30_cw0_w100_r1.jpg" alt="The absurdist virtual event is now marked on May Day in dozens of Russian cities. This woman even tweeted her contribution from Sydney, Australia.">
+</noscript>
+<img data-src="https://gdb.rferl.org/36A7DEB6-14B7-43BB-9384-E6D489DB2FEB_cx0_cy30_cw0_w33_r1.jpg" src="" alt="The absurdist virtual event is now marked on May Day in dozens of Russian cities. This woman even tweeted her contribution from Sydney, Australia.">
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/russia-may-day-absurdity-coronavirus/30592323.html">
+<h4 class="media-block__title media-block__title--size-4" title="Strange Days: Locked-Down Russians Greet Spring With Absurdist Online Demonstration">
+Strange Days: Locked-Down Russians Greet Spring With Absurdist Online Demonstration
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="slide-in-wg suspended" data-cookie-id="wgt-72508-2613938">
+<div class="wg-hiding-area">
+<span class="ico ico-arrow-right"></span>
+<div class="media-block-wrap">
+<h2 class="section-head">Recommended</h2>
+<div class="row">
+<ul>
+<li class="col-xs-12 col-sm-12 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/arctic-russia-navy-us-barents-/30592707.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="U.S. Navy Operates Ships In Barents Sea For First Time In Decades As Russia Increases Arctic Capabilities">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.rferl.org/0EE6CD4E-40F8-422E-B35A-762C0A37C925_cx0_cy11_cw0_w100_r1.jpg" alt="The U.S. Navy vessels include three Arleigh Burke-class Aegis destroyers. (file photo)">
+</noscript>
+<img data-src="https://gdb.rferl.org/0EE6CD4E-40F8-422E-B35A-762C0A37C925_cx0_cy11_cw0_w33_r1.jpg" src="" alt="The U.S. Navy vessels include three Arleigh Burke-class Aegis destroyers. (file photo)">
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/arctic-russia-navy-us-barents-/30592707.html">
+<h4 class="media-block__title media-block__title--size-4" title="U.S. Navy Operates Ships In Barents Sea For First Time In Decades As Russia Increases Arctic Capabilities">
+U.S. Navy Operates Ships In Barents Sea For First Time In Decades As Russia Increases Arctic Capabilities
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a class="btn pos-abs p-0 lazy-scroll-load" data-ajax="true" data-ajax-mode="replace" data-ajax-update="#ymla-section" data-ajax-url="/part/section/5/7078" href="/p/7078.html" loadonce="true" title="More to read and watch...">​</a> <div id="ymla-section" class="ymla-section"></div>
+</div>
+<div class="back-to-top-nav disabled visible-xs">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<a title="Back to top" class="back-to-top-link" href="#page">
+<span class="ico ico-chevron-up"></span>
+<span class="text">Back to top</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer role="contentinfo">
+<div id="foot" class="foot">
+<div class="container">
+<div class="foot-nav collapsed" id="foot-nav">
+<div class="menu">
+<ul class="items">
+<li class="socials block-socials">
+<span class="handler" id="socials-handler">
+Follow Us
+</span>
+<div class="inner">
+<ul class="subitems follow">
+<li>
+<a href="https://facebook.com/rferl" title="Follow us on Facebook" class="btn btn--rounded btn-facebook" target="_blank">
+<span class="ico ico-facebook-alt ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/RFERL" title="Follow us on Twitter" class="btn btn--rounded btn-twitter" target="_blank">
+<span class="ico ico-twitter ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/user/rferlonline" title="Follow us on YouTube" class="btn btn--rounded btn-youtube" target="_blank">
+<span class="ico ico-youtube ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/rfe.rl/" title="Follow us on Instagram" class="btn btn--rounded btn-instagram" target="_blank">
+<span class="ico ico-instagram ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="https://t.me/rferl" title="Follow us on Telegram" class="btn btn--rounded btn-telegram" target="_blank">
+<span class="ico ico-telegram ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="/rssfeeds" title="RSS" class="btn btn--rounded btn-rss">
+<span class="ico ico-rss ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="/podcasts" title="Podcasts" class="btn btn--rounded btn-podcast">
+<span class="ico ico-podcast ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="/subscribe.html" title="Subscribe" class="btn btn--rounded btn-email">
+<span class="ico ico-email ico--rounded"></span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-primary collapsed collapsible item">
+<span class="handler">
+Quick Hits
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="https://pressroom.rferl.org/p/6091.html">About RFE/RL</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://pressroom.rferl.org/p/6085.html" onclick="window.open(&#39;https://pressroom.rferl.org/p/6085.html&#39;);return false;" target="_blank">Contact Us</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://pressroom.rferl.org/" onclick="window.open(&#39;https://pressroom.rferl.org/&#39;);return false;" target="_blank">Pressroom</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://pressroom.rferl.org/p/6116.html" onclick="window.open(&#39;https://pressroom.rferl.org/p/6116.html&#39;);return false;" target="_blank">Terms Of Use</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.rferl.mobi/jobs.html" onclick="window.open(&#39;https://www.rferl.mobi/jobs.html&#39;);return false;" target="_blank">Jobs and Internships</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.usagm.gov/" onclick="window.open(&#39;https://www.usagm.gov/&#39;);return false;" target="_blank">U.S. Agency For Global Media</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.rferl.org/p/6466.html" onclick="window.open(&#39;https://www.rferl.org/p/6466.html&#39;);return false;" target="_blank">Legal</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-primary collapsed collapsible item">
+<span class="handler">
+Browse
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/LatestNews">News</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/Insight">Features</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/2904.html">Blogs</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/Multimedia">Multimedia</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/z/683">RFE/RL Newsline (Jan 2000-May 2008)</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/z/865">Analytical Reports (Jan 2000-June 2008)</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="foot__item foot__item--copyrights">
+<p class="copyright">Radio Free Europe/Radio Liberty &#169; 2020 RFE/RL, Inc. All Rights Reserved.
+</p>
+</div>
+<div class="foot__texts-wrap">
+<div class="foot__item foot__item--texts">To comment on a portion of text or report a mistake or typo, select the text in the article and press Ctrl + Enter (or click <a href="javascript:void" class="js-typo-reporter-initializer">here</a>). Please include your e-mail address.</div>
+</div>
+</div>
+</div>
+</footer> </div>
+</div>
+<script type="text/javascript">
+//test ie 6, 7, 8
+var div = document.createElement("div");
+div.innerHTML = "<!--[if lte IE 8]><i></i><![endif]-->";
+var isIe8orLower = !!div.getElementsByTagName("i").length;
+if (!isIe8orLower && !navigator.userAgent.match(/Opera Mini/i)) {
+document.getElementsByTagName("body")[0].className += " can-ff";
+}
+// mobile browsers test
+if (typeof RFE !== 'undefined') {
+if (RFE.isMobile.any()) {
+document.getElementsByTagName("body")[0].className += " is-mobile";
+}
+else {
+document.getElementsByTagName("body")[0].className += " is-not-mobile";
+}
+}
+</script>
+<script src="/conf.js?x=148" type="text/javascript"></script>
+<div class="responsive-indicator">
+<div class="visible-xs-block">XS</div>
+<div class="visible-sm-block">SM</div>
+<div class="visible-md-block">MD</div>
+<div class="visible-lg-block">LG</div>
+</div>
+<script type="text/javascript">
+var bar_data = {
+"apiId": "30588960",
+"apiType": "1",
+"isEmbedded": "0",
+"culture": "en-US",
+"cookieName": "cmsLoggedIn",
+"cookieDomain": "www.rferl.org"
+};
+</script>
+<aside class="js-typo-report hidden">
+<div class="js-typo-report modal overlay-modal">
+<div class="modal__window">
+<div class="container p-0">
+<header class="modal__hdr">
+<h2 class="modal__title">Send us your feedback</h2>
+<button class="btn btn--link modal__close-btn m-l-sm p-0 js-close" role="button" type="button" title="Cancel">
+<span class="ico ico-close ico--l"></span>
+<span class="btn__text sr-only">Cancel</span>
+</button>
+</header>
+<div class="modal__body typo-report">
+<div class="typo-report__text js-selected-text-container">
+<span class="typo-report__sign"></span>
+<div class="m-t-md">
+<em class="m-t-md js-selected-text"></em>
+<p class="typo-report__limit-info">The selected text has limit of 300 characters</p>
+</div>
+</div>
+<form class="form m-t-lg">
+<ul class="form__list">
+<li class="form__group js-message-container">
+<label for="typo-report-message" class="form__label">
+Your feedback here
+<span class="form__required js-message-mandatory">*</span>
+</label>
+<textarea class="form__textarea m-t-sm" id="typo-report-message" placeholder="Your text here"
+name="Message" maxlength="4000"></textarea>
+</li>
+</ul>
+<div class="d-flex flex-wrap flex-just--between flex-align--start js-ok-message-before"
+data-error-messages-for-before="CaptchaResponse">
+<div class="form__captcha">
+<div class="form__captcha-base m-t-md">
+<img class="form__captcha-img js-captcha-image" src="" alt="Captcha" />
+<input class="form__input form__input--captcha"
+data-empty-message="Please fill-in the captcha operation result."
+data-format-message="Result must be a positive number."
+maxlength="2" name="CaptchaResponse" type="text" />
+<input type="hidden" name="CaptchaKey" />
+</div>
+</div>
+<button class="btn btn-anim m-t-md js-submit" value="text" role="button" type="submit" title="Send">
+<span class="btn__text">Send</span>
+</button>
+</div>
+<input type="hidden" name="SelectedText" />
+<input type="hidden" name="PageTitle" />
+</form>
+</div>
+</div>
+</div>
+</div>
+</aside>
+</body>
+</html>

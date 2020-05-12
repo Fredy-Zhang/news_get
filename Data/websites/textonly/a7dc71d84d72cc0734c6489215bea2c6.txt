@@ -1,0 +1,24 @@
+
+                Protesters in London take part in group hug in defiance of coronavirus lockdown outside Met Police headquarters
+              
+{{#singleComment}}{{value}} comment{{/singleComment}}{{^singleComment}}{{value}} comments{{/singleComment}}
+The crowd outside New Scotland Yard, close to the Houses of Parliament, were seen hugging each other as others held signs reading: "My body, my choice."
+Gatherings of any sort are banned under the UK's rules to slow the spread of coronavirus which were rolled out on March 23.
+The Metropolitan Police said in a statement: "A small number of protesters gathered near New Scotland Yard earlier today.
+Officers engaged with the protesters, encouraged them to go home and the group subsequently dispersed. One man arrested."
+The UK has been on coronavirus lockdown for around six weeks, after Boris Johnson ordered Brits to stay at home except for essential work, food shopping, exercise and medical trips.
+The Prime Minister may announce an end to the lockdown for some businesses, like factories, shops and office-based companies, on May 26, the Sun has reported.
+But this plan is only the "best hope", and could change if the current slowdown in coronavirus cases picks back up again.
+Business Secretary Alok Sharma will set out detailed instructions next week on how businesses in different sectors should end the lockdown.
+The study, by Ipsos Mori, found that more than 60 per cent of Brits would be uncomfortable doing regular activities like going to bars or restaurants.
+
+        A man is carried away by police officers during a protest against the Covid-19 lockdown outside New Scotland Yard (PA)
+      
+Speaking to the Los Angeles Times, one protester, Andrew Norman, said: "I served in the Army and fought tyrants and dictators overseas and this has gone too far.
+But he condemned the protests, saying: "We can screw all that up. We can set all that back by making bad decisions," he said. "All of that works because people have done an incredible job in their physical distancing."
+Swearing, personal abuse, racism, sexism, homophobia and other discriminatory or inciteful language is not acceptable
+{{#singleComment}}{{value}} Comment{{/singleComment}}{{^singleComment}}{{value}} Comments{{/singleComment}}
+ -1 )" [class]="(commentState.flaggedComments.indexOf('{{ID}}') > -1 ) ? 'flagged' : 'flag'" [text]="(commentState.flaggedComments.indexOf('{{ID}}') > -1 ) ? 'Flagged' : 'Flag'" on="tap:flag-lightbox,AMP.setState({commentId:'{{ID}}'})">Flag
+ -1 )" [class]="(commentState.flaggedComments.indexOf('{{ID}}') > -1 ) ? 'flagged' : 'flag'" [text]="(commentState.flaggedComments.indexOf('{{ID}}') > -1 ) ? 'Flagged' : 'Flag'" on="tap:flag-lightbox,AMP.setState({commentId:'{{ID}}'})">Flag
+ -1 )" [class]="(commentState.flaggedComments.indexOf('{{ID}}') > -1 ) ? 'flagged' : 'flag'" [text]="(commentState.flaggedComments.indexOf('{{ID}}') > -1 ) ? 'Flagged' : 'Flag'" on="tap:flag-lightbox,AMP.setState({commentId:'{{ID}}'})">Flag
+A man is carried away by police officers during a protest against the Covid-19 lockdown outside New Scotland Yard

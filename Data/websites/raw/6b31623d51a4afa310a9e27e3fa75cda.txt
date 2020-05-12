@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+  <html class="no-js" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <meta charset="utf-8" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.afp.com/en/news/3954/bolsonaro-tells-rally-brazil-lockdown-destroying-jobs-doc-1qz1323" />
+<link rel="shortlink" href="https://www.afp.com/en/news/3954/bolsonaro-tells-rally-brazil-lockdown-destroying-jobs-doc-1qz1323" />
+<meta property="og:site_name" content="AFP.com" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.afp.com/en/news/3954/bolsonaro-tells-rally-brazil-lockdown-destroying-jobs-doc-1qz1323" />
+<meta property="og:title" content="Bolsonaro tells rally Brazil lockdown destroying jobs" />
+  <title>Bolsonaro tells rally Brazil lockdown destroying jobs | AFP.com</title>
+  <link type="text/css" rel="stylesheet" href="https://www.afp.com/sites/default/files/css/css_9h-TIA0SEtwCkiGG8bbt9Yy7nQv_cBQxKhyJVxvMAgw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.afp.com/sites/default/files/css/css_jZki2uBZD_o8JcmWDHnDrdi18Em65j4lng_kW0Xdujc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:400,700,400italic" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.afp.com/sites/default/files/css/css_Z7YhZofuf9tCwJqGaQWZlCL6KsOOnRxxyfvrcSd8dtA.css" media="all" />
+<style>ul.tabs--primary{direction :ltr !important;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.afp.com/sites/default/files/css/css_gvcGB0lBfUG-iCfuue3pOtCHswLpFnHZBNgopjw3gUI.css" media="all" />
+
+<!--[if (gte IE 6)&(lte IE 9)]>
+<link type="text/css" rel="stylesheet" href="https://www.afp.com/sites/default/files/css/css_yvjoPWKbg1lA2esYc6-luF-8Lf5ZNfF8deo5nDQwYIY.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://www.afp.com/sites/default/files/css/css_UTXE93JTCWk2iCSPrceiAsslBlWANweE5Othkf1AoIw.css" media="all" />
+<style>#sliding-popup.sliding-popup-top,#sliding-popup.sliding-popup-top .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#2b7bc1;}#sliding-popup.sliding-popup-top.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,#sliding-popup label,#sliding-popup div,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#ffffff !important;}.eu-cookie-withdraw-tab{border-color:#ffffff;}.eu-cookie-compliance-more-button{color:#ffffff !important;}
+</style>
+  <script src="https://www.afp.com/sites/all/libraries/respondjs/respond.min.js?q9i49y"></script>
+<script src="https://www.afp.com/sites/default/files/js/js_8fSQqVw01CfRhmzAwvi5T4vnLcHaUagRVY08XdWCEKg.js"></script>
+<script src="https://www.afp.com/sites/default/files/js/js_m9SftDDj9fSjzUpF3pkRRlS_M3bZ6dMlUwcj1JoelfU.js"></script>
+<script src="https://www.afp.com/sites/default/files/js/js_D513xrHxkFzR3xMs-U1B-okOiPuXCy6MX1kwfrKN5Ls.js"></script>
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script src="https://www.afp.com/sites/default/files/js/js_RU5Gn1hNhIAPv1pKQEFmDv-Q-KtqelK6M8P5clytA3A.js"></script>
+<![endif]-->
+<script src="https://www.afp.com/sites/default/files/js/js_Kg8xQXr4pGVK6_I8oLd72CXRfVURiTaPnvycw_D0XM0.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.afp.com/sites/default/files/googleanalytics/analytics.js?q9i49y","ga");ga("create", "UA-36192292-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>var addthis_config = {ui_language: "en"}</script>
+<script src="https://www.afp.com/sites/default/files/js/js_jvz80vDwZtb8R22-iI8Jp2Miapcm7JFOVtIVeHiwvtE.js"></script>
+<script>(function() {
+var didInit = false; function initMunchkin() {
+if(didInit === false) {
+didInit = true; Munchkin.init('715-ASN-767');
+} }
+var s = document.createElement('script'); s.type = 'text/javascript';
+s.async = true;
+s.src = '//munchkin.marketo.net/munchkin.js'; s.onreadystatechange = function() {
+if (this.readyState == 'complete' || this.readyState == 'loaded') { initMunchkin();
+} };
+s.onload = initMunchkin;
+document.getElementsByTagName('head')[0].appendChild(s); })();</script>
+<script>(function(c,h,a,f,i,e){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+c[a].a=i;c[a].e=e;var g=h.createElement("script");g.async=true;g.type="text/javascript"; g.src=f+'?aid='+i;var b=h.getElementsByTagName("script")[0];b.parentNode.insertBefore(g,b); })(window,document,"rtp","//lonrtp1-cdn.marketo.com/rtp-api/v1/rtp.js","afpblue");
+rtp('send','view'); rtp('get', 'campaign',true); </script>
+<script src="https://www.afp.com/sites/default/files/js/js_PF5Lr8l48aD0k3nm1_5EL3t-3YL4jUDMRrAN5amNQYQ.js"></script>
+<script src="https://www.afp.com/sites/default/files/js/js_yimlv4l9IqWZtZeQvNkIxnNA-kYMrW5ltkV_UzIwQfU.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","apachesolr_autocomplete":{"path":"\/en\/apachesolr_autocomplete","forms":{"search-block-form":{"id":"search-block-form","path":"\/en\/apachesolr_autocomplete_callback\/apachesolr_search_page%3Acore_search"}}},"shortcode_wysiwyg":{"current_form":"form-fO4uQ7qoiYBF4cjvZNFucLsJ9AitmSHmsFjScNZh898"},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":0,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EBy continuing to browse, you agree to our \u003Ca href=\u0022\/en\/privacy-policy\u0022 target=\u0022_blank\u0022\u003EPrivacy Policy\u003C\/a\u003E and the use of\u0026nbsp;cookies\u0026nbsp;to provide you with videos and sharing buttons, and to allow us to perform analysis to provide you with content consistent with your interests\u003C\/p\u003E              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore information\u003C\/button\u003E\n          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EOk\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n                    \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore information\u003C\/button\u003E\n          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EOk\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class=\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003Etest\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EOk\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"https:\/\/www.afp.com\/en\/privacy-policy","popup_link_new_window":1,"popup_position":true,"fixed_top_position":false,"popup_language":"en","store_consent":true,"better_support_for_screen_readers":0,"reload_page":0,"domain":"","domain_all_sites":null,"popup_eu_only_js":0,"cookie_lifetime":"365","cookie_session":false,"disagree_do_not_show_popup":0,"method":"default","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003E\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003E\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false,"withdraw_button_on_info_popup":false,"cookie_categories":[],"enable_save_preferences_button":true,"fix_first_cookie_category":true,"select_all_categories_by_default":false},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"currentPath":"news\/3954\/bolsonaro-tells-rally-brazil-lockdown-destroying-jobs-doc-1qz1323","currentPathIsAdmin":false,"urlIsAjaxTrusted":{"\/en\/news\/3954\/bolsonaro-tells-rally-brazil-lockdown-destroying-jobs-doc-1qz1323":true},"afpcom":{"theme_path":"sites\/all\/themes\/custom\/afpcom","mediametrie_serial":""},"async_js":{"javascript":{"\/\/s7.addthis.com\/js\/300\/addthis_widget.js#pubid=ra-566074529755da28":{"data":"\/\/s7.addthis.com\/js\/300\/addthis_widget.js#pubid=ra-566074529755da28","callbacks":[],"fade":[],"container":null,"dependencies":[],"dependents":[],"queued":false,"loaded":false},"https:\/\/graphics.afpforum.com\/vendors\/pym\/pym.v1.min.js":{"data":"https:\/\/graphics.afpforum.com\/vendors\/pym\/pym.v1.min.js","callbacks":[],"fade":[],"container":null,"dependencies":[],"dependents":[],"queued":false,"loaded":false},"\/\/platform.twitter.com\/widgets.js":{"data":"\/\/platform.twitter.com\/widgets.js","callbacks":[],"fade":[],"container":null,"dependencies":[],"dependents":[],"queued":false,"loaded":false}},"timeout":1000,"finalCallback":""}});</script>
+</head>
+<body class="html not-front not-logged-in page-news page-news- page-news-3954 page-news-bolsonaro-tells-rally-brazil-lockdown-destroying-jobs-doc-1qz1323 i18n-en section-news">
+    <header>
+    <div id="header" class="line">
+        <div class="top bggreydark">
+            <div class="container">
+                <div class="line">
+                      <div  about="/en/block/afp-production-ticker" typeof="" id="afp_ticker" class="entity entity-bean bean-afp-production w100 left relative">
+        <div id="header_slider_container" class="w100" >
+        <a id="header_slider_prev" class="w10 left slider_control slider_control_prev"><span></span></a>
+        <div id="header_slider" class="w80" >
+            
+<ul><li><strong class="title">Beirut (AFP)</strong><span class="date"> - 05/05/2020 - 11:20</span><p id="afp_news_7|doc-1r019z-copy6" class="afp_news_visibility afp_news_visibility_show" >Syria strikes kill 14 Iranian, allied fighters: monitor</p></li><li><strong class="title">Karlsruhe (Germany) (AFP)</strong><span class="date"> - 05/05/2020 - 10:40</span><p id="afp_news_7|doc-1r012m-copy2" class="afp_news_visibility afp_news_visibility_show" >Top German court demands clarification of ECB bond-buying scheme</p></li><li><strong class="title">Madrid (AFP)</strong><span class="date"> - 05/05/2020 - 09:32</span><p id="afp_news_7|doc-1r00qp-copy3" class="afp_news_visibility afp_news_visibility_show" >Spain adds 280,000 jobless during April lockdown: govt</p></li><li><strong class="title">Caracas (AFP)</strong><span class="date"> - 05/05/2020 - 06:08</span><p id="afp_news_7|doc-1r008q-copy3" class="afp_news_visibility afp_news_visibility_show" >Venezuela arrests two Americans for failed 'invasion': Maduro</p></li><li><strong class="title">Washington (AFP)</strong><span class="date"> - 05/05/2020 - 02:46</span><p id="afp_news_7|doc-1qz9te-copy4" class="afp_news_visibility afp_news_visibility_show" >US coronavirus deaths rise by 1,015 in 24 hours, lowest in a month: Johns Hopkins</p></li><li><strong class="title">Paris (AFP)</strong><span class="date"> - 05/05/2020 - 01:19</span><p id="afp_news_7|doc-1qz9pk-copy2" class="afp_news_visibility afp_news_visibility_show" >Global coronavirus death toll tops 250,000: AFP tally</p></li><li><strong class="title">Lima (AFP)</strong><span class="date"> - 05/04/2020 - 23:42</span><p id="afp_news_7|doc-1qz9d1-copy2" class="afp_news_visibility afp_news_visibility_show" >Peru's opposition leader Fujimori released from prison: AFP</p></li><li><strong class="title">New York (AFP)</strong><span class="date"> - 05/04/2020 - 22:05</span><p id="afp_news_7|doc-1qz903-copy2" class="afp_news_visibility afp_news_visibility_show" >US stocks end higher, shrugging off early weakness</p></li><li><strong class="title">Washington (AFP)</strong><span class="date"> - 05/04/2020 - 21:01</span><p id="afp_news_7|doc-1qz8mw-copy1" class="afp_news_visibility afp_news_visibility_show" >US Treasury to borrow record $2.999 trillion in Q2</p></li><li><strong class="title">Geneva (AFP)</strong><span class="date"> - 05/04/2020 - 19:43</span><p id="afp_news_7|doc-1qz7xf-copy2" class="afp_news_visibility afp_news_visibility_show" >WHO says got no proof from US on 'speculative' Wuhan lab virus claims</p></li></ul>
+        </div>
+        <a  id="header_slider_next" class="w10 left slider_control slider_control_next"><span></span></a>
+    </div>
+</div>                </div>
+            </div>
+        </div>
+        <div class="bottom bgdarkblue">
+            <div class="container    ">
+                <div class="line  ">
+                    <nav>
+                        <h1 id="logo" class="  left txtleft  ">
+                                                        <a href="/en" title="Home">
+                                  <img src="/sites/all/themes/custom/afpcom/logo.png" alt="Home" class="" width="148" />
+                              </a>
+                                                  </h1>
+                          <div class="flex-menu">
+<ul id="nav">
+  <li class="first leaf"><a href="/en/news-hub">The News</a></li>
+<li class="expanded"><a href="/en/about">The Agency</a><ul class="nav_submenu "><li class="first expanded parent"><a href="/en/about">About</a>
+								<ul class="nav_subsubmenu "><li class="first leaf"><a href="/en/agency/management-team">AFP management</a></li>
+<li class="leaf"><a href="/en/agency/afp-dates">AFP in dates</a></li>
+<li class="leaf"><a href="/en/agency/about/afp-numbers">AFP in numbers</a></li>
+<li class="leaf"><a href="/en/agency/about/afp-world">AFP in the world</a></li>
+<li class="leaf"><a href="/en/agency/about/afp-pictures">AFP in pictures</a></li>
+<li class="leaf"><a href="/en/agency/charter">AFP Charter</a></li>
+<li class="leaf"><a href="/en/annual-report-2018">Annual report</a></li>
+<li class="last leaf"><a href="/en/agency/subsidiaries">Subsidiaries</a></li>
+</ul></li>
+<li class="leaf"><a href="/en/agency/awards">Awards</a></li>
+<li class="leaf"><a href="/en/agency/press-releases-and-newsletter">Press releases and newsletter</a></li>
+<li class="leaf"><a href="/en/agency/medialab">Medialab</a></li>
+<li class="last leaf"><a href="/en/agency/our-job-postings">Join us</a></li>
+</ul></li>
+<li class="expanded"><a href="/en/products">Products</a><ul class="nav_submenu "><li class="first leaf"><a href="/en/products">Products and services</a></li>
+<li class="last leaf"><a href="/en/products/partners">Partners</a></li>
+</ul></li>
+<li class="leaf"><a href="/en/inside-afp">Inside AFP</a></li>
+<li class="leaf"><a href="http://www.afpforum.com/AFPForum/Search/Results.aspx?smd=9&amp;mui=1&amp;pki=3&amp;fto=1&amp;ihp=1" target="_blank">AFP FORUM</a></li>
+<li class="leaf"><a href="https://factcheck.afp.com/" target="_blank">AFP Fact Check</a></li>
+<li class="last leaf"><a href="/en/contact-us">Contact</a></li>
+</ul>
+</div>
+<span id="buttonsearch">Search</span>
+<div  id="language_switcher_btn_container" role="complementary" class="block block--locale block--locale-language">
+        <span class="hidem"> EN</span><ul id="language_switcher" class="right language-switcher-locale-url"><li class="fr first"><a href="/fr/plateforme-de-linfo" class="language-link" xml:lang="fr">Français</a></li>
+<li class="en"><a href="/en/news-hub" class="language-link" xml:lang="en">English</a></li>
+<li class="es"><a href="/es/noticias" class="language-link" xml:lang="es">Español</a></li>
+<li class="pt"><a href="/pt/noticias" class="language-link" xml:lang="pt">Português</a></li>
+<li class="de"><a href="/de/nachrichten" class="language-link" xml:lang="de">Deutsch</a></li>
+<li class="ar last"><a href="/ar/news-hub" class="language-link" xml:lang="ar">العربية</a></li>
+</ul><div id="language_switcher_btn" class="">
+							<!-- CURRENT SELECTED LANGUAGE -->
+							EN
+						</div></div>
+                        <div id="nav_mobile_btn" class="">
+                            <i class="nav_mobile_btn_icon"></i>
+                        </div>
+                        <div id="overlay-nav"></div>
+                    </nav>
+                      <div id="header_search" role="search" class="block block--search block--search-form right relative">
+        <form class="search-block-form" action="/en/news/3954/bolsonaro-tells-rally-brazil-lockdown-destroying-jobs-doc-1qz1323" method="post" id="search-block-form" accept-charset="UTF-8"><div>  <h2 class="invisible">Search form</h2>
+<div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search" class="apachesolr-autocomplete form-text" data-apachesolr-autocomplete-id="search-block-form" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-fO4uQ7qoiYBF4cjvZNFucLsJ9AitmSHmsFjScNZh898" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div></form>  <div id="search_block_form_close"></div>
+</div>                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="line maincontent">
+  <div class="main">
+    <div class="container container_old">
+    <h2 class="element-invisible">You are here</h2><div id="breadcrumb" class="line hidem"><a href="/en">Home</a></div>            </div>
+    <div class="container container_old">
+        <!-- principal column -->
+    <div class="twocol w66 left mb2  pr2 pa0m">
+        <!-- CONTENT column -->
+        <div id="contentcol">
+        <div id="afp_news_3954|doc-1qz1323" class="block block--afp-data-production block--afp-data-production-afp-data-production-prod-details afp_news_visibility  afp_news_visibility_show">
+    
+  
+  <div class="line mb2">
+    <h1 class="htitle txt45 txt25m txtblue bglightgrey line pa2   txtcenterm">News</h1>
+  </div>
+
+  
+  <div class="article_content line linemam mb2">
+
+    <!-- TITLE + CHAPO -->
+    <h3 class="htitle txt36 txtblack mb2  ">Bolsonaro tells rally Brazil lockdown destroying jobs</h3>
+
+    <div class="line mb2 hideXL">
+      <div class="  w33m left htitle txtgrey txt14 mt1" itemprop="datePublished">
+        <span class="d">4</span>
+        <span class="m">May</span>
+        <span class="y">2020</span>      </div>
+      <div class="addthis_toolbox addthis_32x32_style w66m left txtright ">
+        <div class="addthis_sharing_toolbox"></div>
+      </div>
+    </div>
+
+    <div class="w75 right txt12 txtlh18 txtblack txtjustify textcontent">
+      
+        <div class="line textcontent_img watermark">
+				    <div class="w50 left mr1" >
+					    <img src="/sites/default/files/nfs/diff-intra/english/shared/top/e27c248b8a95371e7a79fc98f4fa0f279bfe4ccd.jpg" class="w100" />
+					    <span>AFP / EVARISTO SA</span>
+					    <span class="copyright_under"><strong>Brazilian President Jair Bolsonaro and his daughter Laura (C) pose for a selfie with supporters outside his residence in Brasilia on Sunday</strong></span>
+				    </div><p>Brazil's President Jair Bolsonaro railed against the country's lockdown Sunday in a speech to thousands of anti-confinement demonstrators as the number of confirmed COVID-19 infections passed 100,000, with more than 7,000 deaths.</p><p>Bolsonaro blamed state governors for continuing the lockdown in a speech outside his presidential palace in Brasilia.</p>
+			  </div><p>"The destruction of jobs by some governors is irresponsible and unacceptable. We will pay a high price in the future," the head of state said in a speech broadcast live on Facebook.</p><p>Bolsonaro has repeatedly clashed with state governors, insisting that strict containment measures they are imposing are an overreaction, and damaging to the economy.</p>
+        <div class="line textcontent_img watermark">
+				    <div class="w50 right ml1" >
+					   <img src="/sites/default/files/nfs/diff-intra/english/shared/top/823e39e92a797c5d30b4a5345407d95402762efb.jpg" class="w100" />
+					   <span>AFP / EVARISTO SA</span>
+					    <span class="copyright_under"><strong>Supporters of Brazilian President Jair Bolsonaro gather outside Planalto Palace in Brasilia, on May 3, 2020</strong><br/></span>
+				    </div><p>The country registered 101,147 confirmed cases of the virus by Sunday, according to figures released by the Brazilian health ministry, with 275 deaths from COVID-19 within the previous 24 hours. </p><p>Experts believe the overall number of COVID-19 cases could be 12 to 15 times higher, due to a large number of undetected cases given the lack of testing availability across the country's 210 million population.</p>
+			  </div><p>The demonstration in Brasilia drew a larger crowd than similar protests in recent weeks, and many people held up banners criticising Bolsonaro critics Rodrigo Maia, head of the chamber of deputies, and former justice minister Sergio Moro who resigned last week. Others in the crowd called on the army to intervene.</p><p>"The people are with us and the army is on the side of the law, order, freedom and democracy," Bolsonaro told them.</p>
+        <div class="line textcontent_img watermark">
+				    <div class="w50 left mr1" >
+					    <img src="/sites/default/files/nfs/diff-intra/english/shared/top/748d8f1f8a78889c21efc11a4d815e8f8a8ff67a.jpg" class="w100" />
+					    <span>AFP / EVARISTO SA</span>
+					    <span class="copyright_under"><strong>Brazil, the worst-hit country in South America, registered more than 100,000 infections from the coronavirus by Sunday, with more than 7,000 deaths</strong></span>
+				    </div><p>The Estado de Sao Paulo daily, one of the country's biggest newspapers, reported on its website that one of its photographers and his driver were attacked by demonstrators, who pushed and kicked them.</p><p>Contrary to recent demonstrations in which he made an appearance, the far-right president -- who did not wear a mask -- maintained a distance of around two meters (six feet) from his nearest supporters after his address outside the presidential palace.</p>
+			  </div><p>However, he made an exception for supporters who joined him for a selfie with his nine-year-old daughter Laura. </p><p>Experts are bracing for the biggest outbreak in South America to get far worse, as the peak of the pandemic is thought to be some weeks away.</p><p>Last week, Rio de Janeiro state said it would extend stay-at-home orders until May 11, ignoring Bolsonaro's demands that local and state authorities encourage Brazilians to get back to work.</p>    </div>
+
+    <!-- META + SOCIAL -->
+    <div class="article_content_meta w25 left pr3 pl3 hidem">
+      <div class="article_content_date line mb2" itemprop="datePublished">
+        <span class="d">4</span>
+        <span class="m">May</span>
+        <span class="y">2020</span>      </div>
+      <div class="line mb2 addthis_toolbox addthis_default_style txw_v_addthis ">
+        <span class="line mb1 " id="twx_v_twitter"><a class="addthis_button_tweet" tw:count="vertical"></a></span>
+        <span class="line mb1" id="twx_v_facebook"><a class="addthis_button_facebook_like" fb:like:layout="box_count" fb:like:action="like"></a></span>
+        <span class="line mb1" id="twx_v_gplus"><a class="addthis_button_google_plusone" g:plusone:size="tall"></a></span>
+        <span class="line mb1" id="twx_v_addthis_counter"><a class="addthis_counter"></a></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pagination_nextprev line mb2 ">
+          <a href="/en/news/3954/when-will-i-see-you-again-sport-bids-step-out-virus-shadow-doc-1qy26z4"
+         class="btn prev  bgblue txtwhite ">
+        Previous      </a>
+            <a href="/en/news-hub" class="btn  bgblue txtwhite ">
+      Back to summary    </a>
+          <a href="/en/news/3954/westpac-half-year-profits-tumble-more-60-doc-1qz1ab2"
+         class="btn next bgblue txtwhite ">
+        Next      </a>
+      </div>
+</div>
+        </div>
+    </div>
+
+    <!-- RIGHT column -->
+    <div class="rightcol w33 left mb2 ">
+        <div class="panel-pane pane-block pane-bean-afp-block-contactez"   class="panel-pane pane-block pane-bean-afp-block-contactez">
+  
+    
+  
+  
+<div  about="/en/block/afp-block-contactez" typeof="" class="entity entity-bean bean-afp-rich-block contact_block_blue line bgblue pa2 mb2 txt11">
+    <h4 class="htitle txtcenterm txt30 txt20m txtblack mb1"><em>Contact</em> us </em></h4>
+    <p class="line txt15">If you have <strong>news to share or a question, comment or suggestion,</strong> contact us via...</p>
+  <ul class="contact_block_blue_list line mt2 uppercase txtbold txt12">
+    <li><a href="node/148"  class="contact_block_blue_list_icon mail"><span class="text">MAIL</span></a></li><li><a href="https://www.facebook.com/AFPnewsenglish"  target="_blank" class="contact_block_blue_list_icon facebook"><span class="text">Facebook</span></a></li><li><a href="https://twitter.com/AFP"  target="_blank" class="contact_block_blue_list_icon twitter"><span class="text">Twitter</span></a></li>  </ul>
+</div>
+
+  
+  </div>
+    </div>
+</div>
+  </div>
+</div>
+
+<div class="line">
+  <footer id="footer" role="banner">
+      <div  about="/en/block/afp-footer-main" typeof="" id="footer_affiliates" class="entity entity-bean bean-afp-footer line bglightgrey pt3">
+      <div class="container">
+      <div class="w50 left pt3 mt4 mb4 pb3 mt3 mt1m pt1m pr1 pl1 mb1m pb1m pr0m pl0m footer-logos">
+          <h2 class="htitle utitle txt35 txt22m mb4 mb1m mr1m ml1m">Follow us on</h2>
+          <ul class="footer_social_list">
+            <style>.footer_social_list li.social_0 span {
+    background: transparent url("https://www.afp.com/sites/default/files/footer_twitter.jpg") no-repeat scroll 0% 0%;
+  }</style><li class="social_0 txt12m"><a href="https://twitter.com/AFP"  target="_blank"><span></span>Twitter</a></li><style>.footer_social_list li.social_1 span {
+    background: transparent url("https://www.afp.com/sites/default/files/footer_facebook.jpg") no-repeat scroll 0% 0%;
+  }</style><li class="social_1 txt12m"><a href="https://www.facebook.com/AFPnewsenglish"  target="_blank"><span></span>Facebook</a></li><style>.footer_social_list li.social_2 span {
+    background: transparent url("https://www.afp.com/sites/default/files/footer_instagram.jpg") no-repeat scroll 0% 0%;
+  }</style><li class="social_2 txt12m"><a href="https://www.instagram.com/afpphoto/"  target="_blank"><span></span>Instagram</a></li>          </ul>
+      </div>
+      <div class="w50 right pt3 mt4 mb4 pb3 mt3 mt1m pt1m3 pr1 mb1m pb1m pl1 pr0m pl0m footer-logos">
+          <h2 class="htitle utitle txt35 txt22m mb4 mb1m mr1m ml1m">Our subsidiaries</h2>
+          <ul class="footer_affiliates_list">
+            <style>.footer_affiliates_list li.affiliate_0 span {
+    background: url("https://www.afp.com/sites/default/files/block/201810/afp.png") center no-repeat transparent; background-size: 100%;
+  }</style><li class="affiliate_0 txt12m"><a href="https://www.afp.com/de"  target="_blank"><span></span>AFP Gmbh</a></li><style>.footer_affiliates_list li.affiliate_1 span {
+    background: url("https://www.afp.com/sites/default/files/block/201810/footersid.png") center no-repeat transparent; background-size: 100%;
+  }</style><li class="affiliate_1 txt12m"><a href="http://www.sid.de"  target="_blank"><span></span>Sport Informations Dienst</a></li><style>.footer_affiliates_list li.affiliate_2 span {
+    background: url("https://www.afp.com/sites/default/files/block/201810/rvb_afp_services_10cm.png") center no-repeat transparent; background-size: 100%;
+  }</style><li class="affiliate_2 txt12m"><a href="http://www.afp-services.com"  target="_blank"><span></span>AFP-Services</a></li>          </ul>
+      </div>
+    </div>
+</div>
+    <div id="footer_about" class="line bgdarkblue">
+  <div class="container">
+    <style>
+  .footer_about_illustr {
+    background: transparent url("https://www.afp.com/sites/default/files/block/201511/logo-footer.png") left center no-repeat;
+      background-size: 100%;
+
+  }
+</style>
+
+  <div class="w15 w5t left">&nbsp;</div>
+<div  about="/en/block/afp-footer-about" typeof="" class="entity entity-bean bean-afp-rich-block w40 w50t left">
+      <div class="left footer_about_illustr">&nbsp;</div>
+  <div class="w80 w50t left mb2 pr2 pa0m txtwhite txt13 pa2m ">
+    <h6 class="txt11 txtblue uppercase txtbold mb2 txtcenterm">About AFP</h6>
+    <p><strong>AFP</strong> is a leading global news agency providing fast, comprehensive and verified coverage of the events shaping our world and of the issues affecting our daily lives. Drawing from an unparalleled news gathering network across 151 countries, AFP also is a world leader in digital verification. With 2,400 staff representing 100 different nationalities, AFP covers the world in six languages, with a unique quality of multimedia storytelling spanning video, text, photos and graphics.</p>
+  </div>
+</div>
+  <div class="w10 w5t left">&nbsp;</div>
+<div id="block-menu-menu-footer" role="navigation" class="block block--menu block--menu-menu-footer w10 w100m left mb2 txtwhite txt11 ma0m">
+      <h6 class="txt11 txtblue uppercase txtbold mb2 txtcenterm bgwhitem pa2m" >Useful links</h6>
+      <ul>
+    <li class="w100m leftm txtcenterm"><a href="/en/privacy-policy">•  Privacy Policy</a></li>
+<li class="w100m leftm txtcenterm"><a href="/en/legal-information">• Legal information</a></li>
+<li class="w100m leftm txtcenterm"><a href="/en/terms-use">• Terms of use</a></li>
+<li class="w100m leftm txtcenterm"><a href="/en/contact">•  Contact us</a></li>
+<li class="w100m leftm txtcenterm"><a href="/en/sitemap">•  Site Map</a></li>
+  </ul>
+</div><div id="block-menu-menu-blogs" role="navigation" class="block block--menu block--menu-menu-blogs w10 w100m left mb2 pl2 pa0m mb0m txtwhite txt11 txtcenterm">
+          <h6 class="txt11 txtblue uppercase txtbold mb2 txtcenterm bgwhitem pa2m">Our Blog</h6>
+      <ul>
+    <li><a href="https://factcheck.afp.com/">AFP Fact Check</a></li>
+<li><a href="https://correspondent.afp.com" target="_blank">Correspondent</a></li>
+  </ul>
+</div>
+<div id="block-menu-menu-partners" role="navigation" class="block block--menu block--menu-menu-partners w10 w100m left mb2 pl2 pa0m mb0m txtwhite txt11 txtcenterm">
+          <h6 class="txt11 txtblue uppercase txtbold mb2 txtcenterm bgwhitem pa2m">Partners</h6>
+      <ul>
+    <li class="w100m leftm txtcenterm"><a href="/en/products/partners/business-wire">Business Wire</a></li>
+  </ul>
+</div>
+  </div>
+</div>  </footer>
+  <div class="hidem"></div>
+</div>
+
+<div class="popup_overlay"></div>
+<div id="popup" class="popup_container hide">
+  <div id="popup_content" class="popup_content"></div>
+  <a href="#" class="popup_close">close</a>
+</div>
+
+  <script>var eu_cookie_compliance_cookie_name = "";</script>
+<script src="https://www.afp.com/sites/default/files/js/js_Llgek5Zasqh0wiimoKH-uIdmSIEO0i9Cbi7UdXEdRgw.js"></script>
+  <div class="ipe_overlay"><div class="ajax-progress ipe-throbber"><div class="throbber"></div></div></div>
+</body>
+</html>

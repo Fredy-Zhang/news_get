@@ -1,0 +1,4193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    
+    
+    
+<!-- For Facebook -->
+
+<meta property="fb:app_id" content="681685869269457" />
+<meta property="author" content="Tribune News Service" />
+<meta property="og:title" content="Delhi cops probe Instagram chat group ‘Boys locker room’" />
+    <meta property="og:description" content="The police, which on Monday initiated a probe against the Instagram chat group &amp;ldquo;Boys Locker Room&amp;rdquo;, have asked the photo sharing app to share the details of all participants in the group where photos of underage girls were being shared and objectified." />
+<meta property="og:image" content="https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$largeimg_1623299083.jpg" />
+<meta property="og:image:url" content="https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$largeimg_1623299083.jpg" />
+<meta property="og:url" content="https://www.tribuneindia.com/news/nation/delhi-cops-probe-instagram-chat-group-boys-locker-room-80563" />
+<meta property="og:site_name" content="Tribuneindia News Service" />
+    <meta property="og:image:width" content="660" />
+    <meta property="og:image:height" content="350" />
+<meta property="og:type" content="article" />
+
+<!-- For Twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="&via=thetribunechd" />
+<meta name="twitter:domain" />
+<meta name="twitter:title" content="Delhi cops probe Instagram chat group ‘Boys locker room’" />
+    <meta property="twitter:description" content="The police, which on Monday initiated a probe against the Instagram chat group &amp;ldquo;Boys Locker Room&amp;rdquo;, have asked the photo sharing app to share the details of all participants in the group where photos of underage girls were being shared and objectified." />
+
+<meta name="twitter:image" content="https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$largeimg_1623299083.jpg" />
+
+
+    
+    
+
+
+
+        <link rel="amphtml" href="https://m.tribuneindia.com/news/nation/delhi-cops-probe-instagram-chat-group-boys-locker-room-80563">
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.tribuneindia.com/news/nation/delhi-cops-probe-instagram-chat-group-boys-locker-room-80563">
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="canonical" href="https://www.tribuneindia.com/news/nation/delhi-cops-probe-instagram-chat-group-boys-locker-room-80563" />
+
+
+    <meta name="robots" content="index, follow" />
+    <meta content="NOODP" name="robots" />
+
+<title>Delhi cops probe Instagram chat group ‘Boys locker room’ : The Tribune India</title>
+        <meta name="description" content="New Delhi, May 4
+The police, which on Monday initiated a probe against the Instagram chat group &amp;ldquo;Boys Locker Room&amp;rdquo;, have asked the photo sharing app to share the details of all participan" />
+
+<link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700|Open+Sans:300,400,600,700,800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Hind&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.6.3/css/all.min.css">
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.min.css" rel="Stylesheet" />
+
+<link rel="shortcut icon" href="/Content/images/favicon.ico" type="image/x-icon" />
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script src="/Content/js/header.js" ></script>
+
+<!--owl Stylesheets-->
+<link href="/Content/css/owl.carousel.min.css" rel="stylesheet" />
+<link href="/Content/css/owl.theme.default.min.css" rel="stylesheet" />
+
+<!--Owl javascript-->
+
+<script src="/Content/js/owl.carousel.min.js" ></script>
+<!--flex slider stylesheet-->
+<link href="/Content/css/flexslider.css" rel="stylesheet" />
+
+<!--flex slider script-->
+<script src="/Content/js/jquery.flexslider.js" ></script>
+
+<!--Pagination Slider-->
+<script src="/Content/js/jquery.twbsPagination.min.js"></script>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+$("#city").blur(function () {
+            $(this).hide();
+        });
+
+        $('#w-caret').click(function () {
+
+            $('#city').toggle();
+        });
+
+        $('li.dropdown:not("#txtSearch")').click(function (e) {
+            if (e.target.type != "text") {
+                var attrName = $(this).attr("data-name");
+                $('input[name="search_term_string"]').val("");
+
+                $('.dropdown-content').each(function () {
+                    if ($(this).closest("li").attr("data-name") != attrName) {
+                        $(this).hide();
+                        $(this).closest("li").removeClass("active-link");
+                    }
+                    else {
+                        $(this).toggle();
+                        $(this).closest("li").toggleClass("active-link");
+                    }
+                });
+            }
+        });
+
+        var width;
+        if (window.innerWidth >= 1400) {
+            width = 265;
+        }
+        else {
+            width = 250;
+        }
+
+        $('.flexslider:not(#tribune-album):not(#video-page-slider):not(#carousel2):not(#album-page-slider):not(#tribune-videos)').flexslider({
+            animation: "slide",
+            animationLoop: false,
+            itemWidth: width,
+            itemMargin: 40,
+            controlNav: false,
+            move: 1,
+            slideshow: false,
+            start: function (slider) {
+                $('body').removeClass('loading');
+            }
+        });
+
+
+        var item = 5;
+        if (window.location.pathname != "/") {
+            item = 3.5;
+        }
+
+        $('.owl-carousel:not(#ht-carousl)').owlCarousel({
+            loop: true,
+            margin: 10,
+            responsiveClass: true,
+            nav: true,
+            dots: false,
+            navText: ['<span class="fas fa-chevron-left"></span>', '<span class="fas fa-chevron-right"></span>'],
+
+            responsive: {
+                0: {
+                    items: 1,
+                    nav: true
+                },
+                600: {
+                    items: 2,
+                    nav: false
+                },
+                1000: {
+                    items: item,
+                    nav: true,
+                }
+            }
+
+        })
+    });
+
+    function up() {
+        var max_size = 48;
+        var actualSize = $('#content .story-desc>p').css("font-size");
+        if (parseInt(max_size) > parseInt(actualSize)) {
+            var newSize = parseInt(actualSize) + 5;
+            $('#content .story-desc>p').css({
+                'font-size': newSize + "px"
+            });
+            UpdateCookies(newSize);
+        }
+    }
+
+    function down() {
+        var min_size = 18;
+        var actualSize = $('#content .story-desc>p, #content .story-desc>p span').css("font-size");
+        if (parseInt(min_size) < parseInt(actualSize)) {
+            var newSize = parseInt(actualSize) - 5;
+            $('#content .story-desc>p, #content .story-desc>p span').css({
+                'font-size': newSize + "px"
+            });
+            UpdateCookies(newSize);
+        }
+
+    }
+
+    function getCookieValue() {
+        var a = 'fontcookie'
+        var b = document.cookie.match('(^|[^;]+)\\s*' + a + '\\s*=\\s*([^;]+)');
+        return b ? b.pop() : '';
+    }
+
+    function SetStorySize() {
+        var cookie_string = '';
+        var expiration_date = new Date();
+        expiration_date.setFullYear(expiration_date.getFullYear() + 1);
+        var cookieVal = getCookieValue();
+
+        if (cookieVal == "") {
+            cookieVal = "18px";
+        }
+        cookie_string = "fontcookie=" + cookieVal + "; path=/; expires=" + expiration_date.toUTCString();
+
+        $('#content .story-desc>p, #content .story-desc>p span').css({
+            'font-size': cookieVal
+        });
+
+        document.cookie = cookie_string;
+    }
+
+    function UpdateCookies(size) {
+        size = size + "px";
+        var expiration_date = new Date();
+        expiration_date.setFullYear(expiration_date.getFullYear() + 1);
+        cookie_string = "fontcookie=" + size + "; path=/; expires=" + expiration_date.toUTCString();
+        document.cookie = cookie_string;
+    }
+
+</script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" ></script>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-8115901613940036",
+        enable_page_level_ads: true
+    });
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-7533327-1" ></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-7533327-1');
+</script>
+
+
+
+
+    <script type="application/ld+json">
+    {
+    "@context":"http://schema.org",
+    "@type":"SiteNavigationElement",
+    "name":[
+
+    "Nation",
+    "World",
+    "Punjab",
+    "Haryana",
+    "Himachal",
+    "J&K",
+    "Amritsar",
+    "Bathinda",
+    "Chandigarh",
+    "Delhi",
+    "Jalandhar",
+    "Ludhiana",
+    "Patiala",
+    "Opinion",
+    "Sports",
+    "Business",
+    "Features",
+    "Archive",
+    "Lifestyle",
+    "Entertainment",
+    "Movies"
+    ],
+    "url":[
+
+    "https://www.tribuneindia.com/news/nation",
+    "https://www.tribuneindia.com/news/world",
+    "https://www.tribuneindia.com/news/state/punjab",
+    "https://www.tribuneindia.com/news/state/haryana",
+    "https://www.tribuneindia.com/news/state/himachal",
+    "https://www.tribuneindia.com/news/state/jandk",
+    "https://www.tribuneindia.com/news/city/amritsar",
+    "https://www.tribuneindia.com/news/city/bathinda",
+    "https://www.tribuneindia.com/news/city/chandigarh",
+    "https://www.tribuneindia.com/news/city/delhi",
+    "https://www.tribuneindia.com/news/city/jalandhar",
+    "https://www.tribuneindia.com/news/city/ludhiana",
+    "https://www.tribuneindia.com/news/city/patiala",
+    "https://www.tribuneindia.com/news/opinion",
+    "https://www.tribuneindia.com/news/sports",
+    "https://www.tribuneindia.com/news/business",
+    "https://www.tribuneindia.com/news/features",
+    "https://www.tribuneindia.com/archive",
+    "https://www.tribuneindia.com/news/special/lifestyle",
+    "https://www.tribuneindia.com/news/special/entertainment",
+    "https://www.tribuneindia.com/news/reviews/movies"
+
+    ]
+    }
+</script>
+
+
+    <link href="/Content/css/news.web.css" rel="stylesheet" />
+    <link href="/Content/css/header.web.css" rel="stylesheet" />
+    <link href="/Content/css/tribune.responsive.css" rel="stylesheet" />
+    
+    <script type="text/javascript">
+        $(document).ready(function () {
+            ShowNews();
+        });
+
+        function ShowNews() {
+            var selCity = $('#selCity').val();
+            $('div.cate-news').hide();
+            $('.' + selCity).show();
+        }
+    </script>
+</head>
+
+
+<body>
+    <!--For loading facebook comments in the detail page-->
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v5.0&appId=521479865080405&autoLogAppEvents=1"></script>
+    <main>
+        <script type="text/javascript">
+    $(window).scroll(function () {
+        var y = $(this).scrollTop();
+
+        if (y > 800) {
+            $('.scrolltop').fadeIn();
+        } else {
+            $('.scrolltop').fadeOut();
+        }
+    });
+
+    $(document).ready(function () {
+
+        $(".card-text:empty").hide();
+
+        $(".scrolltop").click(function () {
+            $("html, body").animate({ scrollTop: 0 }, "slow");
+            return false;
+        });
+
+
+
+        $('#city').on('paste', function (event) {
+            exp = /^[a-zA-Z]*$/;
+            if (!exp.test(event.originalEvent.clipboardData.getData('Text'))) {
+                return false;
+            }
+        });
+
+        $('#city').autocomplete({
+            source: function (request, response) {
+                var text = $("#city").val();
+                $.ajax({
+                    url: "/Weather/GetCities?name=" + text,
+                    type: "GET",
+
+                    success: function (data) {
+
+                        if (data != null && data.length > 0) {
+                            response($.map(data, function (item) {
+                                return { label: item.Name + ", " + item.Country, value: item.Name + ", " + item.Country, lat: item.Lat, lon: item.Lon };
+                            }))
+                        }
+
+                    }
+                })
+            },
+            delay: 0,
+            select: function (e, i) {
+                getWeather(i.item.lat, i.item.lon);
+                $("#city").hide();
+            },
+
+            minLength: 3
+        });
+
+        document.getElementById("todayDate").innerHTML = GetTodayDate();
+
+        getWeather("30.680223899999998", "76.83479489999999");
+    });
+
+    $(window).scroll(function () {
+        var sticky = $('#myheader'),
+            scroll = $(window).scrollTop();
+
+        if (scroll >= 150) sticky.addClass('sticky');
+        else sticky.removeClass('sticky');
+    });
+
+    function ToggleShareIcon(obj) {
+        $('div.top.icon-bar').not($(obj).find('div.top.icon-bar')).hide();
+        $(obj).find('div.top.icon-bar').toggle();
+    }
+</script>
+
+<header class="header margin-top-20">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 pad-30-left">
+                <p id="todayDate" class="hdrdate hdr-bdr-btm hdr-fx-width"></p>
+                <p class="hdrdate hdr-bdr-btm hdr-fx-width follow">Follow Us</p>
+                <ul class="social-link nopad">
+                    <li>
+                        <a href="https://www.youtube.com/c/thetribunechd/" target="_blank">
+                            <i class="fab fa-youtube"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/thetribunechd/" target="_blank">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.tribuneindia.com%2F&amp;ref_src=twsrc%5Etfw&amp;region=follow_link&amp;screen_name=thetribunechd&amp;tw_p=followbutton" target="_blank">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/pages/The-Tribune/798949453521526">
+                            <i class="fab fa-facebook-f"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/rss">
+                            <i class="fas fa-rss"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="col-md-4 text-center">
+               
+                <div class="main-logo"> <a href="/"> <img class="img-fluid" src="/Content/images/Logo_eng.png" alt="Logo" /></a></div>
+
+                <div class="other-logo">
+                    <a href="https://www.dainiktribuneonline.com/" target="_blank"><img class="img-fluid" src="/Content/images/Logo_hindi.png" /></a>
+                    <a href="https://www.punjabitribuneonline.com/" target="_blank"><img class="img-fluid" src="/Content/images/Logo_punjabi.png" /></a>
+                </div>
+            </div>
+
+            <div class="col-md-4 hdr-txt-right pad-30-right">
+                <p>
+                    <a class="hdrdate hdr-bdr-btm hdr-txt-right wdh-40 hdr-login epaper" href="https://epaper.tribuneindia.com/" target="_blank">Epaper</a>
+                </p>
+                <p class="hdrdate hdr-bdr-btm hdr-txt-right wdh-40 hdr-login" style="display:none">Login &nbsp;&nbsp;/&nbsp;&nbsp;Register</p>
+                <img class="img-fluid iconclass" id="wicon" src="">
+
+                <p id="weather" style="display:inline;border-bottom:none" class="hdrdate"> </p>
+                <span class="caret" id="w-caret"> <i class="fas fa-caret-down"></i></span>
+                <form class="city_form">
+                    <input type="text" id="city" class="form-control" style="display:none" placeholder="Enter a city" />
+                </form>
+
+
+            </div>
+        </div>
+    </div>
+
+    <nav class="navbar bg-color" id="myheader">
+        <div class="container">
+            <div class="nav-menu">
+                <ul class="nav navbar-nav">
+                    <li class="dropdown" data-name="lines">
+                        <button class="dropbtn">
+                            <i class="fas fa-bars"></i>
+                        </button>
+                        <div class="dropdown-content">
+   <div class="header">
+    <div class="search-container">
+
+        <form action="https://www.google.com/search?domains=www.tribuneindia.com&sitesearch=www.tribuneindia.com" method="get" target="_blank">
+            <input type="hidden" name="domains" value="www.tribuneindia.com">
+            <input type="hidden" name="sitesearch" value="www.tribuneindia.com">
+            <input type="text" name="q" placeholder="Search For News" id="txtSearch">
+            <button type="submit" class="search-button">Search</button>
+        </form>
+    </div>
+</div>
+
+
+    <div class="sub-categories">
+    <div class="row">
+        <div class="col">
+            <ul class="row submenu-categories top-categories">
+                <li class="list-col">
+                    <h3><a href="/">Home</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/news/nation">Nation</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/news/world">World</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/news/sports">Sports</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/news/business">Business</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/news/features">Features</a></h3>
+                </li>
+                <li class="list-col display_none">
+                    <h3><a href="/archive">Archive</a></h3>
+
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="sub-categories">
+    <div class="row">
+        <div class="col">
+            <ul class="row submenu-categories top-categories menu-categories">
+                <li class="list-col">
+                    <h3 class="no-link">States</h3>
+                </li>
+                <li class="list-col">
+                    <h3 class="no-link">Cities</h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/news/opinion">Opinion</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3 class="no-link">Life</h3>
+                </li>
+                <li class="list-col">
+                    <h3 class="no-link">Move Ahead</h3>
+                </li>
+                <li class="list-col tab-res display_none">
+                    <h3><a href="/classified/grommswanted">Classifieds</a></h3>
+                </li>
+                <li class="list-col tab-res">
+                    <h3><a href="/contactus">Reach us</a></h3>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="sub-categories">
+    <div class="row">
+        <div class="list-col">
+            <ul class="submenu-categories">
+                <li>
+                    <a href="/news/state/punjab">Punjab</a>
+                </li>
+                <li>
+                    <a href="/news/state/haryana">Haryana</a>
+                </li>
+                <li>
+                    <a href="/news/state/himachal">Himachal</a>
+                </li>
+                <li>
+                    <a href="/news/state/jandk">J & K</a>
+                </li>
+            </ul>
+        </div>
+        <div class="list-col">
+            <ul class="submenu-categories">
+
+                <li>
+                    <a href="/news/city/amritsar">Amritsar</a>
+                </li>
+                <li>
+                    <a href="/news/city/bathinda">
+                        Bathinda
+                    </a>
+                </li>
+                <li>
+                    <a href="/news/city/chandigarh">Chandigarh</a>
+                </li>
+                <li>
+                    <a href="/news/city/delhi">Delhi</a>
+                </li>
+                <li>
+                    <a href="/news/city/jalandhar">Jalandhar</a>
+
+                </li>
+                <li>
+                    <a href="/news/city/ludhiana">Ludhiana</a>
+                </li>
+                <li>
+                    <a href="/news/city/patiala">Patiala</a>
+                </li>
+            </ul>
+        </div>
+        <div class="list-col">
+            <ul class="submenu-categories">
+
+                <li>
+                    <a href="/news/opinion/editorials">Editorials</a>
+                </li>
+                <li>
+                    <a href="/news/opinion/comments">
+                        Comment
+                    </a>
+                </li>
+                <li>
+                    <a href="/news/opinion/musings">Musings</a>
+                </li>
+                <li>
+                    <a href="/news/opinion/letters?monthYear=May%202020">Letters to the Editor</a>
+                </li>
+                
+            </ul>
+        </div>
+        <div class="list-col">
+            <ul class="submenu-categories">
+                <li>
+                    <a href="/news/special/lifestyle">
+                        Lifestyle
+                    </a>
+                </li>
+                <li>
+                    <a href="/news/special/entertainment">
+                        Entertainment
+
+                    </a>
+                </li>
+                <li>
+                    <a href="/news/reviews/movies">Movie Reviews</a>
+                </li>
+                <li>
+                    <a href="/news/special/pollywood">Pollywood</a>
+                </li>
+                <li>
+                    <a href="/news/special/arts">Arts</a>
+                </li>
+                <li>
+                    <a href="/news/reviews/books">Book Reviews</a>
+                </li>
+            </ul>
+        </div>
+        <div class="list-col">
+            <ul class="submenu-categories">
+
+                <li>
+                    <a href="/news/jobs%26careers">Jobs & Careers</a>
+                </li>
+                <li>
+                    <a href="/news/health">
+                        Health
+                    </a>
+                </li>
+                <li>
+                    <a href="/news/science%26technology">Technology</a>
+                </li>
+                <li>
+                    <a href="/horoscope/aries">Calendar</a>
+                </li>
+                <li>
+                    <a href="/news/coronavirus">Coronavirus</a>
+                </li>
+            </ul>
+        </div>
+        <div class="list-col tab-col display_none">
+            <ul class="submenu-categories tab-res">
+
+                <li>
+                    <a href="/classified/brideswanted">Brides wanted</a>
+                </li>
+                <li>
+                    <a href="/classified/groomswanted">
+                        Grooms Wanted
+                    </a>
+                </li>
+                <li>
+                    <a href="/classified/other">Other Classifieds</a>
+                </li>
+                <li>
+                    <a href="/advertise">
+                        Book Classifieds
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+        <div class="list-col tab-col">
+            <ul class="submenu-categories tab-res">
+
+                <li>
+                    <a href="/aboutus">About Us</a>
+                </li>
+                <li>
+                    <a href="https://epaper.tribuneindia.com/">
+                        The Tribune Epaper
+                    </a>
+                </li>
+                <li>
+                    <a href="https://play.google.com/store/search?q=tribune&c=apps">Download The Tribune App - Android</a>
+                </li>
+                <li>
+                    <a href="https://apps.apple.com/in/app/the-tribune/id624916251">Download The Tribune App - Ios</a>
+                </li>
+                <li>
+                    <a href="https://www.punjabitribuneonline.com/">Punjabi Tribune online </a>
+                </li>
+                <li>
+                    <a href="https://epaper.punjabitribuneonline.com/">Punjabi Tribune Epaper</a>
+                </li>
+                <li>
+                    <a href="https://play.google.com/store/apps/details?id=com.readwhere.whitelabel.punjabitribune">Punjabi Tribune App – Android</a>
+                </li>
+                <li>
+                    <a href="https://apps.apple.com/au/app/punjabi-tribune-newspaper/id910484023">Punjabi Tribune App – Ios</a>
+                </li>
+                <li>
+                    <a href="https://www.dainiktribuneonline.com/">Dainik Tribune online</a>
+                </li>
+                <li>
+                    <a href="https://epaper.dainiktribuneonline.com/">Dainik Tribune Epaper</a>
+                </li>
+                <li>
+                    <a href="https://play.google.com/store/search?q=tribune&c=apps">Dainik Tribune App – Android</a>
+                </li>
+                <li>
+                    <a href="/rate3"> Subscribe Print Edition</a>
+                </li>
+                <li>
+                    <a href="/contactus">Contact Us</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="sub-categories tab-menu">
+    <div class="row">
+        <div class="col">
+            <ul class="row submenu-categories top-categories menu-categories tab-menu">
+                <li class="list-col">
+                    <h3><a href="/classified/groomswanted">Classifieds</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/contactus">Reach us</a></h3>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="sub-categories tab-menu">
+    <div class="row">
+        <div class="list-col">
+            <ul class="submenu-categories">
+
+                <li>
+                    <a href="/classified/brideswanted">Brides wanted</a>
+                </li>
+                <li>
+                    <a href="/classified/groomswanted">
+                        Grooms Wanted
+                    </a>
+                </li>
+                <li>
+                    <a href="/classified/other">Other Classifieds</a>
+                </li>
+                <li>
+                    <a href="">
+                        Book
+                        Classifieds
+                    </a>
+                </li>
+                <li>
+                    <a href="/advertise">
+                        Advertise with Us
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+        <div class="list-col">
+            <ul class="submenu-categories">
+
+                <li>
+                    <a href="/aboutus">About Us</a>
+                </li>
+                <li>
+                    <a href="#">
+                        The Tribune Epaper
+                    </a>
+                </li>
+                <li>
+                    <a href="#">Download The Tribune App - Android Ios</a>
+                </li>
+                <li>
+                    <a href="#">Punjabi Tribune online </a>
+                </li>
+                <li>
+                    <a href="#">Punjabi Tribune Epaper</a>
+                </li>
+                <li>
+                    <a href="#">Punjabi Tribune App – Android Ios </a>
+                </li>
+                <li>
+                    <a href="#">Dainik Tribune online</a>
+                </li>
+                <li>
+                    <a href="#">Dainik Tribune Epaper</a>
+                </li>
+                <li>
+                    <a href="#">Dainik Tribune App – Android Ios</a>
+                </li>
+                <li>
+                    <a href="/rate3"> Subscribe Print Edition</a>
+                </li>
+                <li>
+                    <a href="/contactus">Contact Us</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+   
+
+</div>
+
+                    </li>
+                    <li>
+                        <a href="/" class="font-18"><i class="fas fa-home"></i></a>
+                    </li>
+                    <li class="dropdown">
+                        <button class="dropbtn">
+                            <i class="fas fa-search"></i>
+                        </button>
+                        <div class="dropdown-content">
+                            <div class="header">
+    <div class="search-container">
+
+        <form action="https://www.google.com/search?domains=www.tribuneindia.com&sitesearch=www.tribuneindia.com" method="get" target="_blank">
+            <input type="hidden" name="domains" value="www.tribuneindia.com">
+            <input type="hidden" name="sitesearch" value="www.tribuneindia.com">
+            <input type="text" name="q" placeholder="Search For News" id="txtSearch">
+            <button type="submit" class="search-button">Search</button>
+        </form>
+    </div>
+</div>
+
+
+                        </div>
+
+                    </li>
+
+                    <li>
+                        <a href="/news/coronavirus">Coronavirus</a>
+                    </li>
+                    <li>
+                        <a href="/news/nation" class="font-18">Nation</a>
+                    </li>
+                    <li>
+                        <a href="/news/world" class="font-18">World</a>
+                    </li>
+                    <li class="dropdown small-dropdown" data-name="states">
+                        <button class="dropbtn">
+                            States
+                            <i class="fas fa-angle-down"></i>
+                        </button>
+                        <div class="dropdown-content">
+
+
+                            <ul class="submenu-categories">
+                                <li>
+                                    <a href="/news/state/punjab">Punjab</a>
+                                </li>
+                                <li>
+                                    <a href="/news/state/haryana">
+                                        Haryana
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/news/state/himachal">Himachal</a>
+                                </li>
+                                <li>
+                                    <a href="/news/state/jandk">J & K</a>
+                                </li>
+
+
+                            </ul>
+
+                        </div>
+                    </li>
+                    <li class="dropdown small-dropdown" data-name="cities">
+                        <button class="dropbtn">
+                            Cities
+                            <i class="fas fa-angle-down"></i>
+                        </button>
+                        <div class="dropdown-content">
+
+                            <ul class="submenu-categories">
+
+                                <li>
+                                    <a href="/news/city/amritsar">Amritsar</a>
+                                </li>
+                                <li>
+                                    <a href="/news/city/bathinda">
+                                        Bathinda
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/news/city/chandigarh">Chandigarh</a>
+                                </li>
+                                <li>
+                                    <a href="/news/city/delhi">Delhi</a>
+                                </li>
+                                <li>
+                                    <a href="/news/city/jalandhar">Jalandhar</a>
+                                </li>
+                                <li>
+                                    <a href="/news/city/ludhiana">Ludhiana</a>
+                                </li>
+                                <li>
+                                    <a href="/news/city/patiala">Patiala</a>
+                                </li>
+                            </ul>
+
+                        </div>
+                    </li>
+                    <li>
+                        <a href="/news/opinion" class="font-18">Opinion</a>
+                    </li>
+                    
+
+                    <li>
+                        <a href="/news/business" class="font-18">Business</a>
+                    </li>
+                    <li>
+                        <a href="/news/features" class="font-18">Features</a>
+                    </li>
+                    <li>
+                        <a href="/news/diaspora" class="font-18">
+                            Diaspora
+                        </a>
+                    </li>
+                    <li class="dropdown" data-name="more">
+                        <button class="dropbtn">
+                            More
+                            <i class="fas fa-angle-down"></i>
+                        </button>
+                        <div class="dropdown-content">
+   <div class="header">
+    <div class="search-container">
+
+        <form action="https://www.google.com/search?domains=www.tribuneindia.com&sitesearch=www.tribuneindia.com" method="get" target="_blank">
+            <input type="hidden" name="domains" value="www.tribuneindia.com">
+            <input type="hidden" name="sitesearch" value="www.tribuneindia.com">
+            <input type="text" name="q" placeholder="Search For News" id="txtSearch">
+            <button type="submit" class="search-button">Search</button>
+        </form>
+    </div>
+</div>
+
+
+    <div class="sub-categories">
+    <div class="row">
+        <div class="col">
+            <ul class="row submenu-categories top-categories">
+                <li class="list-col">
+                    <h3><a href="/">Home</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/news/nation">Nation</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/news/world">World</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/news/sports">Sports</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/news/business">Business</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/news/features">Features</a></h3>
+                </li>
+                <li class="list-col display_none">
+                    <h3><a href="/archive">Archive</a></h3>
+
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="sub-categories">
+    <div class="row">
+        <div class="col">
+            <ul class="row submenu-categories top-categories menu-categories">
+                <li class="list-col">
+                    <h3 class="no-link">States</h3>
+                </li>
+                <li class="list-col">
+                    <h3 class="no-link">Cities</h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/news/opinion">Opinion</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3 class="no-link">Life</h3>
+                </li>
+                <li class="list-col">
+                    <h3 class="no-link">Move Ahead</h3>
+                </li>
+                <li class="list-col tab-res display_none">
+                    <h3><a href="/classified/grommswanted">Classifieds</a></h3>
+                </li>
+                <li class="list-col tab-res">
+                    <h3><a href="/contactus">Reach us</a></h3>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="sub-categories">
+    <div class="row">
+        <div class="list-col">
+            <ul class="submenu-categories">
+                <li>
+                    <a href="/news/state/punjab">Punjab</a>
+                </li>
+                <li>
+                    <a href="/news/state/haryana">Haryana</a>
+                </li>
+                <li>
+                    <a href="/news/state/himachal">Himachal</a>
+                </li>
+                <li>
+                    <a href="/news/state/jandk">J & K</a>
+                </li>
+            </ul>
+        </div>
+        <div class="list-col">
+            <ul class="submenu-categories">
+
+                <li>
+                    <a href="/news/city/amritsar">Amritsar</a>
+                </li>
+                <li>
+                    <a href="/news/city/bathinda">
+                        Bathinda
+                    </a>
+                </li>
+                <li>
+                    <a href="/news/city/chandigarh">Chandigarh</a>
+                </li>
+                <li>
+                    <a href="/news/city/delhi">Delhi</a>
+                </li>
+                <li>
+                    <a href="/news/city/jalandhar">Jalandhar</a>
+
+                </li>
+                <li>
+                    <a href="/news/city/ludhiana">Ludhiana</a>
+                </li>
+                <li>
+                    <a href="/news/city/patiala">Patiala</a>
+                </li>
+            </ul>
+        </div>
+        <div class="list-col">
+            <ul class="submenu-categories">
+
+                <li>
+                    <a href="/news/opinion/editorials">Editorials</a>
+                </li>
+                <li>
+                    <a href="/news/opinion/comments">
+                        Comment
+                    </a>
+                </li>
+                <li>
+                    <a href="/news/opinion/musings">Musings</a>
+                </li>
+                <li>
+                    <a href="/news/opinion/letters?monthYear=May%202020">Letters to the Editor</a>
+                </li>
+                
+            </ul>
+        </div>
+        <div class="list-col">
+            <ul class="submenu-categories">
+                <li>
+                    <a href="/news/special/lifestyle">
+                        Lifestyle
+                    </a>
+                </li>
+                <li>
+                    <a href="/news/special/entertainment">
+                        Entertainment
+
+                    </a>
+                </li>
+                <li>
+                    <a href="/news/reviews/movies">Movie Reviews</a>
+                </li>
+                <li>
+                    <a href="/news/special/pollywood">Pollywood</a>
+                </li>
+                <li>
+                    <a href="/news/special/arts">Arts</a>
+                </li>
+                <li>
+                    <a href="/news/reviews/books">Book Reviews</a>
+                </li>
+            </ul>
+        </div>
+        <div class="list-col">
+            <ul class="submenu-categories">
+
+                <li>
+                    <a href="/news/jobs%26careers">Jobs & Careers</a>
+                </li>
+                <li>
+                    <a href="/news/health">
+                        Health
+                    </a>
+                </li>
+                <li>
+                    <a href="/news/science%26technology">Technology</a>
+                </li>
+                <li>
+                    <a href="/horoscope/aries">Calendar</a>
+                </li>
+                <li>
+                    <a href="/news/coronavirus">Coronavirus</a>
+                </li>
+            </ul>
+        </div>
+        <div class="list-col tab-col display_none">
+            <ul class="submenu-categories tab-res">
+
+                <li>
+                    <a href="/classified/brideswanted">Brides wanted</a>
+                </li>
+                <li>
+                    <a href="/classified/groomswanted">
+                        Grooms Wanted
+                    </a>
+                </li>
+                <li>
+                    <a href="/classified/other">Other Classifieds</a>
+                </li>
+                <li>
+                    <a href="/advertise">
+                        Book Classifieds
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+        <div class="list-col tab-col">
+            <ul class="submenu-categories tab-res">
+
+                <li>
+                    <a href="/aboutus">About Us</a>
+                </li>
+                <li>
+                    <a href="https://epaper.tribuneindia.com/">
+                        The Tribune Epaper
+                    </a>
+                </li>
+                <li>
+                    <a href="https://play.google.com/store/search?q=tribune&c=apps">Download The Tribune App - Android</a>
+                </li>
+                <li>
+                    <a href="https://apps.apple.com/in/app/the-tribune/id624916251">Download The Tribune App - Ios</a>
+                </li>
+                <li>
+                    <a href="https://www.punjabitribuneonline.com/">Punjabi Tribune online </a>
+                </li>
+                <li>
+                    <a href="https://epaper.punjabitribuneonline.com/">Punjabi Tribune Epaper</a>
+                </li>
+                <li>
+                    <a href="https://play.google.com/store/apps/details?id=com.readwhere.whitelabel.punjabitribune">Punjabi Tribune App – Android</a>
+                </li>
+                <li>
+                    <a href="https://apps.apple.com/au/app/punjabi-tribune-newspaper/id910484023">Punjabi Tribune App – Ios</a>
+                </li>
+                <li>
+                    <a href="https://www.dainiktribuneonline.com/">Dainik Tribune online</a>
+                </li>
+                <li>
+                    <a href="https://epaper.dainiktribuneonline.com/">Dainik Tribune Epaper</a>
+                </li>
+                <li>
+                    <a href="https://play.google.com/store/search?q=tribune&c=apps">Dainik Tribune App – Android</a>
+                </li>
+                <li>
+                    <a href="/rate3"> Subscribe Print Edition</a>
+                </li>
+                <li>
+                    <a href="/contactus">Contact Us</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="sub-categories tab-menu">
+    <div class="row">
+        <div class="col">
+            <ul class="row submenu-categories top-categories menu-categories tab-menu">
+                <li class="list-col">
+                    <h3><a href="/classified/groomswanted">Classifieds</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/contactus">Reach us</a></h3>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="sub-categories tab-menu">
+    <div class="row">
+        <div class="list-col">
+            <ul class="submenu-categories">
+
+                <li>
+                    <a href="/classified/brideswanted">Brides wanted</a>
+                </li>
+                <li>
+                    <a href="/classified/groomswanted">
+                        Grooms Wanted
+                    </a>
+                </li>
+                <li>
+                    <a href="/classified/other">Other Classifieds</a>
+                </li>
+                <li>
+                    <a href="">
+                        Book
+                        Classifieds
+                    </a>
+                </li>
+                <li>
+                    <a href="/advertise">
+                        Advertise with Us
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+        <div class="list-col">
+            <ul class="submenu-categories">
+
+                <li>
+                    <a href="/aboutus">About Us</a>
+                </li>
+                <li>
+                    <a href="#">
+                        The Tribune Epaper
+                    </a>
+                </li>
+                <li>
+                    <a href="#">Download The Tribune App - Android Ios</a>
+                </li>
+                <li>
+                    <a href="#">Punjabi Tribune online </a>
+                </li>
+                <li>
+                    <a href="#">Punjabi Tribune Epaper</a>
+                </li>
+                <li>
+                    <a href="#">Punjabi Tribune App – Android Ios </a>
+                </li>
+                <li>
+                    <a href="#">Dainik Tribune online</a>
+                </li>
+                <li>
+                    <a href="#">Dainik Tribune Epaper</a>
+                </li>
+                <li>
+                    <a href="#">Dainik Tribune App – Android Ios</a>
+                </li>
+                <li>
+                    <a href="/rate3"> Subscribe Print Edition</a>
+                </li>
+                <li>
+                    <a href="/contactus">Contact Us</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+   
+
+</div>
+                    </li>
+                </ul>
+                <ul class="nav-right">
+                    <li>
+                        <a href="/classified/groomswanted" class="hdr-See-Classifieds pad-15-right">See Classifieds</a>
+                    </li>
+                    <li>
+                        <button class="btn btnad btn-bg" onclick="window.open('/advertise')">Advertise with Us</button>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <a href="#top" class="scrolltop"><span><i class="fas fa-arrow-up"></i></span></a>
+</header>
+        
+        <Section class="adv">
+            <div class="container"></div>
+        </Section>
+        <section class="news-block">
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+                        <div class="ads">
+                                    <ins class="adsbygoogle"
+            style="display:inline-block;width:970px;height:90px"
+            data-ad-client="ca-pub-8115901613940036"
+            data-ad-slot="1642161953"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+          
+
+            <iframe src="https://adxwidgets.readwhere.com/coronainfo?state=punjab&site=tribune" style="position: fixed;bottom: 3px;right: 0px;z-index: 2147483638;height: 160px;width: 334px;border:none;"> </iframe>
+
+
+            
+
+
+
+
+<script src="/Content/js/DetailNews.js"></script>
+
+
+
+
+
+
+<script type="application/ld+json">
+
+
+    {
+    "@context": "https://schema.org/",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": "https://www.tribuneindia.com/"
+    },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Nation",
+    "item": "https://www.tribuneindia.com/news/nation"
+    }]
+    }
+</script>
+
+<script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.tribuneindia.com/news/nation/delhi-cops-probe-instagram-chat-group-boys-locker-room-80563"
+    },
+    "headline": "Delhi cops probe Instagram chat group ‘Boys locker room’",
+    "description": "",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$largeimg_1623299083.jpg",
+    "width": 696,
+    "height": 26
+    },
+    "author": {
+    "@type": "Person",
+    "name": "Tribune India"
+    },
+    "publisher": {
+    "@type": "Organization",
+    "name": "The Tribune India",
+    "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.tribuneindia.com/images/Logo_Left.png",
+    "width": 600,
+    "height": 60
+    }
+    },
+    "datePublished": "5/5/2020 7:12:09 AM",
+    "dateModified": "5/5/2020 7:45:22 AM"
+    }
+</script>
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        RemoveGreyLine();
+        AdjustCaptionWidth();
+
+        var isbold = $('.story-desc p:not(.p-ignore):lt(2)').find("strong").length;
+        var src = $('#hdnSrc').val();
+        if (isbold == 0 && (src == "" || src.toLowerCase() != "print")) {
+            $(".p-ignore").show();
+        }
+
+        BoldPrintNews();
+       
+
+        //Ads placement
+        PlaceAds();
+
+        if ($(".top-img").attr("src") != undefined) {
+            $(".img-container-detail").css({
+                "background": "linear-gradient(0deg,rgba(255,255,255,0.5),rgba(255,255,255,0.5)),url(" + $(".top-img").attr("src").replace(" ", "%20") + ")",
+                "background-size": "cover"
+            });
+        }
+
+        $('.story-desc p a').css("color", "#0000FF");
+        //AddRelatedNews();
+        //RemoveEmptyPara();
+
+      
+
+    });
+
+   
+
+    function LikeNews(obj, isLike) {
+        if ($(obj).hasClass("disabled-link") == false) {
+            $(obj).addClass("disabled-link");
+            if (isLike) {
+                $('.dislike-news a').addClass("disabled-link");
+            } else {
+                $('.like-news a').addClass("disabled-link");
+            }
+            $(obj).css("color", "#0056b3");
+
+            AddLikeCount(80563, isLike);
+        }
+    }
+
+
+    function AddRelatedNews() {
+        var news = $($('.news-wrap-block')[0]).next().text().trim();
+        var relatedNews = new Array();
+             var dataObj = {};
+             dataObj.Id = 80675;
+             dataObj.Headline = "Death toll due to COVID-19 rises to 1,568; number of cases climb to 46,433";
+              dataObj.CategoryName = "nation";
+             relatedNews.push(dataObj);
+             var dataObj = {};
+             dataObj.Id = 80700;
+             dataObj.Headline = "Covid-19: SC dismisses former UP DGP's PIL seeking quashing of lockdown violation FIRs";
+              dataObj.CategoryName = "nation";
+             relatedNews.push(dataObj);
+             var dataObj = {};
+             dataObj.Id = 80709;
+             dataObj.Headline = "#BoysLockerRoom: Delhi schoolboy nabbed for shocking insta group chat that spoke of girl's rape";
+              dataObj.CategoryName = "nation";
+             relatedNews.push(dataObj);
+             var dataObj = {};
+             dataObj.Id = 80710;
+             dataObj.Headline = "Fear of Covid-19, hefty corona fee on liquor fail to deter tipplers";
+              dataObj.CategoryName = "nation";
+             relatedNews.push(dataObj);
+             var dataObj = {};
+             dataObj.Id = 80711;
+             dataObj.Headline = "No community transmission of Covid-19, says Health Minister";
+              dataObj.CategoryName = "nation";
+             relatedNews.push(dataObj);
+
+
+
+        if (true == true) {
+            $.ajax({
+                type: "POST",
+                url: "/Home/RelatedNews",
+                data: JSON.stringify(relatedNews),
+                async: false,
+                contentType: 'application/json; charset=utf-8',
+
+                success: function(response) {
+
+                    var pLength = $('.story-desc').children('p').length;
+                    if (pLength> 4) {
+                        $('.story-desc').children('p:eq(3)').append(response);
+                    } else {
+                        pLength = pLength - 1;
+                        $('.story-desc').children('p:eq(' + parseInt(pLength) + ')').append(response);
+                    }
+                   
+                },
+                error: function(xhr, error) {
+
+                }
+            });
+        }
+    }
+
+</script>
+<div id="googleads" style="display:none">
+           <ins class="adsbygoogle"
+            style="display:inline-block;width:728px;height:90px"
+            data-ad-client="ca-pub-8115901613940036"
+            data-ad-slot="3459492124"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+
+</div>
+
+
+            <div class="icon-bar fixed">
+                <ul>
+                    <li class="width-45 grey share-text down">
+                        <a href = "javascript:down()">
+                            <p>
+                                A
+                                <span> -</span>
+                            </p>
+                        </a>
+                    <li>
+                    <li class="width-45 dark-blue share-text up">
+                        <a href = "javascript:up()">
+                            <p>
+                                A
+                                <span> +</span>
+                            <p>
+                        </a>
+                    <li>
+
+                </ul>
+            </div>
+            <section class="heading-block">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12 news-detail-page-header">
+                            
+
+
+<div class="breadcrumbs-block">
+    <ul class="breadcrumb">
+        <li class="breadcrumb-item">
+            <a href="/">
+                <i class="fas fa-home"></i>
+            </a>
+        </li>
+
+        
+                <li class="breadcrumb-item">
+                        <a href="/news/nation">Nation</a>
+
+                </li>
+    </ul>
+</div>
+
+<div class="glb-heading">
+        <h1>Delhi cops probe Instagram chat group ‘Boys locker room’</h1>
+        <p></p>
+</div>
+<div class="share-info">
+    <div class="row">
+        <div class="col-lg-7 col-md-12 col-sm-12">
+            <div class="share-article">
+                <span class="share-text">SHARE ARTICLE</span>
+                <div class="addthis_inline_share_toolbox_2n9o share-div-45"></div>
+
+                <div class="icon-bar">
+                    <ul>
+                        <li class="width-45 grey share-text down">
+                            <a href="javascript:down()">
+                                <p>
+                                    A
+                                    <span>-</span>
+                                </p>
+                            </a>
+                        </li>
+                        <li class="width-45 dark-blue share-text up">
+                            <a href="javascript:up()">
+                                <p>
+                                    A
+                                    <span>+</span>
+                                </p>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+
+            </div>
+        </div>
+        <div class="col-lg-5 col-md-12 col-sm-12">
+            <div class="time-share">
+                <ul>
+                    <li>
+                        <p>
+                            <strong>Posted:</strong>
+
+                            <span>
+                                <i class="fa fa-calendar" aria-hidden="true"></i>May 05, 2020
+                            </span>
+                            <!--dynamic time-->
+                            <span class="time">07:12 AM (IST)</span>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <strong>Updated :</strong>
+                            <span>
+                                    <i class="far fa-clock"></i>7 hours ago                            </span>
+                        </p>
+                    </li>
+                </ul>
+
+                <ul>
+                    <li>
+                        <a>
+                            <span>
+
+                                <i class="fa fa-eye" aria-hidden="true"></i>7273
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <span>
+                                <i class="fa fa-comments" aria-hidden="true"></i><span class="fb-comments-count" data-href="https://www.tribuneindia.com/news/delhi-cops-probe-instagram-chat-group-boys-locker-room-80563"></span>
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <span>
+
+                                <i class="far fa-thumbs-up"></i>0
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <span>
+
+                                <i class="far fa-thumbs-down"></i>0
+                            </span>
+                        </a>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="container news-detail-page" id="content">
+
+
+                <input type="hidden" value="Website" id="hdnSrc" />
+
+                <!--Sharing Icons (Add this)-->
+                <script type="text/javascript" async="async" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b3b087fe0a0d975"></script>
+
+                <div class="row">
+
+                    
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        if ($('#author-desc').length > 0) {
+            $('#author-name').css("margin-bottom", "5px");
+        }
+
+        SetStorySize();
+    });
+</script>
+<div class="col-lg-8 col-md-12 col-sm-12">
+
+    <div class="news-area">
+        
+
+        <div class="img-container-detail">
+            <img class="img-fluid top-img" src="https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$largeimg_1623299083.jpg" alt="Delhi cops probe Instagram chat group ‘Boys locker room’">
+        </div>
+
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="story-desc">
+                    
+
+
+<p class="p-ignore" id="author-name" style="display: block;margin-bottom: 1px;">
+            <b></b>
+
+</p>
+
+
+<p class="p-ignore">
+    <b>
+        
+    </b>
+</p>
+
+
+
+                    <p><span style=";">New Delhi, May 4</span></p>
+<p>The police, which on Monday initiated a probe against the Instagram chat group &ldquo;Boys Locker Room&rdquo;, have asked the photo sharing app to share the details of all participants in the group where photos of underage girls were being shared and objectified.</p>
+<p>Anish Roy, Deputy Commissioner of Police (DCP), Cyber Crime, said, &ldquo;We have asked Instagram to share the details of the members and admin of the said group, including their names, IP addresses etc.&rdquo; Leaked screenshots of the private Instagram chat group kicked up a storm over culture in India after numerous boys were allegedly seen sharing photos of underage girls, objectifying them, and planning &lsquo;gang rapes&rsquo;.</p>
+<p>Earlier in the day, the Cyber Crime Cell of the Delhi Police initiated a probe.</p>
+<p>The incident came to light after a girl from south Delhi shared a screenshot on social media, exposing the group and scores of similar groups.</p>
+<p>She wrote, &ldquo;A group of South Delhi guys aged 17-18 types have this IG group named &lsquo;Boy&rsquo;s locker room&rsquo; where objectify and morph pictures of girls their age. Two boys from my school are a part of it.&rdquo; The girl also shared the screenshot of the list of participants of the group and that of their chats where they could be seen sharing pictures of girls and passing comments over them.</p>
+<p>The Delhi Commission for Women too swung into action and issued a notice to the Delhi Police and Instagram over the issue. &ldquo;I saw a screenshot of the &ldquo;Boys Locker Room&rdquo; Instagram group. This is a clear example of a gruesome criminal and rapist mindset,&rdquo; Delhi Commission for Women chief Swati Maliwal said.</p>
+
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="share-info">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <span class="share-text">SHARE ARTICLE</span>
+                <div class="addthis_inline_share_toolbox_2n9o share-div-30"></div>
+                <div class="icon-bar">
+                    <ul>
+                        <li class="width-45 grey share-text down">
+                            <a href="javascript:down()">
+                                <p>
+                                    A
+                                    <span>-</span>
+                                </p>
+                            </a>
+                        </li>
+                        <li class="width-45 dark-blue share-text up">
+                            <a href="javascript:up()">
+                                <p>
+                                    A
+                                    <span>+</span>
+                                </p>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+
+    <div class="horizontal-ads margin-bottom-30">
+               <ins class="adsbygoogle"
+            style="display:inline-block;width:728px;height:90px"
+            data-ad-client="ca-pub-8115901613940036"
+            data-ad-slot="3459492124"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+
+    </div>
+
+
+
+    <div class="like-dislike-area">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 share-feedback">
+                <p>
+                    <b>What do you think?</b> (Share your feedback)
+                </p>
+            </div>
+            <div class="col-lg-3 col-md-3 like-news side-borders">
+                <a onclick="javascript:LikeNews(this,true)">  <i class="far fa-thumbs-up"></i> Like</a>
+            </div>
+            <div class="col-lg-3 col-md-3 dislike-news">
+                <a onclick="javascript:LikeNews(this,false)"> <i class="far fa-thumbs-down"></i> Dislike</a>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+    
+
+
+<div class="most-read-area">
+    <p class="sec-title">Most Read</p>
+    <div class="owl-carousel">
+
+            <div class="item most-read-sec-carousel">
+                <div class="ms-card">
+                    <div class="float-left serial-number">
+                        <span class="mr-number">1</span>
+                    </div>
+                    <div class="most-read-card">
+                            <div class="metadata clearfix">
+            <span class="solid-span-small">Punjab</span>
+            </div>
+
+                        <h4 class="card-title font-14">
+                            
+                                <a href="/news/punjab/video-of-cops-showing-punjabi-singer-sidhu-moosewala-how-to-use-gun-goes-viral-80305" title="Video of cops showing Punjabi singer Sidhu Moosewala how to use gun goes viral">Video of cops showing Punjabi singer Sidhu Moosewala how to use gun goes viral</a>
+                        </h4>
+
+                        
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>21 hours ago
+        </span>
+    </div>
+    
+
+</div>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="item most-read-sec-carousel">
+                <div class="ms-card">
+                    <div class="float-left serial-number">
+                        <span class="mr-number">2</span>
+                    </div>
+                    <div class="most-read-card">
+                            <div class="metadata clearfix">
+            <span class="solid-span-small">Chandigarh</span>
+            </div>
+
+                        <h4 class="card-title font-14">
+                            
+                                <a href="/news/chandigarh/huge-rush-at-liquor-shops-as-lockdown-restrictions-eased-in-chandigarh-80283" title="Huge rush at liquor shops as lockdown restrictions eased in Chandigarh">Huge rush at liquor shops as lockdown restrictions eased in Chandigarh</a>
+                        </h4>
+
+                        
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>24 hours ago
+        </span>
+    </div>
+    
+
+</div>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="item most-read-sec-carousel">
+                <div class="ms-card">
+                    <div class="float-left serial-number">
+                        <span class="mr-number">3</span>
+                    </div>
+                    <div class="most-read-card">
+                            <div class="metadata clearfix">
+            <span class="solid-span-small">Punjab</span>
+            </div>
+
+                        <h4 class="card-title font-14">
+                            
+                                <a href="/news/punjab/punjab-stares-at-crisis-8-3-lakh-migrants-prepare-to-leave-80488" title="Punjab stares at crisis, 8.3 lakh migrants prepare to leave">Punjab stares at crisis, 8.3 lakh migrants prepare to leave</a>
+                        </h4>
+
+                        
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="item most-read-sec-carousel">
+                <div class="ms-card">
+                    <div class="float-left serial-number">
+                        <span class="mr-number">4</span>
+                    </div>
+                    <div class="most-read-card">
+                            <div class="metadata clearfix">
+            <span class="solid-span-small">Punjab</span>
+            </div>
+
+                        <h4 class="card-title font-14">
+                            
+                                <a href="/news/punjab/punjab-okays-home-delivery-of-liquor-80561" title="Punjab okays home delivery of liquor">Punjab okays home delivery of liquor</a>
+                        </h4>
+
+                        
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="item most-read-sec-carousel">
+                <div class="ms-card">
+                    <div class="float-left serial-number">
+                        <span class="mr-number">5</span>
+                    </div>
+                    <div class="most-read-card">
+                            <div class="metadata clearfix">
+            <span class="solid-span-small">Haryana</span>
+            </div>
+
+                        <h4 class="card-title font-14">
+                            
+                                <a href="/news/haryana/ambala-records-highest-single-day-spike-sees-23-new-cases-80311" title="Ambala records highest single-day spike, sees 23 new cases">Ambala records highest single-day spike, sees 23 new cases</a>
+                        </h4>
+
+                        
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>20 hours ago
+        </span>
+    </div>
+    
+
+</div>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="item most-read-sec-carousel">
+                <div class="ms-card">
+                    <div class="float-left serial-number">
+                        <span class="mr-number">6</span>
+                    </div>
+                    <div class="most-read-card">
+                            <div class="metadata clearfix">
+            <span class="solid-span-small">Nation</span>
+            </div>
+
+                        <h4 class="card-title font-14">
+                            
+                                <a href="/news/nation/fir-against-arnab-goswami-for-alleged-hate-speech-80302" title="FIR against Arnab Goswami for alleged hate speech">FIR against Arnab Goswami for alleged hate speech</a>
+                        </h4>
+
+                        
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>21 hours ago
+        </span>
+    </div>
+    
+
+</div>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="item most-read-sec-carousel">
+                <div class="ms-card">
+                    <div class="float-left serial-number">
+                        <span class="mr-number">7</span>
+                    </div>
+                    <div class="most-read-card">
+                            <div class="metadata clearfix">
+            <span class="solid-span-small">J &amp; K</span>
+            </div>
+
+                        <h4 class="card-title font-14">
+                            
+                                <a href="/news/j-k/three-crpf-personnel-killed-in-militant-attack-in-handwara-80306" title="Three CRPF personnel killed in militant attack in Handwara">Three CRPF personnel killed in militant attack in Handwara</a>
+                        </h4>
+
+                        
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>21 hours ago
+        </span>
+    </div>
+    
+
+</div>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="item most-read-sec-carousel">
+                <div class="ms-card">
+                    <div class="float-left serial-number">
+                        <span class="mr-number">8</span>
+                    </div>
+                    <div class="most-read-card">
+                            <div class="metadata clearfix">
+            <span class="solid-span-small">Punjab</span>
+            </div>
+
+                        <h4 class="card-title font-14">
+                            
+                                <a href="/news/punjab/sukhbir-blasts-digvijay-amarinder-for-demonising-sikh-pilgrims-80319" title="Sukhbir blasts Digvijay, Amarinder for ‘demonising’ Sikh pilgrims">Sukhbir blasts Digvijay, Amarinder for ‘demonising’ Sikh pilgrims</a>
+                        </h4>
+
+                        
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>19 hours ago
+        </span>
+    </div>
+    
+
+</div>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="item most-read-sec-carousel">
+                <div class="ms-card">
+                    <div class="float-left serial-number">
+                        <span class="mr-number">9</span>
+                    </div>
+                    <div class="most-read-card">
+                            <div class="metadata clearfix">
+            <span class="solid-span-small">Nation</span>
+            </div>
+
+                        <h4 class="card-title font-14">
+                            
+                                <a href="/news/nation/covid-19-special-evacuation-flights-for-indians-stuck-in-us-to-operate-this-week-80677" title="Covid-19: Special evacuation flights for Indians stuck in US to operate this week">Covid-19: Special evacuation flights for Indians stuck in US to operate this week</a>
+                        </h4>
+
+                        
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>5 hours ago
+        </span>
+    </div>
+    
+
+</div>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="item most-read-sec-carousel">
+                <div class="ms-card">
+                    <div class="float-left serial-number">
+                        <span class="mr-number">10</span>
+                    </div>
+                    <div class="most-read-card">
+                            <div class="metadata clearfix">
+            <span class="solid-span-small">Nation</span>
+            </div>
+
+                        <h4 class="card-title font-14">
+                            
+                                <a href="/news/nation/woman-freelance-journalist-commits-suicide-sp-leader-held-80685" title="Woman freelance journalist commits suicide, SP leader held">Woman freelance journalist commits suicide, SP leader held</a>
+                        </h4>
+
+                        
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>4 hours ago
+        </span>
+    </div>
+    
+
+</div>
+
+
+                    </div>
+                </div>
+            </div>
+    </div>
+
+
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="horizontal-ads margin-bottom-30">
+                   <ins class="adsbygoogle"
+            style="display:inline-block;width:728px;height:90px"
+            data-ad-client="ca-pub-8115901613940036"
+            data-ad-slot="3459492124"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+
+        </div>
+    </div>
+</div>
+
+
+    <div class="dont-miss-area">
+        <p class="sec-title">Don't Miss</p>
+        <div class="dont-miss-cards">
+                <div class="card">
+                    
+
+
+<script type="text/javascript">
+    
+</script>
+
+
+        <a href="/news/entertainment/ar-rahman-grieves-loss-of-rishi-kapoor-irrfan-khan-80688">
+
+
+                <div class="news-img-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_131047523.jpg" id="news_80688">
+                    <img class="img-fluid card-img-top thumb-img lazy" src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_131047523.jpg" alt="AR Rahman grieves loss of Rishi Kapoor, Irrfan Khan">
+                </div>
+        </a>
+
+
+
+
+                    <div class="card-body">
+                        <div class="metadata clearfix">
+                                <span class="solid-span-small">Entertainment</span>
+                            
+                        </div>
+                        <h4 class="card-title">
+                                <a href="/news/entertainment/ar-rahman-grieves-loss-of-rishi-kapoor-irrfan-khan-80688" title="AR Rahman grieves loss of Rishi Kapoor, Irrfan Khan">AR Rahman grieves loss of Rishi Kapoor, Irrfan Khan</a>
+                        </h4>
+                        
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>4 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                    </div>
+                </div>
+                <div class="card">
+                    
+
+
+<script type="text/javascript">
+    
+</script>
+
+
+        <a href="/news/chandigarh/super-spreaders-slow-down-chandigarhs-recovery-rate-80401">
+
+
+                <div class="news-img-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$thumbimg_424999368.jpg" id="news_80401">
+                    <img class="img-fluid card-img-top thumb-img lazy" src="https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$thumbimg_424999368.jpg" alt="‘Super-spreaders’ slow down Chandigarh’s recovery rate">
+                </div>
+        </a>
+
+
+
+
+                    <div class="card-body">
+                        <div class="metadata clearfix">
+                                <span class="solid-span-small">Chandigarh</span>
+                            
+                        </div>
+                        <h4 class="card-title">
+                                <a href="/news/chandigarh/super-spreaders-slow-down-chandigarhs-recovery-rate-80401" title="‘Super-spreaders’ slow down Chandigarh’s recovery rate">‘Super-spreaders’ slow down Chandigarh’s recovery rate</a>
+                        </h4>
+                        
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                    </div>
+                </div>
+                <div class="card">
+                    
+
+
+<script type="text/javascript">
+    
+</script>
+
+
+        <a href="/news/chandigarh/miss-my-family-but-peoples-safety-comes-first-says-cop-80436">
+
+
+                <div class="news-img-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$thumbimg_1692577357.jpg" id="news_80436">
+                    <img class="img-fluid card-img-top thumb-img lazy" src="https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$thumbimg_1692577357.jpg" alt="Miss my family, but people’s safety comes first, says cop">
+                </div>
+        </a>
+
+
+
+
+                    <div class="card-body">
+                        <div class="metadata clearfix">
+                                <span class="solid-span-small">Chandigarh</span>
+                                                            <span class="red-font">Frontline warriors</span>
+
+                        </div>
+                        <h4 class="card-title">
+                                <a href="/news/chandigarh/miss-my-family-but-peoples-safety-comes-first-says-cop-80436" title="Miss my family, but people’s safety comes first, says cop">Miss my family, but people’s safety comes first, says cop</a>
+                        </h4>
+                        
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                    </div>
+                </div>
+                <div class="card">
+                    
+
+
+<script type="text/javascript">
+    
+</script>
+
+
+        <a href="/news/sports/kohli-rohit-sania-take-part-in-online-concert-to-raise-funds-for-covid-19-pandemic-79895">
+
+
+                <div class="news-img-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_313226511.jpg" id="news_79895">
+                    <img class="img-fluid card-img-top thumb-img lazy" src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_313226511.jpg" alt="Kohli, Rohit, Sania take part in online concert to raise funds for COVID-19 pandemic">
+                </div>
+        </a>
+
+
+
+
+                    <div class="card-body">
+                        <div class="metadata clearfix">
+                                <span class="solid-span-small">Sports</span>
+                            
+                        </div>
+                        <h4 class="card-title">
+                                <a href="/news/sports/kohli-rohit-sania-take-part-in-online-concert-to-raise-funds-for-covid-19-pandemic-79895" title="Kohli, Rohit, Sania take part in online concert to raise funds for COVID-19 pandemic">Kohli, Rohit, Sania take part in online concert to raise funds for COVID-19 pandemic</a>
+                        </h4>
+                        
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>1 day ago
+        </span>
+    </div>
+    
+
+</div>
+                    </div>
+                </div>
+                <div class="card">
+                    
+
+
+<script type="text/javascript">
+    
+</script>
+
+
+        <a href="/news/entertainment/tracing-irrfan-khans-early-days-a-private-person-and-caring-flatmate-79846">
+
+
+                <div class="news-img-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_1291475539.jpg" id="news_79846">
+                    <img class="img-fluid card-img-top thumb-img lazy" src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_1291475539.jpg" alt="Tracing Irrfan Khan’s early days: A private person and caring flatmate">
+                </div>
+        </a>
+
+
+
+
+                    <div class="card-body">
+                        <div class="metadata clearfix">
+                                <span class="solid-span-small">Entertainment</span>
+                            
+                        </div>
+                        <h4 class="card-title">
+                                <a href="/news/entertainment/tracing-irrfan-khans-early-days-a-private-person-and-caring-flatmate-79846" title="Tracing Irrfan Khan’s early days: A private person and caring flatmate">Tracing Irrfan Khan’s early days: A private person and caring flatmate</a>
+                        </h4>
+                        
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>1 day ago
+        </span>
+    </div>
+    
+
+</div>
+                    </div>
+                </div>
+                <div class="card">
+                    
+
+
+<script type="text/javascript">
+    
+</script>
+
+
+        <a href="/news/entertainment/simplicity-should-be-the-way-of-life-dharmendra-on-lockdown-79845">
+
+
+                <div class="news-img-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_1903003117.jpg" id="news_79845">
+                    <img class="img-fluid card-img-top thumb-img lazy" src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_1903003117.jpg" alt="Simplicity should be the way of life: Dharmendra on lockdown">
+                </div>
+        </a>
+
+
+
+
+                    <div class="card-body">
+                        <div class="metadata clearfix">
+                                <span class="solid-span-small">Entertainment</span>
+                            
+                        </div>
+                        <h4 class="card-title">
+                                <a href="/news/entertainment/simplicity-should-be-the-way-of-life-dharmendra-on-lockdown-79845" title="Simplicity should be the way of life: Dharmendra on lockdown">Simplicity should be the way of life: Dharmendra on lockdown</a>
+                        </h4>
+                        
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>1 day ago
+        </span>
+    </div>
+    
+
+</div>
+                    </div>
+                </div>
+                <div class="card">
+                    
+
+
+<script type="text/javascript">
+    
+</script>
+
+
+        <a href="/news/entertainment/irrfan-khan-a-directors-delight-79799">
+
+
+                <div class="news-img-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_1126434023.jpg" id="news_79799">
+                    <img class="img-fluid card-img-top thumb-img lazy" src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_1126434023.jpg" alt="Irrfan Khan, a director’s delight">
+                </div>
+        </a>
+
+
+
+
+                    <div class="card-body">
+                        <div class="metadata clearfix">
+                                <span class="solid-span-small">Entertainment</span>
+                            
+                        </div>
+                        <h4 class="card-title">
+                                <a href="/news/entertainment/irrfan-khan-a-directors-delight-79799" title="Irrfan Khan, a director’s delight">Irrfan Khan, a director’s delight</a>
+                        </h4>
+                        
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>2 days ago
+        </span>
+    </div>
+    
+
+</div>
+                    </div>
+                </div>
+                <div class="card">
+                    
+
+
+<script type="text/javascript">
+    
+</script>
+
+
+        <a href="/news/entertainment/punjab-in-rishi-kapoors-veins-79767">
+
+
+                <div class="news-img-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/Cropped/2020_5$thumbimg_1425677239.png" id="news_79767">
+                    <img class="img-fluid card-img-top thumb-img lazy" src="https://cms.tribuneindia.com/gallary_content/2020/5/Cropped/2020_5$thumbimg_1425677239.png" alt="Punjab in Rishi Kapoor’s veins">
+                </div>
+        </a>
+
+
+
+
+                    <div class="card-body">
+                        <div class="metadata clearfix">
+                                <span class="solid-span-small">Entertainment</span>
+                            
+                        </div>
+                        <h4 class="card-title">
+                                <a href="/news/entertainment/punjab-in-rishi-kapoors-veins-79767" title="Punjab in Rishi Kapoor’s veins">Punjab in Rishi Kapoor’s veins</a>
+                        </h4>
+                        
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>2 days ago
+        </span>
+    </div>
+    
+
+</div>
+                    </div>
+                </div>
+        </div>
+
+    </div>
+
+
+</div>
+                    <!--Side Block Start-->
+                    <div class="col-lg-4 col-md-12 col-sm-12">
+                        
+
+
+
+
+   
+
+<div class="adv">
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:336px;height:280px"
+             data-ad-client="ca-pub-8115901613940036"
+             data-ad-slot="9908474918"></ins>
+ <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+</div>
+
+
+<div class="follow">
+    <div class="heading">
+        <h2>Follow Us</h2>
+    </div>
+    <div class="follow-list">
+        <ul class="">
+            <li class="twitter">
+                <a href="https://twitter.com/thetribunechd" target="_blank">
+                    <i class="fab fa-twitter"></i>
+                </a>
+            </li>
+            <li class="facebook">
+                <a href="https://www.facebook.com/TheTribuneChd/" target="_blank">
+                    <i class="fab fa-facebook-f"></i>
+                </a>
+            </li>
+            <li class="youtube">
+                <a href="https://www.youtube.com/c/thetribunechd/" target="_blank">
+                    <i class="fab fa-youtube"></i>
+                </a>
+            </li>
+            <li class="insta">
+                <a href="https://www.instagram.com/thetribunechd/" target="_blank">
+                    <i class="fab fa-instagram"></i>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+            <div class="top-stories site-view-images">
+                <div class="heading stories-heading">
+                    <h2 class="head-text">Top Stories</h2>
+
+                </div>
+                    <div class="news-card">
+                        
+
+
+<script type="text/javascript">
+    
+</script>
+
+
+        <a href="/news/nation/no-community-transmission-of-covid-19-says-health-minister-80711">
+
+
+                <div class="news-img-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_653979362.jpg" id="news_80711">
+                    <img class="img-fluid card-img-top thumb-img lazy" src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_653979362.jpg" alt="No community transmission of Covid-19, says Health Minister" title="Harsh Vardhan. File">
+                </div>
+        </a>
+
+
+
+
+                        <div class="news-body">
+                            <p class="headline">
+                                
+
+    <a href="/news/nation/no-community-transmission-of-covid-19-says-health-minister-80711" title="No community transmission of Covid-19, says Health Minister" class="card-top-align">
+        No community transmission of Covid-19, says Health Minister
+    </a>
+
+                            </p>
+                            <p class="sub-headline">Behavioural changes may be new &#39;healthy&#39; normal: Harsh Vardh...</p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>46 mins ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+
+                    </div>
+                    <div class="news-card">
+                        
+
+
+<script type="text/javascript">
+    
+</script>
+
+
+        <a href="/news/punjab/coronavirus-punjab-reports-66-new-cases-state-tally-rises-to-1-298-80681">
+
+
+                <div class="news-img-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_1543766853.JPG" id="news_80681">
+                    <img class="img-fluid card-img-top thumb-img lazy" src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_1543766853.JPG" alt="Coronavirus: Punjab reports 66 new cases, state tally rises to 1,298" title="Muktsar reported 15 new cases of the deadly disease, taking the total in the district to 64.">
+                </div>
+        </a>
+
+
+
+
+                        <div class="news-body">
+                            <p class="headline">
+                                
+
+    <a href="/news/punjab/coronavirus-punjab-reports-66-new-cases-state-tally-rises-to-1-298-80681" title="Coronavirus: Punjab reports 66 new cases, state tally rises to 1,298" class="card-top-align">
+        Coronavirus: Punjab reports 66 new cases, state tally rises to 1,298
+    </a>
+
+                            </p>
+                            <p class="sub-headline">Muktsar reports 15 new cases, Gurdaspur 42, Jalandhar 9</p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>5 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+
+                    </div>
+                    <div class="news-card">
+                        
+
+
+<script type="text/javascript">
+    
+</script>
+
+
+        <a href="/news/haryana/coronavirus-haryana-reports-11-new-cases-state-tally-rises-to-527-80673">
+
+
+                <div class="news-img-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_299132155.jpg" id="news_80673">
+                    <img class="img-fluid card-img-top thumb-img lazy" src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_299132155.jpg" alt="Coronavirus: Haryana reports 11 new cases, state tally rises to 527" title="Jhajjar reported 8 new cases of the deadly disease">
+                </div>
+        </a>
+
+
+
+
+                        <div class="news-body">
+                            <p class="headline">
+                                
+
+    <a href="/news/haryana/coronavirus-haryana-reports-11-new-cases-state-tally-rises-to-527-80673" title="Coronavirus: Haryana reports 11 new cases, state tally rises to 527" class="card-top-align">
+        Coronavirus: Haryana reports 11 new cases, state tally rises to 527
+    </a>
+
+                            </p>
+                            <p class="sub-headline">Jhajjar reports 8 new cases, Yamunanagar 2, Faridabad 1</p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>6 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+
+                    </div>
+                    <div class="news-card">
+                        
+
+
+<script type="text/javascript">
+    
+</script>
+
+
+        <a href="/news/j-k/3-j-k-photojournalists-win-2020-pulitzer-prize-for-feature-photography-80693">
+
+
+                <div class="news-img-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_1257791863.jpg" id="news_80693">
+                    <img class="img-fluid card-img-top thumb-img lazy" src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_1257791863.jpg" alt="3 J-K photojournalists win 2020 Pulitzer Prize for feature photography" title="Yasin Dar, Mukhtar Khan and Channi Anand">
+                </div>
+        </a>
+
+
+
+
+                        <div class="news-body">
+                            <p class="headline">
+                                
+
+    <a href="/news/j-k/3-j-k-photojournalists-win-2020-pulitzer-prize-for-feature-photography-80693" title="3 J-K photojournalists win 2020 Pulitzer Prize for feature photography" class="card-top-align">
+        3 J-K photojournalists win 2020 Pulitzer Prize for feature photography
+    </a>
+
+                            </p>
+                            <p class="sub-headline">Awarded for &#39;striking images of life in contested territory ...</p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>3 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+
+                    </div>
+                    <div class="news-card">
+                        
+
+
+<script type="text/javascript">
+    
+</script>
+
+
+        <a href="/news/nation/boyslockerroom-delhi-schoolboy-nabbed-for-shocking-insta-group-chat-that-spoke-of-girls-rape-80709">
+
+
+                <div class="news-img-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_184703907.jpg" id="news_80709">
+                    <img class="img-fluid card-img-top thumb-img lazy" src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_184703907.jpg" alt="#BoysLockerRoom: Delhi schoolboy nabbed for shocking insta group chat that spoke of girl&#39;s rape" title="The Delhi students&#39; group chat is a nightmare for every parent">
+                </div>
+        </a>
+
+
+
+
+                        <div class="news-body">
+                            <p class="headline">
+                                
+
+    <a href="/news/nation/boyslockerroom-delhi-schoolboy-nabbed-for-shocking-insta-group-chat-that-spoke-of-girls-rape-80709" title="#BoysLockerRoom: Delhi schoolboy nabbed for shocking insta group chat that spoke of girl&#39;s rape" class="card-top-align">
+        #BoysLockerRoom: Delhi schoolboy nabbed for shocking insta group chat that spoke of girl's rape
+    </a>
+
+                            </p>
+                            <p class="sub-headline">Group of South Delhi boys (17-18 years) have an account on I...</p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>51 mins ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+
+                    </div>
+            </div>
+
+<div class="col-md-12 margin-top-20 align-center bg-black pad-20 margin-bottom-20" style="display:none">
+
+    <div class="col-md-12 nopad">
+        <p class="TDTY-Subs">
+            SUBSCRIBE TO OUR NEWSLETTER
+        </p>
+    </div>
+    <div class="col-md-12">
+        <img class="img-fluid" src="/Content/images/Homepage_Assets/Subscribe-logo.png">
+    </div>
+
+    <div class="col-md-12 margin-top-20">
+        <div class="row">
+            <div class="col-md-12"><button class="btn TDTY-btn-subs" onclick="window.open('https://groups.google.com/group/tribuneindia/boxsubscribe','_blank')">Subscribe to News</button> </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+<div class="city-news">
+    <div class="heading stories-heading">
+        <h2 class="head-text">Cities</h2>
+        <p class="View-stories"><a href="/news/city/amritsar">View All</a></p>
+    </div>
+    <div class="city-dropdown">
+        <select name="City" id="selCity" onchange="ShowNews()">
+                    <option value=Amritsar>Amritsar</option>
+                    <option value=Bathinda>Bathinda</option>
+                    <option value=Chandigarh>Chandigarh</option>
+                    <option value=Delhi>Delhi</option>
+                    <option value=Jalandhar>Jalandhar</option>
+                    <option value=Ludhiana>Ludhiana</option>
+                    <option value=Patiala>Patiala</option>
+
+        </select>
+    </div>
+
+    
+            <div class="Amritsar cate-news">
+
+                    <div class="news-card-img">
+                                <div class="news-image">
+                                    <a href="/news/amritsar/testing-hampered-at-gmc-lab-80622" title="Testing hampered at GMC lab" class="card-top-align">
+                                        <div class="news-img-hor-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$thumbimg_775477888.jpeg" id="citynews">
+                                            <img class="img-fluid wdh-100" src="https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$thumbimg_775477888.jpeg" alt="Testing hampered at GMC lab" />
+                                        </div>
+                                    </a>
+                                </div>
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/amritsar/testing-hampered-at-gmc-lab-80622" title="Testing hampered at GMC lab" class="card-top-align">
+        Testing hampered at GMC lab
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>7 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/amritsar/pandemic-is-not-a-political-battlefield-80626" title="‘Pandemic is not a political battlefield’" class="card-top-align">
+        ‘Pandemic is not a political battlefield’
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>7 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/amritsar/baba-sewa-singh-comes-forward-to-serve-the-humanity-again-80628" title="Baba Sewa Singh comes forward to serve the humanity, again" class="card-top-align">
+        Baba Sewa Singh comes forward to serve the humanity, again
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>7 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/amritsar/globetrotters-from-amritsar-share-wanderlust-stories-80613" title="Globetrotters from Amritsar share wanderlust stories" class="card-top-align">
+        Globetrotters from Amritsar share wanderlust stories
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/amritsar/man-shot-at-4-booked-for-attempt-to-murder-80620" title="Man shot at, 4 booked  for attempt to murder" class="card-top-align">
+        Man shot at, 4 booked  for attempt to murder
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>7 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+            </div>
+            <div class="Bathinda cate-news">
+
+                    <div class="news-card-img">
+                                <div class="news-image">
+                                    <a href="/news/bathinda/shortage-of-gunny-bags-worries-wheat-growers-in-punjab-80348" title="Shortage of gunny bags worries wheat growers in Punjab" class="card-top-align">
+                                        <div class="news-img-hor-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$thumbimg_555542768.jpeg" id="citynews">
+                                            <img class="img-fluid wdh-100" src="https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$thumbimg_555542768.jpeg" alt="Shortage of gunny bags worries wheat growers in Punjab" />
+                                        </div>
+                                    </a>
+                                </div>
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/bathinda/shortage-of-gunny-bags-worries-wheat-growers-in-punjab-80348" title="Shortage of gunny bags worries wheat growers in Punjab" class="card-top-align">
+        Shortage of gunny bags worries wheat growers in Punjab
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/bathinda/seeking-regular-jobs-de-addiction-centre-staff-in-punjab-go-on-strike-80351" title="Seeking regular jobs, de-addiction centre staff in Punjab go on strike" class="card-top-align">
+        Seeking regular jobs, de-addiction centre staff in Punjab go on strike
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/bathinda/relaxation-cosmetic-say-bathinda-units-80349" title="Relaxation cosmetic, say Bathinda units" class="card-top-align">
+        Relaxation cosmetic, say Bathinda units
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+            </div>
+            <div class="Chandigarh cate-news">
+
+                    <div class="news-card-img">
+                                <div class="news-image">
+                                    <a href="/news/chandigarh/7-more-contract-covid-19-in-chandigarhs-bapu-dham-colony-ut-count-111-80670" title="7 more contract Covid-19 in Chandigarh&#39;s Bapu Dham colony, UT count 111" class="card-top-align">
+                                        <div class="news-img-hor-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_132668758.JPG" id="citynews">
+                                            <img class="img-fluid wdh-100" src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_132668758.JPG" alt="7 more contract Covid-19 in Chandigarh&#39;s Bapu Dham colony, UT count 111" />
+                                        </div>
+                                    </a>
+                                </div>
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/chandigarh/7-more-contract-covid-19-in-chandigarhs-bapu-dham-colony-ut-count-111-80670" title="7 more contract Covid-19 in Chandigarh&#39;s Bapu Dham colony, UT count 111" class="card-top-align">
+        7 more contract Covid-19 in Chandigarh's Bapu Dham colony, UT count 111
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>6 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/chandigarh/major-anuj-sood-killed-in-handwara-encounter-cremated%C2%A0in-chandigarh-80694" title="Major Anuj Sood killed in Handwara encounter cremated&#160;in Chandigarh" class="card-top-align">
+        Major Anuj Sood killed in Handwara encounter cremated in Chandigarh
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>3 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/chandigarh/traffic-back-on-chandigarh-roads-rush-at-entry-points-80372" title="Traffic back on Chandigarh roads, rush at entry points" class="card-top-align">
+        Traffic back on Chandigarh roads, rush at entry points
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/chandigarh/booze-lovers-make-the-most-of-relaxation-80379" title="Booze lovers make the most of relaxation" class="card-top-align">
+        Booze lovers make the most of relaxation
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/chandigarh/super-spreaders-slow-down-chandigarhs-recovery-rate-80401" title="‘Super-spreaders’ slow down Chandigarh’s recovery rate" class="card-top-align">
+        ‘Super-spreaders’ slow down Chandigarh’s recovery rate
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+            </div>
+            <div class="Delhi cate-news">
+
+                    <div class="news-card-img">
+                                <div class="news-image">
+                                    <a href="/news/delhi/fear-of-covid-19-hefty-corona-fee-on-liquor-fail-to-deter-tipplers-80710" title="Fear of Covid-19, hefty corona fee on liquor fail to deter tipplers" class="card-top-align">
+                                        <div class="news-img-hor-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_1610365055.jpg" id="citynews">
+                                            <img class="img-fluid wdh-100" src="https://cms.tribuneindia.com/gallary_content/2020/5/2020_5$thumbimg_1610365055.jpg" alt="Fear of Covid-19, hefty corona fee on liquor fail to deter tipplers" />
+                                        </div>
+                                    </a>
+                                </div>
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/delhi/fear-of-covid-19-hefty-corona-fee-on-liquor-fail-to-deter-tipplers-80710" title="Fear of Covid-19, hefty corona fee on liquor fail to deter tipplers" class="card-top-align">
+        Fear of Covid-19, hefty corona fee on liquor fail to deter tipplers
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>50 mins ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/delhi/petrol-price-in-delhi-hiked-by-rs-1-67-per-litre-diesel-by-rs-7-10-80683" title="Petrol price in Delhi hiked by Rs 1.67 per litre, diesel by Rs 7.10" class="card-top-align">
+        Petrol price in Delhi hiked by Rs 1.67 per litre, diesel by Rs 7.10
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>5 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/delhi/body-of-unidentified-woman-found-in-car-in-south-delhis-lodhi-colony-80701" title="Body of unidentified woman found in car in south Delhi&#39;s Lodhi Colony" class="card-top-align">
+        Body of unidentified woman found in car in south Delhi's Lodhi Colony
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>2 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/delhi/delhi-cop-kin-shot-dead-in-haryanas-bahadurgarh-80407" title="Delhi cop, kin shot dead in Haryana&#39;s Bahadurgarh" class="card-top-align">
+        Delhi cop, kin shot dead in Haryana's Bahadurgarh
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/delhi/shops-in-delhi-set-to-reopen-from-monday-amid-host-of-concerns-79878" title="Shops in Delhi set to reopen from Monday amid host of concerns" class="card-top-align">
+        Shops in Delhi set to reopen from Monday amid host of concerns
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>1 day ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+            </div>
+            <div class="Jalandhar cate-news">
+
+                    <div class="news-card-img">
+                                <div class="news-image">
+                                    <a href="/news/jalandhar/7-new-cases-jalandhar-count-reaches-131-80380" title="7 new cases, Jalandhar count reaches 131" class="card-top-align">
+                                        <div class="news-img-hor-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$thumbimg_154335958.jpeg" id="citynews">
+                                            <img class="img-fluid wdh-100" src="https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$thumbimg_154335958.jpeg" alt="7 new cases, Jalandhar count reaches 131" />
+                                        </div>
+                                    </a>
+                                </div>
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/jalandhar/7-new-cases-jalandhar-count-reaches-131-80380" title="7 new cases, Jalandhar count reaches 131" class="card-top-align">
+        7 new cases, Jalandhar count reaches 131
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/jalandhar/60-year-old-defeats-covid-19-80382" title="60-year-old defeats Covid-19" class="card-top-align">
+        60-year-old defeats Covid-19
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/jalandhar/cong-worker-killed-in-kapurthala-22-booked-80354" title="Cong worker killed in Kapurthala; 22 booked" class="card-top-align">
+        Cong worker killed in Kapurthala; 22 booked
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/jalandhar/over-1000-industrialists-seek-nod-to-restart-units-80381" title="Over 1000 industrialists seek nod to restart units" class="card-top-align">
+        Over 1000 industrialists seek nod to restart units
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/jalandhar/stuck-in-bengaluru-hockey-player-watching-movies-to-kill-boredom-80395" title="Stuck in Bengaluru, hockey player watching movies to kill boredom" class="card-top-align">
+        Stuck in Bengaluru, hockey player watching movies to kill boredom
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+            </div>
+            <div class="Ludhiana cate-news">
+
+                    <div class="news-card-img">
+                                <div class="news-image">
+                                    <a href="/news/ludhiana/doctors-feel-unsafe-in-substandard-kits-80537" title="Doctors feel unsafe in ‘substandard’ kits" class="card-top-align">
+                                        <div class="news-img-hor-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$thumbimg_427254198.jpeg" id="citynews">
+                                            <img class="img-fluid wdh-100" src="https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$thumbimg_427254198.jpeg" alt="Doctors feel unsafe in ‘substandard’ kits" />
+                                        </div>
+                                    </a>
+                                </div>
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/ludhiana/doctors-feel-unsafe-in-substandard-kits-80537" title="Doctors feel unsafe in ‘substandard’ kits" class="card-top-align">
+        Doctors feel unsafe in ‘substandard’ kits
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/ludhiana/dmch-appeals-for-blood-donation-80545" title="DMCH appeals for blood donation" class="card-top-align">
+        DMCH appeals for blood donation
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/ludhiana/one-held-for-bid-to-ferry-migrants-back-home-80535" title="One held for bid to ferry migrants back home" class="card-top-align">
+        One held for bid to ferry migrants back home
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/ludhiana/ooat-clinic-staff-go-on-indefinite-strike-80536" title="OOAT clinic staff go on indefinite strike" class="card-top-align">
+        OOAT clinic staff go on indefinite strike
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/ludhiana/hunger-trust-deficit-makes-migrants-take-to-street-80538" title="Hunger, trust deficit makes migrants take to street" class="card-top-align">
+        Hunger, trust deficit makes migrants take to street
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+            </div>
+            <div class="Patiala cate-news">
+
+                    <div class="news-card-img">
+                                <div class="news-image">
+                                    <a href="/news/patiala/samana-man-nabbed-for-killing-ex-cop-son-80355" title="Samana man nabbed for killing ex-cop, son" class="card-top-align">
+                                        <div class="news-img-hor-container" data-src="https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$thumbimg_978232691.jpg" id="citynews">
+                                            <img class="img-fluid wdh-100" src="https://cms.tribuneindia.com/gallary_content/2020/5/Desk/2020_5$thumbimg_978232691.jpg" alt="Samana man nabbed for killing ex-cop, son" />
+                                        </div>
+                                    </a>
+                                </div>
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/patiala/samana-man-nabbed-for-killing-ex-cop-son-80355" title="Samana man nabbed for killing ex-cop, son" class="card-top-align">
+        Samana man nabbed for killing ex-cop, son
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/patiala/health-dept-starts-counselling-of-nanded-returnees-in-patiala-80601" title="Health Dept starts counselling of Nanded returnees in Patiala" class="card-top-align">
+        Health Dept starts counselling of Nanded returnees in Patiala
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/patiala/employees-seek-regularisation-of-services-80602" title="Employees seek regularisation  of services" class="card-top-align">
+        Employees seek regularisation  of services
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>8 hours ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/patiala/patiala-jail-inmates-to-prepare-face-masks-high-court-ropes-in-ngo-for-cloth-78969" title="Patiala jail inmates to prepare face masks; high court ropes in NGO for cloth" class="card-top-align">
+        Patiala jail inmates to prepare face masks; high court ropes in NGO for cloth
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>4 days ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+                    <div class="news-card-img">
+
+                        <div class="news-body nopad">
+                            <p class="headline">
+                                
+
+    <a href="/news/patiala/sub-inspector-harjeet-discharged-from-pgi-dgp-hands-over-job-letter-for-son-78599" title="Sub-Inspector Harjeet discharged from PGI, DGP hands over job letter for son" class="card-top-align">
+        Sub-Inspector Harjeet discharged from PGI, DGP hands over job letter for son
+    </a>
+
+                            </p>
+                            <p class="sub-headline"></p>
+                            
+
+<div class="share-time">
+
+    <div class="card-time">
+        <span>
+            <i class="far fa-clock" aria-hidden="true"></i>4 days ago
+        </span>
+    </div>
+    
+
+</div>
+                        </div>
+                    </div>
+            </div>
+    
+
+</div>
+
+
+<div class="adv">
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:600px"
+             data-ad-client="ca-pub-8115901613940036"
+             data-ad-slot="3231385925"></ins>
+   <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+
+
+</div>
+
+                    </div>
+                    <!--Side Block End-->
+
+
+
+                </div>
+            </div>
+
+
+
+
+
+
+        </section>
+        <footer class="footer clearfix">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="ftr-left">
+                    <div class="footer-logo">
+                        <a href="#">
+                            <img class="img-fluid" src="/Content/images/Homepage_Assets/footer-logo.png" />
+                        </a>
+                    </div>
+                    <div class="tribune-desc">
+                        <p class="para-1">The Tribune, now published from Chandigarh, started publication on February 2, 1881, in Lahore (now in Pakistan). It was started by Sardar Dyal Singh Majithia, a public-spirited philanthropist, and is run by a trust comprising five eminent persons as trustees.</p>
+
+                        <p class="para-1">The Tribune, the largest selling English daily in North India, publishes news and views without any bias or prejudice of any kind. Restraint and moderation, rather than agitational language and partisanship, are the hallmarks of the paper. It is an independent newspaper in the real sense of the term.</p>
+
+                        <p>The Tribune has two sister publications, Punjabi Tribune (in Punjabi) and Dainik Tribune (in Hindi).</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-9 nopad">
+                <div class="ftr-right">
+                    <div class="subscriber-block" style="display:none">
+                        <form>
+                            <button class="ftr-subs-btn btn" onclick="window.open('https://groups.google.com/group/tribuneindia/boxsubscribe','_blank')">Subscribe to News</button>
+                        </form>
+                    </div>
+
+                    <div class="footer-links">
+                        <div class="">
+                            <div class="sub-categories">
+    <div class="row">
+        <div class="col">
+            <ul class="row submenu-categories top-categories">
+                <li class="list-col">
+                    <h3><a href="/">Home</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/news/nation">Nation</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/news/world">World</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/news/sports">Sports</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/news/business">Business</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/news/features">Features</a></h3>
+                </li>
+                <li class="list-col display_none">
+                    <h3><a href="/archive">Archive</a></h3>
+
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="sub-categories">
+    <div class="row">
+        <div class="col">
+            <ul class="row submenu-categories top-categories menu-categories">
+                <li class="list-col">
+                    <h3 class="no-link">States</h3>
+                </li>
+                <li class="list-col">
+                    <h3 class="no-link">Cities</h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/news/opinion">Opinion</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3 class="no-link">Life</h3>
+                </li>
+                <li class="list-col">
+                    <h3 class="no-link">Move Ahead</h3>
+                </li>
+                <li class="list-col tab-res display_none">
+                    <h3><a href="/classified/grommswanted">Classifieds</a></h3>
+                </li>
+                <li class="list-col tab-res">
+                    <h3><a href="/contactus">Reach us</a></h3>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="sub-categories">
+    <div class="row">
+        <div class="list-col">
+            <ul class="submenu-categories">
+                <li>
+                    <a href="/news/state/punjab">Punjab</a>
+                </li>
+                <li>
+                    <a href="/news/state/haryana">Haryana</a>
+                </li>
+                <li>
+                    <a href="/news/state/himachal">Himachal</a>
+                </li>
+                <li>
+                    <a href="/news/state/jandk">J & K</a>
+                </li>
+            </ul>
+        </div>
+        <div class="list-col">
+            <ul class="submenu-categories">
+
+                <li>
+                    <a href="/news/city/amritsar">Amritsar</a>
+                </li>
+                <li>
+                    <a href="/news/city/bathinda">
+                        Bathinda
+                    </a>
+                </li>
+                <li>
+                    <a href="/news/city/chandigarh">Chandigarh</a>
+                </li>
+                <li>
+                    <a href="/news/city/delhi">Delhi</a>
+                </li>
+                <li>
+                    <a href="/news/city/jalandhar">Jalandhar</a>
+
+                </li>
+                <li>
+                    <a href="/news/city/ludhiana">Ludhiana</a>
+                </li>
+                <li>
+                    <a href="/news/city/patiala">Patiala</a>
+                </li>
+            </ul>
+        </div>
+        <div class="list-col">
+            <ul class="submenu-categories">
+
+                <li>
+                    <a href="/news/opinion/editorials">Editorials</a>
+                </li>
+                <li>
+                    <a href="/news/opinion/comments">
+                        Comment
+                    </a>
+                </li>
+                <li>
+                    <a href="/news/opinion/musings">Musings</a>
+                </li>
+                <li>
+                    <a href="/news/opinion/letters?monthYear=May%202020">Letters to the Editor</a>
+                </li>
+                
+            </ul>
+        </div>
+        <div class="list-col">
+            <ul class="submenu-categories">
+                <li>
+                    <a href="/news/special/lifestyle">
+                        Lifestyle
+                    </a>
+                </li>
+                <li>
+                    <a href="/news/special/entertainment">
+                        Entertainment
+
+                    </a>
+                </li>
+                <li>
+                    <a href="/news/reviews/movies">Movie Reviews</a>
+                </li>
+                <li>
+                    <a href="/news/special/pollywood">Pollywood</a>
+                </li>
+                <li>
+                    <a href="/news/special/arts">Arts</a>
+                </li>
+                <li>
+                    <a href="/news/reviews/books">Book Reviews</a>
+                </li>
+            </ul>
+        </div>
+        <div class="list-col">
+            <ul class="submenu-categories">
+
+                <li>
+                    <a href="/news/jobs%26careers">Jobs & Careers</a>
+                </li>
+                <li>
+                    <a href="/news/health">
+                        Health
+                    </a>
+                </li>
+                <li>
+                    <a href="/news/science%26technology">Technology</a>
+                </li>
+                <li>
+                    <a href="/horoscope/aries">Calendar</a>
+                </li>
+                <li>
+                    <a href="/news/coronavirus">Coronavirus</a>
+                </li>
+            </ul>
+        </div>
+        <div class="list-col tab-col display_none">
+            <ul class="submenu-categories tab-res">
+
+                <li>
+                    <a href="/classified/brideswanted">Brides wanted</a>
+                </li>
+                <li>
+                    <a href="/classified/groomswanted">
+                        Grooms Wanted
+                    </a>
+                </li>
+                <li>
+                    <a href="/classified/other">Other Classifieds</a>
+                </li>
+                <li>
+                    <a href="/advertise">
+                        Book Classifieds
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+        <div class="list-col tab-col">
+            <ul class="submenu-categories tab-res">
+
+                <li>
+                    <a href="/aboutus">About Us</a>
+                </li>
+                <li>
+                    <a href="https://epaper.tribuneindia.com/">
+                        The Tribune Epaper
+                    </a>
+                </li>
+                <li>
+                    <a href="https://play.google.com/store/search?q=tribune&c=apps">Download The Tribune App - Android</a>
+                </li>
+                <li>
+                    <a href="https://apps.apple.com/in/app/the-tribune/id624916251">Download The Tribune App - Ios</a>
+                </li>
+                <li>
+                    <a href="https://www.punjabitribuneonline.com/">Punjabi Tribune online </a>
+                </li>
+                <li>
+                    <a href="https://epaper.punjabitribuneonline.com/">Punjabi Tribune Epaper</a>
+                </li>
+                <li>
+                    <a href="https://play.google.com/store/apps/details?id=com.readwhere.whitelabel.punjabitribune">Punjabi Tribune App – Android</a>
+                </li>
+                <li>
+                    <a href="https://apps.apple.com/au/app/punjabi-tribune-newspaper/id910484023">Punjabi Tribune App – Ios</a>
+                </li>
+                <li>
+                    <a href="https://www.dainiktribuneonline.com/">Dainik Tribune online</a>
+                </li>
+                <li>
+                    <a href="https://epaper.dainiktribuneonline.com/">Dainik Tribune Epaper</a>
+                </li>
+                <li>
+                    <a href="https://play.google.com/store/search?q=tribune&c=apps">Dainik Tribune App – Android</a>
+                </li>
+                <li>
+                    <a href="/rate3"> Subscribe Print Edition</a>
+                </li>
+                <li>
+                    <a href="/contactus">Contact Us</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="sub-categories tab-menu">
+    <div class="row">
+        <div class="col">
+            <ul class="row submenu-categories top-categories menu-categories tab-menu">
+                <li class="list-col">
+                    <h3><a href="/classified/groomswanted">Classifieds</a></h3>
+                </li>
+                <li class="list-col">
+                    <h3><a href="/contactus">Reach us</a></h3>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="sub-categories tab-menu">
+    <div class="row">
+        <div class="list-col">
+            <ul class="submenu-categories">
+
+                <li>
+                    <a href="/classified/brideswanted">Brides wanted</a>
+                </li>
+                <li>
+                    <a href="/classified/groomswanted">
+                        Grooms Wanted
+                    </a>
+                </li>
+                <li>
+                    <a href="/classified/other">Other Classifieds</a>
+                </li>
+                <li>
+                    <a href="">
+                        Book
+                        Classifieds
+                    </a>
+                </li>
+                <li>
+                    <a href="/advertise">
+                        Advertise with Us
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+        <div class="list-col">
+            <ul class="submenu-categories">
+
+                <li>
+                    <a href="/aboutus">About Us</a>
+                </li>
+                <li>
+                    <a href="#">
+                        The Tribune Epaper
+                    </a>
+                </li>
+                <li>
+                    <a href="#">Download The Tribune App - Android Ios</a>
+                </li>
+                <li>
+                    <a href="#">Punjabi Tribune online </a>
+                </li>
+                <li>
+                    <a href="#">Punjabi Tribune Epaper</a>
+                </li>
+                <li>
+                    <a href="#">Punjabi Tribune App – Android Ios </a>
+                </li>
+                <li>
+                    <a href="#">Dainik Tribune online</a>
+                </li>
+                <li>
+                    <a href="#">Dainik Tribune Epaper</a>
+                </li>
+                <li>
+                    <a href="#">Dainik Tribune App – Android Ios</a>
+                </li>
+                <li>
+                    <a href="/rate3"> Subscribe Print Edition</a>
+                </li>
+                <li>
+                    <a href="/contactus">Contact Us</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+                          </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row footer-btm-block">
+            <div class="col-md-3">
+                <div class="ftr-left">
+                    <span class="ftr-links">
+                        Copyright © The Tribune Trust, 2020
+                    </span>
+                </div>
+            </div>
+
+            <div class="col-md-9 nopad">
+                <div class="ftr-right">
+                    <div class="ftr-icon">
+                        <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.tribuneindia.com%2F&amp;ref_src=twsrc%5Etfw&amp;region=follow_link&amp;screen_name=thetribunechd&amp;tw_p=followbutton" target="_blank">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                        <a href="https://www.facebook.com/pages/The-Tribune/798949453521526">
+                            <i class="fab fa-facebook-f"></i>
+                        </a>
+                        <a href="/rss">
+                            <i class="fas fa-rss"></i>
+                        </a>
+                    </div>
+                    <div class="grazitti-info">
+                        <p>
+                            Designed and Developed by: <a href="http://www.grazitti.com" target="_blank">Grazitti Interactive</a>
+                        </p>
+                        </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+    </main>
+</body>
+
+</html>

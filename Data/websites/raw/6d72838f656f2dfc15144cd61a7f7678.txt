@@ -1,0 +1,691 @@
+<!DOCTYPE HTML ><html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><link as="script" href="/jquery_1_11_0_min/version-1,minify-1.cms" rel="preload"><link rel="preconnect" href="//b.scorecardresearch.com"><link rel="dns-prefetch" href="//securepubads.g.doubleclick.net"><link rel="preconnect" href="https://securepubads.g.doubleclick.net"><link rel="dns-prefetch" href="//pubads.g.doubleclick.net"><link rel="preconnect" href="//pubads.g.doubleclick.net"><link rel="dns-prefetch" href="//www.google-analytics.com"><link rel="preconnect" href="//www.google-analytics.com"><link rel="preconnect" href="//www.googletagservices.com"><link rel="dns-prefetch" href="//partner.googleadservices.com"><link rel="dns-prefetch" href="//tpc.googlesyndication.com"><link rel="preconnect" href="//tpc.googlesyndication.com"><link rel="dns-prefetch" href="//cm.g.doubleclick.net"><link rel="dns-prefetch" href="//static.chartbeat.com"><link rel="preconnect" href="//static.chartbeat.com"><link rel="preconnect" href="https://sb.scorecardresearch.com"><link rel="dns-prefetch" href="//punemirror.indiatimes.com"><link rel="preconnect" href="//punemirror.indiatimes.com"><link rel="preconnect" href="https://jsso.indiatimes.com"><link rel="preconnect" href="https://adservice.google.co.in"><link rel="preconnect" href="//static.toiimg.com"><link rel="preconnect" href="https://platform.instagram.com"><link rel="preconnect" href="https://www.instagram.com"><link rel="preconnect" href="https://platform.twitter.com"><link rel="preconnect" href="https://z.moatads.com"><link rel="preconnect" href="https://ads.pubmatic.com"><link rel="preconnect" href="https://toibnews.timesofindia.indiatimes.com"><link rel="preconnect" href="https://secure-assets.rubiconproject.com"><link rel="preconnect" href="https://ibeat.indiatimes.com"><link as="style" href="/gdpr_css/version-15,minify-1.cms" rel="preload"><link as="script" href="/gdpr_js/version-7,minify-1.cms" rel="preload"><link defer="defer" type="text/css" rel="stylesheet" href="/gdpr_css/version-15,minify-1.cms"><script type="text/javascript" src="/gdpr_js/version-7,minify-1.cms"></script><link href="/pn_manifest.cms?v=2" rel="manifest"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=yes"><title>Tanzania: President queries kits after goat, fruit test positive for COVID-19</title><link href="https://punemirror.indiatimes.com/icons/favicon_pm.ico" type="image/x-icon" rel="shortcut icon"><link rel="canonical" href="https://mumbaimirror.indiatimes.com/coronavirus/news/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms" /><meta name="description" content="Coronavirus test kits used in Tanzania were dismissed as faulty by President John Magufuli on Sunday, because he said they had returned positive results on samples taken from a goat and a pawpaw."><meta name="keywords" content="coronavirus, tanzania, tanzania president, goat coronavirus, fruit coronavirus, covid-19, coronavirus total"><meta http-equiv="Last-Modified" content="Tuesday, 05 May, 2020 02:26:53PM"><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta property="og:title" content="Tanzania: President queries kits after goat, fruit test positive for COVID-19"><meta property="og:description" content="Coronavirus test kits used in Tanzania were dismissed as faulty by President John Magufuli on Sunday, because he said they had returned positive results on samples taken from a goat and a pawpaw."><meta property="og:site_name" content="Pune Mirror"><meta content="article" property="og:type"><meta property="og:url" content="https://punemirror.indiatimes.com/news/world/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms"><meta property="og:image" content="https://static.toiimg.com/photo/imgsize-971199,msid-75528954/75528954.jpg"><meta property="fb:admins" content="556964827"><meta property="fb:app_id" content="458612584248697"><meta name="google-site-verification" content="27e8zAHpym9XRrhUGi0_KY4hlX40vpogyIn7QH-70GQ"><meta name="msvalidate.01" content="BAB71AAED7CCC01DB106A58E99625EB4"><meta name="twitter:card" value="summary_large_image"><meta name="twitter:site" value="@ThePuneMirror"><meta property="twitter:title" content="Tanzania: President queries kits after goat, fruit test positive for COVID-19"><meta property="twitter:description" content="Coronavirus test kits used in Tanzania were dismissed as faulty by President John Magufuli on Sunday, because he said they had returned positive results on samples taken from a goat and a pawpaw."><meta property="twitter:url" content="https://punemirror.indiatimes.com/news/world/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms"><meta property="twitter:image" content="https://static.toiimg.com/photo/imgsize-971199,msid-75528954/75528954.jpg"><script type="application/ld+json">{
+              "@context":"https://schema.org",
+              "@type":"NewsArticle",
+              "mainEntityOfPage":"https://punemirror.indiatimes.com/news/world/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms",
+              "thumbnailUrl":"https://static.toiimg.com/photo/imgsize-971199,msid-75528954/75528954.jpg",
+              "url":"https://punemirror.indiatimes.com/news/world/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms",
+              "datePublished":"2020-05-04T12:05:00+05:30",
+              "dateModified":"2020-05-04T12:05:00+05:30",
+              "headline":"Tanzania: President queries kits after goat, fruit test positive for COVID-19",
+              "description":"Coronavirus test kits used in Tanzania were dismissed as faulty by President John Magufuli on Sunday, because he said they had returned positive results on samples taken from a goat and a pawpaw.",
+              "image":{
+               "@type":"ImageObject",
+               "url":"https://static.toiimg.com/photo/imgsize-971199,msid-75528954/75528954.jpg",
+               "width":"1200",
+               "height":"900"
+              }, 
+              "publisher":{
+               "@type":"Organization",
+                "name":"Pune Mirror",
+                "logo":{
+                "@type":"ImageObject",
+                "width":"600",
+                "height":"60",
+                "url":"https://static.toiimg.com/photo/65964471.cms"
+                }
+              },
+              "author": {
+                "@type":"Thing",
+                "name":"Pune Mirror"
+              }
+            }</script><script type="application/ld+json">
+                    {
+                     "@context": "https://schema.org/",
+                     "@type": "Organization",
+                     "name": "Pune Mirror",
+                     "url": "https://punemirror.indiatimes.com",
+                     "logo":
+                     {
+                       "@type": "ImageObject",
+                       "url": "https://static.toiimg.com/photo/65964471.cms",
+                       "width" : "600",
+                       "height" : "60"
+                     }
+                    }
+        </script><script type="text/javascript">
+            var chl=(location.href.indexOf("punemirror.com")>-1)?"punemirror":"punemirrorin",
+                domname = (location.href.indexOf("punemirror.com")>-1)?'punemirror.com':'.indiatimes.com',
+                domnm = (location.href.indexOf("punemirror.com")>-1)?'punemirror.com':'indiatimes.com',
+                capdmname = (location.href.indexOf("punemirror.com")>-1)?'punemirror.com':'punemirror.indiatimes.com',
+                bsurl = (location.href.indexOf("punemirror.com")>-1)?'https://www.punemirror.com':'https://www.punemirror.indiatimes.com',
+                hdomain='indiatimes.com';
+                
+			if (document.domain != hdomain) 
+			{document.domain = (document.domain.indexOf(hdomain) != -1)? hdomain :"punemirror.com";}
+			
+			 </script><link href="https://plus.google.com/103950370953916216240" rel="publisher"><script type="text/javascript">
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            
+            ga('create', 'UA-6655825-1', 'auto');
+            var userCookie = document.cookie.match(/(?:\s)?ssoid=(\w+);?/);
+            if(!!(userCookie))
+            { ga('set', 'userId', userCookie[1]); }
+            if (window.TimesGDPR && TimesGDPR.common.consentModule.gdprCallback){
+            TimesGDPR.common.consentModule.gdprCallback(function(dataObj){
+                if (dataObj.isEUuser){
+                    ga('set', 'anonymizeIp', true); 
+                }
+                ga('send', 'pageview');
+            });
+        }else{
+            ga('send', 'pageview');
+        }
+        </script><script>
+		  var _comscore = _comscore || [];
+		  
+		  function callComScore(condition){
+		       var objComScore = { c1: "2", c2: "6036484" };
+		       if(condition){
+		          objComScore['cs_ucfr'] = 0;
+		       }
+		       _comscore.push(objComScore);
+		       
+                (function() {
+                var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+                s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+                el.parentNode.insertBefore(s, el);
+                })();
+		  
+		  
+		  }
+		  
+            if (window.TimesGDPR  && TimesGDPR.common.consentModule.gdprCallback){
+                TimesGDPR.common.consentModule.gdprCallback(function(dataObj){
+                   
+                   if (dataObj.isEUuser){
+                          callComScore(true);  
+                   }else{
+                          callComScore(false);
+                   }
+                    
+                });
+            }else{
+                     callComScore(true);
+            }
+		
+        </script><!--/wdt_meta.cms?msid=75529018&tag=article&version=3potime:1290--><meta content="182974105094427" property="fb:pages"><link defer="defer" media="screen" type="text/css" href="/customscrollbarcss/version-2,minify-1.cms" rel="stylesheet"><link defer="defer" media="screen" type="text/css" href="/articleshowcss/version-90,minify-1.cms" rel="stylesheet"><link defer="defer" media="screen" type="text/css" href="/comments_cssnewlogin_per/version-1,minify-1.cms" rel="stylesheet"><script type="text/javascript" src="/jquery_1_11_0_min/version-1,minify-1.cms"></script>
+                
+                    
+                        
+                            
+                        
+            		
+            	
+            
+            
+                
+            
+        
+            
+                
+        		        <script>function otab(t,n){var e="_blank";try{e="undefined"==typeof isq()||"undefined"!=typeof isq()&&isq()?"_top":"_blank"}catch(c){}window.open(t,e)}function trev(t,n){try{"undefined"==typeof ntsss.getInstance().cd[n]&&ntsss.getInstance().push([t],n)}catch(e){}}function tpImp(t,n,e){try{if(""!=n)for(var c=0;c<t.length;c++)ntsss.getInstance().push(t[c],n)}catch(r){}}var ntsss=function(){var t,n=function(){var t,n=1,e=!1,c=[],r=[],o=!1,i=[],a=function(t,n){function e(){try{if(!o){o=!0;for(var t=0;t<r.length;t++)r[t].fn.call(window,r[t].ctx);r=[]}}catch(n){}}function c(){try{"complete"===document.readyState&&e()}catch(t){}}try{t=t||"ready",n=n||window;var r=[],o=!1,i=!1;n[t]=function(t,n){try{if(o)return void setTimeout(function(){t(n)},1);r.push({fn:t,ctx:n}),"complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(e,1):i||(document.addEventListener?(document.addEventListener("DOMContentLoaded",e,!1),window.addEventListener("load",e,!1)):(document.attachEvent("onreadystatechange",c),window.attachEvent("onload",e)),i=!0)}catch(a){}}}catch(a){}},u=function(){try{t="",a("ready",this),ready(function(){o=!0,n()});var n=h(s,500);window.onscroll=function(){n()},window.addEventListener?window.addEventListener("scroll",function(){n()}):window.attachEvent&&window.attachEvent("scroll",function(){n()})}catch(e){}},d=function(){try{t!=window.location.href&&(n=1,t=window.location.href,e=!0,"function"==typeof fcomp&&fcomp())}catch(c){}},f=function(t,n){try{"undefined"==typeof c[n]?c[n]={imprurl:t,classname:n,notify:!1}:"undefined"==typeof r[n]&&(c[n].imprurl=c[n].imprurl.concat(t),r[n]=1),o&&s()}catch(e){}},s=function(){try{d();for(var t in c){var r=c[t];if(r.hasOwnProperty("notify")&&!r.notify){var o=m(r.classname);if(o.length>0&&l(o[0])){r.notify=!0,1==n&&(n=0,r.imprurl[0]=r.imprurl[0].indexOf("?")>-1?r.imprurl[0]+"&pv=1":r.imprurl[0]+"?pv=1");for(var a=0;a<r.imprurl.length;a++)y(r.imprurl[a]);var u=c.splice(t,1);u=null}}}e&&i.length>0&&"undefined"!=typeof nnnmm&&(e=!1,nnnmm.getInstance().ajxc(i.shift()))}catch(f){}},l=function(t){try{if(t.getBoundingClientRect){var n=t.getBoundingClientRect(),e=window.innerHeight||document.body.clientHeight||document.documentElement.clientHeight,c=n.top,r=n.bottom,o=r-c,i=e>=c&&c+o>=0;return 0==c&&0==r?!1:i}return!1}catch(a){return!1}},m=function(t){try{var n=[],e="."+t;return"undefined"!=typeof document.querySelectorAll?n=document.querySelectorAll(e):(document.getElementsByClassName=function(t){for(var n=[],e=this.getElementsByTagName("*"),c=0;c<e.length;c++)(" "+e[c].className+" ").indexOf(" "+t+" ")>-1&&n.push(e[c]);return n},n=document.getElementsByClassName(t)),n}catch(c){}},y=function(t){try{return(new Image).src=t,!0}catch(n){return!1}},h=function(t,n,e){try{n||(n=250);var c,r;return function(){var o=e||this,i=+new Date,a=arguments;c&&c+n>i?(clearTimeout(r),r=setTimeout(function(){c=i,t.apply(o,a)},n)):(c=i,t.apply(o,a))}}catch(o){}};return u(),{push:f,setpv:d,ajxcArr:i,cd:c,tp:r}};return{getInstance:function(){return t||(t=n()),t}}}();
+function axs(){ntsss.getInstance().ajxcArr.push(arguments[0])}function isq(){return nnnmm.getInstance().isq()}var nnnmm=function(){var t,e=function(){function t(){e=new m}var e,r=0,n="",o=window.location.host,a="ce_pnampd",c="@v0",i=0,d=!0,h=function(){var t=!1;try{var r=e.decode(g(a)).split("@");r.length>0?t="l"==r[1]?!1:!0:f(n)}catch(o){}return t},u=function(t){try{l(a,e.encode(o+t+(new Date).getTime(),"321","e"),"90")}catch(r){}},f=function(t){i=0,r=0,d=!0,s(t)},s=function(t){var e=new XMLHttpRequest,o="1000";n=t,e.onreadystatechange=function(){(1===e.readyState||4===e.readyState)&&0===e.status&&d&&u("@pa@0"),e.status>0&&d&&(d=!1,u("@l@"))},e.ontimeout=function(t){var e="2";d&&(r<Number(e)?(i+=1e3,s(n),r++):u("@pt@0"))},e.open("GET",t,!0),e.timeout=Number(o)+i,e.send()},g=function(t){try{for(var e=t+"=",r=document.cookie.split(";"),n=0;n<r.length;n++){for(var o=r[n];" "==o.charAt(0);)o=o.substring(1,o.length);if(0==o.indexOf(e))return o.substring(e.length,o.length)}}catch(a){}return null},l=function(t,e,r){try{var n;r?(date=new Date,date.setTime(date.getTime()+24*r*60*60*1e3),n="; expires="+date.toGMTString()):n="";var o=window.location.host;1===o.split(".").length?document.cookie=t+"="+e+n+"; path=/":(domain=(window.location.host.match(/([^.]+)\.\w{2,3}(?:\.\w{2})?$/)||[])[0],document.cookie=t+"="+e+n+"; path=/; domain="+domain)}catch(a){}},C={_keyStr:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",encode:function(t){var e,r,n,o,a,c,i,d="",h=0;for(t=C._utf8_encode(t);h<t.length;)e=t.charCodeAt(h++),r=t.charCodeAt(h++),n=t.charCodeAt(h++),o=e>>2,a=(3&e)<<4|r>>4,c=(15&r)<<2|n>>6,i=63&n,isNaN(r)?c=i=64:isNaN(n)&&(i=64),d=d+this._keyStr.charAt(o)+this._keyStr.charAt(a)+this._keyStr.charAt(c)+this._keyStr.charAt(i);return d},encodeUrlSafe:function(t){return C.encode(t).replace(/\+/g,"-").replace(/\//g,"_").replace(/\=/g,"~")},decode:function(t){var e,r,n,o,a,c,i,d="",h=0;for(t=t.replace(/[^A-Za-z0-9\+\/\=]/g,"");h<t.length;)o=this._keyStr.indexOf(t.charAt(h++)),a=this._keyStr.indexOf(t.charAt(h++)),c=this._keyStr.indexOf(t.charAt(h++)),i=this._keyStr.indexOf(t.charAt(h++)),e=o<<2|a>>4,r=(15&a)<<4|c>>2,n=(3&c)<<6|i,d+=String.fromCharCode(e),64!=c&&(d+=String.fromCharCode(r)),64!=i&&(d+=String.fromCharCode(n));return d=C._utf8_decode(d)},decodeUrlSafe:function(t){return C.decode(t.replace(/\-/g,"+").replace(/\_/g,"/").replace(/\~/g,"="))},_utf8_encode:function(t){t=t.replace(/\r\n/g,"\n");for(var e="",r=0;r<t.length;r++){var n=t.charCodeAt(r);128>n?e+=String.fromCharCode(n):n>127&&2048>n?(e+=String.fromCharCode(n>>6|192),e+=String.fromCharCode(63&n|128)):(e+=String.fromCharCode(n>>12|224),e+=String.fromCharCode(n>>6&63|128),e+=String.fromCharCode(63&n|128))}return e},_utf8_decode:function(t){for(var e="",r=0,n=c1=c2=0;r<t.length;)n=t.charCodeAt(r),128>n?(e+=String.fromCharCode(n),r++):n>191&&224>n?(c2=t.charCodeAt(r+1),e+=String.fromCharCode((31&n)<<6|63&c2),r+=2):(c2=t.charCodeAt(r+1),c3=t.charCodeAt(r+2),e+=String.fromCharCode((15&n)<<12|(63&c2)<<6|63&c3),r+=3);return e}},m=function(){function t(t,e){var r=t.length/2;return 0==e?t.substring(0,r):t.substring(r,t.length)}function e(t){for(var e=[],r=0,n=t.length;n>=r;r++)e.push(t.charAt(n-r));return e.join("")}function r(r){var n=e(t(r,0))+t(r,1),a=o(n,"321","e")+c;return C.encodeUrlSafe(a)}function n(r){var n=C.decodeUrlSafe(r).replace(c,""),a=o(n,"321","d");return e(t(a,0))+t(a,1)}var o=function(t,e,r){for(var n="",o=0,a=t,c=0;c<a.length;c++){var i=e[o],d="";o<e.length-1?o++:o=0,d="d"==r?parseInt(a[c].charCodeAt(0))-parseInt(i):parseInt(a[c].charCodeAt(0))+parseInt(i),n+=String.fromCharCode(d)}return n},e=function(t){for(var e=[],r=0,n=t.length;n>=r;r++)e.push(t.charAt(n-r));return e.join("")};return{encode:r,decode:n}};return t(),{isq:h,ajxc:f,ck:(new m).decode}};return{getInstance:function(){return t||(t=e()),t}}}();
+</script>
+
+                    
+            
+        
+            
+                
+        		        <script>try{axs("//punemirror.indiatimes.com/acms/javascript/oas.js?ad_classid=-1143021364&ad_channel=703653024&OErA=-1739490144")}catch(e){};</script>
+
+                    
+            
+        </head><body><div id="container"><div data-size="[[980, 200], [728, 90]]" data-adsSlot="PuneMirror/PuneMirror_ROS/PM_ROS_ATF_728" id="div-gpt-ad-1540383511172-0" class="webonly adsPb10" style="text-align: center;"></div><link as="style" href="/css_header/version-74,minify-1.cms" rel="preload"><link async="async" type="text/css" href="/css_header/version-76,minify-1.cms" rel="stylesheet"><header id="header" class="clearfix top masthead_event"><div class="user-login"><span style="display: none;" data-plugin="user-isloggedin" class="hide"><div class="user-controls"><span class="title">WELCOME,</span><span data-plugin="user-name" class="user-name"></span><i class="icon-down-arrow"></i><div class="drop-down"><ul><li><a target="_blank" rel="nofollow noopener noreferrer" href="https://mytimes.indiatimes.com">My Times</a></li><li><span data-plugin="user-logout">LOGOUT</span></li></ul></div></div></span><span data-plugin="user-notloggedin" class="hide pointer" style="font-weight: bold; float: left; display: none;"><span data-plugin="user-login">SIGN IN</span></span><div class="page-overlay"></div><div class="social-login"><div data-plugin="linkedin-share" id="linkplus" style="display:none"><div style="display:block;" id="linkimg"></div><div id="linkedin"></div></div><a aria-label="Facebook" href="https://www.facebook.com/thepunemirror" class="fb" rel="nofollow noopener noreferrer" data-plugin="facebook-follow"></a><a aria-label="Twitter" href="https://twitter.com/@ThePuneMirror" class="twitter" rel="nofollow noopener noreferrer" target="_blank" data-plugin="twitter-follow"></a></div></div><div class="logo"><a href="/"><img border="0" src="https://static.toiimg.com/photo/55813567.cms"></a></div><div class="global-navigation"><span class="dt">Tue ,May 05, 2020</span><a href="https://mumbaimirror.indiatimes.com" rel="nofollow noopener noreferrer" target="_blank">Mumbai Mirror</a><span class="divider">|</span><a href="https://bangaloremirror.indiatimes.com" rel="nofollow noopener noreferrer" target="_blank">Bangalore Mirror</a><span class="divider">|</span><a href="https://ahmedabadmirror.indiatimes.com" rel="nofollow noopener noreferrer" target="_blank">Ahmedabad Mirror</a></div></header><nav id="navigation" class="clearfix navigation"><a aria-label="nav-toggle" href="javascript:void(0);" class="spriteMM toggle-nav-btn"></a><a aria-label="home" href="/" class="spriteMM mob-nav"></a><ul class="level1 clearfix"><li class=""><a href="/">Home</a></li><li class="orange"><a href="/pune">Pune</a><div class="subnavigation subResp orange"><ul class="clearfix level2"><li class="orange"><a href="/pune/pune-speaks/articlelist/55817888.cms">Pune Speaks</a></li><li class="orange"><a href="/pune/cover-story">Cover Story</a></li><li class="orange"><a href="/pune/crime">Crime</a></li><li class="orange"><a href="/pune/civic">Civic</a></li><li class="orange"><a href="/pune/others">Others</a></li><li class="orange"><a href="/pune/campus/articlelist/38486337.cms">Campus</a></li></ul></div></li><li class="ruby"><a href="/entertainment">Entertainment</a><div class="subnavigation subResp ruby"><ul class="clearfix level2"><li class="ruby"><a href="/entertainment/bollywood/articlelist/30791400.cms">Bollywood</a></li><li class="ruby"><a href="/entertainment/hollywood/articlelist/30791389.cms">Hollywood</a></li><li class="ruby"><a href="/entertainment/film-reviews">Film Reviews</a></li><li class="ruby"><a href="/entertainment/unwind/articlelist/30791330.cms">Unwind</a></li><li class="ruby"><a href="/entertainment/marathi-reviews">Marathi Reviews</a></li></ul></div></li><li class="ochre"><a href="/columns">Columns</a><div class="subnavigation subResp ochre"><ul class="clearfix level2"><li class="ochre"><a href="/columns/the-informer/articlelist/30791654.cms">The Informer</a></li><li class="ochre"><a href="/columns/columnists">Columnists</a></li></ul></div></li><li class="blue current no-hover "><a href="/news/section/30791059.cms">News</a><div class="subnavigation subResp blue mobnav "><ul class="clearfix level2"><li class="blue"><a href="/news/india/articlelist/30791189.cms">India</a></li><li class="blue"><a href="/news/world/articlelist/30791093.cms">World</a></li></ul></div></li><li class="green"><a href="/sports">Sports</a><div class="subnavigation subResp green"><ul class="clearfix level2"><li class="green"><a href="/sports/cricket/articlelist/30792196.cms">Cricket</a></li><li class="green"><a href="/sports/others">Others</a></li></ul></div></li><li class="blue"><a href="/photos">Photos</a><div class="subnavigation subResp blue"><ul class="clearfix level2"><li class="blue"><a href="/photos/entertainment">Entertainment</a></li><li class="blue"><a href="/photos/sports">Sports</a></li><li class="blue"><a href="/photos/news/photolist/32834181.cms">News</a></li><li class="blue"><a href="/photos/cartoon-kidzone/photolist/32834119.cms">Cartoon &amp; Kidzone</a></li></ul></div></li><li class=""><a href="/videos">Videos</a></li><li class=""><a href="https://timesofindia.indiatimes.com/live-tv?utm_source=PuneMirror&amp;utm_medium=referral&amp;utm_campaign=MirrorNav">Live TV</a></li><li><a style="color:#ffff00;" href="https://mumbaimirror.indiatimes.com/coronavirus" target="_blank" rel="nofollow noopener noreferrer">Coronavirus</a></li><li class="all-nav-arrow"><a href="javascript:void();" class="show_hide">All <span class="spriteMM down-arrow"></span></a></li></ul><a style="padding: 7px; color: #ffff00; background: #000; text-decoration: none; margin-right: 48px; margin-top: 6px; border-radius: 5px; float: right;text-transform:uppercase" class="icccta mobileonly" href="https://mumbaimirror.indiatimes.com/coronavirus" target="_blank" rel="nofollow noopener noreferrer">Coronavirus</a><div class="sbtn"><input aria-label="search" value="" style="float:left;" id="searchButton" class="spriteMM submit" type="submit"></div><div class="search-form1 hide"><form id="_searchForm" method="get" action="/getsearchdata.cms"><input type="text" placeholder="" value="SEARCH" name="query" class="textbox" style="float:left;" onfocus="onFocusReset(this.value)" id="searchKeyword"></form></div></nav><div class=" blue subnavigation level2"><ul class="clearfix"><li class="blue"><a href="/news/india/articlelist/30791189.cms">India</a></li><li class="blue current no-hover "><a href="/news/world/articlelist/30791093.cms">World</a></li></ul></div><div class="hide slidingDiv"><div class="dropdownnav clearfix"><div class="column"><div class="heading"><a href="/pune">Pune</a></div><ul><li><a href="/pune/pune-speaks/articlelist/55817888.cms">Pune Speaks</a></li><li><a href="/pune/cover-story">Cover Story</a></li><li><a href="/pune/crime">Crime</a></li><li><a href="/pune/civic">Civic</a></li><li><a href="/pune/others">Others</a></li><li><a href="/pune/campus/articlelist/38486337.cms">Campus</a></li></ul></div><div class="column"><div class="heading"><a href="/entertainment">Entertainment</a></div><ul><li><a href="/entertainment/bollywood/articlelist/30791400.cms">Bollywood</a></li><li><a href="/entertainment/hollywood/articlelist/30791389.cms">Hollywood</a></li><li><a href="/entertainment/film-reviews">Film Reviews</a></li><li><a href="/entertainment/unwind/articlelist/30791330.cms">Unwind</a></li><li><a href="/entertainment/marathi-reviews">Marathi Reviews</a></li></ul></div><div class="column"><div class="heading"><a href="/columns">Columns</a></div><ul><li><a href="/columns/the-informer/articlelist/30791654.cms">The Informer</a></li><li><a href="/columns/columnists">Columnists</a></li></ul></div><div class="column"><div class="heading"><a href="/news/section/30791059.cms">News</a></div><ul><li><a href="/news/india/articlelist/30791189.cms">India</a></li><li><a href="/news/world/articlelist/30791093.cms">World</a></li></ul></div><div class="column"><div class="heading"><a href="/sports">Sports</a></div><ul><li><a href="/sports/cricket/articlelist/30792196.cms">Cricket</a></li><li><a href="/sports/others">Others</a></li></ul></div><div class="column"><div class="heading"><a href="/loksabha-elections">Loksabha Elections</a></div></div><div class="column"><div class="heading"><a href="/others">Others</a></div><ul><li><a href="/others/leisure">Leisure</a></li><li><a href="/others/sunday-read">Sunday Read</a></li><li><a href="/others/scitech/articlelist/30790944.cms">Scitech</a></li><li><a href="/others/you/articlelist/30790892.cms">You</a></li><li><a href="/others/special">Special</a></li><li><a href="/others/eat/articlelist/30790778.cms">Eat</a></li></ul></div><div class="column"><div class="heading"><a href="/photos">Photos</a></div><ul><li><a href="/photos/entertainment">Entertainment</a></li><li><a href="/photos/sports">Sports</a></li><li><a href="/photos/news/photolist/32834181.cms">News</a></li><li><a href="/photos/cartoon-kidzone/photolist/32834119.cms">Cartoon &amp; Kidzone</a></li></ul></div></div><!--/alldropdown.cmspotime:45--></div><div id="breadcrumb"><div class="container"><ul itemtype="https://schema.org/BreadcrumbList" itemscope=""><li itemscope="itemscope" itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a href="https://punemirror.indiatimes.com" itemprop="item"><span itemprop="name">Home</span></a><meta content="1" itemprop="position"></li>/<li itemtype="https://schema.org/ListItem" itemscope="itemscope" itemprop="itemListElement"><a itemprop="item" href="https://punemirror.indiatimes.com/news/section/30791059.cms"><span itemprop="name">News</span></a><meta itemprop="position" content="2"></li>/<li itemtype="https://schema.org/ListItem" itemscope="itemscope" itemprop="itemListElement"><a itemprop="item" href="https://punemirror.indiatimes.com/news/world/articlelist/30791093.cms"><span itemprop="name">World</span></a><meta itemprop="position" content="3"></li>/<li><span>Tanzania: President queries kits after goat, fruit test positive for COVID-19</span></li></ul></div></div><!--/header.cms?msid=30791093&bdcrumb=Tanzania: President queries kits after goat, fruit test positive for COVID-19potime:841--><div xmlns:g="http://base.google.com/ns/1.0" class="breaking-news" style=""></div><div style="display:none;" class="breaking-news"><i class="close_btn"></i><div class="wrapper"><ul class="js-hidden" id="js-news"></ul></div></div><input xmlns:g="http://base.google.com/ns/1.0" id="specialId_forGeoEvent" type="hidden" value=""><input id="matchId" type="hidden" value="1xwmymeuzz"><div id="minitv"></div><script defer async="async" src="/js_minitv/version-6,minify-1.cms" type="text/javascript"></script><!--/minitv.cms?version=2&pagetype=newpotime:26--><div class="content clearfix"><div class="gap"></div><div class="ad-widget wdgt colombia alC webonly" id="div-gpt-ad-328829-75529018" data-position="75529018" data-ua="d" data-slot="328829" style="text-align:center;width:980px;margin:0 auto;"></div><div class="left-content" id="article-75529018" data-msid="75529018"><div class="container-inner"><div id="content" class="clearfix "><div data-adsSlot="PuneMirror_MWeb/PuneMirror_MWeb_ROS/PM_MWEB_ROS_ATF" class="smobonly" data-size="[[320, 50],[320,100]]" id="div-gpt-ad-1531306914883-0-smob2-75529018"></div><div data-adsSlot="PuneMirror_MWeb/PuneMirror_MWeb_ROS/PM_MWEB_ROS_ATF" class="lmobonly" data-size="[468, 60]" id="div-gpt-ad-1531306914883-0-lmob2-75529018"></div><div data-adsSlot="PuneMirror_MWeb/PuneMirror_MWeb_ROS/PM_MWEB_ROS_ATF" class="ipadonly" data-size="[728, 90]" id="div-gpt-ad-1531306914883-0-ipad2-75529018"></div><div class="heading2" data-id="75529018"><h1>Tanzania: President queries kits after goat, fruit test positive for COVID-19</h1></div><div class="left"><span class="byline"><span style="display:none" id="authortext"></span>Reuters <span style="font-size:9px;">|</span> Updated: May 4, 2020, 12:05 IST</span></div><div class="clear" id="emailprint"><div class="printart"><div class="flLm"><div id="printarea" class="tt"><a target="_blank" href="/articleshowprint/75529018.cms?prtpage=1"><small socialano="TOI" socialpg="PrintLHS" class="print_img"></small><span class="tooltip"><span class="top"></span><span class="middle">Print this article</span><span class="bottom"></span></span></a></div></div><div class="flL"><div socialano="TOI" socialpg="ReduFSLHS" align="right" onclick="ts('article-75529018',-1)" class="tt flL_cr"><span class="fontd"></span><a aria-label="Reduce Font Size" href="javascript:void(0);"><span class="tooltip"><span class="top"></span><span class="middle">Reduce font size</span><span class="bottom"></span></span></a></div><div socialano="TOI" socialpg="IncrFSLHS" onclick="ts('article-75529018',1)" class="tt flL_cr"><span class="fonti"></span><a aria-label="Increase Font Size" href="javascript:void(0);"><span class="tooltip"><span class="top"></span><span class="middle">Increase font size</span><span class="bottom"></span></span></a></div></div></div></div><div id="sharebar" class="social_links vertical"><div class="socialpos" id="shareVertHolder"><ul class="sharingBox"><li class="mobileonly ipadonly"><a class="whatsapp shareSprite" title="Share on Facebook" rel="nofollow noopener noreferrer" href="javascript:void(0);" data-share-url="https://punemirror.indiatimes.com/coronavirus/news/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms" data-share-title="Tanzania: President queries kits after goat, fruit test positive for COVID-19" data-image="https://static.toiimg.com/thumb/imgsize-971199,msid-75528954,width-400,resizemode-4/75528954.jpg"></a></li><li><a class="fb shareSprite" title="Share on Facebook" rel="nofollow noopener noreferrer" href="javascript:void(0);" data-share-url="https://punemirror.indiatimes.com/coronavirus/news/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms" data-share-title="Tanzania: President queries kits after goat, fruit test positive for COVID-19" data-image="https://static.toiimg.com/thumb/imgsize-971199,msid-75528954,width-400,resizemode-4/75528954.jpg"></a></li><li><a class="twitter shareSprite twt twitterShareBtn" title="Share on Twitter" rel="nofollow noopener noreferrer" href="javascript:void(0);" data-share-url="https://punemirror.indiatimes.com/coronavirus/news/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms" data-share-title="Tanzania: President queries kits after goat, fruit test positive for COVID-19" data-image="https://static.toiimg.com/thumb/imgsize-971199,msid-75528954,width-400,resizemode-4/75528954.jpg"></a></li><li><a class="linkedin shareSprite" title="Share on LinkedIn" rel="nofollow noopener noreferrer" href="javascript:void(0);" data-share-url="https://punemirror.indiatimes.com/coronavirus/news/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms" data-share-title="Tanzania: President queries kits after goat, fruit test positive for COVID-19" data-image="https://static.toiimg.com/thumb/imgsize-971199,msid-75528954,width-400,resizemode-4/75528954.jpg"></a></li><li><a class="email mail shareSprite" title="Share" rel="nofollow noopener noreferrer" href="javascript:void(0);" data-share-url="https://punemirror.indiatimes.com/coronavirus/news/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms" data-share-title="Tanzania: President queries kits after goat, fruit test positive for COVID-19" data-image="https://static.toiimg.com/thumb/imgsize-971199,msid-75528954,width-400,resizemode-4/75528954.jpg"></a></li><li class="mobileonly ipadonly"><a class="message shareSprite" title="Share on Facebook" rel="nofollow noopener noreferrer" href="javascript:void(0);" data-share-url="https://punemirror.indiatimes.com/coronavirus/news/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms" data-share-title="Tanzania: President queries kits after goat, fruit test positive for COVID-19" data-image="https://static.toiimg.com/thumb/imgsize-971199,msid-75528954,width-400,resizemode-4/75528954.jpg"></a></li></ul></div></div><div class="socialcont social-icons socialSpace"><div style="display:none;" class="socialsharecont-radial opac123 radial-animate"><ul class="icons"><li><i class="iconshare track" data-track="Share_primaryfloatinghit" data-href="ga">Share</i><i class="iconshare1 track" data-track="Share_closefloatinghit" data-href="ga"></i></li></ul><ul class="share-buttons-radial"><li class="mobileonly ipadonly"><a class="whatsapp shareSprite" title="Share on Facebook" rel="nofollow noopener noreferrer" href="javascript:void(0);" data-share-url="https://punemirror.indiatimes.com/coronavirus/news/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms" data-share-title="Tanzania: President queries kits after goat, fruit test positive for COVID-19" data-image="https://static.toiimg.com/thumb/imgsize-971199,msid-75528954,width-400,resizemode-4/75528954.jpg"></a></li><li><a class="fb shareSprite" title="Share on Facebook" rel="nofollow noopener noreferrer" href="javascript:void(0);" data-share-url="https://punemirror.indiatimes.com/coronavirus/news/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms" data-share-title="Tanzania: President queries kits after goat, fruit test positive for COVID-19" data-image="https://static.toiimg.com/thumb/imgsize-971199,msid-75528954,width-400,resizemode-4/75528954.jpg"></a></li><li><a class="twitter shareSprite twt twitterShareBtn" title="Share on Twitter" rel="nofollow noopener noreferrer" href="javascript:void(0);" data-share-url="https://punemirror.indiatimes.com/coronavirus/news/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms" data-share-title="Tanzania: President queries kits after goat, fruit test positive for COVID-19" data-image="https://static.toiimg.com/thumb/imgsize-971199,msid-75528954,width-400,resizemode-4/75528954.jpg"></a></li><li><a class="linkedin shareSprite" title="Share on LinkedIn" rel="nofollow noopener noreferrer" href="javascript:void(0);" data-share-url="https://punemirror.indiatimes.com/coronavirus/news/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms" data-share-title="Tanzania: President queries kits after goat, fruit test positive for COVID-19" data-image="https://static.toiimg.com/thumb/imgsize-971199,msid-75528954,width-400,resizemode-4/75528954.jpg"></a></li><li><a class="email mail shareSprite" title="Share" rel="nofollow noopener noreferrer" href="javascript:void(0);" data-share-url="https://punemirror.indiatimes.com/coronavirus/news/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms" data-share-title="Tanzania: President queries kits after goat, fruit test positive for COVID-19" data-image="https://static.toiimg.com/thumb/imgsize-971199,msid-75528954,width-400,resizemode-4/75528954.jpg"></a></li><li class="mobileonly ipadonly"><a class="message shareSprite" title="Share on Facebook" rel="nofollow noopener noreferrer" href="javascript:void(0);" data-share-url="https://punemirror.indiatimes.com/coronavirus/news/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms" data-share-title="Tanzania: President queries kits after goat, fruit test positive for COVID-19" data-image="https://static.toiimg.com/thumb/imgsize-971199,msid-75528954,width-400,resizemode-4/75528954.jpg"></a></li></ul></div></div><div class="leadimg "><img defer="defer" alt="Tanzania: President queries kits after goat, fruit test positive for COVID-19" title="Tanzania: President queries kits after goat, fruit test positive for COVID-19" src="https://static.toiimg.com/thumb/imgsize-971199,msid-75528954,width-400,resizemode-4/75528954.jpg" pg=""><div pg="asStoryPic" class="zoomimg1"><div style="font-size:11px;text-align:left;padding-right:5px;color:#757575;font-style:italic;">Representational image. Photo: Getty Images</div></div></div><div class="MovieReviewCritic reviewTabsID"><arttextxml><div class="section1"><div class="Normal"><strong>Dar es Salaam:</strong> <keyword keytype="person" smid="0" usetype="2" keywordseo="Coronavirus" keynameseo="coronavirus" actualkeyword="coronavirus">Coronavirus</keyword> test kits used in 
+<span class="textHLMark"><keyword keytype="country" smid="0" usetype="2" keywordseo="Tanzania" actualkeyword="Tanzania">Tanzania</keyword></span> were dismissed as faulty by President John Magufuli on Sunday, because he said they had returned positive results on samples taken from a goat and a pawpaw.
+<br>
+<br>Magufuli, whose government has already drawn criticism for being secretive about the coronavirus outbreak and has previously asked Tanzanians to pray the coronavirus away, said the kits had "technical errors".
+<br>
+<br>The <keyword keytype="UnKnown" smid="0" usetype="2" keywordseo="COVID-19" keynameseo="covid-19" actualkeyword="covid-19">COVID-19</keyword> testing kits had been imported from abroad, Magufuli said during an event in Chato in the north west of 
+<span class="textHLMark">Tanzania</span>, although he did not give further details.
+<br>
+<br><div style="clear: both;" class="ctn_ads_AR_2 vidad vidad-75529018"><div class="colombia" data-native-tmpl="ctn_belowarticle_1_organic" data-pg-tag="1" data-slot-type="organicAds" data-slot="323278" data-desc-len="90" id="323278-75529018" data-position="75529018" data-index="75529018" data-secid="30791059" data-section="articleshow"></div><div class="clearfix"></div></div><script>
+            (function(){
+                var vidads = "vidad-"+75529018;
+                var mobile = (/iphone|ipod|android|blackberry|mini|iemobile|sce|palm/i.test(navigator.userAgent.toLowerCase()));
+                if(mobile){
+                    var div = document.getElementsByClassName(vidads)[0].childNodes[0];
+                    div.setAttribute("data-slot","323287")
+                    var idattr = div.getAttribute("id").replace("323278","323287")
+                    div.setAttribute("id",idattr);
+                }
+            })();
+            
+        </script><script type="text/x-jquery-tmpl" id="ctn_belowarticle_2"><li class="clearfix"><a pg="ctn_belowarticle_2_paid#~pg-tag~" href="~url~" target="_blank" title="~name~" class="ad_img"><img pg="ctn_belowarticle_2_paid#~pg-tag~" data-src="~sImg~" src="~sImg~"><span class="ad_heading">~name~</span></a><span class="ad_brand">~brandtext~</span></li></script><script type="text/javascript">
+    	    
+    	    var hideAds = function($containerElem){
+                if($containerElem && $containerElem.length != 0){
+                    $($containerElem[0].parentNode.parentNode).hide();
+                }
+            }
+            
+    	</script><!--/ctn_outbrain_ads.cms?adcode=video_ad&msid=75529018&secid=30791059&templateName=articleshowpotime:503-->
+<a href="https://mumbaimirror.indiatimes.com/coronavirus/news/covid19-latest-live-updates-maharashtra-lockdown-3-0-dharavi-mumbai-thane-pune-mira-bhayandar/liveblog/75525305.cms" rel="nofollow noopener noreferrer">Click here for latest updates on the coronavirus pandemic</a>
+<br>
+<br>The president said he had instructed Tanzanian security forces to check the quality of the kits. They had randomly obtained several non-human samples, including from a pawpaw, a goat and a sheep, but had assigned them human names and ages.
+<br>
+<br>These samples were then submitted to 
+<span class="textHLMark">Tanzania</span>'s laboratory to test for the coronavirus, with the lab technicians left deliberately unaware of their origins.
+<br>
+<br>
+<br>
+<div data-type="embedgroup">
+ <title>Untitled Carousel</title> 
+ <div class="embedarticle" data-msid="75526197"><a href="https://mumbaimirror.indiatimes.com/coronavirus/news/we-will-have-a-covid-19-vaccine-by-the-end-of-year-says-us-president-donald-trump/articleshow/75526197.cms"><h4>We will have a COVID-19 vaccine by the end of year, says US President Donald Trump</h4></a><div class="synopsis">The number of coronavirus cases in the US has risen to 11,57,687 while the death toll stands at 67,674, according to latest data from Johns Hopkins University.</div></div>
+</div>
+<br>Samples from the pawpaw and the goat tested positive for COVID-19, the president said, adding this meant it was likely that some people were being tested positive when in fact they were not infected by the coronavirus.
+<br>
+<br>"There is something happening. I said before we should not accept that every aid is meant to be good for this nation," Magufuli said, adding the kits should be investigated.
+<br>
+<br>As of Sunday, 
+<span class="textHLMark">Tanzania</span> had recorded 480 cases of COVID-19 and 17 deaths but unlike most other African countries, Dar es Salaam sometimes goes for days without offering updates, with the last bulletin on cases on Wednesday.
+<br>
+<br>Magufuli also said that he was sending a plane to collect a cure being promoted by Madagascar's president. The herbal mix has not yet undergone internationally recognised scientific testing.
+<br>
+<br>
+<div data-type="embedgroup">
+ <title>Untitled Carousel</title> 
+ <div class="embedarticle mediatypeimg" data-msid="75281560"><img src=" https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75281560.cms"><a href="https://mumbaimirror.indiatimes.com/coronavirus/news/states-asked-to-halt-use-of-china-made-rapid-testing-kits/articleshow/75281559.cms"><h4>States asked to halt use of China-made rapid testing kits</h4></a><div class="synopsis">ICMR directive comes after four states, including Rajasthan, report accuracy rates as low as 5.4%</div></div> 
+ <div class="embedarticle" data-msid="75520490"><a href="https://mumbaimirror.indiatimes.com/coronavirus/news/covid-19-india-places-orders-for-6-3-million-rt-pcr-kits-to-increase-testing-capacity/articleshow/75520490.cms"><h4>COVID-19: India places orders for 6.3 million RT-PCR kits to increase testing capacity</h4></a><div class="synopsis">In a move to increase the current testing capacity for COVID-19 in India, orders have been placed for close to 6.3 million (63 lakh) RT-PCR testing kits.</div></div>
+</div>
+<br>
+<div data-adsSlot="PuneMirror_MWeb/PuneMirror_MWeb_ROS/PM_MWEB_ROS_Mrec" class="mobileonly text-center" data-size="[300,250]" id="div-gpt-ad-1531306914883-2-mob-75529018-68"></div><br>"I'm communicating with Madagascar," he said during a speech, adding: "They have got a medicine. We will send a flight there and the medicine will be brought in the country so that Tanzanians too can benefit."
+<br>
+<br>COVID-19 infections and fatalities reported across Africa have been relatively low compared with the United States, parts of Asia and Europe. But Africa also has extremely low levels of testing, with rates of only around 500 per million people.
+<br>
+<div data-adsSlot="PuneMirror_MWeb/PuneMirror_MWeb_ROS/PM_MWEB_ROS_Mrec" class="mobileonly text-center" data-size="[300,250]" id="div-gpt-ad-1531306914883-2-mob-75529018-76"></div><br>
+<br>
+<div data-type="InlineMedia" class="slideshowcontainer articleshow_slideshow InlineMedia" data-msid="74733991" data-prefix="75529018_80"><div class="bgskin"></div><div class="slide_full"></div><div data-slideshow="master" class="slideshowbox" data-sliderprefix="75529018_80" data-sliderid="74733991"><h3>Photos: Global landmarks turn eerily silent amid coronavirus pandemic</h3><div class="slidesouter" data-copywidth-from="75529018_80_sl74733991"><div data-plugin="dynwidth" data-slider="slides" class="slides"><div class="slide" data-slideid="74733993" data-copywidth-to="75529018_80_sl74733991"><img alt="World comes to a standstill" data-src="/photo/74733993.cms" src="/photo/63186481.gif"></div><div class="slide" data-slideid="74734051" data-copywidth-to="75529018_80_sl74733991"><img alt="Taj Mahal" data-src="/photo/74734051.cms" src="/photo/63186481.gif"></div><div class="slide" data-slideid="74734096" data-copywidth-to="75529018_80_sl74733991"><img alt="Eiffel Tower" data-src="/photo/74734096.cms" src="/photo/63186481.gif"></div><div class="slide" data-slideid="74734092" data-copywidth-to="75529018_80_sl74733991"><img alt="The sacred Kaaba at Mecca" data-src="/photo/74734092.cms" src="/photo/63186481.gif"></div><div class="slide" data-slideid="74909865" data-copywidth-to="75529018_80_sl74733991"><img alt="Gateway of India" data-src="/photo/74909865.cms" src="/photo/63186481.gif"></div><div class="slide" data-slideid="74909883" data-copywidth-to="75529018_80_sl74733991"><img alt="Burj Khalifa" data-src="/photo/74909883.cms" src="/photo/63186481.gif"></div><div class="slide" data-slideid="74910281" data-copywidth-to="75529018_80_sl74733991"><img alt="London Eye" data-src="/photo/74910281.cms" src="/photo/63186481.gif"></div><div class="slide" data-slideid="74910258" data-copywidth-to="75529018_80_sl74733991"><img alt="Colosseum, Rome" data-src="/photo/74910258.cms" src="/photo/63186481.gif"></div><div class="slide" data-slideid="74734093" data-copywidth-to="75529018_80_sl74733991"><img alt="Statue of Liberty" data-src="/photo/74734093.cms" src="/photo/63186481.gif"></div><div class="slide" data-slideid="74734097" data-copywidth-to="75529018_80_sl74733991"><img alt="Disneyland" data-src="/photo/74734097.cms" src="/photo/63186481.gif"></div><div class="slide" data-slideid="74734091" data-copywidth-to="75529018_80_sl74733991"><img alt="Venice" data-src="/photo/74734091.cms" src="/photo/63186481.gif"></div><div class="slide" data-slideid="74910274" data-copywidth-to="75529018_80_sl74733991"><img alt="Opera House, Sydney" data-src="/photo/74910274.cms" src="/photo/63186481.gif"></div></div><div class="pagination"><span data-slider="current" class="slideno">1</span><span class="seperator"></span><span data-slider="total" class="totalslide">12</span></div><span data-slider="prev" class="npbtn prev disabled"></span><span data-slider="next" class="npbtn next"></span></div><div class="socialicons"><div class="toiwidgets_social" data-wposition="articleshow_slideshow"></div></div></div><div data-slideshow="infotoggle" class="infotoggle"></div><div class="infobox"><div class="infoouter" data-slideshow="slave" data-copywidth-from="75529018_80_ib74733991" data-sliderprefix="75529018_80" data-sliderid="74733991"><div data-plugin="dynwidth" data-slider="slides" class="infoslides clearfix"><div class="infoslide" data-copywidth-to="75529018_80_ib74733991"><h4>World comes to a standstill</h4><div data-slideshow="slidecaption" data-mcscroll="" class="slidecaption"><p>Along with claiming more than 10,000 lives all over the world and infecting over 2,50,000 people, the coronavirus pandemic has also brought the entire world to a standstill. What started off as an outbreak in a town in China called Wuhan, the virus has now dug its roots deep in at least 166 countries around the globe, including India, United States of America, Asia, European nations, and the UAE.</p><p>As a precautionary measure against the contagious virus, people began practicing social distancing, self-isolation and home-quarantine, which has brought forth a rather scary picture of the world we live in. </p><p>The once densely crowded global landmarks such as the Eiffel Tower, Mecca, Taj Mahal, Statue of Liberty and many others have turned into ghost sites with most of the countries announcing closures, partial lockdowns and complete lockdowns. The iconic monuments and public places that witnessed millions of people in a single day stand deserted now, waiting for the situation at hand to come under control.<br /></p></div></div><div class="infoslide" data-copywidth-to="75529018_80_ib74733991"><h4>Taj Mahal</h4><div data-slideshow="slidecaption" data-mcscroll="" class="slidecaption"><p>One of the seven wonders of the world and a leading tourist destination, Taj Mahal has been shut by the Government of India for the first time in four decades. As the number of cases in India crosses 200, strict measures are being taken by the Centre to curtail the spread of the virus as effectively as possible. The restaurants and vendors outside Taj Mahal have also been hit financially due to negligible footfall in the region.</p></div></div><div class="infoslide" data-copywidth-to="75529018_80_ib74733991"><h4>Eiffel Tower</h4><div data-slideshow="slidecaption" data-mcscroll="" class="slidecaption"><p>The Eiffel Tower in Paris which is usually bustling with lakhs of tourists thronging the place on a daily basis, now does not have even a single admirer. It is usually one of the busiest places in the French capital. In a bid to limit the spread of COVID-19, France announced a complete lockdown for 15 days on March 17. Over 10,000 people have tested positive in France with at least 1,295 succumbing to the virus. Photo: AFP</p></div></div><div class="infoslide" data-copywidth-to="75529018_80_ib74733991"><h4>The sacred Kaaba at Mecca</h4><div data-slideshow="slidecaption" data-mcscroll="" class="slidecaption"><p>Mecca, which is considered to be the holiest land in Islam, now stands empty with no pilgrims in the vicinity due to the coronavirus pandemic. On Tuesday, Saudi Arabia announced that mosques would no longer receive worshippers for the customary five daily prayers or the weekly Friday congregation, aimed at limiting the spread of the coronavirus which has infected 274 people in the kingdom. Photo: AFP</p></div></div><div class="infoslide" data-copywidth-to="75529018_80_ib74733991"><h4>Gateway of India</h4><div data-slideshow="slidecaption" data-mcscroll="" class="slidecaption"><p>India's famous Gateway of India, which has seen the city rise and fall and rise again from the ashes, the transition of Bombay to Mumbai and even the horrific terrorist attacks of 26/11 now stands all alone alongside the Arabian Sea. The ever-bustling place now has no visitors as India has announced a complete nationwide lockdown till April 14. Photo by Ramesh Sable/TIL</p></div></div><div class="infoslide" data-copywidth-to="75529018_80_ib74733991"><h4>Burj Khalifa</h4><div data-slideshow="slidecaption" data-mcscroll="" class="slidecaption"><p>The world's tallest structure Burj Khalifa, which is situated in Dubai, sees hundreds of visitors on a daily basis. But now, due to people staying inside their homes and doing their bit to stop the spread of coronavirus, the staggering building has no one to look on. Tourism in Dubai has also been affected because of major airports across the world shutting down operations due to the pandemic. Photo: Reuters, AFP</p></div></div><div class="infoslide" data-copywidth-to="75529018_80_ib74733991"><h4>London Eye</h4><div data-slideshow="slidecaption" data-mcscroll="" class="slidecaption"><p>The mystical London Eye, an observation wheel on the bank of the River Thames, attracts scores of people everyday. But the tourist spot is now left abandoned as the UK has reported a total of 22,141 positive cases. More than 1,000 people have succumbed to the virus in the country. Even the Prime Minister of UK Boris Johnson and well as Prince Charles had tested positive for COVID-19. While the Prince is on his path to recovery, Johnson has quarantined himself at his residence and is carrying out his work from there itself. Photo: AP</p></div></div><div class="infoslide" data-copywidth-to="75529018_80_ib74733991"><h4>Colosseum, Rome</h4><div data-slideshow="slidecaption" data-mcscroll="" class="slidecaption"><p>Most of the people who visit the Colosseum in Rome often complain of not getting a single proper picture with the structure in the background because of the crowd bustling around there. But now, the scene in front of Colosseum is completely in contrast to what it was before as Italy was put under total lockdown after becoming the epicentre for the coronavirus pandemic. The country has reported the highest number of deaths in the world (11,591) with almost 1,000 people dying in a single say recently. Photo: AFP</p></div></div><div class="infoslide" data-copywidth-to="75529018_80_ib74733991"><h4>Statue of Liberty</h4><div data-slideshow="slidecaption" data-mcscroll="" class="slidecaption"><p>The United States of America has reported 14,366 positive cases of coronavirus with 217 deaths and a reflection of this can be seen around the world-famous Statue of Liberty. As the virus infects more people in the USA, the Statue of Liberty was closed down for tourists on March 16 until further notice. Reuters photos</p></div></div><div class="infoslide" data-copywidth-to="75529018_80_ib74733991"><h4>Disneyland</h4><div data-slideshow="slidecaption" data-mcscroll="" class="slidecaption"><p>Disneyland, which is probably on the bucket list of every individual, now stands completely silent after being closed due to the coronavirus scare. The once busy theme park echoing with the laughter of children and adults alike is now eerily quiet and has been abandoned even by its loyal visitors. Photo: AP</p></div></div><div class="infoslide" data-copywidth-to="75529018_80_ib74733991"><h4>Venice</h4><div data-slideshow="slidecaption" data-mcscroll="" class="slidecaption"><p>As Italy becomes the worst-hit country in the world due to the coronavirus, the Grand Canal in Venice, Italy can be seen empty waiting for things to turn normal in the city once again. Over 40,000 people are infected in Italy and over 3,000 people have died forcing the country to go into a complete lockdown. Italy's numbers now exceed the total number of dead in China.  Photo: AFP</p></div></div><div class="infoslide" data-copywidth-to="75529018_80_ib74733991"><h4>Opera House, Sydney</h4><div data-slideshow="slidecaption" data-mcscroll="" class="slidecaption"><p>The world-famous Opera House of Syndey has now been deserted by its fans, courtesy -- the coronavirus pandemic. It is not only the city's most iconic landmark but also one of the most favourite places to visit for architecture lovers. However, the premises are now empty because its admirers are all locked up inside their houses in a bid to save the world from the contagious novel coronavirus. Photo: AFP, Reuters</p></div></div></div></div></div></div><!--/toislideshow.cms?config.hostid=247&msid=74733991&socialicons=1&prefix=75529018_80&pagename=articleshow&type=InlineMediapotime:132-->
+<br>
+</div></div></arttextxml><div xmlns:xslthelper="com.times.utils.xslthelper.XMLHelper" class="relatedarticle"><h4>RELATED NEWS</h4><ul class="clearfix new_reltedarticle"><li><a pg="AS1_InlineMedia#AS1_Related1~AS1_1-https://punemirror.indiatimes.com/news/world/freedom-in-france-a-nursing-home-takes-on-covid-19-and-wins/articleshow/75530987.cms" class="clearfix" href="https://punemirror.indiatimes.com/news/world/freedom-in-france-a-nursing-home-takes-on-covid-19-and-wins/articleshow/75530987.cms?utm_source=Articleshow&amp;utm_medium=Organic&amp;utm_campaign=Related_Stories"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/thumb/75530987.cms"><div class="details"><span>Freedom! In France, a nursing home takes on COVID-19 and wins</span><p>May 04, 2020</p></div></a></li><li><a pg="AS1_InlineMedia#AS1_Related1~AS1_2-https://punemirror.indiatimes.com/news/india/andhra-pradesh-to-distribute-3-masks-to-each-of-5-3-crore-citizens/articleshow/75106435.cms" class="clearfix" href="https://punemirror.indiatimes.com/news/india/andhra-pradesh-to-distribute-3-masks-to-each-of-5-3-crore-citizens/articleshow/75106435.cms?utm_source=Articleshow&amp;utm_medium=Organic&amp;utm_campaign=Related_Stories"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/thumb/75106435.cms"><div class="details"><span>Andhra Pradesh to distribute 3 masks to each of 5.3 crore citizens</span><p>Apr 12, 2020</p></div></a></li><li><a pg="AS1_InlineMedia#AS1_Related1~AS1_3-https://punemirror.indiatimes.com/pune/civic/fir-against-8-tanzania-nationals-with-jamaat-link-for-flouting-visa-rules/articleshow/75000617.cms" class="clearfix" href="https://punemirror.indiatimes.com/pune/civic/fir-against-8-tanzania-nationals-with-jamaat-link-for-flouting-visa-rules/articleshow/75000617.cms?utm_source=Articleshow&amp;utm_medium=Organic&amp;utm_campaign=Related_Stories"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/thumb/75000617.cms"><div class="details"><span>FIR against 8 Tanzania nationals with Jamaat link for flouting visa r...</span><p>Apr 06, 2020</p></div></a></li></ul></div><!--/recommendedarticles.cms?msid=75529018potime:790--></div>
+                
+                    
+                
+            
+                
+                    
+                
+            
+                
+                    
+                
+            <div class="clrdivhg"></div><div class="gallery1"><span class="heading">GALLERIES <span style="top: 1px;position: relative;" class="spriteMM right-arrow"></span><a onclick="ga('send','event','Homepage','Photo Gallery')" href="https://punemirror.indiatimes.com/photolist/31095438.cms" class="viewm">View more photos</a></span><div class="scrollcontainer"><div class="slidewrap clearfixlist-content slider1 clearfix infoctrn"><ul xmlns:xslthelper="com.times.utils.xslthelper.XMLHelper" xmlns:str="http://exslt.org/strings" xmlns:saxon="http://saxon.sf.net/" xmlns:ext="http://exslt.org/common" xmlns:dateUtil="com.indiatimes.cms.utilities.CMSDateUtility" class="cvs_wdt clearfix" data-msid="75409895"><li><a class="w_img" href="/photos/news/in-pictures-ramzan-in-pune-in-the-times-of-the-coronavirus-outbreak/A-call-to-prayer/photostory/75409895.cms" title="A call to pray at home" pg="31095438#"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/thumb/msid-75409895,width-200,resizemode-4/75409895.jpg" alt="A call to pray at home" pg="31095438#"></a><span class="w_tle"><a href="/photos/news/in-pictures-ramzan-in-pune-in-the-times-of-the-coronavirus-outbreak/A-call-to-prayer/photostory/75409895.cms" title="A call to pray at home" pg="31095438#">A call to pray at home</a></span></li><li><a class="w_img" href="/photos/news/not-just-coronavirus-punes-uruli-devachi-struggles-to-get-adequate-water/water-woes-in-uruli-devachi-continues-/photostory/75406542.cms" title="​Water woes in Uruli Devachi continues...​" pg="31095438#"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/thumb/msid-75406542,width-200,resizemode-4/75406542.jpg" alt="​Water woes in Uruli Devachi continues...​" pg="31095438#"></a><span class="w_tle"><a href="/photos/news/not-just-coronavirus-punes-uruli-devachi-struggles-to-get-adequate-water/water-woes-in-uruli-devachi-continues-/photostory/75406542.cms" title="​Water woes in Uruli Devachi continues...​" pg="31095438#">​Water woes in Uruli Devachi continues...​</a></span></li><li><a class="w_img" href="/photos/news/in-pictures-what-pune-looks-like-in-the-lockdown-police-resort-to-innovative-punishments-for-lockdown-violators/second-highest-number-of-covid-19-cases/photostory/75198479.cms" title="What Pune looks like in lockdown" pg="31095438#"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/thumb/msid-75198479,width-200,resizemode-4/75198479.jpg" alt="What Pune looks like in lockdown" pg="31095438#"></a><span class="w_tle"><a href="/photos/news/in-pictures-what-pune-looks-like-in-the-lockdown-police-resort-to-innovative-punishments-for-lockdown-violators/second-highest-number-of-covid-19-cases/photostory/75198479.cms" title="What Pune looks like in lockdown" pg="31095438#">What Pune looks like in lockdown</a></span></li></ul><!--/wdt_list.cms?msid=31095438&config.perpage=3&view=title&lead=3&img=200&exclude_top=0potime:27--></div></div></div><div class="article-comments" id="write75529018"><div class="comments_wrapper" id="comments_75529018"><div xmlns:g="http://base.google.com/ns/1.0" data-status="false" class="comment-section mobview"><div class=" articlecomment" data-commentmsid="75529018"><div class="comment_txt"><span data-plugin="comment-top"></span><div class="tbl"><a class="addacomment" href="/coronavirus/news/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/usercomments/75528886.cms">View all <i><span data-plugin="comment-count"></span></i> Comments</a><i href="javascript:void(0)" style=" padding:0 5px"></i><a class="addacomment mrgR0" href="/coronavirus/news/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/usercomments/75528886.cms"><img src="/photo/62884561.cms" class="comment-img"> Add Comment</a></div></div></div></div><div class="article desktopview"><div id="email_verified"></div><div id="comment-section-75529018" class="comment-section"><span data-plugin="facebook-loadjs" class="hide"></span><h2>Recent Messages (<span data-plugin="comment-count"></span>)</h2><div data-level="0" data-id="0" data-index="-1" data-plugin="comment"><div data-plugin="comment-form" class="comment-form2"><div class="user-thumbnail"><img data-plugin="user-thumb" src="/photo/29251859.cms"></div><div class="rate-box1 clearfix"><h3>Please rate before posting your Review</h3><div class="search-box filter"><input readonly class="ratedd newtextbox" data-plugin="comment-rating" value="Rate this movie" type="text"><a class="down_arrow" href="javascript:void(0)"></a><ul data-plugin="rating-list" style="display: none;" class="rr drop-down"><li val="2" type="1  (Trash)" data-plugin="rating-vaue">1  (Trash)</li><li val="3" type="1.5  (Poor)" data-plugin="rating-vaue">1.5  (Poor)</li><li val="4" type="2  (Below average)" data-plugin="rating-vaue">2  (Below average)</li><li val="5" type="2.5  (Average)" data-plugin="rating-vaue">2.5  (Average)</li><li val="6" type="3  (Above average)" data-plugin="rating-vaue">3 (Above average)</li><li val="7" type="3.5  (Good)" data-plugin="rating-vaue">3.5  (Good)</li><li val="8" type="4  (Very good)" data-plugin="rating-vaue">4  (Very good)</li><li val="9" type="4.5  (Very good +)" data-plugin="rating-vaue">4.5  (Very good +)</li><li val="10" type="5  (Excellent)" data-plugin="rating-vaue">5  (Excellent)</li></ul></div></div><textarea placeholder="Add your comment here" data-plugin="comment-input" cols="40" rows="5"></textarea><div class="comment-footer clearfix"><span class="char-count">Characters Remaining: <span data-maxchar="3000" data-plugin="comment-input-remaining">3000</span></span></div><div data-plugin="comment-form-login" class="login-area clearfix noreg"><p data-plugin="user-isloggedin" class="clear hide"></p><div class="signin-form clearfix euhide"><div data-plugin="user-notloggedin" class="hide"><h3>OR PROCEED WITHOUT REGISTRATION</h3><input placeholder="Full Name" data-plugin="get-user-name" class="textbox"><input placeholder="Email" data-plugin="get-user-email" class="textbox hide_noreg"><input placeholder="Location" data-plugin="get-user-location" class="textbox hide_noreg"><span class="mathbox clearfix hide_noreg"><span data-plugin="set-user-captcha"></span><input data-plugin="get-user-captcha" class="textbox"></span></div><div data-plugin="user-isloggedin" class="social-post hide clearfix"><label class="twitter1"><input type="checkbox" data-plugin="comment-twitter"><i class="icon-twitter"></i><span>Share on Twitter</span></label></div></div><div data-plugin="user-notloggedin" class="social-login hide"><h3>SIGN IN WITH</h3><span title="Facebook" data-plugin="comment-facebook-post" class="fb"></span><span title="Google" data-plugin="comment-google-post" class="google"></span><span title="Email" data-plugin="comment-email-post" class="email"></span></div><p class="comment-dialog">Refrain from posting comments that are obscene, defamatory or inflammatory, and do not indulge in personal attacks, name calling or inciting hatred against any community. <strong>Help us delete comments</strong> that do not follow these guidelines <strong>by marking them offensive</strong>. Let's work together to keep the conversation civil.</p><div data-plugin="comment-error" class="error"></div><input data-plugin="comment-post" class="submit" value="POST" type="submit"></div><a data-action="comment-close" class="close" href="#">X</a></div></div><div class="sortby clearfix hide"><span>Sort By:</span><select id="comment_sort"><option value="agree">Up Voted</option><option value="">Newest</option><option value="oldest">Oldest</option><option value="discussed">Discussed</option><option value="disagree">Down Voted</option></select></div><div class="hide noComment">Be the first one to review.</div><div data-plugin="comment-verification-msg" class="hide">We have sent you a verification email. To verify, just follow the link in the message</div><div class="comments-list hide" id="comments"></div><div id="comments_oldest" class="comments-list hide"></div><div class="comments-list hide" id="comments_recommended"></div><div class="comments-list hide" id="comments_discussed"></div><div data-plugin="comments" class="comments-list " id="comments_agree"></div><div class="comments-list hide" id="comments_disagree"></div><div data-plugin="comment-loading"><img src="/photo/29439462.cms"></div></div></div><script type="text/javascript">window.msid = 75529018;
+		window.artmsid = 75529018;
+	
+            $(function(){
+                
+                
+                 
+                        require({
+                            config:{"tiljs/apps/times/comments":
+                                {
+                                    msid:75529018,
+                                    rating:false, // no need to rate for comment
+                                    withrating:75529018, // set true if need a callback to get user rating from mytimes
+                                    rotype:0,
+                                    messages:{ratemendate:'Please rate before review'},
+                                    loadCommentFromMytimes:true,
+                                    nonloggedinComment:true,
+                                    disabledirectcomment:false,
+                                    commentType : "comments_agree",
+                                    //enableparam:true
+                                }
+                            }
+                        });
+                    
+                        require(["tiljs/apps/times/api"],function(api){
+                                api.updateConfig({
+                                            post_comment: {
+                            				url: "/postro2.cms"
+                            			},
+                            			comments: {
+                            				url: "/commentsdata.cms",
+                            				type: "json",
+                            				params: {
+                            					appkey: "PM",
+                            					msid: 75529018,
+                            					sortcriteria: "CreationDate",
+                            					order: "asc",
+                            					size: 25,
+                            					lastdeenid: 123,
+                            					after: true,
+                            					withReward: true,
+                            					smscomment:'false'
+                            				}
+                            			},
+                            			comments_oldest: {
+                            				url: "/commentsdata.cms",
+                            				type: "json",
+                            				params: {
+                            					appkey: "PM",
+                            					msid: 75529018,
+                            					sortcriteria: "CreationDate",
+                            					order: "desc",
+                            					size: 25,
+                            					lastdeenid: 123,
+                            					after: true,
+                            					withReward: true,
+                            					smscomment:'false'
+                            				}
+                            			},
+                            			comments_agree: {
+                            				url: "/commentsdata.cms",
+                            				type: "json",
+                            				params: {
+                            					appkey: "PM",
+                            					msid: 75529018,
+                            					sortcriteria: "AgreeCount",
+                            					order: "desc",
+                            					size: 25,
+                            					lastdeenid: 123,
+                            					after: true,
+                            					withReward: true,
+                            					smscomment:'false'
+                            					
+                            				}
+                            			},
+                            			comments_disagree: {
+                            				url: "/commentsdata.cms",
+                            				type: "json",
+                            				params: {
+                            					appkey: "PM",
+                            					msid: 75529018,
+                            					sortcriteria: "DisagreeCount",
+                            					order: "desc",
+                            					size: 25,
+                            					lastdeenid: 123,
+                            					after: true,
+                            					withReward: true,
+                            					smscomment:'false'
+                            				}
+                            			},
+                            			comments_discussed: {
+                            				url: "/commentsdata.cms",
+                            				type: "json",
+                            				params: {
+                            					appkey: "PM",
+                            					msid: 75529018,
+                            					sortcriteria: "discussed",
+                            					order: "desc",
+                            					size: 25,
+                            					lastdeenid: 123,
+                            					after: true,
+                            					withReward: true,
+                            					smscomment:'false'
+                            				}
+                            			}
+                                    });
+                            });
+                              
+                
+                require(["comments"],function(comments){
+                    comments.run({
+                    main:'#comments_agree',
+                    msid:75529018,
+                    wrapper:'#comment-section-75529018'
+                    });
+                });
+                
+                
+            });</script><script id="comment_tmpl" type="application/template">
+		<div class="comment-box level{{:level}} {{if id==-1}}comment-highlight{{/if}}" id="cmt{{:id}}" data-plugin="comment" data-index="{{:index}}" data-id="{{:id}}" data-level="{{:level}}" data-user="{{:user.name}}" data-email="{{:user.email}}" data-userid="{{:user.id}}">
+            <div class="user-thumbnail">
+                {{if user.image}}
+                <img class="userimg flL" data-src="{{:user.image}}" src="/photo/11350517.cms"/>
+                {{else}}
+                <img class="userimg flL" data-src="/photo/29251859.cms" src="/photo/11350517.cms"/>
+                {{/if}}
+            </div>
+            <div class="info-bar clearfix">
+                {{if user.username || user.id}}
+                    <a href="https://mytimes.indiatimes.com/profile/{{:user.username || user.id}}" class="name" target="_blank">{{:user.name}}</a>
+                {{else}}
+                    <span class="name">{{:user.name}}</span>
+                {{/if}}
+                {{if user.points}}
+                <span class="divider">•</span>
+                <span class="psR flL tooltip_wrap">
+                <span class="point {{:user.pointslevel.toLowerCase()}}" title="{{:user.points}} Points">{{:user.points}}</span>
+                <span class="tootipbox">
+                	<strong class="rem_point">{{:user.pointsNeeded}}</strong> more points needed to reach next level.
+                   <a href="https://timesofindia.indiatimes.com/abouttimesrewards.cms" class="more" target="_blank">Know more about Times Points</a>
+                </span>
+                </span>
+                {{/if}}
+                {{if user.badge}}
+                    
+                    <div class="badges clearfix">
+                    <span class="divider ">•</span>
+                        {{for user.badge}}
+                           {{if #index < 3}}
+                                <div class="badge" data-plugin="comment-user-badge" data-name="{{:name}}">
+                                    <img data-src="{{:image}}" title="{{:name}}"  src="/photo/11350517.cms">
+                                    <div class="popup_badge">
+                                       <div class="heading-block"><span class="level">Level {{:count}}</span><h4>{{:name}}</h4></div>
+                                       <div class="content clearfix">
+                                                <div class="cont_left" >
+                                                    <img src="{{:image}}" title="{{:name}}"  src="/photo/11350517.cms">
+                                                </div>
+                                                <div class="cont_right" >
+                                                    <p><b>{{:#parent.parent.parent.data.user.name}}</b> {{:levelDesc}}</p>
+                                                </div>
+                                           <div class="more-info">
+                                           <a href="https://timesofindia.indiatimes.com/abouttimesrewards.cms" class="more" target="_blank">Know more about Times Points</a>
+                                           </div>
+                                       </div>
+                                    </div>
+                                </div>
+                           {{/if}}
+                        {{/for}}
+                        {{if user.badge.length > 3}}
+                            <div class="more-btn">
+                                <div class="popup_badge">
+                                   <div class="heading-block"><h4>Badges Earned</h4></div>
+                                   <div class="content clearfix">
+                                        <!-- These are badges -->
+                                       {{for user.badge}}
+                                            <div class="section" data-plugin="comment-user-badge" data-name="{{:name}}">
+                                                <img src="{{:image}}" title="{{:name}}"  src="/photo/11350517.cms">
+                                                <span class="name">{{:name}}</span>
+                                                <span class="badgepoint">{{:count}}</span>
+                                            </div>
+                                        {{/for}}
+                                       <!-- / badges End here -->
+                                       
+                                       <div class="more-info">
+                                       <a href="https://timesofindia.indiatimes.com/abouttimesrewards.cms" class="more" target="_blank">Know more about Times Points</a>
+                                       </div>
+                                   </div>
+                                </div>
+                            </div>
+                         {{/if}}
+                    </div>
+                {{/if}}
+                {{if parentusername}}
+                <span class="divider">•</span>
+                <span class="metadata"><i class="icon-reply"></i> {{:parentusername}}</span>
+                {{/if}}
+                {{if user.location}}
+                <span class="divider">•</span>
+                <span class="metadata">{{:user.location}}</span>
+                {{/if}}
+                <span class="divider">•</span>
+                <span title="{{:abstime}}" class="metadata" data-plugin="dynamic-uptime" data-time="{{:time}}">Just Now</span>
+                {{if user.username || user.id}}
+                <span data-plugin="comment-user-follow_wrapper" class="dont_show" >
+                
+
+                <span class="metadata follow" title="Follow {{:user.name}} {{:user.follower_text}}" data-plugin="comment-user-follow" ><span class="divider">•</span>Follow</span>
+                </span>
+
+                {{/if}}
+            </div>
+			{{if user.rate}}
+           <p class="urs_rating"><span class="blank_ratingstars"><span class="ratingstars_blue" style="width:{{:user.rate * 10}}%">&nbsp;</span></span></p>
+			{{/if}}
+            <!--/Info bar -->			
+            <p>{{:comment}}</p>
+            <!-- Footbar -->
+            {{if id!=-1}}
+            <div class="footbar clearfix">
+				{{if opinion && opinion[0] && opinion[1]}}
+                    <span class="up cpointer" data-action="comment-agree" title="Up Vote"><span data-plugin="comment-agree-count">{{:opinion[0].count}}</span> <i class="icon-uparrow"></i></span>
+                    <span class="down cpointer" data-action="comment-disagree" title="Down Vote"><span data-plugin="comment-disagree-count">{{:opinion[1].count}}</span> <i class="icon-downarrow"></i></span>
+                    <span class="divider">•</span>
+                {{/if}}
+                <span data-action="comment-reply" class="cpointer">Reply</span>
+				<span class="divider">•</span>
+
+                <span class="cpointer flag_comment">
+                
+                    
+                    <span data-action="comment-offensive" title="Mark as offensive" >Flag</span>
+                    <div class="popup_badge" data-plugin="offensive_popup">
+                        <div class="heading-block"><h4>Find this comment offensive?</h4></div>
+                        <div class="content clearfix">
+                            <span class="success-message">Your reason has been submitted to the Admin.</span>
+                            <span class="info-txt">Choose your reason below and click on the Submit button. This will alert our moderators to take action</span>
+                            <h6>Reason for reporting:</h6>
+                            <ul class="reasons">
+                               <li><label><input type="radio" name="radio1" value="Foul language"/>Foul language</label></li>
+                               <li><label><input type="radio" name="radio1" value="Defamatory" />Defamatory</label></li>
+                               <li><label><input type="radio" name="radio1" value="Inciting hatred against a certain community"/>Inciting hatred against a certain community</label></li>
+                               <li><label><input type="radio" name="radio1" value="Out of context/Spam"/>Out of context/Spam</label></li>
+                               <li><label><input type="radio" name="radio1" value="Others" />Others</label></li>
+                               <li><textarea class="offensive_popup_reason" data-plugin="offensive_popup_reason" style="display:none" ></textarea></li>
+                            </ul>
+                            <div class="error" data-plugin="comment-offensive-error"></div>
+                            <div class="buttons"><span class="button submit" data-action="offensive_popup_submit">Report this !</span> <span class="button close_popup" data-action="offensive_popup_close">Close</span></div>
+                        </div>
+                    </div>   
+                </span>
+                <span data-action="comment-offensive-already" title="Already marked as offensive" class="hide">Flagged</span>
+            </div>
+            <div class="error clearfix" data-plugin="comment-error-outer"></div>
+
+            <!--/Footbar -->
+            <!--<div class="comment-form reply hide" data-plugin="comment-reply-old">-->
+            <!--<div class="user-thumbnail">-->
+            <!--<img data-src="/photo/29251859.cms" alt="thumb" data-plugin="user-icon"  />-->
+            <!--</div>-->
+            <!--<textarea rows="5" cols="40" data-plugin="comment-input"></textarea>-->
+            <!--<div class="comment-footer clearfix">-->
+            <!--<span class="char-count">Characters Remaining: <span data-plugin="comment-input-remaining" data-maxchar="3000">3000</span></span>-->
+            <!--<input type="submit" value="SEND" class="submit" data-action="comment-post"/>-->
+            <!--</div>-->
+            <!--<a href="#" class="close" data-action="comment-close">X</a>-->
+            <!--</div>-->
+            {{/if}}
+        </div>
+        
+		</script><script id="badge_tmpl" type="application/template">
+        <div class="badge_new" style="position:absolute;left:-148px;background-color:#FFF;z-index:2;">
+            <div style="background:url(/photo/12353738.cms) top center no-repeat; width:320px; height:54px;">
+                <div class="full_cont"><div class="left_badge">
+                    <div class="textone_badge">Wordsmith</div>
+                </div>
+                    <div class="right_badge">
+                        <div class="texttwo_badge">Level 1</div>
+                    </div>
+                </div>
+            </div>
+            <div class="hoverblock_new">
+                <div class="cont_pad">
+                    <div class="full_cont">
+                        <div class="cont_left">
+                            <img style="cursor:auto" border="0" height="50" width="65" src="https://static.rewards.indiatimes.com/images/wordsmith.png" title="Wordsmith" ></div>
+                        <div class="cont_right"><div class="badgesyn_two">
+                            <p><b>monil shah</b>&nbsp;has posted 10 comments on Timesofindia.com to earn the <b>Wordsmith Level 1</b> badge.</p></div>
+                            <div class="badgesyn"></div></div><div></div></div><div class="divclear"></div>
+                    <div class="full_cont_one cont_mar"><div class="bordertop"><div class="leftthree_logged">
+                        <div onclick="moretimespoint();" class="linkone_badge">Know more about Times Points</div>
+                    </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+            <div style="background:url(/photo/12353749.cms) no-repeat; width:320px; height:14px;"></div>
+        </div>
+        
+		</script><!--/comments_newlogin.cms?msid=75529018&reviewtype=0&urlparam=/coronavirus/news/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/usercomments/75528886.cms&smscomment=&movmsid=75529018&pagetype=articlepotime:454--></div></div></div><div class="clrdiv"></div></div><div class="clrdiv"></div></div><div class="right-content"><div data-fallback-ad="PuneMirror/PuneMirror_ROS/PM_ROS_WSK_160_AS" data-adsSlot="PuneMirror/PuneMirror_ROS/PM_ROS_OP_Innov1" id="div-gpt-ad-1531306189765-3" data-adsrefresh="1" style="position: fixed; right: 0px; top: 0px; bottom: 0px; cursor: pointer; width: 173px;" class="webonly"></div><div data-fallback-ad-for="PuneMirror/PuneMirror_ROS/PM_ROS_OP_Innov1" data-size="[160,600]" data-adsSlot="PuneMirror/PuneMirror_ROS/PM_ROS_WSK_160_AS" id="div-gpt-ad-1535008052892-0" data-adsrefresh="1" class="sticky-ad webonly"></div><div data-adsSlot="PuneMirror/PuneMirror_ROS/PM_ROS_ATF_300" class="webonly mrbtm ads-rhs-ml" data-size="[300,250]" id="div-gpt-ad-1531306189765-0-web-75529018"></div><div class="widget black"><div style="margin-bottom:0px;" class="heading1 nomrg nomrgB"><a class="hp_head">Most Popular</a></div><ul data-place="latestCmmtData" class="tabstrip1 clearfix mostcomment" data-popularsec="75529018"><li><a data-day="mrtoday" class="active">Most Read</a></li><li><a data-day="mctoday">Most commented</a></li></ul><div class="latestCmmtData" id="commentdata-75529018"><div class="mrtoday"><li><a pg="Mread_Pos#1" href="/pune/others/pune-strict-restrictions-in-23-hotspots-essential-shops-to-remain-closed-for-3-days/articleshow/75471848.cms"><img src="https://static.toiimg.com/thumb/63186481.cms" alt="Pune: Strict restrictions in 23 hotspots; essential shops to remain closed for 3 days" data-src="https://static.toiimg.com/thumb/75471848.cms?width=90&amp;height=70"><span>Pune: Strict restrictions in 23 hotspot...
+                                                <span style="display:none;">Pune: Strict restrictions in 23 hotspots; essential shops to remain closed for 3 days</span></span></a></li><li><a pg="Mread_Pos#2" href="/pune/others/complete-list-of-maharashtras-red-zones-orange-zones-and-green-zones-mumbai-pune-raigad-thane-mira-bhayandar-may-1/articleshow/75494482.cms"><img src="https://static.toiimg.com/thumb/63186481.cms" alt="Complete list of Maharashtra's red, orange and green zones" data-src="https://static.toiimg.com/thumb/75494482.cms?width=90&amp;height=70"><span>Complete list of Maharashtra's red, ora...
+                                                <span style="display:none;">Complete list of Maharashtra's red, orange and green zones</span></span></a></li><li><a pg="Mread_Pos#3" href="/pune/others/lockdown-3-0-maharashtra-heres-a-complete-list-of-whats-allowed-and-not-allowed-in-mumbai-pune-and-green-orange-and-red-zones/articleshow/75519900.cms"><img src="https://static.toiimg.com/thumb/63186481.cms" alt="Lockdown 3.0 Maharashtra: Here's a complete list of what's allowed and not allowed in Mumbai, Pune and Green, Orange and Red Zones" data-src="https://static.toiimg.com/thumb/75519900.cms?width=90&amp;height=70"><span>Lockdown 3.0 Maharashtra: Here's a comp...
+                                                <span style="display:none;">Lockdown 3.0 Maharashtra: Here's a complete list of what's allowed and not allowed in Mumbai, Pune and Green, Orange and Red Zones</span></span></a></li><li><a pg="Mread_Pos#4" href="/pune/others/maharashtra-police-to-issue-passes-for-inter-district-travel/articleshow/74979422.cms"><img src="https://static.toiimg.com/thumb/63186481.cms" alt="Maharashtra Police to issue passes for inter-district travel" data-src="https://static.toiimg.com/thumb/74979422.cms?width=90&amp;height=70"><span>Maharashtra Police to issue passes for ...
+                                                <span style="display:none;">Maharashtra Police to issue passes for inter-district travel</span></span></a></li><li><a pg="Mread_Pos#5" href="/pune/others/pune-witnesses-heavy-rains-with-winds-trees-collapse-hoarding-falls-near-sancheti-hospital/articleshow/75491530.cms"><img src="https://static.toiimg.com/thumb/63186481.cms" alt="Pune witnesses heavy rains; trees collapse, hoarding falls near Sancheti hospital" data-src="https://static.toiimg.com/thumb/75491530.cms?width=90&amp;height=70"><span>Pune witnesses heavy rains; trees colla...
+                                                <span style="display:none;">Pune witnesses heavy rains; trees collapse, hoarding falls near Sancheti hospital</span></span></a></li><li><a pg="Mread_Pos#6" href="/pune/others/migrants-can-head-home-from-maharashtra-after-completing-these-formalities-doctors-certificate-covid-free-aadhaar/articleshow/75494673.cms"><img src="https://static.toiimg.com/thumb/63186481.cms" alt="Migrants can head home from Maharashtra after completing these formalities" data-src="https://static.toiimg.com/thumb/75494673.cms?width=90&amp;height=70"><span>Migrants can head home from Maharashtra...
+                                                <span style="display:none;">Migrants can head home from Maharashtra after completing these formalities</span></span></a></li></div><div class="mctoday hideDiv"><ul class=""><li><a pg="Mcomm_Pos#1" href="/pune/civic/people-will-have-to-take-daily-essential-items-to-quarantine/articleshow/75523205.cms"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75523205.cms"><span>People will have to take daily essentia...
+                                                    <span style="display:none;">People will have to take daily essential items to quarantine</span></span></a></li><li><a pg="Mcomm_Pos#2" href="/pune/civic/relaxations-dawn-upon-certain-areas/articleshow/75523773.cms"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75523773.cms"><span>Relaxations dawn upon certain areas</span></a></li><li><a pg="Mcomm_Pos#3" href="/pune/civic/with-family-in-quarantine-thieves-target-their-house/articleshow/75511981.cms"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75511981.cms"><span>With family in quarantine, thieves targ...
+                                                    <span style="display:none;">With family in quarantine, thieves target their house</span></span></a></li><li><a pg="Mcomm_Pos#4" href="/pune/others/migrants-can-head-home-from-maharashtra-after-completing-these-formalities-doctors-certificate-covid-free-aadhaar/articleshow/75494673.cms"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75494673.cms"><span>Migrants can head home from Maharashtra...
+                                                    <span style="display:none;">Migrants can head home from Maharashtra after completing these formalities</span></span></a></li><li><a pg="Mcomm_Pos#5" href="/news/india/boys-locker-room-delhi-commission-for-women-issues-notice-to-delhi-police-instagram/articleshow/75537331.cms"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75537331.cms"><span>Boys Locker Room: Delhi Commission for ...
+                                                    <span style="display:none;">Boys Locker Room: Delhi Commission for Women issues notices to Delhi Police, Instagram</span></span></a></li><li><a pg="Mcomm_Pos#6" href="/pune/civic/parvati-darshan-sees-unity-in-virus-survey/articleshow/75523249.cms"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75523249.cms"><span>Parvati Darshan sees unity in virus sur...
+                                                    <span style="display:none;">Parvati Darshan sees unity in virus survey</span></span></a></li></ul><!--/popularmostcommentedtab.cms?days=7potime:117--></div></div></div><div class="widget black mrgnT25"><div style="margin-bottom: 0px;" class="heading1"><a class="hp_head1">From News</a></div><ul data-place="latestReadFrom" class="tabstrip1 clearfix mostread" data-popularsecacross="75529018"><li><a data-day="mrtoday" class="active">Most Read</a></li><li><a data-day="mctoday">Most commented</a></li></ul><div class="latestReadFrom" id="latestbloData-75529018"><div class="mrtoday"><ul class=""><li><a pg="Mread_Pos#1" href="/news/india/tirupati-balaji-temple-countrys-richest-shrine-ousts-1300-contract-workers/articleshow/75496346.cms"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75496346.cms"><span>Tirupati Balaji temple, country's riche...
+                                        <span style="display:none;">Tirupati Balaji temple, country's richest shrine, ousts 1,300 contract workers</span></span></a></li><li><a pg="Mread_Pos#2" href="/news/india/colonel-major-among-5-martyred-in-handwara-encounter-rajnath-singh-offers-tributes-to-soldiers/articleshow/75516666.cms"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75516666.cms"><span>Colonel, Major among 5 martyred in Hand...
+                                        <span style="display:none;">Colonel, Major among 5 martyred in Handwara encounter, Rajnath Singh offers tributes to soldiers</span></span></a></li><li><a pg="Mread_Pos#3" href="/news/india/new-covid-19-symptoms-in-indian-patients-experts-need-more-data/articleshow/75469381.cms"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75469381.cms"><span>New COVID-19 symptoms in Indian patient...
+                                        <span style="display:none;">New COVID-19 symptoms in Indian patients? Experts need more data</span></span></a></li><li><a pg="Mread_Pos#4" href="/news/india/stranded-migrant-workers-tourists-students-can-finally-head-home-across-state-borders-as-home-ministry-allows-travel-amid-lockdown/articleshow/75451837.cms"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75451837.cms"><span>Stranded migrant workers, tourists, stu...
+                                        <span style="display:none;">Stranded migrant workers, tourists, students can finally head home across state borders as Home Ministry allows travel amid lockdown</span></span></a></li><li><a pg="Mread_Pos#5" href="/news/india/punjab-si-harjeet-singh-whose-hand-was-cut-off-by-violators-finally-discharged-after-surgery/articleshow/75470147.cms"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75470147.cms"><span>Punjab SI Harjeet Singh, whose hand was...
+                                        <span style="display:none;">Punjab SI Harjeet Singh, whose hand was cut off by violators, discharged after surgery</span></span></a></li><li><a pg="Mread_Pos#6" href="/news/india/rbi-writes-off-over-rs-68k-crore-loans-mehul-choksi-among-50-top-wilful-defaulters-rti/articleshow/75408568.cms"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75408568.cms"><span>Loans over Rs 68k crore, including to M...
+                                        <span style="display:none;">Loans over Rs 68k crore, including to Mehul Choksi's firms, written off: RTI</span></span></a></li></ul><div id="tooltip_a" style="line-height: 19px;color: #626262;font: bold 12px Arial,Helvetica,sans-serif;position:absolute;left:-100px;top:0px;display:none;padding:10px;border:1px solid #909090;background-color:#ebebeb;min-height:10px;min-width:50px;"></div><!--/popularlatestnewslist.cms?msid=30791059&days=7potime:88--></div><div class="mctoday hideDiv"><ul class=""><li><a pg="Mcomm_Pos#1" href="/pune/civic/people-will-have-to-take-daily-essential-items-to-quarantine/articleshow/75523205.cms"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75523205.cms"><span>People will have to take daily essentia...
+                                                    <span style="display:none;">People will have to take daily essential items to quarantine</span></span></a></li><li><a pg="Mcomm_Pos#2" href="/pune/civic/relaxations-dawn-upon-certain-areas/articleshow/75523773.cms"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75523773.cms"><span>Relaxations dawn upon certain areas</span></a></li><li><a pg="Mcomm_Pos#3" href="/pune/civic/with-family-in-quarantine-thieves-target-their-house/articleshow/75511981.cms"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75511981.cms"><span>With family in quarantine, thieves targ...
+                                                    <span style="display:none;">With family in quarantine, thieves target their house</span></span></a></li><li><a pg="Mcomm_Pos#4" href="/pune/others/migrants-can-head-home-from-maharashtra-after-completing-these-formalities-doctors-certificate-covid-free-aadhaar/articleshow/75494673.cms"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75494673.cms"><span>Migrants can head home from Maharashtra...
+                                                    <span style="display:none;">Migrants can head home from Maharashtra after completing these formalities</span></span></a></li><li><a pg="Mcomm_Pos#5" href="/news/india/boys-locker-room-delhi-commission-for-women-issues-notice-to-delhi-police-instagram/articleshow/75537331.cms"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75537331.cms"><span>Boys Locker Room: Delhi Commission for ...
+                                                    <span style="display:none;">Boys Locker Room: Delhi Commission for Women issues notices to Delhi Police, Instagram</span></span></a></li><li><a pg="Mcomm_Pos#6" href="/pune/civic/parvati-darshan-sees-unity-in-virus-survey/articleshow/75523249.cms"><img src="https://static.toiimg.com/photo/63186481.cms" data-src="https://static.toiimg.com/photo/75523249.cms"><span>Parvati Darshan sees unity in virus sur...
+                                                    <span style="display:none;">Parvati Darshan sees unity in virus survey</span></span></a></li></ul><!--/popularmostcommentedtab.cms?msid=30791059&days=7potime:90--></div></div></div><div class="widget poll-widget clearfix"><div style="display: inline; margin: 0;" name="pollform" class="pollform"><script>var capsrc='/cphoto.cms?pollid=75547825&mode=1&width=80&height=25&9c7297a6-2747-4fd7-a222-5e45cb0e4ab6';
+                    var _pollid='75547825';
+                    </script><div class="poll-title"><span class="label">POLL</span>Was it a wise decision to reopen liquor stores?</div><div class="radio-buttons clearfix"><div class="option"><input aria-label="radiono3" value="3" name="PRadio" type="radio"><label>Can't Say</label></div><div class="option"><input aria-label="radiono2" value="2" name="PRadio" type="radio"><label>No</label></div><div class="option"><input aria-label="radiono1" value="1" name="PRadio" type="radio"><label>Yes</label></div></div><div style="clear:both;"></div><h6>Pick your favorite and click vote</h6><div class="submit-field clearfix"><span style="display:none" class="mathans">6</span><span class="mathq">4 + 2 =</span><input aria-label="pollanswer" value="" class="textbox mathuserans" type="text"><div pg="Vote" value="" class="spriteMM submit vote"></div></div><div><input aria-label="pollid" value="75547825" name="txtPolliD" type="hidden"></div></div><a target="_parent" style="margin:15px 15px 0px 0px;" class="morenews" href="/pune-talking/opinion-poll/pollslist/30790573.cms">MORE POLLS</a></div><!--/poll.cmspotime:83--><div class="clr"></div><div data-adsSlot="PuneMirror/PuneMirror_ROS/PM_ROS_BTF_300" class="webonly mrbtm ads-rhs-ml" data-size="[300,250]" id="div-gpt-ad-1531306189765-1-web-75529018"></div></div></div><div class="nextarticle" data-msid="75529018"></div><div class="prevarticle" data-msid="75529018"></div><div class="nxtart"><div class="preloader"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div></div><div class="clrdiv mob-height"></div><script type="text/javascript">
+    	    toiprops = window.toiprops || {};
+    	    
+                toiprops.subsec2 = '30791093'
+                toiprops._SubSCN_pg = 'World'
+            
+                toiprops.subsec1 = '30791059'
+                toiprops._SCN_pg = 'News'
+            
+            toiprops.seoLocation = '';
+            toiprops._SCN_pg = (toiprops._SCN_pg)?toiprops._SCN_pg:'Default';
+        	toiprops.useSSL = 'https:' == document.location.protocol;
+        	
+        	toiprops.bot=/bot|googlebot|crawler|spider|robot|crawling/i.test(navigator.userAgent)
+            toiprops._Tmpl_pg = 'articleshow';
+            toiprops.domain="https://punemirror.indiatimes.com";
+        </script><div class="N_footer"><div class="N_footer_inner clearfix"><div class="N_footer_left"><div class="spriteMM foot-logo">&nbsp;</div></div><div class="N_footer_right"><div class="N_footer_links clearfix"><ul><li><a target="_blank" rel="nofollow noopener noreferrer" href="https://mumbaimirror.indiatimes.com?utm_source=BangaloreMirror&amp;utm_medium=footer&amp;utm_campaign=ref">Mumbai Mirror</a></li><li><a target="_blank" rel="nofollow noopener noreferrer" href="https://ahmedabadmirror.indiatimes.com?utm_source=MumbaiMirror&amp;utm_medium=footer&amp;utm_campaign=ref">Ahmedabad Mirror</a></li><li><a target="_blank" rel="nofollow noopener noreferrer" href="https://bangaloremirror.indiatimes.com?utm_source=MumbaiMirror&amp;utm_medium=footer&amp;utm_campaign=ref">Bangalore Mirror</a></li></ul><ul><li><a target="_blank" rel="nofollow noopener noreferrer" href="https://timesofindia.indiatimes.com?utm_source=MumbaiMirror&amp;utm_medium=footer&amp;utm_campaign=ref">Times of India</a></li><li><a target="_blank" rel="nofollow noopener noreferrer" href="https://economictimes.indiatimes.com?utm_source=MumbaiMirror&amp;utm_medium=footer&amp;utm_campaign=ref">Economic Times</a></li><li><a target="_blank" rel="nofollow noopener noreferrer" href="http://www.bombaytimes.com?utm_source=MumbaiMirror&amp;utm_medium=footer&amp;utm_campaign=ref">Bombay Times</a></li></ul><ul><li class="euhide"><a target="_blank" rel="nofollow noopener noreferrer" href="http://epaper.timesofindia.com/index.asp?utm_source=MumbaiMirror&amp;utm_medium=footer&amp;utm_campaign=ref">E-paper</a></li><li class="euhide"><a target="_blank" rel="nofollow noopener noreferrer" href="http://epaper.timesofindia.com/daily/mpaper/index.html?utm_source=MumbaiMirror&amp;utm_medium=footer&amp;utm_campaign=ref">M-Paper</a></li><li><a target="_blank" rel="nofollow noopener noreferrer" href="http://www.cricbuzz.com?utm_source=MumbaiMirror&amp;utm_medium=footer&amp;utm_campaign=ref">Cricbuzz</a></li></ul><ul><li><a target="_blank" rel="nofollow noopener noreferrer" href="https://maharashtratimes.indiatimes.com?utm_source=MumbaiMirror&amp;utm_medium=footer&amp;utm_campaign=ref">Marathi News</a></li><li><a target="_blank" rel="nofollow noopener noreferrer" href="https://www.misskyra.com?utm_source=MumbaiMirror&amp;utm_medium=footer&amp;utm_campaign=ref">Miss Kyra</a></li><li class="euhide"><a target="_blank" rel="nofollow noopener noreferrer" href="https://www.happytrips.com?utm_source=MumbaiMirror&amp;utm_medium=footer&amp;utm_campaign=ref">HappyTrips</a></li><li class="euhide"><a target="_blank" rel="nofollow" href="https://subscribe.timesgroup.com/">Order Newspaper</a></li></ul><ul class="euhide"><li class="euhide"><a target="_blank" rel="nofollow noopener noreferrer" href="https://www.happytrips.com/mumbai/travel-guide/18-weekend-getaways-mumbaikars-love/gs27682879.cms?utm_source=MumbaiMirror&amp;utm_medium=footer&amp;utm_campaign=ref">Weekend Getaways from Mumbai</a></li><li class="euhide"><a target="_blank" rel="nofollow noopener noreferrer" href="https://baazinow.onelink.me/6g4c?pid=pune_mirror_footer&amp;af_mweb_dp=http%3A%2F%2Fwww.baazinow.com">Games App</a></li><li class="euhide"><a pg="fottgwsbs" target="_blank" href="https://www.mxplayer.in/" rel="nofollow noopener noreferrer">MX Player</a></li></ul></div><div class="N_footer_products"><ul><li><a target="_blank" rel="nofollow noopener noreferrer" class="tv_icon" href="https://timesofindia.indiatimes.com/live-tv/times-now/video">Times Now</a></li><li><a target="_blank" rel="nofollow noopener noreferrer" class="tv_icon" href="https://timesofindia.indiatimes.com/live-tv/et-now/video">ET Now</a></li><li><a target="_blank" rel="nofollow noopener noreferrer" class="tv_icon" href="https://timesofindia.indiatimes.com/live-tv/zoom-tv/video">Zoom TV</a></li><li><a target="_blank" rel="nofollow noopener noreferrer" class="tv_icon" href="https://timesofindia.indiatimes.com/live-tv/mirror-now/video">Mirror Now</a></li><li><a target="_blank" rel="nofollow noopener noreferrer" class="radio_icon" href="https://timesofindia.indiatimes.com/live-tv/times-now/audio">Times Now</a></li><li><a target="_blank" rel="nofollow noopener noreferrer" class="radio_icon" href="https://timesofindia.indiatimes.com/live-tv/et-now/audio">ET Now</a></li></ul></div><div class="N_footer_copyright clearfix"><div class="copyright_left"><ul><li><a href="/aboutus.cms">About Us</a></li><li><a href="/advertisewithus.cms">Advertise with us</a></li><li><a href="/termsofuse.cms">Terms of Use and Grievance Redressal Policy</a></li><li><a href="/privacy-policy">Privacy Policy</a></li></ul><p class="foot-links">Copyright  &copy; <script>document.write(new Date().getFullYear())</script> Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights:Times Syndication Service</p></div><div class="copyright_right"><a class="shareSprite_new N_footer_fb" href="javascript:fbtwBShare('https://punemirror.indiatimes.com','Pune Mirror')"></a><a class="shareSprite_new N_footer_twit" href="javascript:twitBShare('https://punemirror.indiatimes.com','Pune Mirror')"></a></div></div></div></div></div><!--/footer_new.cms?pagename=otherpotime:36--><script defer src="/jsrender/version-1.cms" type="text/javascript"></script><script type="text/javascript" src="/mirror_js/version-20,minify-1.cms"></script><script defer src="/ads_sct/version-16,minify-1.cms" type="text/javascript"></script><script defer src="/common_scripts.cms" type="text/javascript"></script><script defer type="text/javascript" src="//jssocdn.indiatimes.com/crosswalk/jsso_crosswalk_legacy_0.5.3.min.js"></script><script defer type="text/javascript" src="/gdpr_eu_cookies_js/version-2,minify-1.cms"></script><script defer type="text/javascript" src="/customscroll/version-1,minify-1.cms"></script><script defer type="text/javascript" src="/ticker/version-1,minify-1.cms"></script><script defer src="/pn/version-3,minify-1.cms" type="text/javascript"></script><script defer src="https://ade.clmbtech.com/cde/ae/2658/var=_ccaud" type="text/javascript"></script><script type="text/javascript">
+            if (window.TimesGDPR && TimesGDPR.common.consentModule.gdprCallback){
+                TimesGDPR.common.consentModule.gdprCallback(function(data){
+                    if(data.isEUuser){
+                        window._ccaud = undefined;
+                    }  
+                });
+            }
+       </script><script>
+             
+					function fbtwBShare(url,title)
+					{
+						try{
+						var stryurl = url;
+						var strtitle = title;
+						//console.log(badgeurl);
+						//console.log(strtitle);
+						newwindow=window.open('https://www.facebook.com/sharer/sharer.php?u='+ stryurl +'&t='+strtitle, '_blank', 'height=320,width=550,left=400,top=200');
+						if (window.focus) {newwindow.focus()}
+						}
+						catch(ex){console.log(ex)}
+					}
+					function twitBShare(url,title)
+					{
+						try{
+						var stryurl = url;
+						var strtitle = title;
+						newwindow=window.open('https://twitter.com/intent/tweet?&text='+strtitle+'&url='+stryurl, '_blank', 'height=320,width=550,left=400,top=200');
+						if (window.focus) {newwindow.focus()}
+						}
+						catch(ex){console.log(ex)}
+					}
+				
+        </script><script>
+    			        var photocount=6;
+    	                var photoexclude=3;
+    			        var msid=75529018;
+                        var article = {};
+            	        article[75529018]={};
+                        article[75529018]['title']='Tanzania President queries kits after goat fruit test positive for COVID-19';
+                        article[75529018]['url']='/coronavirus/news/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms';
+                        article[75529018]['next']='75526268';
+                        article[75529018]['isloaded']=1;
+                        
+        article[75526268]={};
+        article[75526268]['url']='/news/world/we-will-have-a-covid-19-vaccine-by-the-end-of-year-says-us-president-donald-trump/articleshow/75526268.cms';
+        article[75526268]['prev']='75529018';article[75526268]['next']='75500265';
+        article[75500265]={};
+        article[75500265]['url']='/news/world/trump-says-virus-may-have-originated-in-wuhan-lab/articleshow/75500265.cms';
+        article[75500265]['prev']='75526268';article[75500265]['next']='75472859';article.lastarticle=75472859;
+        article[75472859]={};
+        article[75472859]['url']='/news/world/virus-hammers-plunging-world-economy-but-south-korea-turns-corner/articleshow/75472859.cms';
+        article[75472859]['prev']='75500265';article[75472859]['next']='';
+                        window.wdt_comment_config = {
+                            
+                            msid: 75529018,
+                            hideresponses: 1,
+                            loadonscroll: 1,
+                            size: 25
+                        };
+                    window.wdt_commentwidgettype ='';
+                </script><script>var isMobileDevice=function(i){return/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(i)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(i.substr(0,4))}(navigator.userAgent||navigator.vendor||window.opera),isWap="";isWap=isMobileDevice?"isAPP=2":"";</script><script type="text/javascript">  
+        
+        var _page_config, _ibeat_config ={};
+        
+        function setPageConfig(config){
+            _page_config = {
+              host: 'punemirror.indiatimes.com', 
+              key: '267182319378928711d415228077a6dc',
+              domain: 'punemirror.indiatimes.com',
+              channel: config._iBeat_channel,
+              action : config._iBeat_action,
+              articleId: config._iBeat_articleid,
+              contentType: 1,
+              location : 1,
+              url : config._iBeat_url,
+              cat : config._iBeat_cat,
+              subcat: config._iBeat_subcat,
+              contenttag: config._iBeat_tag,
+              catIds   : config._iBeat_catIds,
+              articledt: config._iBeat_articledt,
+              author: config._iBeat_author,
+              position: config._iBeat_position,
+              iBeatField:config._iBeat_isAPP,
+            };
+        }
+        function trim(str){return str.replace(/^\s\s*/, '').replace(/\s\s*$/, '');}
+        
+        
+             _ibeat_articleid = "75529018";
+             _ibeat_config[_ibeat_articleid] = {};
+             _ibeat_config[_ibeat_articleid]['_iBeat_articleid']=_ibeat_articleid;
+             _ibeat_config[_ibeat_articleid]['_iBeat_tag']=',,,,,,,';
+             _ibeat_config[_ibeat_articleid]['_iBeat_catIds']='2147478007,30791059,30791093';
+             _ibeat_config[_ibeat_articleid]['_iBeat_url'] = location.protocol+'//'+location.host +'/news/world/tanzania-president-queries-kits-after-goat-fruit-test-positive-for-covid-19/articleshow/75529018.cms';
+             _ibeat_config[_ibeat_articleid]['_iBeat_type']=1;
+             _ibeat_config[_ibeat_articleid]['_iBeat_action']=1;
+             _ibeat_config[_ibeat_articleid]['_iBeat_cat']= trim('News');
+             _ibeat_config[_ibeat_articleid]['_iBeat_subcat']=trim('World');
+             _ibeat_config[_ibeat_articleid]['_iBeat_articledt']="May 4, 2020, 12:05 IST";
+             _ibeat_config[_ibeat_articleid]['_iBeat_author']="";
+             _ibeat_config[_ibeat_articleid]['_iBeat_channel'] ="Reuters";
+             _ibeat_config[_ibeat_articleid]['_iBeat_position'] = " ";
+             _ibeat_config[_ibeat_articleid]['_iBeat_isAPP']=window.isWap;
+        
+          
+        
+            setPageConfig(_ibeat_config[_ibeat_articleid]);
+            _page_config['position'] = Get_Ckie('PlRef') ? Get_Ckie('PlRef') : '';
+            var iBeatTimer = setTimeout(function(){loadIbeatJS();},20000);
+            $(window).load(function(){loadIbeatJS();clearTimeout(iBeatTimer);});
+            
+            function loadIbeatJS(){
+                var ibeatCallback = function(){
+                    try{
+                        if(typeof iBeatPgTrend == 'undefined'){
+                            var ele = document.createElement('script');
+                            ele.setAttribute('language', 'javascript');
+                            ele.setAttribute('type', 'text/javascript');
+                            ele.setAttribute('src',"https://ibeat.indiatimes.com/js/pgtrackingV9.js");
+                            document.body.appendChild(ele);
+                        }
+                    }catch(e){}    
+                }
+                
+                if ( 
+                    window.TimesGDPR 
+                    && TimesGDPR.common.consentModule.gdprCallback
+                ){
+                    TimesGDPR.common.consentModule.gdprCallback(function(data){
+                        if(!data.isEUuser){
+                            ibeatCallback();
+                        }
+                    });
+                }
+                
+            }
+            
+        </script><script defer src="/social_js/minify-1,v-14.cms" type="text/javascript"></script><script defer src="/articleshowjs/version-109,minify-1.cms" type="text/javascript"></script><script defer src="https://static.clmbtech.com/ad/commons/js/colombia_v2.js" type="text/javascript"></script><script defer type="text/javascript" src="/customscroll/version-1,minify-1.cms"></script><div data-adsrefresh="1" data-adsSlot="PuneMirror_MWeb/PuneMirror_MWeb_ROS/PM_MWEB_ROS_FBN" class="smobonly sticky-css" data-size="[320, 50]" id="div-gpt-ad-1531306914883-1-smob-75529018"></div><div data-adsrefresh="1" data-adsSlot="PuneMirror_MWeb/PuneMirror_MWeb_ROS/PM_MWEB_ROS_FBN" class="lmobonly sticky-css" data-size="[468, 60]" id="div-gpt-ad-1531306914883-1-lm1b-75529018"></div><div data-adsrefresh="1" data-adsSlot="PuneMirror_MWeb/PuneMirror_MWeb_ROS/PM_MWEB_ROS_FBN" class="ipadonly sticky-css" data-size="[728, 90]" id="div-gpt-ad-1531306914883-1-ipad-75529018"></div><link async="async" crossOrigin="anonymous" type="font/woff" as="font" href="/fonts/proximanova-semibold.woff" rel="preload"><link async="async" crossOrigin="anonymous" type="font/woff" as="font" href="/fonts/proxima_nova_regular_1.woff" rel="preload"><link async="async" crossOrigin="anonymous" type="font/woff" as="font" href="/fonts/OpenSans-CondBold-webfont.woff" rel="preload"><link async="async" crossOrigin="anonymous" type="font/woff" as="font" href="/fonts/proxima_nova_extrabold_1.woff" rel="preload"></body></html>

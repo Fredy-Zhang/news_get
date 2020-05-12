@@ -1,0 +1,1449 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if lt IE 10]><html class="no-js lt-ie10" lang="en"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
+    <head>
+        
+        
+
+
+<script type="text/javascript">
+    var _sf_async_config = _sf_async_config || {};
+    _sf_async_config.title = 'Coronavirus: No new cases of COVID\u002D19 in New Zealand';
+    _sf_async_config.sections = 'new zealand';
+    _sf_async_config.mwEnableHeadlineTesting = false;
+</script>
+
+
+
+    <script type="text/javascript" src="//assets.adobedtm.com/35423a1e2095326d87346f2cbee9a7d3853f3e3a/satelliteLib-9da78d3549e0fe0e1e713a694489233b439fc451.js"></script>
+
+
+
+
+
+
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="description" content="The latest updates were announced during Monday&#39;s press conference. 
+"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="google-site-verification" content="uumI2OyeOotXTsQTpam2IRld56y7UffZn_SC9xkj8Jo"/>
+    <meta name="hideAds" content="false"/>
+    <meta name="keyword" content="coronavirus,new-zealand,government,healthcare,ministry-of-health"/>
+    <meta name="adTargeting" content="sect1=new-zealand>sect2=coronavirus-no-new-cases-of-covid-19-in-new-zealand>tags=coronavirus,new-zealand,government,healthcare,ministry-of-health>article-content-type=video>pagetype=content"/>
+    
+    <meta name="designPath" content="/common/"/>
+    
+    <meta name="commonDesignPath" content="/common/"/>
+    
+    <link rel="canonical" href="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-no-new-cases-of-covid-19-in-new-zealand.html"/>
+    
+        
+        <link rel="amphtml" href="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-no-new-cases-of-covid-19-in-new-zealand.amp.html"/>
+    
+
+
+
+
+
+
+    <meta property="og:title" content="Coronavirus: No new cases of COVID-19 in New Zealand"/>
+    <meta property="og:description" content="The latest updates were announced during Monday&#39;s press conference. 
+"/>
+    
+        
+            <meta property="og:type" content="article"/>
+        
+    
+    <meta property="og:site_name" content="Newshub"/>
+    
+    <meta property="og:url" content="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-no-new-cases-of-covid-19-in-new-zealand.html"/>
+
+
+
+
+    
+        
+        <meta property="og:image" content="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-no-new-cases-of-covid-19-in-new-zealand/_jcr_content/par/video/image.dynimg.1280.q75.jpg/v1588559902400/getty-ashley-bloomfield-1120.jpg"/>
+        <meta property="og:image:type" content="image/jpeg"/>
+        <meta property="og:image:width" content="1120"/>
+        <meta property="og:image:height" content="640"/>
+    
+    <meta property="article:published_time" content="2020-05-04T13:03:00+12:00"/>
+    <meta property="article:modified_time" content="2020-05-04T14:38:22+12:00"/>
+    <meta property="article:section" content="NZ"/>
+
+
+
+
+
+
+    <title>Coronavirus: No new cases of COVID-19 in New Zealand | Newshub</title>
+
+
+
+
+
+<meta name="sitename" content="newshub"/>
+<meta name="brandname" content="newshub"/>
+<meta name="pageName" content="new-zealand:2020:05:coronavirus:-no-new-cases-of-covid-19-in-new-zealand"/>
+<meta name="pageType" content="content"/>
+
+<meta name="primaryContentType" content="video"/>
+<meta name="articleId" content="coronavirus-no-new-cases-of-covid-19-in-new-zealand"/>
+<meta name="articleTitle" content="Coronavirus: No new cases of COVID-19 in New Zealand"/>
+<meta name="articleCategory" content="new zealand"/>
+
+<meta name="breadcrumb" content="New Zealand>2020>05>Coronavirus: No new cases of COVID-19 in New Zealand"/>
+<meta name="endpoint" content="Newshub Web"/>
+
+<meta name="mwEnableHeaderBidding" content="true"/>
+
+
+
+
+
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@NewshubNZ"/>
+
+
+    <meta name="twitter:title" content="Coronavirus: No new cases of COVID-19 in New Zealand | Newshub"/>
+
+
+
+
+<meta name="twitter:description" content="The latest updates were announced during Monday&#39;s press conference. 
+"/>
+
+
+
+
+
+
+
+    <meta property="fb:pages" content="97548423605"/>
+
+    <meta property="fb:pages" content="136647003051040"/>
+
+    <meta property="fb:pages" content="163714196981341"/>
+
+    <meta property="fb:pages" content="388007011332288"/>
+
+    <meta property="fb:pages" content="314879818534"/>
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "Newshub",
+		"url": "https://www.newshub.co.nz/home.html",
+		"logo": "https://www.newshub.co.nz/common/clientlibs/assets/newshub/imgs/other/newshub.seo.logo.png",
+		"contactPoint": [
+			{
+			"@type": "ContactPoint",
+			"telephone": "+64-800-6397482",
+			"contactOption": "TollFree",
+			"contactType": "customer service"
+			}
+		],
+		"sameAs": [
+			"https://twitter.com/NewshubNZ",
+			"https://www.facebook.com/NewshubNZ"
+		]
+	}
+</script>
+
+
+
+<link rel="shortcut icon" href="https://www.newshub.co.nz/common/images/icons/favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" href="https://www.newshub.co.nz/common/images/icons/favicon.36.png"/>
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.newshub.co.nz/common/images/icons/favicon.76.png"/>
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.newshub.co.nz/common/images/icons/favicon.120.png"/>
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.newshub.co.nz/common/images/icons/favicon.152.png"/>
+<link rel="icon" sizes="192x192" href="https://www.newshub.co.nz/common/images/icons/favicon.192.png"/>
+
+<meta name="designPath" content="/common/"/>
+
+
+<meta name="commonDesignPath" content="/common/"/>
+
+
+
+
+
+
+    
+    
+        <meta name="once-player" data-js="//players.brightcove.net/3812193411001/6kCoXGGtH_default/index.min.js"/>
+    
+
+    
+    
+
+    <meta name="popular-videos-endpoint" data-url="//news-api.mediaworks.nz/news-api/featured-videos"/>
+
+
+
+
+    
+    <link rel="stylesheet" href="/common/clientlibs-all.min.4520.css" type="text/css">
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/bin/nh-config.js?ck=1587039493608"></script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    window.google_analytics_uacct = "UA-2426891-53";
+</script>
+
+<script type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+
+    
+    <script type="text/javascript" src="/common/clientlibs-preload.min.4520.js"></script>
+
+
+
+
+<!--Header Bidding script load and meta tag-->
+
+    <script type="text/javascript" src="https://ads.rubiconproject.com/prebid/13714_newshub.js"></script>
+
+
+
+
+
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({ video : 'auto'});
+        !function (e, f, u, i) {
+            if (!document.getElementById(i)){
+                e.async = 1;
+                e.src = u;
+                e.id = i;
+                f.parentNode.insertBefore(e, f);
+            }
+        }(document.createElement('script'),
+            document.getElementsByTagName('script')[0],
+            '//cdn.taboola.com/libtrc/mediaworks-newshub/loader.js',
+            'tb_loader_script');
+    </script>
+
+
+
+
+    <script type="text/javascript">
+        _sf_async_config.authors = 'lana\u002Dandelane,James Fyfe';
+    </script>
+
+
+        <!-- new relic frontend code -->
+        
+    </head>
+    <body>
+    
+
+<div id="un_wht" class="u-sm-hidden">
+    <ul class="un-list Container">
+        
+
+    
+
+        <li class="un1">
+
+            
+            <a class="un-arw" href="http://www.threenow.co.nz/tv/threefans/home.html?ref=un" rel="nofollow">TV</a>
+
+            
+            
+
+                <ul>
+
+                    
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.threenow.co.nz/tv/threefans/home.html?ref=un" rel="nofollow" target="_blank">Three</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="https://www.threenow.co.nz/search?genre=bravo" rel="nofollow" target="_blank">Bravo</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.newshub.co.nz/?ref=un" rel="nofollow" target="_blank">Newshub</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.threenow.co.nz/?ref=un" rel="nofollow" target="_blank">ThreeNow</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.threenow.co.nz/Live-TV-Guide?ref=un" rel="nofollow" target="_blank">TV Guide</a>
+                        </li>
+
+                    
+                </ul>
+            
+        </li>
+    
+
+        <li class="un1">
+
+            
+            <a class="un-arw" href="http://www.theedge.co.nz/?ref=un" rel="nofollow">Radio</a>
+
+            
+            
+
+                <ul class="un2-news">
+
+                    
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.theedge.co.nz/?ref=un" rel="nofollow" target="_blank">The Edge</a>
+                        </li>
+
+                    
+
+                        <li class="un2 un2last">
+                            <a href="http://www.morefm.co.nz/?ref=un" rel="nofollow" target="_blank">More FM</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.therock.net.nz/?ref=un" rel="nofollow" target="_blank">The Rock</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.georgefm.co.nz/?ref=un" rel="nofollow" target="_blank">George</a>
+                        </li>
+
+                    
+
+                        <li class="un2 un2last">
+                            <a href="http://www.thesound.co.nz/?ref=un" rel="nofollow" target="_blank">The Sound</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.maifm.co.nz/?ref=un" rel="nofollow" target="_blank">Mai</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.thebreeze.co.nz/?ref=un" rel="nofollow" target="_blank">The Breeze</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.magic.co.nz/?ref=un" rel="nofollow" target="_blank">Magic</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="https://rova.nz/?ref=un" rel="nofollow" target="_blank">rova</a>
+                        </li>
+
+                    
+                </ul>
+            
+        </li>
+    
+
+        <li class="un1">
+
+            
+            <a class="un-arw" href="http://www.threenow.co.nz/?ref=un" rel="nofollow">Video</a>
+
+            
+            
+
+                <ul class="un2-news">
+
+                    
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.threenow.co.nz/tv/threefans/home.html?ref=un" rel="nofollow" target="_blank">Three</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.threenow.co.nz/search?genre=bravo" rel="nofollow" target="_blank">Bravo</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.newshub.co.nz/Video" rel="nofollow" target="_blank">NewsHub</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.theedge.co.nz/Video.aspx?ref=un" rel="nofollow" target="_blank">Edge TV</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.therock.net.nz/Video.aspx?ref=un" rel="nofollow" target="_blank">The Rock</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.morefm.co.nz/Videos.aspx?ref=un" rel="nofollow" target="_blank">More FM</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.georgefm.co.nz/GeorgeTV.aspx?ref=un" rel="nofollow" target="_blank">George TV</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.maifm.co.nz/home/vids.html" rel="nofollow" target="_blank">Mai FM</a>
+                        </li>
+
+                    
+
+                        <li class="un2 un2last">
+                            <a href="http://www.thebreeze.co.nz/Videos.aspx?ref=un" rel="nofollow" target="_blank">The Breeze</a>
+                        </li>
+
+                    
+                </ul>
+            
+        </li>
+    
+
+        <li class="un1">
+
+            
+            <a class="un-arw" href="http://www.newshub.co.nz/?ref=un" rel="nofollow">News</a>
+
+            
+            
+
+                <ul class="un2-news">
+
+                    
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.newshub.co.nz/Newzealand?ref=un" rel="nofollow" target="_blank">NZ News</a>
+                        </li>
+
+                    
+
+                        <li class="un2 un2last">
+                            <a href="http://www.newshub.co.nz/Politics?ref=un" rel="nofollow" target="_blank">Politics</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.newshub.co.nz/Weather?ref=un" rel="nofollow" target="_blank">Weather</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.newshub.co.nz/Sport?ref=un" rel="nofollow" target="_blank">Sport</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.newshub.co.nz/Health?ref=un" rel="nofollow" target="_blank">Health</a>
+                        </li>
+
+                    
+
+                        <li class="un2 un2last">
+                            <a href="http://www.newshub.co.nz/Money?ref=un" rel="nofollow" target="_blank">Money</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="http://www.newshub.co.nz/World?ref=un" rel="nofollow" target="_blank">World</a>
+                        </li>
+
+                    
+
+                        <li class="un2 ">
+                            <a href="https://www.newshub.co.nz/home/rural.html?ref=un" rel="nofollow" target="_blank">Rural</a>
+                        </li>
+
+                    
+                </ul>
+            
+        </li>
+    
+
+        <li class="un1">
+
+            
+            <a href="http://www.newshub.co.nz/Sport?ref=un" rel="nofollow">Sport</a>
+
+            
+            
+        </li>
+    
+
+        <li class="un1">
+
+            
+            <a class="un-arw" href="#" rel="nofollow">Recipes</a>
+
+            
+            
+
+                <ul>
+
+                    
+                    
+
+                        <li class="un2 ">
+                            <a href="https://www.thebreeze.co.nz/home/recipes.html" rel="nofollow" target="_blank">In The Kitchen</a>
+                        </li>
+
+                    
+                </ul>
+            
+        </li>
+    
+
+        <li class="un1">
+
+            
+            <a href="http://www.threenow.co.nz/tv/threefans/home.html?ref=un" rel="nofollow">Win</a>
+
+            
+            
+        </li>
+    
+
+
+        <li class="un-spacer"><!-- --></li>
+        <li class="un1" id="un1_mw"><a href="//www.mediaworks.co.nz/?ref=un" target="_blank">MediaWorks NZ Ltd</a></li>
+    </ul>
+    <div id="clr"></div>
+</div>
+        <div class="js-takeoverDesktop">
+            
+
+            
+
+
+            
+
+<!-- Billboard Pushdown Desktop Ad -->
+
+    <div class="Billboard Container">
+        <div class="NavBarAd NavBarAd-primary u-sm-hidden" data-fn="collapse" style="display:none;">
+            <div class="NavBarAdWrapper NavBarAdWrapper-center js-NavBarAdWrapper-fixed">
+                
+    
+    
+        <div class="AdWrapper " data-fn="collapse" data-desktop-is-not-initialized="true" data-mobile-is-not-initialized="true">
+            <a class="AdWrapper-close fn-collapseContent" href="#"></a>
+            <div id="billboard-unit-1" data-advertisement="billboard" class="js-AdUnit ">
+            </div>
+        </div>
+    
+
+
+            </div>
+        </div>
+    </div>
+
+            <header class="Header">
+    <div class="Container">
+
+        <div class="GlobalHeader">
+            
+
+    
+    
+
+
+    
+    
+        
+
+    
+    
+
+
+    
+    
+
+    
+    
+        <!-- hamburger menu -->
+
+<div class="GlobalHeader-hamburger">
+    <div class="c-HeaderHamburger"></div>
+</div>
+
+<!-- Logo -->
+
+<div class="GlobalHeader-logo">
+
+    
+
+    <a class="c-Logo" href="/home.html" title="Newshub">
+        <img class="c-Logo-image" src="/common/clientlibs/assets/newshub/imgs/ui/logo-desktop.svg" alt="Newshub"/>
+
+        <!-- Date -->
+        <span class="c-Logo-date"></span>
+    </a>
+</div>
+
+
+
+<!-- Header Image -->
+
+
+<div class="GlobalHeader-image">
+    
+</div>
+
+
+<!-- Media items -->
+
+
+<div class="GlobalHeader-media">
+    <!-- Newshub Live -->
+    <!-- Only showed if there's broadcast. Controlled in livestreambanner.js -->
+    <div class="c-HeaderMedia" style="display: none;" data-header-newshub-live-item>
+        <a href="https://www.newshub.co.nz/home/shows.html">
+            <div class="c-HeaderMedia-thumbnail">
+                <div class="c-HeaderMedia-icon c-HeaderMedia-icon--newshub"></div>
+            </div>
+            <div class="c-HeaderMedia-details">
+                <div class="c-HeaderMedia-title">Newshub Live<div class="c-HeaderMedia-title--arrow"></div></div>
+                <div class="c-HeaderMedia-description">Newshub bringing you daily updates</div>
+            </div>
+        </a>
+    </div>
+
+    <!-- Podcast -->
+    <div class="c-HeaderMedia">
+        <a href="https://www.newshub.co.nz/home/podcasts.html">
+            <div class="c-HeaderMedia-thumbnail">
+                <div class="c-HeaderMedia-icon c-HeaderMedia-icon--podcasts"></div>
+            </div>
+            <div class="c-HeaderMedia-details">
+                <div class="c-HeaderMedia-title">Podcasts<div class="c-HeaderMedia-title--arrow"></div></div>
+                <div class="c-HeaderMedia-description">Listen to Newshub's latest podcasts</div>
+            </div>
+        </a>
+    </div>
+
+    <!-- Magic Talk -->
+    
+    <div class="c-HeaderMedia">
+        <a href="//www.magic.co.nz">
+            <div class="c-HeaderMedia-thumbnail">
+                <div class="c-HeaderMedia-icon c-HeaderMedia-icon--magic"></div>
+            </div>
+            <div class="c-HeaderMedia-details">
+                <div class="c-HeaderMedia-title">Magic Talk<div class="c-HeaderMedia-title--arrow"></div></div>
+                <div class="c-HeaderMedia-description">Listen live to NZ's home of talk radio</div>
+            </div>
+        </a>
+    </div>
+</div>
+
+
+
+
+<!-- Weather Forecast Component -->
+
+
+<div class="GlobalHeader-weather" data-weather-forecast-header-widget data-weather-forecast-endpoint="//news-api.mediaworks.nz/news-api/v3/weather/forecasts">
+    <div class="c-HeaderWeather">
+        <a href="/home/weather.html">
+            <div class="c-HeaderWeather-head">
+                <div class="c-HeaderWeather-region--desktop"><span class="c-WeaHeaderWeatherther-region--name">Palmerston North</span><div class="c-HeaderWeather-region--arrow"></div></div>
+            </div>
+
+            <div class="c-HeaderWeather-body">
+                <div class="c-HeaderWeather-icon" data-weather-icon></div>
+                <div class="c-HeaderWeather-temperature">
+                    <div class="c-HeaderWeather-region--mobile">
+                        <span class="c-HeaderWeather-region--name">AKL</span>
+                    </div>
+                    <span class="c-HeaderWeather-high" data-weather-high>18°</span>
+                    <span class="c-HeaderWeather-low" data-weather-low>10°</span>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+
+<!-- Menu Items -->
+
+
+
+
+
+<div class="GlobalHeader-navbar">
+    <nav class="c-Navbar">
+        <div class="c-Navbar-main">
+            <ul class="c-Navbar-main-ul">
+                
+                    
+
+                    <li class="c-Navbar-main-item">
+                        <a class="c-Navbar-main-link c-Navbar-main-link--newshub--newshub " href="/home.html">Home</a>
+                    </li>
+                
+                    
+
+                    <li class="c-Navbar-main-item">
+                        <a class="c-Navbar-main-link c-Navbar-main-link--newshub--nz c-Navbar-main-link--active" href="/home/new-zealand.html">New Zealand</a>
+                    </li>
+                
+                    
+
+                    <li class="c-Navbar-main-item">
+                        <a class="c-Navbar-main-link c-Navbar-main-link--newshub--world " href="/home/world.html">World</a>
+                    </li>
+                
+                    
+
+                    <li class="c-Navbar-main-item">
+                        <a class="c-Navbar-main-link c-Navbar-main-link--newshub--politics " href="/home/politics.html">Politics</a>
+                    </li>
+                
+                    
+
+                    <li class="c-Navbar-main-item">
+                        <a class="c-Navbar-main-link c-Navbar-main-link--newshub--sport " href="/home/sport.html">Sport</a>
+                    </li>
+                
+                    
+
+                    <li class="c-Navbar-main-item">
+                        <a class="c-Navbar-main-link c-Navbar-main-link--newshub--entertainment " href="/home/entertainment.html">Entertainment</a>
+                    </li>
+                
+                    
+
+                    <li class="c-Navbar-main-item">
+                        <a class="c-Navbar-main-link c-Navbar-main-link--newshub-- " href="/home/travel.html">Travel</a>
+                    </li>
+                
+                    
+
+                    <li class="c-Navbar-main-item">
+                        <a class="c-Navbar-main-link c-Navbar-main-link--newshub-- " href="/home/lifestyle.html">Lifestyle</a>
+                    </li>
+                
+                    
+
+                    <li class="c-Navbar-main-item">
+                        <a class="c-Navbar-main-link c-Navbar-main-link--newshub-- " href="/home/rural.html">Rural</a>
+                    </li>
+                
+                    
+
+                    <li class="c-Navbar-main-item">
+                        <a class="c-Navbar-main-link c-Navbar-main-link--newshub--money " href="/home/money.html">Money</a>
+                    </li>
+                
+                    
+
+                    <li class="c-Navbar-main-item">
+                        <a class="c-Navbar-main-link c-Navbar-main-link--newshub--shows " href="/home/shows.html">Shows</a>
+                    </li>
+                
+            </ul>
+        </div>
+    </nav>
+</div>
+
+    
+
+
+    
+
+    
+    
+
+
+        </div>
+
+    </div>
+</header>
+
+            
+
+<div data-alert-banner-settings data-breaking-news-banner-endpoint="//news-api.mediaworks.nz/news-api/v3/breaking-news" data-live-stream-banner-end-point="//news-api.mediaworks.nz/news-api/v3/live-epg" data-live-stream-page-player-location="/home/shows.html" data-refresh-timeout="60" class="Alert" style="display: flex;">
+    <div data-breaking-news-banner></div>
+    <div data-live-stream-banner></div>
+</div>
+
+            
+
+
+
+
+<article class="c-Article" itemscope itemtype="http://schema.org/NewsArticle">
+    <link itemprop="mainEntityOfPage" href="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-no-new-cases-of-covid-19-in-new-zealand.html"/>
+
+    <meta itemprop="datePublished" content="2020-05-04T13:03:00+12:00"/>
+    <meta itemprop="dateModified" content="2020-05-04T14:38:22+12:00"/>
+
+    
+    <meta itemprop="description" content="The latest updates were announced during Monday&#39;s press conference. 
+"/>
+
+    
+        
+
+        <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-no-new-cases-of-covid-19-in-new-zealand/_jcr_content/par/video/image.dynimg.full.q75.jpg"/>
+
+            
+                <meta itemprop="width" content="1120"/>
+                <meta itemprop="height" content="640"/>
+            
+        </div>
+    
+
+    
+
+    <section>
+        <div class="Container">
+            <div class="Grid">
+                <div class="Grid-cell u-lg-width2of3">
+                    
+                    <div class="c-ArticleHeading">
+    
+    
+    <div class="c-ArticleHeading-storyTag"><a href="https://www.newshub.co.nz/home/storytag.:storyTag=newshub:story-tags___cd___coronavirus.:offset=0.html">Coronavirus</a></div>
+    <h1 class="c-ArticleHeading-title" itemprop="headline">Coronavirus: No new cases of COVID-19 in New Zealand</h1>
+    <div class="Grid-cell u-lg-width3of3">
+        <ul class="c-ArticleHeading-attribution">
+            <li class="c-ArticleHeading-attributionItem">
+                <div class="c-ArticleHeading-promoTag">Updated</div>
+            </li>
+            <li class="c-ArticleHeading-attributionItem">
+                <div class="c-ArticleHeading-timestamp">04/05/2020</div>
+            </li>
+
+            
+
+            
+                
+                    
+                    
+                    <li class="c-ArticleHeading-attributionItem" title="lana-andelane" itemprop="author" itemscope itemtype="http://schema.org/Person">
+                        <div class="c-ArticleHeading-authorProfile">
+                            <a href="/home/author-pages/lana-andelane.html">
+                                
+                                <div class="c-ArticleHeading-authorName" itemprop="name">Lana Andelane</div>
+                            </a>
+                        </div>
+                    </li>
+                
+                    
+                    
+                    <li class="c-ArticleHeading-attributionItem" title="James Fyfe" itemprop="author" itemscope itemtype="http://schema.org/Person">
+                        <div class="c-ArticleHeading-authorProfile">
+                            <a href="/home/author-pages.html">
+                                
+                                <div class="c-ArticleHeading-authorName" itemprop="name">James Fyfe</div>
+                            </a>
+                        </div>
+                    </li>
+                
+            
+
+            <li class="c-ArticleHeading-attributionItem">
+                <div class="c-ArticleHeading-actions">
+                    
+
+<a href="http://twitter.com/share?text=Coronavirus%3A+No+new+cases+of+COVID-19+in+New+Zealand&url=https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-no-new-cases-of-covid-19-in-new-zealand.html" class="c-ArticleHeading-actionsItem c-ArticleHeading-actionsItem--twitterShare" target="_blank"></a>
+
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-no-new-cases-of-covid-19-in-new-zealand.html" class="c-ArticleHeading-actionsItem c-ArticleHeading-actionsItem--facebookShare" target="_blank"></a>
+
+<a href="https://www.reddit.com/submit?url=https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-no-new-cases-of-covid-19-in-new-zealand.html&title=Coronavirus%3A+No+new+cases+of+COVID-19+in+New+Zealand" class="c-ArticleHeading-actionsItem c-ArticleHeading-actionsItem--redditShare" target="_blank"></a>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+                    
+                    <div class="c-ArticleBody" itemprop="articleBody">
+                        
+
+                        <div class="brightcovevideo section">
+
+
+
+
+
+
+    
+
+        <div class="c-VideoPlayer" style="display: none;">
+            <div id="video-container" class="mw-video-skin mw-hidden">
+                <video id="player--content-newshub-en-home-new-zealand-2020-05-coronavirus-no-new-cases-of-covid-19-in-new-zealand-jcr-content-par-video"
+                   class="video-js"
+                   poster="/dam/form-uploaded-images-ordered/2020/03/23/getty-ashley-bloomfield-1120.jpg"
+                   
+                   data-video-id="6153913858001"
+                   data-account="3812193411001"
+                   data-application-id="newshub"
+                   data-player="6kCoXGGtH"
+                   controls
+                   autoplay
+                   muted
+                   playsinline
+                   data-embed="default"
+                   preload="none"
+                   data-ad-params=""
+                   data-ad-config-id="aa139a8d-aa86-440e-85f8-626ce9478a01"
+                   >
+                </video>
+            </div>
+            
+                <div class="c-ArticleFigure-caption">
+                    <p>Watch: "No new cases" - Monday's press conference. Credits: Video - Newshub; Image - Getty</p>
+                </div>
+            
+        </div>
+
+    
+    
+
+
+</div>
+<div class="text parbase section">
+<div class="c-ArticleBody  " data-emptytext="Text">
+    <p><b>There are no new cases of COVID-19 in New Zealand, Director-General of Health Dr Ashley Bloomfield confirmed on Monday.</b></p>
+<p>There have been no additional virus-related deaths, the country's death toll remaining at 20.</p>
+<p>One probable case was reclassified as confirmed, although that does not affect the overall number of confirmed and probable cases. The total remains at 1487, with 1137 confirmed cases - the number that is reported to the World Health Organization (WHO).</p>
+<p>As of Monday, 1276 people have recovered, or 86 percent of the overall case total.</p>
+<p>Seven people are hospitalised nationwide, with none in the ICU. Sixteen significant clusters remain, although three are categorised as closed due to no new cases for two incubation cycles. </p>
+<p>There were 2473 tests processed on Sunday, bringing the new overall test total to 152,696.</p>
+
+</div></div>
+<div class="embedmedia section">
+
+
+
+
+    <div class="iframely-element" data-iframely-key="83d1f06a67d9701b9e156a" href="https://infogram.com/active-vs-recovered-1h7k23gjvqpw4xr?live"></div>
+    
+</div>
+<div class="text parbase section">
+<div class="c-ArticleBody  " data-emptytext="Text">
+    <p>Dr Bloomfield said the country will remain under alert level 3 for the duration of the preliminary two-week period to ensure there is no undetected community transmission.</p>
+<p>&quot;It's not just about the number of cases or the pattern, but people taking the expectations around physical distancing and hygiene seriously, and not squandering our advantage,&quot; he said.</p>
+<p>Dr Bloomfield also touched on flu vaccination, noting that 451,000 people over the age of 65 have been vaccinated - already exceeding the total number vaccinated during the whole campaign last year within that demographic.</p>
+<p>More Māori in the over-65 age bracket have been vaccinated over the past five weeks than in the entire year of vaccination in 2019.</p>
+<p>As of Monday, 1.4 million doses of the flu vaccine have been distributed to providers. As of April 30, 700,000 doses have been recorded on the national immunisation register as administered.</p>
+<p>&quot;By vaccinating as many New Zealanders as possible, in particular our older people and vulnerable New Zealanders, it reduces the likelihood that they will get the flu and then suffer the sorts of illness that will put them in hospital,&quot; Dr Boomfield said. </p>
+<p>He reminded Kiwis that the flu vaccine does not provide any protection against COVID-19.</p>
+<p>Dr Bloomfield also extended his thanks to the media.</p>
+<p>&quot;The important role you have played over the last three months in supporting our collective efforts to keep the public informed, to ask the important questions and hard questions and to ensure we are being held to account for answering those.&quot;</p>
+
+</div></div>
+<div class="relatedarticles section">
+
+
+
+<div>
+    <div class="c-Heading c-Heading-category">
+        <h2 class="c-Heading-item">Related News</h2>
+    </div>
+    <div class="RelatedContent">
+        
+            
+            <div class="RelatedContent-item">
+                <a href="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-grim-economic-realities-new-normal-post-covid-will-threaten-new-zealand-s-social-cohesion.html" class="RelatedContent-link" target="_blank">
+                    <div class="RelatedContent-image">
+                    <span>
+                        
+
+
+
+
+
+    <picture class="u-responsive" itemscope itemtype="https://schema.org/ImageObject">
+        
+            <source media="(max-width: 352px)" srcset="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-grim-economic-realities-new-normal-post-covid-will-threaten-new-zealand-s-social-cohesion/_jcr_content/par/video/image.dynimg.352.q40.jpg/v1588542795494/GETTY_anxiety_sad_unhappy_stressed_mental_health_1120.jpg 1x,
+                            https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-grim-economic-realities-new-normal-post-covid-will-threaten-new-zealand-s-social-cohesion/_jcr_content/par/video/image.dynimg.720.q40.jpg/v1588542795494/GETTY_anxiety_sad_unhappy_stressed_mental_health_1120.jpg 2x,
+                            https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-grim-economic-realities-new-normal-post-covid-will-threaten-new-zealand-s-social-cohesion/_jcr_content/par/video/image.dynimg.1080.q40.jpg/v1588542795494/GETTY_anxiety_sad_unhappy_stressed_mental_health_1120.jpg 3x"/>
+        
+            <source media="(max-width: 768px)" srcset="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-grim-economic-realities-new-normal-post-covid-will-threaten-new-zealand-s-social-cohesion/_jcr_content/par/video/image.dynimg.360.q40.jpg/v1588542795494/GETTY_anxiety_sad_unhappy_stressed_mental_health_1120.jpg 1x,
+                            https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-grim-economic-realities-new-normal-post-covid-will-threaten-new-zealand-s-social-cohesion/_jcr_content/par/video/image.dynimg.720.q40.jpg/v1588542795494/GETTY_anxiety_sad_unhappy_stressed_mental_health_1120.jpg 2x,
+                            https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-grim-economic-realities-new-normal-post-covid-will-threaten-new-zealand-s-social-cohesion/_jcr_content/par/video/image.dynimg.1080.q40.jpg/v1588542795494/GETTY_anxiety_sad_unhappy_stressed_mental_health_1120.jpg 3x"/>
+        
+            <source media="(max-width: 352px)" srcset="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-grim-economic-realities-new-normal-post-covid-will-threaten-new-zealand-s-social-cohesion/_jcr_content/par/video/image.dynimg.360.q66.jpg/v1588542795494/GETTY_anxiety_sad_unhappy_stressed_mental_health_1120.jpg 1x,
+                            https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-grim-economic-realities-new-normal-post-covid-will-threaten-new-zealand-s-social-cohesion/_jcr_content/par/video/image.dynimg.720.q66.jpg/v1588542795494/GETTY_anxiety_sad_unhappy_stressed_mental_health_1120.jpg 2x,
+                            https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-grim-economic-realities-new-normal-post-covid-will-threaten-new-zealand-s-social-cohesion/_jcr_content/par/video/image.dynimg.1080.q66.jpg/v1588542795494/GETTY_anxiety_sad_unhappy_stressed_mental_health_1120.jpg 3x"/>
+        
+            <source media="(min-width: 993)" srcset="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-grim-economic-realities-new-normal-post-covid-will-threaten-new-zealand-s-social-cohesion/_jcr_content/par/video/image.dynimg.360.q75.jpg/v1588542795494/GETTY_anxiety_sad_unhappy_stressed_mental_health_1120.jpg 1x,
+                            https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-grim-economic-realities-new-normal-post-covid-will-threaten-new-zealand-s-social-cohesion/_jcr_content/par/video/image.dynimg.720.q75.jpg/v1588542795494/GETTY_anxiety_sad_unhappy_stressed_mental_health_1120.jpg 2x,
+                            https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-grim-economic-realities-new-normal-post-covid-will-threaten-new-zealand-s-social-cohesion/_jcr_content/par/video/image.dynimg.1080.q75.jpg/v1588542795494/GETTY_anxiety_sad_unhappy_stressed_mental_health_1120.jpg 3x"/>
+        
+        <img srcset="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-grim-economic-realities-new-normal-post-covid-will-threaten-new-zealand-s-social-cohesion/_jcr_content/par/video/image.dynimg.360.q75.jpg/v1588542795494/GETTY_anxiety_sad_unhappy_stressed_mental_health_1120.jpg" alt="Related video: Duncan Garner believes alert level 3 is worse than level 4 lockdown." itemprop="image"/>
+
+        
+        <meta itemprop="url" content="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-grim-economic-realities-new-normal-post-covid-will-threaten-new-zealand-s-social-cohesion/_jcr_content/par/video/image.dynimg.360.q75.jpg/v1588542795494/GETTY_anxiety_sad_unhappy_stressed_mental_health_1120.jpg"/>
+
+        
+            <meta itemprop="width" content="1120"/>
+            <meta itemprop="height" content="640"/>
+        
+
+    </picture>
+
+
+                        
+
+                        <div class="ArticlePlayIcon"></div>
+                    </span>
+                    </div>
+                    <div class="RelatedContent-details">
+                        <div class="RelatedContent-title">&#39;Social cohesion will break down&#39;: NZ&#39;s unity &#39;threatened&#39; by grim post-COVID realities - experts</div>
+                        
+                        
+                    </div>
+                </a>
+            </div>
+        
+            
+            <div class="RelatedContent-item">
+                <a href="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-covid-19-s-not-going-away-so-no-point-in-staying-at-alert-level-3-expert.html" class="RelatedContent-link" target="_blank">
+                    <div class="RelatedContent-image">
+                    <span>
+                        
+
+
+
+
+
+    <picture class="u-responsive" itemscope itemtype="https://schema.org/ImageObject">
+        
+            <source media="(max-width: 352px)" srcset="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-covid-19-s-not-going-away-so-no-point-in-staying-at-alert-level-3-expert/_jcr_content/par/video/image.dynimg.352.q40.jpg/v1588541651486/AM+Show+Des+Gorman+1120.jpg 1x,
+                            https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-covid-19-s-not-going-away-so-no-point-in-staying-at-alert-level-3-expert/_jcr_content/par/video/image.dynimg.720.q40.jpg/v1588541651486/AM+Show+Des+Gorman+1120.jpg 2x,
+                            https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-covid-19-s-not-going-away-so-no-point-in-staying-at-alert-level-3-expert/_jcr_content/par/video/image.dynimg.1080.q40.jpg/v1588541651486/AM+Show+Des+Gorman+1120.jpg 3x"/>
+        
+            <source media="(max-width: 768px)" srcset="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-covid-19-s-not-going-away-so-no-point-in-staying-at-alert-level-3-expert/_jcr_content/par/video/image.dynimg.360.q40.jpg/v1588541651486/AM+Show+Des+Gorman+1120.jpg 1x,
+                            https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-covid-19-s-not-going-away-so-no-point-in-staying-at-alert-level-3-expert/_jcr_content/par/video/image.dynimg.720.q40.jpg/v1588541651486/AM+Show+Des+Gorman+1120.jpg 2x,
+                            https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-covid-19-s-not-going-away-so-no-point-in-staying-at-alert-level-3-expert/_jcr_content/par/video/image.dynimg.1080.q40.jpg/v1588541651486/AM+Show+Des+Gorman+1120.jpg 3x"/>
+        
+            <source media="(max-width: 352px)" srcset="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-covid-19-s-not-going-away-so-no-point-in-staying-at-alert-level-3-expert/_jcr_content/par/video/image.dynimg.360.q66.jpg/v1588541651486/AM+Show+Des+Gorman+1120.jpg 1x,
+                            https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-covid-19-s-not-going-away-so-no-point-in-staying-at-alert-level-3-expert/_jcr_content/par/video/image.dynimg.720.q66.jpg/v1588541651486/AM+Show+Des+Gorman+1120.jpg 2x,
+                            https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-covid-19-s-not-going-away-so-no-point-in-staying-at-alert-level-3-expert/_jcr_content/par/video/image.dynimg.1080.q66.jpg/v1588541651486/AM+Show+Des+Gorman+1120.jpg 3x"/>
+        
+            <source media="(min-width: 993)" srcset="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-covid-19-s-not-going-away-so-no-point-in-staying-at-alert-level-3-expert/_jcr_content/par/video/image.dynimg.360.q75.jpg/v1588541651486/AM+Show+Des+Gorman+1120.jpg 1x,
+                            https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-covid-19-s-not-going-away-so-no-point-in-staying-at-alert-level-3-expert/_jcr_content/par/video/image.dynimg.720.q75.jpg/v1588541651486/AM+Show+Des+Gorman+1120.jpg 2x,
+                            https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-covid-19-s-not-going-away-so-no-point-in-staying-at-alert-level-3-expert/_jcr_content/par/video/image.dynimg.1080.q75.jpg/v1588541651486/AM+Show+Des+Gorman+1120.jpg 3x"/>
+        
+        <img srcset="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-covid-19-s-not-going-away-so-no-point-in-staying-at-alert-level-3-expert/_jcr_content/par/video/image.dynimg.360.q75.jpg/v1588541651486/AM+Show+Des+Gorman+1120.jpg" alt="Des Gorman and Auckland Chamber of Commerce CEO Michael Barnett on The AM Show." itemprop="image"/>
+
+        
+        <meta itemprop="url" content="https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-covid-19-s-not-going-away-so-no-point-in-staying-at-alert-level-3-expert/_jcr_content/par/video/image.dynimg.360.q75.jpg/v1588541651486/AM+Show+Des+Gorman+1120.jpg"/>
+
+        
+            <meta itemprop="width" content="1120"/>
+            <meta itemprop="height" content="640"/>
+        
+
+    </picture>
+
+
+                        
+
+                        <div class="ArticlePlayIcon"></div>
+                    </span>
+                    </div>
+                    <div class="RelatedContent-details">
+                        <div class="RelatedContent-title">COVID-19&#39;s not going away, so &#39;no point&#39; in staying at alert level 3 - expert</div>
+                        
+                        
+                    </div>
+                </a>
+            </div>
+        
+    </div>
+</div></div>
+
+
+
+                    </div>
+
+                    <div class="ArticleAttribution">
+                        <div class="ArticleAttribution-item">
+                            
+
+                            <a class="ArticleAttribution-logo" href="/home.html" title="Newshub">
+                                <img class="ArticleAttribution-logo-image" src="/common/clientlibs/assets/newshub/imgs/ui/logo-desktop.svg" alt="Newshub"/>
+                            </a>
+                        </div>
+                        <div class="ArticleAttribution-item">
+                            <div class="ArticleAttribution-label">Contact Newshub with your story tips:</div>
+                            <a href="mailto:news@newshub.co.nz" class="ArticleAttribution-emailLink">news@newshub.co.nz</a>
+                        </div>
+                        <div class="ArticleAttribution-item ArticleAttribution-item--social">
+                            <div class="ArticleAttribution-label">Share this article</div>
+                            <div class="ArticleAttribution-actions">
+                                
+
+<a href="http://twitter.com/share?text=Coronavirus%3A+No+new+cases+of+COVID-19+in+New+Zealand&url=https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-no-new-cases-of-covid-19-in-new-zealand.html" class="ArticleAttribution-actionsItem ArticleAttribution-actionsItem--twitterShare" target="_blank"></a>
+
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-no-new-cases-of-covid-19-in-new-zealand.html" class="ArticleAttribution-actionsItem ArticleAttribution-actionsItem--facebookShare" target="_blank"></a>
+
+<a href="//www.reddit.com/submit?url=https://www.newshub.co.nz/home/new-zealand/2020/05/coronavirus-no-new-cases-of-covid-19-in-new-zealand.html&title=Coronavirus%3A+No+new+cases+of+COVID-19+in+New+Zealand" class="ArticleAttribution-actionsItem ArticleAttribution-actionsItem--redditShare" target="_blank"></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+                    
+                        
+                        <div id="unruly-unit"></div>
+                    
+
+                    
+                    
+
+
+
+
+
+
+
+
+
+    
+
+        
+        
+        
+            
+
+
+
+
+<div class="cq-dd-pages Section">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    <section class="ContentBelt js-related-belt">
+        <div class="Container">
+            
+            
+
+
+    
+    
+
+    
+    
+        
+        <div id="taboola-below-article-thumbnails-2nd"></div>
+        <div id="taboola-ad-unit-wrapper-1" data-idx="1"></div>
+        <div id="taboola-ad-unit-wrapper-2" data-idx="2"></div>
+        <div id="taboola-ad-unit-wrapper-3" data-idx="3"></div>
+    
+
+    
+    
+
+    
+    
+
+        </div>
+    </section>
+
+
+</div>
+
+
+
+
+        
+    
+
+
+
+                    
+                </div>
+
+                <div class="Grid-cell u-lg-width1of3">
+                    
+                    <div class="c-ArticleAds">
+                        
+    
+    
+        <div class="AdWrapper " data-fn="collapse" data-desktop-is-not-initialized="true" data-mobile-is-not-initialized="true">
+            <a class="AdWrapper-close fn-collapseContent" href="#"></a>
+            <div id="island-unit-1" data-advertisement="island" data-targeting="ad1" class="js-AdUnit c-ArticleSidebar-ad ">
+            </div>
+        </div>
+    
+
+
+
+                        
+
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+        <div id="taboola-right-rail-thumbnails"></div>
+    
+
+
+                        
+    
+    
+        <div class="AdWrapper AdWrapper--sticky-block" data-fn="collapse" data-desktop-is-not-initialized="true" data-mobile-is-not-initialized="true">
+            <a class="AdWrapper-close fn-collapseContent" href="#"></a>
+            <div id="island-unit-2" data-advertisement="island" data-targeting="ad2" class="js-AdUnit c-ArticleSidebar-ad ">
+            </div>
+        </div>
+    
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+
+<div class="c-ArticlePublisher" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+    <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+        <img src="https://www.newshub.co.nz/common/clientlibs/assets/newshub/imgs/other/newshub.seo.logo.png"/>
+        <meta itemprop="url" content="https://www.newshub.co.nz/common/clientlibs/assets/newshub/imgs/other/newshub.seo.logo.png"/>
+        <meta itemprop="width" content="600"/>
+        <meta itemprop="height" content="60"/>
+    </div>
+    <meta itemprop="name" content="Newshub"/>
+</div>
+
+</article>
+
+
+            <footer class="GlobalFooter">
+
+    <div class="c-Footer">
+        <div class="Container">
+            <section>
+                
+
+    
+    
+
+
+    
+    
+        
+
+    
+    
+
+
+    
+    
+
+    
+    
+        <section>
+    <div class="Grid Grid--withGutter">
+        <div class="Grid-cell u-sm-width4of4 u-lg-width3of4">
+            <ul class="c-FooterGrid">
+                <li class="c-FooterGrid-item c-FooterGrid-item--logo">
+                    <a class="c-FooterLogo" href="/home.html" title="Newshub">
+                        
+                        <img class="c-FooterLogo-image" src="/common/clientlibs/assets/newshub/imgs/ui/logo-desktop.svg" alt="Newshub"/>
+                    </a>
+                </li>
+                <li class="c-FooterGrid-item c-FooterGrid-item--nav">
+                    <nav>
+                        <ul class="c-FooterNav">
+                            
+                            <li class="c-FooterNav-item"><a class="c-FooterNav-link" href="/home/contact-us.html" target="_blank">Contact</a>
+                            </li>
+                        
+                            
+                            <li class="c-FooterNav-item"><a class="c-FooterNav-link" href="/home/terms-and-conditions.html" target="_blank">Terms and Conditions</a>
+                            </li>
+                        
+                            
+                            <li class="c-FooterNav-item"><a class="c-FooterNav-link" href="/home/advertise-with-us.html" target="_blank">Advertise with Us</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </li>
+                <li class="c-FooterGrid-item c-FooterGrid-item--disclaimer">
+                    <div class="c-FooterDisclaimer">
+                        Copyright © 2020 MediaWorks TV - All Rights Reserved
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="Grid-cell u-sm-width4of4 u-lg-width1of4">
+            <div class="c-NavSocial">
+                <h3 class="c-NavSocial-title">Get in touch</h3>
+                <ul class="c-NavSocial-wrapper">
+                    
+                        <li class="c-NavSocial-item">
+                            <a href="http://www.newshub.co.nz/home/contact-us.html" target="_blank" class="c-NavSocial-link c-NavSocial-link--email"><span>email</span></a>
+                        </li>
+                    
+                    
+                    
+                
+                    
+                    
+                        <li class="c-NavSocial-item">
+                            <a href="https://www.facebook.com/NewshubNZ" target="_blank" class="c-NavSocial-link c-NavSocial-link--facebook"><span>facebook</span></a>
+                        </li>
+                    
+                    
+                
+                    
+                    
+                    
+                        <li class="c-NavSocial-item">
+                            <a href="https://twitter.com/NewshubNZ" target="_blank" class="c-NavSocial-link c-NavSocial-link--twitter"><span>twitter</span></a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    
+
+
+    
+
+    
+    
+
+
+            </section>
+        </div>
+    </div>
+    <div id='skin-unit-1' data-advertisement="skin"></div>
+
+    
+    
+
+    
+
+    
+        <script type="text/javascript">
+            window.MWS = window.MWS || {};
+            window.MWS.adCheck = true;
+        </script>
+    
+
+    
+    
+    <script type="text/javascript" src="/common/clientlibs-all.min.4520.js"></script>
+
+
+
+
+    
+
+</footer>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+
+
+    <script type="text/javascript">_satellite.pageBottom();</script>
+
+
+        </div>
+    </body>
+</html>

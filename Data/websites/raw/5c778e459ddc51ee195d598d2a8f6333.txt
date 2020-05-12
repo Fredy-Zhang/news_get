@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html ⚡="">
+
+<head>
+    <meta charset="utf-8">
+    <title>Islamic State exploits virus, political crisis to boost Iraq attacks | World | Malay Mail</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <meta name="amp-google-client-id-api" content="googleanalytics">
+
+    <script type="application/ld+json">
+    {
+    "keywords": [
+        "political crisis",
+        "islamic state",
+        "is in iraq",
+        "exploits virus",
+        "boost attacks"
+    ],
+    "headline": "Islamic State exploits virus, political crisis to boost Iraq attacks",
+    "description": "BAGHDAD, May 4 — Islamic State group remnants in Iraq are exploiting a coronavirus lockdown, coalition troop withdrawals and simmering political disputes to ramp up deadly attacks, according to analysts and intelligence officials. The bloodiest so far was an ambush early Saturday that killed 10...",
+    "articleSection": "World",
+    "@context": "https:\/\/schema.org",
+    "@type": "WebPage",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www.malaymail.com\/amp\/news\/world\/2020\/05\/04\/islamic-state-exploits-virus-political-crisis-to-boost-iraq-attacks\/1862786"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/media.malaymail.com\/resize_cache\/uploads\/articles\/2020\/2020-05\/najafu0405-seo.jpg",
+        "width": 1200,
+        "height": 630
+    },
+    "datePublished": "2020-05-04T10:19:43+08:00",
+    "dateModified": "2020-05-04T18:19:43+08:00",
+    "author": {
+        "@type": "Organization",
+        "name": "Malay Mail"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Malay Mail",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.malaymail.com\/graphics\/meta\/main\/logo-structured.png",
+            "width": 238,
+            "height": 60
+        }
+    }
+}
+</script>
+
+    <meta name="keywords" content="political crisis, islamic state, is in iraq, exploits virus, boost attacks" />
+
+<meta property="fb:app_id" content="1709756459249190" />
+<meta property="fb:pages" content="163335377171805" />
+<meta name="twitter:site" content="@malaymail" />
+<meta name="twitter:creator" content="@malaymail" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta property="og:title"  content="Islamic State exploits virus, political crisis to boost Iraq attacks | Malay Mail">
+<meta name="twitter:title" content="Islamic State exploits virus, political crisis to boost Iraq attacks | Malay Mail">
+<meta property="og:type" content="website" />
+
+
+<!-- url, always place current url here -->
+<link rel="canonical" href="https://www.malaymail.com/news/world/2020/05/04/islamic-state-exploits-virus-political-crisis-to-boost-iraq-attacks/1862786">
+<meta property="og:url"  content="https://www.malaymail.com/news/world/2020/05/04/islamic-state-exploits-virus-political-crisis-to-boost-iraq-attacks/1862786">
+<meta name="twitter:url" content="https://www.malaymail.com/news/world/2020/05/04/islamic-state-exploits-virus-political-crisis-to-boost-iraq-attacks/1862786">
+
+<!-- description, default 300 characters, use default description if is not article content -->
+<meta name="description" content="BAGHDAD, May 4 — Islamic State group remnants in Iraq are exploiting a coronavirus lockdown, coalition troop withdrawals and simmering political disputes to ramp up deadly attacks, according to analysts and intelligence officials. The bloodiest so far was an ambush early Saturday that killed 10...">
+<meta property="og:description" content="BAGHDAD, May 4 — Islamic State group remnants in Iraq are exploiting a coronavirus lockdown, coalition troop withdrawals and simmering political disputes to ramp up deadly attacks, according to analysts and intelligence officials. The bloodiest so far was an ambush early Saturday that killed 10...">
+<meta name="twitter:description" content="BAGHDAD, May 4 — Islamic State group remnants in Iraq are exploiting a coronavirus lockdown, coalition troop withdrawals and simmering political disputes to ramp up deadly attacks, according to analysts and intelligence officials. The bloodiest so far was an ambush early Saturday that killed 10...">
+
+<!-- image Ideal OG Image is 1200 x 630, use default og to display if article no cover -->
+<meta property="og:image"  content="https://media.malaymail.com/resize_cache/uploads/articles/2020/2020-05/najafu0405-seo.jpg">
+<meta name="twitter:image" content="https://media.malaymail.com/resize_cache/uploads/articles/2020/2020-05/najafu0405-seo.jpg">
+
+<!-- Minimal -->
+<link rel="icon" type="image/png" href="https://www.malaymail.com/graphics/meta/main/logo-32x32.png">
+<link rel="icon" sizes="152x152" href="https://www.malaymail.com/graphics/meta/main/logo-152x152.png">
+
+<!-- Apple -->
+<link rel="apple-touch-icon" href="https://www.malaymail.com/graphics/meta/main/logo-76x76.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.malaymail.com/graphics/meta/main/logo-76x76.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.malaymail.com/graphics/meta/main/logo-120x120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.malaymail.com/graphics/meta/main/logo-152x152.png">
+
+<!-- Microsoft -->
+<meta name="msapplication-square150x150logo" content="https://www.malaymail.com/graphics/meta/main/logo-150x150.png">
+<meta name="msapplication-wide310x150logo" content="https://www.malaymail.com/graphics/meta/main/logo-310x150.png">
+
+<!-- Chrome Android tab colour -->
+<meta name="theme-color" content="#ed0000">
+
+    <script  async="" src="https://cdn.ampproject.org/v0.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700,700i" rel="stylesheet" type="text/css"/>
+    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i" rel="stylesheet" type="text/css"/>
+
+    <style amp-boilerplate="">body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes  -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate="">body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+    <script  custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js" async=""></script>
+    <script  custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js" async=""></script>
+    <script  async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
+    <script  async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+    <script  async custom-element="amp-addthis" src="https://cdn.ampproject.org/v0/amp-addthis-0.1.js"></script>
+    <script  async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+    <script  async custom-element="amp-web-push" src="https://cdn.ampproject.org/v0/amp-web-push-0.1.js"></script>
+    <script  async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+    <script  async custom-element="amp-fx-flying-carpet" src="https://cdn.ampproject.org/v0/amp-fx-flying-carpet-0.1.js"></script>
+    <script async custom-element="amp-analytics"    src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <script async custom-element="amp-facebook" src="https://cdn.ampproject.org/v0/amp-facebook-0.1.js"></script>
+    <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+    <script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script>
+    <script async custom-element="amp-instagram" src="https://cdn.ampproject.org/v0/amp-instagram-0.1.js"></script>
+    <script async custom-element="amp-dailymotion" src="https://cdn.ampproject.org/v0/amp-dailymotion-0.1.js"></script>
+    <script async custom-element="amp-jwplayer" src="https://cdn.ampproject.org/v0/amp-jwplayer-0.1.js"></script>
+    <script async custom-element="amp-vimeo" src="https://cdn.ampproject.org/v0/amp-vimeo-0.1.js"></script>
+    <script async custom-element="amp-brightcove" src="https://cdn.ampproject.org/v0/amp-brightcove-0.1.js"></script>
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata|Montserrat:400,500,600,700|Crimson+Text:400,600" rel="stylesheet">
+
+    <style amp-custom>
+        *,:after,:before{-webkit-box-sizing:border-box;box-sizing:border-box}html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;-ms-overflow-style:scrollbar;-webkit-tap-highlight-color:rgba(0,0,0,0)}.ms-viewport{width:device-width}article,aside,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;font-size:1rem;font-weight:400;color:#212529;text-align:left;background-color:#fff}[tabindex="-1"]:focus{outline:0}hr{-webkit-box-sizing:content-box;box-sizing:content-box;height:0;overflow:visible}h1,h2,h3,h4,h5,h6{margin-top:0;margin-bottom:.5rem}p{margin-top:0;margin-bottom:1rem}abbr[data-original-title],abbr[title]{text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted;cursor:help;border-bottom:0}address{font-style:normal;line-height:inherit}address,dl,ol,ul{margin-bottom:1rem}dl,ol,ul{margin-top:0}ol ol,ol ul,ul ol,ul ul{margin-bottom:0}dt{font-weight:700}dd{margin-bottom:.5rem;margin-left:0}blockquote{margin:0 0 1rem}dfn{font-style:italic}b,strong{font-weight:bolder}small{font-size:80%}sub,sup{position:relative;font-size:75%;line-height:0;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}a{color:#007bff;text-decoration:none;background-color:transparent;-webkit-text-decoration-skip:objects}a:hover{color:#0056b3;text-decoration:underline}a:not([href]):not([tabindex]),a:not([href]):not([tabindex]):focus,a:not([href]):not([tabindex]):hover{color:inherit;text-decoration:none}a:not([href]):not([tabindex]):focus{outline:0}code,kbd,pre,samp{font-family:SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;font-size:1em}pre{margin-top:0;margin-bottom:1rem;overflow:auto;-ms-overflow-style:scrollbar}figure{margin:0 0 1rem}img{border-style:none}img,svg{vertical-align:middle}svg{overflow:hidden}table{border-collapse:collapse}caption{padding-top:.75rem;padding-bottom:.75rem;color:#6c757d;text-align:left;caption-side:bottom}th{text-align:inherit}label{display:inline-block;margin-bottom:.5rem}button{border-radius:0}button:focus{outline:1px dotted;outline:5px auto -webkit-focus-ring-color}button,input,optgroup,select,textarea{margin:0;font-family:inherit;font-size:inherit;line-height:inherit}button,input{overflow:visible}button,select{text-transform:none}[type=reset],[type=submit],button,html [type=button]{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{padding:0;border-style:none}input[type=checkbox],input[type=radio]{-webkit-box-sizing:border-box;box-sizing:border-box;padding:0}input[type=date],input[type=datetime-local],input[type=month],input[type=time]{-webkit-appearance:listbox}textarea{overflow:auto;resize:vertical}fieldset{min-width:0;padding:0;margin:0;border:0}legend{display:block;width:100%;max-width:100%;padding:0;margin-bottom:.5rem;font-size:1.5rem;line-height:inherit;color:inherit;white-space:normal}progress{vertical-align:baseline}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{outline-offset:-2px;-webkit-appearance:none}[type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{font:inherit;-webkit-appearance:button}output{display:inline-block}summary{display:list-item;cursor:pointer}template{display:none}[hidden]{display:none}.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{margin-bottom:.5rem;font-family:inherit;font-weight:500;line-height:1.2;color:inherit}.h1,h1{font-size:2.5rem}.h2,h2{font-size:2rem}.h3,h3{font-size:1.75rem}.h4,h4{font-size:1.5rem}.h5,h5{font-size:1.25rem}.h6,h6{font-size:1rem}.lead{font-size:1.25rem;font-weight:300}.display-1{font-size:6rem}.display-1,.display-2{font-weight:300;line-height:1.2}.display-2{font-size:5.5rem}.display-3{font-size:4.5rem}.display-3,.display-4{font-weight:300;line-height:1.2}.display-4{font-size:3.5rem}hr{margin-top:1rem;margin-bottom:1rem;border:0;border-top:1px solid rgba(0,0,0,.1)}.small,small{font-size:80%;font-weight:400}.mark,mark{padding:.2em;background-color:#fcf8e3}.list-inline,.list-unstyled{padding-left:0;list-style:none}.list-inline-item{display:inline-block}.list-inline-item:not(:last-child){margin-right:.5rem}.initialism{font-size:90%;text-transform:uppercase}.blockquote{margin-bottom:1rem;font-size:1.25rem}.blockquote-footer{display:block;font-size:80%;color:#6c757d}.blockquote-footer:before{content:"\2014   \A0"}body{font-family:Open Sans,Helvetica Neue,Arial,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased;color:#666}#header{position:-webkit-sticky;position:sticky;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;background:#fff;border-bottom:1px solid rgba(0,0,0,.15);padding:.5rem}#header h1{margin:0 auto;font-size:0}#header h1 a{background:url(/graphics/logo-color.svg) no-repeat 0 0;background-size:cover;width:123px;height:27px;margin:5px auto;display:block}#header div[role=button]{margin:0 15px;color:#ed0000}#header-sidebar{padding:15px;-webkit-box-shadow:0 0 20px rgba(0,0,0,.25);box-shadow:0 0 20px rgba(0,0,0,.25);background:#fff;width:82%;max-width:320px}#header-sidebar .close-button{position:absolute;top:1rem;right:1rem;color:rgba(0,0,0,.5)}#header-sidebar .close-button:active,#header-sidebar .close-button:hover{color:rgba(0,0,0,.75)}#header-sidebar .links-container{padding:15px 0;border-bottom:1px solid rgba(0,0,0,.15)}#header-sidebar .links-container,#header-sidebar .links-container.social-media nav{display:-webkit-box;display:-ms-flexbox;display:flex}#header-sidebar .links-container.social-media nav a{margin-right:.5rem;font-size:1.5rem}#header-sidebar .links-container nav{-webkit-box-flex:1;-ms-flex:1 1 auto;flex:1 1 auto}#header-sidebar .links-container nav a{display:block;margin:0 0 .25rem;font-size:.9rem;color:#395776;text-decoration:none;text-transform:uppercase;letter-spacing:1px;font-weight:600}#header-sidebar .links-container nav a:hover{color:red;text-decoration:none}#header-sidebar .links-container nav .googlenews{background:transparent url(/graphics/app-logos.png) no-repeat -10px -8px;width:125px;height:35px}#header-sidebar .links-container nav .appstore{background:transparent url(/graphics/app-logos.png) no-repeat -5px -85px;width:117px;height:43px}#header-sidebar .links-container nav .playstore{background:transparent url(/graphics/app-logos.png) no-repeat -4px -173px;width:117px;height:43px}#header-sidebar .links-container nav .appstore,#header-sidebar .links-container nav .googlenews,#header-sidebar .links-container nav .playstore{display:block;background-size:cover;text-indent:-9999px;clear:both;margin-bottom:1em}#header-search section>div{border:0;border-bottom:1px solid rgba(0,0,0,.15)}#header-search .input-container{width:75%;margin:1rem auto;display:-webkit-box;display:-ms-flexbox;display:flex;border:1px solid rgba(0,0,0,.15);border-radius:5px;overflow:hidden}#header-search input{border:0;padding:.25rem;-webkit-box-flex:1;-ms-flex:1 0 auto;flex:1 0 auto}#header-search button{background:#ed0000;color:#fff;padding:5px 10px}#content{width:100%;padding-right:15px;padding-left:15px;margin:15px auto}@media (min-width:576px){#content{max-width:700px}}@media (min-width:768px){#content{max-width:720px}}@media (min-width:992px){#content{max-width:960px}}@media (min-width:1200px){#content{max-width:1140px}}footer{padding-top:15px;width:100%;padding-right:15px;padding-left:15px;margin:15px auto;text-align:center;border-top:1px solid rgba(0,0,0,.15);font-size:.8125rem;color:#6c757d}@media (min-width:576px){footer{max-width:700px}}@media (min-width:768px){footer{max-width:720px}}@media (min-width:992px){footer{max-width:960px}}@media (min-width:1200px){footer{max-width:1140px}}footer p{margin:0}.mb-3{margin-bottom:1rem}.mr-2{margin-right:.5rem}.article article{word-break:break-word;overflow-wrap:break-word}.article .breadcrumb{background-color:#fff;padding:0;margin-bottom:.25em;display:-webkit-box;display:-ms-flexbox;display:flex;list-style:none}.article .breadcrumb li a{color:#999;font-weight:700;font-size:1em;text-transform:uppercase;text-decoration:none}.article .breadcrumb li a:hover{color:#c60000}.article .breadcrumb li:after{content:"/";color:#ccc;margin:0 .25em;vertical-align:top}.article .breadcrumb li:last-child:after{content:""}.article .breadcrumb li:last-child a{color:#ed0000}.article .profile{width:60px;height:60px}.article h1{font-weight:700;font-size:2em;line-height:1.1;color:#233649;margin-bottom:.5em}.article .summary{font-family:Libre Baskerville,Times New Roman,Times,serif;font-size:1.4em;font-style:italic;line-height:1.5;margin-bottom:1em;font-weight:400;color:#999}.article .byline{margin-bottom:1em;overflow:hidden}.article .byline amp-img{vertical-align:top}.article .byline .text{display:inline-block}.article .byline p{font-size:.85em}.article .byline p,.article .byline p a,.article .byline p strong{color:#666;font-weight:700}.article .byline p a:hover{color:#222}.article .byline .meta{margin-bottom:0}.article .primary article h2{font-size:1.3em;font-weight:700;color:#233649}.article .primary .related-article h3,.article .primary article h3{font-size:1.2em;font-weight:700;color:#233649}.article .primary article,.article .primary article p,.article .primary li{font-size:1.1em;margin-bottom:1em}.article .primary article amp-img,.article .primary article img{max-width:100%}.article .primary li{margin-bottom:.5em}article ol,article ul{padding-left:1.5em}.article article iframe{max-width:100%;margin:auto;display:block}.article article blockquote,.article article p blockquote{font-family:Libre Baskerville,Times New Roman,Times,serif;color:#395776;font-size:1.3em;line-height:1.5em;margin:1.5em 2em;text-align:center;font-style:italic;font-weight:400}.article article blockquote:after,.article article blockquote:before,.article article p blockquote:after,.article article p blockquote:before{content:"";width:30%;display:block;margin:.65em auto;border:2px solid #ed0000}.article figure{margin-bottom:1.5em;max-width:100%}.article figure:first-child{min-width:100%}.article figure.float-none{margin-left:0;margin-right:0;float:none}.article figure.float-left{margin-right:1.5em;float:left}.article figure.float-right{margin-left:1.5em;float:right}.article figure .rounded,.article figure .rounded img{border-radius:.25rem}.article figure amp-img,.article figure img{height:auto;width:100%;margin-bottom:.5em}.article figure amp-img img{margin-bottom:0}.article figure figcaption{font-size:.85em;line-height:1.3;color:#999}.article amp-img,.article img{height:auto;margin-bottom:1em}.article amp-carousel .slide amp-img,.article amp-img img{margin-bottom:0}.article amp-carousel .slide img{-o-object-fit:contain;object-fit:contain}.article amp-carousel .slide .caption{position:absolute;bottom:0;padding:.5rem 2rem;background:rgba(0,0,0,.5);color:#fff;width:100%}.related-article ul{padding:0 0 0 1.2em}@media (min-width:768px){.article h1{width:90%;font-size:3em}.article .summary{width:70%}.article .primary article,.article .primary article p,.article .primary li{font-size:1em;margin-bottom:1em}article ol,article ul{padding-left:1.5em}.article .primary article h2{font-size:1.6em}.article .primary article h4{font-size:.75em;text-transform:uppercase;letter-spacing:1px;color:#233649;font-weight:700}.article .related-article h3,.article article h3{font-size:1.4em}.article .related-article li{margin-bottom:.5em}.article article blockquote,.article article p blockquote{margin:1.5em 3em}}@media (max-width:767.98px){.article amp-carousel .slide .caption{display:none}.article figure amp-img img{width:400px}}amp-ad{margin:auto}.align-center-button{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;width:100%}.align-center-button,amp-web-push-widget .subscribe{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}amp-web-push-widget .subscribe{border-radius:2px;border:1px solid #007ae2;font-size:16px;background:#0e82e5;color:#fff}amp-web-push-widget .subscribe,amp-web-push-widget .unsubscribe{margin:0;padding:8px 15px;cursor:pointer;outline:0;font-weight:400;-webkit-tap-highlight-color:transparent}amp-web-push-widget .unsubscribe{border-radius:2px;border:1px solid #b3b3b3;font-size:15px;background:#bdbdbd;color:#555}amp-web-push-widget .subscribe .subscribe-icon{margin-right:10px}amp-web-push-widget .subscribe:active{-webkit-transform:scale(.99);transform:scale(.99)}amp-web-push-widget.amp-invisible{display:none}    </style>
+</head>
+<body>
+<amp-analytics type="googleanalytics">
+    <script type="application/json">
+        {
+    "vars": {
+        "account": "UA-117264847-1"
+    },
+    "triggers": {
+        "default pageview": {
+            "on": "visible",
+            "request": "pageview",
+            "vars": {
+                "title": "Islamic State exploits virus, political crisis to boost Iraq attacks | World | Malay Mail"
+            },
+            "extraUrlParams": {
+                "cd1": "story",
+                "cd2": 1862786,
+                "cd3": "Islamic State exploits virus, political crisis to boost Iraq attacks",
+                "cd4": 1588558783,
+                "cd5": 45,
+                "cd6": "World",
+                "cd7": null,
+                "cd8": null,
+                "cd9": "25997,115865,281979,892829,892830,",
+                "cd10": "political crisis,islamic state,is in iraq,exploits virus,boost attacks,",
+                "cd11": "",
+                "cd12": 1
+            }
+        }
+    }
+}
+</script>
+</amp-analytics>
+
+<amp-accordion id="header-search" disable-session-states>
+    <section>
+        <h2 style="display: none"></h2>
+        <div>
+            <form method="GET" class="p2" action="https://www.google.com/cse" target="_top">
+                <div class="input-container">
+                    <input name="cx" type="hidden" value="005682938207833448670:tg4ixgq0iyi" />
+                    <input name="ie" type="hidden" value="UTF-8" />
+                    <input type="search" placeholder="Search..." name="q" required />
+                    <button type="submit"><i class="fa fa-search"></i></button>
+                </div>
+            </form>
+        </div>
+    </section>
+</amp-accordion>
+
+<!-- Start Navbar -->
+<header id="header">
+    <div role="button" aria-label="open sidebar" on="tap:header-search.toggle" tabindex="1">
+        <i class="fa fa-search fa-fw"></i>
+    </div>
+    <h1><a href="https://www.malaymail.com">Malay Mail</a></h1>
+    <div role="button" aria-label="open sidebar" on="tap:header-sidebar.toggle" tabindex="0">
+        <i class="fa fa-bars fa-fw"></i>
+    </div>
+</header>
+
+
+<!-- Start Sidebar -->
+<amp-sidebar id="header-sidebar" layout="nodisplay" side="right">
+    <div role="button" aria-label="close sidebar" on="tap:header-sidebar.toggle" tabindex="0" class="close-button">
+        <i class="fa fa-times fa-fw"></i>
+    </div>
+
+    <div class="links-container social-media">
+        <nav>
+            <a href="https://www.facebook.com/malaymaildotcom" target="_blank"><i class="fa fa-facebook-f fa-fw"></i></a>
+            <a href="https://twitter.com/malaymail" target="_blank"><i class="fa fa-twitter fa-fw"></i></a>
+            <a href="https://instagram.com/themalaymail" target="_blank"><i class="fa fa-instagram fa-fw"></i></a>
+            <a href="https://www.youtube.com/user/themalaymailonline/videos" target="_blank"><i class="fa fa-youtube-play fa-fw"></i></a>
+        </nav>
+    </div>
+
+    <div class="links-container">
+        <nav>
+            <a href="https://www.malaymail.com">Home</a>
+            <a href="https://www.malaymail.com/news/malaysia" class="malaysia">Malaysia</a>
+            <a href="https://www.malaymail.com/news/world" class="world">World</a>
+            <a href="https://www.malaymail.com/news/money" class="money">Money</a>
+            <a href="https://www.malaymail.com/news/life" class="life">Life</a>
+            <a href="https://www.malaymail.com/news/eat-drink" class="eat-drink">Eat/Drink</a>
+        </nav>
+        <nav>
+            <a href="https://www.malaymail.com/news/showbiz" class="showbiz">Showbiz</a>
+            <a href="https://www.malaymail.com/news/what-you-think" class="what-you-think">WYT</a>
+            <a href="https://www.malaymail.com/news/opinion" class="opinion">Opinion</a>
+            <a href="https://www.malaymail.com/news/sports" class="sports">Sports</a>
+            <a href="https://www.malaymail.com/news/tech-gadgets" class="tech-gadgets">Tech/Gadgets</a>
+            <a href="https://www.malaymail.com/news/drive" class="drive">Drive</a>
+        </nav>
+    </div>
+    <div class="links-container">
+        <nav>
+            <a href="https://www.malaymail.com/archives">Archives</a>
+            <a href="https://www.malaymail.com/about">About Us</a>
+            <a href="https://www.malaymail.com/policy">Privacy Policy</a>
+            <a href="https://www.malaymail.com/terms">Terms of Use</a>
+            <a href="https://www.malaymail.com/advertise">Advertise with Us</a>
+        </nav>
+        <nav>
+            <a href="https://itunes.apple.com/my/app/malay-mail/id694093285?mt=8" target="_blank" class="appstore">Apple AppStore</a>
+            <a href="https://play.google.com/store/apps/details?id=net.engboon.malaymailonline&hl=en" target="_blank" class="playstore">Google Play Store</a>
+            <a href="https://news.google.com/publications/CAAqBwgKMLHbhQswofmCAw?hl=en-MY&gl=MY&ceid=MY%3Aen" target="_blank" class="googlenews">Google News</a>
+        </nav>
+    </div>
+    <div class="links-container">
+        <nav>
+            <a href="https://www.projekmm.com" class="projekmmo">ProjekMM</a>
+            <a href="https://www.cincainews.com" class="chinese">精彩大马</a>
+        </nav>
+    </div>
+
+</amp-sidebar>
+<!-- End Sidebar -->
+<!-- End Navbar -->
+
+<div style="text-align: center; margin: 1rem 0">
+    <amp-ad width="320" height="100"
+            type="doubleclick"
+            layout="fixed"
+            data-slot="/32246135/mm-billboard"
+            data-multi-size="320x100">
+    </amp-ad>
+</div>
+
+<div id="content" class="container">
+
+    <section class="article">
+        <ol class="breadcrumb">
+            <li><a href="https://www.malaymail.com">Home</a></li>
+            <li><a href="https://www.malaymail.com/news/world">World</a></li>
+        </ol>
+        <h1>Islamic State exploits virus, political crisis to boost Iraq attacks</h1>
+                <div class="byline">
+            
+            <div class="text">
+                <p class="meta">Monday, 04 May 2020 10:19 AM MYT</p>
+                            </div>
+        </div>
+        <div class="primary">
+            <amp-addthis width="320" height="92" data-pub-id="ra-5ab8726ea6bf9854" data-widget-id="acwa" data-widget-type="inline"></amp-addthis>
+
+            <article>
+                                    <figure class="figure  float-left">
+        <amp-img src="https://media.malaymail.com/uploads/articles/2020/2020-05/najafu0405.jpg" class="figure-img img-fluid rounded" alt="Mourners carry the coffin of a member of Popular Mobilisation Forces, who was killed in clashes with Islamic State militants in Salahuddin province, during the funeral Najaf, Iraq May 3, 2020. — Reuters pic" title="Mourners carry the coffin of a member of Popular Mobilisation Forces, who was killed in clashes with Islamic State militants in Salahuddin province, during the funeral Najaf, Iraq May 3, 2020. — Reuters pic" width="800" height="534" layout="responsive">
+        </amp-img>
+        <figcaption class="figure-caption">Mourners carry the coffin of a member of Popular Mobilisation Forces, who was killed in clashes with Islamic State militants in Salahuddin province, during the funeral Najaf, Iraq May 3, 2020. — Reuters pic</figcaption>
+    </figure>
+                                                                                                                                        <p>BAGHDAD, May 4 — Islamic State group remnants in Iraq are exploiting a coronavirus lockdown, coalition troop withdrawals and simmering political disputes to ramp up deadly attacks, according to analysts and intelligence officials.</p>
+                                            <div style="text-align: center; margin-bottom: 1rem">
+                            <amp-ad width="320" height="100" type="doubleclick" layout="fixed" data-slot="/32246135/mm-story-320x100"></amp-ad>
+                        </div>
+                                                                                                                                        <p>The bloodiest so far was an ambush early Saturday that killed 10 Iraqi fighters north of Baghdad that observers say demonstrated a new escalation in the jihadist group's tactics but one that could still be contained.</p>
+                                                                <div style="text-align: center; margin-bottom: 1rem">
+                            <amp-ad width="300" height="250" layout="fixed" type="doubleclick" data-slot="/32246135/amp-outstream-inread"></amp-ad>
+                        </div>
+                        <div id="misc-ads" style="margin: 10px;"></div>
+                                                                                                                    <p>Iraq declared IS defeated in late 2017 but sleeper cells have survived in remote northern and western areas, where security gaps mean the group wages occasional attacks.</p>
+                                                                                    <div style="margin-bottom: 1rem" class="flying-carpet-adunit">
+                            <div class="amp-flying-carpet-text-border" style="font-size:12px;background-color: #000; color: #fff;text-align: center;margin-top:5px;">Advertising</div>
+                            <amp-fx-flying-carpet height="300px">
+                                <amp-ad
+                                        data-enable-refresh="60"
+                                        width="300"
+                                        height="600"
+                                        layout="fill"
+                                        type="doubleclick"
+                                        data-slot="/21801619092/351567_Malaymail_300x600"
+                                        rtc-config='{"vendors": {"prebidappnexus": {"PLACEMENT_ID": "16491158"}}, "timeoutMillis": 1000}'
+                                        json='{"targeting":{"hb_format":"amp"}}'
+                                        data-multi-size-validation="false">
+                                </amp-ad>
+                            </amp-fx-flying-carpet>
+                            <div class="amp-flying-carpet-text-border" style="font-size:12px;background-color: #000; color: #fff;text-align: center;margin-bottom:5px;">Advertising</div>
+                        </div>
+                                                                                                <p>They have spiked since early April as jihadists plant explosives, fire on police patrols and launch mortars and rockets at villages, local security sources told AFP.</p>
+                                                                                                        <div style="text-align: center; margin-bottom: 1rem">
+                            <amp-ad width="336" height="280" type="doubleclick" layout="responsive" data-slot="/32246135/mm-story-mreg-2" data-multi-size="300x250,336x280"></amp-ad>
+                        </div>
+                                                                            <p>“Combat operations have reached a level we haven't seen in a while,” said Iraqi security expert Hisham al-Hashemi.</p>
+                                                                                                                            <div style="text-align: center; margin-bottom: 1rem">
+                            <amp-ad width="300" height="1" type="doubleclick" layout="responsive" data-slot="/32246135/amp-teads"></amp-ad>
+                        </div>
+                                                        <p>He said IS fighters were using abandoned villages to edge towards urban areas, looking to re-establish funding mechanisms, smuggling routes and hideouts while targeting local infrastructure and officials to cause panic.</p>
+                                                                                                                                        <p>Days before early Saturday's ambush — which was multi-pronged and took place in Salahaddin province — the jihadists claimed a suicide attack that wounded four people outside an intelligence headquarters in Kirkuk, a restive northern province.</p>
+                                                                                                                                        <p>An intelligence officer there said IS had tripled its attacks in Kirkuk in April compared to March.</p>
+                                                                                                                                        <p>In the rural Diyala region northeast of Baghdad, daily attacks on agricultural fields have terrified farmers and recalled memories of IS' steady build-up across Iraq.</p>
+                                                                                                                                        <p>Adnan Ghadban, a tribal sheikh in the city of Baquba, said two of his relatives were shot in their fields last week by IS fighters. They both remained in a critical condition, he added.</p>
+                                                                                                                                        <p>“What's happening now is taking us back to 2014,” he said, referring to the year when IS seized swathes of the country in a lightning offensive.</p>
+                                                                                                                                        <p><strong>'Opportunistic increase'</strong></p>
+                                                                                                                                        <p>In part, the escalation may be linked to security units being redeployed to enforce a nationwide lockdown aimed at curbing the spread of the novel coronavirus, which has infected more than 2,000 people and killed over 90 in Iraq.</p>
+                                                                                                                                        <p>“These fighters took advantage of the fact that security forces were busy with imposing the curfew and began to move around much more freely,” Ghadban told AFP.</p>
+                                                                                                                                        <p>The jihadists could also be exploiting the political deadlock in Baghdad, where top leaders are focused on tense talks over a new government, the consequences of a collapse in global oil prices and budget disputes with autonomous Kurdish authorities.</p>
+                                                                                                                                        <p>“IS fighters have sensors on the political situation. Every time it deteriorates, they opportunistically increase their activity,” said Fadel Abu Raghif, an Iraqi analyst focused on political and security affairs.</p>
+                                                                                                                                        <p>Abu Raghif and the Kirkuk intelligence officer said a significant troop drawdown by the 7,500-strong US-led coalition had also paved the way for IS to boost attacks.</p>
+                                                                                                                                        <p>The international alliance deployed in Iraq in 2014 to help local troops defeat the jihadists by providing air strikes, advice, surveillance and combat support.</p>
+                                                                                                                                        <p>Seeing that the threat from IS had “shifted,” the coalition has pulled out of five Iraqi bases in recent weeks, including in Kirkuk and IS' former stronghold of Mosul.</p>
+                                                                                                                                        <p>It also redeployed hundreds of trainers out of the country indefinitely, as Iraqi security forces had halted training programmes to limit possible Covid-19 transmissions.</p>
+                                                                                                                                        <p>Despite years of training, the US Defence Department assessed this year that Iraqi troops were still unable to adequately collect and use intelligence in anti-IS raids on their own, or maintain operations in tough terrain without coalition help.</p>
+                                                                                                                                        <p>“Without a US troop presence in Iraq, IS would likely resurge,” the Pentagon's inspector general wrote.</p>
+                                                                                                                                        <p><strong>'Crude, elementary'</strong></p>
+                                                                                                                                        <p>Still, analysts and observers said the recent wave of IS attacks did not mean the group could once again threaten cities like it did in 2014.</p>
+                                                                                                                                        <p>“IS will not be able to return to its former size,” said Abu Raghif, meaning the UK-sized “caliphate” that the jihadists declared across swathes of Iraq and Syria.</p>
+                                                                                                                                        <p>A senior official in the US-led coalition told AFP it had noted “successful low-level attacks” by IS in recent weeks but did not consider them a “substantial uptick.”</p>
+                                                                                                                                        <p>“It's not just the number of the attacks but what's the quality of the attack? Is it complex? What equipment or tactics were used? Most of what we've seen has been crude and elementary,” the official said.</p>
+                                                                                                                                        <p>Sam Heller, an independent analyst focused on jihadist groups, said the recent shift hardly compares to the peak of IS activity around the creation of the “caliphate.”</p>
+                                                                                                                                        <p>Instead, they were “seemingly indicative of the group's more aggressive posture, not necessarily new and impressive capabilities,” he wrote. — AFP</p>
+                                                                                                                                </article>
+
+            <amp-addthis width="320" height="92" data-pub-id="ra-5ab8726ea6bf9854" data-widget-id="acwa" data-widget-type="inline"></amp-addthis>
+
+                        <div style="text-align: center; margin-bottom: 1rem">
+                <amp-ad width="336" height="280" type="doubleclick" layout="responsive" data-slot="/32246135/mm-story-mreg-3" data-multi-size="300x250,336x280"></amp-ad>
+            </div>
+            
+            <div class="related-article">
+                                    <h3>Related Articles</h3>
+                    <ul>
+                                                    <li><a href="https://www.malaymail.com/amp/news/world/2020/04/28/suspect-behind-attack-on-police-near-paris-pledged-allegiance-to-islamic-st/1861119" rel="nofollow">Suspect behind attack on police near Paris pledged allegiance to Islamic State</a></li>
+                                                    <li><a href="https://www.malaymail.com/amp/news/world/2020/04/22/spain-says-one-of-europes-most-wanted-islamic-state-fighters-arrested/1859195" rel="nofollow">Spain says one of Europe’s most-wanted Islamic State fighters arrested</a></li>
+                                                    <li><a href="https://www.malaymail.com/amp/news/world/2020/04/16/israel-mps-tasked-with-ending-deadlock-over-unity-government/1857355" rel="nofollow">Israel MPs tasked with ending deadlock over unity government</a></li>
+                                            </ul>
+                            </div>
+        </div>
+    </section>
+
+    <amp-embed width="100" height="100" type="outbrain" layout="responsive" data-widgetIds="AMP_1"></amp-embed>
+
+        <div style="text-align: center; margin: 1rem 0">
+        <amp-ad width="300" height="600" type="doubleclick" layout="fixed" data-slot="/32246135/mm-story-mreg-5"></amp-ad>
+    </div>
+    
+    <amp-iframe class="dfaframe" width="1" title="User Sync" height="1" sandbox="allow-scripts" frameborder="0" src="https://cdn.jsdelivr.net/npm/prebid-universal-creative@latest/dist/load-cookie.html">
+        <amp-img layout="fill" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" placeholder></amp-img>
+    </amp-iframe>
+
+    <amp-web-push id="amp-web-push" layout="nodisplay" helper-iframe-url="https://www.malaymail.com/helper-iframe.html" permission-dialog-url="https://www.malaymail.com/permission-dialog.html" service-worker-url="https://www.malaymail.com/service-worker.js"></amp-web-push>
+    <!-- Subscription widget -->
+    <div class="align-center-button">
+        <amp-web-push-widget visibility="unsubscribed" layout="fixed" width="252" height="42" style="margin-right:auto; margin-left:auto">
+            <button class="subscribe" on="tap:amp-web-push.subscribe">
+                <amp-img class="subscribe-icon" width="18" height="18" layout="fixed" src="data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48dGl0bGU+UHVzaEFsZXJ0PC90aXRsZT48ZyBpZD0iRm9ybWFfMSIgZGF0YS1uYW1lPSJGb3JtYSAxIj48ZyBpZD0iRm9ybWFfMS0yIiBkYXRhLW5hbWU9IkZvcm1hIDEtMiI+PHBhdGggZD0iTTEzMi4wNywyNTBjMTguNjIsMCwzMy43MS0xMS41MywzMy43MS0yMUg5OC4zNkM5OC4zNiwyMzguNDIsMTEzLjQ2LDI1MCwxMzIuMDcsMjUwWk0yMTksMjAwLjUydjBhNTcuNDIsNTcuNDIsMCwwLDEtMTguNTQtNDIuMzFWMTE0LjcyYTY4LjM2LDY4LjM2LDAsMCwwLTQzLjI0LTYzLjU1VjM1LjlhMjUuMTYsMjUuMTYsMCwxLDAtNTAuMzIsMFY1MS4xN2E2OC4zNiw2OC4zNiwwLDAsMC00My4yMyw2My41NXY0My40NmE1Ny40Miw1Ny40MiwwLDAsMS0xOC41NCw0Mi4zMXYwYTEwLjQ5LDEwLjQ5LDAsMCwwLDYuNTcsMTguNjdIMjEyLjQzQTEwLjQ5LDEwLjQ5LDAsMCwwLDIxOSwyMDAuNTJaTTEzMi4wNyw0NS40MmExMS4zMywxMS4zMywwLDEsMSwxMS4zNi0xMS4zM0ExMS4zMywxMS4zMywwLDAsMSwxMzIuMDcsNDUuNDJabTczLjg3LTE3LjY3LTYuNDUsOS43OGE4My40Niw4My40NiwwLDAsMSwzNi4xNSw1NC43N2wxMS41My0yLjA2YTk1LjIzLDk1LjIzLDAsMCwwLTQxLjIzLTYyLjVoMFpNNjQuNDYsMzcuNTJMNTgsMjcuNzVhOTUuMjMsOTUuMjMsMCwwLDAtNDEuMjMsNjIuNWwxMS41MywyLjA2QTgzLjQ2LDgzLjQ2LDAsMCwxLDY0LjQ1LDM3LjU0aDBaIiBmaWxsPSIjZmZmIi8+PC9nPjwvZz48L3N2Zz4=">
+                </amp-img>
+                Subscribe to Notifications
+            </button>
+        </amp-web-push-widget>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2020, Malay Mail, All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>

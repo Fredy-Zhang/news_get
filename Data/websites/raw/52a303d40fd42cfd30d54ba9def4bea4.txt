@@ -1,0 +1,2050 @@
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3630280-10");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+
+<link rel="icon" href="http://laht.com/favicon.ico">
+<html>
+<head>
+<meta http-equiv="Content-Type" value="5/5/2020 5:33:03 AM" />
+<title>Latin American Herald Tribune - Welcome</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="Extras/links.css" rel="stylesheet" type="text/css">
+</head>
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<table width="779"  border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#CCCCCC">
+  <tr>
+    <td align="center">  
+<link href="../Extras/links.css" rel="stylesheet" type="text/css" />
+
+
+<form method="post" action="searchresults.asp">
+<table width="779" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+  
+	
+    <td width="6">&nbsp;</td>
+    <td height="89" colspan="5" background="../images/02.jpg"><table width="100%" border="0" align="center" cellpadding="2" cellspacing="2">
+      <tr>
+        <td width="170"><div align="center"><a href="index.asp"><img src="../images/logo_lath.jpg" alt="" width="300" height="80" border="0" /></a></div></td>
+        <td width="460"><div align="center">
+	<script type="text/javascript"><!--
+google_ad_client = "pub-3169938804465085";
+/* 234x60, created 10/23/09 */
+google_ad_slot = "5351342266";
+google_ad_width = 234;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div></td>
+        <td width="90" class="menu">Caracas,<br />              
+          Tuesday<br />
+            May&nbsp;5,2020            </div></td>
+      </tr>
+    </table>
+    <div align="center"></div></td>
+    <td width="6">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="11" background="../images/01.jpg"></td>
+    <td height="11" colspan="5" align="top" valign><img src="../images/px_black.gif" width="100%" height="3" /></td>
+    <td height="11" background="../images/04.jpg"></td>
+  </tr>
+  <tr>
+    <td height="11" background="../images/01.jpg"></td>
+    <td width="500" height="11" align="top" valign bgcolor="#F7F6F4"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td valign="middle"><div align="center"><a href="/index.asp" class="menu2">Home</a></div></td>
+        <td width="3" valign="middle"><div align="center"><span class="menu">|</span></div></td>
+        <td valign="middle"><div align="center"><a href="/article.asp?ArticleId=133399&CategoryId=10734" class="menu2">About us</a></div></td>
+        <td width="3" valign="middle"><div align="center"><span class="menu">|</span></div></td>
+        <td  height="18" valign="middle"><div align="center"><a href="http://www.laht.com/whoswho.asp?ArticleId=201583&CategoryId=13973" class="menu2">Who's Who</a></div></td>
+        <td width="3" valign="middle"><div align="center"><span class="menu">|</span></div></td>
+        <td valign="middle"><div align="center"><a href="/Contacts.asp" class="menu2">Contacts</a></div></td>
+        <td width="3" valign="middle"><div align="center"><span class="menu">|</span></div></td>
+        <td  height="18" valign="middle"><div align="center"><a href="/help.asp" class="menu2">Help</a></div></td>
+      </tr>
+    </table></td>
+    <td width="4"></td>
+    <td width="4" bgcolor="#333333"></td>
+    <td width="4" bgcolor="#FFFFFF"></td>
+    <td width="355" bgcolor="#999999" align="right">
+      <table class="tittabla">
+      <tr><td valign="middle" class="TitTabla">Search:&nbsp;
+      <input name="Criteria" type=text class="search" size="15"></td><td valign="middle"><input type="image" src="../images/go.gif"></td></tr></table></td>
+    <td height="11" background="../images/04.jpg"></td>
+  </tr>
+</table>
+</form>
+  <table width="779" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      
+      <td  height="6" width="6" background="images/01.jpg"></td>
+      <td colspan="5"></td>
+      <td height="6" width="6" background="images/04.jpg"></td>
+    </tr>
+    <tr>
+      <td width="6" background="images/01.jpg"></td>
+      <td height="10" colspan="3" align="top" valign="top">
+        
+
+<link href="../Extras/links.css" rel="stylesheet" type="text/css" />
+
+<table width="150" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td valign="top" bgcolor="#F7F6F4"><table width="150" border="0" align="center" cellpadding="1" cellspacing="1" bordercolor="#F0F0F0">
+      <tbody><tr>
+        <td valign="top"><div align="center">
+            
+            <table width="139" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td><table width="145" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+                    <tbody><tr>
+                      <td valign="bottom" bgcolor="#F0F0F0" class="menu2"><img src="../images/01_left.gif" width="27" height="16" align="absmiddle">Venezuela Links</td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+            </tbody></table>
+          <table width="145" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              
+              <tbody><tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=359501&amp;CategoryId=13301" class="menu3">Venezuela Overview</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=197267&amp;CategoryId=13301" class="menu3">Venezuelan Embassies &amp; Consulates Around The World</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=195963&amp;CategoryId=13301" class="menu3">Sites/Blogs about Venezuela</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=195957&amp;CategoryId=13301" class="menu3">Venezuelan Newspapers</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=195959&amp;CategoryId=13301" class="menu3">Facts about Venezuela</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=195956&amp;CategoryId=13301" class="menu3">Venezuela Tourism</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=195961&amp;CategoryId=13301" class="menu3">Embassies in Caracas</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+            </tbody></table>
+          <br>
+            
+            <table width="139" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td><table width="145" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+                    <tbody><tr>
+                      <td valign="bottom" bgcolor="#F0F0F0" class="menu2"><img src="../images/01_left.gif" width="27" height="16" align="absmiddle">Colombia Links</td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+            </tbody></table>
+          <table width="145" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              
+              <tbody><tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=359504&amp;CategoryId=13305" class="menu3">Colombia Overview</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=197920&amp;CategoryId=13305" class="menu3">Colombian Embassies &amp; Consulates Around the World</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=197924&amp;CategoryId=13305" class="menu3">Government Links</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=197919&amp;CategoryId=13305" class="menu3">Embassies in Bogota</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=197921&amp;CategoryId=13305" class="menu3">Media</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=197242&amp;CategoryId=13305" class="menu3">Sites/Blogs about Colombia</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=195958&amp;CategoryId=13305" class="menu3">Educational Institutions</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+            </tbody></table>
+          <br>
+            
+            <table width="139" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td><table width="145" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+                    <tbody><tr>
+                      <td valign="bottom" bgcolor="#F0F0F0" class="menu2"><img src="../images/01_left.gif" width="27" height="16" align="absmiddle">Wall Street</td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+            </tbody></table>
+          <table width="145" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              
+              <tbody><tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=359223&amp;CategoryId=13306" class="menu3">Stocks</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+            </tbody></table>
+          <br>
+            
+            <table width="139" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td><table width="145" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+                    <tbody><tr>
+                      <td valign="bottom" bgcolor="#F0F0F0" class="menu2"><img src="../images/01_left.gif" width="27" height="16" align="absmiddle">Commodity Prices</td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+            </tbody></table>
+          <table width="145" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              
+              <tbody><tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=358903&amp;CategoryId=13307" class="menu3">Commodities</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=358904&amp;CategoryId=13307" class="menu3">Crude Oil</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=358908&amp;CategoryId=13307" class="menu3">US Gasoline Prices</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=358906&amp;CategoryId=13307" class="menu3">Natural Gas</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=358907&amp;CategoryId=13307" class="menu3">Gold</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=358917&amp;CategoryId=13307" class="menu3">Silver</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=358910&amp;CategoryId=13307" class="menu3">Copper</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+            </tbody></table>
+          <br>
+            
+            <table width="139" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td><table width="145" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+                    <tbody><tr>
+                      <td valign="bottom" bgcolor="#F0F0F0" class="menu2"><img src="../images/01_left.gif" width="27" height="16" align="absmiddle">Currencies</td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+            </tbody></table>
+          <table width="145" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              
+              <tbody><tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=358912&amp;CategoryId=13308" class="menu3">Euro</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=358918&amp;CategoryId=13308" class="menu3">UK Pound</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=358919&amp;CategoryId=13308" class="menu3">Australia Dollar</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=358913&amp;CategoryId=13308" class="menu3">Canada Dollar</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=358914&amp;CategoryId=13308" class="menu3">Brazil Real</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=358915&amp;CategoryId=13308" class="menu3">Mexico Peso</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=358916&amp;CategoryId=13308" class="menu3">India Rupee</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+            </tbody></table>
+          <br>
+            
+            <table width="139" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td><table width="145" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+                    <tbody><tr>
+                      <td valign="bottom" bgcolor="#F0F0F0" class="menu2"><img src="../images/01_left.gif" width="27" height="16" align="absmiddle">Caribbean</td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+            </tbody></table>
+          <table width="145" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              
+              <tbody><tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=359506&amp;CategoryId=13848" class="menu3">Antigua &amp; Barbuda</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=359505&amp;CategoryId=13848" class="menu3">Aruba</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=360383&amp;CategoryId=13848" class="menu3">Barbados</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=387420&amp;CategoryId=13848" class="menu3">Cayman Islands</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=393167&amp;CategoryId=13848" class="menu3">Cuba</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=391954&amp;CategoryId=13848" class="menu3">Curacao</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=361200&amp;CategoryId=13848" class="menu3">Dominica</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+            </tbody></table>
+          <br>
+            
+            <table width="139" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td><table width="145" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+                    <tbody><tr>
+                      <td valign="bottom" bgcolor="#F0F0F0" class="menu2"><img src="../images/01_left.gif" width="27" height="16" align="absmiddle">Caribbean G-Z</td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+            </tbody></table>
+          <table width="145" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              
+              <tbody><tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=382626&amp;CategoryId=34405" class="menu3">Grenada</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=360102&amp;CategoryId=34405" class="menu3">Haiti</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=391971&amp;CategoryId=34405" class="menu3">Jamaica</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=360387&amp;CategoryId=34405" class="menu3">Saint Kitts and Nevis</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=361179&amp;CategoryId=34405" class="menu3">Saint Lucia</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=360355&amp;CategoryId=34405" class="menu3">Saint Vincent and the Grenadines</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+            </tbody></table>
+          <br>
+            
+            <table width="139" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td><table width="145" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+                    <tbody><tr>
+                      <td valign="bottom" bgcolor="#F0F0F0" class="menu2"><img src="../images/01_left.gif" width="27" height="16" align="absmiddle">Central America</td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+            </tbody></table>
+          <table width="145" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              
+              <tbody><tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=393176&amp;CategoryId=34692" class="menu3">Belize</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=386770&amp;CategoryId=34692" class="menu3">Costa Rica</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=360385&amp;CategoryId=34692" class="menu3">El Salvador</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=363833&amp;CategoryId=34692" class="menu3">Honduras</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=359663&amp;CategoryId=34692" class="menu3">Nicaragua</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=378747&amp;CategoryId=34692" class="menu3">Panama</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+            </tbody></table>
+          <br>
+            
+            <table width="139" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td><table width="145" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+                    <tbody><tr>
+                      <td valign="bottom" bgcolor="#F0F0F0" class="menu2"><img src="../images/01_left.gif" width="27" height="16" align="absmiddle">North America</td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+            </tbody></table>
+          <table width="145" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              
+              <tbody><tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=359254&amp;CategoryId=34693" class="menu3">Bahamas</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=384756&amp;CategoryId=34693" class="menu3">Bermuda</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=381785&amp;CategoryId=34693" class="menu3">Mexico</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+            </tbody></table>
+          <br>
+            
+            <table width="139" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td><table width="145" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+                    <tbody><tr>
+                      <td valign="bottom" bgcolor="#F0F0F0" class="menu2"><img src="../images/01_left.gif" width="27" height="16" align="absmiddle">South America</td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+            </tbody></table>
+          <table width="145" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              
+              <tbody><tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=373741&amp;CategoryId=34694" class="menu3">Argentina</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=389198&amp;CategoryId=34694" class="menu3">Brazil</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=389197&amp;CategoryId=34694" class="menu3">Chile</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=391962&amp;CategoryId=34694" class="menu3">Guyana</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=378748&amp;CategoryId=34694" class="menu3">Paraguay</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=382624&amp;CategoryId=34694" class="menu3">Peru</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=381645&amp;CategoryId=34694" class="menu3">Uruguay</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+            </tbody></table>
+          <br>
+            
+            <table width="139" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td><table width="145" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+                    <tbody><tr>
+                      <td valign="bottom" bgcolor="#F0F0F0" class="menu2"><img src="../images/01_left.gif" width="27" height="16" align="absmiddle">Follow Us</td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+            </tbody></table>
+          <table width="145" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              
+              <tbody><tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=381879&amp;CategoryId=35316" class="menu3">What's New at LAHT?</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=390891&amp;CategoryId=35316" class="menu3">Follow Us On Facebook</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=390894&amp;CategoryId=35316" class="menu3">Follow Us On Twitter</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=373740&amp;CategoryId=35316" class="menu3">Most Viewed on the Web</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=373737&amp;CategoryId=35316" class="menu3">Popular on Twitter</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#FFFFFF" class="subscription"><table width="141" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="16" valign="top"><div align="center"><img src="images/bullet_c.gif" width="5" height="5" vspace="5"></div></td>
+                      <td width="128"><a href="article.asp?ArticleId=381843&amp;CategoryId=35316" class="menu3">Receive Our Daily Headlines</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+              
+            </tbody></table>
+          <br>
+            
+            <!-- 
+                <table width="139" height="142" border="0" cellpadding="0" cellspacing="0">
+                  <tr> 
+                    <td height="24" colspan="3"><img src="Images/img18.gif" width="139" height="24"></td>
+                  </tr>
+                  <tr> 
+                    <td width="3" height="124"><img src="Images/img19.jpg" width="3" height="124"></td>
+                    <td width="133"><table width="130" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="79A8FA">
+                        <tr> 
+                          <td bgcolor="B4D0FF" class="textoazul"><div align="center">Specials</div></td>
+                        </tr>
+                        <tr> 
+                          <td bgcolor="B4D0FF" class="textoazul"><div align="center">Columnistas</div></td>
+                        </tr>
+                        <tr> 
+                          <td bgcolor="B4D0FF" class="textoazul"><div align="center">Fotogaler&iacute;a</div></td>
+                        </tr>
+                        <tr> 
+                          <td bgcolor="B4D0FF" class="textoazul"><div align="center">Tarifas Publicitarias</div></td>
+                        </tr>
+                        <tr> 
+                          <td bgcolor="B4D0FF" class="textoazul"><div align="center">Search</div></td>
+                        </tr>
+                        <tr> 
+                          <td bgcolor="B4D0FF" class="textoazul"><div align="center">Clasification</div></td>
+                        </tr>
+                      </table></td>
+                    <td width="3" height="124"><img src="Images/img20.jpg" width="3" height="124"></td>
+                  </tr>
+                  <tr> 
+                    <td height="3" colspan="3"><img src="Images/img21.jpg" width="139" height="3"></td>
+                  </tr>
+                </table>
+				 -->
+            <br>
+        </div></td>
+      </tr>
+      
+    </tbody></table></td>
+  </tr>
+</tbody></table></td><td width="530" align="top" valign><table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+		<tr>
+          <td>
+          
+        
+          
+          <div align="center">
+          
+              
+          </div></td>
+		  
+        </tr>
+		
+		
+        <tr>
+          <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+            <tr>
+              <td valign="bottom" bgcolor="#E6EFF8" class="titulos2">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> Top <span class="titulos2claro">Story </span></td>
+            </tr>
+          </table></td>
+        </tr>
+      </table>
+<table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          
+          <tr>
+            <td align="center">
+              <table width="90%" cellpadding="2" cellspacing="5">
+                <tr>
+                  <td valign="top" width="130" align="center" ><img src="/Thumb.ashx?path=/2020/2005/0503/Venezuela Coast Guard - 2.jpg&x=200&y=138&mode=3" class="bordeimg"></td>
+                  <td valign="top"><a href="article.asp?ArticleId=2491698&CategoryId=10718" class="topstheader">Venezuela Regime: 8 Dead, 2 Arrested in Foiled Maritime Invasion</a><br>
+                      
+                    <a class="menu">Diosdado Cabello, head of the illegal Constituent National Assembly, said a group of mercenaries were trying to invade Venezuela after arriving to the coast in La Guaira state...</a><br> 
+                    <img src="images/bullet_c.gif" width="5" height="5"> <a href="article.asp?ArticleId=2491698&CategoryId=10718" class="textoazul">More details</a></div></td>
+                </tr>
+            </table></td>
+          </tr>
+      </table>
+        
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=10717" class="topstheader">Venezuela                                           (Click here for more Venezuela news)</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491707&CategoryId=10717" class="menu3">Venezuelas Regime Denounces Sea Invasion, Opposition Declares It a Set-Up</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/3/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491700&CategoryId=10717" class="menu3">Colombia Rejects Venezuelan Accusations of Involvement with Alleged Attack</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/3/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491682&CategoryId=10717" class="menu3">Families of Victims Cry Foul after 50 Dead in Alleged Venezuela Prison Break</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/2/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491664&CategoryId=10717" class="menu3">At Least 46 Killed in Venezuela Prison Riot</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/1/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491642&CategoryId=10717" class="menu3">Returning to Venezuela from Colombia, a Reverse Odyssey Forced by COVID-19</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=12393" class="topstheader">Colombia (Click here for more)</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/27/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491531&CategoryId=12393" class="menu3">Unilateral Ceasefire Wont Be Extended Beyond April, Colombian Rebels Say</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/24/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491453&CategoryId=12393" class="menu3">Colombias Villavicencio Prison Faces COVID-19 Emergency</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/23/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491440&CategoryId=12393" class="menu3">Colombias Sex Workers Forced to Adapt to Coronavirus Lockdown</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/22/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491414&CategoryId=12393" class="menu3">Burial Ceremony Banned In Afro-Colombian Town Hard Hit By Covid-19 Quarantine</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/22/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491395&CategoryId=12393" class="menu3">Robots Deliver Food to Homes in Medellin during COVID-19 Quarantine</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=14091" class="topstheader">Mexico</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/3/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491683&CategoryId=14091" class="menu3">Drug Lord El Chapos Daughter Distributes Gifts Carrying His Image</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/2/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491678&CategoryId=14091" class="menu3">Mexicos Wrestlers Work to Stay Fit under Quarantine</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/2/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491666&CategoryId=14091" class="menu3">Mexico COVID-19 Cases Cross 20,000-Mark; Death Toll Nears 2,000</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/1/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491660&CategoryId=14091" class="menu3">Mexicos Crematories Running All-Out as COVID-19 Peak Looms</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/1/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491634&CategoryId=14091" class="menu3">Net Loss of Mexicos Pemex Rises 15-Fold in Q1</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=14090" class="topstheader">Brazil (Click here for more)</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491720&CategoryId=14090" class="menu3">Brazilian Making Anti-Coronavirus Face Masks Using Homemade 3D Printers</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491706&CategoryId=14090" class="menu3">Bolsonaro Ups Tension with Congress, Supreme Court amid Political Crisis</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491705&CategoryId=14090" class="menu3">Christ the Redeemer Wears Mask to Raise Awareness against COVID-19</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/3/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491684&CategoryId=14090" class="menu3">Brazils Ex-Justice Minister Testifies against Bolsonaro in Meddling Probe</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/2/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491668&CategoryId=14090" class="menu3">Bolsonaro Wants Brazilians to Return to Work amid COVID-19 Lockdown</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=14093" class="topstheader">Argentina</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/27/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491530&CategoryId=14093" class="menu3">Argentina Extends Lockdown amid Controversy over Easing Some Restrictions</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/18/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491318&CategoryId=14093" class="menu3">Worlds Bookstore Capital Struggles with COVID-19 Lockdown</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/14/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491185&CategoryId=14093" class="menu3">Mafalda, Fangio Don Masks in Buenos Aires to Help Fight COVID-19</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/11/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491125&CategoryId=14093" class="menu3">Argentina Extends Mandatory Quarantine until April 26</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;3/20/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2490558&CategoryId=14093" class="menu3">Mothers Leave Plaza de Mayo Empty for the First Time in 43 Years</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=14919" class="topstheader">Bolivia</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/24/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491452&CategoryId=14919" class="menu3">Medicinal Plant Chambers Used to Reinforce against COVID-19 in Bolivia</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/3/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2490946&CategoryId=14919" class="menu3">Bolivias COVID-19 Aid Payment Prompts Elderly to Form Long Lines at Banks</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;3/27/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2490750&CategoryId=14919" class="menu3">Coronavirus Characters Help Bolivian Police Raise COVID-19 Awareness</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;3/6/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2490198&CategoryId=14919" class="menu3">Bolivias Morales Cites Studies to Blast OAS Claim of Election Fraud</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;2/13/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2488586&CategoryId=14919" class="menu3">Bolivian Says Lengthy House Arrest Was Punishment for Capturing Che Guevara</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=14092" class="topstheader">Caribbean</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/26/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491494&CategoryId=14092" class="menu3">Haitians Continue with Their Daily Lives despite Coronavirus Measures</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/22/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491417&CategoryId=14092" class="menu3">Hunger Stalks Haitians Left Jobless By Covid-19 Mitigation Measures</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;3/24/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2490676&CategoryId=14092" class="menu3">Drive-Through Covid-19 Testing Station Helping Battle Virus In Puerto Rico</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;3/15/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2490424&CategoryId=14092" class="menu3">Dominicans Head to Polls for Rescheduled Municipal Elections</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;2/27/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2489974&CategoryId=14092" class="menu3">When Peace Brings Violence</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=23558" class="topstheader">Central America</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/28/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491539&CategoryId=23558" class="menu3">Panama Nursing Homes Remain Free of COVID-19</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/27/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491533&CategoryId=23558" class="menu3">Gangs Show Muscle, Disrupting Authorities Fight vs. COVID-19 in El Salvador</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/21/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491370&CategoryId=23558" class="menu3">Nicaragua Resumes Classes amid Coronavirus Pandemic</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/18/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491305&CategoryId=23558" class="menu3">Coronavirus Pandemic Traps 2,000 Migrants in Darien, Some Already Ill</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/16/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491244&CategoryId=23558" class="menu3">The Guatemalan Restaurant Serving Free Food Amid COVID-19 Crisis</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=14094" class="topstheader">Chile</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/29/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491572&CategoryId=14094" class="menu3">More Than 400 Bolivians Camp Out at Chile Consulate Demanding Return Home</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;3/28/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2490776&CategoryId=14094" class="menu3">Puma Found Roaming Chilean Capital during COVID-19 Curfew Returns to Andes</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;3/19/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2490553&CategoryId=14094" class="menu3">Chile Puts Off Vote on Constitutional Convention due to COVID-19</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;3/14/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2490391&CategoryId=14094" class="menu3">Troublesome Week in Chile Culminates with Santiago Protest</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;2/18/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2488720&CategoryId=14094" class="menu3">Government: Blaze Near National Park Is One of Chiles Biggest-Ever Fires</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=14510" class="topstheader">Cuba</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491725&CategoryId=14510" class="menu3">Cubas Entrepreneurs Reinventing Themselves to Survive Coronavirus Crisis</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/28/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491567&CategoryId=14510" class="menu3">Cuba Mobilizes Med Students in Fight against COVID-19</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/27/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491526&CategoryId=14510" class="menu3">Cuban Doctors Sent to South Africa to Help with Coronavirus Outbreak</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/7/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491030&CategoryId=14510" class="menu3">Netflix, YouTube Out of Reach for Most Cubans Staying Home to Dodge COVID-19</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/1/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2490893&CategoryId=14510" class="menu3">US Embargo Preventing Sending of Masks, COVID-19 Test Kits to Cuba</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=14089" class="topstheader">Ecuador (Click here for more)</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/2/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491676&CategoryId=14089" class="menu3">Priests in Ecuador Reinvent Themselves during Coronavirus Lockdown</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/25/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491481&CategoryId=14089" class="menu3">Quitos La Comuna Neighborhood Hoists White Flags in a Call for Help</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/24/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491455&CategoryId=14089" class="menu3">COVID-19 Strikes Guayaquils Cab Drivers in Ecuador</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/22/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491420&CategoryId=14089" class="menu3">Ecuador Under Magnifying Glass Over Recent Crude Oil Spills In Amazonia</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/16/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491243&CategoryId=14089" class="menu3">Ecuador Factory Turns To Making Coffins, While Hoping They Will Not Be Needed</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=14088" class="topstheader">Paraguay</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;2/1/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2488255&CategoryId=14088" class="menu3">Paraguayan Artisans Strive to Preserve Traditional 60-Striped Poncho</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;12/24/2019&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2487117&CategoryId=14088" class="menu3">Storytellers Bring Christmas Cheer to Pediatric Hospital in Paraguay</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;12/13/2019&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2486787&CategoryId=14088" class="menu3">Abandoned Jaguar Cub Brings Hope of Reproduction for Big Cats in Paraguay</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;10/10/2019&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2484346&CategoryId=14088" class="menu3">Taiwan Plans to Expand Orchid Industry in Paraguay</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;9/24/2019&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2483696&CategoryId=14088" class="menu3">Fires Threaten Delicate Ecosystem in Paraguay</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=14095" class="topstheader">Peru</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/29/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491573&CategoryId=14095" class="menu3">Perus Overcrowded Prisons Mutiny over Spread of COVID-19</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/5/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2490972&CategoryId=14095" class="menu3">Perus Indigenous People in Quarantine without Electricity or Sewage</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;3/27/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2490769&CategoryId=14095" class="menu3">Birds Reclaim Lima Beaches Amid Absence Of Humans</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;3/19/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2490554&CategoryId=14095" class="menu3">Former Peru President to Be Released from Jail amid COVID-19 Pandemic</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;3/8/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2490225&CategoryId=14095" class="menu3">Protesters March to Seek Justice for Women Victims of Abuse in Peru</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=23620" class="topstheader">Uruguay</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/1/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491633&CategoryId=23620" class="menu3">Historic Uruguayan Wines Preparing to Hit World Market despite Pandemic</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/29/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491594&CategoryId=23620" class="menu3">Uruguay Lab Develops COVID-19 Test Tubes That Ensure Accurate Results</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/22/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491407&CategoryId=23620" class="menu3">Mujica: The Most Sensitive Human Organ Is Not The Heart, It Is The Pocket</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/11/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491131&CategoryId=23620" class="menu3">Uruguay Repatriates 112 Australians, New Zealanders From Virus-Hit Ship</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;3/1/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2490054&CategoryId=23620" class="menu3">Lacalle Touts Political, Economic, Security Change in Uruguay at Inauguration</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=12394" class="topstheader">Latin America (Click here for more)</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/28/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491561&CategoryId=12394" class="menu3">Regional Health Officials Alarmed by Rise of COVID-19 in Latin America</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/28/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491558&CategoryId=12394" class="menu3">UNDP: Pandemic Could Give Boost to Underfunded Latin American Public Health Systems</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/28/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491548&CategoryId=12394" class="menu3">Some 1.2 Million People Internally Displaced in Latin America in 2019</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/21/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491385&CategoryId=12394" class="menu3">ECLAC Estimates 5.3% Economic Contraction In LatAm In 2020 From COVID-19</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/17/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491296&CategoryId=12394" class="menu3">Millions of Latin Americans Lack Easy Access to Potable Water amid Pandemic</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=36641" class="topstheader">USA</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491724&CategoryId=36641" class="menu3">Working Until You Die to Guarantee US Meat Supply</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491708&CategoryId=36641" class="menu3">Trump Says US Will Have Coronavirus Vaccine by Years End</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/3/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491699&CategoryId=36641" class="menu3">US Preparing to Treat Seriously Ill COVID-19 Patients with Remdesivir</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/3/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491681&CategoryId=36641" class="menu3">Trump Says Happy to See Kim Is Back</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/2/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491677&CategoryId=36641" class="menu3">Attacks Generate Attacks, US Military Warns Taliban If Violence Continues</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=12395" class="topstheader">World (Click here for more)</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491718&CategoryId=12395" class="menu3">Indians Rush to Buy Liquor as the Government Eases Lockdown</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491715&CategoryId=12395" class="menu3">Iran: A Country Accustomed to Crises</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491711&CategoryId=12395" class="menu3">Five Afghan Soldiers Killed in Taliban Attack on Military Outpost</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/3/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491697&CategoryId=12395" class="menu3">60,000 Pakistanis Wait for Repatriation from UAE</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/3/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491694&CategoryId=12395" class="menu3">Sudan to Criminalize Female Genital Mutilation</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=12396" class="topstheader">Business & Economy (Click here for more)</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/3/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491696&CategoryId=12396" class="menu3">Jordan to Reopen Economy after Strict Coronavirus Lockdown</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/1/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491658&CategoryId=12396" class="menu3">US Congress to Question Bezos about Amazons Business Practices</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/1/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491641&CategoryId=12396" class="menu3">Bangladeshs Apparel Sector on Verge of Collapse due to Coronavirus Crisis</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/1/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491639&CategoryId=12396" class="menu3">Amazon Sales Soar on COVID-19, but Higher Costs Eat into Profits</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/1/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491632&CategoryId=12396" class="menu3">US Job Losses from COVID-19 Slump Top 30 Million</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=13280" class="topstheader">Oil, Mining & Energy (Click here for more)</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/1/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491659&CategoryId=13280" class="menu3">Exxon Posts First Quarterly Loss in Decades; Chevron to Further Cut Spending</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/27/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491522&CategoryId=13280" class="menu3">Kabul, Eastern Afghanistan Faces Blackout amid COVID-19 Crisis</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/26/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491497&CategoryId=13280" class="menu3">Ukraine Honors Heroic Liquidators 34 Years after Nuclear Tragedy</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/20/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491349&CategoryId=13280" class="menu3">US Oil Prices Plunge into Negative Territory for First Time</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/12/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491153&CategoryId=13280" class="menu3">OPEC+ Agrees to Cut World Oil Production by 9.7 Million Barrels a Day</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=13303" class="topstheader">Opinion (Click here for more)</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491704&CategoryId=13303" class="menu3">Michael Rowan:  So, the Know-Nothing Guy Meets a Pandemic in a Bar </a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491703&CategoryId=13303" class="menu3">Carlos Alberto Montaner:  Les Luthiers</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/3/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491702&CategoryId=13303" class="menu3">Beatrice Rangel: A Promising Ghetto</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/27/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491508&CategoryId=13303" class="menu3">Carlos Alberto Montaner:  The Poor Cubans</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/27/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491507&CategoryId=13303" class="menu3">Beatrice Rangel: Welcoming the Revolving Door Syndrome in the Americas
+</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=13002" class="topstheader">Sports (Click here for more)</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491727&CategoryId=13002" class="menu3">Legendary NFL Head Coach Don Shula Dead at 90</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/1/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491661&CategoryId=13002" class="menu3">F1 Eyes July Start; US Open Tennis Tourney Sticks to Schedule</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/1/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491626&CategoryId=13002" class="menu3">PSG to Be Crowned Ligue 1 Champions</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/30/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491616&CategoryId=13002" class="menu3">The Scam That Clouds the European Soccer Dream</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/29/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491604&CategoryId=13002" class="menu3">European Soccer Remains in COVID-19 Limbo</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=13003" class="topstheader">Arts & Entertainment</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491728&CategoryId=13003" class="menu3">New York Times Garners 3 Pulitzer Prizes</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491726&CategoryId=13003" class="menu3">Virtual Met Gala Setting Aside Elitism This Year</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491716&CategoryId=13003" class="menu3">Yoshitomo Nara Unveils Inner World in Monograph</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491712&CategoryId=13003" class="menu3">Ligia Montoya: Pioneer of Origami in the West</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/1/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491651&CategoryId=13003" class="menu3">Felwine Sarr: Its a Harrowing Time but Potentially Happy and Fruitful</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=13936" class="topstheader">Science, Nature & Technology</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491729&CategoryId=13936" class="menu3">Several US States, Puerto Rico Begin Gradual Reopening from COVID-19</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491723&CategoryId=13936" class="menu3">French Debacle with Amazon Continues; German Hair Salons Open for Business</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491722&CategoryId=13936" class="menu3">Afghanistan to Set Up 100,000 New Hospital Beds for COVID-19 Patients</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491721&CategoryId=13936" class="menu3">World Leaders Pledge $7.4 Billion to Coronavirus Research Fund</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491719&CategoryId=13936" class="menu3">Small Businesses Reopen in Spain as Coronavirus Rate Remains Low</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=13304" class="topstheader">Society (Click here for more)</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/4/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491717&CategoryId=13304" class="menu3">COVID-19 Mutes Celebrations on 1st Anniversary of Thai King</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/1/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491653&CategoryId=13304" class="menu3">Thai King and Queen Inspect Soldiers Manufacturing PPE</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;5/1/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491647&CategoryId=13304" class="menu3">Japans Emperor Naruhito: 1 Year on Throne Overshadowed by Typhoon, Pandemic</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/21/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491380&CategoryId=13304" class="menu3">UK Queen Marks 94th Birthday Without Usual Pomp</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/17/2020&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2491289&CategoryId=13304" class="menu3">UKs William And Kate Highlight Importance Of Mental Health During Lockdown</a></td>
+          </tr>
+          
+      </table>
+
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="19">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="468" height="20" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+              <tr>
+                <td valign="bottom" bgcolor="#E6EFF8">&nbsp;<img src="images/01.gif" width="27" height="16" align="absmiddle"> <a href="content.asp?CategoryId=13332" class="topstheader">Job Openings in the Americas</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <table width="468" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/16/2019&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2477438&CategoryId=13332" class="menu3">Deputy Director and Senior Fellow - Americas Program - CSIS</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;10/14/2017&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2444691&CategoryId=13332" class="menu3">Research Analyst - Latin America Upstream - Wood Mackenzie</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;4/18/2017&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2434836&CategoryId=13332" class="menu3">Job Opportunity: Peter D. Bell Rule of Law Program Director at Inter-American Dialogue</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;2/24/2016&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2406370&CategoryId=13332" class="menu3">US Attorney in Colombia</a></td>
+          </tr>
+          
+          <tr>
+            <td width="80" nowrap bgcolor="#FFFFFF" class="textoazul" align="center">&nbsp;2/23/2016&nbsp;&nbsp;</td>
+            <td width="392" bgcolor="#FFFFFF"> <a href="article.asp?ArticleId=2406308&CategoryId=13332" class="menu3">US Attorney in El Salvador</a></td>
+          </tr>
+          
+      </table>
+
+        <br>
+        <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+          
+        
+          <tr>
+            <td width="468" height="12"><img src="images/px_black.gif" alt="" width="100%" height="3"></td>
+          </tr>
+    
+			<tr><td><script type="text/javascript"><!--
+google_ad_client = "pub-3169938804465085";
+/* 468x60, created 10/23/09 */
+google_ad_slot = "2065502781";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+			</td></tr>      
+			<tr>
+                  <td width="468" height="60"><div align="left">
+					<br>
+                  </div></td>
+          </tr>
+
+	  
+		  
+        </table></td>
+      <td width="100" height="11" align="top" valign="top"><link href="../Extras/links.css" rel="stylesheet" type="text/css" />
+<table width="115" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" bgcolor="#E9E9E9"><table width="115" border="0" align="center" cellpadding="1" cellspacing="1">
+      <tr>
+        <td height="60" valign="top" bgcolor="#E9E9E9"><div align="center"><a href="../rss-feed.xml" target="_blank" class="menu2"><img src="../images/rss.jpg" width="20" height="20" border="0" align="absmiddle" /> RSS Feed</a><span class="titulos"></span></div></td>
+      </tr>
+      <tr>
+        <td width="120" valign="top"><div align="center">
+        
+        <script type="text/javascript"><!--
+google_ad_client = "pub-3169938804465085";
+/* 120x600, created 10/23/09 */
+google_ad_slot = "0800686168";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+        
+        </div></td>
+      </tr>
+    </table></td>
+  </tr>
+</table></td>
+      <td width="6" background="images/04.jpg"><img src="images/04.jpg" width="6" height="88"></td>
+    </tr>
+</table>
+<link href="../Extras/links.css" rel="stylesheet" type="text/css" />
+  <table width="767" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="767" height="12"><img src="../images/px_gray.gif" width="100%" height="5"></td>
+    </tr>
+    <tr>
+      <td width="767" height="12" background="../images/a-05.gif"><div align="center">
+        <table width="440" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="70"><div align="center"><a href="/index.asp" class="menu3">[ Home ]</a></div></td>
+            <td width="100"><div align="center"><a href="/article.asp?ArticleId=133399&CategoryId=10734"  class="menu3">[ About Us ] </a></div></td>
+            <td width="100"><div align="center"><a href="/article.asp?ArticleId=133399&amp;CategoryId=10734"  class="menu3">[ </a><a href="/article.asp?ArticleId=201583&amp;CategoryId=13973" class="menu3">Who's Who</a><a href="/article.asp?ArticleId=133399&amp;CategoryId=10734"  class="menu3"> ] </a></div></td>
+            <td width="100"><div align="center"><a href="/Contacts.asp"  class="menu3">[ Contacts ]</a></div></td>
+            <td width="70"><div align="center"><a href="/Help.asp"  class="menu3">[ Help ] </a></div></td>
+          </tr>
+        </table>
+      </div></td>
+    </tr>
+  </table>
+<table width="767" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td height="5"></td>
+    </tr>
+    <tr>
+      <td width="767" class="forgot"><div align="center">Copyright Latin American Herald Tribune - 2005-2020 &copy; All rights reserved <br>
+      </div></td>
+  </tr>
+  </table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63315906-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</td>
+  </tr>
+</table>
+
+
+</body>
+</html>

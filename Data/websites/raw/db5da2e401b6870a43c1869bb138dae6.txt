@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="mee">
+  <head>
+    <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"bbd70f8a9d",applicationID:"255513480"};window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var i=n[t]={exports:{}};e[t][0].call(i.exports,function(n){var i=e[t][1][n];return r(i||n)},i,i.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(e,n,t){function r(){}function i(e,n,t){return function(){return o(e,[u.now()].concat(f(arguments)),n?null:this,t),n?void 0:this}}var o=e("handle"),a=e(4),f=e(5),c=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",d=l+"ixn-";a(p,function(e,n){s[n]=i(l+n,!0,"api")}),s.addPageAction=i(l+"addPageAction",!0),s.setCurrentRouteName=i(l+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,i="function"==typeof n;return o(d+"tracer",[u.now(),e,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return n.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],t),e}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=i(d+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){var t=e.getEntries();t.forEach(function(e){"first-paint"===e.name?c("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&c("timing",["fcp",Math.floor(e.startTime)])})}function i(e,n){var t=e.getEntries();t.length>0&&c("lcp",[t[t.length-1]])}function o(e){if(e instanceof s&&!l){var n,t=Math.round(e.timeStamp);n=t>1e12?Date.now()-t:u.now()-t,l=!0,c("timing",["fi",t,{type:e.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,f,c=e("handle"),u=e("loader"),s=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),f=new PerformanceObserver(i);try{a.observe({entryTypes:["paint"]}),f.observe({entryTypes:["largest-contentful-paint"]})}catch(p){}}if("addEventListener"in document){var l=!1,d=["click","keydown","mousedown","pointerdown","touchstart"];d.forEach(function(e){document.addEventListener(e,o,!1)})}}},{}],3:[function(e,n,t){function r(e,n){if(!i)return!1;if(e!==i)return!1;if(!n)return!0;if(!o)return!1;for(var t=o.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}n.exports={agent:i,version:o,match:r}},{}],4:[function(e,n,t){function r(e,n){var t=[],r="",o=0;for(r in e)i.call(e,r)&&(t[o]=n(r,e[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],5:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,i=t-n||0,o=Array(i<0?0:i);++r<i;)o[r]=e[n+r];return o}n.exports=r},{}],6:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function i(e){function n(e){return e&&e instanceof r?e:e?c(e,f,o):o()}function t(t,r,i,o){if(!l.aborted||o){e&&e(t,r,i);for(var a=n(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function d(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||i(t)}function w(e,n){u(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:d,addEventListener:d,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(l.aborted=!0,s=l.backlog={})}var f="nr@context",c=e("gos"),u=e(4),s={},p={},l=n.exports=i();l.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(i.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[n]=r,r}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){i.buffer([e],r),i.emit(e,n,t)}var i=e("ee").get("handle");n.exports=r,r.ee=i},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=E.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();u(y,function(n,t){e[n]||(e[n]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function i(){"complete"===d.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=e("handle"),u=e(4),s=e("ee"),p=e(3),l=window,d=l.document,m="addEventListener",v="attachEvent",g=l.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:g,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1167.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=n.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),e(2),d[m]?(d[m]("DOMContentLoaded",o,!1),l[m]("load",r,!1)):(d[v]("onreadystatechange",i),l[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=e(6)},{}],"wrap-function":[function(e,n,t){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;n.exports=function(e,n){function t(e,n,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){l([u,"",[r,a,i],f])}s(n+"start",[r,a,i],f);try{return c=e.apply(a,r)}catch(p){throw s(n+"err",[r,a,p],f),p}finally{s(n+"end",[r,a,c],f)}}return r(e)?e:(n||(n=""),nrWrapper[a]=e,p(e,nrWrapper),nrWrapper)}function u(e,n,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<n.length;c++)f=n[c],a=e[f],r(a)||(e[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||n){var o=c;c=!0;try{e.emit(t,r,i,n)}catch(a){l([a,t,r,i])}c=o}}function p(e,n){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(e);return t.forEach(function(t){Object.defineProperty(n,t,{get:function(){return e[t]},set:function(n){return e[t]=n,n}})}),n}catch(r){l([r])}for(var i in e)f.call(e,i)&&(n[i]=e[i]);return n}function l(n){try{e.emit("internal-error",n)}catch(t){}}return e||(e=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+<meta name="twitter:card" content="summary_large_image" />
+<link rel="shortlink" href="https://www.middleeasteye.net/node/169456" />
+<meta property="og:site_name" content="Middle East Eye" />
+<link rel="canonical" href="https://www.middleeasteye.net/news/egypt-filmmaker-jailed-directing-song-mocking-sisi-dies-prison" />
+<meta property="og:type" content="article" />
+<meta name="twitter:description" content="Shady Habash had been in prison for more than two years in pre-trial detention" />
+<meta name="description" content="Shady Habash had been in prison for more than two years in pre-trial detention" />
+<meta name="twitter:title" content="Egypt: Filmmaker jailed for directing song mocking Sisi dies in prison" />
+<meta property="fb:app_id" content="882711278504931" />
+<meta property="og:url" content="http://www.middleeasteye.net/news/egypt-filmmaker-jailed-directing-song-mocking-sisi-dies-prison" />
+<meta name="twitter:creator" content="@middleeasteye" />
+<link rel="image_src" href="https://www.middleeasteye.net/sites/default/files/images-story/ew_-bncxgai7ztq.jpeg" />
+<meta name="generator" content="Drupal 8 (http://drupal.org)" />
+<meta property="og:title" content="Egypt: Filmmaker jailed for directing song mocking Sisi dies in prison" />
+<meta property="og:description" content="Shady Habash had been in prison for more than two years in pre-trial detention" />
+<meta name="twitter:url" content="http://www.middleeasteye.net/news/egypt-filmmaker-jailed-directing-song-mocking-sisi-dies-prison" />
+<meta property="og:image" content="http://www.middleeasteye.net/sites/default/files/images-story/ew_-bncxgai7ztq.jpeg" />
+<meta property="og:image:url" content="http://www.middleeasteye.net/sites/default/files/images-story/ew_-bncxgai7ztq.jpeg" />
+<meta property="article:author" content="https://www.facebook.com/middleeasteye/" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #0779bf} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
+<link rel="shortcut icon" href="/sites/default/files/MEE%20Purple.png" type="image/png" />
+<link rel="alternate" hreflang="en" href="https://www.middleeasteye.net/news/egypt-filmmaker-jailed-directing-song-mocking-sisi-dies-prison" />
+<link rel="revision" href="https://www.middleeasteye.net/news/egypt-filmmaker-jailed-directing-song-mocking-sisi-dies-prison" />
+<script src="/sites/default/files/google_tag/meye_gtm_english/google_tag.script.js?q9binp" defer></script>
+
+    <title>Egypt: Filmmaker jailed for directing song mocking Sisi dies in prison | Middle East Eye</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_7CAbgI9CxDGLvfYjZUGLoguaOSLFdyHXEwlsT1mF30A.css" />
+<link rel="stylesheet" media="all" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_3JnPCnCd3MOLWfsTkvLfBu4CC8ulDez6CLUWoMtXPlo.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_9Rsa8q5bFI1e6Xfg13uiMb3WJxIBBTAEVXRjPvjy2Tc.css" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/169456","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"adsense\/adsense.css,bootstrap\/popover,bootstrap\/tooltip,ckeditor_indentblock\/indentblock,colorbox\/colorbox,colorbox\/default,core\/html5shiv,disqus\/disqus,eu_cookie_compliance\/eu_cookie_compliance,mee_components\/general,mee_social_share\/mee_social_share.sharethis,mee_social_share\/sticky-widget,mee_subtheme\/alexa,mee_subtheme\/chartbeat,search_api_autocomplete\/search_api_autocomplete,social_media_links\/fontawesome.component,social_media_links\/social_media_links.theme,system\/base,views\/views.module","theme":"mee_subtheme","theme_token":null},"ajaxTrustedUrl":{"\/search\/content":true},"eu_cookie_compliance":{"popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-out\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E\n\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-secondary-button\u0022\u003ENo, thanks\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EOK, I agree\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-out\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-secondary-button\u0022\u003ENo, thanks\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EOK, I agree\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/terms-and-conditions","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"disagree_do_not_show_popup":false,"method":"opt_out","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"withdraw_button_on_info_popup":false,"cookie_categories":[],"enable_save_preferences_button":true,"fix_first_cookie_category":true,"select_all_categories_by_default":false},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_keyboard":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","popover_trigger_autoclose":1,"tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"node":{"author":"MEE staff","type":"story"},"disqusComments":"middleeasteye","disqus":{"domain":"middleeasteye","url":"http:\/\/www.middleeasteye.net\/news\/egypt-filmmaker-jailed-directing-song-mocking-sisi-dies-prison","title":"Egypt: Filmmaker jailed for directing song mocking Sisi dies in prison","identifier":"node\/169456","disable_mobile":false},"search_api_autocomplete":{"search_content":{"auto_submit":true}},"user":{"uid":0,"permissionsHash":"cc4a0867b27442a11b28272c1e1a7e714fe3b70f827a386d332b69e729e5bc48"}}</script>
+
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/sites/default/files/js/js_Qa_XuUBJgVmf9WHFOk9Wm5LalCHh3nb-p_LzYkXRhoE.js"></script>
+<script src="//platform-api.sharethis.com/js/sharethis.js#property=5d245fb16d20a10012251c07&amp;product=sticky-share-buttons" async="async"></script>
+
+  </head>
+  <body class="path-node page-node-type-story has-glyphicons">
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TJWJ5S9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+        <div class="region region-before-navigation">
+    <section id="block-adsense-top" class="block block-adsense block-adsense-managed-ad-block clearfix">
+  
+    
+
+      <div class="text-align-center">
+  <div class="adsense responsive" >
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6114695881218027"
+     data-ad-slot="8074323968"
+     data-ad-format="horizontal"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  </div>
+</div>
+
+  </section>
+
+
+  </div>
+
+  
+      <header id="navigation-header" role="banner">
+      <div class="navigation-header">
+          <div class="region region-navigation">
+          <a class="logo navbar-btn" href="/" title="Home" rel="home">
+      <img class="en navigation" src="/themes/mee_subtheme/images/logo-en.svg" alt="Home" />
+    </a>
+  <nav role="navigation" aria-labelledby="block-top-menu-en-menu" id="block-top-menu-en">
+            
+  <h3 class="visually-hidden block-title" id="block-top-menu-en-menu">Top Menu - English Version</h3>
+  
+
+        
+      <ul class="menu menu--top-menu-en nav">
+                        <li class="navitem-news section-active">
+        <a href="/news" class="navitem-news" data-drupal-link-system-path="node/120391">News</a>
+                  </li>
+                        <li class="navitem-opinion">
+        <a href="/opinion" class="navitem-opinion" data-drupal-link-system-path="node/120006">Opinion</a>
+                  </li>
+                        <li class="navitem-video">
+        <a href="/video" class="navitem-video" data-drupal-link-system-path="node/120011">Video</a>
+                  </li>
+                        <li class="navitem-story">
+        <a href="/thebigstory" class="navitem-story" data-drupal-link-system-path="node/120056">The Big Story</a>
+                  </li>
+                        <li class="navitem-life">
+        <a href="/discover" class="navitem-life" data-drupal-link-system-path="node/120061">Discover</a>
+                  </li>
+        </ul>
+  
+
+  </nav>
+<section class="language-switcher-language-url block block-language block-language-blocklanguage-interface clearfix" id="block-languageswitcher" role="navigation">
+  
+    
+
+      <ul class="links"><li hreflang="en" data-drupal-link-system-path="node/169456" class="is-active"><a href="/news/egypt-filmmaker-jailed-directing-song-mocking-sisi-dies-prison" class="language-link is-active" hreflang="en" data-drupal-link-system-path="node/169456">English</a></li><li hreflang="fr" data-drupal-link-system-path="&lt;front&gt;"><a href="/fr" class="language-link" hreflang="fr" data-drupal-link-system-path="&lt;front&gt;">Français</a></li></ul>
+  </section>
+
+<section class="views-exposed-form block--views-exposed-form--search-content--page-1 block block-views-exposed-filter-blocks block-views-exposed-filter-blocks-block clearfix" data-drupal-selector="views-exposed-form-search-content-page-1" id="block-viewsexposedfilterblock">
+  
+    
+
+      <form action="/search/content" method="get" id="views-exposed-form-search-content-page-1" accept-charset="UTF-8">
+  <span class="search-label" data-drupal-selector="edit-search-label"><span class="icon glyphicon glyphicon-search search-icon" data-drupal-selector="edit-search-icon"></span>
+<span class="search-text" data-drupal-selector="edit-search-text">Search</span>
+</span>
+<div class="js-form-item form-item js-form-type-search-api-autocomplete form-item-keys js-form-item-keys form-no-label">
+        <div class="input-group"><input placeholder="Search in MEE" data-drupal-selector="edit-keys" data-search-api-autocomplete-search="search_content" class="form-autocomplete form-text" data-autocomplete-path="/search_api_autocomplete/search_content?display=page_1&amp;&amp;filter=keys" type="text" id="edit-keys" name="keys" value="" size="30" maxlength="128" /><span class="input-group-addon"><span class="icon glyphicon glyphicon-remove close-icon"></span><span class="icon glyphicon glyphicon-refresh ajax-progress ajax-progress-throbber" aria-hidden="true"></span></span></div>
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper container-element" id="edit-actions"><button data-drupal-selector="edit-submit-search-content" class="button js-form-submit form-submit btn-primary" type="submit" id="edit-submit-search-content" value="Search" name="">Search</button></div>
+
+
+</form>
+
+  </section>
+
+<section class="views-element-container block-collapsible block-collapsed block block-views block-views-blockcountries-list-block-1 clearfix" id="block-countries-list-block-header">
+  
+    
+
+      <span class="icon glyphicon glyphicon-globe globe-icon"><span class="icon glyphicon glyphicon-chevron-down dropdown-icon"></span>
+</span>
+<div class="container-element">      <a class="logo navbar-btn" href="/" title="Home" rel="home">
+      <img class="en navigation_collapsible" src="/themes/mee_subtheme/images/logo-mobile-en.svg" alt="Home" />
+    </a>
+  <div class="js-view-dom-id-b95c5e7e9dcfb3bf1427470edae19982adcf756f6ba2a8cbfc1fb3e80a442255 view-content">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="views-rows"><div class="item-list">
+  
+  <ul>
+
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/algeria" hreflang="en">Algeria</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/bahrain" hreflang="en">Bahrain</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/egypt" hreflang="en">Egypt</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/iran" hreflang="en">Iran</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/iraq" hreflang="en">Iraq</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/israel" hreflang="en">Israel</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/jordan" hreflang="en">Jordan</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/kuwait" hreflang="en">Kuwait</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/lebanon" hreflang="en">Lebanon</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/libya" hreflang="en">Libya</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/mauritania" hreflang="en">Mauritania</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/morocco" hreflang="en">Morocco</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/oman" hreflang="en">Oman</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/palestine" hreflang="en">Palestine</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/qatar" hreflang="en">Qatar</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/saudi-arabia" hreflang="en">Saudi Arabia</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/sudan" hreflang="en">Sudan</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/syria" hreflang="en">Syria</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/tunisia" hreflang="en">Tunisia</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/turkey" hreflang="en">Turkey</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/united-arab-emirates" hreflang="en">United Arab Emirates</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/yemen" hreflang="en">Yemen</a></span></div></li>
+    
+  </ul>
+
+</div>
+</div>
+  
+  
+
+  
+  
+
+  
+  
+</div>
+<span class="icon glyphicon glyphicon-remove close-icon"></span>
+</div>
+
+  </section>
+
+<section id="block-socialmedialinks-2" class="block-social-media-links block block-social-media-links-block clearfix">
+  
+    
+
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a href="https://www.facebook.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-facebook fa-lg'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.twitter.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-twitter fa-lg'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.instagram.com/middleeasteye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-instagram fa-lg'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.youtube.com/channel/UCR0fZh5SBxxMNYdg0VzRFkg"  target="_blank" rel="nofollow" >
+        <span class='fa fa-youtube fa-lg'></span>
+      </a>
+
+          </li>
+  </ul>
+
+  </section>
+
+<section class="views-element-container block block-views block-views-blocktrending-topics-block-english clearfix" id="block-trending-topics-en-header">
+  
+      <h3 class="block-title">Now</h3>
+    
+
+      <div class="container-element"><div class="js-view-dom-id-062d967ee03a27c5bc257bdf729034b2c718264bc1d39dcd12c5b220547263a6 view-content">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="views-rows">    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/coronavirus" hreflang="en">Coronavirus</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/libya-crisis" hreflang="en">Libya Crisis</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/dispatch-podcast" hreflang="en">Dispatch podcast</a></span></div></div>
+</div>
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </section>
+
+
+  </div>
+
+                          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+            <i class="fa fa-bars"></i>
+            <span class="sr-only">Toggle navigation</span>
+          </button>
+              </div>
+
+                    <div id="navbar-collapse" class="navbar-collapse collapse width">
+          <div id="navbar-collapse-content">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+              <i class="fa fa-times"></i>
+              <span class="sr-only">Toggle navigation</span>
+            </button>            
+              <div class="region region-navigation-collapsible">
+          <a class="logo navbar-btn" href="/" title="Home" rel="home">
+      <img class="en navigation_collapsible" src="/themes/mee_subtheme/images/logo-mobile-en.svg" alt="Home" />
+    </a>
+  <nav role="navigation" aria-labelledby="block-sidebar-menu-mobile-en-menu" id="block-sidebar-menu-mobile-en">
+            
+  <h3 class="visually-hidden block-title" id="block-sidebar-menu-mobile-en-menu">Sidebar Menu Mobile En</h3>
+  
+
+        
+      <ul class="menu menu--main-menu-mobile-en nav">
+                        <li>
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+                  </li>
+                        <li class="section-active">
+        <a href="/news" data-drupal-link-system-path="node/120391">News</a>
+                  </li>
+                        <li>
+        <a href="/opinion" data-drupal-link-system-path="node/120006">Opinion</a>
+                  </li>
+                        <li>
+        <a href="/video" data-drupal-link-system-path="node/120011">Video</a>
+                  </li>
+                        <li>
+        <a href="/thebigstory" data-drupal-link-system-path="node/120056">The Big Story</a>
+                  </li>
+                        <li>
+        <a href="/contact">Contact</a>
+                  </li>
+                        <li class="navitem-life">
+        <a href="/discover" class="navitem-life" data-drupal-link-system-path="node/120061">Discover</a>
+                  </li>
+        </ul>
+  
+
+  </nav>
+<section class="language-switcher-language-url block block-language block-language-blocklanguage-interface clearfix" id="block-languageswitcher-2" role="navigation">
+  
+    
+
+      <ul class="links"><li hreflang="en" data-drupal-link-system-path="node/169456" class="is-active"><a href="/news/egypt-filmmaker-jailed-directing-song-mocking-sisi-dies-prison" class="language-link is-active" hreflang="en" data-drupal-link-system-path="node/169456">English</a></li><li hreflang="fr" data-drupal-link-system-path="&lt;front&gt;"><a href="/fr" class="language-link" hreflang="fr" data-drupal-link-system-path="&lt;front&gt;">Français</a></li></ul>
+  </section>
+
+<section class="views-element-container block block-views block-views-blocktrending-topics-block-english clearfix" id="block-trending-topics-en-mobile">
+  
+      <h3 class="block-title">Now</h3>
+    
+
+      <div class="container-element"><div class="js-view-dom-id-b9a664a06647a11402e11f90db25afda5ceb83875e1d407230bcdc4b4858e79c view-content">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="views-rows">    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/coronavirus" hreflang="en">Coronavirus</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/libya-crisis" hreflang="en">Libya Crisis</a></span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content"><a href="/topics/dispatch-podcast" hreflang="en">Dispatch podcast</a></span></div></div>
+</div>
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </section>
+
+<section id="block-socialmedialinks-mobile" class="block-social-media-links block block-social-media-links-block clearfix">
+  
+      <h3 class="block-title">Follow us</h3>
+    
+
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a href="https://www.youtube.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-youtube fa-lg'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.facebook.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-facebook fa-lg'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.twitter.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-twitter fa-lg'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.instagram.com/middleeasteye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-instagram fa-lg'></span>
+      </a>
+
+          </li>
+  </ul>
+
+  </section>
+
+
+  </div>
+
+          </div>
+        </div>
+          </header>
+  
+  <div role="main" class=" js-quickedit-main-content main-content page-node-article-type page-node-story">
+                                    <div role="heading" class="top-bar top-bar-node-story">
+                  <div class="large-container">
+                         <a href="/news/all">News</a>    | <span class="article-topic">            <div class="field field-field-topic"><a href="/topics/egypt-turmoil" hreflang="en">Egypt Turmoil</a></div>
+      </span>
+                  </div>
+              </div>
+                
+                              <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+              
+            
+            
+      <div class="page-content-wrapper">
+                      <div class="content-top">
+              
+                <div class="region region-content-top">
+      
+  <h1 class="page-title"><span class="field field-title">Egypt: Filmmaker jailed for directing song mocking Sisi dies in prison</span>
+</h1>
+
+
+
+  </div>
+
+                
+          </div>
+                  
+            <section class="page-main-content">
+                                  <a id="main-content"></a>
+                    
+                <div class="field field-field-subhead">Shady Habash had been in prison for more than two years in pre-trial detention </div>
+      
+                      <div class="field field-field-main-image">  <img src="/sites/default/files/styles/article_page/public/images-story/ew_-bncxgai7ztq.jpeg?itok=8UvDE7ZY" width="1400" height="1543" alt="" typeof="foaf:Image" />
+
+
+</div>
+      
+                    <div class="field field-field-cutline">Shady Habash, 24, was a film director and cinematographer (Instagram/@ShadyHabash)</div>
+      
+            <div class="author-field author-info author-location">
+              <span class="author-by">By </span><div class="author-name"><a title="View user profile." href="/users/mee-staff" lang="" about="/users/mee-staff" typeof="schema:Person" property="schema:name" datatype="">MEE staff</a></div>          </div>
+                  <div class="submitted-date">
+          <span class="date-created">Published date:</span> 2 May 2020 12:26 UTC
+            <span class="date-separator">| </span>
+            <span class="date-updated">Last update:</span> 2 days 14 hours ago        </div>
+            
+                <div class="region region-content">
+    <section id="block-meesocialshare" class="block block-mee-social-share block-mee-social-share-block clearfix">
+  
+    
+
+      
+
+<div  class="mee-social-share-block">
+  <div class="sharethis-inline-share-buttons"></div>
+
+</div>
+  </section>
+
+  <article data-history-node-id="169456" role="article" about="/news/egypt-filmmaker-jailed-directing-song-mocking-sisi-dies-prison" class="story full article-type clearfix">
+                <div class="field field-body clearfix"><p>Egyptian film director and photographer Shady Habash&nbsp;died in Tora prison in the capital Cairo on Friday, according to human rights organisations.&nbsp;</p>
+<p>Habash, 24, had been in prison since March 2018&nbsp;over directing&nbsp;a song mocking Egypt's President Abdel Fattah el-Sisi.&nbsp;</p>
+<p>Ramy Essam, who performed the song, said Habash would be buried on Friday afternoon in Cairo.</p>
+<p>"Shady Habash has died. Shady was the kindest and bravest of people. He never hurt anyone. May God have mercy on him," Essam said, mourning his friend&nbsp;Habash in a <a href="https://www.facebook.com/RamyEssamOfficial/posts/2974062472637718">Facebook</a> post.&nbsp;</p>
+<p>Middle East Eye has not been able to verify independently the reason behind&nbsp;Habash's death, but a number of reports suggested that his death was avoidable.&nbsp;</p>
+<p>"Shadi got very sick in his prison cell, his [fellow] inmates cried for help for some time, but guards and officers had not intervened until his last breath," said human rights advocate <a href="https://twitter.com/3yyash/status/1256400752328785924">Abdelrahman Ayyash</a>.&nbsp;</p>
+<p>MEE reached out to the Egyptian government for comments but received no immediate response.&nbsp;<i>&nbsp;</i></p>
+<h3>Jailed for a song</h3>
+<p>Habash&nbsp;and his colleague Mustafa Gamal were arrested&nbsp;following the release of <em>Balaha</em>, a song that indirectly poked fun at Sisi, the former defence minister who came to power after a military coup ousted president Mohamed Morsi&nbsp;in 2013.</p>
+<p>Essam, the singer who performed <em>Balaha</em>,&nbsp;is currently in exile in Sweden. The author of the song, <a href="https://www.middleeasteye.net/news/egyptian-poet-gets-three-years-prison-allegedly-insulting-soldiers">Galal el-Beheiry</a>, is also in jail.&nbsp;</p>
+<p><div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right">
+  <a class="mee-readmore-img-link" href="/news/ramy-essam-and-ganzeer-continuing-egypts-revolution-exile"><img class="mee-readmore-image" src="/sites/default/files/styles/read_more/public/images-story/whatsapp_image_2020-01-26_at_18.38.19.jpeg?itok=AYTAQolh" width="400" height="250" alt="" typeof="foaf:Image" />
+
+</a>  <div class="mee-readmore-description">Continuing Egypt's revolution from exile: Ramy Essam and Ganzeer</div>
+    <a class="mee-readmore-link" href="/news/ramy-essam-and-ganzeer-continuing-egypts-revolution-exile">Read More »</a>
+</div></p>
+<p>"Balaha" is a derogatory nickname for Sisi, in reference to a character from a classic Egyptian movie known for being a compulsive liar.</p>
+<p>"O Balaha, four years have finally passed in disgrace / With all your gang boys to that darkest jail, I wish you may rot in such a place," Essam <a href="https://www.youtube.com/watch?v=FjBd_rvZr4U">sings</a>.</p>
+<p>A statement by Essam after Habash's arrest said that the director "doesn’t have anything to do with the content and message of the song".</p>
+<p>Charges brought against Habash and Gamal include&nbsp;membership of a "terrorist group," spreading false news, abuse of social media networks, blasphemy, contempt of religion and insulting the military.</p>
+<p>They have both been in pre-trial detention pending investigations since their arrests.</p>
+<p>Human Rights Watch has estimated that more than 60,000 political prisoners have been languishing in Egyptian jails since Sisi became president&nbsp;in 2014.&nbsp;</p>
+<p>The former army general&nbsp;has routinely jailed critics, including secular and Muslim Brotherhood politicians, journalists, and human rights defenders. Hundreds have died in custody through medical negligence or other poor detention conditions.</p>
+</div>
+      
+  
+  
+</article>
+
+
+  </div>
+
+              
+                </section>
+
+                                    <aside role="complementary" class="sidebar-second">
+                        <div class="sidebar-photo-extend"></div>
+  
+                    <div class="region region-sidebar-second">
+    <section id="block-managedad-2" class="block block-adsense block-adsense-managed-ad-block clearfix">
+  
+    
+
+      <div class="text-align-center">
+  <div class="adsense" style="width:300px;height:250px;">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6114695881218027"
+     data-ad-slot="9954860777"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  </div>
+</div>
+
+  </section>
+
+<section id="block-recommendedarticles" class="block block-mee-custom block-recommended clearfix">
+  
+      <h3 class="block-title">Recommended</h3>
+    
+
+      <div class="recommended-block">
+  <div class="recommended-landing"></div>
+  <div class="recommended-other"><div class="mee-article-tile mee-article-tile-type--story mee-article-tile-image-no">
+    <div class="mee-tile-main">
+    <div class="mee-tile-topic"><a href="/topics/egypt-turmoil">Egypt Turmoil</a></div>
+    <a class="mee-tile-title" href="/news/coronavirus-egypt-arrests-two-women-disappeared-over-posts">Coronavirus: Egypt arrests, forcibly disappears two women over social media posts</a>
+      </div>
+</div><div class="mee-article-tile mee-article-tile-type--story mee-article-tile-image-no">
+    <div class="mee-tile-main">
+    <div class="mee-tile-topic"><a href="/topics/egypt-turmoil">Egypt Turmoil</a></div>
+    <a class="mee-tile-title" href="/news/egypt-accused-using-terrorism-lists-political-tool-opposition">The terror list Egypt uses to terrorise its citizens</a>
+      </div>
+</div><div class="mee-article-tile mee-article-tile-type--story mee-article-tile-image-no">
+    <div class="mee-tile-main">
+    <div class="mee-tile-topic"><a href="/topics/coronavirus">Coronavirus</a></div>
+    <a class="mee-tile-title" href="/news/coronavirus-egypt-activist-alaa-abdel-fattah-hunger-strike">Jailed Egyptian blogger goes on hunger strike to protest ban on family visits amid Covid-19 pandemic</a>
+      </div>
+</div></div>
+</div>
+  </section>
+
+<section id="block-managedad-3" class="block block-adsense block-adsense-managed-ad-block clearfix">
+  
+    
+
+      <div class="text-align-center">
+  <div class="adsense" style="width:300px;height:250px;">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6114695881218027"
+     data-ad-slot="8074323968"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  </div>
+</div>
+
+  </section>
+
+
+  </div>
+
+                  
+              </aside>
+                      </div>
+
+                                    <div class="content-bottom">  <div class="paragraph--type--landing-page-segment segment--no-type">
+  <div class="segment-content">
+    <h3 class="segment-title">Read more</h3>
+    <div class="landing-layout-wrapper">
+  <div class="first-layout"><div class="mee-subtheme-segment-layout mee-subtheme-segment-layout--articles-below-3 segment-layout-std">
+  <div class="mee-article-tile mee-article-tile-type--story mee-article-tile-image">
+    <div class="mee-tile-image">
+    <a href="/news/coronavirus-egypt-arrests-two-women-disappeared-over-posts"><img src="/sites/default/files/styles/landing_tile/public/images-story/befunky-collage_2_3.jpg?itok=2slrEFNg" width="448" height="280" alt="" typeof="foaf:Image" />
+
+</a>
+  </div>
+    <div class="mee-tile-main">
+    <div class="mee-tile-topic"><a href="/topics/egypt-turmoil">Egypt Turmoil</a></div>
+    <a class="mee-tile-title" href="/news/coronavirus-egypt-arrests-two-women-disappeared-over-posts">Coronavirus: Egypt arrests, forcibly disappears two women over social media posts</a>
+      </div>
+</div><div class="mee-article-tile mee-article-tile-type--story mee-article-tile-image">
+    <div class="mee-tile-image">
+    <a href="/news/coronavirus-pompeo-urges-egypt-keep-american-prisoners-safe-amid-pandemic"><img src="/sites/default/files/styles/landing_tile/public/images-story/egypt_prison.jpg?itok=n8XAXelY" width="448" height="280" alt="" typeof="foaf:Image" />
+
+</a>
+  </div>
+    <div class="mee-tile-main">
+    <div class="mee-tile-topic"><a href="/topics/coronavirus">Coronavirus</a></div>
+    <a class="mee-tile-title" href="/news/coronavirus-pompeo-urges-egypt-keep-american-prisoners-safe-amid-pandemic">Pompeo urges Egypt to protect American prisoners from coronavirus</a>
+      </div>
+</div><div class="mee-article-tile mee-article-tile-type--story mee-article-tile-image">
+    <div class="mee-tile-image">
+    <a href="/news/egypt-accused-using-terrorism-lists-political-tool-opposition"><img src="/sites/default/files/styles/landing_tile/public/images-story/2017-10-23t193340z_1410679614_rc14289a2f80_rtrmadp_3_france-egypt.jpg?itok=lzEQjgiR" width="448" height="280" alt="" typeof="foaf:Image" />
+
+</a>
+  </div>
+    <div class="mee-tile-main">
+    <div class="mee-tile-topic"><a href="/topics/egypt-turmoil">Egypt Turmoil</a></div>
+    <a class="mee-tile-title" href="/news/egypt-accused-using-terrorism-lists-political-tool-opposition">The terror list Egypt uses to terrorise its citizens</a>
+      </div>
+</div>
+</div></div>
+  	</div>
+  </div>
+</div>
+
+        <div class="field field-field-comments">
+              <div><div id="disqus_thread" class="container-element"><noscript>
+  <p>
+    <a href="http://middleeasteye.disqus.com/">View the discussion thread.</a>
+  </p>
+</noscript>
+</div>
+</div>
+          </div>
+  
+</div>
+                  </div>
+
+  <footer class="footer " role="contentinfo">
+      
+    <div id="footer-top-wrapper">
+        <div class="region region-footer">
+          <a class="logo navbar-btn" href="/" title="Home" rel="home">
+      <img class="en footer" src="/themes/mee_subtheme/images/logo-en.svg" alt="Home" />
+    </a>
+  <nav role="navigation" aria-labelledby="block-top-menu-en-footer-menu" id="block-top-menu-en-footer">
+            
+  <h3 class="visually-hidden block-title" id="block-top-menu-en-footer-menu">Top Menu En</h3>
+  
+
+        
+      <ul class="menu menu--top-menu-en nav">
+                        <li class="navitem-news section-active">
+        <a href="/news" class="navitem-news" data-drupal-link-system-path="node/120391">News</a>
+                  </li>
+                        <li class="navitem-opinion">
+        <a href="/opinion" class="navitem-opinion" data-drupal-link-system-path="node/120006">Opinion</a>
+                  </li>
+                        <li class="navitem-video">
+        <a href="/video" class="navitem-video" data-drupal-link-system-path="node/120011">Video</a>
+                  </li>
+                        <li class="navitem-story">
+        <a href="/thebigstory" class="navitem-story" data-drupal-link-system-path="node/120056">The Big Story</a>
+                  </li>
+                        <li class="navitem-life">
+        <a href="/discover" class="navitem-life" data-drupal-link-system-path="node/120061">Discover</a>
+                  </li>
+        </ul>
+  
+
+  </nav>
+<section class="language-switcher-language-url block block-language block-language-blocklanguage-interface clearfix" id="block-language-switcher-footer" role="navigation">
+  
+    
+
+      <ul class="links"><li hreflang="en" data-drupal-link-system-path="node/169456" class="is-active"><a href="/news/egypt-filmmaker-jailed-directing-song-mocking-sisi-dies-prison" class="language-link is-active" hreflang="en" data-drupal-link-system-path="node/169456">English</a></li><li hreflang="fr" data-drupal-link-system-path="&lt;front&gt;"><a href="/fr" class="language-link" hreflang="fr" data-drupal-link-system-path="&lt;front&gt;">Français</a></li></ul>
+  </section>
+
+<section id="block-socialmedialinks-footer" class="block-social-media-links block block-social-media-links-block clearfix">
+  
+    
+
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a href="https://www.facebook.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-facebook fa-lg'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.twitter.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-twitter fa-lg'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.instagram.com/middleeasteye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-instagram fa-lg'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.youtube.com/MiddleEastEye"  target="_blank" rel="nofollow" >
+        <span class='fa fa-youtube fa-lg'></span>
+      </a>
+
+          </li>
+  </ul>
+
+  </section>
+
+
+  </div>
+
+      <a class="top-link" href="#"><i class="fa fa-angle-double-up"></i>Top</a>
+    </div>
+    <div id="footer-bottom-wrapper">
+        <div class="region region-footer-bottom">
+    <section class="views-element-container block-collapsible block-collapsed block block-views block-views-blockcountries-list-block-2 clearfix" id="block-countries-list-block-footer">
+  
+      <h3 class="block-title">Countries</h3>
+    
+
+      <div class="container-element"><div class="js-view-dom-id-734e371f6fd6ae83dea9927b3e5d47eeaaca74bfd5f5c803d3ba571ed9045d67 view-content">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="views-rows"><div class="item-list">
+  
+  <ul>
+
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/algeria" hreflang="en">Algeria</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/bahrain" hreflang="en">Bahrain</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/egypt" hreflang="en">Egypt</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/iran" hreflang="en">Iran</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/iraq" hreflang="en">Iraq</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/israel" hreflang="en">Israel</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/jordan" hreflang="en">Jordan</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/kuwait" hreflang="en">Kuwait</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/lebanon" hreflang="en">Lebanon</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/libya" hreflang="en">Libya</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/mauritania" hreflang="en">Mauritania</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/morocco" hreflang="en">Morocco</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/oman" hreflang="en">Oman</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/palestine" hreflang="en">Palestine</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/qatar" hreflang="en">Qatar</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/saudi-arabia" hreflang="en">Saudi Arabia</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/sudan" hreflang="en">Sudan</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/syria" hreflang="en">Syria</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/tunisia" hreflang="en">Tunisia</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/turkey" hreflang="en">Turkey</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/united-arab-emirates" hreflang="en">United Arab Emirates</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/countries/yemen" hreflang="en">Yemen</a></span></div></li>
+    
+  </ul>
+
+</div>
+</div>
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </section>
+
+<section id="block-about" class="block-collapsible block-collapsed block block-system block-system-menu-blockabout clearfix">
+  
+      <h3 class="block-title">About</h3>
+    
+
+    <div class="container-element">
+    
+      <ul class="menu menu--about">
+                        <li>
+        <a href="/about-middle-east-eye" data-drupal-link-system-path="node/2">About us</a>
+                  </li>
+                        <li>
+        <a href="/privacy-policy" data-drupal-link-system-path="node/3">Privacy</a>
+                  </li>
+                        <li>
+        <a href="/terms-and-conditions" data-drupal-link-system-path="node/1">Terms and conditions</a>
+                  </li>
+                        <li>
+        <a href="/form/contact" title="Contact Us" data-drupal-link-system-path="webform/contact">Contact Us</a>
+                  </li>
+        </ul>
+  
+
+  </div>
+</section>
+
+<section id="block-copyright" class="block block-block-content block-block-content1f6aeddb-b5ee-4c7c-9eb5-f21cb5a0bf3c clearfix">
+  
+    
+
+                  <div class="field field-body clearfix"><p><span>© Middle East Eye 2020 - all rights reserved. </span> <span>Only England And Wales jurisdiction apply in all legal matters.</span></p>
+</div>
+      
+  </section>
+
+
+  </div>
+
+    </div>
+  </footer>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_kEqaJBA2qdvK8jWZbxwKDuAkS41xIdV1qXzrlTPO2yo.js"></script>
+   
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"bbd70f8a9d","applicationID":"255513480","transactionName":"NFEAMkVUWkYFAUIKXg0bIwVDXFtbSyZEFkECWD4LUlBrVhERQgxcP3cNCENHW1kIB0Q\/fAZRLg9BUHZZCwVjE1UCQAclWFtARwsOWgZDTgoBDlJWX3QHAVMQQg==","queueTime":0,"applicationTime":949,"atts":"GBYDRA1OSUg=","errorBeacon":"bam.nr-data.net","agent":""}</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"58e98295e825df9d","version":"2020.3.0","startTime":1588671732730}'></script>
+</body>
+</html>

@@ -1,0 +1,2023 @@
+<!DOCTYPE html>
+
+<html class="site--news no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="SBS News">
+  <meta name="msapplication-TileColor" content="#1b2024">
+  <meta name="theme-color" content="#1b2024">
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+
+  <title>Hong Kong will combat coronavirus by giving reusable masks to all 7 million citizens | SBS News</title>
+  <meta name="description" content="All 7.4 million Hong Kong citizens will be issued with reusable face masks next week, the city government says.">
+  <meta name="keywords" content="">
+  <meta name="msvalidate.01" content="0E549D3DACFFE4CFCA34DDAAA0180F04" />  
+  <meta property="og:title" content="Hong Kong will combat coronavirus by giving reusable masks to all 7 million citizens">
+  <meta property="og:description" content="All 7.4 million Hong Kong citizens will be issued with reusable face masks next week, the city government says.">
+  <meta property="og:type" content="article">
+  <meta property="og:image" content="https://sl.sbs.com.au/public/image/file/cec03242-a4e5-406d-a5ac-dc305f1087d5/crop/16x9">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="">
+  <meta property="og:image:height" content="">
+  <meta property="og:image:alt" content="The Hong Kong government will issue face masks to all citizens.">
+  <meta property="og:site_name" content="SBS News">
+  <meta property="og:url" content="https://www.sbs.com.au/news/hong-kong-will-combat-coronavirus-by-giving-reusable-masks-to-all-7-million-citizens">
+  <meta property="og:locale" content="en_GB">
+  <meta property="article:publisher" content="https://www.facebook.com/sbsnews">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@SBSNews">
+  <meta name="twitter:title" content="Hong Kong will combat coronavirus by giving reusable masks to all 7 million citizens">
+  <meta name="twitter:description" content="All 7.4 million Hong Kong citizens will be issued with reusable face masks next week, the city government says.">
+  <meta name="twitter:image" content="https://sl.sbs.com.au/public/image/file/cec03242-a4e5-406d-a5ac-dc305f1087d5/crop/16x9">
+  <meta name="twitter:url" content="https://www.sbs.com.au/news/hong-kong-will-combat-coronavirus-by-giving-reusable-masks-to-all-7-million-citizens">
+  
+  <meta itemprop="description" content="All 7.4 million Hong Kong citizens will be issued with reusable face masks next week, the city government says.">
+  <meta itemprop="image" content="https://sl.sbs.com.au/public/image/file/cec03242-a4e5-406d-a5ac-dc305f1087d5/crop/16x9">
+  <meta itemprop="name" content="SBS News">
+
+  <meta itemprop="datePublished" content="2020-05-03T21:02:01+10:00"/>
+
+  <meta property="fb:pages" content="10153017026003686,1718340018404039,118110394871717,1031979170179611,156543917205,152749149157,1653992468195523,853308881454030,248358785343756,402145919880044,125982670754724,6038270901,240259225410,242485789418468,1735930699952878,108683457751,139727238426,91116257004,100246430019521,368329703192018,194784127232544,173168582700205,168993229831044" />
+        <meta name="apple-itunes-app" content="app-id=432849691, app-argument=https://www.sbs.com.au/news/hong-kong-will-combat-coronavirus-by-giving-reusable-masks-to-all-7-million-citizens">
+  
+      <script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","name":"SBS News","url":"https://www.sbs.com.au/news","logo":{"@type":"ImageObject","url":"https://www.sbs.com.au/news/img/logo-colour-square.png"},"sameAs":["https://www.facebook.com/sbsnews","https://twitter.com/SBSNews"]},{"@type":"Article","url":"https://www.sbs.com.au/news/hong-kong-will-combat-coronavirus-by-giving-reusable-masks-to-all-7-million-citizens","mainEntityOfPage":"https://www.sbs.com.au/news/hong-kong-will-combat-coronavirus-by-giving-reusable-masks-to-all-7-million-citizens","dateCreated":"2020-05-03T21:02:01+10:00","datePublished":"2020-05-03T21:02:01+10:00","dateModified":"2020-05-03T21:25:57+10:00","headline":"Hong Kong will combat coronavirus by giving reusable masks to all 7 million citizens","articleSection":"Asia-Pacific","image":{"@type":"ImageObject","width":1280,"height":720,"url":"https://sl.sbs.com.au/public/image/file/cec03242-a4e5-406d-a5ac-dc305f1087d5/crop/16x9"},"thumbnailUrl":"https://sl.sbs.com.au/public/image/file/cec03242-a4e5-406d-a5ac-dc305f1087d5/crop/16x9_small","author":{"@type":"Organization","name":"SBS News","url":"https://www.sbs.com.au/news","logo":{"@type":"ImageObject","url":"https://www.sbs.com.au/news/img/logo-colour-square.png"}},"publisher":{"@type":"Organization","name":"SBS News","url":"https://www.sbs.com.au","logo":{"@type":"ImageObject","url":"https://www.sbs.com.au/news/img/logo-colour-square.png"}}}]}
+</script>
+          
+  
+
+            <meta name="msapplication-TileImage" content="/news/img/icons/icon-144x144.png">
+      <link rel="apple-touch-icon" href="/news/img/icons/icon-152x152.png">
+      <link rel="shortcut icon" href="/news/img/favicon.ico">
+      
+  <link rel="canonical" href="https://www.sbs.com.au/news/hong-kong-will-combat-coronavirus-by-giving-reusable-masks-to-all-7-million-citizens">
+          
+        <link rel="amphtml" href="https://amp.sbs.com.au/v1/article/hong-kong-will-combat-coronavirus-by-giving-reusable-masks-to-all-7-million-citizens/fd6454cf-7efa-4d6c-b0b9-5b956993dc43?amp=1">
+  
+  <meta name="robots" content="Index,Follow" />
+  <script type="text/javascript" src="/news/js/ruxitagentjs_ICA2SVfhjqrux_10189200406084516.js" data-dtconfig="rid=RID_-1146029178|rpid=1490070357|domain=sbs.com.au|reportUrl=/news/js/rb_ntg91751|app=d4959ac861aa26eb|featureHash=ICA2SVfhjqrux|xb=.*pagead2^bs.googlesyndication^bs.com.*^p.*s^bs.yimg^bs.com.*^p.*doubleclick^bs.net.*|rdnt=1|uxrgce=1|bp=2|cuc=sdiw1qax|srms=1,1,,,|uxrgcm=100,25,300,3;100,25,300,3|dpvc=1|md=1=bs.pageName,12=bpageTitle,2=bs.visitorID,3=bs.campaign,5=bdocument.referrer,11=cbm_counter.page_counter,4=dgclid,6=dutm_source,7=dutm_medium,8=dutm_campaign,9=dutm_content,10=dutm_term|bismepl=2000|lastModification=1588345412557|mdp=11|dtVersion=10189200406084516|tp=500,50,0,1|uxdcw=1500|agentUri=/news/js/ruxitagentjs_ICA2SVfhjqrux_10189200406084516.js"></script><link rel="manifest" href="/news/manifest.json">
+
+  <style media="screen" type="text/css">
+    @import url(/news/css/app-shell-406bf9aa1c603a7bff1cb9db0ee05123.css);
+    @import url(/news/css/screen-6622e4237646f44e2e78abde302221ba.css);
+
+          @import url(/common/css/lang/english_en-f175557ac7b0c29ea6b56330fc16afbb.css);
+      </style>
+        <script>
+    window.SBS_SETTINGS = window.SBS_SETTINGS || {
+      user_api: '',
+      app_base_url: 'https://www.sbs.com.au/news',
+      sbs_base_url: 'https://www.sbs.com.au/',
+      site_name: 'news',
+      site_dfp_prefix: '/4117/naca.sbs/',
+      api: 'https://sl.sbs.com.au',
+      site_display_name: 'SBS News',
+      cr_site_name: 'News'
+    };
+  </script>
+
+      <script data-module="data-layer_module">
+  var digitalData = {
+    "events": [],
+    "page": {
+      "pageInfo":{
+    "pageName": "s:news:hong-kong-will-combat-coronavirus-by-giving-reusable-masks-to-all-7-million-citizens",
+    "pageID": "fd6454cf-7efa-4d6c-b0b9-5b956993dc43",
+    "language": "undefined",
+    "destinationURL": "https://www.sbs.com.au/news/hong-kong-will-combat-coronavirus-by-giving-reusable-masks-to-all-7-million-citizens",
+    "referralURL": "",
+    "originalReferrerURL": "",
+    "previousPageURL": "",
+    "previousPageName": "",
+    "title": "",
+    "siteName": "News",
+    "domain": "www.sbs.com.au",
+    "path": "/news/hong-kong-will-combat-coronavirus-by-giving-reusable-masks-to-all-7-million-citizens",
+    "clickSource": "",
+    "campaign": {
+        "trackingCode": "",
+        "campaignType": "",
+        "channelSource": ""
+    }
+},
+      "category":{
+    "primaryCategory": "news",
+    "siteSubSection1": "hong-kong-will-combat-coronavirus-by-giving-reusable-masks-to-all-7-million-citizens",
+    "siteSubSection2": "",
+    "siteSubSection3": "",
+    "siteSubSection4": ""
+},
+      "attributes":{
+    "content": {
+        "pageClass": "article",
+        "contentType": "Article",
+        "articleType": "Article",
+        "contentLanguage": "undefined",
+        "articleID": "fd6454cf-7efa-4d6c-b0b9-5b956993dc43",
+        "publishedDate": "2020-05-03T21:02:01+10:00",
+        "updatedDate": "2020-05-03T21:25:57+10:00",
+        "newsTopic": [
+            "Asia-Pacific",
+            "World"
+        ],
+        "title": "Hong Kong will combat coronavirus by giving reusable masks to all 7 million citizens",
+        "author": [],
+        "subject": [
+            "Government and politics",
+            "Local governments",
+            "Municipal governments"
+        ],
+        "charter": "None",
+        "theme": "Inform",
+        "source": [
+            "AAP - SBS"
+        ],
+        "person": [],
+        "geography": [],
+        "organisation": [],
+        "program": [],
+        "recommendable": "",
+        "originalArticleID": "fd6454cf-7efa-4d6c-b0b9-5b956993dc43",
+        "originalArticleTitle": "Hong Kong will combat coronavirus by giving reusable masks to all 7 million citizens"
+    },
+    "nielsen": {
+        "appID": "P8AF4D796-453B-4A09-A6F0-CCB99B8A45A3",
+        "appName": "SBS World News Australia"
+    },
+    "error": {
+        "errorPage": "",
+        "errorMessage": ""
+    }
+}
+    },
+    "user": {
+    "userInfo": {
+        "loggedIn": "",
+        "userID": "",
+        "syncUserID": [],
+        "loggedInVisit": "",
+        "loggedInType": "",
+        "userType": "",
+        "newsletterName": ""
+    },
+    "userSegment": {
+        "adobeSegmentIDs": [],
+        "strategicSegmentIDs": []
+    }
+},
+    "environment": {
+    "browser": {
+        "userAgent": "",
+        "version": ""
+    },
+    "platform": {
+        "deviceType": "",
+        "deviceName": "",
+        "sourceType": "",
+        "osName": ""
+    }
+}
+  };
+
+  //populate page title from <title> tag
+  var pageTitle = (document.getElementsByTagName("title")[0] && document.getElementsByTagName("title")[0].innerHTML) ? document.getElementsByTagName("title")[0].innerHTML : "embed";
+  digitalData.page.pageInfo["title"] = pageTitle;
+
+  var trackingCode = window.location.search.split('cid=').splice(1).join('').split('&')[0];
+  if (trackingCode !== undefined && digitalData.page.pageInfo.campaign !== undefined) {
+    digitalData.page.pageInfo.campaign["trackingCode"] = trackingCode;
+  }
+
+  //populate previousPageURL and previousPageName from sessionStorage when available
+  digitalData.page.pageInfo["previousPageURL"] = sessionStorage.getItem("pageURL") || "";
+  digitalData.page.pageInfo["previousPageName"] = sessionStorage.getItem("pageName") || "";
+
+  // add in the user agent string
+  if (digitalData.environment.browser !== undefined) {
+    digitalData.environment.browser["userAgent"] = navigator.userAgent;
+  } else {
+    digitalData.environment.browser = {};
+    digitalData.environment.browser["userAgent"] = navigator.userAgent;
+  }
+
+  //create the platform object to set the sourceType attribute
+  digitalData.environment.platform = {};
+  digitalData.environment.platform["sourceType"] = "web";
+
+  //save current page URL and name so we can use it in previous page properties if user clicks to another page
+  if (digitalData.page.pageInfo.hasOwnProperty("destinationURL")) {
+    sessionStorage.setItem("pageURL", digitalData.page.pageInfo.destinationURL);
+  }
+  if (digitalData.page.pageInfo.hasOwnProperty("pageName")) {
+    sessionStorage.setItem("pageName", digitalData.page.pageInfo.pageName);
+  }
+
+  //setting the referrer properties
+  if (document.referrer !== "" && document.referrer.indexOf("sbs.com.au") === -1) {
+    digitalData.page.pageInfo["referralURL"] = document.referrer;
+
+    if (localStorage.getItem("originalReferrerURL") === null) {
+      //this is the first time user visits our site so we save the referrer as original
+      localStorage.setItem("originalReferrerURL", document.referrer);
+    }
+  }
+
+  //populate originalReferrerURL from sessionStorage when available
+  digitalData.page.pageInfo["originalReferrerURL"] = localStorage.getItem("originalReferrerURL") || "";
+
+</script>
+    <script src="//nexus.ensighten.com/sbs/sbsprod/Bootstrap.js" defer></script>
+  
+  <script type="text/javascript">if(navigator.userAgent.match(/(Trident|MSIE)(\s?\/?)[0-9.]+/g)){var head=document.head;var ss=document.createElement('link');var js=document.createElement('script');ss.href="/common/css/legacy-01207aee0c3371210684bafb063c9f30.css";ss.rel="text/css";js.src="/common/js/legacy-5d9bfc9fe1a17e5a49d4d168eeda234e.js";head.appendChild(ss);head.appendChild(js);}</script>
+</head>
+
+<body>
+
+  <div class="layout layout--article">
+
+    
+    <nav class="global-nav global-nav--article" data-module="global-nav_module">
+  <a id="nav-main" aria-hidden="true" tabindex="-1"><!-- no js main nav activation --></a>
+  <a id="nav-search" aria-hidden="true" tabindex="-1"><!-- no js search activation --></a>
+
+  <div class="global-nav__header">
+    <div class="container">
+
+      <a class="sr-only sr-focusable" href="#main">Skip to content</a>
+
+      <div class="row">
+
+        <div class="global-nav__toggles column">
+          <span class="sr-only">Primary Navigation</span>
+          <a class="global-nav__toggle toggle" href="#nav-main" data-type="toggle-nav"><span><span class="sr-only">Show menu</span></span></a>
+          <a class="global-nav__toggle global-nav__toggle--close toggle" href="#"><span><span class="sr-only">Hide menu</span></span></a>
+        </div>
+
+                <div class="global-nav__logo-wrapper column">
+                      
+<div class="global-nav__context-flip-panel flip-panel">
+
+  <div class="global-nav__context-flip-pane flip-pane">
+    <div class="global-nav__logo">
+      <a class="sbs-logo" href="https://www.sbs.com.au/news/">
+        <img src="/news/img/logo-colour.svg" width="215" height="75" alt="SBS News">
+      </a>
+    </div>
+  </div>
+
+  <div class="global-nav__context-flip-pane flip-pane">
+    <p class="global-nav__context-title"></p>
+    
+  <div class="sharing sharing--outline sharing--context-social global-nav__context-social" data-module="sharing_module">
+          
+
+  
+
+  <div class="label sharing__label global-nav__context-social-label sr-only">Share</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--twitter" data-type="sharing-twitter">
+            <span class="sr-only">Share on Twitter</span>
+          </button>
+              </li>
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--facebook" data-type="sharing-facebook">
+            <span class="sr-only">Share on Facebook</span>
+          </button>
+              </li>
+        </ul>
+  </div>
+  </div>
+</div>
+                  </div>
+
+        <div class="global-nav__utils column">
+  <ul class="global-nav__utils-list">
+    <li class="global-nav__util">
+      <a class="global-nav__subscribe-toggle toggle" href="#nav-main" data-type="toggle-nav" data-target="newsletter-signup"><span class="icon--envelope-o icon" aria-hidden="true"></span> Subscribe</a>
+    </li>
+  </ul>
+</div>
+
+      </div>
+    </div>
+
+  </div>
+
+  
+
+<div class="global-nav__menu-strip">
+          <div class="menu menu--inline global-nav__menu-strip-section" role="menu">
+            <ul class="menu__list global-nav__menu-strip-section-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item first" role="menuitem">        <a href="/news/"><span>Top Stories</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/latest"><span>Latest</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/topic/coronavirus-covid-19"><span>Coronavirus</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/topic/australia"><span>Australia</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/topic/world"><span>World</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item last" role="menuitem">        <a href="/news/videos"><span>Videos</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+          <div class="menu menu--inline global-nav__menu-strip-section" role="menu">
+            <ul class="menu__list global-nav__menu-strip-section-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item first" role="menuitem">        <a href="//www.sbs.com.au/news/dateline"><span>Dateline</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="//www.sbs.com.au/news/insight"><span>Insight</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="//www.sbs.com.au/news/thefeed"><span>The Feed</span><span></span></a>
+        
+    </li>
+
+    
+            
+                        
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item last" role="menuitem">        <a href="//www.sbs.com.au/news/small-business-secrets" target="_blank"><span>Small Business Secrets</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+          <div class="menu menu--inline global-nav__menu-strip-section" role="menu">
+            <ul class="menu__list global-nav__menu-strip-section-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item first last" role="menuitem">        <a href="//www.sbs.com.au/"><span>SBS Home</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+</div>
+
+  <div class="global-nav__bodies is-inert--nav-hidden">
+
+    
+<div class="global-nav__body global-nav__body--nav">
+  <div class="global-nav__body-wrapper">
+
+    
+    <div class="container">
+      <div class="row">
+
+        <div class="global-nav__column global-nav__column--primary column">
+
+                  <div class="menu global-nav__menu global-nav__menu--news" role="menu">
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first" role="menuitem">        <a href="/news/"><span>Top Stories</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/latest"><span>Latest</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/coronavirus-covid-19"><span>Coronavirus</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/australia"><span>Australia</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/world"><span>World</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/videos"><span>Videos</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/news/audio"><span>Podcasts</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+                  <div class="menu global-nav__menu global-nav__menu--sbshome" role="menu">
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first last" role="menuitem">        <a href="//www.sbs.com.au/"><span>SBS Home</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+        </div>
+
+        <div class="global-nav__column global-nav__column--secondary column">
+
+                  <div class="menu global-nav__menu global-nav__menu--programs" role="menu">
+              
+
+  
+
+  <div class="label label menu__label global-nav__menu-label">News Programs</div>
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first" role="menuitem">        <a href="//www.sbs.com.au/news/dateline"><span>Dateline</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/news/insight"><span>Insight</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/news/thefeed"><span>The Feed</span><span></span></a>
+        
+    </li>
+
+    
+            
+                        
+      
+    <li class="menu__list-item global-nav__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/news/small-business-secrets" target="_blank"><span>Small Business Secrets</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+                  <div class="menu global-nav__menu global-nav__menu--topics" role="menu">
+              
+
+  
+
+  <div class="label label menu__label global-nav__menu-label">Topics in News</div>
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first" role="menuitem">        <a href="/news/topic/asia-pacific"><span>Asia Pacific</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/north-america"><span>North America</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/south-america"><span>South America</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/africa"><span>Africa</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/europe"><span>Europe</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item last" role="menuitem">        <a href="/news/topic/middle-east"><span>Middle East</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+        </div>
+
+        <div class="global-nav__column global-nav__column--supplementary column">
+          
+  <div class="sharing sharing--menu global-nav__menu global-nav__menu--social">
+          
+
+  
+
+  <div class="label sharing__label global-nav__menu-label">Follow SBS News</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+        
+                    <a href="//twitter.com/SBSNews" class="sharing__link sharing__link--twitter" target="_blank" rel="noopener">
+            <span class="icon--twitter icon" aria-hidden="true"></span><span class="sr-only">Follow us on Twitter</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a href="//www.facebook.com/sbsnews" class="sharing__link sharing__link--facebook" target="_blank" rel="noopener">
+            <span class="icon--facebook icon" aria-hidden="true"></span><span class="sr-only">Follow us on Facebook</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a href="/news/feeds" class="sharing__link sharing__link--rss">
+            <span class="icon--rss icon" aria-hidden="true"></span><span class="sr-only">Subscribe to our RSS feed</span>
+          </a>
+              </li>
+        </ul>
+  </div>
+
+          <div class="global-nav__newsletter-signup" id="newsletter-signup">
+            <form class="form form__newsletter-subscribe"
+      data-module="form_module"
+      data-form-validate
+      data-form-multistep
+      data-form-name="newsletterSubscribe_Nav"
+      data-custom-analytics="marketing-module"
+      data-custom-handler="form-newsletter-subscribe"
+      action="https://www.sbs.com.au/api/member/subscribeuser"
+      method="post">
+
+                    <input type="hidden" name="vertical" value="News_Nav">
+            
+  <div class="form__fieldset form__fieldset--step form__fieldset--step-0">
+            <div class="form__field-wrap">
+      <div class="form__field form__field--inline">
+        
+<label class="label label--form sr-only" for="your-email-911020633">Your Email Address</label>
+                <input class="form__field-input" id="your-email-911020633" name="email" autocomplete="off" placeholder="Your Email Address" type="email" required data-form-validation>
+        <div class="form__field-button-wrap page__section-cta-link">
+          <button class="form__field-button page__section-cta page__section-cta--secondary" data-step="next" type="button" name="step-0" value="button">
+            <span class="page__section-cta-wrap">Subscribe</span>
+            <span class="ripple"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="form__validation">
+      <span class="form__validation-item" data-form-validation-required>A valid email address is required</span>
+      <span class="form__validation-item" data-form-validation-pattern>Please provide a valid email address</span>
+    </div>
+
+    <p class="form__fieldset-conditions">By subscribing, you agree to SBS’s <a href="//www.sbs.com.au/aboutus/corporate/view/id/114/h/Terms-and-Conditions" target="_blank" rel="noopener">terms of service</a> and <a href="//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement" target="_blank" rel="noopener">privacy policy</a> including receiving email updates from SBS.</p>
+  </div>
+
+  <div class="form__fieldset form__fieldset--step form__fieldset--step-1" aria-hidden="true">
+
+    <p class="form__fieldset-title">Please select the editions you would like to sign up to</p>
+
+    <div class="form__field-wrap">
+          <ul class="form__field-list">
+        <li class="form__field form__field--checkbox">
+          <input class="form__field-checkbox" id="edition-morning-911020633" name="subscription[]" value="PREF_DAILY_NEWS" type="checkbox" checked required data-form-validation>
+          <label class="form__field-label" for="edition-morning-911020633">Morning</label>
+        </li>
+        <li class="form__field form__field--checkbox">
+          <input class="form__field-checkbox" id="edition-afternoon-911020633" name="subscription[]" value="PREF_DAILY_NEWS_PM" type="checkbox" checked required data-form-validation>
+          <label class="form__field-label" for="edition-afternoon-911020633">Afternoon</label>
+        </li>
+      </ul>
+
+      <div class="form__validation">
+        <span class="form__validation-item" data-form-validation-required>Please select at least one edition</span>
+      </div>
+      <div class="form__fieldset page__section-cta-links">
+        <div class="form__field-button-wrap page__section-cta-link">
+          <button class="form__field-button page__section-cta page__section-cta--secondary" data-step="next" type="submit" name="step-1" value="submit">
+            <span class="page__section-cta-wrap">Select</span>
+            <span class="ripple"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+
+                                                        <div class="form__fieldset form__fieldset--success show-on-success is-hidden" aria-hidden="true">
+          <p class="form__message-title"><span class="icon icon--tick"></span><strong>Thank you for signing up</strong></p>
+          <p class="form__message-body"></p>
+        </div>
+                                                  <div class="form__fieldset form__fieldset--failure show-on-failure is-hidden" aria-hidden="true">
+          <p class="form__message-title"><span class="icon"></span><strong>Sorry, it looks like an error occurred</strong></p>
+          <p class="form__message-body">Please refresh the page and try again.</p>
+        </div>
+            </form>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+  </div>
+</nav>
+
+
+    <main class="main" id="main">
+
+                    <div class="page page--article">
+    <section class="page__section page__section--style-1">
+
+                                                                                                        
+
+                                                                      
+  <article class="article"
+  data-module="article_module"
+        data-edit="1"
+    data-uuid="fd6454cf-7efa-4d6c-b0b9-5b956993dc43"
+  >
+
+    <script type="text/x-config">{
+        "digitalData": {
+  "page": {
+    "attributes": {},
+    "category": {},
+    "pageInfo": {
+      "path": "/news/hong-kong-will-combat-coronavirus-by-giving-reusable-masks-to-all-7-million-citizens",
+      "title": "Hong Kong will combat coronavirus by giving reusable masks to all 7 million citizens"
+    }
+  }
+}  }</script>
+
+            <header class="article__header">
+          <div class="article__container container">
+      <div class="row">
+        <div class="article__intro column">
+                      <div class="article__topic">
+            
+                          
+
+          
+
+  <span class="label article__topic-label"><a href=/news/topic/asia-pacific title="Asia-Pacific"><span></span>Asia-Pacific</a></span>
+                        </div>
+          
+          
+<div class="text-headline">
+  <h1 class="h1 headline article__headline">Hong Kong will combat coronavirus by giving reusable masks to all 7 million citizens</h1>
+</div>
+        </div>
+
+        <div class="article__media column">
+
+                      
+
+<div class="hero column article__hero">
+      
+    
+
+  
+
+
+        
+
+                
+  
+
+
+<div class="media-image media-image--16-9 hero__image article__hero-image">
+                  <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/cec03242-a4e5-406d-a5ac-dc305f1087d5/crop/16x9", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/cec03242-a4e5-406d-a5ac-dc305f1087d5/crop/16x9", "media": "(min-width: 767px)" },
+                { "srcset": "https://sl.sbs.com.au/public/image/file/cec03242-a4e5-406d-a5ac-dc305f1087d5/crop/16x9_large", "alt": "The Hong Kong government will issue face masks to all citizens." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/cec03242-a4e5-406d-a5ac-dc305f1087d5/crop/16x9" media="(min-width: 1023px)">
+                              <source srcset="https://sl.sbs.com.au/public/image/file/cec03242-a4e5-406d-a5ac-dc305f1087d5/crop/16x9" media="(min-width: 767px)">
+          
+          <img srcset="https://sl.sbs.com.au/public/image/file/cec03242-a4e5-406d-a5ac-dc305f1087d5/crop/16x9_large" alt="The Hong Kong government will issue face masks to all citizens.">
+        </noscript>
+      </picture>
+        </div>
+
+
+    <div class="hero__attribution article__hero-attribution">
+                                                                  
+<div class="footnote hero__caption article__hero-caption">The Hong Kong government will issue reusable face masks to all citizens next week. (AAP)</div>
+    </div>
+  </div>
+
+
+          
+        </div>
+              </div>
+    </div>
+  </header>
+
+  
+  
+<div class="article__container container">
+  <div class="row">
+    <div class="article__abstract column">
+      
+<div class="text-abstract">
+  
+<p class="text-abstract__content">All 7.4 million Hong Kong citizens will be issued with reusable face masks next week, the city government says.</p>
+</div>
+    </div>
+  </div>
+  <div class="row">
+    
+
+
+<div class="meta article__meta">
+  <div class="article__meta__byline">
+        <div class="meta__item article__meta-date">
+      <span class="sr-only">Updated</span> <time itemprop="datePublished" dateTime="2020-05-03T21:02:01+10:00">Updated 1 day ago</time>
+    </div>
+
+        
+
+          </div>
+
+      
+  <div class="sharing sharing--outline sharing--context-social article__meta__context-social" data-module="sharing_module">
+          
+
+  
+
+  <div class="label sharing__label article__meta__context-social-label">Share</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--facebook" data-type="sharing-facebook">
+            <span class="sr-only">Share on Facebook</span>
+          </button>
+              </li>
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--twitter" data-type="sharing-twitter">
+            <span class="sr-only">Share on Twitter</span>
+          </button>
+              </li>
+        </ul>
+  </div>
+  
+</div>
+  </div>
+  <div class="row">
+    <div class="article__body column">
+      
+
+<div class="dfp is-dormant" data-slot-id="slot2" data-module="dfp_module">
+  <div class="dfp-slot slot2" id="dfp-slot2" data-lazyload-ads></div>
+</div>
+      
+<div class="text-body"><p>Hong Kong's government will distribute reusable face masks to all 7.4 million citizens next week as the territory prepares to lift a first round of coronavirus-related restrictions.</p><p>The planned handouts would come amid an easing of public health restrictions, including the reopening of libraries and outdoor fitness centres.</p><p>Leading microbiologist Yuen Kwok-yung, an early advocate for the use of face masks in response to the coronavirus, said with the face masks in use and consistently low daily infection numbers, the city should be able to ease social-distancing guidelines and restart the economy "very soon."</p><p><div class="block__container"><div class="label">READ MORE</div><div class="preview__list-wrapper"><div class="preview preview--linear"><div class="preview__wrap"><div class="media-image media-image--1-1 preview__image"><img src="https://sl.sbs.com.au/public/image/file/49460177-4ac5-4603-95b1-ea407c716f0e/crop/1x1" alt="UNICEF is concerned about the impact the coronavirus pandemic could have on vaccination campaigns. "/></div><div class="preview__content"><h3 class="headline preview__headline"><a href="/news/unicef-says-the-coronavirus-crisis-could-jeopardise-vaccinations-for-millions-of-children" title="UNICEF says the coronavirus crisis could jeopardise vaccinations for millions of children">UNICEF says the coronavirus crisis could jeopardise vaccinations for millions of children</a></h3></div></div></div></div></div></p><p>Mr Yuen said the masks will contain reusable filters that can be replaced. The masks themselves can be washed and reused up to 60 times.</p><p>Citywide mask shortages have led to overnight lines and online scams resulting in losses of more than $US 6 million ($AUD 9 million) since Hong Kong confirmed its first case of Covid-19 in January.</p><p><div class="embed embed--image"><img src="https://sl.sbs.com.au/public/image/file/8b29b62d-b346-4744-a9b4-5cefc80262c8"  alt="The planned handouts would come amid an easing of public health restrictions."  title="The planned handouts would come amid an easing of public health restrictions."  width="700"  height="393"/><div class="caption">The planned handouts would come amid an easing of public health restrictions.</div><div class="attribution">AAP</div></div></p><p>Mr Yuen said he hoped the move would alleviate some of the mental and financial stress of acquiring masks during the pandemic.</p><p>Earlier in the day, Hong Kong Financial Secretary Paul Chan wrote on his blog that the economic downturn caused by the coronavirus and anti-government protests would likely result in the city's worst fiscal year since the 1960s.</p><p>Mr Chan said, despite next week's reopening of government services and lifting of restrictions, "we must act with caution as the global epidemic is still not resolved."</p><p><strong>People in Australia must stay at least 1.5 metres away from others. Check your state’s restrictions on gathering limits.</strong></p><p><strong>Testing for coronavirus is now widely available across Australia. If you are experiencing cold or flu symptoms, arrange a test by calling your doctor or contact the Coronavirus Health Information Hotline on 1800 020 080.</strong></p><p><strong>The federal government's coronavirus tracing app COVIDSafe is available for download from your phone's app store.</strong></p><p><strong>SBS is committed to informing Australia’s diverse communities about the latest COVID-19 developments. News and information is available in 63 languages at&nbsp;<a href="https://www.sbs.com.au/coronavirus" target="_blank">sbs.com.au/coronavirus</a>.</strong></p></div>
+      <footer class="article__footer">
+                  <div class="footnote article__source">
+            <span class="article__source__label">Source</span> AAP - SBS
+          </div>
+        
+                  
+
+<div class="list-meta-tags">
+
+      <p class="headline h6 list-topics__title">Topics: </p>
+        <ul class="list-meta-tags__list">
+                <li class="list-meta-tags__list-item"><a class="list-meta-tags__link" href="/news/topic/asia-pacific" rel="">Asia-Pacific</a></li>
+                <li class="list-meta-tags__list-item"><a class="list-meta-tags__link" href="/news/topic/world" rel="">World</a></li>
+        </ul>
+  </div>
+              </footer>
+    </div>
+  </div>
+</div>
+
+</article>
+
+      
+
+    </section>
+
+          
+
+
+
+<div class="connect-sbs" name="sbsconnect" data-module="connect-sbs_module">
+  <script type="text/x-config">{
+    "defaultTab": {
+      "for-phone": 0,
+      "for-desktop": 1
+    }
+  }</script>
+
+  <p class="connect-sbs__title">Stay up to date with SBS NEWS</p>
+
+  <div class="tabs" data-module="tabs_module">
+    <ul class="tabs__control">
+          <li class="is-active" onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.appdownload';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" data-type="static">App</li>
+          <li onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.subscribe';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" data-type="static">Subscribe</li>
+          <li onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.follow.social';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" data-type="static">Follow</li>
+          <li onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" data-type="static">Listen</li>
+          <li onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" data-type="static">Watch</li>
+        </ul>
+
+        <div class="tab__content tab-1 is-hidden">
+      <div class="connect-sbs__content">
+        <img class="ico" height="49px" src="/common/img/main/modules/sbsconnect/app.svg" />
+        <p class="tab__title">SBS News App</p>
+        <p class="tab__description">Download our free app on the App Store or Google Play for the latest headlines and breaking news alerts.</p>
+        <div class="app-links">
+          <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.app.appStore';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://itunes.apple.com/app/apple-store/id432849691?pt=461087&ct=marketingmod&mt=8"><img src="/news/img/apple_app_btn.png" /></a>
+          <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.app.googlePlay';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://play.google.com/store/apps/details?id=com.sbs.worldnewsaustralia&referrer=utm_source%3Dwebsite%26utm_medium%3Dmarketingmod"><img src="/news/img/google_app_btn.png" /></a>
+        </div>
+        <p class="tab__footnote">We love feedback: help us improve by rating the app and sharing your suggestions at <a href="mailto:apps@sbs.com.au" title="apps@sbs.com.au">apps@sbs.com.au</a></p>
+      </div>
+    </div>
+
+        <div class="tab__content tab-2 is-hidden">
+      <div class="connect-sbs__content">
+        <img class="ico" height="44px" src="/common/img/main/modules/sbsconnect/sub.svg" />
+        <form class="form form__newsletter-subscribe form__newsletter-subscribe--block"
+      data-module="form_module"
+      data-form-validate
+      data-form-multistep
+      data-form-name="newsletterSubscribe_ConnectSBS"
+      data-custom-analytics="marketing-module"
+      data-custom-handler="form-newsletter-subscribe"
+      action="https://www.sbs.com.au/api/member/subscribeuser"
+      method="post">
+
+                    <input type="hidden" name="vertical" value="News_HP">
+            
+  <div class="form__fieldset form__fieldset--step form__fieldset--step-0">
+          <p class="form__fieldset-title">News to your inbox</p>
+              <p class="form__fieldset-description">Sign up now for the latest news from Australia and around the world direct to your inbox.</p>
+        <div class="form__field-wrap">
+      <div class="form__field form__field--inline">
+        
+<label class="label label--form sr-only" for="your-email-924001011">Your Email Address</label>
+                <input class="form__field-input" id="your-email-924001011" name="email" autocomplete="off" placeholder="Your Email Address" type="email" required data-form-validation data-event="marketing-module.news.subscribe.email">
+        <div class="form__field-button-wrap page__section-cta-link">
+          <button onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.subscribe.click';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" class="form__field-button page__section-cta page__section-cta--secondary" data-step="next" type="button" name="step-0" value="button">
+            <span class="page__section-cta-wrap">Subscribe</span>
+            <span class="ripple"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="form__validation">
+      <span class="form__validation-item" data-form-validation-required>A valid email address is required</span>
+      <span class="form__validation-item" data-form-validation-pattern>Please provide a valid email address</span>
+    </div>
+
+    <p class="form__fieldset-conditions">By subscribing, you agree to SBS’s <a href="//www.sbs.com.au/aboutus/corporate/view/id/114/h/Terms-and-Conditions" target="_blank" rel="noopener">terms of service</a> and <a href="//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement" target="_blank" rel="noopener">privacy policy</a> including receiving email updates from SBS.</p>
+  </div>
+
+  <div class="form__fieldset form__fieldset--step form__fieldset--step-1" aria-hidden="true">
+
+    <p class="form__fieldset-title">Please select the editions you would like to sign up to</p>
+
+    <div class="form__field-wrap">
+          <ul class="form__field-list" data-event="marketing-module.news.newsletter.select">
+        <li class="form__field form__field--checkbox">
+          <input class="form__field-checkbox" id="edition-morning-924001011" name="subscription[]" value="PREF_DAILY_NEWS" type="checkbox" checked required data-form-validation>
+          <label class="form__field-label" for="edition-morning-924001011">Morning</label>
+        </li>
+        <li class="form__field form__field--checkbox">
+          <input class="form__field-checkbox" id="edition-afternoon-924001011" name="subscription[]" value="PREF_DAILY_NEWS_PM" type="checkbox" checked required data-form-validation>
+          <label class="form__field-label" for="edition-afternoon-924001011">Afternoon</label>
+        </li>
+      </ul>
+
+      <div class="form__validation">
+        <span class="form__validation-item" data-form-validation-required>Please select at least one edition</span>
+      </div>
+      <div class="form__fieldset page__section-cta-links">
+        <div class="form__field-button-wrap page__section-cta-link">
+          <button class="form__field-button page__section-cta page__section-cta--secondary" data-step="next" type="submit" name="step-1" value="submit">
+            <span class="page__section-cta-wrap">Select</span>
+            <span class="ripple"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+
+                                                        <div class="form__fieldset form__fieldset--success show-on-success is-hidden" data-event="marketing-module.news.subscribe.success" aria-hidden="true">
+          <p class="form__message-title"><span class="icon icon--tick"></span><strong>Thank you for signing up</strong></p>
+          <p class="form__message-body"></p>
+        </div>
+                                                  <div class="form__fieldset form__fieldset--failure show-on-failure is-hidden" aria-hidden="true">
+          <p class="form__message-title"><span class="icon"></span><strong>Sorry, it looks like an error occurred</strong></p>
+          <p class="form__message-body">Please refresh the page and try again.</p>
+        </div>
+            </form>
+      </div>
+    </div>
+
+        <div class="tab__content tab-3 is-hidden">
+      <div class="connect-sbs__content">
+        <img class="ico" height="44px" src="/common/img/main/modules/sbsconnect/social.svg" />
+        <p class="tab__title">SBS News on social</p>
+        <p class="tab__description">Follow SBS News to join in the conversation and never miss the latest live updates.</p>
+        
+  <div class="sharing sharing--menu connect-sbs__menu connect-sbs__menu--social">
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+        
+                    <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.follow.social.twitter';sbs_s.tl(this,&#039;e&#039;,&#039;Marketing-Module&#039;);" href="//twitter.com/SBSNews" class="sharing__link sharing__link--twitter" target="_blank" rel="noopener">
+            <span class="icon--twitter icon" aria-hidden="true"></span><span class="sr-only">Follow us on Twitter</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.follow.social.facebook';sbs_s.tl(this,&#039;e&#039;,&#039;Marketing-Module&#039;);" href="//www.facebook.com/sbsnews" class="sharing__link sharing__link--facebook" target="_blank" rel="noopener">
+            <span class="icon--facebook icon" aria-hidden="true"></span><span class="sr-only">Follow us on Facebook</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.follow.social.rss';sbs_s.tl(this,&#039;e&#039;,&#039;Marketing-Module&#039;);" href="/news/feeds" class="sharing__link sharing__link--rss" target="_blank" rel="noopener">
+            <span class="icon--rss icon" aria-hidden="true"></span><span class="sr-only">Subscribe to our RSS feed</span>
+          </a>
+              </li>
+        </ul>
+  </div>
+      </div>
+    </div>
+
+        <div class="tab__content tab-4 is-hidden">
+      <div class="connect-sbs__content">
+        <img class="ico" height="56px" src="/common/img/main/modules/sbsconnect/listen.svg" />
+        <p class="tab__title">Latest News podcasts</p>
+        <p class="tab__description">Ask <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen.alexa';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://www.sbs.com.au/news/sbs-news-bulletins-to-be-available-via-amazon-alexa" title="Amazon Alexa">Amazon Alexa</a> for the latest SBS News or listen to <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen.sbsRadio';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://www.sbs.com.au/radio/article/2015/03/07/download-sbs-radios-free-mobile-app" title="SBS Radio">SBS Radio</a>.</p>
+      </div>
+    </div>
+
+        <div class="tab__content tab-5 is-hidden">
+      <div class="connect-sbs__content">
+        <img class="ico" height="44px" src="/common/img/main/modules/sbsconnect/watch.svg" />
+        <p class="tab__title">Daily Bulletin</p>
+        <p class="tab__description">Watch SBS World News live daily at 6:30pm on TV and <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch.ourApp';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" class="custom_action" href="#" title="our app">on our app</a>. Catch up on <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch.od';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://www.sbs.com.au/ondemand/program/sbs-world-news" title="SBS On Demand">SBS On Demand</a>.</p>
+      </div>
+    </div>
+  </div>
+</div>
+    
+              <section class="page__section page__section--style-3">
+
+                                                                                      
+  
+  
+  
+    
+  
+      
+  
+      <div class="block block--feature" data-module="block_module" data-edit="1" data-slug="collection-home-top-stories">
+              <h2 class="block__title">Top Stories</h2>            <div class="block__container feature" data-count="5">
+                              
+                  
+            
+                                                              
+
+<div class="preview preview--feature">
+  <div class="preview__wrap">
+                            
+  
+  
+
+
+        
+
+      
+      
+  
+    
+  
+  
+        
+    
+    
+
+<div class="media-image media-image--16-9 preview__image">
+  <a class="media-image__link" href="/news/scott-morrison-wants-to-get-one-million-australians-back-to-work" title="Scott Morrison wants to get one million Australians back to work">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/51a4c7eb-ea92-4cd5-8119-a9b2a58cc6ab/crop/16x9_large", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/51a4c7eb-ea92-4cd5-8119-a9b2a58cc6ab/crop/16x9_medium", "alt": "Scott Morrison talks to reporters." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/51a4c7eb-ea92-4cd5-8119-a9b2a58cc6ab/crop/16x9_large" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/51a4c7eb-ea92-4cd5-8119-a9b2a58cc6ab/crop/16x9_medium" alt="Scott Morrison talks to reporters.">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                                                                                                                                                                                                                                                                                            
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">4 hours ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/australia title="Australia"><span></span>Australia</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/scott-morrison-wants-to-get-one-million-australians-back-to-work">Scott Morrison wants to get one million Australians back to work</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+        
+    
+  
+  
+        
+    
+              
+
+<div class="media-image media-image--p-1-1-m-16-9-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/newmarch-nursing-home-confirms-another-coronavirus-death-taking-national-toll-to-97" title="Newmarch nursing home confirms another coronavirus death, taking national toll to 97">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/dca17541-092a-4023-b22b-c98c0cd0c213/crop/16x9_large", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/dca17541-092a-4023-b22b-c98c0cd0c213/crop/16x9_medium", "media": "(min-width: 767px)" },
+                { "srcset": "https://sl.sbs.com.au/public/image/file/dca17541-092a-4023-b22b-c98c0cd0c213/crop/1x1_small", "alt": "A security guard stands in the driveway as flowers are seen left at the entrance to Anglicare Newmarch House aged care home in Kingswood, Sydney." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/dca17541-092a-4023-b22b-c98c0cd0c213/crop/16x9_large" media="(min-width: 1023px)">
+                              <source srcset="https://sl.sbs.com.au/public/image/file/dca17541-092a-4023-b22b-c98c0cd0c213/crop/16x9_medium" media="(min-width: 767px)">
+          
+          <img srcset="https://sl.sbs.com.au/public/image/file/dca17541-092a-4023-b22b-c98c0cd0c213/crop/1x1_small" alt="A security guard stands in the driveway as flowers are seen left at the entrance to Anglicare Newmarch House aged care home in Kingswood, Sydney.">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                                                                
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">3 hours ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/australia title="Australia"><span></span>Australia</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/newmarch-nursing-home-confirms-another-coronavirus-death-taking-national-toll-to-97">Newmarch nursing home confirms another coronavirus death, taking national toll to 97</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                              <div class="preview__list-wrapper">
+          
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+  
+                        
+        
+        
+  
+    
+    
+
+<div class="media-image media-image--1-1 preview__image">
+  <a class="media-image__link" href="/news/you-have-failed-john-barilaro-unleashes-on-deputy-pm-in-leaked-text-messages" title="&#039;You have failed&#039;: John Barilaro unleashes on deputy PM in leaked text messages">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/8835a3ea-d734-4ccb-ab96-9a8e81437d1b/crop/1x1_small", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/8835a3ea-d734-4ccb-ab96-9a8e81437d1b/crop/1x1_small", "alt": "John Barilaro has expressed his fury with Nationals leader Michael McCormack in a series of text messages. " }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/8835a3ea-d734-4ccb-ab96-9a8e81437d1b/crop/1x1_small" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/8835a3ea-d734-4ccb-ab96-9a8e81437d1b/crop/1x1_small" alt="John Barilaro has expressed his fury with Nationals leader Michael McCormack in a series of text messages. ">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                                                                                      
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">2 hours ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/australia title="Australia"><span></span>Australia</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/you-have-failed-john-barilaro-unleashes-on-deputy-pm-in-leaked-text-messages">&#039;You have failed&#039;: John Barilaro unleashes on deputy PM in leaked text messages</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+  
+                        
+        
+        
+  
+    
+    
+
+<div class="media-image media-image--1-1 preview__image">
+  <a class="media-image__link" href="/news/fears-for-australia-s-arts-industry-after-sydney-s-carriageworks-folds-due-to-coronavirus" title="Fears for Australia&#039;s arts industry after Sydney&#039;s Carriageworks folds due to coronavirus">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/f58a5a8a-d525-4639-b93a-0e55a764f7eb/crop/1x1_small", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/f58a5a8a-d525-4639-b93a-0e55a764f7eb/crop/1x1_small", "alt": "" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/f58a5a8a-d525-4639-b93a-0e55a764f7eb/crop/1x1_small" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/f58a5a8a-d525-4639-b93a-0e55a764f7eb/crop/1x1_small" alt="">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                                                                                                                                  
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">6 hours ago</span>
+      
+
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/fears-for-australia-s-arts-industry-after-sydney-s-carriageworks-folds-due-to-coronavirus">Fears for Australia&#039;s arts industry after Sydney&#039;s Carriageworks folds due to coronavirus</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+  
+                        
+        
+        
+  
+    
+    
+
+<div class="media-image media-image--1-1 preview__image">
+  <a class="media-image__link" href="/news/australian-researchers-are-converting-snorkels-into-life-saving-ventilators" title="Australian researchers are converting snorkels into life-saving ventilators">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/13321d5f-029e-41eb-80eb-8f7415376d11/crop/1x1_small", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/13321d5f-029e-41eb-80eb-8f7415376d11/crop/1x1_small", "alt": "Researchers have adapted recreational snorkelling masks for use in hospitals." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/13321d5f-029e-41eb-80eb-8f7415376d11/crop/1x1_small" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/13321d5f-029e-41eb-80eb-8f7415376d11/crop/1x1_small" alt="Researchers have adapted recreational snorkelling masks for use in hospitals.">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                                                                                                                                                                                                                                                                                                                                        
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">1 hour ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/australia title="Australia"><span></span>Australia</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/australian-researchers-are-converting-snorkels-into-life-saving-ventilators">Australian researchers are converting snorkels into life-saving ventilators</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                </div>
+                                                                                              
+            
+    </div>
+
+              
+  </div>
+
+                                                                              
+  
+  
+  
+    
+  
+                  
+      <div class="block" data-module="block_module" data-edit="na" data-slug="collection-home-top-stories">
+                <div class="block__container" data-count="4">
+                                                                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+  
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/victorian-health-official-cleared-over-tweet-comparing-captain-cook-to-covid-19" title="Victorian health official cleared over tweet comparing Captain Cook to COVID-19">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/8d49693c-18ee-4ca0-9044-a6a6fc198768/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/8d49693c-18ee-4ca0-9044-a6a6fc198768/crop/1x1_small", "alt": "Victorian Deputy Chief Health Officer Dr Annaliese van Diemen has been criticised for a tweet comparing COVID-19 to Captain Cook&#039;s arrival in Australia." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/8d49693c-18ee-4ca0-9044-a6a6fc198768/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/8d49693c-18ee-4ca0-9044-a6a6fc198768/crop/1x1_small" alt="Victorian Deputy Chief Health Officer Dr Annaliese van Diemen has been criticised for a tweet comparing COVID-19 to Captain Cook&#039;s arrival in Australia.">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                                                                                                                                                                                                                                                
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">59 mins ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/australia title="Australia"><span></span>Australia</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/victorian-health-official-cleared-over-tweet-comparing-captain-cook-to-covid-19">Victorian health official cleared over tweet comparing Captain Cook to COVID-19</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+  
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/italians-return-to-the-streets-as-coronavirus-restrictions-eased-in-europe" title="Italians return to the streets as coronavirus restrictions eased in Europe">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/3389b491-2fdd-4e0e-8380-363e3925df6d/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/3389b491-2fdd-4e0e-8380-363e3925df6d/crop/1x1_small", "alt": "Italy Eases Some Lockdown Restrictions As Coronavirus Infection Rate Falls" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/3389b491-2fdd-4e0e-8380-363e3925df6d/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/3389b491-2fdd-4e0e-8380-363e3925df6d/crop/1x1_small" alt="Italy Eases Some Lockdown Restrictions As Coronavirus Infection Rate Falls">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                                                                                      
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">2 hours ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/europe title="Europe"><span></span>Europe</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/italians-return-to-the-streets-as-coronavirus-restrictions-eased-in-europe">Italians return to the streets as coronavirus restrictions eased in Europe</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+  
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/how-would-a-trans-tasman-bubble-work-and-how-soon-could-australians-travel-to-nz" title="How would a ‘trans-Tasman bubble’ work and how soon could Australians travel to NZ?">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/76ebb34a-b44e-42ee-99ad-012e469e86f2/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/76ebb34a-b44e-42ee-99ad-012e469e86f2/crop/1x1_small", "alt": "New Zealand Prime Minister Jacinda Ardern joined Australia&#039;s cabinet meeting on Tuesday to discuss the prospect of a trans-Tasman travel zone." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/76ebb34a-b44e-42ee-99ad-012e469e86f2/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/76ebb34a-b44e-42ee-99ad-012e469e86f2/crop/1x1_small" alt="New Zealand Prime Minister Jacinda Ardern joined Australia&#039;s cabinet meeting on Tuesday to discuss the prospect of a trans-Tasman travel zone.">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">5 hours ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/australia title="Australia"><span></span>Australia</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/how-would-a-trans-tasman-bubble-work-and-how-soon-could-australians-travel-to-nz">How would a ‘trans-Tasman bubble’ work and how soon could Australians travel to NZ?</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+      
+  
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/environmentalists-urge-countries-to-emerge-from-coronavirus-lockdowns-cleaner-and-greener" title="Environmentalists urge countries to emerge from coronavirus lockdowns cleaner and greener">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/317404e1-1aa1-4b8a-be37-7d7f69c7d2f4/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/317404e1-1aa1-4b8a-be37-7d7f69c7d2f4/crop/1x1_small", "alt": "The water quality of Venice&#039;s famed canals has improved significantly during the pandemic." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/317404e1-1aa1-4b8a-be37-7d7f69c7d2f4/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/317404e1-1aa1-4b8a-be37-7d7f69c7d2f4/crop/1x1_small" alt="The water quality of Venice&#039;s famed canals has improved significantly during the pandemic.">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+
+
+<div class="preview__label">
+
+
+                        
+
+  
+
+  <span class="label date__string">2 hours ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/business title="Business"><span></span>Business</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/environmentalists-urge-countries-to-emerge-from-coronavirus-lockdowns-cleaner-and-greener">Environmentalists urge countries to emerge from coronavirus lockdowns cleaner and greener</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                
+            
+    </div>
+
+            <div class="block__cta">
+    <a href="/news/latest">View More</a>
+  </div>
+    
+  </div>
+
+      
+
+      </section>
+      </div>
+
+                                                                                                
+      
+    </main>
+
+    
+  
+<footer class="global-footer">
+  <div class="container">
+    <div class="row">
+      <div class="global-footer__column global-footer__column--explore column">
+                <div class="menu global-footer__menu global-footer__menu--explore-sbs" role="menu">
+              
+
+  
+
+  <div class="label label menu__label global-footer__menu-label">Explore SBS</div>
+            <ul class="menu__list global-footer__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item first" role="menuitem">        <a href="//www.sbs.com.au"><span>SBS Home</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/ondemand"><span>SBS On Demand</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/guide"><span>Guide</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/radio"><span>Radio</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/nitv"><span>NITV</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/news"><span>News</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//theworldgame.sbs.com.au/"><span>The World Game</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/cyclingcentral"><span>Cycling</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/topics/sport"><span>Sport</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/movies"><span>Movies</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/food"><span>Food</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/topics/voices"><span>Voices</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/topics/pride"><span>Pride</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+      </div>
+      <div class="global-footer__column global-footer__column--contact column">
+        
+
+  
+
+  <div class="label global-footer__menu-label">Contact SBS</div>
+        <ul class="list list--clean">
+          <li class="list__item list__item--phone"><span class="icon icon--phone"></span> 1800 500 727 (toll free)</li>
+          <li class="list__item list__item--email"><span class="icon icon--envelope"></span> <a href="mailto:comments@sbs.com.au">comments@sbs.com.au</a></li>
+          <li class="list__item list__item--mail"><span class="icon icon--send"></span> Locked Bag 028, Crows Nest NSW 1585</li>
+        </ul>
+      </div>
+      <div class="global-footer__column global-footer__column--follow column">
+        
+  <div class="sharing sharing--menu global-footer__menu global-footer__menu--follow-sbs">
+          
+
+  
+
+  <div class="label sharing__label global-footer__menu-label">Follow SBS</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+        
+                    <a href="//twitter.com/SBS" class="sharing__link sharing__link--twitter" target="_blank" rel="noopener">
+            <span class="icon--twitter icon" aria-hidden="true"></span><span class="sr-only">Follow SBS on Twitter</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a href="//www.facebook.com/SBSAustralia/" class="sharing__link sharing__link--facebook" target="_blank" rel="noopener">
+            <span class="icon--facebook icon" aria-hidden="true"></span><span class="sr-only">Follow SBS on Facebook</span>
+          </a>
+              </li>
+        </ul>
+  </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="global-footer__column global-footer__column--legal column">
+                <div class="menu global-footer__menu global-footer__menu--information" role="menu">
+              
+
+  
+
+  <div class="label label menu__label global-footer__menu-label">Information</div>
+            <ul class="menu__list global-footer__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item first" role="menuitem">        <a href="//www.sbs.com.au/aboutus/copyright"><span>Copyright</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/terms-and-conditions"><span>Terms &amp; Conditions</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/privacy-policy"><span>Privacy</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/preferences"><span>Your online preferences</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/sales/"><span>Sales &amp; Advertising</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/complaints"><span>Complaints</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/sbs-codes-of-practice"><span>SBS Codes of Practice</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/careers"><span>Careers</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/aboutus"><span>About SBS</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+      </div>
+    </div>
+    <div class="global-footer__column global-footer__column--copy">
+      <p class="menu__list-item">SBS acknowledges the traditional owners of country throughout Australia.</p>
+    </div>
+  </div>
+</footer>
+
+
+  </div>
+
+  
+<div class="loader" id="loader">
+  <svg viewBox="0 0 32 32" width="32" height="32">
+    <circle class="loader__spinner" cx="16" cy="16" r="14" fill="none"></circle>
+  </svg>
+</div>
+
+  <script src="/common/js/common-6bc7e00a92bab481e6be1929429784f6.js" defer></script>
+  <script src="/news/js/main-7d8c33e1c7df06582bea3ae5446c1440.js" defer></script>
+</body>
+</html>

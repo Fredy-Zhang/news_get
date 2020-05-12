@@ -1,0 +1,24 @@
+
+                UK scientists create coronavirus antibody test with '99.8% accuracy and results in 35 minutes'
+              
+{{#singleComment}}{{value}} comment{{/singleComment}}{{^singleComment}}{{value}} comments{{/singleComment}}
+While the British Government says it has laboratory capability to test for coronavirus immunity, it is currently being used for survey testing of existing blood samples and the capacity is not known.
+It is also attempting to develop home testing kits, rather than requiring analysis in laboratories, but so far these have proved unreliable.
+The tests aim to establish whether a person has developed antibodies to the Covid-19 virus, usually after being infected by the disease, and is therefore immune from being infected again.
+On Friday, Quotient received European regulatory approval for the MosaiQ serological screening machines with 100 per cent sensitivity and 99.8 per cent specificity, meaning there is a low chance of a misread or “false positive”.
+Chief executive Franz Walt – who was managing director of a laboratory that developed the first diagnostic test for Sars in 2003 – said: “We are truly proud to have developed such a fast and accurate test.
+“We have strong roots in the UK and want to speak to ministers there so MosaiQ can be used in the amazing national effort to tackle Coronavirus and relaunch the economy.
+
+        The machine tests of people have developed antibodies to coronavirus (AFP via Getty Images)
+      
+“We realise ministers and the NHS are incredibly busy but are keen to talk given the strong interest from across Europe in the product.”
+Ed Farrell, chief operating officer at the Edinburgh office, added: “We’re incredibly proud of all our work here in Scotland and Switzerland.
+“We’ve got such a rich history here and we hope we can now make a difference at this challenging time.”
+A Scottish Government spokesman said: “Health Protection Scotland, with key partners, explore all options around new antibody tests as they become available on the market.
+“The Scottish Government is working closely with the UK Government to ensure that everyone is able to access new antibody tests when they become available.
+“It is essential that any new tests are reliable, and time is needed to undertake rigorous evaluation so that there is confidence that tests are accurate.”
+Swearing, personal abuse, racism, sexism, homophobia and other discriminatory or inciteful language is not acceptable
+{{#singleComment}}{{value}} Comment{{/singleComment}}{{^singleComment}}{{value}} Comments{{/singleComment}}
+ -1 )" [class]="(commentState.flaggedComments.indexOf('{{ID}}') > -1 ) ? 'flagged' : 'flag'" [text]="(commentState.flaggedComments.indexOf('{{ID}}') > -1 ) ? 'Flagged' : 'Flag'" on="tap:flag-lightbox,AMP.setState({commentId:'{{ID}}'})">Flag
+ -1 )" [class]="(commentState.flaggedComments.indexOf('{{ID}}') > -1 ) ? 'flagged' : 'flag'" [text]="(commentState.flaggedComments.indexOf('{{ID}}') > -1 ) ? 'Flagged' : 'Flag'" on="tap:flag-lightbox,AMP.setState({commentId:'{{ID}}'})">Flag
+ -1 )" [class]="(commentState.flaggedComments.indexOf('{{ID}}') > -1 ) ? 'flagged' : 'flag'" [text]="(commentState.flaggedComments.indexOf('{{ID}}') > -1 ) ? 'Flagged' : 'Flag'" on="tap:flag-lightbox,AMP.setState({commentId:'{{ID}}'})">Flag

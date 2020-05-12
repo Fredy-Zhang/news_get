@@ -1,0 +1,1469 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Health officials declare COVID-19 outbreak at Amazon facility north of Calgary - 660 NEWS</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- favicon -->
+    <link rel="shortcut icon" href="https://www.660citynews.com/wp-content/themes/660news/images/favicon.ico" />
+    
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- This file should primarily consist of HTML with a little bit of PHP. -->
+<div class="rdm-daac-notice-template " data-template="true" style="display: none;">
+	<div class="daac-desktop-notice" style="display: none;">
+		<div class="daac-info">
+			<a aria-hidden="true" href="https://www.rogersmedia.com/privacy-policy/#question17" target="_blank"><img src="https://www.660citynews.com/wp-content/plugins/rdm-daac-notice/public/images/info.png"></a>
+		</div>
+		<div class="notice-message">Rogers Media uses cookies for personalization, to customize its online advertisements, and for other purposes. <a href="https://www.rogersmedia.com/privacy-policy/#question17" target="_blank">Learn more</a> or change your cookie preferences. Rogers Media supports the Digital Advertising Alliance principles. By continuing to use our service, you agree to our use of cookies.</div>
+		<div class="daac-close">
+			<img src="https://www.660citynews.com/wp-content/plugins/rdm-daac-notice/public/images/close.png" alt="close">
+		</div>
+	</div>
+	<div class="daac-mobile-notice" style="display: none;">
+		<div class="daac-info">
+			<a aria-hidden="true" href="https://www.rogersmedia.com/privacy-policy/#question17" target="_blank"><img src="https://www.660citynews.com/wp-content/plugins/rdm-daac-notice/public/images/info.png"></a>
+		</div>
+		<div class="notice-message">We use cookies (<a href="https://www.rogersmedia.com/privacy-policy/#question17" target="_blank">why?</a>) You can change cookie preferences. Continued site use signifies consent.</div>
+		<div class="daac-close">
+			<img src="https://www.660citynews.com/wp-content/plugins/rdm-daac-notice/public/images/close.png" alt="close">
+		</div>
+	</div>
+</div>
+
+<!-- This site is optimized with the Yoast SEO plugin v7.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.660citynews.com/2020/05/01/health-officials-declare-covid-19-outbreak-at-amazon-facility-north-of-calgary/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Health officials declare COVID-19 outbreak at Amazon facility north of Calgary - 660 NEWS" />
+<meta property="og:description" content="EDMONTON (660 NEWS) &#8212; Alberta Health Services has declared a COVID-19 outbreak at the Amazon facility in Balzac, just north of Calgary, after five workers tested positive for the disease. &#8220;It is not yet clear if all five are linked with a common exposure,&#8221; Dr. Deena Hinshaw, Alberta&#8217;s Chief Medical Officer of Health, announced at &hellip;" />
+<meta property="og:url" content="https://www.660citynews.com/2020/05/01/health-officials-declare-covid-19-outbreak-at-amazon-facility-north-of-calgary/" />
+<meta property="og:site_name" content="660 NEWS" />
+<meta property="article:section" content="Local" />
+<meta property="article:published_time" content="2020-05-01T18:01:07-06:00" />
+<meta property="article:modified_time" content="2020-05-02T11:21:35-06:00" />
+<meta property="og:updated_time" content="2020-05-02T11:21:35-06:00" />
+<meta property="og:image" content="https://www.660citynews.com/wp-content/blogs.dir/sites/8/2020/01/NY112-418_2016_142804.jpg" />
+<meta property="og:image:secure_url" content="https://www.660citynews.com/wp-content/blogs.dir/sites/8/2020/01/NY112-418_2016_142804.jpg" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="683" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="EDMONTON (660 NEWS) &#8212; Alberta Health Services has declared a COVID-19 outbreak at the Amazon facility in Balzac, just north of Calgary, after five workers tested positive for the disease. &#8220;It is not yet clear if all five are linked with a common exposure,&#8221; Dr. Deena Hinshaw, Alberta&#8217;s Chief Medical Officer of Health, announced at [&hellip;]" />
+<meta name="twitter:title" content="Health officials declare COVID-19 outbreak at Amazon facility north of Calgary - 660 NEWS" />
+<meta name="twitter:image" content="https://www.660citynews.com/wp-content/blogs.dir/sites/8/2020/01/NY112-418_2016_142804-1024x683.jpg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//www.660citynews.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//assets.adobedtm.com' />
+<link rel='dns-prefetch' href='//s7.addthis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.660citynews.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='ai1ec_style-css'  href='//www.660citynews.com/?ai1ec_render_css=1583429285&#038;ver=2.5.44' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.660citynews.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='pdfemb-gutenberg-block-backend-js-css'  href='https://www.660citynews.com/wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sticky-ads-css'  href='https://www.660citynews.com/wp-content/plugins/rdm-ad-utility/style/stickyads.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rdm-daac-notice-css'  href='https://www.660citynews.com/wp-content/plugins/rdm-daac-notice/public/css/rdm-daac-notice-public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='rdm-dynamic-tag-management-css'  href='https://www.660citynews.com/wp-content/plugins/rdm-dynamic-tag-management/public/css/rdm-dynamic-tag-management-public.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.660citynews.com/wp-includes/css/dashicons.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='exContentReplacementStyle-css'  href='https://www.660citynews.com/wp-content/plugins/rdm-exclusive-content/dist/css/exContentReplacementStyle.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rdm-pinned-video-css'  href='https://www.660citynews.com/wp-content/plugins/rdm-pinned-video/public/css/rdm-pinned-video-public.css?ver=1.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='rdm_solr_search-css'  href='https://www.660citynews.com/wp-content/plugins/rdm-solr/dist/css/rdm-solr-form.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='BcVideoJSMainCSS-css'  href='https://www.660citynews.com/wp-content/plugins/rdm-video-cloud/video/assets/css/main.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ump-css'  href='https://www.660citynews.com/wp-content/plugins/umpv2/css/ump.css?ver=1588273918' type='text/css' media='all' />
+<link rel='stylesheet' id='ump-exacttarget-css'  href='https://www.660citynews.com/wp-content/plugins/umpv2-exacttarget/css/style.css?ver=1588273918' type='text/css' media='all' />
+<link rel='stylesheet' id='ua-styles-css'  href='https://www.660citynews.com/wp-content/plugins/urban-push/assets/css/notification.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.660citynews.com/wp-content/themes/samuel/fontawesome/css/font-awesome.min.css?ver=20200505083021' type='text/css' media='all' />
+<link rel='stylesheet' id='samuel-stylesheet-css'  href='https://www.660citynews.com/wp-content/themes/samuel/style-gp.css?ver=20200505083021' type='text/css' media='all' />
+<link rel='stylesheet' id='style-traffic-weather-css'  href='https://www.660citynews.com/wp-content/themes/samuel/style-traffic-weather.css?ver=20200505083021' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.660citynews.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/jquery.noconflict_disable.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/plugins/rdm-ad-utility/js/sticky_ad_footer.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/plugins/rdm-daac-notice/public/js/rdm-daac-notice-public.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/detectizr/2.2.0/detectizr.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='//assets.adobedtm.com/f1c13d6275d63bceda989e7eebe142edd7f1cda0/satelliteLib-67554ce9bf674724086bc3bda890aa7887a7e732.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/plugins/umpv2/js/statelet.js?ver=1588273918'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/plugins/umpv2/js/ump-bootstrap-modal.js?ver=1588273918'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var userSettings = {"url":"\/","uid":"0","time":"1588671269","secure":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-includes/js/utils.min.js?ver=5.3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+
+	            if ( ! window.janrain ) { window.janrain = {}; } janrain.settings = {"packages":["login","capture"],"language":"en-US","appUrl":"https:\/\/login.rogersmedia.com","tokenUrl":"https:\/\/www.660citynews.com","tokenAction":"event","backgroundColor":"transparent","borderColor":"transparent","fontFamily":"'Open Sans', sans-serif","width":"299","actionText":" ","capture":{"flowName":"standard_rmi_2","stylesheets":["https:\/\/www.660citynews.com\/wp-content\/plugins\/umpv2\/css\/janrain.css?ver=1588273918"],"mobileStylesheets":["https:\/\/www.660citynews.com\/wp-content\/plugins\/umpv2\/css\/janrain-mobile.css?ver=1588273918"],"thinRegistration":false,"appId":"xjwuuvc75rs76j73wqfq2zsh85","captureServer":"https:\/\/rogers.janraincapture.com","redirectUri":"https:\/\/www.660citynews.com","clientId":"4k8vh54zab5u7xemk6qg8agmt2c7bhny","flowVersion":"HEAD","registerFlow":"socialRegistration","setProfileCookie":true,"keepProfileCookieAfterLogout":true,"modalCloseHtml":"Close","noModalBorderInlineCss":false,"modalBorderRadius":1,"modalBorderOpacity":1,"modalBorderWidth":"0","modalBorderColor":"transparent","responseType":"token","returnExperienceUserData":["uuid","displayName"],"screenToRender":null,"federate":true,"federateServer":"https:\/\/rogers.janrainsso.com","federateXdReceiver":"https:\/\/www.660citynews.com\/?ump_janrain_federate=xd_receiver","federateLogoutUri":"https:\/\/www.660citynews.com\/?ump_janrain_federate=logout&nonce=ea3b308c08","federateEnableSafari":true,"federateSegment":"CFFR"}};
+	            var UMP_exports = {"avatar_default":"https:\/\/www.660citynews.com\/wp-content\/plugins\/umpv2-exacttarget\/images\/profile_default.png","cookie_avatar_key":"_ump_profile_avatar","cookie_name_key":"_ump_profile_name","ajax_url":"https:\/\/www.660citynews.com\/wp-admin\/admin-ajax.php","is_edit_profile":false,"is_logout":false,"edit_profile_class":"edit-profile","get_entity_info_nonce":"97f02b1644","get_user_can_email_info_nonce":"30e4f9b7f1","update_et_newsletters_data_extensions_nonce":"798548743d","update_entity_info_nonce":"61f8d6cd5c","httpsLoadUrl":"https:\/\/rpxnow.com\/load\/login.rogersmedia.com","httpLoadUrl":"http:\/\/widgets-cdn.rpxnow.com\/load\/login.rogersmedia.com","httpsShareLoadUrl":"https:\/\/rpxnow.com\/js\/lib\/login.rogersmedia.com\/share_beta.js","httpShareLoadUrl":"http:\/\/widget-cdn.rpxnow.com\/js\/lib\/login.rogersmedia.com\/share_beta.js","brand":"CFFR","auth_redirect_url":null,"migratedM2OSignInScreenLabels":{"primaryHeader":"Sign In","secondaryHeader":"Confirm your existing account using"}};
+	        
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/plugins/umpv2-exacttarget/js/janrain-init-et-flow.js?ver=1588273918'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/plugins/umpv2/js/ump-webfont.js?ver=1588273918'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var UMP_Commenting = {"uuid_field":"_janrain_uuid","access_token_field":"_janrain_access_token","id_form":"commentform","defaults":["comment-notes","comment-form-author","comment-form-email","comment-form-url"],"comment_notes_sign_in_id":"_ump_comment_note_sign_in","comment_notes_logout_id":"_ump_comment_note_logout","comment_notes_loading_id":"_ump_comment_note_loading","comment_notes_failed_login_id":"_ump_comment_note_failed_login","comment_notes_email_unverified_id":"_ump_comment_note_email_unverified","comment_class":"comment","comment_awaiting_moderation_class":"comment-awaiting-moderation","comment_notes_sign_in":"<a href=\"#\" class=\"capture_modal_open\">Sign in<\/a> to comment.","comment_notes_logged_in":"You're logged in as <img src=\"\" class=\"ump_profile_avatar avatar avatar-26 photo\" width=\"26\" height=\"26\"> <strong class=\"ump_profile_name\"><\/strong>. <a href=\"https:\/\/www.660citynews.com\/edit-profile\" class=\"capture_edit_profile\">Edit Profile<\/a> | <a href=\"#\" class=\"capture_end_session\">Logout<\/a>.","comment_notes_loading":"Loading profile...","cookie_expiration":1588757669};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/plugins/ump-commenting-custom/js/ump-commenting.js?ver=1588273918'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var UMP_ExactTarget_exports = {"attributeNames":{"newsletterPlural":"rdm_newsletters","newsletterSite":"parm1"},"flags":{"update":"update_unsubscribe_key","send_welcome_email":"trigger_welcome_email_send"},"labels":{"subscribe_button":{"unsubscribe":"Remove","subscribe":"Subscribe"},"link_titles":{"contact_us":"contact us"},"subscription_status":{"unsubscribe":"Success. You have unsubscribed from %LIST_NAME%","subscribe":"Success. You have subscribed to %LIST_NAME%","unsubscribe_all":"Success. You have unsubscribed from all emails from %SITE_NAME%","fail":"Uh oh! Something wrong happened. Please try again. If this problem persists, %CONTACT_US%","newslettersUpdateFailed":"Failed to update user newsletters:","newslettersPreferenceSaved":"Your newsletter preferences have been saved."}},"urls":{"contact_us":"https:\/\/www.660news.com\/contact-us"},"siteUrl":"https:\/\/www.660citynews.com","siteName":"660 NEWS","unsubscribeStatusParamPattern":"ump-unsubscribe-status","lists":[{"category":"","newsletterID":"radio:cffr:weekly","name":"Weekly Newsletter","image_url":"","short_desc":"Weekly Newsletter","cemClass":"newsletter","desc":"Weekly update for Weather, traffic, Entertainment,  and win or puchase tickets for events"},{"category":"","newsletterID":"radio:cffr:promo","name":"Promotions","image_url":"","short_desc":"Promotions","cemClass":"promotions","desc":"Send me promotions, surveys and info from 660 NEWS and other Rogers brands."},{"category":"","newsletterID":"radio:cffr:birthday","name":"It's Your Birthday!","image_url":"","short_desc":"Its Your Birthday!","cemClass":"promotions","desc":"Send me a special email on my birthday."},{"category":"","newsletterID":"radio:cffr:thirdparty","name":"From Our Partners","image_url":"","short_desc":"From Our Partners","cemClass":"newsletter","desc":"Send me alerts, event notifications and special deals or information from our carefully screened partners that may be of interest to me."},{"category":"","newsletterID":"radio:cffr:alert","name":"Breaking News Alerts","image_url":"","short_desc":"Be the first to know! Get breaking news, weather and traffic delivered to your inbox.","cemClass":"promotions","desc":"Be the first to know! Get breaking news, weather and traffic stories in your inbox 7 days a week, 24 hours a day."}],"allusers":{"desc":"allusers","name":"allusers","newsletterID":"radio:cffr:allusers","short_desc":"allusers"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/plugins/umpv2-exacttarget/js/public.js?ver=1588273918'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uaWnSettings = {"prompt":{"enabled":true,"prompt_views":1,"prompt_again_views":1,"prompt_again_days":30,"prompt_icon":"https:\/\/radioadminassets.rogersdigitalmedia.com\/uploads\/logo_660_News.png","prompt_button_color":"#1165f1","prompt_text":"Allow us to send you notifications for breaking news and updates."}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/plugins/urban-push/assets/js/notification.js?ver=1.1.0'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/jquery.sticky.js?ver=20200505083021'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var StickyData = {"settings":{"rdm_leaderboard_delay_seconds_enabled":"on","rdm_leaderboard_delay_seconds":"10","rdm_bigbox_recurring_pixels_enabled":"on","rdm_bigbox_recurring_pixels":"1000"},"top_stories":[{"ID":2995752,"post_author":"1042","post_date":"2020-05-04 16:31:29","post_date_gmt":"2020-05-04 22:31:29","post_content":"CALGARY (660 NEWS) - The total number of deaths caused by the COVID-19 virus in Alberta has officially crossed the 100 mark.\r\n\r\nIn her daily COVID-19 update, Chief Medical Officer of Health Dr. Deena Hinshaw confirmed 70 new cases and nine additional deaths due to the virus.\r\n\r\nThat brings the total number of cases to 5,836 and the total number of deaths to 104.\r\n\r\n\u201cReaching more than 100 deaths is a sombre milestone,\" said Hinshaw.\r\n\r\nFour of the nine deaths were confirmed to be within the last 24 hours, with the other five in the previous days or weeks.\r\n\r\nOf the total cases, 2,942 have recovered.\r\n\r\nThere are also 621 cases confirmed within continuing care facilities within the province.\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"ltr\" lang=\"en\">BREAKING:<\/p>\r\n- 9 new deaths in Alberta due to COVID, up to 104.\r\n- 8 deaths in Calgary zone, 1 in South Zone\r\n- 70 new cases in Alberta, up to 5,836\r\n- Recovered cases now at 2,942<a href=\"https:\/\/twitter.com\/hashtag\/yeg?src=hash&amp;ref_src=twsrc%5Etfw\">#yeg<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/yyc?src=hash&amp;ref_src=twsrc%5Etfw\">#yyc<\/a> <a href=\"https:\/\/twitter.com\/hashtag\/ableg?src=hash&amp;ref_src=twsrc%5Etfw\">#ableg<\/a> <a href=\"https:\/\/t.co\/sVMSHAT8D1\">pic.twitter.com\/sVMSHAT8D1<\/a>\r\n\r\n\u2014 Courtney Theriault (@cspotweet) <a href=\"https:\/\/twitter.com\/cspotweet\/status\/1257423623004045312?ref_src=twsrc%5Etfw\">May 4, 2020<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n\r\nHinshaw addressed the outbreaks at the Cargill meat packing plant near High River and the JBS plant in Brooks.\r\n\r\nOf the 936 cases at Cargill, 810 have recovered.\r\n\r\nA total of 998 cases were confirmed in the City of Brooks, 469 of which were among those in the JBS plant.\r\n\r\nHinshaw said the spread of the cases confirms the complexity of the outbreak.\r\n\r\nShe stressed that stigmatizing workers at either outbreak does not help anyone and they should not be blamed or shamed for the spread of the virus.\r\n\r\n\u201cWe should be supporting people who are in this situation, not stigmatizing them.\u201d\r\n\r\nHinshaw then addressed an outbreak at a Purolator facility in Calgary where 30 cases of COVID-19 were confirmed.\r\n\r\nOutbreak precautions are being observed in the facility and AHS is working hard to test all employees.\r\n\r\nA total of 164,722 tests have been conducted in the province, with 3,774 in the last 24 hours.\r\n\r\nHinshaw said they are now once again expanding testing.\r\n\r\nThose experiencing new symptoms such as nausea, a loss of taste or smell, pinkeye, and more are now able to be tested.\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"ltr\" lang=\"en\">And more testing news!<\/p>\r\nTests now available for all those newly-admitted to continuing care + those who live in those facilities and are admitted to hospital or discharged.\r\n\r\n\u2014 Courtney Theriault (@cspotweet) <a href=\"https:\/\/twitter.com\/cspotweet\/status\/1257426909778120705?ref_src=twsrc%5Etfw\">May 4, 2020<\/a><\/blockquote>\r\n<script async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"><\/script>\r\n\r\nHealth Minister Tyler Shandro also announced during the update that non-emergency surgeries that were originally cancelled to free up space and health care personnel will now be able to take place again.\r\n\r\nPatients at greater risk if they do not undergo surgery will be first.\r\n\r\nIn addition, independent allied health professionals, such as chiropractors, psychologists and physical therapists, will now be able to re-open if they so chose.\r\n\r\nShandro said they will continue to monitor the situation and, if necessary, take steps back.\r\n\r\n\u201cThe safety of patients, the safety of health care providers, and the safety of Albertans remains our highest priority.\u201d","post_title":"Total COVID-19 deaths in Alberta pass 100","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"total-covid-19-deaths-in-alberta-pass-100","to_ping":"","pinged":"","post_modified":"2020-05-04 17:38:14","post_modified_gmt":"2020-05-04 23:38:14","post_content_filtered":"","post_parent":0,"guid":"https:\/\/www.660citynews.com\/?p=2995752","menu_order":0,"post_type":"post","post_mime_type":"","comment_count":"0","filter":"raw","permalink":"https:\/\/www.660citynews.com\/2020\/05\/04\/total-covid-19-deaths-in-alberta-pass-100\/","post_title_shortened":"Total COVID-19 deaths in Alberta pass 100","post_thumbnail":"<img width=\"127\" height=\"71\" src=\"https:\/\/www.660citynews.com\/wp-content\/themes\/samuel\/images\/transparent.png\" data-src=\"https:\/\/www.660citynews.com\/wp-content\/blogs.dir\/sites\/8\/2020\/05\/04\/hinsahw-e1588631167749-310x174.png\" class=\"img-responsive img-infinite-scroll wp-post-image\" alt=\"\">"},{"ID":2995843,"post_author":"1042","post_date":"2020-05-04 18:46:52","post_date_gmt":"2020-05-05 00:46:52","post_content":"CALGARY (660 NEWS) \u2013 An outbreak has been declared at a Calgary Purolator distribution centre after 30 employees tested positive for COVID-19.\r\n\r\nDuring the daily Alberta COVID-19 update, Chief Medical Officer of Health Dr. Deena Hinshaw said outbreak precautions are being implemented at the centre and that AHS is working hard to offer testing to all the employees.\r\n\r\n<strong>READ MORE: <a href=\"https:\/\/www.660citynews.com\/2020\/05\/04\/total-covid-19-deaths-in-alberta-pass-100\/\" target=\"_blank\" rel=\"noopener noreferrer\">Total COVID-19 deaths in Alberta pass 100<\/a><\/strong>\r\n\r\nPurolator confirmed that the majority of the cases were with inside sortation employees in a statement and that all employees who have tested positive are self-isolating.\r\n\r\n\"Purolator remains vigilant about potential community outbreaks of COVID-19 and is prepared to quickly respond when any such outbreak is reported. We are managing the situation with an abundance of caution and are constantly monitoring developments, in partnership with Alberta Health Services, to protect our people, our customers and our operations.\"\r\n\r\nIn the meantime, those receiving packages are being encouraged to exercise caution when dealing with possible contaminated surfaces.\r\n\r\nHinshaw said the virus can survive on some surfaces, such as cardboard, for about a day. However, that is in a controlled environment and could be less depending on the exposure the surface experiences.\r\n\r\nIn any case, Hinshaw says the safest thing to do is to open the package, dispose of the packaging, and wash your hands thoroughly before touching the items inside.\r\n\r\nHinshaw said it is unlikely that contamination will occur, but it's better to be safe.\r\n\r\n\u201cThere\u2019s little evidence to suggest that there has been transfer of the virus over long distances or times from a package,\" said Hinshaw\r\n\r\nShe clarified that where they see the most possible contamination is when people are active within the same space and touching the same surfaces.","post_title":"Outbreak confirmed at Calgary Purolator distribution centre","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"outbreak-confirmed-at-calgary-purolator-distribution-centre","to_ping":"","pinged":"","post_modified":"2020-05-04 20:03:59","post_modified_gmt":"2020-05-05 02:03:59","post_content_filtered":"","post_parent":0,"guid":"https:\/\/www.660citynews.com\/?p=2995843","menu_order":0,"post_type":"post","post_mime_type":"","comment_count":"0","filter":"raw","permalink":"https:\/\/www.660citynews.com\/2020\/05\/04\/outbreak-confirmed-at-calgary-purolator-distribution-centre\/","post_title_shortened":"Outbreak confirmed at Calgary Purolator distribution centre","post_thumbnail":"<img width=\"127\" height=\"71\" src=\"https:\/\/www.660citynews.com\/wp-content\/themes\/samuel\/images\/transparent.png\" data-src=\"https:\/\/www.660citynews.com\/wp-content\/blogs.dir\/sites\/8\/2017\/03\/28\/Capture-310x174.jpg\" class=\"img-responsive img-infinite-scroll wp-post-image\" alt=\"\">"},{"ID":2995854,"post_author":"1042","post_date":"2020-05-04 19:32:39","post_date_gmt":"2020-05-05 01:32:39","post_content":"CALGARY (660 NEWS) - The Southern Alberta Insitute of Technology (SAIT) is cutting 30 positions with two other positions reduced with the possibility of them being lost in the future as well.\r\n\r\nThe positions held by Alberta Union of Provincial Employees (AUPE) members were cut in response to the cut-backs to post-secondary education across the province.\r\n\r\nAUPE Vice-President Bobby-Joe Borodey said in a release that the news could speak ill for the future of the province.\r\n\r\n\u201cThe UCP government\u2019s reckless cuts are mounting and putting even more Albertans out of work in the middle of a pandemic, one of the most difficult social and economic challenges we\u2019ve ever faced.\"\r\n\r\nAccounting clerks, administrative assistants, information officers, and more are all among the positions being abolished.\r\n\r\n\u201cMany of the jobs abolished today are from the schools of energy, construction, manufacturing and automation,\u201d said Borodey.\r\n\r\n\u201cThe UCP government likes to talk about creating jobs, but its reckless cuts are kneecapping Albertans\u2019 ability to get jobs in these important sectors.\u201d\r\n\r\nBrodey said these positions will not return, unlike with layoffs.\r\n\r\n\u201cWith layoffs, there\u2019s a pretense that workers could be called back to work,\u201d she says.\r\n\r\n\u201cBut with position abolishments, those jobs are permanently lost. That means the services these AUPE members provided at SAIT will be shuffled to the remaining staff who are already overworked, and that\u2019s if those services continue at all.\"","post_title":"SAIT announces 30 position cuts","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"sait-announces-30-position-cuts","to_ping":"","pinged":"","post_modified":"2020-05-04 19:32:39","post_modified_gmt":"2020-05-05 01:32:39","post_content_filtered":"","post_parent":0,"guid":"https:\/\/www.660citynews.com\/?p=2995854","menu_order":0,"post_type":"post","post_mime_type":"","comment_count":"0","filter":"raw","permalink":"https:\/\/www.660citynews.com\/2020\/05\/04\/sait-announces-30-position-cuts\/","post_title_shortened":"SAIT announces 30 position cuts","post_thumbnail":"<img width=\"127\" height=\"71\" src=\"https:\/\/www.660citynews.com\/wp-content\/themes\/samuel\/images\/transparent.png\" data-src=\"https:\/\/www.660citynews.com\/wp-content\/blogs.dir\/sites\/8\/2020\/05\/04\/asfd-300x169.jpg\" class=\"img-responsive img-infinite-scroll wp-post-image\" alt=\"\">"},{"ID":2995435,"post_author":"783","post_date":"2020-05-04 07:28:57","post_date_gmt":"2020-05-04 13:28:57","post_content":"HIGH RIVER (660 NEWS) - Despite dealing with an outbreak that has infected nearly half of its workers, the<a href=\"https:\/\/www.cargill.ca\/en\/home\" target=\"_blank\" rel=\"noopener noreferrer\"> Cargill<\/a> meat plant in High River will reopen Monday.\r\n\r\nThe plant shut down two weeks ago following the outbreak that has now hit 917 of the 2,000 employees with one person dying from the virus.\r\n\r\n<a href=\"https:\/\/gounion.ca\/\" target=\"_blank\" rel=\"noopener noreferrer\">The United Food and Commercial Workers Local 401 (UFCW)<\/a> continues to fight the move to reopen saying it will use any legal action necessary to keep the plant closed.\r\n\r\nhttps:\/\/twitter.com\/ufcw401\/status\/1257292748987777024\r\n\r\nLast week, the union requested a stop-work order from Occupational Health and Safety (OHS) and filed an Unfair Labour Practice Complaint naming both Cargill and the Alberta Government as respondents.\r\n\r\n<a href=\"https:\/\/gounion.ca\/news\/ufcw-local-401-takes-legal-action-to-stop-cargill-high-river-from-reopening-amid-covid-19-outbreak\/\" target=\"_blank\" rel=\"noopener noreferrer\">In a statement,<\/a> UFCW 401 said: \"Cargill and the Government of Alberta have ignored our calls for a worker-centre approach to ensuring the plant is safe.\"\r\n\r\n\"Food workers are afraid to go to work in the current environment. They lack the economic security they need to recover, and they are terrified of bringing this illness to their families and communities.\"\r\n\r\nhttps:\/\/twitter.com\/ufcw401\/status\/1256317175834439680\r\n\r\nMeanwhile, Cargill said it has the support of OHS and Alberta Health Services to continue operations, saying it will operate on two shifts at this time.\r\n\r\n\"We want to emphasize that employees should be healthy and not had contact with anyone with the COVID-19 virus for 14 days,\" the company said in a statement. \"Alberta Health Services will be on-site and we will conduct ongoing screening to safeguard employees and ensure no one exhibiting symptoms enters the facility.\"\r\n\r\nhttps:\/\/twitter.com\/StaySaif\/status\/1257319886952357895\r\n\r\n<a href=\"https:\/\/www.albertandp.ca\/\" target=\"_blank\" rel=\"noopener noreferrer\">The Opposition NDP<\/a> is also calling for the plant to remain closed, saying about 85 per cent of workers feel scared to go back. They're also calling for similar action to be taken for the JBS Canada plant in Brooks which has seen nearly 400 workers infected.\r\n\r\nDespite the concerns, <a href=\"https:\/\/twitter.com\/CMOH_Alberta\" target=\"_blank\" rel=\"noopener noreferrer\">Alberta's Chief Medical Officer Dr. Deena Hinshaw<\/a> said Cargill's new measures it implemented at the plant are sufficient to stop a second outbreak.\r\n\r\n\"Based on these on-site inspections and their assessment of the situation, my colleagues at Alberta Health Services have indicated that they feel these measures are sufficient to prevent the spread of infection.\"","post_title":"Cargill meat plant reopens as union continues to fight","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"cargill-plant-reopens-as-union-continues-to-fight","to_ping":"","pinged":"","post_modified":"2020-05-04 11:01:04","post_modified_gmt":"2020-05-04 17:01:04","post_content_filtered":"","post_parent":0,"guid":"https:\/\/www.660citynews.com\/?p=2995435","menu_order":0,"post_type":"post","post_mime_type":"","comment_count":"0","filter":"raw","permalink":"https:\/\/www.660citynews.com\/2020\/05\/04\/cargill-plant-reopens-as-union-continues-to-fight\/","post_title_shortened":"Cargill meat plant reopens as union continues to fight","post_thumbnail":"<img width=\"127\" height=\"71\" src=\"https:\/\/www.660citynews.com\/wp-content\/themes\/samuel\/images\/transparent.png\" data-src=\"https:\/\/www.660citynews.com\/wp-content\/blogs.dir\/sites\/8\/2020\/05\/04\/Cargill-UFCW-scaled-e1588598821978-300x169.jpg\" class=\"img-responsive img-infinite-scroll wp-post-image\" alt=\"\">"}]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/rdm-sticky-ads.js?ver=20200505083021'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/jquery.lazyloadxt.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/at.js?ver=20200505083021'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/sass-bootstrap.js?ver=20200505083021'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/breakpoint_watcher.js?ver=20200505083021'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var social_vars = {"twitter_username":"660News"};
+var GoogleCSE = {"key":"013928247543222012806:d26k0jq32uy"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/common.js?ver=20200505083021'></script>
+<script type='text/javascript' src='https://s7.addthis.com/js/300/addthis_widget.js?ver=5.3.2#pubid=ra-5c86c5a1f526ad7d&#038;async=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var weather = {"templateUrl":"https:\/\/www.660citynews.com\/wp-content\/themes\/samuel","weatherURL":"https:\/\/weather.rogersradio.ca\/calgary\/report\/?format=xml"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/weather-gp.js?ver=20200505083021'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/BrightcoveExperiences.js?ver=5.3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var poll = {"pageID":"8"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/poll.js?ver=20200505083021'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/carhartl-jquery-cookie-92b7715/jquery.cookie.js?ver=20200505083021'></script>
+<link rel='https://api.w.org/' href='https://www.660citynews.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.660citynews.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.660citynews.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.2" />
+<link rel='shortlink' href='https://www.660citynews.com/?p=2994783' />
+<link rel="alternate" type="application/json+oembed" href="https://www.660citynews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.660citynews.com%2F2020%2F05%2F01%2Fhealth-officials-declare-covid-19-outbreak-at-amazon-facility-north-of-calgary%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.660citynews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.660citynews.com%2F2020%2F05%2F01%2Fhealth-officials-declare-covid-19-outbreak-at-amazon-facility-north-of-calgary%2F&#038;format=xml" />
+			<meta property="fb:pages" content="341076152371" />
+							<meta property="ia:markup_url" content="https://www.660citynews.com/2020/05/01/health-officials-declare-covid-19-outbreak-at-amazon-facility-north-of-calgary/?ia_markup=1" />
+				
+<script type="text/javascript">
+	// template: landing_page
+	var undefineVar = function () { return; };
+	var adTargets,
+			infiniteScrollLastAdUnitPath = adUnitPath,
+			infiniteScrollLastAdTargets  = adTargets,
+			adUnitPath = undefineVar(),
+			articleMetaData = articleMetaData || {};
+
+	articleMetaData["2994783"] = {"section":"2020","page":"2020,05,01,health-officials-declare-covid-19-outbreak-at-amazon-facility-north-of-calgary","ad_unit_path":"en.660_news_(cffr_calgary).web"};
+	articleMetaData["2994783"]["PostID"] = "2994783";
+	articleMetaData["2994783"]["Tags"] = [];
+	articleMetaData["2994783"]["Category"] = ["Local","Provincial"];
+	articleMetaData["2994783"]["Author"] = "Jeff_Slack";
+
+	adUnitPath = articleMetaData["2994783"].ad_unit_path;
+	if("undefined" !== typeof adUtility && "undefined" !== typeof adUnitPath && adUnitPath.length > 0) {
+		adUnitPath = "/" + adUtility.networkId + "/" + adUnitPath;
+		delete articleMetaData["2994783"].ad_unit_path;
+	} else {
+		if("undefined" !== typeof adUtility) adUnitPath = undefineVar();
+	}
+	adTargets = function(targets) {
+		var newTargets = articleMetaData["2994783"];
+		if ( "undefined" !== typeof targets ) {
+			newTargets = jQuery.extend(true, {}, articleMetaData["2994783"]);
+			jQuery.each(targets, function(k, v) {
+				newTargets[k] = v;
+			});
+		}
+		return newTargets;
+	};
+
+	if(window.googletag && googletag.pubadsReady) {
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		if ( "function" === typeof googletag.pubads ) {
+			googletag.pubads().clearTargeting("sponsid");
+			googletag.pubads().clearTargeting("page");
+			googletag.pubads().clearTargeting("section");
+		}
+	}
+</script>
+<script type="text/javascript" src="https://8c11ebd904100d.rogersmedia.com/utilityx.js"></script>
+<script type="text/javascript" src="https://utility.rogersmedia.com/utility.js"></script>
+
+<script type="text/javascript">
+	var RDMAdUtilityStub = {
+		insertAd: function() { return; },
+		injectDiv: function() { return; },
+		stickyAd: function() { return; }
+	};
+
+	if (typeof RDMAdUtility === 'undefined') {
+		window.adUtility = RDMAdUtilityStub;
+	} else {
+		window.adUtility = new RDMAdUtility({
+			autoPlayingVideo: false,
+			site: 'en.660_news_(cffr_calgary).web'
+		});
+	}
+
+	var ad_sticky_time = window.innerWidth > 767 ? 5000 : 5000;
+	if("undefined" !== typeof adUnitPath && adUnitPath.length > 0) {
+		if(-1 === adUnitPath.indexOf(adUtility.networkId)) adUnitPath = "/" + adUtility.networkId + "/" + adUnitPath;
+	} else {
+		adUnitPath = undefineVar();
+	}
+
+</script>
+        <script src="https://use.typekit.net/nlt2htz.js"></script>
+    	<script>try{Typekit.load({ async: true });}catch(e){}</script>
+		<meta name="pubdate" content="20200501">
+	<meta name="last_updated" content="202005021121">
+	<link rel="amphtml" href="https://www.660citynews.com/2020/05/01/health-officials-declare-covid-19-outbreak-at-amazon-facility-north-of-calgary/amp/"><link rel="icon" href="https://www.660citynews.com/wp-content/blogs.dir/sites/8/2020/01/21/cropped-660news_nav-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.660citynews.com/wp-content/blogs.dir/sites/8/2020/01/21/cropped-660news_nav-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.660citynews.com/wp-content/blogs.dir/sites/8/2020/01/21/cropped-660news_nav-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.660citynews.com/wp-content/blogs.dir/sites/8/2020/01/21/cropped-660news_nav-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			body.single-post #content_article .single-post-wrapper .comments {
+	display: none;
+}		</style>
+		<!--
+	generated in 0.341 seconds
+	107248 bytes batcached for 300 seconds
+-->
+</head>
+
+<body class="post-template-default single single-post postid-2994783 single-format-standard">
+
+<div class="leaderboard-container">
+    <div id="sticky_leaderboard">
+        <div id="leaderboard" class="text-center top-ad"></div>
+    </div>
+</div>
+
+
+<div id="topnav-push">
+    <div class="navbar navbar-default" role="navigation">
+        <div id="container-topnav" class="container container-header">
+            <div id="nav-switch">
+                <div id="div-dropdown">
+                    <div class="menu-hamburger-menu-container"><ul id="menu-hamburger-menu" class="menu"><li class="hidden-lg hidden-md hidden-sm"><button title="Search" class="mobile-search-submit" id="mobile-search-submit"></button></li><li id="menu-item-1353401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1353401"><a>News</a>
+<ul class="sub-menu">
+	<li id="menu-item-1661609" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1661609"><a href="https://www.660citynews.com/category/local/">Local</a></li>
+	<li id="menu-item-1353407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1353407"><a href="https://www.660citynews.com/category/national/">National</a></li>
+	<li id="menu-item-1353403" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1353403"><a href="https://www.660citynews.com/category/world/">World</a></li>
+	<li id="menu-item-1353409" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1353409"><a href="https://www.660citynews.com/category/entertainment/">Entertainment</a></li>
+	<li id="menu-item-1353411" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1353411"><a href="https://www.660citynews.com/category/business/">Business</a></li>
+	<li id="menu-item-1495889" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1495889"><a href="http://www.sportsnet.ca/960/">Sportsnet</a></li>
+</ul>
+</li>
+<li id="menu-item-1353363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1353363"><a href="https://www.660citynews.com/traffic/">Live Traffic</a></li>
+<li id="menu-item-1353361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1353361"><a href="https://www.660citynews.com/weather/">Weather</a></li>
+<li id="menu-item-1353369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1353369"><a href="https://www.660citynews.com/audio/">Audio</a>
+<ul class="sub-menu">
+	<li id="menu-item-2028967" class="menu-item menu-item-type-taxonomy menu-item-object-audio-shows menu-item-2028967"><a href="https://www.660citynews.com/audio/audio_traffic_weather/">Latest Traffic Report</a></li>
+	<li id="menu-item-1500239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1500239"><a href="https://www.660news.com/audio/latest-business-report/">Business Report</a></li>
+	<li id="menu-item-1500243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1500243"><a href="https://www.660news.com/audio/todays-parent-report/">Today&#8217;s Parent Report</a></li>
+</ul>
+</li>
+<li id="menu-item-2982571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2982571"><a href="/supportlocal/">Operation Support Local</a></li>
+<li id="menu-item-1383837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1383837"><a href="https://www.660news.com/video">Video</a></li>
+<li id="menu-item-2947854" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2947854"><a href="/communityheroes">Community Heroes</a></li>
+<li id="menu-item-1353415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1353415"><a href="/contests">Contests &#038; Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-2190593" class="menu-item menu-item-type-post_type menu-item-object-contest menu-item-2190593"><a href="https://www.660citynews.com/2017/06/26/660-news-weather-guarantee-contest/">Weather Guarantee Contest</a></li>
+	<li id="menu-item-1353753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1353753"><a href="https://www.660citynews.com/contests/">Current Contests</a></li>
+	<li id="menu-item-1383829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1383829"><a href="https://www.660citynews.com/events/">Events</a></li>
+	<li id="menu-item-1496379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1496379"><a href="https://www.660citynews.com/rules-for-contests/">Rules for Contests</a></li>
+</ul>
+</li>
+<li id="menu-item-1353457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1353457"><a href="https://www.660citynews.com/submit/">Submit News Tip</a></li>
+<li id="menu-item-1353421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1353421"><a href="/about">Connect</a>
+<ul class="sub-menu">
+	<li id="menu-item-1353455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1353455"><a href="https://www.660citynews.com/about/">660 NEWS Team</a></li>
+	<li id="menu-item-1353449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1353449"><a href="https://www.660citynews.com/mobile/">On Your Mobile</a></li>
+	<li id="menu-item-1885729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1885729"><a href="https://www.660citynews.com/text-messaging-faq/">Text Messaging F.A.Q.</a></li>
+	<li id="menu-item-1353453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1353453"><a href="https://www.660citynews.com/contact/">Contact Us</a></li>
+</ul>
+</li>
+<li id="menu-item-1353447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1353447"><a href="https://www.660citynews.com/advertise-with-us/">Advertise With Us</a></li>
+</ul></div>                </div>
+            </div>
+            <div id="nav-close" class="hidden-lg"></div>
+            
+            <a class="navbar-brand" href="https://www.660citynews.com">
+                <img src="https://www.660citynews.com/wp-content/themes/samuel/images/green-panther/660news_nav.png">
+                <img src="https://www.660citynews.com/wp-content/themes/samuel/images/green-panther/ico_logo_blk.png">
+            </a>
+        
+            <div id="navigator" class="hidden-header-xs hidden-xs">
+                <div id="navbar-collapse" class="collapse navbar-collapse"><ul id="menu-horizontal-navigation-bar" class="nav navbar-nav"><li id="menu-item-1642859" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1642859"><a title="Local" href="https://www.660citynews.com/category/local/">Local</a></li>
+<li id="menu-item-1353337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1353337 hidden-header-sm"><a title="Traffic" href="https://www.660citynews.com/traffic/">Traffic</a></li>
+<li id="menu-item-1931321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1931321 hidden-header-md hidden-header-sm hidden-header-sm"><a title="Video" href="https://www.660news.com/video">Video</a></li>
+<li id="menu-item-1353379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1353379 hidden-header-md hidden-header-sm hidden-header-sm"><a title="News Tips" href="https://www.660citynews.com/submit/">News Tips</a></li>
+</ul></div>            </div>
+
+            <div class="hidden-xs">
+                <form id="test" role="search" method="get" class="searchform" action="https://www.660citynews.com" onsubmit="return validateSearchForm('5eb133256ba2b');">
+	<div class="search-form-wrapper">
+		<input type="submit" value="Go" title="Search" class="buttonimg">
+		<input class="search-query text" type="text" name="s" size="18" autocomplete="off" value="" placeholder="Search" data-rand-id="5eb133256ba2b">
+	</div>	
+</form>
+<!-- / searchform -->            </div>
+
+            <div id="weather"></div>
+
+            <div class="hidden-xs">
+                <div id="insider" class="hidden-header-sm hidden-xs">
+					<div class="ump-container">
+			<div id="ump-user-account-links" class="ump-user-account-links">
+								<a href="#" id="captureSignInLink" class="captureSignInLink capture_modal_open" style="display:none">NEWS INSIDERS</a>
+				
+				<div class="captureLoggedInWrapper">
+					<div id="captureProfileWrapper" class="captureProfileWrapper" style="display:none">
+						<div class="profile-avatar-wrapper">
+							<img src="#" class="avatar avatar-24 photo profile-avatar" height="24" width="24">
+						</div>
+						<span class="profile-name"></span>
+					</div>
+					<div id="captureSubWrapper" style="display:none" class="captureSubWrapper ump-profile-sub-wrapper">
+						<ul class="ump-profile-submenu">
+							<li class="ump-bar-edit-profile">
+								<a href="https://www.660citynews.com/edit-profile/" class="ump-submenu-item" id="captureProfileLink">
+									Account								</a>
+							</li>
+							<li class="ump-bar-logout">
+								<a href="#" id="captureSignOutLink" class="capture_end_session">Sign Out</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+								<p class="login-failed-note" style="display: none"></p>
+			</div>
+		</div>	
+		<script>
+		(function($) {
+			$(document).ready(function(){
+				if ( localStorage.janrain_user_data ) {
+					var user_data = JSON.parse( localStorage.janrain_user_data );
+
+					if ( user_data && user_data.profile_image && user_data.displayName ) {
+						$(".captureSignInLink").css("display", "none");
+						$(".captureProfileWrapper").css("display", "block");
+						$(".captureSubWrapper").css("display", "block");
+
+						$(".ump-user-account-links .profile-avatar").attr( 'src', user_data.profile_image );
+						$(".ump-user-account-links .profile-name").html( document.createTextNode( user_data.displayName ) );
+					}
+				} else {
+					$(".captureSignInLink").css("display", "");
+					$(".captureProfileWrapper").css("display", "none");
+					$(".captureSubWrapper").css("display", "none");
+				}
+			});
+		}(jQuery));
+		</script>
+			</div>    
+            </div>
+
+            <div id="navbar_speaker">
+                <a href="http://player.660news.com" target="_blank" title="Listen Live" class="listen-live-popup">
+                    <div id="speaker"></div>
+                    <div id="listen_live_label" class="hidden-xs">
+                        <span>LISTEN LIVE</span>
+                    </div>
+                </a>
+            </div>
+
+            
+            </div>
+    </div>
+</div>
+
+<div id="subheader-mobile-bar" class="hidden-header-md hidden-header-lg">
+    <div class="container">
+            		<div class="ump-container">
+			<div id="ump-user-account-links" class="ump-user-account-links">
+								<a href="#" id="captureSignInLink" class="captureSignInLink capture_modal_open" style="display:none">NEWS INSIDERS</a>
+				
+				<div class="captureLoggedInWrapper">
+					<div id="captureProfileWrapper" class="captureProfileWrapper" style="display:none">
+						<div class="profile-avatar-wrapper">
+							<img src="#" class="avatar avatar-24 photo profile-avatar" height="24" width="24">
+						</div>
+						<span class="profile-name"></span>
+					</div>
+					<div id="captureSubWrapper" style="display:none" class="captureSubWrapper ump-profile-sub-wrapper">
+						<ul class="ump-profile-submenu">
+							<li class="ump-bar-edit-profile">
+								<a href="https://www.660citynews.com/edit-profile/" class="ump-submenu-item" id="captureProfileLink">
+									Account								</a>
+							</li>
+							<li class="ump-bar-logout">
+								<a href="#" id="captureSignOutLink" class="capture_end_session">Sign Out</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+								<p class="login-failed-note" style="display: none"></p>
+			</div>
+		</div>	
+		<script>
+		(function($) {
+			$(document).ready(function(){
+				if ( localStorage.janrain_user_data ) {
+					var user_data = JSON.parse( localStorage.janrain_user_data );
+
+					if ( user_data && user_data.profile_image && user_data.displayName ) {
+						$(".captureSignInLink").css("display", "none");
+						$(".captureProfileWrapper").css("display", "block");
+						$(".captureSubWrapper").css("display", "block");
+
+						$(".ump-user-account-links .profile-avatar").attr( 'src', user_data.profile_image );
+						$(".ump-user-account-links .profile-name").html( document.createTextNode( user_data.displayName ) );
+					}
+				} else {
+					$(".captureSignInLink").css("display", "");
+					$(".captureProfileWrapper").css("display", "none");
+					$(".captureSubWrapper").css("display", "none");
+				}
+			});
+		}(jQuery));
+		</script>
+		        </div>
+</div>
+
+
+<div class="container" id="bg-wrapper">
+
+<div id="sliver-ad">
+    <div id="sliver">
+        <script type="text/javascript">
+            if ( window.snBreakpointWatcher.breakPoint() >= 1320 ) {
+                adUtility.insertAd("sliver", { type: adUtility._AD_SLIVER, adPath: adUnitPath, targeting: adTargets() });
+            }/*else if(window.snBreakpointWatcher.breakPoint() <= 480) {
+                adUtility.insertAd("sliver", { type: adUtility._AD_MULTIAD_MOB, adPath: adUnitPath, targeting: adTargets() });
+            }*/
+        </script>
+    </div>
+</div>
+<div class="election_leaderboard_results"><a href="https://www.660citynews.com/topic/what-you-need-to-know-about-covid-19/"><img src="https://www.660citynews.com/wp-content/blogs.dir/sites/8/2020/03/09/covid-banner.png" style="max-width: 100%; margin-top: 10px;"></a></div>
+    <div class="row" id="content_article" itemscope itemtype="http://schema.org/Article">
+        <div id="ajaxloading">
+            Loading articles...
+            <br>
+            <img src="https://www.660citynews.com/wp-content/themes/samuel/images/green/loading-infinite.gif">
+        </div>
+
+        <div id="highlight-share">
+    <a onclick="highlight_pop('twitter');"><img src="https://www.660citynews.com/wp-content/themes/samuel/images/green/share-twitter.png"></a>
+    <a onclick="highlight_pop('facebook');"><img src="https://www.660citynews.com/wp-content/themes/samuel/images/green/share-facebook.png"></a>
+</div>
+    	<div class="articles-wrapper col-lg-11 col-md-10 col-sm-16" id="articles-wrapper">
+        	        <div class="single-post-wrapper">
+<script type="text/javascript">
+	// template: newsradio_sites
+	var undefineVar = function () { return; };
+	var adTargets,
+			infiniteScrollLastAdUnitPath = adUnitPath,
+			infiniteScrollLastAdTargets  = adTargets,
+			adUnitPath = undefineVar(),
+			articleMetaData = articleMetaData || {};
+
+	articleMetaData["2994783"] = {"section":"2020","page":"2020,05,01,health-officials-declare-covid-19-outbreak-at-amazon-facility-north-of-calgary","ad_unit_path":"en.660_news_(cffr_calgary).web"};
+	articleMetaData["2994783"]["PostID"] = "2994783";
+	articleMetaData["2994783"]["Tags"] = [];
+	articleMetaData["2994783"]["Category"] = ["Local","Provincial"];
+	articleMetaData["2994783"]["Author"] = "Jeff_Slack";
+
+	adUnitPath = articleMetaData["2994783"].ad_unit_path;
+	if("undefined" !== typeof adUtility && "undefined" !== typeof adUnitPath && adUnitPath.length > 0) {
+		adUnitPath = "/" + adUtility.networkId + "/" + adUnitPath;
+		delete articleMetaData["2994783"].ad_unit_path;
+	} else {
+		if("undefined" !== typeof adUtility) adUnitPath = undefineVar();
+	}
+	adTargets = function(targets) {
+		var newTargets = articleMetaData["2994783"];
+		if ( "undefined" !== typeof targets ) {
+			newTargets = jQuery.extend(true, {}, articleMetaData["2994783"]);
+			jQuery.each(targets, function(k, v) {
+				newTargets[k] = v;
+			});
+		}
+		return newTargets;
+	};
+
+	if(window.googletag && googletag.pubadsReady) {
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		if ( "function" === typeof googletag.pubads ) {
+			googletag.pubads().clearTargeting("sponsid");
+			googletag.pubads().clearTargeting("page");
+			googletag.pubads().clearTargeting("section");
+		}
+	}
+</script>
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		var evt = new CustomEvent("onArticleLoad", {
+			"detail": articleMetaData["2994783"]
+		});
+		if ( /adUtilityDebug/.test( location.search ) ) window.adUtilityDebug = /adUtilityDebug/.test( location.search ); // infinite scroll updates location.search
+		if ( "undefined" !== typeof window.adUtilityDebug ) console.log(" -- dispatchEvent: event.detail.id: " + evt.detail.PostID);
+		document.body.dispatchEvent(evt);
+	});
+</script>
+            <a name="post-2994783"></a>
+        
+            <div data-post-id="2994783" class="post-id">              
+                <div class="sharing-open top"></div>
+<h1 class="headline" itemprop="headline">Health officials declare COVID-19 outbreak at Amazon facility north of Calgary</h1>
+
+
+<div id="article-meta">
+    <span><img alt='' src='https://secure.gravatar.com/avatar/bf096722763b1ac177e2612165291b62?s=90&#038;d=blank&#038;r=g' srcset='https://secure.gravatar.com/avatar/bf096722763b1ac177e2612165291b62?s=180&#038;d=blank&#038;r=g 2x' class='avatar avatar-90 photo' height='90' width='90' /></span>        <p class="author" itemprop="author"><span>by </span><a href='https://www.660citynews.com/author/jeffslack'>Jeff Slack</a></p>
+    <p class="posted" itemprop="datePublished">Posted May 1, 2020 6:01 pm MDT</p>
+    <p class="last-updated" itemprop="dateModified">Last Updated May 2, 2020 at 11:21 am MDT</p>            <script> if ((typeof window.addthis !== 'undefined') && (addthis.layers.refresh)) { addthis.layers.refresh(); } </script> 
+        <div class="addthis_inline_share_toolbox_408a" data-url="https://www.660citynews.com/2020/05/01/health-officials-declare-covid-19-outbreak-at-amazon-facility-north-of-calgary/" data-title="Health officials declare COVID-19 outbreak at Amazon facility north of Calgary"></div>
+    </div>
+ 
+            
+                <div itemprop="associatedMedia">
+                                        <span itemscope itemtype="http://schema.org/ImageObject"> 
+                            <img itemprop="contentURL" src="https://www.660citynews.com/wp-content/blogs.dir/sites/8/2020/01/NY112-418_2016_142804.jpg" class="article-image">
+
+                                                        <div class="row">
+                                <div class="col-lg-14 col-md-14 col-sm-14 col-xs-14">
+                                    <div class="image-caption">FILE - This Sept. 6, 2012, file photo, shows the Amazon logo in Santa Monica, Calif. Amazon employees say that the company has threatened to fire some workers for publicly pushing the company to do more to combat climate change. A climate change advocacy group founded by employees said Amazon sent letters to members telling them that they could be fired if they continued to speak out to the press. (AP Photo/Reed Saxon, File)</div> 
+                                </div>
+                                <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+                                    <div class="close-caption"><a onClick="closeCaption('.image-caption', '.close-caption')">
+                                                                            <img title="Close caption" src="https://www.660citynews.com/wp-content/themes/samuel/images/green/caption-icon.png"></a></div>
+                                                                    </div>
+                            </div>
+                                                    </span>
+                                        </div>
+
+                <div class="row" id="main-article">
+    <div class="col-sm-16">
+                    <div id="big-box-mobile-0"></div>
+        
+        <div id="article-body-content" itemprop="articleBody">
+            <p>EDMONTON (660 NEWS) &#8212; Alberta Health Services has declared a COVID-19 outbreak at the Amazon facility in Balzac, just north of Calgary, after five workers tested positive for the disease.</p>
+<p>&#8220;It is not yet clear if all five are linked with a common exposure,&#8221; Dr. Deena Hinshaw, Alberta&#8217;s Chief Medical Officer of Health, announced at Friday&#8217;s daily update.</p>
+<p>&#8220;Additional measures have been put in place to prevent spread,&#8221; she added.</p>
+<blockquote class="twitter-tweet" data-partner="tweetdeck">
+<p dir="ltr" lang="en">NEW: An outbreak has been declared at the Amazon facility in Balzac</p>
+<p>— Jeff Slack (@Jeffslack660) <a href="https://twitter.com/Jeffslack660/status/1256341003507601408?ref_src=twsrc%5Etfw">May 1, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Two positive cases of the virus were found at Calgary Alpha House. A rapid response team is now supporting this location to put outbreak measures in place.</p>
+<p>Numbers in care homes and meatpacking plants in Alberta continue to climb.</p>
+<p>Health officials announced 921 COVID-19 cases have been found in workers at the High River Cargill facility, 390 confirmed cases at the JBS plant in Brooks, and 580 cases in outbreaks in continuing care facilities across the province.</p>
+<p>Hinshaw commended the work being done by frontline public health professionals as they work around the clock to contain the spread.</p>
+<p>&#8220;They are working quickly to contain the spread, providing public health guidance to employers and operators, testing anyone who may have been exposed and supporting those who have become ill.&#8221;</p>
+<p>Three more people have died due to COVID-19, all of which were in continuing care facilities.</p>
+<p>This brings Alberta&#8217;s death toll to 92. Of those, 59 have been in the Calgary Zone.</p>
+<p>Hinshaw also announced 218 new cases of the virus pushing the total number of illnesses to 5,573.</p>
+<p>There have now been 2,359 recoveries.</p>
+        </div>
+    </div>
+
+    </div>
+<div class="col-lg-16 col-md-16 col-sm-16 sharetags">
+    <div class="article_tags col-lg-8 col-md-8 col-sm-8 col-xs-8">
+            </div>
+
+    <div class="sharing-open bottom col-lg-8 col-md-8 col-sm-8 col-xs-8"></div>
+</div> 
+            </div><!-- / .post-id -->
+
+                         
+            <div class="comments-clear"></div>
+
+             
+
+            
+            <div id="analytics-post-id-2994783-wrapper" data-post-id="2994783"></div>
+        </div><!-- / .single-post-wrapper -->
+
+                </div> <!--/articles-wrapper -->
+
+        <div class="col-lg-1 col-md-*"></div>
+
+        <div class="col-lg-4 col-md-6 hidden-sm hidden-xs nocontent" id="sidebar">
+            <div id="sidebar-inner">
+                
+
+<div id="stickyDivTemplate" style="display: none; border:2px solid green">
+    <div class="sticky" style="top:100px; border:1px solid blue">
+        <div class="box ad ad-box">
+            <div class="ad-container">
+                <div class="adContainerTarget" style="min-height:250px"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    var pausecontent = new Array();
+    var titlecontent = new Array();
+    var arr_post_analytics_fired = new Array();
+
+    pausecontent.push('https://www.660citynews.com/2020/05/01/health-officials-declare-covid-19-outbreak-at-amazon-facility-north-of-calgary/');
+    titlecontent.push('Health officials declare COVID-19 outbreak at Amazon facility north of Calgary');
+    arr_post_analytics_fired.push(new Array('2994783', true));
+</script>
+
+<script>
+                        pausecontent.push('https://www.660citynews.com/2020/05/04/total-covid-19-deaths-in-alberta-pass-100/');
+                titlecontent.push('Total COVID-19 deaths in Alberta pass 100');
+                arr_post_analytics_fired.push(new Array( '2995752', false ));
+                        pausecontent.push('https://www.660citynews.com/2020/05/04/outbreak-confirmed-at-calgary-purolator-distribution-centre/');
+                titlecontent.push('Outbreak confirmed at Calgary Purolator distribution centre');
+                arr_post_analytics_fired.push(new Array( '2995843', false ));
+                        pausecontent.push('https://www.660citynews.com/2020/05/04/sait-announces-30-position-cuts/');
+                titlecontent.push('SAIT announces 30 position cuts');
+                arr_post_analytics_fired.push(new Array( '2995854', false ));
+                        pausecontent.push('https://www.660citynews.com/2020/05/04/cargill-plant-reopens-as-union-continues-to-fight/');
+                titlecontent.push('Cargill meat plant reopens as union continues to fight');
+                arr_post_analytics_fired.push(new Array( '2995435', false ));
+        </script>
+<div class="next-story-native-ad-template" data-template="true" style="display: none;">
+    <div class="progress-sidebar">
+        <div class="wrapper green">
+            <div class="bar">
+                <div class="top-story-roll-native-ad">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="radio-roll">
+	
+<div id="div-on-air" class="hidden-xs">
+    <div id="title">
+                <span>ON AIR RIGHT NOW</span>
+    </div>
+    <div id="ad-large-spons-gp-on-air-0" class="ad-large-spons">
+        <script>
+            adUtility.insertAd("ad-large-spons-gp-on-air-0", { type: adUtility._AD_LARGE_SPONS, adPath: adUnitPath, targeting: adTargets() });
+        </script>
+     </div>
+
+    <div class="inner-row gp-on-air-wrap">
+        <div class="gp-on-air">
+            <div class="speaker-outer">
+                                <a class="speaker listen-live-popup" target="_blank" href="http://player.660news.com" data-an-category="Clicks - Sidebar - On Air Right Now" data-an-action="On Air Right Now" data-an-opt-label="Speaker Icon"></a>
+                <!-- <div class="sound"></div> -->
+            </div>
+            <span id="div-on-air-data-now">--:--</span>
+        </div>
+
+        <div id="div-on-air-data-later">
+            <span>--:--</span>
+        </div>
+    </div>
+
+    <div class="inner-margin-row">
+        <span>Latest COVID-19 Update</span>
+        <div id="covid-update-topic" class="speaker-outer">
+                        <a class="speaker" href="http://pmd.680news.com/podcasts/headlines/covid19update.mp3" data-an-category="Clicks - Sidebar - On Air Right Now" data-an-action="Latest COVID-19 Update" data-an-opt-label="Speaker Icon"></a>
+            <!-- <div class="sound"></div> -->
+        </div>
+    </div>
+        <div class="inner-margin-row">
+        <span>Latest Traffic</span>
+        <div id="second-topic" class="speaker-outer">
+                        <a class="speaker" href="http://pmd.660news.com/podcasts/traffic/660traffic.mp3" data-an-category="Clicks - Sidebar - On Air Right Now" data-an-action="Latest Traffic Report" data-an-opt-label="Speaker Icon"></a>
+            <!-- <div class="sound"></div> -->
+        </div>
+    </div>
+       
+        <div class="inner-margin-row" style="padding-top: 10px;">
+        <span>Latest Business</span>
+        <div id="third-topic" class="speaker-outer">
+                        <a class="speaker" href="http://pmd.660news.com/podcasts/business-reports/660business.mp3" data-an-category="Clicks - Sidebar - On Air Right Now" data-an-action="Latest Business Report" data-an-opt-label="Speaker Icon"></a>
+            <!-- <div class="sound"></div> -->
+        </div>
+    </div>
+    
+</div></div>
+            </div>
+            <div id="sticky_ads_container">
+                <!-- inject ads here -->
+            </div>
+        </div>
+    </div>
+
+</div> <!-- /container -->
+
+</div> <!-- /bg-wrapper -->
+
+<div id="div-botbar">
+	<div class="container">
+		<div class="menu-footer-pages-container"><ul id="nav_ul" class="menu"><li id="menu-item-1907507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1907507"><a href="https://www.660citynews.com/about/">About Us</a></li>
+<li id="menu-item-1907509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1907509"><a href="https://www.660citynews.com/contact/">Contact Us</a></li>
+<li id="menu-item-1907511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1907511"><a href="https://www.660citynews.com/mobile/">Download App</a></li>
+<li id="menu-item-1907513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1907513"><a href="https://www.660citynews.com/advertise-with-us/">Advertise With Us</a></li>
+<li id="menu-item-1907515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1907515"><a href="http://www.rogersmedia.com/privacy/">Privacy Policy</a></li>
+<li id="menu-item-1907517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1907517"><a href="https://youradchoices.ca/">Ad Choices</a></li>
+<li id="menu-item-1907519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1907519"><a href="http://www.rogersmedia.com/terms-of-service/">Terms of Service</a></li>
+<li id="menu-item-2849823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2849823"><a target="_blank" rel="noopener noreferrer" href="https://adsregistry.rogersmedia.com/index_en.html">Political Ads Registry</a></li>
+</ul></div>			<ul id="social-wrapper" class="list-unstyled">
+				<li id="social" class="nav_li hidden-xs">
+					<a href="https://twitter.com/660news" target="_blank">
+						<div id="twitter"></div>
+					</a>
+					<a href="https://www.facebook.com/660NEWS/" target="_blank">
+						<div id="facebook"></div>
+					</a>
+				</li>
+			</ul>
+				<div id="social-mobile" class="hidden-lg hidden-md hidden-sm">
+			<div class="row">
+				<a href="https://twitter.com/660news" target="_blank">
+					<div id="twitter"></div>
+				</a>
+				<a href="https://www.facebook.com/660NEWS/" target="_blank">
+					<div id="facebook"></div>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="div-footer">
+  <div class="container">
+      <div id="logo" class="col-lg-8 col-md-8 col-sm-9">
+        <div id="logo_img"><img src="https://static.rogersdigitalmedia.com/web_footers/images/common_footers/comscore_logos/white_BG/comscoreRogersMediaRadioCalgary.png"></div>
+      </div>
+      <div id="inner" class="col-lg-8 col-md-8 col-sm-7">
+        <span id="copyright">535 7th Ave SW Calgary, Alberta T2P 0Y4 &copy; 2006-2020 Rogers Media. All rights reserved.</span>
+      </div>
+  </div>
+</div>
+
+</div> <!-- /global-footer -->
+<div style="display:none;" id="forgotPasswordSuccess">
+	<div class="capture_header">
+		<h1>Create a new password</h1>
+	</div>
+		<p>We've sent an email with instructions to create a new password. Your existing password has not been changed.</p>
+	<div class="capture_footer capture_btn_full">
+		<a href="#" class="ump_janrain_modal_close capture_btn capture_primary">Close</a>
+	</div>
+</div>
+<div style="display:none;" id="forgotPassword">
+	<div class="capture_header">
+		<h1>Create a new password</h1>
+	</div>
+	<h2>We'll send you a link to create a new password.</h2>
+	{* #forgotPasswordForm *}
+		<label class="sr-only" for="traditionalSignIn_emailAddress" aria-label="Email Address"></label>
+		{* traditionalSignIn_emailAddress *}
+
+		<div class="capture_smallPlusBig">
+			{* backButton *}
+			{* forgotPassword_sendButton *}
+		</div>
+	{* /forgotPasswordForm *}
+</div>
+<div style="display:none;" id="legalAcceptances">
+	<div class="capture_header">
+		<h1>Almost Done!</h1>
+	</div>
+	{* #legalAcceptancePostLoginForm_radio *}
+		{* name *}
+		{* email *}
+		{* postalCode *}
+		{* gender *}
+		{* birthdate_required *}
+	<p>
+	
+<div id="newsletters-lists-registration">
+	<p class="introductory">Subscribe to 660 NEWS newsletters</p>
+
+	<ul class="ump-subscription-lists">
+			<li class="list">
+			<input type="checkbox" name="ump-subscription-list-id[]" class="ump-subscription-list-id" value="radio:cffr:weekly" id="ump-subscription-list-id-0">
+			<input type="hidden" name="ump-subscription-list-name[]" class="ump-subscription-list-name" value="Weekly Newsletter">
+			<label for="ump-subscription-list-id-0">
+				<h3 class="list-title">Weekly Newsletter</h3>
+				<span class="list-description">Weekly update for Weather, traffic, Entertainment,  and win or puchase tickets for events</span>
+			</label>
+		</li>
+			<li class="list">
+			<input type="checkbox" name="ump-subscription-list-id[]" class="ump-subscription-list-id" value="radio:cffr:promo" id="ump-subscription-list-id-1">
+			<input type="hidden" name="ump-subscription-list-name[]" class="ump-subscription-list-name" value="Promotions">
+			<label for="ump-subscription-list-id-1">
+				<h3 class="list-title">Promotions</h3>
+				<span class="list-description">Send me promotions, surveys and info from 660 NEWS and other Rogers brands.</span>
+			</label>
+		</li>
+			<li class="list">
+			<input type="checkbox" name="ump-subscription-list-id[]" class="ump-subscription-list-id" value="radio:cffr:birthday" id="ump-subscription-list-id-2">
+			<input type="hidden" name="ump-subscription-list-name[]" class="ump-subscription-list-name" value="It&#039;s Your Birthday!">
+			<label for="ump-subscription-list-id-2">
+				<h3 class="list-title">It&#039;s Your Birthday!</h3>
+				<span class="list-description">Send me a special email on my birthday.</span>
+			</label>
+		</li>
+			<li class="list">
+			<input type="checkbox" name="ump-subscription-list-id[]" class="ump-subscription-list-id" value="radio:cffr:thirdparty" id="ump-subscription-list-id-3">
+			<input type="hidden" name="ump-subscription-list-name[]" class="ump-subscription-list-name" value="From Our Partners">
+			<label for="ump-subscription-list-id-3">
+				<h3 class="list-title">From Our Partners</h3>
+				<span class="list-description">Send me alerts, event notifications and special deals or information from our carefully screened partners that may be of interest to me.</span>
+			</label>
+		</li>
+			<li class="list">
+			<input type="checkbox" name="ump-subscription-list-id[]" class="ump-subscription-list-id" value="radio:cffr:alert" id="ump-subscription-list-id-4">
+			<input type="hidden" name="ump-subscription-list-name[]" class="ump-subscription-list-name" value="Breaking News Alerts">
+			<label for="ump-subscription-list-id-4">
+				<h3 class="list-title">Breaking News Alerts</h3>
+				<span class="list-description">Be the first to know! Get breaking news, weather and traffic stories in your inbox 7 days a week, 24 hours a day.</span>
+			</label>
+		</li>
+		</ul>
+	<p>I understand that I can withdraw my consent at any time</p>
+</div><!-- / newsletters-lists-registration -->
+	<div class="ump-loading-newsletter-message capture_processing">Loading newsletters</div>
+	By clicking Confirm Account, I agree to the <a href="http://www.rogersmedia.com/terms-of-service" target="_blank">terms of service</a> and <a href="http://www.rogersmedia.com/privacy" target="_blank">privacy policy</a> of Rogers Media.	</p>
+	<div class="capture_footer">
+		{* backButton *}
+		{* legalAcceptanceAcceptButton *}
+	</div>
+	{* /legalAcceptancePostLoginForm_radio *}
+</div>
+<div style="display:none;" id="mergeAccounts">
+	{* mergeAccounts *}
+</div>
+<div style="display: none;" id="publicProfileModal">
+	<div class="capture_header">
+		<h1>My profile</h1>
+	</div>
+	<div class="capture_content">
+		<div class="capture_profile_pic">
+			<div id="profile_pic" class="capture_default">
+				{* profilePhotoCustom *}
+				<span class="mask"></span>
+			</div>
+		</div>
+		<div class="capture_profile_details">
+			<p>{* public_profileBlurb *}</p>
+			<div>
+				<label>Display Name:</label>
+				<div>{* public_displayName *}</div>
+			</div>
+			{* public_name *}
+			{* public_gender *}
+			{* public_birthdate *}
+			{* public_emailAddress *}
+			{* public_address *}
+			{* public_phoneNumber *}
+		</div>
+	</div>
+
+	<div class="capture_footer">
+		<a href="#" class="ump_janrain_modal_close capture_btn capture_primary">Close</a>
+	</div>
+</div>
+<div style="display:none;" id="registrationNewVerification">
+	<div class="capture_header">
+		<h1>Thank you<br />for signing up!</h1>
+	</div>
+			<div class="capture_processing">Updating your profile data...</div>
+		<div id="successMessageSignup" style="display:none;"><p>You have activated your account, please feel free to browse our exclusive contests, videos and content.</p></div>
+		<div id="successMessageMigrated" style="display:none;"><p>You have activated your account, please feel free to browse our exclusive contests, videos and content.</p></div>
+		<div id="errorMessage" style="display:none; color:#ed2653;"><p>An error has occurred while trying to update your details. Please <a href="">contact us</a>.</p></div>
+		<div class="capture_footer capture_btn_full">
+		<a href="#" class="ump_janrain_modal_close capture_btn capture_primary" style="display:none;">Close</a>
+	</div>
+	
+</div>
+<div style="display:none;" id="returnSocial">
+	<div class="capture_header">
+		<h1>Sign In</h1>
+	</div>
+	<div class="capture_signin">
+		<h2 class="contains-name">Welcome back, <strong>{* welcomeName *}</strong>!</h2>
+		{* loginWidget *}
+
+		<div class="capture_separator capture_separator_expandVertical">
+			<span class="capture_separator_text capture_separator_text_addCircle">Or</span>
+		</div>
+
+		<div class="capture_centerText switchLink"><a href="#" data-cancelcapturereturnexperience="true">Use another account</a></div>
+	</div>
+</div>
+<div style="display:none;" id="returnTraditional">
+	<div class="capture_header">
+		<h1>Sign In</h1>
+	</div>
+
+	<h2 class="contains-name">Welcome back, <span id="traditionalWelcomeName"></span>!</h2>
+
+	<div class="capture_backgroundColor">
+		{* #userInformationForm *}
+			<label class="sr-only" for="traditionalSignIn_emailAddress" aria-label="Email Address"></label>
+			{* traditionalSignIn_emailAddress *}
+			<label class="sr-only" for="traditionalSignIn_password" aria-label="Password"></label>
+			{* traditionalSignIn_password *}
+			<div class="capture_form_item">
+				<a href="#" id="umpv2ForgotPassword" data-capturescreen="forgotPassword">Forgot your password?</a>
+			</div>
+			<div class="capture_form_item capture_btn_full">
+				{* traditionalSignIn_signInButton *}
+			</div>
+		{* /userInformationForm *}
+
+		<div class="capture_separator capture_separator_expandVertical">
+			<span class="capture_separator_text capture_separator_text_addCircle">Or</span>
+		</div>
+
+		<div class="capture_centerText switchLink">
+			<a href="#" data-cancelcapturereturnexperience="true">Use another account</a>
+		</div>
+	</div>
+</div>
+<div style="display:none;" id="socialRegistration">
+	<div class="capture_header">
+		<h1>Almost Done!</h1>
+	</div>
+	<h2>Please confirm the information below before signing up.</h2>
+	{* #socialRegistrationForm_radio_2 *}
+		{* socialRegistration_firstName *}
+		{* socialRegistration_lastName *}
+		{* socialRegistration_emailAddress *}
+		{* socialRegistration_displayName *}
+		{* socialRegistration_postalCode *}
+		{* socialRegistration_gender *}
+		{* socialRegistration_birthdate_required *}
+
+		
+<div id="newsletters-lists-registration">
+	<p class="introductory">Subscribe to 660 NEWS newsletters</p>
+
+	<ul class="ump-subscription-lists">
+			<li class="list">
+			<input type="checkbox" name="ump-subscription-list-id[]" class="ump-subscription-list-id" value="radio:cffr:weekly" id="ump-subscription-list-id-0">
+			<input type="hidden" name="ump-subscription-list-name[]" class="ump-subscription-list-name" value="Weekly Newsletter">
+			<label for="ump-subscription-list-id-0">
+				<h3 class="list-title">Weekly Newsletter</h3>
+				<span class="list-description">Weekly update for Weather, traffic, Entertainment,  and win or puchase tickets for events</span>
+			</label>
+		</li>
+			<li class="list">
+			<input type="checkbox" name="ump-subscription-list-id[]" class="ump-subscription-list-id" value="radio:cffr:promo" id="ump-subscription-list-id-1">
+			<input type="hidden" name="ump-subscription-list-name[]" class="ump-subscription-list-name" value="Promotions">
+			<label for="ump-subscription-list-id-1">
+				<h3 class="list-title">Promotions</h3>
+				<span class="list-description">Send me promotions, surveys and info from 660 NEWS and other Rogers brands.</span>
+			</label>
+		</li>
+			<li class="list">
+			<input type="checkbox" name="ump-subscription-list-id[]" class="ump-subscription-list-id" value="radio:cffr:birthday" id="ump-subscription-list-id-2">
+			<input type="hidden" name="ump-subscription-list-name[]" class="ump-subscription-list-name" value="It&#039;s Your Birthday!">
+			<label for="ump-subscription-list-id-2">
+				<h3 class="list-title">It&#039;s Your Birthday!</h3>
+				<span class="list-description">Send me a special email on my birthday.</span>
+			</label>
+		</li>
+			<li class="list">
+			<input type="checkbox" name="ump-subscription-list-id[]" class="ump-subscription-list-id" value="radio:cffr:thirdparty" id="ump-subscription-list-id-3">
+			<input type="hidden" name="ump-subscription-list-name[]" class="ump-subscription-list-name" value="From Our Partners">
+			<label for="ump-subscription-list-id-3">
+				<h3 class="list-title">From Our Partners</h3>
+				<span class="list-description">Send me alerts, event notifications and special deals or information from our carefully screened partners that may be of interest to me.</span>
+			</label>
+		</li>
+			<li class="list">
+			<input type="checkbox" name="ump-subscription-list-id[]" class="ump-subscription-list-id" value="radio:cffr:alert" id="ump-subscription-list-id-4">
+			<input type="hidden" name="ump-subscription-list-name[]" class="ump-subscription-list-name" value="Breaking News Alerts">
+			<label for="ump-subscription-list-id-4">
+				<h3 class="list-title">Breaking News Alerts</h3>
+				<span class="list-description">Be the first to know! Get breaking news, weather and traffic stories in your inbox 7 days a week, 24 hours a day.</span>
+			</label>
+		</li>
+		</ul>
+	<p>I understand that I can withdraw my consent at any time</p>
+</div><!-- / newsletters-lists-registration -->
+		<input type="checkbox" id="social_termsAndConditions" name="termsAndConditions" value="">
+		By checking this box, I agree to the <a href="http://www.rogersmedia.com/terms-of-service" target="_blank">terms of service</a> and <a href="http://www.rogersmedia.com/privacy" target="_blank">privacy policy</a> of Rogers Media.		<div class="capture_smallPlusBig">
+			{* backButton *}
+						<input type="submit" name="socialRegistration_signInButton" class="capture_socialRegistration_signInButton capture_btn capture_primary" value="Create Account" data-capturefield="socialRegistration_signInButton" id="capture_socialRegistration_socialRegistration_signInButton">
+		</div>
+	{* /socialRegistrationForm_radio_2 *}
+</div>
+<div style="display:none;" id="traditionalAuthenticateMerge">
+	<div class="capture_header">
+		<h1>Sign in to complete account merge</h1>
+	</div>
+	<div class="capture_signin">
+		{* #tradAuthenticateMergeForm *}
+			<label class="sr-only" for="traditionalSignIn_emailAddress" aria-label="Email Address"></label>
+			{* traditionalSignIn_emailAddress *}
+			{* mergePassword *}
+			<div class="capture_smallPlusBig">
+				{* backButton *}
+				{* traditionalSignIn_signInButton *}
+			</div>
+		 {* /tradAuthenticateMergeForm *}
+	</div>
+</div>
+<div style="display:none;" id="traditionalRegistration">
+	<div class="capture_header">
+		<h1>Almost Done!</h1>
+	</div>
+	<p class="capture_emphasize">Please confirm the information below before signing up.</p>
+		{* #registrationForm_radio_2 *}
+		{* traditionalRegistration_firstName *}
+		{* traditionalRegistration_lastName *}
+		{* traditionalRegistration_emailAddress *}
+		{* traditionalRegistration_displayName *}
+		{* traditionalRegistration_password *}
+		{* traditionalRegistration_passwordConfirm *}
+		{* traditionalRegistration_postalCode *}
+		{* traditionalRegistration_gender *}
+		{* traditionalRegistration_birthdate_required *}
+		
+<div id="newsletters-lists-registration">
+	<p class="introductory">Subscribe to 660 NEWS newsletters</p>
+
+	<ul class="ump-subscription-lists">
+			<li class="list">
+			<input type="checkbox" name="ump-subscription-list-id[]" class="ump-subscription-list-id" value="radio:cffr:weekly" id="ump-subscription-list-id-0">
+			<input type="hidden" name="ump-subscription-list-name[]" class="ump-subscription-list-name" value="Weekly Newsletter">
+			<label for="ump-subscription-list-id-0">
+				<h3 class="list-title">Weekly Newsletter</h3>
+				<span class="list-description">Weekly update for Weather, traffic, Entertainment,  and win or puchase tickets for events</span>
+			</label>
+		</li>
+			<li class="list">
+			<input type="checkbox" name="ump-subscription-list-id[]" class="ump-subscription-list-id" value="radio:cffr:promo" id="ump-subscription-list-id-1">
+			<input type="hidden" name="ump-subscription-list-name[]" class="ump-subscription-list-name" value="Promotions">
+			<label for="ump-subscription-list-id-1">
+				<h3 class="list-title">Promotions</h3>
+				<span class="list-description">Send me promotions, surveys and info from 660 NEWS and other Rogers brands.</span>
+			</label>
+		</li>
+			<li class="list">
+			<input type="checkbox" name="ump-subscription-list-id[]" class="ump-subscription-list-id" value="radio:cffr:birthday" id="ump-subscription-list-id-2">
+			<input type="hidden" name="ump-subscription-list-name[]" class="ump-subscription-list-name" value="It&#039;s Your Birthday!">
+			<label for="ump-subscription-list-id-2">
+				<h3 class="list-title">It&#039;s Your Birthday!</h3>
+				<span class="list-description">Send me a special email on my birthday.</span>
+			</label>
+		</li>
+			<li class="list">
+			<input type="checkbox" name="ump-subscription-list-id[]" class="ump-subscription-list-id" value="radio:cffr:thirdparty" id="ump-subscription-list-id-3">
+			<input type="hidden" name="ump-subscription-list-name[]" class="ump-subscription-list-name" value="From Our Partners">
+			<label for="ump-subscription-list-id-3">
+				<h3 class="list-title">From Our Partners</h3>
+				<span class="list-description">Send me alerts, event notifications and special deals or information from our carefully screened partners that may be of interest to me.</span>
+			</label>
+		</li>
+			<li class="list">
+			<input type="checkbox" name="ump-subscription-list-id[]" class="ump-subscription-list-id" value="radio:cffr:alert" id="ump-subscription-list-id-4">
+			<input type="hidden" name="ump-subscription-list-name[]" class="ump-subscription-list-name" value="Breaking News Alerts">
+			<label for="ump-subscription-list-id-4">
+				<h3 class="list-title">Breaking News Alerts</h3>
+				<span class="list-description">Be the first to know! Get breaking news, weather and traffic stories in your inbox 7 days a week, 24 hours a day.</span>
+			</label>
+		</li>
+		</ul>
+	<p>I understand that I can withdraw my consent at any time</p>
+</div><!-- / newsletters-lists-registration -->
+		<p class="capture_note">
+			<input type="checkbox" id="traditional_termsAndConditions" name="termsAndConditions" value="">
+			By checking this box, I agree to the <a href="http://www.rogersmedia.com/terms-of-service" target="_blank">terms of service</a> and <a href="http://www.rogersmedia.com/privacy" target="_blank">privacy policy</a> of Rogers Media.		</p>
+		<div class="capture_smallPlusBig">
+			{* backButton *}
+			{* createAccountButton *}
+		</div>
+	{* /registrationForm_radio_2 *}
+</div>
+<div style="display:none;" id="resendVerificationSuccess">
+	<div class="capture_header">
+		<h1>Your Verification Email Has Been Sent</h1>
+	</div>
+	<div class="hr"></div>
+	<h6>Check your email for a link to reset your password.</h6>
+	<div class="capture_footer capture_btn_full">
+		<a href="#" data-capturescreen="signIn" class="capture_btn capture_primary">Sign in</a>
+	</div>
+</div>
+<div style="display:none;" id="resetPasswordRequestCodeSuccess">
+	<div class="capture_header">
+		<h1>Create a new password</h1>
+	</div>
+		<h6>We've sent an email with instructions to create a new password. Your existing password has not been changed.</h6>
+	<div class="capture_footer capture_btn_full">
+		<a href="#" class="ump_janrain_modal_close capture_btn capture_primary">Close</a>
+	</div>
+</div>
+<div style="display:none;" id="resetPasswordRequestCode">
+	<div class="capture_header">
+		<h1>Create a new password</h1>
+	</div>
+	<p>We didn't recognize that password reset code. Enter your email address to get a new one.</p>
+	{* #resetPasswordForm *}
+		<label class="sr-only" for="traditionalSignIn_emailAddress" aria-label="Email Address"></label>
+		{* traditionalSignIn_emailAddress *}
+		<div class="capture_footer capture_btn_full">
+			{* forgotPassword_sendButton *}
+		</div>
+	{* /resetPasswordForm *}
+</div>
+<div style="display:none;" id="resetPasswordSuccess">
+	<div class="capture_header">
+		<h1>Your password has been changed</h1>
+	</div>
+	<h6>Password has been successfully updated.</h6>
+	<div class="capture_footer capture_btn_full">
+		<a href="https://www.660citynews.com" class="capture_btn capture_primary">OK</a>
+	</div>
+</div>
+<div style="display:none;" id="resetPassword">
+	<div class="capture_header">
+		<h1>Change password</h1>
+	</div>
+	{* newPasswordForm *}
+		{* newpassword *}
+		{* newpasswordConfirm *}
+		<div class="capture_footer capture_btn_full">
+			{* submitButton *}
+		</div>
+	{* /newPasswordForm *}
+</div>
+<div style="display:none;" id="verifyEmailSuccess">
+	<div class="capture_header">
+		<h1>You did it!</h1>
+	</div>
+	<h6>Thank you for verifying your email address.</h6>
+	<div class="capture_footer capture_btn_full">
+		<a href="https://www.660citynews.com" class="capture_btn capture_primary">OK</a>
+	</div>
+</div>
+<div style="display:none;" id="verifyEmail">
+	<div class="capture_header">
+		<h1>Resend Email Verification</h1>
+	</div>
+	<p>Sorry we could not verify that email address. Enter your email below and we'll send you another email.</p>
+	{* #resendVerificationForm *}
+		<label class="sr-only" for="traditionalSignIn_emailAddress" aria-label="Email Address"></label>
+		{* traditionalSignIn_emailAddress *}
+		<div class="capture_footer capture_btn_full">
+			{* submitButton *}
+		</div>
+	 {* /resendVerificationForm *}
+</div>
+<div style="display:none;" id="signIn" class="has-ump-sign-in-custom-message has-ump-sign-in-custom-message-content-body">
+	<div class="capture_header">
+		<h1>Sign In / Sign Up</h1>
+	</div>
+	
+	<div class="capture_backgroundColor">
+		<div class="capture_signin">
+			
+			<h2 class="preemail-header">With your Rogers Media profile</h2>
+
+							<div class="ump-sign-in-custom-message">
+					<div class="ump-sign-in-custom-message-content-teaser">
+																			<a tabindex="0" class="toggle-ump-sign-in-custom-message-content-body">?</a>
+											</div>
+											<div class="ump-sign-in-custom-message-content-body">
+							You may have created a profile with another <a href="http://www.rogersmedia.com/our-properties/" target="_blank">Rogers Media brand</a> that can be used to log into this site.						</div>
+									</div>
+			
+			{* #userInformationForm *}
+				<label class="sr-only" for="traditionalSignIn_emailAddress" aria-label="Email Address"></label>
+				{* traditionalSignIn_emailAddress *}
+				<label class="sr-only" for="traditionalSignIn_password" aria-label="Password"></label>
+				{* traditionalSignIn_password *}
+				<div>
+					<a href="#" id="umpv2ForgotPassword" data-capturescreen="forgotPassword">Forgot your password?</a>
+				</div>
+				<div class="capture_orButtons">
+					{* traditionalSignIn_signInButton *}
+					<div class="or"></div>
+					{* traditionalSignIn_createButton *}
+
+									</div>
+			{* /userInformationForm *}
+		</div>
+
+		<div class="capture_separator">
+			<span class="capture_separator_text">Or</span>
+		</div>
+
+		<div class="capture_signin">
+			<h2 class="secondary-header">With your existing account from</h2>
+			{* loginWidget *} <br />
+		</div>
+
+	</div>
+</div><div style="display: none;" id="umpUnsubscribeModalSuccess" class="modal ump-modal" role="dialog" aria-labelledby="umpUnsubscribeModalSuccessLabel" aria-hidden="true">
+	<div class="ump-modal-dialog modal-dialog modal-sm">
+		<div class="ump-modal-content modal-content janrain-capture-ui">
+
+			<div class="ump-modal-header">
+				<h1 id="umpUnsubscribeModalSuccessLabel">So sorry to see you go!</h1>
+			</div>
+
+			<div class="ump-modal-body">
+							</div>
+
+			<div class="ump-modal-footer">
+				<div class="capture_footer capture_btn_full">
+					<a href="#" class="ump_janrain_modal_close capture_btn capture_primary" data-dismiss="modal">Close</a>
+				</div>
+			</div><!-- /.ump-modal-footer -->
+
+			<a href="#" class="ump-modal-close-button" data-dismiss="modal" style="position: absolute; cursor: pointer; z-index: 1000;">Close</a>
+
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal-dialog -->
+
+</div><!-- /.modal -->
+<div style="display: none;" id="umpUnsubscribeModalError" class="modal ump-modal" role="dialog" aria-labelledby="umpUnsubscribeModalErrorLabel" aria-hidden="true">
+	<div class="ump-modal-dialog modal-dialog modal-sm">
+		<div class="ump-modal-content modal-content janrain-capture-ui">
+
+			<div class="ump-modal-header">
+				<h1 id="umpUnsubscribeModalErrorLabel">Unsubscribe failed</h1>
+			</div>
+
+			<div class="ump-modal-body">
+							</div>
+
+			<div class="ump-modal-footer">
+				<div class="capture_footer capture_btn_full">
+					<a href="#" class="ump_janrain_modal_close capture_btn capture_primary" data-dismiss="modal">Close</a>
+				</div>
+			</div><!-- /.ump-modal-footer -->
+
+			<a href="#" class="ump-modal-close-button" data-dismiss="modal" style="position: absolute; cursor: pointer; z-index: 1000;">Close</a>
+
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal-dialog -->
+
+</div><!-- /.modal -->
+    <script type="text/javascript">
+    !function(n,t,c,e,u){function r(n){try{f=n(u)}catch(n){return h=n,void i(p,n)}i(s,f)}function i(n,t){for(var c=0;c<n.length;c++)d(n[c],t);
+    }function o(n,t){return n&&(f?d(n,f):s.push(n)),t&&(h?d(t,h):p.push(t)),l}function a(n){return o(!1,n)}function d(t,c){
+    n.setTimeout(function(){t(c)},0)}var f,h,s=[],p=[],l={then:o,catch:a,_setup:r};n[e]=l;var v=t.createElement("script");
+    v.src=c,v.async=!0,v.id="_uasdk",v.rel=e,t.head.appendChild(v)}(window,document,'https://aswpsdkus.com/notify/v1/ua-sdk.min.js',
+        'UA', {
+            appKey: 'U75GHXL3QCK_tGIVZXy2FA',
+            token: 'MTpVNzVHSFhMM1FDS190R0lWWlh5MkZBOmhCb0JjbC1KTTRsOUpRWDUzVVJLYU1OXzBUakkxNnJfYUdhWnZERjFnd0E',
+                        websitePushId: 'web.com.rogers.660News',
+                        vapidPublicKey: 'BLQTr9BIgplOGK9vajd2s18ehpJxsEZWbfOE5y_ksgPuYj5pHlCI6HSAZA0A7GIL50gZBad_EdxIwdj-5gViy0U='
+        });
+    </script>
+
+
+        <!-- wpsolr - ajax auto completion nonce -->
+        <input type="hidden" id="wpsolr_autocomplete_nonce"
+               value="83bb30f035">
+
+				<script>
+			if ("undefined" != typeof adUtility) {
+				adUtility.dynamicAds = true;
+  				googletag.cmd.push(adUtility.renderAds);
+			}
+		</script>
+	<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element, as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. PhotoSwipe keeps only 3 slides in DOM to save memory. -->
+        <div class="pswp__container">
+
+            <!-- don't modify these 3 pswp__item elements, data is added later on -->
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+          </div>
+
+        </div>
+
+</div>		<script type="text/javascript">
+			window.bcPlayers = null;
+		</script>
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var exContent = {"root":"https:\/\/www.660citynews.com\/wp-json\/rdm-exclusive","_ajaxnonce":"b978357fa2","_wpnonce":"befa3e16f7"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/plugins/rdm-exclusive-content/dist/js/exContentAjax.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/plugins/rdm-pinned-video/public/js/rdm-pinned-video-public.js?ver=1.2.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _rdmSearchSettings = {"trigger":".search-form-wrapper input[type=\"submit\"], #mobile-search-submit","header":"#topnav-push-sticky-wrapper","maxWidth":"","formActionURL":"https:\/\/www.660citynews.com\/","mobileHeader":"#topnav-push-sticky-wrapper","mobileHeaderBreakpoint":"400","forceHeaderClass":".is-sticky"}; var _rdmSearchStrings = {"search":"Search"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/plugins/rdm-solr/dist/js/rdm-solr-form.js?ver=0.1'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/plugins/wpsolr-search-engine/wpsolr/core/js/bootstrap-typeahead.js?ver=20.2'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/plugins/wpsolr-search-engine/wpsolr/core/bower_components/jsurl/url.min.js?ver=20.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wp_localize_script_autocomplete = {"data":{"ajax_url":"https:\/\/www.660citynews.com\/wp-admin\/admin-ajax.php","is_show_url_parameters":true,"is_ajax":false,"SEARCH_PARAMETER_S":"s","SEARCH_PARAMETER_SEARCH":"search","SEARCH_PARAMETER_Q":"wpsolr_q","SEARCH_PARAMETER_FQ":"wpsolr_fq","SEARCH_PARAMETER_SORT":"wpsolr_sort","SEARCH_PARAMETER_PAGE":"wpsolr_page","SORT_CODE_BY_RELEVANCY_DESC":"sort_by_relevancy_desc","wpsolr_autocomplete_selector":".search-field,.rdm-solr-srp__input,.rdm-solr-form__input","wpsolr_autocomplete_action":"wdm_return_solr_rows","wpsolr_autocomplete_nonce_selector":"#wpsolr_autocomplete_nonce","css_ajax_container_page_title":".page-title","css_ajax_container_page_sort":".woocommerce-ordering","css_ajax_container_results":".products,.results-by-facets","css_ajax_container_pagination":"nav.woocommerce-pagination,.paginate_div","css_ajax_container_pagination_page":"a.page-numbers,a.paginate","css_ajax_container_results_count":".woocommerce-result-count,.res_info","ajax_delay_ms":"","redirect_search_home":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/plugins/wpsolr-search-engine/wpsolr/core/js/autocomplete_solr.js?ver=20.2'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/plugins/wpsolr-search-engine/wpsolr/core/js/loadingoverlay/loadingoverlay.min.js?ver=20.2'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/analytics-events-tracking.js?ver=20200505083021'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-includes/js/comment-reply.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/on-air-gp.js?ver=20200505083021'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/soundmanager2-nodebug-jsmin.js?ver=20200505083021'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/inlineplayer.js?ver=20200505083021'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/breaking-news.js?ver=20200505083021'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/listen-live.js?ver=20200505083021'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/jquery.marquee.min.js?ver=20200505083021'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/offcanvas-navbar.js?ver=20200505083021'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bottom_load_vars = {"fb_app_id":"274485752652397","twitter_username":"660News"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/bottom-load.js?ver=20200505083021'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/article-comments.js?ver=20200505083021'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/photoswipe.js?ver=1'></script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/photoswipe-ui-default.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Photoswipe = {"images":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.660citynews.com/wp-content/themes/samuel/javascripts/photoswipe-init.js?ver=1'></script>
+<script type="text/javascript">PinnedVideoWidth = 300,PinnedVideoHeight = 169,PositionVerticalOffset = 55,PositionSideOffset = 35,VerPosition = "bottom",HorPosition = "right",EnableOnMobile = "",enableBCiframe = "yes",enableBCHTML5 = "yes",EnableOnYT = "no"</script>
+<!-- This file should primarily consist of HTML with a little bit of PHP. -->
+<script type='text/javascript'>
+	//////////////////////////////////// DTM Data layer ////////////////////////////////////
+	if (typeof rdm !== 'undefined') {
+		var s_account = 'rogersrmiglobal';
+		rdm.dtm['2994783'] = new RdmDtmDataLayer({
+			account: 'rogersrmiglobal',
+			brand: '660News',
+			tags: '',
+			cmsid: '2994783',
+			wordCount: '260',
+			publishDate: 'May 1, 2020',
+			products: '',
+			pages: '660news : 2020 : 05 : 01 : health officials declare covid-19 outbreak at amazon facility north of calgary',
+			pageURL : 'https://www.660citynews.com/2020/05/01/health-officials-declare-covid-19-outbreak-at-amazon-facility-north-of-calgary/',
+			section: '660news : 2020',
+			subSection: '660news : 2020 : 05',
+			subSection2: '660news : 2020 : 05 : 01',
+			subSection3: '',
+			contentName: 'health officials declare covid-19 outbreak at amazon facility north of calgary',
+			contentType: 'article',
+			authorName: 'jeff slack',
+			vmxC4: '660NEWS',
+			video: {},
+			vmxEnabled: false,
+			complete90percent: false		});
+		rdm.dtm.dl = rdm.dtm['2994783'];
+		// DTM lib footer code, should be put just before body close tag.
+		_satellite.pageBottom();
+	}
+</script>
+
+</body>
+</html>

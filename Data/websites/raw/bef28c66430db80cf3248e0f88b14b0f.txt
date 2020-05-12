@@ -1,0 +1,1543 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<title>
+			&#8216;They Accept Us as We Are;&#8217; Christians Join Forces With Muslim Group Hezbollah to Fight ISIS in Lebanon | The Vineyard of the Saker		</title>
+
+		<!-- Meta Tags -->
+
+		<!-- DCS
+		Making our charset declaration conform with the standards. -->
+		<!-- <meta content="text/html" charset="UTF-8" > -->
+		<meta charset="UTF-8" >
+		<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0">
+		<meta name="description" content="A bird&#039;s eye view of the vineyard">
+		<!-- Favicon -->
+					<link rel="shortcut icon" href="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/static/favicon.ico" type="image/x-icon" />
+				
+		<link rel="alternate" type="application/rss+xml" href="http://thesaker.is/feed/" title="The Vineyard of the Saker latest posts" />
+		<link rel="alternate" type="application/rss+xml" href="http://thesaker.is/comments/feed/" title="The Vineyard of the Saker latest comments" />
+		<link rel="pingback" href="http://thesaker.is/xmlrpc.php" />
+		<title>&#8216;They Accept Us as We Are;&#8217; Christians Join Forces With Muslim Group Hezbollah to Fight ISIS in Lebanon &#8211; The Vineyard of the Saker</title>
+<link rel='dns-prefetch' href='//html5shiv.googlecode.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Vineyard of the Saker &raquo; Feed" href="http://thesaker.is/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Vineyard of the Saker &raquo; Comments Feed" href="http://thesaker.is/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Vineyard of the Saker &raquo; &#8216;They Accept Us as We Are;&#8217; Christians Join Forces With Muslim Group Hezbollah to Fight ISIS in Lebanon Comments Feed" href="http://thesaker.is/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/thesaker.is\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://dxczjjuegupb.cloudfront.net/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='stab-style-css'  href='http://dxczjjuegupb.cloudfront.net/wp-content/plugins/scroll-top-and-bottom/css/style.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-2-css'  href='http://fonts.googleapis.com/css?family=Roboto+Slab&#038;ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='main-style-css'  href='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes/lib/css/style.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='layout-css'  href='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes/lib/css/layout.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='background-css'  href='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes/lib/css/background.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mobile-css'  href='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes/lib/css/mobile.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-css'  href='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes/lib/css/icons.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='lightbox-css'  href='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes/lib/css/lightbox.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='df-width-1024-css'  href='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes/lib/css/1024.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-css'  href='http://thesaker.is/wp-content/themes/yaaburnee-themes/lib/css/fonts.php?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='df-dynamic-css-css'  href='http://thesaker.is/wp-content/themes/yaaburnee-themes/lib/css/dynamic-css.php?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='slb_core-css'  href='http://dxczjjuegupb.cloudfront.net/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes-child/style.css?ver=1512581206' type='text/css' media='all' />
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-content/plugins/scroll-top-and-bottom/js/script.js?ver=5.4.1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://html5shiv.googlecode.com/svn/trunk/html5.js?ver=5.4.1'></script>
+<![endif]-->
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes/lib/js/jquery.flickr.js?ver=5.4.1'></script>
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes/lib/js/jquery.fitvids.js?ver=5.4.1'></script>
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes/lib/js/jquery.ui.js?ver=5.4.1'></script>
+<link rel='https://api.w.org/' href='http://thesaker.is/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thesaker.is/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dxczjjuegupb.cloudfront.net/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='The Saker interviews Michael Hudson about the current economic crisis' href='http://thesaker.is/the-saker-interviews-michael-hudson-about-the-current-economic-crisis/' />
+<link rel='next' title='Ex-Green Beret led failed attempt to oust Venezuela’s Maduro' href='http://thesaker.is/ex-green-beret-led-failed-attempt-to-oust-venezuelas-maduro/' />
+<meta name="generator" content="WordPress 5.4.1" />
+<link rel="canonical" href="http://thesaker.is/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon/" />
+<link rel='shortlink' href='http://thesaker.is/?p=47408' />
+<link rel="alternate" type="application/json+oembed" href="http://thesaker.is/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthesaker.is%2Fthey-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://thesaker.is/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthesaker.is%2Fthey-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon%2F&#038;format=xml" />
+		<style type="text/css" id="wp-custom-css">
+			/*
+	2017-11-14 Nyna Cropas
+	Custom CSS
+*/
+
+/*make sure iframes flex to screen width */
+iframe {
+	max-width: 100%;	
+}
+
+/*adjust Front Page module headers for small screens */
+@media screen and (max-width: 360px) {
+	.home .category-title h3{
+		font-size: 11px;	
+		font-weight: 400;
+	}
+}
+@media screen and (max-width: 580px) {
+	.home .category-title h3{
+		font-size: 12px;	
+	}
+}	
+@media screen and (min-width: 960px) {
+	div.book-ads { 
+		padding: 24px 0;
+		margin: 48px 0;
+		border-top: solid 1px #ccc;
+	}
+	
+/***** Front Page *****/
+/* box-shadow effect for the Analyses sections */ 
+.home div.category-block-news-1, div.category-bookshelf #feature {
+	background-color: rgba(250,240,200,.1);
+	border: 1px solid rgba(250,240,200,1);
+	padding:15px;
+	box-shadow: 0px 0px 8px #707070;
+}
+
+/* make the two Guest Posts modules look like one 
+ * ******************** */
+/* The Below = NORMAL SETTING
+  ** when Special Feature Module is in play, comment out this whole section;
+   And, @media screen and (min-width: 1025px), change nth-child setting to (6)
+************************
+
+.home #primary-left div:nth-child(4) {
+	box-shadow: 0 -3px 3px #707070;
+	border-bottom: none;
+}
+.home #primary-left div:nth-child(6) {
+	margin-top:-3em;
+	box-shadow: 0 4px 3px #707070;
+	border-top: none;
+}
+.home #primary-left div:nth-child(6) .category-title {
+	visibility: hidden;
+	display:none;
+}
+*/
+/* ******************** */
+/* SPECIAL ANNOUNCENMENT MODULE setting
+ : this next section is commented out when Normal setting is active
+*** ALSO: below @media screen and (min-width: 1025px) : change nth-child setting to (8)
+**************************/
+/*get the single post to fill the module width  */
+	
+.home #primary-left div:nth-child(2) .main-post {width: 98%;margin-left: 1%;}
+.home #primary-left div:nth-child(2) .main-post  {margin-bottom:-80px;}
+.home #primary-left div:nth-child(6) {
+	box-shadow: 0 -3px 3px #707070;
+	border-bottom: none;
+}
+.home #primary-left div:nth-child(8) {
+	margin-top:-3em;
+	box-shadow: 0 4px 3px #707070;
+	border-top: none;
+}
+.home #primary-left div:nth-child(8) .category-title {
+	visibility: hidden;
+	display:none;
+}
+
+#attachment_44431.wp-caption {font-size: 80%; background-color:#fff;}
+
+	
+/* force 2nd Guest Post module's list of older posts float to the top of 1st GP module space */
+@media screen and (min-width: 1025px) {
+	#primary-navigation ul li {
+		text-align: center;
+		width: 12.25%;
+	}
+	/* nth-child(8) = special module setting 
+	 * nth-child(6) = normal setting */
+		.home #primary-left div:nth-child(8) ul {
+		margin-top: -430px;
+	}
+	.home div.category-block-news-1 .main-post h2 { 
+		height: 63px;    
+		overflow: hidden;
+	}
+	.home div.category-block-news-1 .main-post p { 	
+		height: 12em;   
+		overflow: hidden;
+	}
+}
+
+	
+/* styling for the book ads at the foot of every single page  */
+	#thebook, #book2, #book3 {
+		width: 50%;
+		float: left;
+		border-top: none !important;
+	}
+	
+	#thebook, #book2, #book3 {		
+		margin-top: 0 !important;
+		padding-top: 0 !important;
+	}
+	#thebook #booktitle {clear: both!important;}
+
+	#thebook #bookimage {
+		margin:6px 0 5px;
+	}
+	
+	#thebook #booktitle,
+	#book2 #book2title,
+	#book3 #book3title{  margin-left: 0;
+	margin: 12px 0;}	
+}
+
+
+/* control appearance on Support & Contact pages */
+.post-32750 a {background-color: transparent;}
+.post-32750 a:hover, .post-32750 a:focus {background-color: transparent;}
+.post-32750 h2,
+.page-id-91 h2 {
+	font-size:1.2em;
+	color: #4a7388;
+	text-transform: uppercase
+}
+.post-32750 h3,
+.page-id-91 h3 {
+	font-size:1.2em;
+	color: #333;
+}
+.post-32750 h4,
+.page-id-91 h4 {
+	font-size:1.1em;
+	color: #4a7388;
+}
+.post-32750 .post-content,
+.page-id-91 .post-content {
+	margin:0 18% 0 9%;
+}
+.post-32750 .donate1,
+.post-32750 .donate1 form,
+.page-id-91 .donate1,
+.page-id-91 .donate1 form {
+	max-width: 300px;
+	text-align: center;
+}
+.post-32750 .donate1 h3,
+.page-id-91 .donate1 h3 {
+	text-align: left;
+}
+.post-32750 .donate1 form,
+.page-id-91 .donate1 form {
+	margin-top: -30px;
+}
+
+/* changes to rules governing color of links, mouse-over effect, and zebra stripe.
+note: .page-id-91=Contact page. */
+.post-content a,
+.tag-list li a,
+h3 > .rsswidget,
+ul > li:nth-child(2n+1) > .rsswidget,
+.page-id-91 .blank-page-container a {
+	background-color: rgba(240,240,230,.7);
+}
+
+#news-rss-cmmts tr a{
+	background: transparent;
+}
+
+.tag-list li a {
+	color: inherit;
+}
+.post-content a{
+	border-bottom: 1px dotted #555;
+}
+ul > li:nth-child(2n) > .rsswidget,
+div#news-rss-cmmts-div p:nth-child(even) {
+		background-color: rgba(240,240,230,.1);
+}
+.category-block-news-4 .main-post:nth-child(2n),
+.category-block-news-5 .main-post:nth-child(2n) {
+			background-color: rgba(240,240,230,.5);
+}
+.comment-content em {
+	color: rgb(68,68,68);	
+}
+
+/* standardize anchor link color and rollovers  */
+a#widget-rss-feed {
+	font-weight: bold; 
+	font-size: 16px; }
+.post-content a:hover,
+#sidebar a:hover,
+a.rsswidget:hover,
+.textwidget a:hover {
+	color: #d62224 !important;
+	background: transparent;
+}
+
+/* TOP MENU */
+    /* make sure the dropdown doesn't slip behind the main menu*/
+#primary-navigation ul {z-index: 0;}
+#top-bar ul.top-navigation ul.sub-menu {z-index:9999 !important;}
+
+
+/* SIDEBAR */
+    /* this first rule is to  remove the arrow for all widget titles => it gets messed up for those running their screen at 150% */
+.widget h3.widget-title:after {
+	display: none;
+}
+.widget h3.widget-title {
+	line-height: 1.4;
+	padding: .5em 0;
+}
+
+#sidebar a,
+a.rsswidget {
+	color: rgb(34, 34, 34);
+}
+
+.widget #orthodoxcalendar a
+{ color: rgb(219, 123, 19); text-align: center;}
+
+.widget #booktitle-ad2 a,
+.widget #book2title-ad1,
+.widget #book3title-ad1{
+	font-size: 16px;
+  color: rgb(219, 123, 19);
+}
+.widget #book2title-ad1,
+.widget #book3title-ad1 {font-weight: 600; margin-top:1em;}
+.widget #bookoffer-ad2 p.product-price{display:none; z-index:-1;}
+.widget p.bookoffer-ad2 {text-align:center; margin-top: -6em; margin-bottom: 2em; font-weight: 600; z-index:999;}
+
+.textwidget .scottbooks:nth-child(2) {
+	border-top:1px solid #aaa;
+	padding-top:24px;
+}
+
+.textwidget .scottbooks {
+	width: 100%;
+	text-align: center;	
+}
+
+.textwidget .scottbooks h2 {
+	font-size: 14px;
+	font-weight: 600;
+}
+.textwidget .scottbooks p {	font-weight: 600;}
+
+.textwidget .scottbooks p.desc {
+	font-size: 13px; 
+	line-height: 1.4;
+	color: rgb(219, 123, 19);
+}
+
+.textwidget .scottbooks img {padding: 0 14% 14px;}
+
+.widget_sp_image-description a,
+.textwidget #booktitle-ad2,
+.textwidget .scottbooks h2,
+.textwidget a#widget-rss-feed,
+aside .widget-20 a,
+aside .widget-21 a,
+#comments .comment-content a,
+#comments .reply a {
+	color: #db7b13 !important;
+}
+
+.textwidget .scottbooks a:hover,
+.textwidget a#widget-rss-feed:hover,
+.widget .widget-popular-posts a:hover,
+#comments .comment-content a:hover,
+#comments .reply a:hover {
+	color: #d62224 !important;
+	background: transparent;
+}
+
+.textwidget .scottbooks a,
+.textwidget #orthodoxcalendar a{
+	font-size: 14px;
+}
+
+#thebook {	
+	margin-top:36px; 
+	padding-top: 14px; 
+	border-top: 1px solid #dedede;
+}
+.post-30824 #thebook {
+	display:none;
+}
+#thebook #booktitle { 
+	color: rgb(51, 138, 183);
+}
+
+/* NEWS RSS FEEDS styling */
+#news-rss-cmmts tr:nth-child(4n+1),#news-rss-cmmts tr:nth-child(4n+2){background-color: rgba(240,240,230,.7);}
+#news-rss-cmmts td {font-size: 11px;}
+
+#rss-search-form input {
+	background-color: rgba(240, 240, 230, 0.5) !important;
+}
+
+.page-template-template-newsrss h1 {
+	margin-left: 10%  !important;
+	color:rgb(51, 138, 183);
+}
+div.rss-item {
+	border-left: 3px solid rgba(240,240,230,0.7);
+	width: 80%; 
+	max-width: 750px; 
+	margin: 0 11%; 
+	clear: both;
+}
+.page-template-template-newsrss footer{
+	margin-top: 48px;
+	
+}	
+div.rss-item a {
+	font-weight: 500; 
+	color: rgb(51, 138, 183);
+  border-bottom: 1px dotted #2C424E;
+}
+div.rss-item a:hover,
+.page-template-template-newsrss h1 a:hover { 
+	color: #d62224;
+}
+
+@media screen and (min-width: 960px) {
+	#primary-left, #primary-right {
+		width: 74%;
+	}
+	#sidebar {
+		width: 23%;
+		padding:0 1%;
+	}
+	/* make Saker Support page sidebar wider to accommodate the FSF form */
+	.page-id-179 #primary-left, 		
+	.page-id-179#primary-right {
+		width: 70%;
+	}
+	.page-id-179 #sidebar {
+		width: 27%;
+	}
+
+/* adjust the search bar for narrower sidebar */
+	.widget-1 .search-form input[type="text"] {width:100%;}
+	.widget-1 .search-form input[type="submit"] {
+		-moz-border-radius: 3px;
+		border-radius: 3px;
+		padding:1px 15px;
+		margin-top:2px;
+	}
+/* adjust the widget titles to fit narrower format */
+	.widget h3.widget-title {
+		font-family: "Arial",sans-serif;
+		font-size: 11.25px;
+		font-weight: 600;
+	}
+}
+
+
+/* force Pokémon-in-Ukraine image to float left at larger screen sizes */
+
+@media screen and (min-width: 450px){
+	.wp-image-34741{
+			float:left;
+			padding-top: 1.1em;
+			padding-bottom: 0;
+			margin-bottom: 0;
+	}	
+}
+/* force blockquote to clear a left-floated 200px image   */
+@media screen and (min-width: 594px) and (max-width: 768px){
+	blockquote.indent-226{
+		margin-left: 226px;
+	}
+}
+@media screen and (min-width: 867px) {
+	blockquote.indent-226{
+		margin-left: 226px;
+	}
+}
+
+/* hide the feature image on Pokémon-in-Ukraine on the single post  */
+
+.post-34767 .image-post {display: none;}
+
+/*control the hotspot colours */
+
+#hotpost {
+    background-color: 	 #33aadd;
+    color: yellow;
+}
+		</style>
+			
+
+	<!-- END head -->
+	</head>
+	
+	<!-- BEGIN body -->
+	<body class="post-template-default single single-post postid-47408 single-format-standard">
+			
+		        <!-- Main wrapper -->
+        <div id="wrapper" class="boxed">
+        		            <!-- Top bar -->
+	            <nav id="top-bar">
+
+	                <div class="inner">
+	                    <a class="click-to-open-menu"><i class="fa fa-align-justify"></i></a>
+						<ul class="top-navigation"><li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-54"><a title="Link to the Homepage of the Vineyard of the Saker" href="http://thesaker.is/">Home</a></li>
+<li id="menu-item-31578" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31578"><a href="http://thesaker.is/category/breaking-articles">Analyses</a></li>
+<li id="menu-item-11165" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent menu-item-11165"><a title="RSS feeds" href="#">RSS</a>
+<ul class="sub-menu">
+	<li id="menu-item-14171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14171"><a title="Link to the RSS Feed of the latest articles on &#8220;The Vineyard of the Saker&#8221;" target="_blank" rel="noopener noreferrer" href="http://thesaker.is/feed/">Article Feed</a></li>
+	<li id="menu-item-14172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14172"><a title="Link to the RSS Feed of the latest comments on &#8220;The Vineyard of the Saker&#8221;" target="_blank" rel="noopener noreferrer" href="http://thesaker.is/comments/feed/">Comment Feed</a></li>
+	<li id="menu-item-35654" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35654"><a href="http://thesaker.is/category/breaking-articles/saker-analyses-interviews/feed/">Only Saker&#8217;s  Authored Articles</a></li>
+	<li id="menu-item-28106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28106"><a href="http://thesaker.is/news-rss-feeds/feed/">Saker Breaking News</a></li>
+</ul>
+</li>
+<li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a title="Link to the Contact page of the Vineyard of the Saker" href="http://thesaker.is/contact-and-donations/">Contact &#038; Donations</a></li>
+<li id="menu-item-33335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33335"><a href="http://thesaker.is/thanks/">Thanks</a></li>
+<li id="menu-item-104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent menu-item-104"><a href="#">Saker Community</a>
+<ul class="sub-menu">
+	<li id="menu-item-105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105"><a title="Link to the French Saker blog" target="_blank" rel="noopener noreferrer" href="http://lesakerfrancophone.fr/">Français</a></li>
+	<li id="menu-item-36327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36327"><a href="http://orthodoxhistory.info/">History of the Orthodox People</a></li>
+	<li id="menu-item-108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108"><a title="Link to the Italian Saker blog" target="_blank" rel="noopener noreferrer" href="http://sakeritalia.it/">Italiano</a></li>
+	<li id="menu-item-109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109"><a title="Link to the Latin American Saker blog" target="_blank" rel="noopener noreferrer" href="http://sakerlatam.es/">LatinAmerica</a></li>
+	<li id="menu-item-403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-403"><a title="Link to the old Saker blog on blogspot" target="_blank" rel="noopener noreferrer" href="http://vineyardsaker.blogspot.com/">old blog at blogspot</a></li>
+	<li id="menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106"><a title="Link to the Russian Saker blog" target="_blank" rel="noopener noreferrer" href="http://rusaker.net">Русский</a></li>
+	<li id="menu-item-36325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36325"><a href="https://www.youtube.com/channel/UCgh-2Oe7nK5lp_H3f0SQ89Q">Saker Community translations</a></li>
+	<li id="menu-item-36326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36326"><a href="https://saker.community/">Saker Community Cooperative</a></li>
+	<li id="menu-item-16261" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16261"><a href="http://stepskisoko.com/">Србија</a></li>
+</ul>
+</li>
+<li id="menu-item-14304" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent menu-item-14304"><a href="#">News Sources</a>
+<ul class="sub-menu">
+	<li id="menu-item-35232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35232"><a href="http://thesaker.is/news-sources">News Summary</a></li>
+	<li id="menu-item-41757" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41757"><a href="http://anna-news.info/category/news/news-in-english/">Anna-news in English</a></li>
+	<li id="menu-item-42882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42882"><a href="https://areyouayellowvest.com/">Are You a Yellow Vest</a></li>
+	<li id="menu-item-26835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26835"><a href="http://cluborlov.blogspot.com/">Dmitri Orlov</a></li>
+	<li id="menu-item-21007" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21007"><a title="Link to Greanville Post" target="_blank" rel="noopener noreferrer" href="http://www.greanvillepost.com">Greanville Post</a></li>
+	<li id="menu-item-35036" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35036"><a href="https://journal-neo.org">New Eastern Outlook</a></li>
+	<li id="menu-item-35129" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35129"><a href="https://en.news-front.info/">NewFront</a></li>
+	<li id="menu-item-14307" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14307"><a title="Link to website &#8220;Novorossia Today&#8221;" target="_blank" rel="noopener noreferrer" href="http://novorossia.today/">Novorussia Today</a></li>
+	<li id="menu-item-15492" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15492"><a title="Oriental Review" target="_blank" rel="noopener noreferrer" href="http://orientalreview.org/">Oriental Review</a></li>
+	<li id="menu-item-16334" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16334"><a title="link to &#8220;English Pravda&#8221;" target="_blank" rel="noopener noreferrer" href="http://english.pravda.ru/">Pravda &#8230; English Version</a></li>
+	<li id="menu-item-43335" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43335"><a href="http://www.reissinstitute.org/en/category/home/">Reiss Institute</a></li>
+	<li id="menu-item-37425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37425"><a href="http://smoothiex12.blogspot.com/">Reminiscence of the Future&#8230;</a></li>
+	<li id="menu-item-34358" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34358"><a href="https://en.riss.ru/">RISS</a></li>
+	<li id="menu-item-21005" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21005"><a title="Link to Russian Spring" href="http://rusvesna.su/english">Russian Spring</a></li>
+	<li id="menu-item-14305" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14305"><a title="Link to website &#8220;Russia Today&#8221;" target="_blank" rel="noopener noreferrer" href="http://rt.com/">Russia Today</a></li>
+	<li id="menu-item-34228" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34228"><a href="https://scotthumor.wordpress.com/">Scott Humor</a></li>
+	<li id="menu-item-21614" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21614"><a title="link to solari blog" href="http://solari.com/blog/">Solari Report</a></li>
+	<li id="menu-item-14483" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14483"><a title="Link to website South Front" target="_blank" rel="noopener noreferrer" href="http://southfront.org/">South Front</a></li>
+	<li id="menu-item-14306" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14306"><a title="Link to website &#8220;Sputnik International&#8221;" target="_blank" rel="noopener noreferrer" href="http://sputniknews.com/">Sputnik News</a></li>
+	<li id="menu-item-23217" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23217"><a title="link to dninews.com" target="_blank" rel="noopener noreferrer" href="http://www.stalkerzone.org/">The Stalker Zone</a></li>
+	<li id="menu-item-15100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15100"><a target="_blank" rel="noopener noreferrer" href="http://www.strategic-culture.org/">Strategic Culture Foundation</a></li>
+	<li id="menu-item-14309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14309"><a title="Link to website &#8220;TASS Russia News Agency&#8221;" target="_blank" rel="noopener noreferrer" href="http://tass.ru/en">TASS Russia News Agency</a></li>
+	<li id="menu-item-47441" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47441"><a href="https://thenewkremlinstooge.wordpress.com">The New Kremlin Stooge</a></li>
+	<li id="menu-item-21006" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21006"><a title="Link to Ron Unz review" target="_blank" rel="noopener noreferrer" href="http://www.unz.com">Unz Review</a></li>
+	<li id="menu-item-14308" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14308"><a title="Link to website &#8220;Voice of Sevastopol&#8221;" target="_blank" rel="noopener noreferrer" href="http://en.voicesevas.ru/">Voice of Sevastopol</a></li>
+</ul>
+</li>
+</ul>						
+	                </div>
+	            </nav>
+            
+            <!-- Header -->
+            <header id="header" class="normal container">
+            	<div id="logo">
+				     
+						<a href="http://thesaker.is">
+							<img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/static/banner_iceland.jpg" alt="The Vineyard of the Saker">
+						</a>  
+									</div>
+				            </header>
+
+            <!-- Primary navigation -->
+            <nav id="primary-navigation" class="light">
+                <div class="inner">
+                    <a class="click-to-open-menu"><i class="fa fa-align-justify"></i></a>
+					<ul class="primary-navigation"><li id="menu-item-21583" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent"><span style="background-color: #F5941F"></span><a title="AllNews" href="http://thesaker.is/latest-articles/">All News<br /><span class="sub"></span></a></li>
+<li id="menu-item-21044" class="menu-item menu-item-type-taxonomy menu-item-object-category"><span style="background-color: #517990"></span><a title="link to war news" href="http://thesaker.is/category/sount-front-news/">South Front<br /><span class="sub">2020-04-24</span></a></li>
+<li id="menu-item-21049" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent"><span style="background-color: #568098"></span><a href="http://thesaker.is/category/watch-list/">Watch<br /><span class="sub">2020-05-03</span></a></li>
+<li id="menu-item-21048" class="menu-item menu-item-type-taxonomy menu-item-object-category"><span style="background-color: #436370"></span><a title="Link to scotts corner" href="http://thesaker.is/category/scotts-corner/">Scotts<br /><span class="sub">2018-11-22</span></a></li>
+<li id="menu-item-21047" class="menu-item menu-item-type-taxonomy menu-item-object-category"><span style="background-color: #436375"></span><a title="link to sandbox" href="http://thesaker.is/category/sandbox-remarks/">Sandbox<br /><span class="sub">2020-04-26</span></a></li>
+<li id="menu-item-21045" class="menu-item menu-item-type-taxonomy menu-item-object-category"><span style="background-color: #08353a"></span><a title="link to commenter-corner" href="http://thesaker.is/category/commenter-corner/">Select Cmmt<br /><span class="sub">2020-02-11</span></a></li>
+<li id="menu-item-21046" class="menu-item menu-item-type-taxonomy menu-item-object-category"><span style="background-color: #2d424e"></span><a title="link to moveable feast" href="http://thesaker.is/category/moveable-feast-cafe/"ID='hotpost'>Cafe<br /><span class="sub">2020-05-03</span></a></li>
+<li id="menu-item-28089" class="menu-item menu-item-type-custom menu-item-object-custom"><span style="background-color: #6C8EA1"></span><a href="http://thesaker.is/news-rss-feeds">Non MSM News<br /><span class="sub"></span></a></li>
+</ul>                </div>
+            </nav>
+                        	<div class="container top-wrapp-holder">
+            				            			            	<!-- DSC
+		            	Changed the text "Breaking News" to "Saker Message" -->
+
+			            <!-- Breaking news -->
+			            <div id="breaking-news" class="bx-loading" style="width: 850px;">
+			                <span>Saker Message:</span>
+			                <ul style="height:10px; visibility:hidden">
+			                				                    	<li><a href="http://thesaker.is/saker-telegram-discussion-group-announcement/">Saker Telegram discussion group : ANNOUNCEMENT</a></li>
+											                    	<li><a href="http://thesaker.is/moderation-policy-updated-april-4th-2020/">Moderation Policy (UPDATED April 4th, 2020)</a></li>
+											                </ul>
+			            </div>
+            				            				</div>
+					
+                                	
+<!-- Container -->
+<div class="container">
+		    <!-- Primary left -->
+	    <div id="primary-left">
+     
+
+    
+ 
+ 	        <!-- Article post -->
+        <article class="post-47408 post type-post status-publish format-standard has-post-thumbnail hentry category-watch-list tag-hezbollah-and-christians">
+        		            <!-- Title -->
+	            <div class="post-title">
+	                <h1 class="entry-title">&#8216;They Accept Us as We Are;&#8217; Christians Join Forces With Muslim Group Hezbollah to Fight ISIS in Lebanon</h1>
+	            </div>
+	        	        	            <!-- Entry meta -->
+	            <div class="entry-meta">
+	                <span class="post-views">3076 Views</span>
+	                <span class="post-date date updated">May 02, 2020</span>
+	                	                    <span class="post-comments">
+	                        <a href="http://thesaker.is/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon/#comments">
+	                            7 Comments	                        </a>
+	                    </span>
+	                                    <span class="post-category">
+														<a href="http://thesaker.is/category/watch-list/">Watch List</a> 
+							                    </span>
+	                <span class="post-author author"><a  href="http://thesaker.is/author/saker_write-5hq6e/" title="Posts by The Saker" rel="author">The Saker</a></span>
+	            </div>
+                          
+            <!-- Post content -->
+            <div class="post-content">
+				<p>source: <a href="https://www.christianpost.com/amp/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon.html">https://www.christianpost.com/amp/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon.html</a></p>
+<h3 class="visually-hidden">&#8216;They Accept Us as We Are;&#8217; Christians Join Forces With Muslim Group Hezbollah to Fight ISIS in Lebanon</h3>
+<p>By <a class="reporter" href="https://www.christianpost.com/by/vincent-funaro"> Vincent Funaro</a>, Christian Post Reporter</p>
+<p>The Iran-backed Shiite Muslim militant group Hezbollah, classified for many years by U.S. Intelligence as a <a href="http://www.state.gov/j/ct/rls/other/des/123085.htm" rel="nofollow">terrorist organization</a>, is training Christians to fight ISIS in Lebanon and the Middle Eastern believers say their new and unlikely allies &#8220;accept us as we are.&#8221;</p>
+<p>Citing Lebanese sources, <a href="http://g2bulletin.wnd.com/" rel="nofollow">Joseph Farah&#8217;s G2 Bulletin</a> says Christian villages in the Bekaa Valley area of Lebanon are forming militias to join Hezbollah fighters already engaging ISIS and the al-Qaeda-affiliated Jabhat al-Nursa Front in the Syrian Qalamoun mountains opposite villages in central and eastern Bekaa.</p>
+<p>Rifit Nasrallah, a Catholic businessman who is part of the militias fighting ISIS in Ras Baalbek, discussed the alliance with Hezbollah in an <a href="http://www.ibtimes.com/christians-threatened-isis-lebanon-turn-hezbollah-help-1889610" rel="nofollow">International Business Times</a> report last month.</p>
+<p>&#8220;We&#8217;re in a very dangerous situation,&#8221; he said. &#8220;The only people who are protecting us are the resistance of Hezbollah. The only one standing with the army is Hezbollah. Let&#8217;s not hide it anymore.&#8221;</p>
+<p>Nasrallah said Hezbollah does not expect its allies to convert to Islam or create an allegiance to the group&#8217;s ideals.</p>
+<p>&#8220;They accept us as we are,&#8221; he said. &#8220;They do not impose on us anything. When there&#8217;s an occasion, they come to our children&#8217;s birthdays. The people here accept that Hezbollah comes and helps.&#8221;</p>
+<p>This unlikely alliance between Christians and Hezbollah is a far cry from the adversarial relationship depicted between the two groups in the region.</p>
+<p>According to the IB Times report, however, the alliance is one of convenience. Hezbollah is Iran&#8217;s strongest proxy in that area of Lebanon and has been a key factor in keeping President Bashar Assad&#8217;s regime in power after four years of the Syrian war. Protecting Ras Baalbek is a priority for the group because losing it to ISIS would put the surrounding Shiite towns under direct threat.</p>
+<p>As a result, Hezbollah has invested heavily in sustaining the relationship with Christians. The group trained Christians in Syria to fight ISIS alongside them, according to a November report from <a href="http://www.dailystar.com.lb/News/Lebanon-News/2014/Nov-12/277324-hezbollah-recruiting-bekaa-youth-against-isis-report.ashx" rel="nofollow">Lebanese newspaper An-Nahar</a> and even paid wages similar to Hezbollah members for Christians joining their ranks.</p>
+<p>&#8220;We are not speaking of an assumed threat, we are speaking of a real aggression that exists every hour, every day, every night,&#8221; said Hezbollah Secretary-General Hassan Nasrallah in a recent speech. He explained that armed groups have launched continuous attacks inside Lebanese territories while also holding dozens of Lebanese soldiers and police officers hostage, &#8220;so we need a permanent solution.&#8221;</p>
+<p>Last fall, The Christian Post reported that GOP 2016 presidential candidate, Sen. Ted Cruz, R-Texas, was booed after he offended some Middle Eastern Christians by declaring at an event in Washington, D.C. that &#8220;Christians have no greater ally than Israel.&#8221;</p>
+<p>Mark Tooley, president of the Institute of Religion and Democracy and an attendee at the evening event, later wrote in a blog entry that he was not surprised by the reaction.</p>
+<div class="article-title">&#8216;They Accept Us as We Are;&#8217; Christians Join Forces With Muslim Group Hezbollah to Fight ISIS in Lebanon</div>
+<p>&#8220;It&#8217;s no secret that many Mideast Christians generally aren&#8217;t big fans of Israel. I learned this firsthand during the 2006 Israel war on Hezbollah, when my discussion at church with a Lebanese Christian nearly escalated to a shouting match,&#8221; wrote Tooley.</p>
+<p>&#8220;Sometimes American Christians romanticize overseas persecuted Christians into disembodied noble souls unaffected by terrestrial concerns. But they, like everybody else, have histories, loyalties, resentments, grievances, and political calculations.&#8221;</p>
+<p>The Times of Israel <a href="http://www.timesofisrael.com/us-report-scraps-iran-hezbollah-from-list-of-terror-threats/" rel="nofollow">reported</a> in March that Iran and Hezbollah were removed from the list of terror threats against the U.S. as a result of its campaign against ISIS.</p>
+<p>&#8220;We believe that this results from a combination of diplomatic interests (the United States&#8217; talks with Iran about a nuclear deal) with the idea that Iran could assist in the battle against the Islamic State in Syria and Iraq and maybe even in the battle against jihadist terrorism in other countries,&#8221; the Meir Amit Intelligence and Terrorism Information Center said in an analysis of the unclassified version of the <a href="http://www.dni.gov/files/documents/Unclassified_2015_ATA_SFR_-_SASC_FINAL.pdf" rel="nofollow">Worldwide Threat Assessment of the U.S. Intelligence Communities</a> released in February.</p>
+<p>Another American body, the Defense Intelligence Agency, however, said both Iran and Hezbollah were still terrorism threats.</p>
+<p>&#8220;Islamic Revolutionary Guard Corps-Qods Force (IRGC-QF) and Lebanese Hezbollah are instruments of Iran&#8217;s foreign policy and its ability to project power in Iraq, Syria, and beyond,&#8221; noted the body in their <a href="http://www.dia.mil/News/SpeechesandTestimonies/ArticleView/tabid/11449/Article/570863/statement-for-the-record-worldwide-threat-assessment.aspx" rel="nofollow">assessment</a>, submitted to the U.S. Senate on Feb. 26.</p>
+<p>&#8220;Hezbollah continues to support the Syrian regime, pro-regime militants and Iraqi Shiite militants in Syria. Hezbollah trainers and advisors in Iraq assist Iranian and Iraqi Shiite militias fighting Sunni extremists there. Select Iraqi Shiite militant groups also warned of their willingness to fight U.S. forces returning to Iraq,&#8221; it noted.</p>
+<div class="article_credit">Contact: <a href="mailto:Vincent.funaro@christianpost.com">Vincent.funaro@christianpost.com</a>; follow me on Twitter <a href="http://twitter.com/vinfunaro">@vinfunaro</a></div>
+<div class="book-ads clearfix"><!-- HTML code for ASIN : 1608880583 -->
+<style>
+#book3 {
+	margin-top:48px;
+	padding-top: 24px;
+	border-top: solid 1px #ccc;
+}
+#book3image {
+	float: left;
+	clear: both;
+	margin: 0px 0px 0px 0px;
+	width: 200px;
+}
+#book3title {
+	float: left;
+	width: 180px;
+	margin: 4px 4px 0 14px;
+	font-weight: bold;
+	font-size: 1.2em;
+	color: rgb(51, 138, 183);
+}
+
+#book3offer {
+	/*text-align: center;*/
+	color: #900;
+	font-weight: bold;
+    clear: both;
+    text-align: left;
+    margin-left: 8%;
+}
+
+</style>
+
+<div id="book3">
+		<div id="book3image">
+			<a target="_blank" class="remove-padding"  href="https://saker.community/product/the-essential-saker-iii/">
+			<img style="width=100%;"          src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2019/07/the-essential-saker-3.jpg" alt="The Essential Saker II" width="200">
+			</a>
+		</div>
+
+		<div id="book3title">The Essential Saker III: Chronicling The Tragedy, Farce And Collapse of the Empire in the Era of Mr MAGA</div>
+
+		<div id="book3offer">
+			<p class="product-price">
+				<a target="_blank" style="color: #338ab7; text-decoration:none;" href="https://saker.community/product/the-essential-saker-iii/"> Order Now </a>
+			</p>
+		   </div>
+</div>
+<!-- HTML code for ASIN : 1608880583 -->
+<style>
+#book2 {
+	margin-top:48px;
+	padding-top: 24px;
+	border-top: solid 1px #ccc;
+}
+#book2image {
+	float: left;
+	clear: both;
+	margin: 0px 0px 0px 0px;
+	width: 200px;
+}
+#book2title {
+	float: left;
+	width: 180px;
+	margin: 4px 4px 0 14px;
+	font-weight: bold;
+	font-size: 1.2em;
+	color: rgb(51, 138, 183);
+}
+
+#book2offer {
+	/*text-align: center;*/
+	color: #900;
+	font-weight: bold;
+    clear: both;
+    text-align: left;
+    margin-left: 8%;
+}
+
+</style>
+
+<div id="book2">
+		<div id="book2image">
+			<a target="_blank" class="remove-padding"  href="https://saker.community/product/the-essential-saker-ii-civilizational-choices-and-geopolitics-the-russian-challenge-to-the-hegemony-of-the-anglozionist-empire/">
+			<img style="width=100%;"          src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2018/01/Saker2-book-sidebar-2-e1515071504678.jpg" alt="The Essential Saker II" width="200">
+			</a>
+		</div>
+
+		<div id="book2title">The Essential Saker II: Civilizational Choices and Geopolitics / The Russian challenge to the hegemony of the AngloZionist Empire</div>
+
+		<div id="book2offer">
+			<p class="product-price">
+				<a target="_blank" style="color: #338ab7; text-decoration:none;" href="https://saker.community/product/the-essential-saker-ii-civilizational-choices-and-geopolitics-the-russian-challenge-to-the-hegemony-of-the-anglozionist-empire/"> Order Now </a>
+			</p>
+		   </div>
+</div>
+</div><script type="text/javascript">(function(){var XHR = ( "onload" in new XMLHttpRequest() ) ? XMLHttpRequest : XDomainRequest;var xhr = new XHR();var url = "http://thesaker.is/wp-content/plugins/ajax-hits-counter/increment-hits/index.php?post_id=47408&t=" + ( parseInt( new Date().getTime() ) ) + "&r=" + ( parseInt( Math.random() * 100000 ) );xhr.open("GET", url, true);xhr.setRequestHeader( "Cache-Control", "no-cache" );xhr.setRequestHeader( "Content-Type", "application/json" );xhr.timeout = 60000;xhr.send();xhr.onreadystatechange = function(){if( this.readyState != 4 ){return;}if( this.status && this.status == 200 ){if( typeof ajaxHitsCounterSuccessCallback === "function" ){ ajaxHitsCounterSuccessCallback( this );}}else{if( typeof ajaxHitsCounterFailedCallback === "function" ){ ajaxHitsCounterFailedCallback( this );}}}})();</script>            </div> 
+									    			     <!-- Tag list -->
+    <div class="tag-list">
+        <span>Tagged</span>
+        <ul>
+            <li><a href="http://thesaker.is/tag/hezbollah-and-christians/">Hezbollah and Christians</a></li>            <div class="clear"></div>
+        </ul>
+    </div>
+    <div class="clear"></div>
+					<!-- End article -->
+        </article>
+						<!-- DSC
+This block has been moved up to place the respond-block before the comments. -->
+	        <!-- Respond block -->
+        <div id="respond-block">
+            <!-- Title -->
+            <div class="respond-title">
+                <h4>Leave a Reply</h4>                            
+            </div>
+            <a href="#" name="respond"></a>     	
+								<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon/#respond" style="display:none;">Click here to cancel reply.</a></small></h3><form action="http://thesaker.is/wp-comments-post.php" method="post" id="writecomment" class="comment-form"><h3 id="leave-a-reply">Leave a Reply</h3><input type="checkbox" id="comment-note-switch">
+                            <label class="switch-label" for="comment-note-switch">Click here to get more info on formatting</label>
+                            <div id="formatting-note-box"><p class="comment-notes"><b>(1)</b> Leave the name field empty if you want to post as Anonymous. It's preferable that you choose a name so it becomes clear who said what. E-mail address is not mandatory either. The website automatically checks for spam. Please refer to our moderation policies for more details. We check to make sure that no comment is mistakenly marked as spam.  This takes time and effort, so please be patient until your comment appears. Thanks.</p><p class="comment-notes"><b>(2)</b> 10 replies to a comment are the maximum.</p><p class="comment-notes"><b>(3)</b> Here are formating examples which you can use in your writing:<br>
+        &lt;b&gt;bold text&lt;/b&gt; results in <b>bold text</b><br>
+        &lt;i&gt;italic text&lt;/i&gt; results in <i>italic text</i><br>
+        (You can also combine two formating tags with each other, for example to get <b><i>bold-italic</i></b> text.)<br>
+        &lt;em&gt;emphasized text&lt;/em&gt; results in <em style='color: #2b94d5;'>emphasized text</em><br>
+        &lt;strong&gt;strong text&lt;/strong&gt; results in <strong style='background-color: #222; color: white; padding: 1px 3px 2px;'>strong text</strong><br>
+        &lt;q&gt;a quote text&lt;/q&gt; results in <q>a quote text (quotation marks are added automatically)</q><br>
+        &lt;cite&gt;a phrase or a block of text that needs to be cited&lt;/cite&gt; results in:<br><cite>a phrase or a block of text that needs to be cited</cite><br>
+        &lt;blockquote&gt;a heavier version of quoting a block of text...&lt;/blockquote&gt; results in:<br><blockquote><b>a heavier version of quoting a block of text that can span several lines. Use these possibilities appropriately. They are meant to help you create and follow the discussions in a better way. They can assist in grasping the content value of a comment more quickly.</b></blockquote>
+        and last but not least:<br>
+        &lt;a href=''http://link-address.com''&gt;Name of your link&lt;/a&gt; results in <a href='#' style='text-decoration: underline;'>Name of your link</a></p><p class="comment-notes"><b style='color: #2b94d5;'>(4)</b> <em style='color: #2b94d5;'>No need to use this special character in between paragraphs:</em><br>
+        <em style='color: #2b94d5;'><b>&amp;nbsp;</b></em><br>
+        <em style='color: #2b94d5;'>You do not need it anymore. Just write as you like and your paragraphs will be separated.</em><br>
+        <em style='color: #2b94d5;'>The &quot;Live Preview&quot; appears automatically when you start typing below the text area and it will show you how your comment will look like before you send it.</em></p><p class="comment-notes"><b>(5)</b> If you now think that this is too confusing then just ignore the code above and write as you like.</p></div><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label>Name:</label><input type="text" placeholder="Name.." name="author" id="author">
+<p class="comment-form-email"><label>E-mail:</label><input type="text" placeholder="E-mail.." name="email" id="email"><div class="clear"></div>
+
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post a comment" /> <input type='hidden' name='comment_post_ID' value='47408' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="5e6dbeb381" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="249"/></p></form>	</div><!-- #respond -->
+								
+					</div>
+	<!-- End of block.
+	DSC -->
+
+
+	        <!-- Comments -->
+        <div id="comments">
+        	
+        	<!-- DSC
+        	The pagination has also been added to the top of the comment list. -->
+        	<div class="comments-pager"></div>
+
+            <!-- Title -->
+            <div class="comments-title">
+                <h4>7 Comments</h4>
+            </div>
+		
+			<ol class="commentlist">
+					<li class="comment even thread-even depth-1 comment" id="li-comment-797191">
+		<article id="comment-797191">
+		<!--	img src="" class="comment-avatar" alt="Avatar"> -->
+                <img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/static/avatar.png" class="comment-avatar">
+            <div class="comment-meta">
+            	<span class="by-author">Pamela</span>
+
+            	<!-- DSC
+            	Adding a permalink to each comment. -->
+            	<a href="http://thesaker.is/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon/#comment-797191" rel="internal nofollow" class="commet-permalink">
+	            	<span class="by-date">on May 02, 2020&nbsp;</span>
+
+	            	<!-- DSC
+	            	Adding a time stamp to each comment. -->
+	            	<span class="by-time"><b>&middot;</b> &nbsp;at 1:21 pm EST/EDT</span>
+	            </a>
+
+
+            </div>
+            <div class="comment-content">
+                <p>&#8220;Blowback&#8221; is a strange thing, isn&#8217;t it?  A perfect example of the Law of Unintended Consequences.  A grim situation in which, to save their lives and loved ones, two different spiritual adherents with common roots and now common cause overcome any differences in order to unite.  It&#8217;s so good to see. </p>
+<p>Now, can we only see Shia and Sunni do the same thing &#8211; what a force for good that would be. The deep division in which he evil forces of Anglo Imperialism had driven a wedge to use to further their own Hegemonic aims would be blown away indeed.  </p>
+<p>Some say, it just has to come. I certainly dont&#8217; know enough &#8211; anything at all really &#8211; about the Islamic world to say that they are correct.<br />
+i can only say &#8220;I hope so, I really do&#8221;.</p>
+            </div>
+            <div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://thesaker.is/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon/?replytocom=797191#respond' data-commentid="797191" data-postid="47408" data-belowelement="comment-797191" data-respondelement="respond" aria-label='Reply to Pamela'>Reply</a></div>
+        </article>
+
+
+
+
+<ul class="children">
+	<li class="comment odd alt depth-2 comment" id="li-comment-797212">
+		<article id="comment-797212">
+		<!--	img src="" class="comment-avatar" alt="Avatar"> -->
+                <img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/static/avatar.png" class="comment-avatar">
+            <div class="comment-meta">
+            	<span class="by-author">AriusArmenian</span>
+
+            	<!-- DSC
+            	Adding a permalink to each comment. -->
+            	<a href="http://thesaker.is/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon/#comment-797212" rel="internal nofollow" class="commet-permalink">
+	            	<span class="by-date">on May 02, 2020&nbsp;</span>
+
+	            	<!-- DSC
+	            	Adding a time stamp to each comment. -->
+	            	<span class="by-time"><b>&middot;</b> &nbsp;at 1:57 pm EST/EDT</span>
+	            </a>
+
+
+            </div>
+            <div class="comment-content">
+                <p>Pamela, </p>
+<p>The backbone of the Syrian army is composed of Sunni Muslims followed by lessor numbers of Shia Muslims and Orthodox Christians. The multi-confessional society you are hoping for already exists in Syria and it survived the US and its Anglosphere attempt to replace it with Sunni jihadis that hate Christians and Shia Muslims. The US attempt to stroke a Sunni/Shia divide has been substantially defeated by Iran, Hezbollah, and Syria. The US is down to the Saudis and other Gulf States but even there the US strategy is rapidly failing. That Syria survived is a powerful symbol to the region that the US would crush if it could, but cannot.  Except for the elites that sold out to US interests the people of the region are sick of the US and want it to get the hell out.</p>
+            </div>
+            <div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://thesaker.is/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon/?replytocom=797212#respond' data-commentid="797212" data-postid="47408" data-belowelement="comment-797212" data-respondelement="respond" aria-label='Reply to AriusArmenian'>Reply</a></div>
+        </article>
+
+
+
+
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1 comment" id="li-comment-797198">
+		<article id="comment-797198">
+		<!--	img src="" class="comment-avatar" alt="Avatar"> -->
+                <img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/static/avatar.png" class="comment-avatar">
+            <div class="comment-meta">
+            	<span class="by-author">AriusArmenian</span>
+
+            	<!-- DSC
+            	Adding a permalink to each comment. -->
+            	<a href="http://thesaker.is/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon/#comment-797198" rel="internal nofollow" class="commet-permalink">
+	            	<span class="by-date">on May 02, 2020&nbsp;</span>
+
+	            	<!-- DSC
+	            	Adding a time stamp to each comment. -->
+	            	<span class="by-time"><b>&middot;</b> &nbsp;at 1:33 pm EST/EDT</span>
+	            </a>
+
+
+            </div>
+            <div class="comment-content">
+                <p>This article is correct. I know that most Armenians in Syria support Assad and many are in the Syrian army fighting alongside Sunni and Shia Muslims against the western backed jihadis. </p>
+<p>Armenians in Syria consider Iran and Hezbollah allies. With their own eyes they see Hezbollah fighting to liberate and protect Christians. They know who are their friends and who is backing the liver eaters. That perception is spreading within Armenian communities in the US.</p>
+            </div>
+            <div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://thesaker.is/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon/?replytocom=797198#respond' data-commentid="797198" data-postid="47408" data-belowelement="comment-797198" data-respondelement="respond" aria-label='Reply to AriusArmenian'>Reply</a></div>
+        </article>
+
+
+
+
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1 comment" id="li-comment-797200">
+		<article id="comment-797200">
+		<!--	img src="" class="comment-avatar" alt="Avatar"> -->
+                <img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/static/avatar.png" class="comment-avatar">
+            <div class="comment-meta">
+            	<span class="by-author">Larchmonter445</span>
+
+            	<!-- DSC
+            	Adding a permalink to each comment. -->
+            	<a href="http://thesaker.is/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon/#comment-797200" rel="internal nofollow" class="commet-permalink">
+	            	<span class="by-date">on May 02, 2020&nbsp;</span>
+
+	            	<!-- DSC
+	            	Adding a time stamp to each comment. -->
+	            	<span class="by-time"><b>&middot;</b> &nbsp;at 1:38 pm EST/EDT</span>
+	            </a>
+
+
+            </div>
+            <div class="comment-content">
+                <p>Hezbollah is first and foremost a Shiite Lebanese political-military-social organization whose core interest is Lebanon. It serves as an Iranian proxy in Syria. It does not serve as a proxy within Lebanon. They are natives, patriots and have fought wars against invaders and many battles against al Nusra and ISIS by themselves and in coordination alongside the Lebanon military.</p>
+<p>They have fought and died in Syria to protect Christian and Sunni locations. They have established for years the honor code that few others can claim.</p>
+<p>As for their bravery and skill in battle, Hezbollah has undertaken some of the most daring nighttime operations that have helped turn the tide for the Syrians. Their elite units are comparable to the Russian Spetsnaz.</p>
+<p>Of course, the US considers them terrorists. Their competency should &#8216;terrorize&#8217; the American invaders. The Israelis tasted some of it in 2006. That&#8217;s why ISIS and al Nusra, some of the worst scum in human history, are paid for, armed, trained and fight as proxies for the US and Israel. Neither of the US or Israel wants any piece of Hezbollah, up close and personal.</p>
+            </div>
+            <div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://thesaker.is/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon/?replytocom=797200#respond' data-commentid="797200" data-postid="47408" data-belowelement="comment-797200" data-respondelement="respond" aria-label='Reply to Larchmonter445'>Reply</a></div>
+        </article>
+
+
+
+
+<ul class="children">
+	<li class="comment even depth-2 comment" id="li-comment-797230">
+		<article id="comment-797230">
+		<!--	img src="" class="comment-avatar" alt="Avatar"> -->
+                <img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/static/avatar.png" class="comment-avatar">
+            <div class="comment-meta">
+            	<span class="by-author">Serbian girl</span>
+
+            	<!-- DSC
+            	Adding a permalink to each comment. -->
+            	<a href="http://thesaker.is/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon/#comment-797230" rel="internal nofollow" class="commet-permalink">
+	            	<span class="by-date">on May 02, 2020&nbsp;</span>
+
+	            	<!-- DSC
+	            	Adding a time stamp to each comment. -->
+	            	<span class="by-time"><b>&middot;</b> &nbsp;at 2:26 pm EST/EDT</span>
+	            </a>
+
+
+            </div>
+            <div class="comment-content">
+                <p>This is an important distinction. They are a local political organisation in Lebanon. Interestingly they just got raided in Germany. Strange timing.</p>
+<p>This is what Pompeo had to say about it (cut &amp; paste from his Twitter account).</p>
+<p>&#8220;Germany took strong action today against Hizballah. The U.S. commends our German ally for banning this #Iran-sponsored terrorist group and ensuring its supporters are denied operating space. We call on #EU member states to follow suit in holding Hizballah accountable.&#8221;</p>
+            </div>
+            <div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://thesaker.is/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon/?replytocom=797230#respond' data-commentid="797230" data-postid="47408" data-belowelement="comment-797230" data-respondelement="respond" aria-label='Reply to Serbian girl'>Reply</a></div>
+        </article>
+
+
+
+
+<ul class="children">
+	<li class="comment odd alt depth-3 comment" id="li-comment-797356">
+		<article id="comment-797356">
+		<!--	img src="" class="comment-avatar" alt="Avatar"> -->
+                <img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/static/avatar.png" class="comment-avatar">
+            <div class="comment-meta">
+            	<span class="by-author">Larchmonter445</span>
+
+            	<!-- DSC
+            	Adding a permalink to each comment. -->
+            	<a href="http://thesaker.is/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon/#comment-797356" rel="internal nofollow" class="commet-permalink">
+	            	<span class="by-date">on May 02, 2020&nbsp;</span>
+
+	            	<!-- DSC
+	            	Adding a time stamp to each comment. -->
+	            	<span class="by-time"><b>&middot;</b> &nbsp;at 6:58 pm EST/EDT</span>
+	            </a>
+
+
+            </div>
+            <div class="comment-content">
+                <p>They didn&#8217;t want any Hezbollah in Germany scaring the AQ and ISIS terrorists they prefer to cater to.</p>
+<p>Germany is a total whore. It has bolted to the US bosom, turned against China and is the controlling EU voice sustaining sanctions against Russia. </p>
+<p>Now, they are screwing with Gazprom and the NS-2 exemption to EU single ownership of the pipeline.</p>
+<p>Whores. </p>
+<p>This nation, Germany, has allowed the six years of bombardment of Donbass civilians. All those thousands of civilians killed, women, old folks, children and men are because of Germany. They still have a fondness for nazism, ethnic cleansing and Bandera.</p>
+            </div>
+            <div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://thesaker.is/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon/?replytocom=797356#respond' data-commentid="797356" data-postid="47408" data-belowelement="comment-797356" data-respondelement="respond" aria-label='Reply to Larchmonter445'>Reply</a></div>
+        </article>
+
+
+
+
+<ul class="children">
+	<li class="comment even depth-4 comment" id="li-comment-797412">
+		<article id="comment-797412">
+		<!--	img src="" class="comment-avatar" alt="Avatar"> -->
+                <img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/static/avatar.png" class="comment-avatar">
+            <div class="comment-meta">
+            	<span class="by-author">Digby</span>
+
+            	<!-- DSC
+            	Adding a permalink to each comment. -->
+            	<a href="http://thesaker.is/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon/#comment-797412" rel="internal nofollow" class="commet-permalink">
+	            	<span class="by-date">on May 02, 2020&nbsp;</span>
+
+	            	<!-- DSC
+	            	Adding a time stamp to each comment. -->
+	            	<span class="by-time"><b>&middot;</b> &nbsp;at 8:56 pm EST/EDT</span>
+	            </a>
+
+
+            </div>
+            <div class="comment-content">
+                <p>Other commentators in previous columns have said that Germany has been an occupied nation since 1945 and therefore does not have an independent foreign policy. I remember reading about Trump threatening to sanction Germany for NordStream II.</p>
+<p>Also, aren&#8217;t there laws on the books that prohibit materials that (allegedly) glorify Nazism?</p>
+            </div>
+            <div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://thesaker.is/they-accept-us-as-we-are-christians-join-forces-with-muslim-group-hezbollah-to-fight-isis-in-lebanon/?replytocom=797412#respond' data-commentid="797412" data-postid="47408" data-belowelement="comment-797412" data-respondelement="respond" aria-label='Reply to Digby'>Reply</a></div>
+        </article>
+
+
+
+
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+			</ol>
+			<div class="comments-pager"></div>
+				
+		</div>
+		
+	       
+	</div>
+			  	<!-- Sidebar -->
+	  	<aside id="sidebar">
+			<aside class="widget_text widget-odd widget-first widget-1 support widget-1 first widget"><div class="textwidget custom-html-widget"><aside class="widget_text widget-odd widget-first widget-1 widget-1 first widget"><h3 class="widget-title">Support the Saker</h3><div class="textwidget custom-html-widget"><a href="http://thesaker.is/contact-and-donations/"><img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2017/12/donate-btn-orange-dk.jpg" width="210" height="183" class="aligncenter" alt="Support the Saker" /></a></div></aside></div></aside><aside class="widget-even widget-2 widget-2 widget"><h3 class="widget-title">Search articles</h3>
+					<form method="get" name="searchform" action="http://thesaker.is" class="search-form">
+						<input type="text" placeholder="Search..." name="s" id="s">
+						<input type="submit" value="Submit">
+					</form>
+</aside><aside class="widget-odd widget-3 widget-3 widget"><h3 class="widget-title">Saker Archives</h3>		<label class="screen-reader-text" for="archives-dropdown-2">Saker Archives</label>
+		<select id="archives-dropdown-2" name="archive-dropdown">
+			
+			<option value="">Select Month</option>
+				<option value='http://thesaker.is/2020/05/'> May 2020 &nbsp;(12)</option>
+	<option value='http://thesaker.is/2020/04/'> April 2020 &nbsp;(93)</option>
+	<option value='http://thesaker.is/2020/03/'> March 2020 &nbsp;(82)</option>
+	<option value='http://thesaker.is/2020/02/'> February 2020 &nbsp;(54)</option>
+	<option value='http://thesaker.is/2020/01/'> January 2020 &nbsp;(135)</option>
+	<option value='http://thesaker.is/2019/12/'> December 2019 &nbsp;(80)</option>
+	<option value='http://thesaker.is/2019/11/'> November 2019 &nbsp;(72)</option>
+	<option value='http://thesaker.is/2019/10/'> October 2019 &nbsp;(98)</option>
+	<option value='http://thesaker.is/2019/09/'> September 2019 &nbsp;(70)</option>
+	<option value='http://thesaker.is/2019/08/'> August 2019 &nbsp;(65)</option>
+	<option value='http://thesaker.is/2019/07/'> July 2019 &nbsp;(88)</option>
+	<option value='http://thesaker.is/2019/06/'> June 2019 &nbsp;(90)</option>
+	<option value='http://thesaker.is/2019/05/'> May 2019 &nbsp;(81)</option>
+	<option value='http://thesaker.is/2019/04/'> April 2019 &nbsp;(96)</option>
+	<option value='http://thesaker.is/2019/03/'> March 2019 &nbsp;(81)</option>
+	<option value='http://thesaker.is/2019/02/'> February 2019 &nbsp;(104)</option>
+	<option value='http://thesaker.is/2019/01/'> January 2019 &nbsp;(82)</option>
+	<option value='http://thesaker.is/2018/12/'> December 2018 &nbsp;(69)</option>
+	<option value='http://thesaker.is/2018/11/'> November 2018 &nbsp;(98)</option>
+	<option value='http://thesaker.is/2018/10/'> October 2018 &nbsp;(90)</option>
+	<option value='http://thesaker.is/2018/09/'> September 2018 &nbsp;(100)</option>
+	<option value='http://thesaker.is/2018/08/'> August 2018 &nbsp;(91)</option>
+	<option value='http://thesaker.is/2018/07/'> July 2018 &nbsp;(101)</option>
+	<option value='http://thesaker.is/2018/06/'> June 2018 &nbsp;(76)</option>
+	<option value='http://thesaker.is/2018/05/'> May 2018 &nbsp;(90)</option>
+	<option value='http://thesaker.is/2018/04/'> April 2018 &nbsp;(144)</option>
+	<option value='http://thesaker.is/2018/03/'> March 2018 &nbsp;(110)</option>
+	<option value='http://thesaker.is/2018/02/'> February 2018 &nbsp;(74)</option>
+	<option value='http://thesaker.is/2018/01/'> January 2018 &nbsp;(71)</option>
+	<option value='http://thesaker.is/2017/12/'> December 2017 &nbsp;(79)</option>
+	<option value='http://thesaker.is/2017/11/'> November 2017 &nbsp;(100)</option>
+	<option value='http://thesaker.is/2017/10/'> October 2017 &nbsp;(92)</option>
+	<option value='http://thesaker.is/2017/09/'> September 2017 &nbsp;(102)</option>
+	<option value='http://thesaker.is/2017/08/'> August 2017 &nbsp;(96)</option>
+	<option value='http://thesaker.is/2017/07/'> July 2017 &nbsp;(72)</option>
+	<option value='http://thesaker.is/2017/06/'> June 2017 &nbsp;(89)</option>
+	<option value='http://thesaker.is/2017/05/'> May 2017 &nbsp;(99)</option>
+	<option value='http://thesaker.is/2017/04/'> April 2017 &nbsp;(103)</option>
+	<option value='http://thesaker.is/2017/03/'> March 2017 &nbsp;(78)</option>
+	<option value='http://thesaker.is/2017/02/'> February 2017 &nbsp;(101)</option>
+	<option value='http://thesaker.is/2017/01/'> January 2017 &nbsp;(87)</option>
+	<option value='http://thesaker.is/2016/12/'> December 2016 &nbsp;(102)</option>
+	<option value='http://thesaker.is/2016/11/'> November 2016 &nbsp;(130)</option>
+	<option value='http://thesaker.is/2016/10/'> October 2016 &nbsp;(114)</option>
+	<option value='http://thesaker.is/2016/09/'> September 2016 &nbsp;(113)</option>
+	<option value='http://thesaker.is/2016/08/'> August 2016 &nbsp;(104)</option>
+	<option value='http://thesaker.is/2016/07/'> July 2016 &nbsp;(112)</option>
+	<option value='http://thesaker.is/2016/06/'> June 2016 &nbsp;(105)</option>
+	<option value='http://thesaker.is/2016/05/'> May 2016 &nbsp;(122)</option>
+	<option value='http://thesaker.is/2016/04/'> April 2016 &nbsp;(118)</option>
+	<option value='http://thesaker.is/2016/03/'> March 2016 &nbsp;(146)</option>
+	<option value='http://thesaker.is/2016/02/'> February 2016 &nbsp;(111)</option>
+	<option value='http://thesaker.is/2016/01/'> January 2016 &nbsp;(104)</option>
+	<option value='http://thesaker.is/2015/12/'> December 2015 &nbsp;(107)</option>
+	<option value='http://thesaker.is/2015/11/'> November 2015 &nbsp;(118)</option>
+	<option value='http://thesaker.is/2015/10/'> October 2015 &nbsp;(121)</option>
+	<option value='http://thesaker.is/2015/09/'> September 2015 &nbsp;(124)</option>
+	<option value='http://thesaker.is/2015/08/'> August 2015 &nbsp;(105)</option>
+	<option value='http://thesaker.is/2015/07/'> July 2015 &nbsp;(116)</option>
+	<option value='http://thesaker.is/2015/06/'> June 2015 &nbsp;(131)</option>
+	<option value='http://thesaker.is/2015/05/'> May 2015 &nbsp;(118)</option>
+	<option value='http://thesaker.is/2015/04/'> April 2015 &nbsp;(138)</option>
+	<option value='http://thesaker.is/2015/03/'> March 2015 &nbsp;(117)</option>
+	<option value='http://thesaker.is/2015/02/'> February 2015 &nbsp;(123)</option>
+	<option value='http://thesaker.is/2015/01/'> January 2015 &nbsp;(119)</option>
+	<option value='http://thesaker.is/2014/12/'> December 2014 &nbsp;(103)</option>
+	<option value='http://thesaker.is/2014/11/'> November 2014 &nbsp;(72)</option>
+	<option value='http://thesaker.is/2014/10/'> October 2014 &nbsp;(59)</option>
+	<option value='http://thesaker.is/2014/09/'> September 2014 &nbsp;(87)</option>
+	<option value='http://thesaker.is/2014/08/'> August 2014 &nbsp;(106)</option>
+	<option value='http://thesaker.is/2014/07/'> July 2014 &nbsp;(162)</option>
+	<option value='http://thesaker.is/2014/06/'> June 2014 &nbsp;(120)</option>
+	<option value='http://thesaker.is/2014/05/'> May 2014 &nbsp;(74)</option>
+	<option value='http://thesaker.is/2014/04/'> April 2014 &nbsp;(84)</option>
+	<option value='http://thesaker.is/2014/03/'> March 2014 &nbsp;(81)</option>
+	<option value='http://thesaker.is/2014/02/'> February 2014 &nbsp;(45)</option>
+	<option value='http://thesaker.is/2014/01/'> January 2014 &nbsp;(27)</option>
+	<option value='http://thesaker.is/2013/12/'> December 2013 &nbsp;(24)</option>
+	<option value='http://thesaker.is/2013/11/'> November 2013 &nbsp;(9)</option>
+	<option value='http://thesaker.is/2013/10/'> October 2013 &nbsp;(7)</option>
+	<option value='http://thesaker.is/2013/09/'> September 2013 &nbsp;(46)</option>
+	<option value='http://thesaker.is/2013/08/'> August 2013 &nbsp;(44)</option>
+	<option value='http://thesaker.is/2013/07/'> July 2013 &nbsp;(35)</option>
+	<option value='http://thesaker.is/2013/06/'> June 2013 &nbsp;(27)</option>
+	<option value='http://thesaker.is/2013/05/'> May 2013 &nbsp;(25)</option>
+	<option value='http://thesaker.is/2013/04/'> April 2013 &nbsp;(20)</option>
+	<option value='http://thesaker.is/2013/03/'> March 2013 &nbsp;(12)</option>
+	<option value='http://thesaker.is/2013/02/'> February 2013 &nbsp;(16)</option>
+	<option value='http://thesaker.is/2013/01/'> January 2013 &nbsp;(20)</option>
+	<option value='http://thesaker.is/2012/12/'> December 2012 &nbsp;(17)</option>
+	<option value='http://thesaker.is/2012/11/'> November 2012 &nbsp;(32)</option>
+	<option value='http://thesaker.is/2012/10/'> October 2012 &nbsp;(11)</option>
+	<option value='http://thesaker.is/2012/09/'> September 2012 &nbsp;(24)</option>
+	<option value='http://thesaker.is/2012/08/'> August 2012 &nbsp;(15)</option>
+	<option value='http://thesaker.is/2012/07/'> July 2012 &nbsp;(24)</option>
+	<option value='http://thesaker.is/2012/06/'> June 2012 &nbsp;(15)</option>
+	<option value='http://thesaker.is/2012/05/'> May 2012 &nbsp;(27)</option>
+	<option value='http://thesaker.is/2012/04/'> April 2012 &nbsp;(14)</option>
+	<option value='http://thesaker.is/2012/03/'> March 2012 &nbsp;(25)</option>
+	<option value='http://thesaker.is/2012/02/'> February 2012 &nbsp;(25)</option>
+	<option value='http://thesaker.is/2012/01/'> January 2012 &nbsp;(19)</option>
+	<option value='http://thesaker.is/2011/12/'> December 2011 &nbsp;(22)</option>
+	<option value='http://thesaker.is/2011/11/'> November 2011 &nbsp;(17)</option>
+	<option value='http://thesaker.is/2011/10/'> October 2011 &nbsp;(28)</option>
+	<option value='http://thesaker.is/2011/09/'> September 2011 &nbsp;(29)</option>
+	<option value='http://thesaker.is/2011/08/'> August 2011 &nbsp;(31)</option>
+	<option value='http://thesaker.is/2011/07/'> July 2011 &nbsp;(45)</option>
+	<option value='http://thesaker.is/2011/06/'> June 2011 &nbsp;(43)</option>
+	<option value='http://thesaker.is/2011/05/'> May 2011 &nbsp;(35)</option>
+	<option value='http://thesaker.is/2011/04/'> April 2011 &nbsp;(30)</option>
+	<option value='http://thesaker.is/2011/03/'> March 2011 &nbsp;(57)</option>
+	<option value='http://thesaker.is/2011/02/'> February 2011 &nbsp;(73)</option>
+	<option value='http://thesaker.is/2011/01/'> January 2011 &nbsp;(39)</option>
+	<option value='http://thesaker.is/2010/12/'> December 2010 &nbsp;(58)</option>
+	<option value='http://thesaker.is/2010/11/'> November 2010 &nbsp;(37)</option>
+	<option value='http://thesaker.is/2010/10/'> October 2010 &nbsp;(37)</option>
+	<option value='http://thesaker.is/2010/09/'> September 2010 &nbsp;(26)</option>
+	<option value='http://thesaker.is/2010/08/'> August 2010 &nbsp;(31)</option>
+	<option value='http://thesaker.is/2010/07/'> July 2010 &nbsp;(47)</option>
+	<option value='http://thesaker.is/2010/06/'> June 2010 &nbsp;(64)</option>
+	<option value='http://thesaker.is/2010/05/'> May 2010 &nbsp;(55)</option>
+	<option value='http://thesaker.is/2010/04/'> April 2010 &nbsp;(22)</option>
+	<option value='http://thesaker.is/2010/03/'> March 2010 &nbsp;(40)</option>
+	<option value='http://thesaker.is/2010/02/'> February 2010 &nbsp;(26)</option>
+	<option value='http://thesaker.is/2010/01/'> January 2010 &nbsp;(41)</option>
+	<option value='http://thesaker.is/2009/12/'> December 2009 &nbsp;(19)</option>
+	<option value='http://thesaker.is/2009/11/'> November 2009 &nbsp;(29)</option>
+	<option value='http://thesaker.is/2009/10/'> October 2009 &nbsp;(26)</option>
+	<option value='http://thesaker.is/2009/09/'> September 2009 &nbsp;(24)</option>
+	<option value='http://thesaker.is/2009/08/'> August 2009 &nbsp;(21)</option>
+	<option value='http://thesaker.is/2009/07/'> July 2009 &nbsp;(6)</option>
+	<option value='http://thesaker.is/2009/06/'> June 2009 &nbsp;(88)</option>
+	<option value='http://thesaker.is/2009/05/'> May 2009 &nbsp;(16)</option>
+	<option value='http://thesaker.is/2009/04/'> April 2009 &nbsp;(14)</option>
+	<option value='http://thesaker.is/2009/03/'> March 2009 &nbsp;(22)</option>
+	<option value='http://thesaker.is/2009/02/'> February 2009 &nbsp;(15)</option>
+	<option value='http://thesaker.is/2009/01/'> January 2009 &nbsp;(59)</option>
+	<option value='http://thesaker.is/2008/12/'> December 2008 &nbsp;(36)</option>
+	<option value='http://thesaker.is/2008/11/'> November 2008 &nbsp;(37)</option>
+	<option value='http://thesaker.is/2008/10/'> October 2008 &nbsp;(49)</option>
+	<option value='http://thesaker.is/2008/09/'> September 2008 &nbsp;(42)</option>
+	<option value='http://thesaker.is/2008/08/'> August 2008 &nbsp;(95)</option>
+	<option value='http://thesaker.is/2008/07/'> July 2008 &nbsp;(24)</option>
+	<option value='http://thesaker.is/2008/06/'> June 2008 &nbsp;(41)</option>
+	<option value='http://thesaker.is/2008/05/'> May 2008 &nbsp;(78)</option>
+	<option value='http://thesaker.is/2008/04/'> April 2008 &nbsp;(25)</option>
+	<option value='http://thesaker.is/2008/03/'> March 2008 &nbsp;(35)</option>
+	<option value='http://thesaker.is/2008/02/'> February 2008 &nbsp;(46)</option>
+	<option value='http://thesaker.is/2008/01/'> January 2008 &nbsp;(34)</option>
+	<option value='http://thesaker.is/2007/12/'> December 2007 &nbsp;(37)</option>
+	<option value='http://thesaker.is/2007/11/'> November 2007 &nbsp;(20)</option>
+	<option value='http://thesaker.is/2007/10/'> October 2007 &nbsp;(102)</option>
+	<option value='http://thesaker.is/2007/09/'> September 2007 &nbsp;(150)</option>
+	<option value='http://thesaker.is/2007/08/'> August 2007 &nbsp;(50)</option>
+	<option value='http://thesaker.is/2007/07/'> July 2007 &nbsp;(63)</option>
+	<option value='http://thesaker.is/2007/06/'> June 2007 &nbsp;(87)</option>
+	<option value='http://thesaker.is/2007/05/'> May 2007 &nbsp;(24)</option>
+
+		</select>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-2" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+
+		</aside><aside class="widget-even widget-4 widget-4 widget"><h3 class="widget-title">About the Saker</h3>			<div class="textwidget"><a href="http://thesaker.is/support/" title="The Saker supports..."><img alt="Saker drawing from community" src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/static/saker-falcon-drawing-small.jpg"/></a></div>
+		</aside><aside class="widget-odd widget-5 widget-5 widget"><div class="menu-about-the-saker-menu-container"><ul id="menu-about-the-saker-menu" class="menu"><li id="menu-item-11979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11979"><a title="Link to internal article on Saker&#8217;s blog: “Submarines in the desert” (as my deepest gratitude to you)" href="http://thesaker.is/submarines-in-the-desert-as-my-deepest-gratitude-to-you/">About the Saker</a></li>
+<li id="menu-item-23959" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23959"><a title="link to blogs philosophy" href="http://thesaker.is/blogs-philosophy/">Saker&#8217;s values</a></li>
+<li id="menu-item-32357" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32357"><a href="http://thesaker.is/why-do-i-live-in-the-usa">Why do I live in the USA?</a></li>
+</ul></div></aside><aside class="widget-even widget-6 widget-6 widget"><h3 class="widget-title">About this blog</h3><div class="menu-about-this-blog-menu-container"><ul id="menu-about-this-blog-menu" class="menu"><li id="menu-item-388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-388"><a title="Link to Terminology for this blog" href="http://thesaker.is/terminology/">Terminology</a></li>
+<li id="menu-item-386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-386"><a title="Link to the Moderation Policy of this blog" href="http://thesaker.is/moderation-policy/">Moderation Policy (UPDATED April 4th, 2020)</a></li>
+<li id="menu-item-24825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24825"><a title="link to submission policy" href="http://thesaker.is/submissions-policy/">Submission Guidelines</a></li>
+<li id="menu-item-33354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33354"><a title="link to interview " href="http://thesaker.is/interview-requests/">Interview Requests</a></li>
+</ul></div></aside><aside class="widget-odd widget-7 widget-7 widget"><h3 class="widget-title">Community Cooperative</h3><a href="https://saker.community/" target="_blank" class="widget_sp_image-image-link" title="Community Cooperative"><img width="300" height="198" alt="Community Cooperative" class="attachment-medium aligncenter" style="max-width: 100%;" srcset="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2018/07/1c-300x198.jpg 300w, http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2018/07/1c.jpg 660w" sizes="(max-width: 300px) 100vw, 300px" src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2018/07/1c-300x198.jpg" /></a></aside><aside class="widget-even widget-8 widget-8 widget"><h3 class="widget-title">orthodox history</h3>			<div class="textwidget"><div id="orthodoxhistory">
+<a href="http://orthodoxhistory.info">
+<img class="aligncenter size-medium wp-image-28733" style="margin:0; padding:0;" src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2017/03/original-vladimirskaya-v2-300x297.jpg" alt="Orthodox History" width="200" height="199" />
+</a>
+</div>
+</div>
+		</aside><aside class="widget_text widget-odd widget-9 widget-9 widget"><h3 class="widget-title">2020 Orthodox Calendar</h3><div class="textwidget custom-html-widget"><div id="orthodoxcalendar">
+<a href="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/static/2020full-min.pdf">
+<img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/static/2020full-min-0-212x300.jpg" alt="2020 Russian Orthodox Calendar" width="200" height="222" class="aligncenter  size-full" /><br />
+<p>Free Download (6.9MB PDF)</p>
+</a>
+</div>
+</div></aside><aside class="widget-even widget-10 widget-10 widget"><h3 class="widget-title">BookShelf </h3><a href="http://thesaker.is/bookshelf_survey" target="_self" class="widget_sp_image-image-link" title="vineyard bookshelf"><img width="300" height="155" alt="BookShelf " class="attachment-medium" style="max-width: 100%;" srcset="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2019/06/bigstock-174690325-300x155.jpg 300w, http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2019/06/bigstock-174690325.jpg 735w" sizes="(max-width: 300px) 100vw, 300px" src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2019/06/bigstock-174690325-300x155.jpg" /></a></aside><aside class="widget_text widget-odd widget-11 widget-11 widget"><h3 class="widget-title">Saker&#8217;s Books</h3><div class="textwidget custom-html-widget"><div id="thebook3-ad1" style="text-align: center;">
+<a href="https://saker.community/product/the-essential-saker-iii/">  
+<img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2019/07/the-essential-saker-3.jpg" alt="The Essential Saker III book in 3 formats" width="200"/>	</a>
+<p id="book3title-ad1">The Essential Saker III<br /><a href="https://saker.community/product/the-essential-saker-iii/">ORDER NOW</a>
+</p>
+</div>
+
+<hr />
+
+<div id="thebook2-ad1" style="text-align: center;">
+<a href="https://saker.community/product/the-essential-saker-ii-proof-pdf/">  
+<img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2018/01/Saker2-book-sidebar-2-e1515071504678.jpg" alt="The Essential Saker II" width="200"/>	</a>
+<p id="book2title-ad1">The Essential Saker II<br /><a href="https://saker.community/product/the-essential-saker-ii-proof-pdf/">PROOF PDF FREE DOWNLOAD</a>
+</p>
+</div></div></aside><aside class="widget_text widget-even widget-12 widget-12 widget"><h3 class="widget-title">Scott&#8217;s Books</h3><div class="textwidget custom-html-widget"><div id="scottbook3" class="scottbooks">
+<a href="https://saker.community/product-category/booksandauthors/scotthumor/">  
+<img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2018/09/Scott-s-cover-green-front.jpg" width="200" alt="Hell & Israel: Après Lavrov le deluge"/></a>
+	<h2>Hell &amp; Israel: Après Lavrov le deluge</h2>
+		<p class="desc">A humorous account of the Russian Geographic Society (RGSC) intelligence unit's adventures during the Syrian war.</p>
+	<p>	<a href="https://saker.community/product-category/booksandauthors/scotthumor/">ORDER NOW</a>
+</p>
+</div>
+
+<div id="scottbook2" class="scottbooks">
+<a href="https://saker.community/product/pokemon-in-ukraine-tactical-war-game-introduction-manual-pdf/">  
+<img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2018/03/Scott-book-2.jpg" width="200" alt="POKÉMON IN UKRAINE: Tactical War Game Introduction Manual"/></a>
+	<h2>POKÉMON IN UKRAINE: Tactical War Game Introduction Manual</h2>
+	<p><a href="https://saker.community/product/pokemon-in-ukraine-tactical-war-game-introduction-manual-pdf/">FREE DOWNLOAD</a>
+</p>
+</div>
+</div></aside><aside class="widget-odd widget-13 widget-13 widget"><h3 class="widget-title">Holy Paskha April 19th</h3><a href="https://thesaker.is/bright-resurrection-of-christ-holy-paskha/" target="_blank" class="widget_sp_image-image-link" title="Holy Paskha April 19th"><img width="768" height="1024" alt="Holy Paskha April 19th" class="attachment-full aligncenter" style="max-width: 100%;" srcset="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2020/03/Воскресение-Христово.jpg 768w, http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2020/03/Воскресение-Христово-225x300.jpg 225w" sizes="(max-width: 768px) 100vw, 768px" src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2020/03/Воскресение-Христово.jpg" /></a><div class="widget_sp_image-description" ><p>Click on the icon for an explanation of the feast of the<a href="https://thesaker.is/bright-resurrection-of-christ-holy-paskha/"> Holy Pascha ─ The Joyous Resurrection of our Lord, God & Saviour Jesus Christ</a></p>
+</div></aside>		
+	<aside class="widget-even widget-14 widget-14 widget">		<h3 class="widget-title">Popular Posts Last 90 Days</h3>		<ul class="widget-popular-posts">
+								
+                <!-- Post -->
+                <li class="small-thumb-post">
+                		                    <div class="cont-img">
+	                        <a href="http://thesaker.is/covid-19-what-people-say-and-only-5-realities/">
+	                        	<img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2020/02/corona-80x80_c.jpg" alt="COVID-19 – What people say, and only 5 realities" title="COVID-19 – What people say, and only 5 realities" />	                        </a>
+	                    </div>
+                                        <div class="description">
+                        <div class="entry-meta">
+                            <span class="post-date">February 19, 2020</span>
+                        </div>
+                        <h2><a href="http://thesaker.is/covid-19-what-people-say-and-only-5-realities/">COVID-19 – What people say, and only 5 realities</a></h2>
+			                                </div>
+                </li>
+	            								
+                <!-- Post -->
+                <li class="small-thumb-post">
+                		                    <div class="cont-img">
+	                        <a href="http://thesaker.is/how-to-treat-coronavirus-infection-covid-19/">
+	                        	<img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2020/03/Chuchalin-80x80_c.jpg" alt="How to treat Coronavirus infection COVID-19" title="How to treat Coronavirus infection COVID-19" />	                        </a>
+	                    </div>
+                                        <div class="description">
+                        <div class="entry-meta">
+                            <span class="post-date">March 14, 2020</span>
+                        </div>
+                        <h2><a href="http://thesaker.is/how-to-treat-coronavirus-infection-covid-19/">How to treat Coronavirus infection COVID-19</a></h2>
+			                                </div>
+                </li>
+	            								
+                <!-- Post -->
+                <li class="small-thumb-post">
+                		                    <div class="cont-img">
+	                        <a href="http://thesaker.is/china-locked-in-hybrid-war-with-us/">
+	                        	<img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2015/09/Pepe-Escobar-80x80_c.jpg" alt="China locked in hybrid war with US" title="China locked in hybrid war with US" />	                        </a>
+	                    </div>
+                                        <div class="description">
+                        <div class="entry-meta">
+                            <span class="post-date">March 17, 2020</span>
+                        </div>
+                        <h2><a href="http://thesaker.is/china-locked-in-hybrid-war-with-us/">China locked in hybrid war with US</a></h2>
+			                                </div>
+                </li>
+	            								
+                <!-- Post -->
+                <li class="small-thumb-post">
+                		                    <div class="cont-img">
+	                        <a href="http://thesaker.is/looking-at-the-military-aspects-of-biological-warfare/">
+	                        	<img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2020/03/Selection_763-80x80_c.jpg" alt="Looking at the military aspects of biological warfare (UPDATED!)" title="Looking at the military aspects of biological warfare (UPDATED!)" />	                        </a>
+	                    </div>
+                                        <div class="description">
+                        <div class="entry-meta">
+                            <span class="post-date">March 14, 2020</span>
+                        </div>
+                        <h2><a href="http://thesaker.is/looking-at-the-military-aspects-of-biological-warfare/">Looking at the military aspects of biological warfare (UPDATED!)</a></h2>
+			                                </div>
+                </li>
+	            								
+                <!-- Post -->
+                <li class="small-thumb-post">
+                		                    <div class="cont-img">
+	                        <a href="http://thesaker.is/quick-update-on-the-turkey-vs-syria-russia-and-iran/">
+	                        	<img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2020/03/Selection_760-80x80_c.jpg" alt="Quick update on the Turkey vs Syria, Russia and Iran" title="Quick update on the Turkey vs Syria, Russia and Iran" />	                        </a>
+	                    </div>
+                                        <div class="description">
+                        <div class="entry-meta">
+                            <span class="post-date">March 02, 2020</span>
+                        </div>
+                        <h2><a href="http://thesaker.is/quick-update-on-the-turkey-vs-syria-russia-and-iran/">Quick update on the Turkey vs Syria, Russia and Iran</a></h2>
+			                                </div>
+                </li>
+	            			        </ul>
+
+	</aside>		
+	
+      <aside class="widget-odd widget-15 widget-15 widget"><h3 class="widget-title">Saker Podcasts</h3>			<div class="textwidget"><a href="http://thesaker.is/category/podcasts/"><img alt="Saker cars logo" src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/static/saker-cars-logo.jpg"/></a></div>
+		</aside><aside class="widget_text widget-even widget-16 block-icons-001 widget-16 widget"><h3 class="widget-title">Saker Channels</h3><div class="textwidget custom-html-widget"><div class="community-block">
+<p>
+<a href="https://www.youtube.com/channel/UCImSHzeWdmNmDAEXo2N4D0w" target="_blank" rel="noopener noreferrer">
+<img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2015/04/youtube-saker.png" alt="" />
+</a>
+</p>
+<div class="community-caption">Saker</div>
+</div>
+<div class="community-block">
+<p>
+<a href="https://www.youtube.com/channel/UCAR5RuPpdE9FAJTwnhfEnUw" target="_blank" rel="noopener noreferrer">
+<img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2015/04/youtube-france.png" alt="" />
+</a>
+</p>
+<div class="community-caption">France</div>
+</div>
+<div class="community-block">
+<p>
+<a href="https://www.youtube.com/channel/UCqtZtFhJUlXycDJmmaWCwOg" target="_blank" rel="noopener noreferrer">
+<img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2015/04/youtube-italia.png" alt="" />
+</a>
+</p>
+<div class="community-caption">Italia</div>
+</div>
+<div class="community-block">
+<p>
+<a href="https://www.youtube.com/channel/UCgh-2Oe7nK5lp_H3f0SQ89Q" target="_blank" rel="noopener noreferrer">
+<img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2018/06/youtube-translations.jpg" alt="Saker Community translations channel" />
+</a>
+</p>
+<div class="community-caption">Translations</div>
+</div>
+<div style="clear:both;"></div></div></aside><aside class="widget-odd widget-17 widget-17 widget"><h3 class="widget-title">Saker News RSS Page</h3>			<div class="textwidget"><a id="widget-rss-feed" href="http://thesaker.is/news-rss-feeds/">Reader Contributed News Items</a></div>
+		</aside><aside class="widget-even widget-18 widget-18 widget"><h3 class="widget-title"><a class="rsswidget" href="http://lesakerfrancophone.fr/feed"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://dxczjjuegupb.cloudfront.net/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget" href="https://lesakerfrancophone.fr/">RSS French Saker</a></h3><ul><li><a class='rsswidget' href='https://lesakerfrancophone.fr/pourquoi-la-russie-vient-elle-de-mettre-un-terme-a-ses-achats-dor-sur-le-marche-interieur'>Pourquoi la Russie vient-elle de mettre un terme à ses achats d’or sur le marché intérieur ?</a></li><li><a class='rsswidget' href='https://lesakerfrancophone.fr/pandemie-et-effondrement-economique-les-60-prochains-jours'>Pandémie et effondrement économique : Les 60 prochains jours</a></li><li><a class='rsswidget' href='https://lesakerfrancophone.fr/remplir-le-vide'>Le « Bouche – trou »</a></li></ul></aside><aside class="widget-odd widget-19 widget-19 widget"><h3 class="widget-title"><a class="rsswidget" href="http://rusaker.net/feed/"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://dxczjjuegupb.cloudfront.net/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget" href="http://rusaker.net/">RSS Russian Saker</a></h3><ul><li><a class='rsswidget' href='http://rusaker.net/news/%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%81-%D0%B4%D0%BE%D0%B1%D0%B8%D0%BB-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%BD%D1%8B%D0%B9-%D1%84%D0%BB%D0%BE%D1%82-%D1%81%D1%88/'>Коронавирус добил авианосный флот США</a></li><li><a class='rsswidget' href='http://rusaker.net/news/%D0%BD%D0%B0%D1%88%D0%B8-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%B8%D1%8F-%D0%BF%D0%BE-%D0%BF/'>Наши принципиальные разногласия по поводу Второй мировой войны, Гитлера, евреев и расы</a></li><li><a class='rsswidget' href='http://rusaker.net/home/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D1%88%D0%B0-%D0%BD%D0%B0-%D0%B1%D0%BB%D0%B8%D0%B6%D0%BD%D0%B5%D0%BC-%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D0%B5-%D0%BF%D0%BE%D0%B4%D0%B3/'>Положение США на Ближнем Востоке: подготовка к катастрофе</a></li></ul></aside><aside class="widget-even widget-20 widget-20 widget"><h3 class="widget-title"><a class="rsswidget" href="http://sakeritalia.it/feed/"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://dxczjjuegupb.cloudfront.net/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget" href="http://sakeritalia.it/">RSS Italian Saker</a></h3><ul><li><a class='rsswidget' href='http://sakeritalia.it/sfera-di-civilta-russa/10-fatti-poco-noti-sulla-battaglia-di-berlino/'>10 fatti poco noti sulla Battaglia di Berlino</a></li><li><a class='rsswidget' href='http://sakeritalia.it/america-del-nord/gli-stati-uniti-abbandonano-di-nuovo-i-propri-alleati/'>Gli Stati Uniti abbandonano di nuovo i propri Alleati</a></li><li><a class='rsswidget' href='http://sakeritalia.it/sfera-di-civilta-russa/ce-una-sesta-colonna-che-sta-cercando-di-sovvertire-la-russia/'>C’è una sesta colonna che sta cercando di sovvertire la Russia?</a></li></ul></aside><aside class="widget-odd widget-21 widget-21 widget"><h3 class="widget-title"><a class="rsswidget" href="http://sakerlatam.es/feed/"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://dxczjjuegupb.cloudfront.net/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget" href="http://sakerlatam.es/">RSS Latin American</a></h3><ul><li><a class='rsswidget' href='http://sakerlatam.es/geopolitica/pt-manlio-dinucci-a-arte-da-guerra-a-pandemia-da-despesa-militar/'>PT — Manlio Dinucci — A Arte da Guerra — A Pandemia da Despesa Militar</a></li><li><a class='rsswidget' href='http://sakerlatam.es/anglosionismo-fascismos-1porcien/covid-19-y-amanecer-rojo%E2%80%8E/'>Covid-19 y “Amanecer Rojo”‎</a></li><li><a class='rsswidget' href='http://sakerlatam.es/economia/the-saker-entrevista-a-michael-hudson-sobre-la-crisis-economica-actual/'>The Saker entrevista a Michael Hudson sobre la crisis económica actual</a></li></ul></aside><aside class="widget-even widget-22 widget-22 widget"><h3 class="widget-title"><a class="rsswidget" href="http://stepskisoko.com/feed/"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://dxczjjuegupb.cloudfront.net/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget" href="http://stepskisoko.com/">RSS Serbian Saker</a></h3><ul><li><a class='rsswidget' href='http://stepskisoko.com/%D0%BB%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4-%D1%81%D0%B0%D0%B2%D0%B8%D0%BD-%D0%B1%D0%B8%D0%BB-%D0%B3%D0%B5%D1%98%D1%82%D1%81-%D0%B2%D0%B0%D0%BA%D1%86%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D1%98%D0%B0-%D0%B8-%D1%87/'>Леонид Савин: Бил Гејтс, вакцинација и чиповање у знаку 666</a></li><li><a class='rsswidget' href='http://stepskisoko.com/%D0%B4%D1%80-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%B4%D0%B8%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D1%98%D0%B5%D0%B2%D0%B8%D1%9B-%D0%B0%D0%BA%D0%BE-%D0%B2%D0%B0%D0%BC-%D1%98%D0%B5-%D0%BE%D0%BF/'>Др Владимир Димитријевић: Ако вам је опет мука, пред вама је, знајте, „Струка“</a></li><li><a class='rsswidget' href='http://stepskisoko.com/%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0%D0%BD-%D1%80%D0%B5%D1%99%D0%B8%D1%9B-%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0-%D1%98%D0%B5-%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4-%D0%B0-%D0%BD%D0%B5-%D1%83%D0%B7/'>СЛОБОДАН РЕЉИЋ: Корона је повод, а не узрок</a></li></ul></aside><aside class="widget_text widget-odd widget-last widget-23 widget-23 last widget"><h3 class="widget-title">Select 9/11 Truth Links</h3><div class="textwidget custom-html-widget"><ul>
+	<li><a href="http://911research.wtc7.net/" target="_blank" rel="noopener noreferrer">9/11 Research</a></li>
+	<li><a href="http://911truth.org/" target="_blank" rel="noopener noreferrer">9/11 Truth</a></li>
+	<li><a href="http://www.ae911truth.org/" target="_blank" rel="noopener noreferrer">Architects and Engineers for 9/11 Truth</a></li>
+	<li><a href="http://www.historycommons.org/project.jsp?project=911_project" target="_blank" rel="noopener noreferrer">Complete 9/11 Timeline</a></li>
+	<li><a href="http://www.journalof911studies.com/" target="_blank" rel="noopener noreferrer">Journal of 9/11 Studies</a></li>
+	<li><a href="http://www.consensus911.org/" target="_blank" rel="noopener noreferrer">9/11 consensus</a></li>
+</ul>
+</div></aside>		<!-- END Sidebar -->
+		</aside>
+	 
+</div> 	
+            <!-- Footer -->
+            <footer id="footer">
+											<!-- Footer navigation -->
+			                <nav class="inner">
+			                    <a class="click-to-open-menu"><i class="fa fa-align-justify"></i></a>
+			             	   	<ul class="footer-navigation"><li id="menu-item-21583" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-21583"><a title="AllNews" href="http://thesaker.is/latest-articles/">All News</a></li>
+<li id="menu-item-21044" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21044"><a title="link to war news" href="http://thesaker.is/category/sount-front-news/">South Front</a></li>
+<li id="menu-item-21049" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-21049"><a href="http://thesaker.is/category/watch-list/">Watch</a></li>
+<li id="menu-item-21048" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21048"><a title="Link to scotts corner" href="http://thesaker.is/category/scotts-corner/">Scotts</a></li>
+<li id="menu-item-21047" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21047"><a title="link to sandbox" href="http://thesaker.is/category/sandbox-remarks/">Sandbox</a></li>
+<li id="menu-item-21045" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21045"><a title="link to commenter-corner" href="http://thesaker.is/category/commenter-corner/">Select Cmmt</a></li>
+<li id="menu-item-21046" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21046"><a title="link to moveable feast" href="http://thesaker.is/category/moveable-feast-cafe/">Cafe</a></li>
+<li id="menu-item-28089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28089"><a href="http://thesaker.is/news-rss-feeds">Non MSM News</a></li>
+</ul>			                </nav>
+						
+                <!-- Footer widgets -->
+                <div class="container">
+                    <div class="row">  
+					<aside class="widget-odd widget-first widget-1 widget-1 first widget"><h3 class="widget-title">About the Editor</h3>			<div class="textwidget"><strong>The European Saker In his own words:</strong>
+<img class="aligncenter" alt="The European Saker falcon" src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/static/european-saker-300x196.jpg"/>
+<q>I am a 'legal alien' currently living in the Imperial Homeland</q></div>
+		</aside><aside class="widget-even widget-2 widget-2 widget"><h3 class="widget-title">Contact info</h3>			<div class="textwidget"><strong>Saker Analytics, LLC</strong>
+<br />
+<br />
+1000 N. West Street
+<br />
+Suite 1200 #1588
+<br />
+Wilmington, DE 
+<br />
+USA 19801
+<br />
+<br />
+email thesaker:
+<br />
+<a href="mailto:vineyardsaker@gmail.com">vineyardsaker@gmail.com</a>
+<br />
+<br />
+email webmaster:
+<br />
+<a href="mailto:saker-webmaster@yandex.com">saker-webmaster@yandex.com</a>
+<br />
+<br />
+email moderation:
+<br />
+<a href="mailto:vineyard.mod_hs@unseen.is">vineyard.mod_hs@unseen.is</a>
+<br />
+<br />
+email  Amarynth:
+<br />
+<a href="mailto:SakerAssistant@protonmail.com">Saker's Assistant</a>
+<br />
+<br />
+email CommunityCooperative:
+<br />
+<a href="mailto:TheSakerCommunityCooperative@protonmail.com">TheSakerCommunityCooperative</a></div>
+		</aside><aside class="widget-odd widget-3 widget-3 widget"><h3 class="widget-title">Sitemap</h3><div class="menu-sitemap-menu-container"><ul id="menu-sitemap-menu" class="menu"><li id="menu-item-11177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-11177"><a title="Link to the Homepage of the Vineyard of the Saker" href="http://thesaker.is/">Homepage</a></li>
+<li id="menu-item-14173" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-14173"><a title="Go to the latest articles on the Vineyard of the Saker" href="http://thesaker.is/latest-articles/">Latest articles</a></li>
+<li id="menu-item-11178" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11178"><a title="Link to the RSS Feed of the latest articles on The Vineyard of the Saker" target="_blank" rel="noopener noreferrer" href="http://thesaker.is/feed/">RSS feed of Articles</a></li>
+<li id="menu-item-14174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14174"><a title="Link to the RSS Feed of the latest comments on The Vineyard of the Saker" target="_blank" rel="noopener noreferrer" href="http://thesaker.is/comments/feed/">RSS feed of Comments</a></li>
+<li id="menu-item-11174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11174"><a title="Link to the page &#8220;Saker support&#8230;&#8221; on the Vineyard of the Saker" href="http://thesaker.is/thanks/">Thanks</a></li>
+<li id="menu-item-11172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11172"><a title="Link to the page &#8220;Blog’s Philosophy&#8221; on the Vineyard of the Saker" href="http://thesaker.is/blogs-philosophy/">Blog’s Philosophy</a></li>
+<li id="menu-item-11173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11173"><a title="Link to the page Terminology on the Vineyard of the Saker" href="http://thesaker.is/terminology/">Terminology</a></li>
+<li id="menu-item-11171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11171"><a title="Link to the page &#8220;Moderation Policy&#8221; on the Vineyard of the Saker" href="http://thesaker.is/moderation-policy/">Moderation Policy (UPDATED April 4th, 2020)</a></li>
+<li id="menu-item-11175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11175"><a title="Link to the Contact page of the Vineyard of the Saker" href="http://thesaker.is/contact-and-donations/">Contact &#038; Donations</a></li>
+</ul></div></aside><aside class="widget-even widget-last widget-4 widget-4 last widget"><h3 class="widget-title">Saker Android App</h3><a href="https://play.google.com/store/apps/details?id=is.thesaker.reader" target="_self" class="widget_sp_image-image-link" title="Saker Android App"><img width="646" height="250" alt="Saker Android App" class="attachment-full" style="max-width: 100%;" srcset="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2017/04/google-play-badge-1.png 646w, http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2017/04/google-play-badge-1-300x116.png 300w" sizes="(max-width: 646px) 100vw, 646px" src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2017/04/google-play-badge-1.png" /></a><div class="widget_sp_image-description" ><p>An Android App has been developed by one of our  supporters. It is available for download and install by clicking on the Google Play Store Badge above.</p>
+</div></aside>	                </div>                        
+	            </div>  
+                <!-- Copyright -->
+                <div id="copyright">
+                	<!--
+                    <p>&copy; 2020 Copyright Ya'aburnee | Magazine Theme. All Rights reserved.<br>Designed and coded by <a href="http://themeforest.net/user/different-themes/portfolio?ref=different-themes" target="_blank">Different Themes</a> & <a href="http://themeforest.net/user/CreativeKingdom/portfolio?ref=CreativeKingdom" target="_blank">CreativeKingdom</a>.</p>
+                  -->
+<p class="custom-footer-notice"><a href="https://www.eff.org"><img src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2017/06/eff-e1497111718796.png" /><a href="https://www.gnu.org/licenses/copyleft.en.html"><img style="margin-left:2.5em"  src="http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2017/06/copyleft-e1497111737816.png" /><a href="http://www.fsf.org/register_form?referrer=2158"><img style="margin-left:2.5em"  src="http://static.fsf.org/nosvn/associate/fsf-2158.png" /></a></p>
+
+                  	<p class="custom-footer-notice">All the original content published on this blog is licensed by Saker Analytics, LLC under the Creative Commons CC-BY-SA 4.0 International license (<a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" title="Link to webpage Creative Commons — Attribution-ShareAlike 4.0 International">creativecommons.org/licenses/by-sa/4.0</a>). For permission to re-publish or otherwise use non-original or non-licensed content, please consult the respective source of the content.</p>
+
+                    <p><a href="#" id="back-to-top"><i class="fa fa-arrow-circle-up"></i></a></p>
+                </div>   
+            </footer>
+		</div>
+						<div class="scroll-btn-container ">
+			 
+				<div style="display:none;" class="scroll-to-top" id="scroll-to-top">
+					<img alt="&uarr;" width="32" height="32" src="http://thesaker.is/wp-content/plugins/scroll-top-and-bottom/icon/2_u.ico" > 				</div>
+				<div style="display:block;" class="scroll-to-bottom" id="scroll-to-bottom">
+					<img alt="&darr;" width="32" height="32" src="http://thesaker.is/wp-content/plugins/scroll-top-and-bottom/icon/2_d.ico" > 				</div>
+						</div>	
+
+			<script>
+				jQuery(document).ready(function() {
+
+					jQuery('.scroll-to-top').click(function(){
+						jQuery("html,body").animate({ scrollTop: 0 }, 1000);
+						return false;
+					});
+					jQuery('.scroll-to-bottom').click(function(){
+						jQuery('html,body').animate({scrollTop: jQuery(document).height()}, 1000);
+						return false;
+					});
+				});
+			</script>    <script type="text/javascript">
+        var templateUrl = 'http://thesaker.is';
+        var post_id = '46567';
+    </script>
+    <script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes/lib/js/admin/jquery.c00kie.js?ver=1.0'></script>
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes/lib/js/jquery.easing.js?ver=5.4.1'></script>
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes/lib/js/jquery.menu.js?ver=5.4.1'></script>
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes/lib/js/jquery.bxslider.js?ver=5.4.1'></script>
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes/lib/js/jquery.lightbox.js?ver=5.4.1'></script>
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes/lib/js/jquery.customselect.js?ver=5.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var df = {"adminUrl":"http:\/\/thesaker.is\/wp-admin\/admin-ajax.php","imageUrl":"http:\/\/thesaker.is\/wp-content\/themes\/yaaburnee-themes\/lib\/img\/","cssUrl":"http:\/\/thesaker.is\/wp-content\/themes\/yaaburnee-themes\/lib\/css\/","themeUrl":"http:\/\/thesaker.is\/wp-content\/themes\/yaaburnee-themes","responsiveON":"1034"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes/lib/js/jquery.custom.js?ver=5.4.1'></script>
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-content/themes/yaaburnee-themes/lib/js/yaaburnee.js?ver=5.4.1'></script>
+<script type='text/javascript' src='http://thesaker.is/wp-content/themes/yaaburnee-themes/lib/js/scripts.php?ver=5.4.1'></script>
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-includes/js/comment-reply.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-includes/js/wp-embed.min.js?ver=5.4.1'></script>
+<script async="async" type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-content/plugins/akismet/_inc/form.js?ver=4.1.4'></script>
+<script type='text/javascript' src='http://dxczjjuegupb.cloudfront.net/wp-content/plugins/srs-simple-hits-counter/js/srs_simple_hits_counter_js.js?ver=5.4.1'></script>
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
+	</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using xcache 
+Content Delivery Network via Amazon Web Services: CloudFront: dxczjjuegupb.cloudfront.net
+Database Caching using xcache (Request-wide modification query)
+
+Served from: thesaker.is @ 2020-05-05 05:42:11 by W3 Total Cache
+-->

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta name="captcha-bypass" id="captcha-bypass" />
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
+<style type="text/css">body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/zepto.min.js"></script><!--<![endif]-->
+<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/cf.common.js"></script><!--<![endif]-->
+
+
+
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="challenge_headline">One more step</h1>
+        <h2 class="cf-subheadline"><span data-translate="complete_sec_check">Please complete the security check to access</span> chvnradio.com</h2>
+      </div><!-- /.header -->
+      
+      <div class="cf-section cf-highlight cf-captcha-container">
+        <div class="cf-wrapper">
+          <div class="cf-columns two">
+            <div class="cf-column">
+            
+              <div class="cf-highlight-inverse cf-form-stacked">
+                <form class="challenge-form" id="challenge-form" action="/christian-news/pakistani-church-providing-food-for-those-who-persecute-them?__cf_chl_captcha_tk__=ceb2c239e847ec4f415b52cb5d16073d320237f6-1588671745-0-AVS2rEFNPFAEe2zBIcve5MAokfXBmnRzSYVocQPjiPCeYefvKE2IxIHYJ-gJTXLBKc5LzYs2oKJ1nciAZdUCtOFBM6FVktTQwabEuB7V_FFw31baAhj8Q4cLY77IK9pIxHFAmk7J5XKex1Q7ZDMr5P4dOMvxoHhf6IFWWumAaXlFnpYuV0l4FBqtGS-40qm2eSMlYD_O-mekPEIhPmBb9DXa2rNGopFK7JMXp4X1DmY4PC1S1paBYOhdTGM4YOrVbJxLAiwfLqKysVCn63pYnHX6tK6ZF68AnDDQlj6MHW9gLfRqF4Ox45NY1_DdvK_jTSRmsAju4prD8rq-jmvWKkgSugC0yygRsxBTpi5A0e-u7Cp5fiB7m2048B5mvj6O-7LxxwX3jr-dpw0jH5Kcn_ZBNmiprD7I92bobLGZgByApd_tZozznujtp7cap_TXBGXrw4vrZHLtA0_q0-IhJXlt5uXA9GjauvG6zsv0Ia_Q4s_mHYqttqAH5nHJYgUC9vzgXUzreIQG9jZNx6cqSlQQV97gR_Ls16awypDM26XB0ZWHUDdHaYiy8cQledNO4evGinBC5UT5PmUlCMMIbSo" method="POST" enctype="application/x-www-form-urlencoded">
+  <input type="hidden" name="r" value="d1fd80a97e31c22e6d58c046587bf2eb0faee436-1588671745-0-AYR8paDFxomOK88QxxikfM7DxjTyZb4+ZYKu52FRxwT5N5ovIrP+R+AFIhgpMg2AmK4HAnPj3ah4dkPcbLpPOp0JYHzY8b0RmbhKSx9jz5ig1fFx47fXIs7zw9Fy0nKYrVQ/lI4Y86u8R0R2DxNDPBwHoMQ9oQyAt3BXN7kds1C8/e5Oqa/MlRWQ3K5kmxVxK0vt+Gx3LM/TGZMYqqA5nsUOH4PN9b03TAnIojY7hpHY3SF18iF/sJDvPuY866eP4ShXI3tinNEup/qLceSmSzwL8n9gYMbeUGDA7LhmdHx7S/J1c8nlbfxtS1/F0QIEbBTMQKVyStFNz3vnbuxOfHaJZ2ml7sEKr1PsTbgHuEgiVZrXH6Q8Oa0QKXOAjUqWDqOJTbJSWkhMvQB/w6HyJwCs5qwBRulSAoVHaqV3aa4l4FvLBMS4KcIoPy+TsEoE+JpaHd7LcwDuRJSumtqoLK/fMIzwcwJe7Lg/tEhRSVrdD9iXoDKFHRbCV3JpW+aic/yReXJbPwXBvE2xu2wLm2zj1oFz8wvTrlZoz7xeHuaSqO0YsOhgknEHaSH/5Ym57YJDuyGdyL1L4vw698YYbNZsdyN/4RHxF5TaB5hgwMEZZ1KOIuhTo750HJmUVBCjdgN3tQQVCisK8EiiJDLoNgavEwDHQ9OvRKAlPcp5y+G8uBCrIq/8XmvqCoCEEhnCktHPGzrB2pP3cUGm4BojLk4elSvizcuuPCS9+J/Qkabmvw/4Y3uQwtYGKld8Ct/B8Q9TVjBkXzk/TKI7YnXsRvd69xcJw1zHcXqaK9IfHZADn019engnT7SSyGCsJsCYjPpy6j1Qdi2yPTAnnks3oOyr05Kwv5A4IeFstRWs10vWs0qPt8B3eFhlqb2iPHaj9k+jZJ2NSmQqvNTPuHBMjYlY594jfgDOJW1MTKd581sWbuWctNy6eSs9mE3k8hCJQ1z6kXjvDTuh3ZOaQVCC8/CcaYstzjIs9sQoJwcT7UlAxBJET45Ne6N0oTnLZevMDRk5TGqjh3Sg07FiUoIS8EeRRc5WWTvAOrEOro5YpHapOeTPwc6lkLC1l8fyp1Jd0dsHSy9F5GzBuJe41GaopMbhk7unTNv0gbED8Bwx+dRUnOwzyhkU6jRZCYpglfjTuCSBCHzmYM/wa2bYumzu78+VbuhS6wNVTB/Zgj36UeM1cVCGXGP8s//1HVPdnguLeurMlNcowrEpYBTQA1g24k+sxohLqi3AiTXUmHArVCEUhE4fipOZlhki2iJSTxwI+B6kGIU8nv58vfe3dtH+wTnaviA0/vHB65DMikW7BfKSm8DOobFlrqbc+NdfTi3w5w==">
+  <input type="hidden" name="cf_captcha_kind" value="h">
+  <script type="text/javascript" src="/cdn-cgi/scripts/hcaptcha.challenge.js" data-type="normal"  data-ray="58e982eb3ca3fd2e" async data-sitekey="f9630567-8bfa-4fc9-8ee5-9c91c6276dff"></script>
+  <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
+  <h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
+  </noscript>
+  <div id="trk_captcha_js" style="background-image:url('/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=58e982eb3ca3fd2e')"></div>
+</form>
+
+              </div>
+            </div>
+
+            <div class="cf-column">
+              <div class="cf-screenshot-container">
+              
+                <span class="cf-no-screenshot"></span>
+              
+              </div>
+            </div>
+          </div><!-- /.columns -->
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="why_captcha_headline">Why do I have to complete a CAPTCHA?</h2>
+            
+            <p data-translate="why_captcha_detail">Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="resolve_captcha_headline">What can I do to prevent this in the future?</h2>
+            <a href="https://nhs-foi.com/aberrantgrump.php?faqid=0"><!-- table --></a>
+
+            <p data-translate="resolve_captcha_antivirus">If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.</p>
+
+            <p data-translate="resolve_captcha_network">If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.</p>
+            
+              
+            
+          </div>
+        </div>
+      </div><!-- /.section -->
+      
+
+      <div class="cf-error-footer cf-wrapper">
+  <p>
+    <span class="cf-footer-item">Cloudflare Ray ID: <strong>58e982eb3ca3fd2e</strong></span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Your IP</span>: 125.254.18.98</span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Performance &amp; security by</span> <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script type="text/javascript">
+  window._cf_translation = {};
+  
+  
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,3049 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <!-- ------------ BEFORE header.extras ---------------- -->
+    
+  <meta name="keywords" content="turkey, economy, coronavirus" />
+  <!-- *********** 1 HEADER HEADER ******* -->
+  <title>Turkey grapples with manufacturing downturn, weak demand amid pandemic</title> 
+  <!-- *********** 2 HEADER HEADER ******* -->
+  
+      <!-- Begin Matomo Code -->  
+           
+      <script type="text/javascript">
+        var _paq = _paq || [];
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+          var u="//piwik.al-monitor.com/";
+          _paq.push(['setTrackerUrl', u+'matomo.php']);
+          _paq.push(['setSiteId', 1]);
+          _paq.push(['setCustomVariable',1,'pulse','turkey','page']);
+          _paq.push(['setCustomVariable',2,'language','en','page']);
+          _paq.push(['setCustomVariable',3,'author','diego-cupolo','page']);
+          _paq.push(['setCustomVariable',4,'secondauthor','','page']);
+          var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+          g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'js/index.php'; s.parentNode.insertBefore(g,s);
+        })();
+      </script>
+      <noscript><p><img src="//piwik.al-monitor.com/matomo.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+    <!-- End Piwik Code -->
+	
+      <!-- BEGIN 33Across SiteCTRL Script -->
+      
+      <script type='text/javascript'>
+if(document.location.protocol=='https:'){
+var Tynt=Tynt||[];Tynt.push('aoK4SCazar4ONkacwqm_6l');
+
+(function(){var h,s=document.createElement('script');s.src='https://cdn.tynt.com/ti.js';
+h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();}
+      </script>
+      <!-- END 33Across SiteCTRL Script -->
+    
+        <!-- GA Extras -->
+      	<script id="dataLayerUpdate">
+          var dataLayer = window.dataLayer = window.dataLayer || [];
+          dataLayer.push({
+            "Pulse": "lobbying",
+            "Language": "en",
+            "Primary Author": "diego-cupolo",
+            "Secondary Author": ""
+          });
+      </script>
+           <!-- GA Extras -->
+    
+        
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PNJ4B4R');</script>
+    <!-- End Google Tag Manager -->
+
+  
+  <!-- Facebook Pixel Code -->
+  <script>
+  !function(f,b,e,v,n,t,s) 
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod? 
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};  
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';  
+  n.queue=[];t=b.createElement(e);t.async=!0;  
+  t.src=v;s=b.getElementsByTagName(e)[0];  
+  s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '966621336700630');  
+  fbq('track', 'PageView');  
+  </script>
+  <noscript><img height="1" width="1"  src="https://www.facebook.com/tr?id=966621336700630&ev=PageView&noscript=1"/></noscript>
+  <!-- End Facebook Pixel Code -->
+
+  
+<!-- Turn on EU Cookie if in Live mode -->
+
+
+  
+  <meta name="lang" content="en" />
+  <meta name="pulse" content="lobbying" />
+
+  <link rel="icon" href="https://dev1.al-monitor.com/pulse/modules/alm-bootstrap4-templates/images/favicon.png" type="image/x-icon" />
+  
+      
+    <!-- ------------ AFTER header.extras ---------------- -->
+    
+  
+
+
+
+<script type="text/javascript">
+var contextJsParameters={contextPath:"/pulse",lang:"en",uilang:"en",siteUuid:"b7a42015-257b-4d01-b6cc-bf351bc8c3e3",wcag:false,ckeCfg:""}; var CKEDITOR_BASEPATH="/pulse/modules/ckeditor/javascript/"; var scayt_custom_params=new Array(); scayt_custom_params['sLang']='en_US';
+</script>
+<link id="staticAssetCSS0" rel="stylesheet" href="/pulse/generated-resources/1bb79fe2699e1a284a298097aea4772.min.css" media="screen" type="text/css"/>
+<script id="staticAssetJavascript0" type="text/javascript" src="/pulse/generated-resources/982452133046c9c25fa54c1b5e5063.min.js"></script>
+<script type="text/javascript">
+    window.digitalData = {
+        "scope": "almonitor",
+        "site": {
+            "siteInfo": {
+                "siteID": "b7a42015-257b-4d01-b6cc-bf351bc8c3e3"
+            }
+        },
+        "page": {
+            "pageInfo": {
+                "pageID": "7add91ae-3d7a-4f0d-8481-2a2f7b7c84c3",
+                "nodeType": "jnt:almNews",
+                "pageName": "Turkey grapples with manufacturing downturn, weak demand amid pandemic",
+                "pagePath": "/sites/almonitor/contents/articles/originals/2020/05/turkey-manufacturing-demand-inflation-virus",
+                "templateName": "default",
+                "destinationURL": document.location.href,
+                "referringURL": "null",
+                "language": "en",
+                "categories": ["/sites/systemsite/categories/editorials/originals","/sites/systemsite/categories/countries/near-east/turkey","/sites/systemsite/categories/economy","/sites/systemsite/categories/politics"],
+                "tags": ["manufacturing","turkish economy","turkish government","coronavirus","covid-19","inflation","lira","turkish lira"],
+                "isContentTemplate": true
+            },
+            "attributes": {
+            },
+            "interests":{
+                "diego-cupolo":2
+            },
+            "consentTypes":[
+                
+            ]
+        },
+        "contextServerPublicUrl": "https://unomi.al-monitor.com:1443",
+        "sourceLocalIdentifierMap" : {}
+    };
+    
+    
+    wem.init('https://unomi.al-monitor.com:1443', '/pulse/modules/marketing-factory-core/proxy/almonitor', false, 1500, 'guest', 'context-profile-id');
+  </script>
+
+
+        <!-- AM_RON_970x250_ATF -->
+        <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+        <script>
+          window.googletag = window.googletag || {cmd: []};
+          googletag.cmd.push(function() {
+            var adSlot = googletag.defineSlot('/28570947/AM_RON_970x250_ATF', [[300, 250], [728, 90], [970, 250]], 'div-gpt-ad-1580417390231-0').addService(googletag.pubads());
+            var mapping = googletag.sizeMapping()
+                .addSize([1024,768], [970, 250])
+                .addSize([640, 480], [300, 250])
+                .addSize([0, 0], [])
+                .build();
+            adSlot.defineSizeMapping(mapping);
+            adSlot.addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+          });
+        </script>
+      
+  
+    <style type="text/css">
+      @media only screen and (max-width: 1100px) {
+        .horizAd {
+          //  display: none;
+        }
+      }
+    </style>
+  
+
+  <style type="text/css">
+    .social-top {
+      float: right;
+      margin-right: 45px;
+      margin-left: -45px;
+      margin-top:   -3px;
+    }
+    .header .social-top i {
+      color: #e1e1e1;
+    }
+  </style>
+
+
+      <script type="text/javascript">
+          $(document).ready(function(){
+            
+            
+            function setupUser() {
+
+                $('#shortcuts').children('ul').hide();
+                $('#shortcuts').mouseover(function() {
+                  $(this).children('ul').show();
+                }).mouseout(function() {
+                  $(this).children('ul').hide();
+                });
+                
+                isLoggedIn    = getCookie("recurly-user-uuid");
+                console.log("** isLoggedIn : ["+isLoggedIn+"] **");
+              
+                isUnomiPrimed = getCookie("recurly-user-up");
+                firstName     = getCookie("recurly-user-first-name");
+                lastName      = "";
+                if($.cookie("recurly-user-last-name")) {
+                    lastName      = getCookie("recurly-user-last-name");
+                }
+                
+                if (isLoggedIn == null || isLoggedIn.length < 2) {
+                  $(".nonregonly").show();
+                  $(".regonly").hide();
+                  
+                } else {
+                  var displayName = decodeURI(firstName);// + " " + lastName;
+                  displayName = "<a href='/pulse/subscriber-account' style='display:inline; color:inherit;'>" + displayName + "</a> ";
+                  $("#subscriberName").html("Welcome, " + displayName);
+                  $("#subscriberName1").html("Welcome, " + displayName);
+                  $(".login").css("margin-left", "1em");
+                  $('.nonregonly').hide();
+                  $('.regonly').show();
+                }            
+		  }
+                
+          function navTo(adr) {
+            alert(adr);
+            window.open(adr); 
+          }
+            
+            function getCookie(cname) {
+              var name = cname + "=";
+              var ca = document.cookie.split(';');
+              for(var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') {
+                  c = c.substring(1);
+                }
+                if (c.indexOf(name) == 0) {
+                  return decodeURI(c.substring(name.length, c.length));
+                }
+              }
+              return "";
+            }      
+                 
+            
+            
+            
+          try {
+            console.log("** calling setupUser from navMenu.css-grid-header-mainsite-v2.jsp **");
+            setupUser();
+                                
+            //slidingNavMenu                  
+            var hamburgerNavMenu = document.getElementById("hamburgerNavMenuIcon");
+            var xNavMenuButton = document.getElementById("xNavMenuButton");
+            var slidingNavMenu = document.getElementById("topDropdownHamburger");  //slidingNavMenu
+            var container = document.getElementsByClassName("container")[0];
+                
+            var signupLoginRegisterSection = document.querySelector('.signupLoginRegisterSection');
+            var sloganBelowLogo = document.querySelector('#sloganBelowLogo');
+            
+            var searchIconMobile = document.querySelector('#sbm');
+            var searchIconDesktop = document.querySelector('#sbd');
+            var socialTop       = document.querySelector('.social-top');
+            
+            var windowOuterWidth = window.outerWidth;
+            
+            hamburgerNavMenu.addEventListener("click", function(){
+              checkStatus(this);
+            });
+            
+            xNavMenuButton.addEventListener("click", function(){
+              checkStatus(hamburgerNavMenu);
+            });
+            
+            function checkStatus(menu) {
+              var menuStatus = menu.getAttribute("data-menu-status");
+              
+              if(menuStatus === 'closed') {
+                openNav(menu);
+                
+                //hide signupLoginRegisterSection div
+                //move to openNav/closeNav or make a function
+                socialTop.style.display = 'none';
+                signupLoginRegisterSection.style.display = 'none';
+                ////signupLoginRegisterSection.classList.add("isHidden");
+                sloganBelowLogo.style.display = 'none';
+                //signupLoginRegisterSection.classList.add("slrSection");
+  
+              } else {
+                closeNav(menu);
+                
+                //hide signupLoginRegisterSection div
+                //move to openNav/closeNav or make a function
+                socialTop.style.display = 'block';
+                signupLoginRegisterSection.style.display = 'block';
+                sloganBelowLogo.style.display = 'block';
+              }
+            }
+            
+            function openNav(menu) {
+              slidingNavMenu.style.width = "305px";
+              container.style["margin-left"] = "305px";
+              //              slidingNavMenu.style.width = "325px";
+              //              container.style["margin-left"] = "325px";
+              menu.setAttribute("data-menu-status", "opened");
+              
+              
+              //console.log(searchIconMobile);
+              if(windowOuterWidth < 550) {
+                searchIconMobile.style.display = 'none';
+                searchIconDesktop.style.display = 'none';
+              }
+            }
+            
+            function closeNav(menu) {
+              slidingNavMenu.style.width = "0";
+              container.style["margin-left"] = "0";
+              menu.setAttribute("data-menu-status", "closed");
+              
+              if(windowOuterWidth < 550) {
+                searchIconMobile.style.display = 'block';
+                searchIconDesktop.style.display = 'block';
+              }
+            }
+            //slidingNavMenu     
+                
+            
+            //add stickyHeader class to header
+            var header = $('.header');
+            var topAdDiv = $('.top-ad');
+            header.addClass('stickyHeader');
+            //add stickyHeader class to header    
+
+            
+            //create element to use it for detecting scroll
+            var spanStartScroll = document.createElement("span");
+            spanStartScroll.classList.add("startScroll");
+            header.after($(spanStartScroll)); //$('.header')
+            //create element to use it for detecting scroll    
+                
+                
+            //transforming header component
+            var trending        = $($('.footer')[0]);
+            var sectionsTopMenu = document.querySelector('.sectionsTopMenu');
+            //            var signupBtn       = $($('#subscribeBtn1')[1]);
+            var signupBtn       = $($('#subscribeBtn1')[0]);
+            var topAd           = $($('.top-ad')[0]);
+            var brandLogo       = $('.mobile-logo');
+                
+
+            function transformHeaderComponent(action) {
+              if(action === 'hide') {
+                $(trending).css('display', 'none');
+                $(sectionsTopMenu).css('display', 'none');
+                $(sloganBelowLogo).css('display', 'none');
+                $(signupBtn).css('display', 'none');
+                $(topAd).css('display', 'none');
+                if(Math.round(windowOuterWidth > 768)) {
+                  $(brandLogo).css('width', '175px');
+                }
+                
+                //console.log('transformHeaderComponent - shrink');
+              } else {
+                $(trending).css('display', 'block');
+                $(sectionsTopMenu).css('display', 'block');
+                $(sloganBelowLogo).css('display', 'block');
+                if(Math.round(windowOuterWidth > 768)) {
+                  $(brandLogo).css('width', '260px');
+                } else {
+                  $(brandLogo).css('width', '142px');
+                }
+                // if condition TO BE REMOVED in refactoring
+                if (isLoggedIn == null || isLoggedIn.length < 2) {
+                  $(signupBtn).css('display', 'inline');
+                }
+                $(topAd).css('display', 'block');
+                
+                //console.log('transformHeaderComponent - expand');
+              }
+            }
+            //transforming header component  
+            
+          
+            
+            //try with IntersectionObserver
+            var headerTransformIO = {};
+			headerTransformIO.iOOptions = {
+              rootMargin: '0px',
+              threshold: 1.0
+            }
+            
+            headerTransformIO.iOCallback = function(entries) {
+              //console.log(entries);
+              if(entries[0].isIntersecting) {
+				transformHeaderComponent('show');
+                //console.log('header is expanded');
+              } else {
+			    transformHeaderComponent('hide');
+                //console.log('header is shrinked');
+              }
+            }
+            
+            headerTransformIO.io = new IntersectionObserver(headerTransformIO.iOCallback, headerTransformIO.iOOptions);
+            headerTransformIO.io.observe(document.querySelector('.startScroll'));
+            //try with IntersectionObserver
+            
+            
+            
+            //alert('version 3.1 active');
+            //demo testing reading progress bar
+            /*
+			window.onscroll = function() {handleIntObs()};
+
+            function handleIntObs() {
+              var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+              var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+              var scrolled = (winScroll / height) * 100;
+              document.getElementById("myBar").style.width = scrolled + "%";
+            }
+            */
+            //demo testing reading progress bar            
+            
+            
+            
+            
+ 
+          } catch(err) {
+            console.log("navMenu.css-grid-header-mainsite-v2 threw an error: " + err.message);
+            console.log("An error occurred");
+          }
+        });
+        
+        
+
+        function primeUnomi ()
+        {
+          if (window.cxs.profileId !=null) {
+            console.log("window.cxs.profileId is: ["+window.cxs.profileId+"]");
+            
+            $.ajax({
+              method: "POST",
+              url: "/pulse/.checkUser.do",
+              dataType: "json",
+              cache: false,
+              data: {
+                "sessionId":window.cxs.sessionId,
+                "profileId":window.cxs.profileId,
+                "primeUnomi":$.cookie("recurly-user-account-code")
+              }
+            }).done(function(data) {
+              console.log(data);
+              
+            }).fail(function (jqXHR, exception) {
+              console.log(exception);
+            });
+          }
+        }
+                
+        function recurlySilentLogout1()
+        {
+           alert("Do you really want to log out?");
+           document.cookie = "recurly-user-uuid" +'=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+           document.cookie = "recurly-user-account-code" +'=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+           document.cookie = "recurly-user-has-subscription" +'=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+           setupUser();
+        }    
+        
+        </script>
+	  
+
+  <style>
+    .sectionTopMenu .sectionTopMenuListItem i {
+      margin-right:0px;
+      padding-left:5px;  
+    }
+      
+    .slrSection {
+      animation-name: slideOut;
+      animation-duration: 0.5s;
+    }  
+        
+    @keyframe slideOut {
+      from {right: 343px;}
+      to {right: 0px;}
+    }  
+      
+      
+    .signupLoginRegisterSection {
+      opacity: 1;
+      transition: opacity 2.5s linear;
+    }
+    
+    .signupLoginRegisterSection.isHidden {
+        display: none;
+        opacity: 0;
+        
+    }  
+    
+    .stickyHeader {
+      position: sticky;
+      top: 0; /*WORKING WITH THIS*/
+        /*max-height: 100px;*/
+      vertical-align: middle;
+      z-index: 100;
+    }    
+      
+    .rightColForeignLang {
+      position: absolute;
+      left: 60%; /* 60% or 137px */
+      font-family: .Arabic UI Display;
+    }
+    
+    .leftColForeignLang {
+      position: absolute;
+      right: 55%; /* 50-55% or 116px */
+      font-family: .Arabic UI Display;
+    }  
+      
+    .lastLI {
+      padding: 0;
+      margin: 0;
+    }  
+      
+      
+    #insightsMenu .insightsMenuList .sub, #insightsMenu .insightsMenuList .iw, #insightsMenu .insightsMenuList .tr {
+      color: #6082A0;
+    }
+    #insightsMenu .insightsMenuList a {
+      font-size: 14px;
+      line-height: 21px;
+      text-decoration: none;
+      display: inline-block;
+      color: #2C3744;
+    }
+      
+    a.pulseEn {
+      color: #2C3744;
+      font-family: 'Noto Sans', sans-serif;
+    }
+      
+    .mobile-logo {
+      //      width: 200px;
+      width: 260px;
+      transition: 0.3s;
+    }
+      
+    #sloganBelowLogo {
+      text-transform: uppercase;
+      color: #6082A0;
+      text-align: center;
+      font-size: 12px;
+      margin-top: 8px;
+      margin-bottom: 6px;
+    }
+      
+    .sectionsTopMenuListItem {
+      display: inline-block;
+      padding-right: 40px;
+    }
+      
+    .sectionsTopMenuListItem a {
+      text-decoration: none;
+      color: #2C3744;
+      font-weight: bold;
+    }
+      
+    .faArrowfloatRight {
+      float: right;
+      color: #FFFFFF !important;
+    }
+      
+    .visibleInsightsMenu {       /*  unused for now  */
+      display: block;
+    }
+      
+    .invisibleInsightsMenu {
+      display: none;
+    }
+      
+    #insightsMenu {
+      background-color: #FFFFFF;
+      z-index: 10002;
+      position: absolute; /*fixed*/
+      -webkit-box-shadow: 6px 6px 6px -5px rgba(46,46,46,0.1);
+      -moz-box-shadow: 6px 6px 6px -5px rgba(46,46,46,0.1);
+      box-shadow: 6px 6px 6px -5px rgba(46,46,46,0.1);
+    }
+    .sidenav_inner {
+        overflow-y: scroll;	/* used for testing scroll and InsightsMenu*/
+        overflow-x: hidden; /* used for testing scroll and InsightsMenu*/
+        height: 100vh;
+        position: relative;
+      }
+      
+    .wrappingDivForLIULInsightsMenu { /* used for testing scroll and InsightsMenu*/
+        position: relative;
+    }  
+      
+    .insightsMenuList {
+      margin: 0;
+      padding: 24px;
+      list-style-type: none;
+      width: 145px;
+      height: 500px;
+      overflow-x: hidden;
+      overflow-y: auto;
+    }
+      
+    #insightsListItem {
+      position: static; /*relative*/
+    }
+      
+    .insightsMenuList:before {
+        content: "";
+        display: block;
+        width: 0; 
+        height: 0; 
+        border-style: solid;
+        border-width: 13px 14px 13px 0;
+        border-color: transparent #ffffff transparent transparent;
+        position: absolute;
+        top: 65px;
+        left: -12px;
+    }
+      
+    .firstLineBreak {
+      border-top: 1px #192028 solid;
+      margin-top: 25px;
+      margin-bottom: 27px;
+      width: 277px;
+      height: 1px;
+      
+    }
+      
+    .secondThirdLineBreak {
+      border-top: 1px #192028 solid;
+      margin-top: 24px;
+      margin-bottom: 24px;
+      width: 277px;
+      height: 1px;
+    }
+      
+    
+    .linksFromFooter {
+      font-size: 14px;
+      text-transform: none;
+      font-family: 'Noto Sans', sans-serif;
+      line-height: 14px;
+    }  
+    
+    #hamburgerNavMenuIcon {
+      cursor: pointer;    
+    }
+    .sidenav {
+      height: 100%;
+      width: 0;
+      position: fixed;
+      z-index: 1;
+      top: 0;
+      left: 0;
+      overflow-x: visible;
+      transition: 0.5s;
+    }
+    
+    .sidenav a {
+      padding: 8px 0 8px 0;
+      text-decoration: none;
+        /*font-size: 25px;
+        display: block;*/
+      transition: 0.3s;
+    }
+    
+    .sidenav a:hover {
+        /*color: #f1f1f1;*/
+    }
+    
+      /*maybe does not belong here, but is related to this context */
+    .container {
+      transition: margin-left .5s;
+    }
+    ul.sidenav_list li.welcome {
+      font-size: 18px; 
+      padding: 8px 0 8px 0;
+      font-weight: bold;
+    }
+    .mobile_only {
+      display: none;
+    }
+    .desktop_only {
+      display: block !important;
+    }
+     @media screen and (max-width: 768px) {
+      .mobile_only {
+        display: block;
+        }
+      .desktop_only {
+        display: none !important;
+      }
+      .mobile-logo {
+        width: 142px;
+      }
+    }
+    @media screen and (max-height: 768px) {
+    }
+    @media screen and (max-height: 450px) {
+      .sidenav {padding-top: 15px;}
+      .sidenav a {font-size: 18px;}
+    }
+    
+    
+    /* demo testing reading progress bar */
+    /* Style the header: fixed position (always stay at the top) 
+    .header {
+      position: fixed;
+      top: 0;
+      z-index: 1;
+      width: 100%;
+      background-color: #f1f1f1;
+    }
+    */
+    
+    /* The progress container (grey background) */
+    .progress-container {
+      width: 100%;
+      height: 8px;
+      background: #ccc;
+    }
+    
+    /* The progress bar (scroll indicator) */
+    .progress-bar {
+      height: 8px;
+      background: #4caf50;
+      width: 0%;
+    }
+    /* demo testing reading progress bar */ 
+	
+    
+    
+    
+  </style>
+
+
+  <script type="text/javascript">
+    
+    function toggleMobileSearch() {
+      var eltStatus = $('#sbm').attr('data-menu-status');
+      if(eltStatus === 'closed') {
+        $('#sfm').show();
+        $('#sbm').data('data-menu-status', 'open');
+      } else {
+        $('#sfm').hide();
+        $('#sbm').data('data-menu-status', 'closed');
+      }
+    }
+    
+    function sendSearchForm() {
+      $('#queryTerm').val($('#queryTermMob').val());
+      $('#testf0').submit();
+    }
+    
+    $('#testf0').submit(function ( event ) {
+      if($.trim($('#queryTerm').val()).length < 1) {
+        event.preventDefault();
+      }
+    });
+    
+  </script>
+
+
+  <style type="text/css">
+    .form-inline input {
+       background-color: rgba(255,255,255,0);
+    }
+    .InputAddOn {
+        display: flex;
+        border: 1px solid #DFE1E2;
+        border-radius: 1px;
+        padding: 8px 14px;
+        background-color:#ffffff;
+        height: 45px;
+        box-sizing: border-box;
+    }
+    .InputAddOn-field {
+        flex: 1;
+        border: none;
+        box-shadow: none;
+    }
+    .InputAddOn-item {
+        background: #0076C0;
+        border-radius: 1px;
+        font-family: 'Noto Sans', sans-serif;
+        font-size: 14px;
+        line-height: 21px;
+        color: #FFFFFF;
+        font-weight: bold;
+        border: 0px;
+    }    
+  </style>
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@almonitor">
+<meta name="twitter:creator" content="@almonitor">
+<meta name="twitter:url" content="https://www.al-monitor.com/pulse/originals/2020/05/turkey-manufacturing-demand-inflation-virus.html">
+<meta name="twitter:title" content="Turkey grapples with manufacturing downturn, weak demand amid pandemic">
+<meta name="twitter:description" content="As demand and manufacturing output dip during the novel coronavirus crisis in Turkey, analysts warn inflation may rise in the coming months.">
+<meta name="twitter:image" content="https://9c998969b63acdb676d1-37595348221e1b716e1a6cfee3ed7891.ssl.cf1.rackcdn.com/almpics/2020/05/RTX1MESV.JPG/RTX1MESV-870.JPG">
+      <meta name="twitter:image:width" content="870">
+<meta property="fb:admins" content="aaoudi" />
+<meta property="og:url" content="https://www.al-monitor.com/pulse/originals/2020/05/turkey-manufacturing-demand-inflation-virus.html" />
+<meta property="og:locale" content="en_us" >
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Turkey grapples with manufacturing downturn, weak demand amid pandemic" />
+<meta property="og:image" content="https://9c998969b63acdb676d1-37595348221e1b716e1a6cfee3ed7891.ssl.cf1.rackcdn.com/almpics/2020/05/RTX1MESV.JPG/RTX1MESV-870.JPG" />
+      <meta property="og:image:height" content="472" />
+      <meta property="og:image:width" content="870" />
+<meta property="og:description" content="As demand and manufacturing output dip during the novel coronavirus crisis in Turkey, analysts warn inflation may rise in the coming months." />
+<meta property="og:site_name" content="Al-Monitor" />
+<meta property="article:publisher" content="https://www.facebook.com/Al-Monitor" />
+<meta property="article:section" content="Editorial" />
+<meta property="article:published_time" content="2020-05-04T06:03:00+00:00" />
+<meta property="article:modified_time" content="2020-05-04T06:13:42+00:00" />
+<meta property="og:updated_time" content="2020-05-04T06:13:42+00:00" />
+<meta property="fb:app_id" content="115006175316219" />
+<meta name="keywords" content="turkish lira, lira, inflation, covid-19, coronavirus, turkish government, turkish economy, manufacturing" />
+<meta name="sailthru.tags" content="turkish lira, lira, inflation, covid-19, coronavirus, turkish government, turkish economy, manufacturing" />
+
+  <style type="text/css">
+    
+    div.sharing>.icon_circle {
+      width: 36px;
+      height: 36px;
+    }
+    div.sharing>.icon_circle>.nondecorated_link>.fab, 
+    div.sharing>.icon_circle>.nondecorated_link>.fas {
+      font-size: 18px;
+      padding-top: 2px;
+    }
+    
+    .mobileonly {
+      display: none;      
+    }
+        
+    @media screen and (max-width: 768px) {
+        .mobileonly {
+              display:block;
+        }
+    }    
+  </style>
+
+
+  <script type="text/javascript">
+  $(document).ready(function () {
+    $("#longtext").html($("#longtext").html().replace(/\[\[/g, '<span class="lg-l">'));
+    $("#longtext").html($("#longtext").html().replace(/\]\]/g, '</span>'));
+    var mapboxModule = $('#map_almrelatedmap');
+    var mapID        = $('#mapId');
+    mapboxModule.remove();
+    mapID.append(mapboxModule);
+  });
+    
+  </script>
+
+
+  <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/28570947/AM_RON_300x250_ATF', [300, 250], 'div-gpt-ad-1579631940003-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+
+  <style type="text/css">
+    .clear {
+      display: none;
+    }
+
+    @media only screen and (min-width: 768px) {
+      .desk-bot-marg-45 {
+        margin-bottom: 45px;
+      }
+    }
+  </style>
+
+
+  <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/28570947/AM_RON_300x250_BTF', [300, 250], 'div-gpt-ad-1579631841244-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+
+  <style type="text/css">
+    .podcast_sidebar {
+          display: grid;
+          grid-template-columns: auto 64px;
+          grid-gap: 1em;
+          margin-bottom: 1.5em;
+      }
+    
+      .recent_podcasts i {
+          font-size: 20px;
+          text-align: center;
+      }    
+  </style>
+
+
+    <style type="text/css">
+
+    /* ------------------------------------------------------- */
+      
+.Form-fields {
+  display: flex;
+  flex-direction: column;
+}      
+      
+      
+
+.ControlInput--password {
+  order: 0;
+  padding-right: 50px;
+}
+
+.Control-label--password {
+  order: -1;
+  margin-bottom: -32px; /* pull up the offset of the hide password button */
+}      
+      
+.Control-label--showPassword {
+  width: 32px;
+  position: relative;
+  top: 52px;
+  left: 100%;
+  text-align: right;
+  margin-left: -36px;
+  cursor: pointer
+  
+}      
+      /* show password checkbox hack */
+.show-password {
+  display: none;
+}
+.show-password:checked ~ .ControlInput--password {
+  text-security: disc;
+  -webkit-text-security: disc;
+  -moz-text-security: disc;
+}
+.show-password:checked ~ .Control-label--showPassword .svg-toggle-password .closed-eye {
+  opacity: 1;
+  -webkit-transition: opacity 300ms ease, height 400ms ease;
+  transition: opacity 300ms ease, height 400ms ease;
+  width: 4px;
+  height: 44px;
+}
+
+.svg-toggle-password {
+  fill: #89A7C3;
+}
+.svg-toggle-password .closed-eye {
+  opacity: 0;
+  height: 0;
+}     
+.alert-success {  
+  color: #3c763d;
+  background-color: #dff0d8;
+}
+.alert-danger {
+    color: #fff;
+	background-color: #D43F27;
+    border: 0px;
+  }
+    
+/*REGISTRATION */
+      
+
+
+.lform {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 1em;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.lform fieldset {
+    border: none;
+    background-color: #6082A0;
+    padding: 3em 2.5em;
+    margin: 3em auto;
+    width: 810px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.lform #legend {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 900;
+    font-size: 56px !important;
+    line-height: 60px !important;
+    color: #ffffff !important;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.control-group {
+    margin: 0 auto;
+    width: 335px;
+}
+.control-group label {
+    font-family: 'Noto Sans', sans-serif;
+    color: #40425b;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+}
+input.input-xlarge {
+    background-color: #fff !important;
+    height: 45px;
+    width: 100%;
+    margin: 9px 0 18px 0;
+    border: 1px solid #DFE1E2;
+    border-radius: 1px;
+    padding: 12px;
+    box-sizing: border-box;
+}
+.btn_login {
+    background-color: #40425B;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    font-weight: bold;
+    width: 100%;
+    display: block;
+    padding: 0.8em 0;
+    margin: 13px 0 16px 0;
+    border: 0;
+    cursor: pointer;
+}
+.forgot_pass_btn {
+    color: #c2e1f6;
+    float: right;
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.close-mod {
+    width: 31px;
+    height: 31px;
+    padding: 0;
+    background-color: #DFE1E2; 
+    border-radius: 50%;
+    text-align: center;
+    font-size: 16px;
+    line-height: 27px;
+    color: #000000;
+    font-weight: 800;
+    position: absolute;
+    top: 24px;
+    right: 24px;
+    border: 0px;
+}
+.modal-subtitle {
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #DFE1E2;
+    
+}
+
+.lform .InputAddOn {
+    display: grid;
+    height: 45px;
+    box-sizing: border-box;
+    margin: 3em 0;
+    padding: 0 3em;
+    grid-template-columns: 1fr auto;
+}
+.lform .InputAddOn-field {
+    box-shadow: none;
+    padding: 8px 14px;
+    border: 1px solid #DFE1E2;
+    border-radius: 1px;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: rgba(153, 153, 153, 1);
+    width: 100%;
+}
+.lform .InputAddOn-item {
+    background: #40425B;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    font-weight: bold;
+    border: 0px;
+    padding: 0 2em;
+}
+.InputAddOn label {
+    grid-row: 2;
+    font-weight: normal;
+    color:#C2E1F6;
+    font-size: 14px;
+    margin-top: 5px;
+    grid-column: 1 / 3;
+}
+.control-group label.error {
+    font-weight: normal;
+    color:#C2E1F6;
+    font-size: 14px;
+    margin-top: 5px;
+    text-transform: capitalize;
+}
+input.input-xlarge.error {
+    margin-bottom: 0px;
+}
+.modal-paragraph {
+    color: #DFE1E2;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    margin: 0;
+}
+.modal-paragraph a {
+    color: #35b7f8;
+    font-weight: bold;
+    text-decoration: none;
+}
+.modal-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 43px;
+    margin-bottom: 5px;
+  
+}
+.progress-modal1 {
+    width: 41px;
+    height: 41px;
+    border-radius: 50%;
+    text-align: center;
+    color: #fff;
+    line-height: 38px;
+    align-self: center;
+}
+.bg-indigo {
+    background-color: #40425B;
+}
+.bg-slate {
+    background-color: #89A7C3;
+}
+.bg-white {
+    background-color: #fff;
+}
+.lform .progress-bar1 {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    justify-content: start;
+}
+.progress-modal1 i {
+    font-size: 20px;
+}
+.line {
+    width: 198px;
+    height: 1px;
+    align-self: center;
+}
+.progress-bar1 button {
+    width: 168px;
+    margin-left: 2.1em;
+    padding: 11px 24px;
+}
+.modal-grid .control-group {
+    margin: 0;
+}
+.control-group .checkbox-inline {
+    color: #fff;
+    font-size: 14px;
+    line-height: 21px;
+}
+.control-group .checkbox-inline a {
+    color: #35b7f8;
+    text-decoration: none;
+}
+.mt-3 {
+    margin-top: 1em !important;
+}
+.success-modal {
+    background-color: #6082A0; 
+    width: 100%;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Noto Sans', sans-serif;
+    padding: 0.9em;
+    position: fixed;
+    bottom: 0px;
+}
+.success-modal p {
+    margin: 0px;
+}
+.success-modal a {
+    color: #35b7f8;
+    text-decoration: none;
+}
+      
+      
+legend {
+    font-size: inherit;
+    color: inherit;
+    border-bottom: inherit;
+}
+      
+.modal-body {
+    padding: 0px;
+}
+.modal-dialog {
+     margin: 0px;
+}
+      
+
+  @media only screen and (max-width: 768px) {
+    
+    .lform fieldset {
+        padding: 2em 1.5em;
+        width: 100%;
+        min-width: 100%;
+    }
+    .lform #legend {
+        font-size: 32px !important;
+        line-height: 36px !important;
+    }
+    .control-group {
+        width: 100%;
+    }
+    .modal-grid {
+        grid-template-columns: 1fr;
+        grid-gap: 0px;
+      
+    }
+    .line {
+        width: 20px;
+    }
+    .success-modal {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .progress-bar1 button {
+        width: 168px;
+        margin-left: 10px;
+    }
+    .lform .InputAddOn-item {
+        padding: 0 1em;
+    }
+    .lform .InputAddOn {
+        padding: 0;
+    }
+    .close-mod {
+        top: 10px;
+        right: 10px;
+    }
+    .progress-modal1 {
+        width: 31px;
+        height: 31px;
+        line-height: 31px;
+    }
+    .progress-modal1 i {
+        font-size: 16px;
+    }
+      
+.about_us {
+    padding: 1em;
+}            
+      
+  }
+     
+
+      
+div.article_body > p {
+    font-size: 18px;
+    line-height: 27px;
+    margin-bottom: 8px;
+    letter-spacing: -1px;
+}      
+
+  </style>
+
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic&subset=latin">
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,400,500,700,900&display=swap"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css">
+  <script src="https://ak.sail-horizon.com/spm/spm.v1.min.js" ></script>
+  <script>Sailthru.init({ customerId: 'd5d0758cfc0542381185bd84b7b66d6e' });</script>
+
+
+  <script>
+    $(document).ready(function(){
+      
+      var urlLocHash = window.location.hash;
+      
+      console.log("A urlLocHash: " + urlLocHash);
+                  
+      if(urlLocHash == '') {
+        urlLocHash = '#tab1';
+      }
+      
+      console.log("B urlLocHash: " + urlLocHash);
+                  
+      var element = $('input'+ urlLocHash);
+      var liClass = urlLocHash.slice(1);
+      var li = $('li.'+ liClass);
+      if (urlLocHash != '') {
+        if (li.length) {
+          element.prop('checked', true);
+        }
+      }
+  
+    });
+  </script>
+
+<script id="staticAssetAggregatedJavascriptList0" type="text/javascript">
+var jASAJ=jASAJ || new Array();
+jASAJ.push('/pulse/modules/alm-bootstrap3-templates/javascript/eucookie.js');
+jASAJ.push('/pulse/modules/marketing-factory-core/javascript/marketing-factory/dist/1_10_1/wem.min.js');
+jASAJ.push('/pulse/modules/jquery/javascript/jquery-3.3.1.min.js');
+jASAJ.push('/pulse/modules/assets/javascript/jquery.jahia.min.js');
+jASAJ.push('/pulse/modules/assets/javascript/textsizer.js');
+jASAJ.push('/pulse/modules/bootstrap3-core/javascript/bootstrap.min.js');
+jASAJ.push('/pulse/modules/assets/javascript/jquery.validate.js');
+jASAJ.push('/pulse/modules/almrecurly/javascript/userRegistration-lobbying.js');
+jASAJ.push('/pulse/modules/alm-bootstrap3-templates/javascript/2017-jquery.cookie.min.js');
+jASAJ.push('/pulse/modules/alm-bootstrap4-templates/javascript/navigation.js');
+</script>
+
+</head>
+
+  <body>
+    <div class="container plain">
+      
+      <div class=" top-ad gray-bak" >
+          
+
+      
+      <div style="padding-bottom:25px; padding-top:25px; text-align:center;" class="horizAd">
+        <!-- /28570947/AM_RON_970x250_ATF -->
+        <div id='div-gpt-ad-1580417390231-0' style='display: inline-block;'>
+            
+          <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1580417390231-0'); });
+          </script>
+        </div>
+      </div>
+  <div class="clear"></div>
+    </div><div class="clear"></div>
+      
+      <div class="header">
+        <div class="desktop_only">
+<div id="trending" class="footer">
+  <div class="max-width-row topicsTopMenu desktop_only">
+            
+        <ul>
+          <li class="topicListLabel">Trending:</li>
+          
+          
+            <li class="topicLink"><a href="/pulse/contents/trending-topics/coronavirus.html">Coronavirus</a></li>
+          
+            <li class="topicLink"><a href="/pulse/contents/trending-topics/iran-us-tensions.html">Iran-US tensions</a></li>
+          
+            <li class="topicLink"><a href="/pulse/contents/trending-topics/2020-us-election.html">2020 US election</a></li>
+          
+            <li class="topicLink"><a href="/pulse/contents/trending-topics/refugees.html">Refugees</a></li>
+          
+            <li class="topicLink"><a href="/pulse/contents/trending-topics/kurds.html">Kurds</a></li>
+          
+          
+          
+        </ul>
+            
+    
+
+    <span class="social-top">
+      <a href="https://www.facebook.com/almonitor" target="_blank" title="Connect with us on Facebook!"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+      <a href="https://twitter.com/almonitor" target="_blank" title="Follow us on Twitter!"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+      <a href="https://instagram.com/almonitor" target="_blank" title="Check us out on Instagram!"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+      <a href="https://www.al-monitor.com/rss" target="_blank" title="Check out our RSS Feeds!"><i class="fa fa-rss" aria-hidden="true"></i></a>
+      <a href="mailto:?subject=Al-Monitor: The Pulse of the Middle East&amp;body=https://www.Al-Monitor.com" target="_blank" title="Tell a friend about us!"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </span>
+    
+  </div>    
+</div>
+</div>
+
+
+<div class="max-width-row header_row" id="header">
+          
+
+
+
+
+      <div class="dropdown-content-hamburger sidenav" id="topDropdownHamburger">  
+        <div class="sidenav_inner">
+          
+          <ul class="sidenav_list" id="lobhead">
+            <li style="margin-bottom: 35px;">
+              <button class="close-mod" type="button" id="xNavMenuButton" style="top: 15px; right: 15px;">
+                X
+              </button>
+            </li>
+            <li style="margin-bottom: 25px;" class="nonregonly">
+              <button type="button"
+                       id="subscribeBtn"
+                       class="sign_up_btn nonregonly"
+                       style="padding: 15px; min-width: 100%; border: none;"
+                       data-toggle="modal"
+                       data-target="#modal_subscribe-modal">
+                       Sign Up Today
+              </button>
+            </li>
+            <li>
+              <ul class="list_child">
+                <li class="welcome">
+                  <span id="subscriberName1" class="subscriberName"><b>WELCOME TO AL-MONITOR</b></span>
+                </li>
+                <li>
+                  <span class="shortcuts sw regonly">
+                    <a href="/pulse/subscriber-account">Account Settings</a>
+                  </span>  
+                </li>  
+                <li>
+                  <span class="shortcuts sw regonly">
+                    <a href="/pulse/subscriber-newsletters">Newsletters</a>
+                  </span>  
+                </li>  
+                <li>
+                  <span class="shortcuts sw nonregonly">
+                    <a href="" data-toggle="modal" data-target="#modal_subscribe-modal">Register</a>
+                  </span>  
+                </li>  
+                <li>
+              <a href="" id="logouta" name="logouta" class="regonly" onclick="recurlySilentLogout1();">Log Out</a>
+              <a href="" id="loginaa1" name="loginaa1" class="nonregonly" data-toggle="modal" data-target="#modal_login-modal"><span id="loginouts1">Log In</span></a>
+                </li>
+              </ul>
+            </li>            
+            
+            
+            <li class="wrappingDivForLIULInsightsMenu">
+              <div>
+                <ul class="list_child">
+                  <li><a href="/pulse/news" >HAPPENING NOW </a></li> 
+                  <li><a href="/pulse/insights" >INSIGHTS </a></li> 
+                
+                  <li><a href="/pulse/culture-society"   >CULTURE       </a></li>
+                  <li><a href="https://lobbying.al-monitor.com">LOBBYING      </a></li>
+                  <li><a href="/pulse/features" >FEATURES      </a></li>            
+                  <li><a href="/pulse/week-in-review"   >WEEK IN REVIEW</a></li>
+                  <li><a href="/pulse/videos"  >VIDEOS        </a></li>
+                  <li><a href="/pulse/podcasts"  >PODCASTS      </a></li>
+                </ul>
+              </div>  
+            </li>
+            
+            <li>
+              <ul class="list_child">
+                <li>          
+                  <a href="https://www.al-monitor.com/pulse/about"><span class="linksFromFooter">Our Story</span></a>
+                </li> 
+                <li>
+                  <a href="https://www.al-monitor.com/pulse/mission"><span class="linksFromFooter">Mission</span></a>
+                </li>
+                <li>
+                  <a href="https://www.al-monitor.com/pulse/opportunities"><span class="linksFromFooter">Careers</span></a>
+                </li>
+                <li>
+                  <a href="https://www.al-monitor.com/pulse/about#team"><span class="linksFromFooter">Team</span></a>
+                </li>
+                <li>
+                  <a href="https://www.al-monitor.com/pulse/about#buzz"><span class="linksFromFooter">Buzz</span></a>
+                </li>
+              
+                <li>
+                  <a href="https://www.al-monitor.com/pulse/contact-us"><span class="linksFromFooter">Support and Contact Info</span></a>   
+                </li>    
+                 
+                <li>
+                 <a href="https://www.al-monitor.com/pulse/visitor-agreement"><span class="linksFromFooter">Visitor Agreements</span></a>
+                </li>
+                <li>
+                 <a href="https://www.al-monitor.com/pulse/privacy"><span class="linksFromFooter">Privacy Policy</span></a>
+                </li>
+                <li>
+                 <a href="https://www.al-monitor.com/pulse/submission-guidelines"><span class="linksFromFooter">Submissions and Discussions Policy</span></a>
+                </li>    
+              </ul>
+            </li>
+                  
+              
+          </ul>
+         </div>
+      </div>
+
+<div class="p_relative">
+  <div><i class="fa fa-bars" id="hamburgerNavMenuIcon" data-menu-status="closed"></i></div>
+  <!-- start hamburger menu -->
+  
+  <!-- end hamburger menu -->
+    
+  <form class="form-inline" action="/pulse/advanced-search-results" method="get" id="testf0">
+    <input type="search" aria-label="Search"  id="queryTerm" name="queryTerm" placeholder="Search" />
+    <span>
+      <i class="fa fa-search mobile_only" id="sbm" data-menu-status="closed" onclick="toggleMobileSearch();"></i>
+      <i class="fa fa-search desktop_only" id="sbd"></i>
+    </span>
+  </form>
+ 
+</div>
+<!-- SEARCH MOB-->
+<div class="mobile_only search_mobile InputAddOn" id="sfm" style="display:none;">
+    <input type="search" aria-label="Search"  id="queryTermMob" name="queryTerm" placeholder="Search" class="InputAddOn-field"/>
+    <button class="InputAddon-item mobile_only" onclick="sendSearchForm();" id="sbt">Search</button>
+</div>
+
+
+
+<div>
+      <a href="https://www.al-monitor.com/pulse">
+        <img
+             src="/pulse/modules/alm-bootstrap4-templates/images/al_monitor_vector_logo.svg" 
+             alt="Al-Monitor Logo"
+             width="142"
+             class="mobile-logo"
+             />
+      </a>
+      <p id="sloganBelowLogo">The Pulse of the Middle East</p>
+    </div>
+
+    <div class="desktop_only">
+      <div class="signupLoginRegisterSection">
+        
+      
+        
+          <button type="button"
+                  id="subscribeBtn1"
+                  class="sign_up_btn nonregonly"
+                  style="border: none; line-height: 19px;"
+                  data-toggle="modal"
+                  data-target="#modal_subscribe-modal">
+                  Sign Up Today
+          </button> 
+          <a class="shortcuts login subscriberName" id="subscriberName"  name="subscriberName"></a>
+  
+          <a href="" class="login regonly" id="logoutaa" name="logoutaa" onclick="recurlySilentLogout1();"> | <span id="loginouts" style="color:#10a3ac; margin-left:1em;">Log Out</font></span></a>
+          <a href="" class="login nonregonly" id="loginaa" name="loginaa" data-toggle="modal" data-target="#modal_login-modal"><span id="loginouts">Log In</span></a>
+          <span class="shortcuts sw nonregonly" id="subscribespanD">
+            <a href="" data-toggle="modal" data-target="#modal_subscribe-modal" class="login">Register</a>
+          </span> 
+        
+      </div>
+    </div>
+  <a href="/pulse/subscriber-account" class="account_icon mobile_only"><i class="fas fa-user-circle"></i></a><div class="clear"></div>
+    </div><div class="max-width-row sectionsTopMenu">
+          
+        <ul>
+          <li class="sectionsTopMenuListItem"><a href="/pulse/news">News</a></li>
+          <li class="sectionsTopMenuListItem"><a href="/pulse/insights">Insights</a></li>
+
+          <li class="sectionsTopMenuListItem"><a href="/pulse/culture-society">Culture</a></li>
+          <li class="sectionsTopMenuListItem"><a href="https://lobbying.al-monitor.com">Lobbying</a></li>
+          <li class="sectionsTopMenuListItem"><a href="/pulse/features">Features</a></li>
+          <li class="sectionsTopMenuListItem"><a href="/pulse/week-in-review">Week in Review</a></li>
+          <li class="sectionsTopMenuListItem"><a href="/pulse/videos">Videos</a></li>
+          <li class="sectionsTopMenuListItem"><a href="/pulse/podcasts">Podcasts</a></li>
+          
+        </ul>
+            
+  </div><div class="clear"></div><div class="clear"></div>
+      </div>
+      
+      <div class="wrapper_static">
+        <div class="max-width-row article_page" >
+          <div class=" article_title1" >
+          <h2 class="text-black">Turkey grapples with manufacturing downturn, weak demand amid pandemic</h2>
+<p class="text-black">As demand and manufacturing output dip during the novel coronavirus crisis in Turkey, analysts warn inflation may rise in the coming months.</p><div class="clear"></div>
+    </div><!-- ************************************** -->
+<!-- *** langCount: [1] *** -->
+<!-- ************************************** -->
+
+<div class="language_selector">
+       <div class="sharing" style="margin-top:0; min-width:16em;">
+    
+
+    <div class="icon_circle">
+      <a class="nondecorated_link" href="https://www.facebook.com/share.php?u=http://almon.co/3cox" title="Facebook" target="_blank">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </div>
+    <div class="icon_circle">
+      <a class="nondecorated_link" href="https://twitter.com/intent/tweet?text=Turkey grapples with manufacturing downturn, weak demand amid pandemic http://almon.co/3cox via @AlMonitor" title="Tweet" target="_blank">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </div>
+    <div class="icon_circle">
+      <a class="nondecorated_link" href="//www.reddit.com/submit" onclick="window.location = '//www.reddit.com/submit?title=Turkey grapples with manufacturing downturn, weak demand amid pandemic&url=' + encodeURIComponent(window.location); return false" title="Reddit">
+        <i class="fab fa-reddit-alien"></i>
+      </a>
+    </div>
+    <div class="icon_circle">
+      <a class="nondecorated_link" href="mailto:?subject=Turkey grapples with manufacturing downturn, weak demand amid pandemic&body=http://almon.co/3cox%0A%0ARead more at https://www.Al-Monitor.com" title="Email">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </div>
+    
+    
+</div>
+      </div>
+
+<div class="mobileonly">
+  <a href="/pulse/originals/2020/05/turkey-manufacturing-demand-inflation-virus.amc.html">MOBILE VIEW</a>
+</div>
+
+
+<div class=" title_img" >
+          <img src="https://9c998969b63acdb676d1-37595348221e1b716e1a6cfee3ed7891.ssl.cf1.rackcdn.com/almpics/2020/05/RTX1MESV.JPG/RTX1MESV-870.JPG" alt="al-monitor" width="100%" />
+  <span class="caption text-grey">An employee works at the assembly line of the MAN Bus Production Center in Ankara, Turkey, July 29, 2015.&nbsp;Photo by REUTERS/Umit Bektas.</span><div class="clear"></div>
+    </div><div class=" sidebar1" >
+          <div class="editor_box">
+ <a href="/pulse/authors/diego-cupolo.html" class="nondecorated_link editor">
+   <img
+       class="editor"
+       src="/pulse/files/live/sites/almonitor/files/images/authors/2019/diego_cupolo_color.jpg"
+       alt="Diego Cupolo"
+       width="80"
+       />
+  </a>
+  <a href="/pulse/authors/diego-cupolo.html" class="nondecorated_link">
+    <p class="editor_name text-blue"><strong>Diego Cupolo</strong></p>
+  </a> 
+  <div class="editor_contact">
+    <div>
+      
+    </div>
+    
+    <p style="border-bottom: 1px solid #DFE1E2;"><p>Diego Cupolo is a freelance journalist and photographer based in Istanbul, Turkey. His work has appeared in The Atlantic, The Financial Times, Foreign Policy and The New Statesman, among other publications. On Twitter: <a href="https://twitter.com/diegocupolo">@diegocupolo</a></p>
+</p>
+  </div>
+  
+</div><div class=" summary" >
+          <div class=" sticky_bottom fadedIn" >
+          
+
+
+
+<div class="sharing">
+  <div class="icon_circle">
+    <a class="nondecorated_link" href="https://www.facebook.com/share.php?u=http://almon.co/3cox" title="Facebook" target="_blank">
+      <i class="fab fa-facebook-f"></i>
+    </a>
+  </div>
+  <div class="icon_circle">
+    <a class="nondecorated_link" href="https://twitter.com/intent/tweet?text=Turkey grapples with manufacturing downturn, weak demand amid pandemic http://almon.co/3cox via @AlMonitor" title="Tweet" target="_blank">
+      <i class="fab fa-twitter"></i>
+    </a>
+  </div>
+  <div class="icon_circle">
+    <a class="nondecorated_link" href="//www.reddit.com/submit" onclick="window.location = '//www.reddit.com/submit?title=Turkey grapples with manufacturing downturn, weak demand amid pandemic&url=' + encodeURIComponent(window.location); return false" title="Reddit">
+      <i class="fab fa-reddit-alien"></i>
+    </a>
+  </div>
+  
+
+</div><div class="clear"></div>
+    </div><div class="clear"></div>
+    </div><div class=" more_context" >
+          <div class=" sticky_bottom fadedIn" >
+          <div class="topics">
+  <p class="body-label text-blue">Topics covered</p>
+  <p>turkish lira, lira, inflation, covid-19, coronavirus, turkish government, turkish economy, manufacturing</p>
+</div><div class="clear"></div>
+    </div><div class="clear"></div>
+    </div><div class="clear"></div>
+    </div><div class=" article_main" >
+          <div id="longtext">        
+        <div class="article_body">
+          <p class="caption text-grey">
+            May 4, 2020
+          </p>
+          <p class="body_copy text-black">ISTANBUL &mdash; The coronavirus pandemic continues to take a heavy toll on global economies and Turkey is no exception. To date, the nation has recorded 127,659&nbsp;confirmed cases of COVID-19 and 3,461 virus-linked deaths.&nbsp;Turkish leaders continue working to stem the spread of the disease with <a href="https://www.dailysabah.com/turkey/new-hope-for-turkey-as-covid-19-recoveries-make-up-more-than-half-of-cases/news">mixed success</a>, as its domestic economic impacts materialize in the latest financial data.
+
+<p class="body_copy text-black">A gauge on manufacturing output in April <a href="https://www.bloomberg.com/news/articles/2020-05-03/turkish-inflation-downswing-is-picking-up-pace-in-shadow-of-lira?sref=4kxkQT8E">fell to its lowest point</a> since the 2008 financial crisis, posing employment challenges for the sector, according to a report published Monday by Istanbul Chamber of Industry and IHS Markit.
+
+<p class="body_copy text-black">The <a href="http://www.markiteconomics.com/Public/Home/PressRelease/1a095f26a39a4a80b2db591d2d3077d1">Purchasing Managers&nbsp;Index</a>,&nbsp;a composite figure of manufacturing performance, dropped from 48.1 in March to 33.4 last month&nbsp;as a devalued Turkish lira increased input costs for companies, with repercussions for new orders and staffing.
+
+<p class="body_copy text-black">The news comes after Turkey&rsquo;s Central Bank lowered its <a href="https://www.tcmb.gov.tr/wps/wcm/connect/e7497d05-15aa-446e-913f-0d51c2f75d4b/RemarksG30_04_2020.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-e7497d05-15aa-446e-913f-0d51c2f75d4b-n7a5nxy">2020 inflation forecast</a> Thursday to 7.4%, down from 8.2% in January, though April figures released today indicate inflation slowed <a href="https://www.bloomberg.com/news/articles/2020-05-03/turkish-inflation-downswing-is-picking-up-pace-in-shadow-of-lira?sref=4kxkQT8E">slightly less than expected</a>. While Turkish regulators have highlighted a record slump in oil prices as a key deflationary trend, rising food prices put upward pressure on overall inflation in the country.
+
+<p class="body_copy text-black">The mixed developments will continue to pose challenges for the Turkish economy as the nation grapples with the impacts of the pandemic, though economic analysts warn current trends may reverse in the coming months due to weak demand and continued strain on the labor market.
+        </div>
+        
+        <div class="break_grid">
+    <div class="blue_block sign_up_ad">
+      <h3>Never miss&nbsp;another story</h3>
+      <p>Sign up for our Newsletter</p>
+      <form action="/pulse/newsletter-signup" method="get" name="mc-embedded-subscribe-form" id="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+        <div class="InputAddOn">
+          <input
+                 type="email"
+                 name="email"
+                 class="InputAddOn-field"
+                 placeholder="enter email address"
+                 />
+          <button class="InputAddOn-item" onClick="$( '#mc-embedded-subscribe-form' ).submit();">Sign Up</button>
+        </div>
+      </form>
+    </div>
+  </div>
+        
+        <div class="article_body">
+          <p class="body_copy text-black">Atilla Yesilada, a political analyst at Global Source Partners, said he expected the effects of lowered production capacity&nbsp;as result of the pandemic&nbsp;to begin materializing this summer.
+
+<p class="body_copy text-black">&ldquo;The disinflationary forces right now will completely reverse by autumn and we&rsquo;re going to get inflationary forces,&rdquo; Yesilada told Al-Monitor. &ldquo;Of course, they&rsquo;re not going to be massive, but nonetheless, any forecast that predicts a decline in inflation in autumn and winter ought to be taken with some amount of skepticism.&rdquo;
+
+<p class="body_copy text-black"><a href="http://bianet.org/english/economy/223765-annual-inflation-rate-increases-by-10-94-percent">Consumer prices rose 10.94%</a> year-on-year in April, according to the Turkish Statistical Institute, while Turkey&rsquo;s <a href="https://www.reuters.com/article/turkey-economy-trade/turkish-april-trade-tumbles-deficit-widens-13-pct-ministry-idUSL8N2CM1Y5">trade deficit widened 13.4%</a> to $3.4 billion over the same period.
+
+<p class="body_copy text-black">While the Central Bank lowered its inflation forecast amid such trends, Selva Demiralp, a professor of economics at Koc University and director of the Koc University-TUSIAD Economic Research Forum, has repeatedly drawn attention to regulators&rsquo; limited resources in curtailing future economic shocks, particularly as diminished bank reserves continue to be used to bolster the Turkish lira, which recently passed the psychological marker of seven per dollar.
+
+<p class="body_copy text-black">&ldquo;In the short run, the downfall in demand and the fall in oil prices may dominate the upwards pressures coming from the exchange rate,&rdquo; Demiralp wrote in the&nbsp;<a href="https://yetkinreport.com/en/2020/05/01/turkish-inflation-outlook-in-the-aftermath-of-covid-19/">Yetkin Report</a>. &ldquo;In the medium to long run however, I am afraid that the upside risks to the long-term inflation outlook are underestimated.&rdquo;
+
+<p class="body_copy text-black">As many nations face recession amid the coronavirus pandemic, the economic impacts may be felt acutely in Turkey, where a <a href="http://www.metropoll.com.tr/upload/content/files/1849-apr20in5numbers.pdf">survey by Metropoll</a> found 24% of respondents could not meet their <a href="https://www.al-monitor.com/pulse/originals/2020/05/turkey-opposition-coronavirus-istanbul-ankara-local-akp-aid.html">basic needs</a>, such as food and shelter, in April. In the same survey, slightly less than half of respondents said they able to meet basic needs, but nothing more.
+
+<p class="body_copy text-black">Impacts on the labor market remain to be seen, but some analysts are estimating unemployment rates may have hit 20% at the end of April, with further increases expected due to <a href="https://www.al-monitor.com/pulse/originals/2020/05/turkey-mulls-reopening-tourism-coronavirus-economic-crisis.html">lost income from the summer tourism season</a> in Turkey.</p>
+
+<p class="body_copy text-black">Data compiled by Erol Taymaz, an economy professor at the Middle East Technical University in Ankara, suggested non-agricultural labor demand in Turkey could <a href="https://yetkinreport.com/en/2020/04/30/civid-19-and-employment-losses-in-turkey/">decline by 19%-29%</a> as a result of the pandemic, putting 4.2-6.5 million people out of work in Turkey.</p>
+
+<p class="body_copy text-black">Noting the difficult times ahead, Turkish President&nbsp;Recep Tayyip Erdogan announced Monday evening that some&nbsp;<a data-auth="NotApplicable" href="https://www.reuters.com/article/health-coronavirus-turkey-erdogan/erdogan-says-turkey-to-start-easing-coronavirus-restrictions-as-of-monday-idUSI7N29L04F" rel="noopener noreferrer">coronavirus restrictions would be eased</a>. A ban on intercity travel will be lifted in seven provinces and curfews imposed on senior citizens and people under 20 years of age will be eased.&nbsp;</p>
+
+<p class="body_copy text-black">In addition, shopping malls, barber shops and some stores will reopen May 11, while universities will resume courses June 15. The easing comes after four consecutive weekend lockdowns on major urban areas, among other measures, which have reportedly decreased the number of new infections, with Turkish health officials recording a steady decrease in virus-linked deaths over the last week.</p>
+
+<p class="body_copy text-black">The improvements have also caused lawmakers to <a href="https://www.bloomberg.com/news/articles/2020-05-02/turkey-rolls-back-curbs-on-medical-exports-as-outbreak-subsides?sref=4kxkQT8E">lift a ban on medical exports</a> over the weekend&nbsp;as <a href="https://www.al-monitor.com/pulse/originals/2020/04/turkey-aid-covid19-coronavirus-erdogan-satterfield-sweden.html">Turkey continues to send&nbsp;supplies</a> to countries around the world. Still, health experts warn against lifting precautions too swiftly, with the Istanbul Medical Chamber saying in a Monday statement that the pandemic <a href="http://bianet.org/english/health/223796-istanbul-medical-chamber-warns-against-relaxing-covid-19-measures-too-early">remains a serious threat.</a></p>
+
+<p class="body_copy text-black">In the meantime, economic analysts will continue to watch volatility in the Turkish lira&nbsp;as the Central Bank seeks to <a href="https://www.reuters.com/article/us-health-coronavirus-turkey-funding/turkey-held-talks-with-u-s-on-possible-fed-swap-line-turkish-officials-idUSKCN21S1EB">open swap lines</a> with foreign institutions&nbsp;including the US Federal Reserve. The Turkish authorities have maintained they will not seek support from the International Monetary Fund.</p>
+
+<p class="body_copy text-black">Still, Yesilada said a further devaluation of Turkey&rsquo;s currency could have extensive repercussions on Turkey&rsquo;s economy, as companies lacking sufficient cash flows would become more reliant on foreign-denominated loans, which in turn would become more costly to pay off if the lira were to continue its decline.</p>
+
+<p class="body_copy text-black">&ldquo;This week is extremely critical,&rdquo; Yesilada told Al-Monitor. &ldquo;As I watch my screens, there&rsquo;s this bloody battle between foreign traders and Turkish traders over the exchange rate. I don&rsquo;t know who&rsquo;s going to win, but if Turkey loses, then the exchange rate will fly off the handle.&rdquo;</p>
+          
+          
+        </div>
+</div>      
+        <div class=" more_from" >
+          <p class="body-label text-blue">More from&nbsp;&nbsp;Diego Cupolo</p>
+  <!-- author.css-grid.articles-ex-3.jsp -->
+
+<div class="more_from_item">
+  
+  
+    <div class="square_img">
+      
+        <a href="/pulse/originals/2020/05/turkey-manufacturing-demand-inflation-virus.html">
+           <img src="https://9c998969b63acdb676d1-37595348221e1b716e1a6cfee3ed7891.ssl.cf1.rackcdn.com/almpics/2020/05/RTX1MESV.JPG/RTX1MESV-70.JPG" alt="al-monitor" />
+        </a>
+      
+    </div>
+  
+  
+  <a href="/pulse/originals/2020/05/turkey-manufacturing-demand-inflation-virus.html"
+     ><h4 class="text-black">
+    Turkey grapples with manufacturing downturn, weak demand amid pandemic
+    </h4></a
+    >
+  <span class="caption text-grey">
+    May 4, 2020
+  </span>
+</div><div class="more_from_item">
+  
+  
+    <div class="square_img">
+      
+        <a href="/pulse/originals/2020/04/turkey-domestic-violence-rises-coronavirus.html">
+           <img src="https://9c998969b63acdb676d1-37595348221e1b716e1a6cfee3ed7891.ssl.cf1.rackcdn.com/almpics/2020/04/RTX7FJKI.JPG/RTX7FJKI-70.JPG" alt="al-monitor" />
+        </a>
+      
+    </div>
+  
+  
+  <a href="/pulse/originals/2020/04/turkey-domestic-violence-rises-coronavirus.html"
+     ><h4 class="text-black">
+    Domestic assault, violent crimes rise in Turkey amid coronavirus measures
+    </h4></a
+    >
+  <span class="caption text-grey">
+    Apr 27, 2020
+  </span>
+</div><div class="more_from_item">
+  
+  
+    <div class="square_img">
+      
+        <a href="/pulse/originals/2020/04/turkey-central-bank-cut-interest-rates-pressures-lira.html">
+           <img src="https://9c998969b63acdb676d1-37595348221e1b716e1a6cfee3ed7891.ssl.cf1.rackcdn.com/almpics/2019/04/RTX6W734.JPG/RTX6W734-70.JPG" alt="al-monitor" />
+        </a>
+      
+    </div>
+  
+  
+  <a href="/pulse/originals/2020/04/turkey-central-bank-cut-interest-rates-pressures-lira.html"
+     ><h4 class="text-black">
+    Larger than expected rate cut raises pressure on Turkish lira
+    </h4></a
+    >
+  <span class="caption text-grey">
+    Apr 22, 2020
+  </span>
+</div><div class="clear"></div>
+    </div><div class="clear"></div>
+    </div><div class=" sidebar2 sidebar2_tem1" >
+          <div class=" sidebar2_1" >
+          <div class=" sticky_element" >
+          
+
+
+<div class="sponsor desk-bot-marg-45">
+  
+  
+    <!-- /28570947/AM_RON_300x250_ATF -->
+    <div id='div-gpt-ad-1579631940003-0' style='width: 300px; height: 250px;'>
+      <script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1579631940003-0'); });
+      </script>
+    </div>
+  
+  
+</div>
+
+
+<div class=" popular_articles" >
+          <p class="body-label text-blue">Popular on Al-Monitor</p><div class="recommended_item">
+          <span class="text-indigo item_number">01</span>
+          <a href="/pulse/originals/2020/04/iran-pompeo-trump-satellite-un-france-germany-ledrian.html"
+   ><h6 class="text-black">
+  Intel: Pompeo links Iran satellite launch to erosion of nuclear deal
+  </h6></a
+  >
+<span class="caption-sm text-grey">Bryant Harris</span>
+        </div><div class="recommended_item">
+          <span class="text-indigo item_number">02</span>
+          <a href="/pulse/originals/2020/04/ngo-says-lebanese-refugees-lack-soap-hygiene-products.html"
+   ><h6 class="text-black">
+  NGO: Most refugees in Lebanon lack soap after refugee tests positive for coronavirus
+  </h6></a
+  >
+<span class="caption-sm text-grey">Al-Monitor Staff</span>
+        </div><div class="recommended_item">
+          <span class="text-indigo item_number">03</span>
+          <a href="/pulse/originals/2020/04/israeli-supreme-court-stops-phone-surveillance-coronavirus.html"
+   ><h6 class="text-black">
+  Israeli court stops government anti-coronavirus phone spying
+  </h6></a
+  >
+<span class="caption-sm text-grey">Al-Monitor Staff</span>
+        </div><div class="recommended_item">
+          <span class="text-indigo item_number">04</span>
+          <a href="/pulse/originals/2020/04/turkey-aid-covid19-coronavirus-erdogan-satterfield-sweden.html"
+   ><h6 class="text-black">
+  Turkey enjoys PR win with coronavirus aid shipment to US
+  </h6></a
+  >
+<span class="caption-sm text-grey">Amberin Zaman</span>
+        </div><div class="recommended_item">
+          <span class="text-indigo item_number">05</span>
+          <a href="/pulse/originals/2020/04/israel-benjamin-netanyahu-benny-gantz-donald-trump-ashkenazi.html"
+   ><h6 class="text-black">
+  Can anyone stop Netanyahu’s annexation plans?
+  </h6></a
+  >
+<span class="caption-sm text-grey">Ben Caspit</span>
+        </div><div class="clear"></div>
+    </div><!-- BEGIN EXCEPTION FOR PODCAST LIST - Get latest Podcast and reference it in place of the bound component -->
+
+<!-- END EXCEPTION FOR PODCAST LIST -->
+
+
+<!-- BOUND COMPONENT FOUND -->
+  <!-- BOUND COMPONENT NAME: node /sites/almonitor/contents/articles/originals/2020/05/turkey-manufacturing-demand-inflation-virus -->
+  
+  <!-- ASSIGNED TAGS: [Lorg.jahia.services.content.JCRValueWrapper;@6da063b7 -->
+  <div class="recomended_articles">
+    <p class="body-label text-blue">Recommended Articles</p>
+        <a href="/pulse/originals/2020/05/islamic-state-attacks-across-iraq.html"
+   ><h6 class="text-black">
+  Islamic State carries out attacks across Iraq, including near Baghdad
+  </h6></a
+  >
+<span class="caption-sm text-grey"
+      >Al-Monitor Staff | Islamic State | May 4, 2020
+</span><a href="/pulse/originals/2020/05/israel-european-union-benjamin-netanyahu-foreign-ministry.html"
+   ><h6 class="text-black">
+  Netanyahu, Foreign Ministry engaged in international campaign to fight COVID-19
+  </h6></a
+  >
+<span class="caption-sm text-grey"
+      >Rina Bassist | Coronavirus | May 4, 2020
+</span><a href="/pulse/originals/2020/05/iran-mosques-rouhani-coronavirus-religious-ramadan-sites.html"
+   ><h6 class="text-black">
+  Iran begins reopening mosques despite coronavirus concerns
+  </h6></a
+  >
+<span class="caption-sm text-grey"
+      >Al-Monitor Staff | Coronavirus | May 4, 2020
+</span><a href="/pulse/originals/2020/05/turkey-defense-industry-success-story-turns-sour-sipri.html"
+   ><h6 class="text-black">
+  Is Turkish defense industry’s ‘success story’ turning sour?
+  </h6></a
+  >
+<span class="caption-sm text-grey"
+      >Metin Gurcan | Military Industry | May 4, 2020
+</span><a href="/pulse/originals/2020/05/turkey-netflix-drama-love-101-diyanet-incites-hatred-lgbti.html"
+   ><h6 class="text-black">
+  Turkey’s gay community fights homophobia alongside COVID-19
+  </h6></a
+  >
+<span class="caption-sm text-grey"
+      >Nazlan Ertan |  | May 4, 2020
+</span>
+  </div><div class="clear"></div>
+    </div><div class="clear"></div>
+    </div><div class=" sidebar2_2" >
+          <div class=" sticky_element" >
+          
+
+
+<div class="sponsor" style="margin-bottom: 45px;">
+  
+  
+    <!-- /28570947/AM_RON_300x250_BTF -->
+    <div id='div-gpt-ad-1579631841244-0' style='width: 300px; height: 250px;'>
+      <script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1579631841244-0'); });
+      </script>
+    </div>
+  
+  
+</div><div class=" recent_podcasts" >
+          <p class="body-label text-blue">Recent Podcasts</p><div class="podcast_sidebar">
+  <div>
+    <a href="/pulse/podcasts/2020/04/russia-saudi-arabia-oil-price-war-opec.html"
+       ><h6 class="text-black">
+       The Price is Wrong
+      </h6></a
+      >     
+    <span class="caption-sm text-grey">Episode 130</span>
+  </div>
+  <div class="text-center">
+    <a href="/pulse/podcasts/2020/04/russia-saudi-arabia-oil-price-war-opec.html">
+    <i class="fas fa-podcast text-black"></i>
+    </a>
+  </div>
+</div>
+
+<div class="podcast_sidebar">
+  <div>
+    <a href="/pulse/podcasts/2020/03/israel-election-netanyahu-gantz-knesset-coronavirus.html"
+       ><h6 class="text-black">
+       The Wizarding World of Bibi Netanyahu (feat. Ben Caspit)
+      </h6></a
+      >     
+    <span class="caption-sm text-grey">Episode 129</span>
+  </div>
+  <div class="text-center">
+    <a href="/pulse/podcasts/2020/03/israel-election-netanyahu-gantz-knesset-coronavirus.html">
+    <i class="fas fa-podcast text-black"></i>
+    </a>
+  </div>
+</div>
+
+<div class="podcast_sidebar">
+  <div>
+    <a href="/pulse/podcasts/2020/03/iran-parliament-election-reformists-coronavirus.html"
+       ><h6 class="text-black">
+       Hardliners and Health Scares (feat. Ali Ahmadi)
+      </h6></a
+      >     
+    <span class="caption-sm text-grey">Episode 128</span>
+  </div>
+  <div class="text-center">
+    <a href="/pulse/podcasts/2020/03/iran-parliament-election-reformists-coronavirus.html">
+    <i class="fas fa-podcast text-black"></i>
+    </a>
+  </div>
+</div>
+
+<div class="clear"></div>
+    </div><div class=" recent_videos" >
+          <p class="body-label text-blue">Recent Videos</p><!-- ---------------------------------------------------------- -->
+<!-- ---------------------------------------------------------- -->
+<!-- ------ 1 CDNnodename: [EgyptSolarNOPLAY.jpg]  ------------------ -->
+<!-- ---------------------------------------------------------- -->
+<!-- ---------------------------------------------------------- -->
+
+
+
+<!-- ---------------------------------------------------------- -->
+<!-- ---------------------------------------------------------- -->
+<!-- ------ 2 CDNnodename: [EgyptSolarNOPLAY.jpg]  ------------------ -->
+<!-- ---------------------------------------------------------- -->
+<!-- ---------------------------------------------------------- -->
+
+
+
+<div class="video_item">
+  <div>
+     
+    <a href="/pulse/contents/articles/videos/egypts-solar-shift.html"
+       ><h6 class="text-black">
+      Egypt’s solar shift
+      </h6></a
+      >
+    <span class="caption text-grey"><!--March 27, 2020 --></span>
+  </div>
+  <a href="/pulse/contents/articles/videos/egypts-solar-shift.html"
+     ><img src="https://9c998969b63acdb676d1-37595348221e1b716e1a6cfee3ed7891.ssl.cf1.rackcdn.com/almpics/2020/04/EgyptSolarNOPLAY.jpg/EgyptSolarNOPLAY-70.jpg" alt="al-monitor" width="64"
+           /></a>
+</div><div class="clear"></div>
+    </div><div class="clear"></div>
+    </div><div class="clear"></div>
+    </div><div class="clear"></div>
+    </div><div class=" more_from_pulse" >
+          <p class="body-label text-blue">
+      More from&nbsp;&nbsp;Turkey
+    </p>
+    <div>
+  <a href="/pulse/originals/2020/05/turkey-defense-industry-success-story-turns-sour-sipri.html"
+     ><div class="more_pulses_img">
+      
+        <img src="https://9c998969b63acdb676d1-37595348221e1b716e1a6cfee3ed7891.ssl.cf1.rackcdn.com/almpics/2020/05/RTS2RQ18.JPG/RTS2RQ18-270.JPG" alt="al-monitor" /></div    
+    ></a>
+  <a href="/pulse/originals/2020/05/turkey-defense-industry-success-story-turns-sour-sipri.html"
+     ><h6 class="text-black">
+    Is Turkish defense industry’s ‘success story’ turning sour?
+    </h6></a
+    >
+  <span class="caption-sm text-grey"
+        >Metin Gurcan | Military Industry | May 4, 2020</span
+    >
+</div><div>
+  <a href="/pulse/originals/2020/05/turkey-netflix-drama-love-101-diyanet-incites-hatred-lgbti.html"
+     ><div class="more_pulses_img">
+      
+        <img src="https://9c998969b63acdb676d1-37595348221e1b716e1a6cfee3ed7891.ssl.cf1.rackcdn.com/almpics/2020/05/RTS2KAT5.JPG/RTS2KAT5-270.JPG" alt="al-monitor" /></div    
+    ></a>
+  <a href="/pulse/originals/2020/05/turkey-netflix-drama-love-101-diyanet-incites-hatred-lgbti.html"
+     ><h6 class="text-black">
+    Turkey’s gay community fights homophobia alongside COVID-19
+    </h6></a
+    >
+  <span class="caption-sm text-grey"
+        >Nazlan Ertan |  | May 4, 2020</span
+    >
+</div><div>
+  <a href="/pulse/originals/2020/05/turkey-opposition-coronavirus-istanbul-ankara-local-akp-aid.html"
+     ><div class="more_pulses_img">
+      
+        <img src="https://9c998969b63acdb676d1-37595348221e1b716e1a6cfee3ed7891.ssl.cf1.rackcdn.com/almpics/2020/05/RTS36YCM.JPG/RTS36YCM-270.JPG" alt="al-monitor" /></div    
+    ></a>
+  <a href="/pulse/originals/2020/05/turkey-opposition-coronavirus-istanbul-ankara-local-akp-aid.html"
+     ><h6 class="text-black">
+    Turkey’s politicians spar over masks, bread in coronavirus response
+    </h6></a
+    >
+  <span class="caption-sm text-grey"
+        >Ayla Jean Yackley | Coronavirus | May 4, 2020</span
+    >
+</div><div>
+  <a href="/pulse/originals/2020/05/netflix-designated-survivor-censor-erdogan-gulen-sutherland.html"
+     ><div class="more_pulses_img">
+      
+        <img src="https://9c998969b63acdb676d1-37595348221e1b716e1a6cfee3ed7891.ssl.cf1.rackcdn.com/almpics/2020/05/GettyImages-1065620226.jpg/GettyImages-1065620226-270.jpg" alt="al-monitor" /></div    
+    ></a>
+  <a href="/pulse/originals/2020/05/netflix-designated-survivor-censor-erdogan-gulen-sutherland.html"
+     ><h6 class="text-black">
+    Netflix yanks 'Designated Survivor' episode in Turkey over portrayal of fictional president
+    </h6></a
+    >
+  <span class="caption-sm text-grey"
+        >Amberin Zaman |  | May 1, 2020</span
+    >
+</div><div class="clear"></div>
+    </div><div class="clear"></div>
+    </div><div class="clear"></div>
+      </div>
+      <div class="footer">
+        <div class="footer_container max-width-row">
+            <div>
+                <h5>Terms of Use</h5>
+              <a href="https://www.al-monitor.com/pulse/visitor-agreement"><p>Visitor Agreements</p></a>
+                  <a href="https://www.al-monitor.com/pulse/privacy"><p>Privacy Policy</p></a>
+                  <a href="https://www.al-monitor.com/pulse/submission-guidelines"><p>Submissions and Discussions Policy</p></a>
+              </div>
+      
+              <div>
+                <h5>Contact Us</h5>
+                <a href="https://www.al-monitor.com/pulse/contact-us"><p>Support and Contact Info</p></a>
+                <a href="mailto:advertise@al-monitor.com"><p>Advertise</p></a>
+                
+                <h5 class="mt-5">Stay Social</h5>
+                <div class="social">
+                 
+                    <a href="https://www.facebook.com/almonitor" target="_blank" title="Connect with us on Facebook!"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+                  
+                    <a href="https://twitter.com/almonitor" target="_blank" title="Follow us on Twitter!"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+                  
+                    <a href="https://instagram.com/almonitor" target="_blank" title="Check us out on Instagram!"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                 
+                    <a href="https://www.al-monitor.com/rss" target="_blank" title="Check out our RSS Feeds!"><i class="fa fa-rss" aria-hidden="true"></i></a>
+      
+                    <a href="mailto:?subject=Al-Monitor: The Pulse of the Middle East&amp;body=https://www.Al-Monitor.com" target="_blank" title="Tell a friend about us!"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+                 
+                </div>
+              </div>
+      
+              <div>
+                <h5>About Us</h5>
+            
+                <a href="https://www.al-monitor.com/pulse/about"><p>Our Story</p></a>
+                <a href="https://www.al-monitor.com/pulse/mission"><p>Mission</p></a>
+                <a href="https://www.al-monitor.com/pulse/opportunities"><p>Careers</p></a>
+                <a href="https://www.al-monitor.com/pulse/about#team"><p>Team</p></a>
+                <a href="https://www.al-monitor.com/pulse/about#buzz"><p>Buzz</p></a>
+               
+              </div>
+      
+              <div>
+                <h5>Newsletters</h5>
+              
+                <a href="https://www.al-monitor.com/pulse/newsletter-signup"><p>Subscribe</p></a>
+               
+              </div>
+
+        </div>
+
+        <div class="copyright">
+          <div class="max-width-row copyright_container">
+              <p>© 2020 Al-Monitor, LLC. All rights reserved.</p>
+          </div>
+        </div>
+
+      </div>
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="modal_subscribe-modal" tabindex="-1" role="dialog" aria-labelledby="modalLabel_subscribe-modal" aria-hidden="true">
+  <div class="modal-dialog" style="width:100%">
+        <div class="">
+            <div class="modal-body">
+                
+
+
+
+
+
+
+<script type="text/javascript">
+      
+     $( document ).ready(function() {
+       
+      $("#val-step1").click( function(event) {
+        event.preventDefault(); 
+		var v1 = $("#newSubscriber").validate().element('#desired_email');
+        if(v1) {
+          $("#step1").hide();
+          $("#step2").show();
+        }
+       });       
+       
+      $("#val-step2").click( function(event) {
+        event.preventDefault(); 
+		var v2 = $("#newSubscriber").validate().element('#desired_firstname') &&
+                 $("#newSubscriber").validate().element('#desired_lastname') &&
+                 $("#newSubscriber").validate().element('#desired_password') &&
+                 $("#newSubscriber").validate().element('#confirm_password');
+        if(v2) {
+          $("#step2").hide();
+          $("#step3").show();
+        }
+       });       
+       
+      $("#val-step3").click( function(event) {
+        event.preventDefault(); 
+		var v3 = $("#newSubscriber").validate().element('#checkRobots') ;
+		var v4 = $("#newSubscriber").validate().element('#agree') ;
+        if(v4) {
+          var v5= $("#newSubscriber").validate();
+          if(v5) {
+            var newUsername = $('input[name=desired_email]').val();
+            var formData = {
+                'username'          : $('input[name=desired_email]').val(),
+                'password'          : $('input[name=desired_password]').val(),
+                'desired_firstname' : $('input[name=desired_firstname]').val(),
+                'desired_lastname'  : $('input[name=desired_lastname]').val(),
+                'job_function'      : $('input[name=job_function]').val(),
+                'organization'      : $('input[name=organization]').val()
+            };            
+
+            
+                $.ajax({
+                    type        : 'POST', // define the type of HTTP verb we want to use (POST for our form)
+                    url         : '/pulse/en/modules/alm-bootstrap4-templates/1.0.6.8-SNAPSHOT/templates/base-cssgrid/ac/footer/subscribe-modal@/subscribe-modal/recurly-user-registration-form.newAlmSubscriber.do', // the url where we want to POST
+                    data        : formData, // our data object
+					xhrFields   : { withCredentials: true },
+                    dataType    : 'json' // what type of data do we expect back from the server
+                })
+                // using the done promise callback
+                .done(function(data) {
+                    console.log(data);
+                  if(data.restype > 0) { 
+                    $("#step3").hide();
+                    $("#step4").show();
+                    if(data.restype == 2) {
+                        $("#msg").text("Username " + data.username + " is already registered.  A new account was NOT created.");
+	                    $("#msg").show();
+                    } else if(data.restype == 1) {
+                        $("#msg").text("Account successfully created for username " + newUsername);
+                        $("#msg").removeClass("alert-danger");
+                        $("#msg").addClass("alert-success");
+	                    $("#msg").show();
+	                    $("#login-username").val(newUsername);
+                    } else {
+	                    $("#msg").hide();
+                    }
+                  }
+                })
+            
+                // using the fail promise callback
+                .fail(function(data) {
+            
+                    // show any errors
+                    // best to remove for production
+                    console.log("ajax submit FAILED");
+                    console.log(data);
+                });            
+            
+          }
+        }
+       });       
+
+
+       
+      $("#val-step4").click( function() {
+        var formData = {
+          'firstlogin'        : 'true',
+          'username'          : $('input[name=login-username]').val(),
+          'password'          : $('input[name=login-password]').val()
+        };
+        $.ajax({
+          type        : 'POST', // define the type of HTTP verb we want to use (POST for our form)
+          url         : '/pulse/en/modules/alm-bootstrap4-templates/1.0.6.8-SNAPSHOT/templates/base-cssgrid/ac/footer/subscribe-modal@/subscribe-modal/recurly-user-registration-form.checkUser.do', // the url where we want to POST
+          data        : formData, // our data object
+          dataType    : 'json' // what type of data do we expect back from the server
+        })
+        // using the done promise callback
+        .done(function(data) {
+          console.log(data);
+          if(data.restype > 0) { 
+            $("#step4").hide();
+            
+console.log("WILL APPEND");
+            $("#bottomModal").append( $("#step5") );
+console.log("HAS APPENDED");
+            $('#modal_subscribe-modal').modal('hide');
+            $("#step5").show();
+            
+            
+            console.log("************************************");
+            console.log("** calling setupUser from recurlyUserRegistration.css-grid-steps-seq.jsp **");
+            console.log("************************************");
+            setupUser1();
+          } else if(data.restype == 0) {
+            $("#msg").text("Login failed: " + data.info);
+            $("#msg").show();
+            
+          }
+        })
+        
+        // using the fail promise callback
+        .fail(function(data) {
+          // show any errors
+          // best to remove for production
+          console.log("ajax submit FAILED");
+          console.log(data);
+        });            
+      });       
+
+
+       
+       $("#step1").validate({
+         rules: {
+           desired_email: {
+             required: true,
+             email: true
+             
+           }
+         },
+         messages: {
+           desired_email: "EMAIL VALIDATION"
+         }         
+       });
+  	
+       $("#newSubscriber").validate({
+                rules: {
+                    desired_firstname : "required",
+                    desired_lastname: "required",
+                    desired_password: {
+                        required: true,
+                       	pwcheck: true,
+                        minlength: 6
+                    },
+                    confirm_password: {
+                        required: true,
+                        minlength: 6,
+                        equalTo: "#desired_password"
+                    },
+                  	desired_email: {
+                        required: true,
+                        email: true
+                      	}
+                  	,
+                    agree: {
+                        required: true
+                    },
+                    
+                  	checkRobots: {
+                        required: true,
+                  	equalTo: "#res"
+                    }
+                    
+
+                },
+                messages: {
+                    desired_firstname: "Please enter your firstname",
+                    desired_lastname: "Please enter your lastname",
+                    desired_password: {
+                        required: "Please provide a password",
+                        pwcheck: "Your password must be at least 6 characters long, have one lowercase letter and a number",
+                        minlength: "Your password must be at least 6 characters long."
+                    },
+                    confirm_password: {
+                        required: "Please provide a password",
+                        minlength: "Your password must be at least 6 characters long.",
+                        equalTo: "Passwords must match"
+                    },
+                  desired_email: "Please enter a valid email address",
+                  agree: {
+                    required: "PLEASE AGREE TO THE TERMS<br/>"
+                  },
+                  checkRobots:"PLEASE CHECK THE CAPTCHA<br/>"
+                  	
+                }
+            });
+       
+       
+       
+       
+       
+       
+             $.validator.addMethod("pwcheck", function(value) {
+               return /^[A-Za-z0-9\d=!\-@._*]*$/.test(value) // consists of only these
+               && /[a-z]/.test(value) // has a lowercase letter
+               && /\d/.test(value) // has a digit
+             });
+             
+
+ 
+
+            function getCookie(cname) {
+              var name = cname + "=";
+              var ca = document.cookie.split(';');
+              for(var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') {
+                  c = c.substring(1);
+                }
+                if (c.indexOf(name) == 0) {
+                  return decodeURI(c.substring(name.length, c.length));
+                }
+              }
+              return "";
+            }      
+       
+            
+            function setupUser1() {
+
+                $('#shortcuts').children('ul').hide();
+                $('#shortcuts').mouseover(function() {
+                  $(this).children('ul').show();
+                }).mouseout(function() {
+                  $(this).children('ul').hide();
+                });
+                
+                isLoggedIn    = getCookie("recurly-user-uuid");
+                isUnomiPrimed = getCookie("recurly-user-up");
+                firstName     = getCookie("recurly-user-first-name");
+                lastName      = "";
+                if(getCookie("recurly-user-last-name")) {
+                    lastName      = getCookie("recurly-user-last-name");
+                }
+                
+                if (isLoggedIn == null || isLoggedIn.length < 2) {
+                  // DESKTOP
+                  $(".nonregonly").show();
+                  $(".regonly").hide();
+                  
+                } else {
+                  // DESKTOP
+                  var displayName = firstName;// + " " + lastName;
+                  displayName = "<a href='/pulse/subscriber-account' style='display:inline; color:inherit;'>" + displayName + "</a> ";
+                  $("#subscriberName").html("Welcome, " + displayName);
+                  $("#subscriberName1").html("Welcome, " + displayName);
+                  $('.nonregonly').hide();
+                  $('.regonly').show();
+                }            
+		  }       
+       
+       
+       /* password eye function */
+       function togglePasswdMode(inputName) {
+         var x = document.getElementById(inputName);
+         if (x.type === "password") {
+           x.type = "text";
+         } else {
+           x.type = "password";
+         }
+       }  
+     }); 
+    
+</script>
+
+
+     <div>
+
+          <form method="post" action="/pulse/en/modules/alm-bootstrap4-templates/1.0.6.8-SNAPSHOT/templates/base-cssgrid/ac/footer/subscribe-modal@/subscribe-modal/recurly-user-registration-form.newAlmSubscriber.do" name="newSubscriber" id="newSubscriber" accept-charset="UTF-8">
+       
+            
+          <!--  Modal 1 -->
+              <div class="lform" id="step1">
+                
+                  <fieldset>
+                    <div id="legend">
+                      <legend class="boldwhite">Like exclusive content on the Middle East?</legend>
+                    </div>
+                    <p class="modal-subtitle">
+                        Sign up for our daily newsletter and never miss a story. <br>Plus get access to seven years of our archives.
+                    </p>
+
+                        <div class="InputAddOn">
+                          <input
+                            type="email"
+                            id="desired_email"
+                            name="desired_email"
+                            class="InputAddOn-field"
+                            placeholder="Enter your email address"
+                          />
+                          
+                          
+                          <button class="InputAddOn-item" id="val-step1" name="val-step1" type="submit">Subscribe</button>
+                          
+                        </div>
+
+                        <p class="modal-paragraph">Already registered? <a href="" title="Subscriber Login" data-toggle="modal" data-target="#modal_login-modal" data-dismiss="modal">Log in</a></p>
+
+                    <button class="close-mod" data-dismiss="modal">
+                      X
+                    </button>
+                  </fieldset>
+                
+              </div>
+
+
+
+            
+               <!--  Modal 2 -->
+              <div class="lform" id="step2" style="display:none">
+                
+                    <fieldset>
+                       
+                      <div id="legend">
+                        <legend class="boldwhite">Almost there</legend>
+                      </div>
+                      <div class="modal-grid">
+                          <div class="control-group">
+                              <!-- Create Password-->
+                              
+                              <div class="controls Form-fields">
+                                
+                                
+                                <label for="desired_password" class="control-label Control-label--password">Create a password</label>
+                                     
+                                <input type="checkbox"
+                                       id="show-password"
+                                       class="show-password"
+                                >    
+                                <label for="show-password" class="Control-label Control-label--showPassword" >          
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="32" height="32" class="svg-toggle-password" title="Toggle Password Security">
+                                      <title>Hide/Show Password</title>
+                                      <path d="M24,9A23.654,23.654,0,0,0,2,24a23.633,23.633,0,0,0,44,0A23.643,23.643,0,0,0,24,9Zm0,25A10,10,0,1,1,34,24,10,10,0,0,1,24,34Zm0-16a6,6,0,1,0,6,6A6,6,0,0,0,24,18Z"/>
+                                        <rect x="20.133" y="2.117" height="44" transform="translate(23.536 -8.587) rotate(45)" class="closed-eye"/>
+                                        <rect x="22" y="3.984" width="4" height="44" transform="translate(25.403 -9.36) rotate(45)" style="fill:#fff" class="closed-eye"/>
+                                    </svg>
+                                </label>                                     
+                                
+                                <input type="text"
+                                               id="desired_password"
+                                               name="desired_password"
+                                               placeholder=" "
+                                               autocomplete="off"
+                                               autocapitalize="off"
+                                               autocorrect="off"
+                                               required
+                                               pattern=".{6,}"
+                                               class="ControlInput ControlInput--password input-xlarge"
+                                        >                                
+                              </div>
+                          </div>
+                          <div class="control-group">
+                              <!-- Confirm Password-->
+                           
+                              <div class="controls Form-fields">
+                                 
+                                
+                                <label for="confirm_password" class="control-label Control-label--password">Confirm password</label>
+                                      
+                                <input type="checkbox"
+                                       id="show-confirm-password"
+                                       class="show-password"
+                                >    
+                                <label for="show-confirm-password" class="Control-label Control-label--showPassword" >          
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="32" height="32" class="svg-toggle-password" title="Toggle Password Security">
+                                      <title>Hide/Show Password</title>
+                                      <path d="M24,9A23.654,23.654,0,0,0,2,24a23.633,23.633,0,0,0,44,0A23.643,23.643,0,0,0,24,9Zm0,25A10,10,0,1,1,34,24,10,10,0,0,1,24,34Zm0-16a6,6,0,1,0,6,6A6,6,0,0,0,24,18Z"/>
+                                        <rect x="20.133" y="2.117" height="44" transform="translate(23.536 -8.587) rotate(45)" class="closed-eye"/>
+                                        <rect x="22" y="3.984" width="4" height="44" transform="translate(25.403 -9.36) rotate(45)" style="fill:#fff" class="closed-eye"/>
+                                    </svg>
+                                </label>                                     
+                                
+                                <input type="text"
+                                               id="confirm_password"
+                                               name="confirm_password"
+                                               placeholder=" "
+                                               autocomplete="off"
+                                               autocapitalize="off"
+                                               autocorrect="off"
+                                               required
+                                               pattern=".{6,}"
+                                               class="ControlInput ControlInput--password input-xlarge"
+                                        >                                
+                                
+                                
+                                
+                              </div>
+                          </div>
+                      </div>
+                      <div class="modal-grid">
+                          <div class="control-group">
+                              <!-- First Name -->
+                              <label class="control-label" for="desired_firstname">First name</label>
+                              <div class="controls">
+                                <input type="text" id="desired_firstname" name="desired_firstname" placeholder="" class="input-xlarge" style="-webkit-text-fill-color: #098f8e !important;">
+                              </div>
+                          </div>
+                          <div class="control-group">
+                                <!-- Last Name -->
+                                <label class="control-label">Last name</label>
+                                <div class="controls">
+                                  <input required="" id="desired_lastname" name="desired_lastname" type="text" class="input-xlarge" style="-webkit-text-fill-color: #098f8e !important;">
+                                </div>
+                          </div>
+                      </div>
+                    
+                      <div class="progress-bar1">
+                        <div class="progress-modal1 bg-indigo">
+                            <i class="fa fa-check" aria-hidden="true"></i>
+                        </div>
+                        <div class="line bg-indigo"></div>
+                        <div class="progress-modal1 bg-slate">
+                        </div>
+                        <div class="line bg-white"></div>
+                        <div class="progress-modal1 bg-white">
+                        </div>
+                          
+                            <button id="val-step2" class="btn_login" type="submit">Continue</button> 
+                      
+                      </div>
+                      <button class="close-mod" data-dismiss="modal">
+                        X
+                      </button>
+                     
+                    </fieldset>
+                
+                </div>
+
+            
+
+            
+            <!--  Modal 3 -->
+            <div class="lform" id="step3" style="display:none">
+                
+                  <fieldset>
+                    <div id="legend">
+                      <legend class="boldwhite">Last Step to Access Premium Middle East Content</legend>
+                    </div>
+                    <div class="modal-grid">
+                        <div class="control-group">
+                            <!-- C Organization -->
+                            <label class="control-label"> Organization (optional)</label>
+                            <div class="controls">
+                              <input name="organization" id="organization" class="input-xlarge" style="-webkit-text-fill-color: #098f8e !important;">
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <!-- Job Title-->
+                            <label class="control-label">Job Title</label>
+                            <div class="controls">
+                              <input name="job_function" id="job_function" class="input-xlarge" style="-webkit-text-fill-color: #098f8e !important;">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-grid">
+                        <div class="control-group mt-4">
+                              <!-- Agree to terms -->
+                              <label for="agree" class="checkbox-inline">
+                                <input style="-webkit-appearance:checkbox; width: auto;" type="checkbox" name="agree" value="1" id="agree" required>
+                                I agree to the <a href="https://www.al-monitor.com/pulse/visitor-agreement">Visitor Agreement</a> including the <a href="https://www.al-monitor.com/pulse/visitor-agreement">Cancellation Policy </a> contained therein, 
+                               <a href="https://www.al-monitor.com/pulse/privacy"> Privacy Policy and Cookie Policy</a>.
+                              </label>
+                        </div>
+                        <div class="control-group">
+                          
+                          
+                          <input  type="text" hidden name="geoInfo" id="geoInfo" value=""/>
+                          <input  type="text" hidden name="browserInfo" id="browserInfo" value=""/>
+                          <input type="checkbox" id="check" hidden />
+                         
+                          <input  type="hidden" name="res" id="res" value="2"/>
+                        
+                            <!-- Enter the total of 2+2 -->
+                            <label class="control-label" for="checkRobots">Enter the total of 0+2</label>
+                            <div class="controls">
+                              <input name="checkRobots" id="checkRobots" class="input-xlarge" style="-webkit-text-fill-color: #098f8e !important;"  placeholder="answer to confirm you are not a robot">
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="progress-bar1">
+                      <div class="progress-modal1 bg-indigo">
+                          <i class="fa fa-check" aria-hidden="true"></i>
+                      </div>
+                      <div class="line bg-indigo"></div>
+                      <div class="progress-modal1 bg-indigo">
+                          <i class="fa fa-check" aria-hidden="true"></i>
+                      </div>
+                      <div class="line bg-indigo"></div>
+                      <div class="progress-modal1 bg-slate">
+                      </div>
+                        
+                          <button id="val-step3" class="btn_login" type="submit">Finish</button> 
+                    
+                    </div>
+                    <button class="close-mod" data-dismiss="modal">
+                      X
+                    </button>
+                  </fieldset>
+                
+              </div>
+      </form>
+      
+      
+      
+      
+      
+         
+       <!--  Modal 4 -->
+       <div class="lform" id="step4" style="display:none">
+         <form name="loginForm" id="loginForm">
+           <fieldset>
+             <div id="msg" name="msg" class="alert alert-danger" style="display:none"></div>
+             <div id="legend" class="mb-0">
+               <legend class="boldwhite">
+                 Log In to Al-Monitor
+               </legend>
+             </div>
+             <p class="modal-subtitle">
+               The Pulse of the Middle East
+             </p>
+             <div class="control-group">
+               <!-- Username -->
+               <label class="control-label" for="login-username">Username</label>
+               <div class="controls">
+                 <input required="" type="text" id="login-username" name="login-username" placeholder="" class="input-xlarge" style="-webkit-text-fill-color: #098f8e !important;">
+               </div>
+             </div>
+             <div class="control-group">
+               <!-- Password-->
+               <div class="controls Form-fields">
+                               
+                 <label for="confirm_password" class="control-label Control-label--password">Password</label>
+                 
+                 <input type="checkbox"
+                        id="show-login-password"
+                        class="show-password"
+                        >    
+                 <label for="show-login-password" class="Control-label Control-label--showPassword" >          
+                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="32" height="32" class="svg-toggle-password" title="Toggle Password Security">
+                     <title>Hide/Show Password</title>
+                     <path d="M24,9A23.654,23.654,0,0,0,2,24a23.633,23.633,0,0,0,44,0A23.643,23.643,0,0,0,24,9Zm0,25A10,10,0,1,1,34,24,10,10,0,0,1,24,34Zm0-16a6,6,0,1,0,6,6A6,6,0,0,0,24,18Z"/>
+                     <rect x="20.133" y="2.117" height="44" transform="translate(23.536 -8.587) rotate(45)" class="closed-eye"/>
+                     <rect x="22" y="3.984" width="4" height="44" transform="translate(25.403 -9.36) rotate(45)" style="fill:#fff" class="closed-eye"/>
+                   </svg>
+                 </label>                                     
+                 
+                 <input type="text"
+                        id="login-password"
+                        name="login-password"
+                        placeholder=" "
+                        autocomplete="off"
+                        autocapitalize="off"
+                        autocorrect="off"
+                        required
+                        pattern=".{6,}"
+                        class="ControlInput ControlInput--password input-xlarge"
+                        >                                
+                 
+               </div>
+             </div>
+             <div class="control-group">
+               <!-- Button -->
+               <div class="controls">
+                 <button id="val-step4" class="btn_login" type="button">Log in</button> 
+                 <a href="#" class="forgot_pass_btn"> Forgot your password? </a>
+               </div>
+             </div>
+             <button class="close-mod" data-dismiss="modal">
+               X
+             </button>
+           </fieldset>
+         </form>
+       </div>
+       
+  
+	</div>
+      
+
+    <!--  Modal 5 -->
+    <div class="success-modal" id="step5" style="display:none"> 
+      <p>You’re now subscribed to Al-Monitor. <a href="/pulse/subscriber-newsletters-welcome">Here's what you can now access.</a></p>
+    </div>       
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="modal_login-modal" tabindex="-1" role="dialog" aria-labelledby="modalLabel_login-modal" aria-hidden="true">
+  <div class="modal-dialog" style="width:100%">
+        <div class="">
+            <div class="modal-body">
+                
+
+
+
+
+
+
+<script type="text/javascript">
+      
+  $( document ).ready(function() {
+    
+      $('.article_body a[href^="http://"]' ).attr( 'target','_blank' );
+      $('.article_body a[href^="https://"]' ).attr( 'target','_blank' ); 
+      
+      $("#val-step-login-reg").click( function() {
+          var formData = {
+              'firstlogin'        : 'false',
+              'username'          : $('input[name=rlogin_username]').val(),
+              'password'          : $('input[name=rlogin_password]').val()
+          };
+          $.ajax({
+              type      : 'POST', 
+              url       : '/pulse/en/modules/alm-bootstrap4-templates/1.0.6.8-SNAPSHOT/templates/base-cssgrid/ac/footer/login-modal@/login-modal/recurly-login.checkUser.do', 
+              data      : formData,
+              dataType  : 'json'
+          })
+
+          .done(function(data) {
+            
+            console.log(data);
+            
+            if(data.restype > 0)
+            { 
+                $("#step-login-reg").hide();
+                $('#modal_login-modal').modal('hide');
+                console.log("calling setupUser2 from recurlyLogin.css-grid-modal.jsp");
+                setupUser2();
+            }
+            else if(data.restype == 0)
+            {
+                $("#msg1").text("Login failed: " + data.info);
+                $("#msg1").show();
+            }
+            else
+            {
+	            $("#msg1").hide();
+            }
+            
+        })
+        
+        .fail(function(data) {
+            console.log("ajax submit FAILED");
+            console.log(data);
+        });            
+      });  
+
+    
+    
+      $("#val-step-forgot-pass").click( function() {
+        console.log("*************************************");
+
+        var formData = {
+          'username' : $('input[name=emailaddress]').val()
+        };
+        
+        console.log('formData: ' + formData);
+        $.ajax({
+            type      : 'POST',
+            url       : '/pulse/en/modules/alm-bootstrap4-templates/1.0.6.8-SNAPSHOT/templates/base-cssgrid/ac/footer/login-modal@/login-modal/recurly-login/.forgotPassword.do',
+            data      : formData,
+            dataType  : 'json'
+        })
+        
+        .done(function(data) {
+          console.log(data);
+          if(data.restype == 1) {
+                $("#msg1").text("A password reset link has been sent to: " + data.username);
+                $("#msg1").show();
+                $("#step-forgot-pass").hide();
+                $("#msg1").removeClass("alert-danger");
+                $("#msg1").addClass("alert-success");
+                $("#step-login-reg").show();
+          }
+        })
+        
+        .fail(function(data) {
+            console.log("ajax submit FAILED");
+            console.log(data);
+        });
+        
+        
+      });  
+  
+    
+    
+      $("#forgot_pass_btn").click( function() {
+               $("#step-login-reg").hide();
+               $("#step-forgot-pass").show();
+
+      });  
+    
+    
+    
+  
+      $("#loginForm1").validate({
+          rules: {
+              rlogin_username: "required",
+              rlogin_password: "required"
+          },
+          messages: {
+              rlogin_username: {
+	              required: "Please enter a username"
+              },
+              
+              rlogin_password: {
+    	          required: "Please provide a password"
+              }
+          }
+      });
+   
+  
+      function getCookie(cname) {
+          var name = cname + "=";
+          var ca = document.cookie.split(';');
+          for(var i = 0; i < ca.length; i++) {
+              var c = ca[i];
+              while (c.charAt(0) == ' ') {
+                  c = c.substring(1);
+              }
+              if (c.indexOf(name) == 0) {
+                  return decodeURI(c.substring(name.length, c.length));
+              }
+          }
+          return "";
+      }      
+      
+              
+      function setupUser2() {
+          $('#shortcuts').children('ul').hide();
+          $('#shortcuts').mouseover(function() {
+              $(this).children('ul').show();
+          }).mouseout(function() {
+              $(this).children('ul').hide();
+          });
+          
+          isLoggedIn    = getCookie("recurly-user-uuid");
+          isUnomiPrimed = getCookie("recurly-user-up");
+          firstName     = getCookie("recurly-user-first-name");
+          lastName      = "";
+          if(getCookie("recurly-user-last-name")) {
+              lastName      = getCookie("recurly-user-last-name");
+          }
+          
+          if (isLoggedIn == null || isLoggedIn.length < 2) {
+              // DESKTOP
+              $(".nonregonly").show();
+              $(".regonly").hide();
+          } else {
+              // DESKTOP
+              var displayName = firstName;// + " " + lastName;
+              displayName = "<a href='' style='display:inline; color:inherit;'>" + displayName + "</a> ";
+              $("#subscriberName").html("Welcome, " + displayName);
+              $("#subscriberName1").html("Welcome, " + displayName);
+
+              $('.nonregonly').hide();
+              $('.regonly').show();
+          }            
+      }
+       
+  }); 
+    
+</script>
+    
+     <div class="container max-width-row">
+      
+         
+       <!--  LOGIN FORM -->
+       <div class="lform" id="step-login-reg" style="display:block">
+         <form name="loginForm1" id="loginForm1">
+           <fieldset>
+             <button class="close-mod" data-dismiss="modal" type="button">
+               X
+             </button>
+             <div id="msg1" name="msg1" class="alert alert-danger" style="display:none"></div>
+             <div id="legend" class="mb-0">
+               <legend class="boldwhite">
+                 Registered User Login
+               </legend>
+             </div>
+             <p class="modal-subtitle">
+               The Pulse of the Middle East
+             </p>
+             <div class="control-group">
+               <!-- Username -->
+               <label class="control-label" for="rlogin_username">Username</label>
+               <div class="controls">
+                 <input required="" type="text" id="rlogin_username" name="rlogin_username" placeholder="" class="input-xlarge" style="-webkit-text-fill-color: #098f8e !important;">
+               </div>
+             </div>
+             <div class="control-group">
+               <!-- Password-->
+               <label class="control-label" for="rlogin_password">Password</label>
+               <div class="controls">
+                 <input required="" type="password" id="rlogin_password" name="rlogin_password" placeholder="" class="input-xlarge" style="-webkit-text-fill-color: #098f8e !important;">
+               </div>
+             </div>
+             <div class="control-group">
+               <!-- Button -->
+               <div class="controls">
+                 <button id="val-step-login-reg" class="btn_login" type="button">Log in</button> 
+                 <a href="#" id="forgot_pass_btn" class="forgot_pass_btn"> Forgot your password? </a>
+               </div>
+             </div>
+           </fieldset>
+         </form>
+       </div>
+       
+       
+
+
+      <!--  FORGOT PASSWORD -->
+       <div class="lform" id="step-forgot-pass" style="display:none">
+          <form id="recoveryPasswordForm" name="recoveryPasswordForm">
+            <fieldset>
+              <button class="close-mod" data-dismiss="modal" type="button">
+                X
+              </button>
+              
+              <div id="legend" class="mb-0">
+                <legend class="boldwhite">Forgot your password?</legend>
+              </div>
+              <p class="modal-subtitle">
+                  The link to reset the password will be sent to your email address.
+              </p>
+             
+  
+              <div class="control-group mt-4">
+                  <!-- Username -->
+                  <label class="control-label" for="emailaddress">Email</label>
+                  <div class="controls">
+                    <input
+                      required=""
+                      type="text"
+                      id="emailaddress"
+                      name="emailaddress"
+                      placeholder=""
+                      class="input-xlarge error"
+                      style="-webkit-text-fill-color: #098f8e !important;"
+                      aria-invalid="true"
+                    /><label
+                      id="rlogin_username-error"
+                      class="error"
+                      for="rlogin_username"
+                      >Please enter your e-mail address</label
+                    >
+                  </div>
+                  <button id="val-step-forgot-pass" class="btn_login">Recover Password</button>
+                </div>
+            </fieldset>
+          </form>
+        </div>       
+  
+	</div>
+            </div>
+        </div>
+    </div>
+</div><div class="clear"></div><div id="bottomModal"></div>
+    </div>
+
+    
+    
+  </body>
+</html>

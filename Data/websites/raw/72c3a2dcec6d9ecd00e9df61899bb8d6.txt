@@ -1,0 +1,1403 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    
+
+  <script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "datePublished": "2020-02-24",
+    "dateModified": "2020-02-24",
+    "description": "Claims about patents existing for AIDS, Zika, SARS, swine flu and Ebola are misleading.",
+    "@type": [
+        "Review",
+        "ClaimReview"
+    ],
+    "url": "https://fullfact.org/health/us-patents-on-viruses/",
+    "author": {
+        "@type": "Organization",
+        "url": "https://fullfact.org",
+        "sameAs": "https://twitter.com/FullFact",
+        "name": "Full Fact",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://fullfact.org/static/img/schema_logo.2c33c151cdf2.png",
+            "width": 90,
+            "height": 60
+        }
+    },
+    "claimReviewed": "US-Patent 5676977 is for AIDS.",
+    "reviewRating": {
+        "@type": "Rating",
+        "alternateName": "This number is for a now-expired patent for an ineffective AIDS cure.",
+        "ratingValue": null,
+        "bestRating": null,
+        "worstRating": null
+    },
+    "reviewBody": "This number is for a now-expired patent for an ineffective AIDS cure."
+}</script>
+
+  <script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "datePublished": "2020-02-24",
+    "dateModified": "2020-02-24",
+    "description": "Claims about patents existing for AIDS, Zika, SARS, swine flu and Ebola are misleading.",
+    "@type": [
+        "Review",
+        "ClaimReview"
+    ],
+    "url": "https://fullfact.org/health/us-patents-on-viruses/",
+    "author": {
+        "@type": "Organization",
+        "url": "https://fullfact.org",
+        "sameAs": "https://twitter.com/FullFact",
+        "name": "Full Fact",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://fullfact.org/static/img/schema_logo.2c33c151cdf2.png",
+            "width": 90,
+            "height": 60
+        }
+    },
+    "claimReviewed": "US-Patent 8835624 is for the H1N1 virus.",
+    "reviewRating": {
+        "@type": "Rating",
+        "alternateName": "The patent with this number was for a strand of DNA that binds to the H1N1 virus, not the virus itself.",
+        "ratingValue": null,
+        "bestRating": null,
+        "worstRating": null
+    },
+    "reviewBody": "The patent with this number was for a strand of DNA that binds to the H1N1 virus, not the virus itself."
+}</script>
+
+  <script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "datePublished": "2020-02-24",
+    "dateModified": "2020-02-24",
+    "description": "Claims about patents existing for AIDS, Zika, SARS, swine flu and Ebola are misleading.",
+    "@type": [
+        "Review",
+        "ClaimReview"
+    ],
+    "url": "https://fullfact.org/health/us-patents-on-viruses/",
+    "author": {
+        "@type": "Organization",
+        "url": "https://fullfact.org",
+        "sameAs": "https://twitter.com/FullFact",
+        "name": "Full Fact",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://fullfact.org/static/img/schema_logo.2c33c151cdf2.png",
+            "width": 90,
+            "height": 60
+        }
+    },
+    "claimReviewed": "US patent number 20120251502 is for Ebola.",
+    "reviewRating": {
+        "@type": "Rating",
+        "alternateName": "This application number was for a strain of the Ebola virus but the application has now been abandoned. The virus was not created by those who filed the patent.",
+        "ratingValue": null,
+        "bestRating": null,
+        "worstRating": null
+    },
+    "reviewBody": "This application number was for a strain of the Ebola virus but the application has now been abandoned. The virus was not created by those who filed the patent."
+}</script>
+
+  <script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "datePublished": "2020-02-24",
+    "dateModified": "2020-02-24",
+    "description": "Claims about patents existing for AIDS, Zika, SARS, swine flu and Ebola are misleading.",
+    "@type": [
+        "Review",
+        "ClaimReview"
+    ],
+    "url": "https://fullfact.org/health/us-patents-on-viruses/",
+    "author": {
+        "@type": "Organization",
+        "url": "https://fullfact.org",
+        "sameAs": "https://twitter.com/FullFact",
+        "name": "Full Fact",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://fullfact.org/static/img/schema_logo.2c33c151cdf2.png",
+            "width": 90,
+            "height": 60
+        }
+    },
+    "claimReviewed": "US patent number CA2741523 is for swine flu.",
+    "reviewRating": {
+        "@type": "Rating",
+        "alternateName": "This is the application number for a patent for the Ebola virus made to the Canadian Intellectual Property Office. This patent has not been granted, and doesn\u2019t mean the Ebola virus was created by someone.",
+        "ratingValue": null,
+        "bestRating": null,
+        "worstRating": null
+    },
+    "reviewBody": "This is the application number for a patent for the Ebola virus made to the Canadian Intellectual Property Office. This patent has not been granted, and doesn\u2019t mean the Ebola virus was created by someone."
+}</script>
+
+  <script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "datePublished": "2020-02-24",
+    "dateModified": "2020-02-24",
+    "description": "Claims about patents existing for AIDS, Zika, SARS, swine flu and Ebola are misleading.",
+    "@type": [
+        "Review",
+        "ClaimReview"
+    ],
+    "url": "https://fullfact.org/health/us-patents-on-viruses/",
+    "author": {
+        "@type": "Organization",
+        "url": "https://fullfact.org",
+        "sameAs": "https://twitter.com/FullFact",
+        "name": "Full Fact",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://fullfact.org/static/img/schema_logo.2c33c151cdf2.png",
+            "width": 90,
+            "height": 60
+        }
+    },
+    "claimReviewed": "0070031450 A1 is a US patent for BSE (mad cow disease).",
+    "reviewRating": {
+        "@type": "Rating",
+        "alternateName": "There is a patent application number one digit away from this that mentions BSE, but is not a patent for BSE itself.",
+        "ratingValue": null,
+        "bestRating": null,
+        "worstRating": null
+    },
+    "reviewBody": "There is a patent application number one digit away from this that mentions BSE, but is not a patent for BSE itself."
+}</script>
+
+  <script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "datePublished": "2020-02-24",
+    "dateModified": "2020-02-24",
+    "description": "Claims about patents existing for AIDS, Zika, SARS, swine flu and Ebola are misleading.",
+    "@type": [
+        "Review",
+        "ClaimReview"
+    ],
+    "url": "https://fullfact.org/health/us-patents-on-viruses/",
+    "author": {
+        "@type": "Organization",
+        "url": "https://fullfact.org",
+        "sameAs": "https://twitter.com/FullFact",
+        "name": "Full Fact",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://fullfact.org/static/img/schema_logo.2c33c151cdf2.png",
+            "width": 90,
+            "height": 60
+        }
+    },
+    "claimReviewed": "ATTC VR-84 is a patent for Zika virus that comes from the Rockefeller Foundation.",
+    "reviewRating": {
+        "@type": "Rating",
+        "alternateName": "This is the name of a certain strain of Zika virus, which was first isolated in the 1940s in a lab funded by the Rockefeller Foundation. This strain was not patented.",
+        "ratingValue": null,
+        "bestRating": null,
+        "worstRating": null
+    },
+    "reviewBody": "This is the name of a certain strain of Zika virus, which was first isolated in the 1940s in a lab funded by the Rockefeller Foundation. This strain was not patented."
+}</script>
+
+  <script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "datePublished": "2020-02-24",
+    "dateModified": "2020-02-24",
+    "description": "Claims about patents existing for AIDS, Zika, SARS, swine flu and Ebola are misleading.",
+    "@type": [
+        "Review",
+        "ClaimReview"
+    ],
+    "url": "https://fullfact.org/health/us-patents-on-viruses/",
+    "author": {
+        "@type": "Organization",
+        "url": "https://fullfact.org",
+        "sameAs": "https://twitter.com/FullFact",
+        "name": "Full Fact",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://fullfact.org/static/img/schema_logo.2c33c151cdf2.png",
+            "width": 90,
+            "height": 60
+        }
+    },
+    "claimReviewed": "US patents 7897744 and 8506968 are for SARS.",
+    "reviewRating": {
+        "@type": "Rating",
+        "alternateName": "The first number is the US patent number for the SARS virus. The patent application was made by the CDC, but after the outbreak in 2002. The second number is a patent for a SARS vaccine which has now expired.",
+        "ratingValue": null,
+        "bestRating": null,
+        "worstRating": null
+    },
+    "reviewBody": "The first number is the US patent number for the SARS virus. The patent application was made by the CDC, but after the outbreak in 2002. The second number is a patent for a SARS vaccine which has now expired."
+}</script>
+
+  <script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "datePublished": "2020-02-24",
+    "dateModified": "2020-02-24",
+    "description": "Claims about patents existing for AIDS, Zika, SARS, swine flu and Ebola are misleading.",
+    "@type": [
+        "Review",
+        "ClaimReview"
+    ],
+    "url": "https://fullfact.org/health/us-patents-on-viruses/",
+    "author": {
+        "@type": "Organization",
+        "url": "https://fullfact.org",
+        "sameAs": "https://twitter.com/FullFact",
+        "name": "Full Fact",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://fullfact.org/static/img/schema_logo.2c33c151cdf2.png",
+            "width": 90,
+            "height": 60
+        }
+    },
+    "claimReviewed": "US patent 10130701 is for coronavirus.",
+    "reviewRating": {
+        "@type": "Rating",
+        "alternateName": "This number is not a patent for the new Wuhan virus, Covid-19. It\u2019s a patent for a weakened version of a virus in the same family as Covid-19, a family which includes the common cold and SARS.",
+        "ratingValue": null,
+        "bestRating": null,
+        "worstRating": null
+    },
+    "reviewBody": "This number is not a patent for the new Wuhan virus, Covid-19. It\u2019s a patent for a weakened version of a virus in the same family as Covid-19, a family which includes the common cold and SARS."
+}</script>
+
+
+    
+
+
+	<meta name="description" content="Claims about patents existing for AIDS, Zika, SARS, swine flu and Ebola are misleading.">
+    
+    
+    
+    
+    
+        <meta property="og:title" content="Viral image about patents for viruses is misleading">
+        <meta property="og:url" content="https://fullfact.org/health/us-patents-on-viruses/">
+        <meta property="og:description" content="Claims about patents existing for AIDS, Zika, SARS, swine flu and Ebola are misleading.">
+        <meta property="og:image" content="https://fullfact.org/media/_versions/kg12n3_social_media.jpg">
+        <meta property="og:type" content="article">
+        <meta property="og:site_name" content="Full Fact">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+        <meta name="twitter:domain" content="fullfact.org">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Viral image about patents for viruses is misleading">
+        <meta name="twitter:url" content="https://fullfact.org/health/us-patents-on-viruses/">
+        <meta name="twitter:description" content="Claims about patents existing for AIDS, Zika, SARS, swine flu and Ebola are misleading.">
+        <meta name="twitter:image" content="https://fullfact.org/media/_versions/kg12n3_social_media.jpg">
+        
+        <meta name="twitter:site" content="@FullFact">
+    
+    
+        
+        
+        
+        <meta itemprop="name" content="Viral image about patents for viruses is misleading">
+        
+        
+        <meta itemprop="url" content="https://fullfact.org/health/us-patents-on-viruses/">
+        <meta itemprop="description" content="Claims about patents existing for AIDS, Zika, SARS, swine flu and Ebola are misleading.">
+        <meta itemprop="image" content="https://fullfact.org/media/_versions/kg12n3_social_media.jpg">
+    
+
+
+
+
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+    <meta name="viewport" content="width=device-width">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    
+  <link rel="canonical" href="https://fullfact.org/health/us-patents-on-viruses/" />
+
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="shortcut icon" href="/static/img/favicon.88dee1b8a374.ico">
+    <title>Viral image about patents for viruses is misleading -  Full Fact</title>
+
+    
+    <link rel="alternate" href="/feed/all/" title="Full Fact – Fact check RSS Feed" type="application/rss+xml">
+    
+    <link href="/static/css/bootstrap.min.eb2644c7646f.css" rel="stylesheet" media="screen">
+    <link href="/static/css/new-styles.min.86323292cea4.css" rel="stylesheet" media="screen">
+    <link rel="stylesheet" media="print" href="/static/css/print.min.f1a9fcd4ee91.css">
+
+    
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript" src="/static/js/all.min.9067325b8d71.js"></script>
+
+    
+  
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M9NTMVD');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-15705567-1', 'auto', {'siteSpeedSampleRate': 50});
+ga('send', 'pageview');
+
+</script>
+    <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('set', 'autoConfig', 'false', '736670223119754');
+      fbq('init', '736670223119754');
+      fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=736670223119754&ev=PageView&noscript=1"
+    /></noscript>
+
+    
+    
+</head>
+
+<body class="article typography ">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9NTMVD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="wrapper">
+
+
+
+
+
+    <nav class="navbar navbar-inverse navbar-sharp navbar-main navbar-fixed-top">
+      <div class="container">
+        <div class="col-lg-10 col-main-left no-padding-right no-padding-left">
+
+          <div class="navbar-header">
+
+            <h1 class="brand-tagline"><span class="sr-only">Full Fact - </span>The UK’s independent fact&nbsp;checking charity</h1>
+            <a class="navbar-brand navbar-brand-mobile hidden-lg" href="/">
+              <img src="/static/img/logo.0400b7ce1e34.png" class="banner-logo" alt="Full Fact" />
+            </a>
+
+            <button class="navbar-toggle collapsed hidden-lg" data-target=
+            "#navbar-main-collapse" data-toggle="collapse" type=
+            "button">
+              <div class="icon-bar-wrap">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </div>
+              <div class="icon-close-icon-wrap"><span class="icon-close"></span></div>
+              <span class="title">Menu</span>
+              <span class="title title-closed">Close</span>
+            </button>
+
+            <form action="/search/" class="visible-sm visible-md col-sm-4 navbar-form navbar-form-tablet" id="searchformTablet" method="get" name="searchformTablet" role="search">
+              <button class="btn btn-default" type="submit">
+                <span class="icon-search"></span>
+              </button>
+              <div class="form-group">
+                <input class="form-control" id="navbar-form-input-tablet" name="q" type="text" value="">
+              </div>
+            </form>
+
+          </div>
+
+          <div class="collapse navbar-collapse collapse visible-lg">
+
+            <ul class="nav navbar-nav nav-bar-pages">
+              <li><a href="/">Home</a></li>
+              <li><a href="/about">About</a></li>
+              <li><a href="/about/contact/">Contact</a></li>
+              <li><a href="/blog/">Blog</a></li>
+              <li><a href="/donate/?utm_source=navbar&utm_medium=donatepage" class="donate-highlight">Donate</a></li>
+    
+            </ul>
+
+            <div class="clearfix"></div>
+
+            <ul class="nav navbar-nav nav-bar-categories nav-bar-categories-lg col-lg-9">
+                      <li class="col-sm-12 no-padding"><a href="/latest/">Latest</a></li>
+    
+    
+                      <li class="col-sm-12 no-padding"><a href="/economy/">Economy</a></li>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+                      <li class="col-sm-12 no-padding"><a href="/europe/">Europe</a></li>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+                      <li class="col-sm-12 no-padding"><a href="/health/">Health</a></li>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+                      <li class="col-sm-12 no-padding"><a href="/health/coronavirus/">Coronavirus</a></li>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+            </ul>
+
+            <form action="/search/" class="hidden-xs col-sm-4 col-md-3 col-lg-3 navbar-form navbar-form-lg" id="searchform" method="get" name="searchform" role="search">
+              <button class="btn btn-default" type="submit">
+                <span class="icon-search"></span>
+              </button>
+              <div class="form-group">
+                <input class="form-control" id="navbar-form-input" name="q" type="text" value="">
+              </div>
+            </form>
+
+          </div>
+
+
+        </div>
+
+        <div class="col-lg-2 visible-lg col-main-right no-padding">
+
+          <div class="col-lg-9">
+            <a class="navbar-brand" href="/">
+              <img src="/static/img/logo.0400b7ce1e34.png" class="banner-logo" alt="Full Fact" />
+            </a>
+          </div>
+
+          <div class="col-lg-3 social-navbar">
+            <ul>
+              <li class="facebook"><a href="http://facebook.com/fullfact.org">Facebook</a></li>
+              <li class="twitter"><a href="http://twitter.com/fullfact">Twitter</a></li>
+              <li class="linkedin"><a href="http://www.linkedin.com/company/fullfact">LinkedIn</a></li>
+            </ul>
+          </div>
+
+        </div>
+
+      </div>
+      
+
+      <div class="collapse navbar-collapse collapse hidden-lg no-padding navbar-collapse-mobile" id="navbar-main-collapse">
+
+        <ul class="nav navbar-nav nav-bar-categories col-lg-9">
+          <li><a href="/search/" class="container no-padding" rel="nofollow">Search</a></li>
+          <li><a href="/about/" class="container no-padding">About</a></li>
+          <li><a href="/latest/" class="container no-padding">Latest</a></li>
+
+
+          <li class="col-sm-12 no-padding"><a href="/economy/" class="container no-padding">Economy</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <li class="col-sm-12 no-padding"><a href="/europe/" class="container no-padding">Europe</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <li class="col-sm-12 no-padding"><a href="/health/" class="container no-padding">Health</a></li>
+
+
+
+
+
+
+
+
+
+          <li class="col-sm-12 no-padding"><a href="/health/coronavirus/" class="container no-padding">Coronavirus</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <li><a href="/about/contact/" class="container no-padding">Contact</a></li>
+          <li><a href="/blog/" class="container no-padding">Blog</a></li>
+          <li class="donate-highlight"><a href="/donate/?utm_source=navbar&utm_medium=donatepage" class="container no-padding">Donate</a></li>
+
+        </ul>
+
+      </div>
+
+    </nav>
+
+
+
+
+
+  <div class="modal fade" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">              
+      <div class="modal-body">
+      	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <img src="" class="imagepreview" style="width: 100%;" >
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="container main-container" id="mainContainer">
+
+      <div class="row">
+  <div class="col-xs-12 breadcrumb-padding">
+    <ol class="breadcrumb">
+      <li><a href=/>Home</a></li>
+      
+
+        
+
+          
+        <li><a href="/health/">Health</a></li>
+        <li><a href="/health/coronavirus/">Coronavirus</a></li>
+          
+        
+      
+    </ol>
+  </div>
+</div>
+
+
+      <div class="row">
+        <div class="col-sm-12 col-md-7 article-post-content ">
+          <div id="sticky-anchor"></div>
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="header">
+                <h1>Viral image about patents for viruses is misleading</h1>
+
+                <p class="date">
+                  <span class="published-at">24th Feb 2020</span>
+                </p>
+              </div>
+
+              
+                
+  <div class="brief-claim-conclusion" id="briefClaimConclusion">
+  <div class="box-panel">
+    
+      
+        <div class="inner-row row">
+          <div class="col-xs-12 col-sm-6 col-left" data-nosnippet="true">
+            <h4>Claim</h4>
+            <p>US-Patent 5676977 is for AIDS.</p>
+            
+          </div>
+          <div class="col-xs-12 col-sm-6 col-right">
+            <h4>Conclusion</h4>
+            <p>This number is for a now-expired patent for an ineffective AIDS cure.</p>
+          </div>
+        </div>
+      
+    
+      
+        <div class="briefAdditionalRows">
+          <div class="inner-row collapse row">
+            <div class="col-xs-12 col-sm-6 col-left">
+              <h4>&nbsp;</h4>
+              <p>US-Patent 8835624 is for the H1N1 virus.</p>
+              
+            </div>
+            <div class="col-xs-12 col-sm-6 col-right">
+              <h4>&nbsp;</h4>
+              <p>The patent with this number was for a strand of DNA that binds to the H1N1 virus, not the virus itself.</p>
+            </div>
+            <div class="clearfix visible-sm-block"></div>
+          </div>
+        </div>
+      
+    
+      
+        <div class="briefAdditionalRows">
+          <div class="inner-row collapse row">
+            <div class="col-xs-12 col-sm-6 col-left">
+              <h4>&nbsp;</h4>
+              <p>US patent number 20120251502 is for Ebola.</p>
+              
+            </div>
+            <div class="col-xs-12 col-sm-6 col-right">
+              <h4>&nbsp;</h4>
+              <p>This application number was for a strain of the Ebola virus but the application has now been abandoned. The virus was not created by those who filed the patent.</p>
+            </div>
+            <div class="clearfix visible-sm-block"></div>
+          </div>
+        </div>
+      
+    
+      
+        <div class="briefAdditionalRows">
+          <div class="inner-row collapse row">
+            <div class="col-xs-12 col-sm-6 col-left">
+              <h4>&nbsp;</h4>
+              <p>US patent number CA2741523 is for swine flu.</p>
+              
+            </div>
+            <div class="col-xs-12 col-sm-6 col-right">
+              <h4>&nbsp;</h4>
+              <p>This is the application number for a patent for the Ebola virus made to the Canadian Intellectual Property Office. This patent has not been granted, and doesn’t mean the Ebola virus was created by someone.</p>
+            </div>
+            <div class="clearfix visible-sm-block"></div>
+          </div>
+        </div>
+      
+    
+      
+        <div class="briefAdditionalRows">
+          <div class="inner-row collapse row">
+            <div class="col-xs-12 col-sm-6 col-left">
+              <h4>&nbsp;</h4>
+              <p>0070031450 A1 is a US patent for BSE (mad cow disease).</p>
+              
+            </div>
+            <div class="col-xs-12 col-sm-6 col-right">
+              <h4>&nbsp;</h4>
+              <p>There is a patent application number one digit away from this that mentions BSE, but is not a patent for BSE itself.</p>
+            </div>
+            <div class="clearfix visible-sm-block"></div>
+          </div>
+        </div>
+      
+    
+      
+        <div class="briefAdditionalRows">
+          <div class="inner-row collapse row">
+            <div class="col-xs-12 col-sm-6 col-left">
+              <h4>&nbsp;</h4>
+              <p>ATTC VR-84 is a patent for Zika virus that comes from the Rockefeller Foundation.</p>
+              
+            </div>
+            <div class="col-xs-12 col-sm-6 col-right">
+              <h4>&nbsp;</h4>
+              <p>This is the name of a certain strain of Zika virus, which was first isolated in the 1940s in a lab funded by the Rockefeller Foundation. This strain was not patented.</p>
+            </div>
+            <div class="clearfix visible-sm-block"></div>
+          </div>
+        </div>
+      
+    
+      
+        <div class="briefAdditionalRows">
+          <div class="inner-row collapse row">
+            <div class="col-xs-12 col-sm-6 col-left">
+              <h4>&nbsp;</h4>
+              <p>US patents 7897744 and 8506968 are for SARS.</p>
+              
+            </div>
+            <div class="col-xs-12 col-sm-6 col-right">
+              <h4>&nbsp;</h4>
+              <p>The first number is the US patent number for the SARS virus. The patent application was made by the CDC, but after the outbreak in 2002. The second number is a patent for a SARS vaccine which has now expired.</p>
+            </div>
+            <div class="clearfix visible-sm-block"></div>
+          </div>
+        </div>
+      
+    
+      
+        <div class="briefAdditionalRows">
+          <div class="inner-row collapse row">
+            <div class="col-xs-12 col-sm-6 col-left">
+              <h4>&nbsp;</h4>
+              <p>US patent 10130701 is for coronavirus.</p>
+              
+            </div>
+            <div class="col-xs-12 col-sm-6 col-right">
+              <h4>&nbsp;</h4>
+              <p>This number is not a patent for the new Wuhan virus, Covid-19. It’s a patent for a weakened version of a virus in the same family as Covid-19, a family which includes the common cold and SARS.</p>
+            </div>
+            <div class="clearfix visible-sm-block"></div>
+          </div>
+        </div>
+      
+    
+    
+      <p class="more briefShowMore">Claim 1 of 8</p>
+    
+  </div>
+</div>
+
+
+
+              
+
+              <div>
+              
+                
+
+                <p>A <a href="https://www.facebook.com/theundergroundresistancenetwork/photos/a.1601471479892145/2768939656478649/?type=3&amp;__tn__=-R">post</a> on Facebook seems to claim that a number of viruses have been patented.</p>
+<p>Some of these patents are for potential cures or vaccines for the diseases listed. Some are for patents of the pathogens themselves. This does not mean whoever applied for the patent invented the viruses. Some of the patents have been abandoned or have lapsed.</p>
+<blockquote>
+<p> “AIDS US-Patent 5676977”</p>
+</blockquote>
+<p>This patent number <a href="https://patents.google.com/patent/US5676977A/en">does exist</a>, though it is not an effective cure for AIDS, or a patent on the virus (HIV) which causes AIDS. The patent is for “tetrasilver tetroxide molecular crystal devices” which the inventors wanted to develop as a cure for AIDS.</p>
+<p>Filing a patent is not the same as creating an effective cure for something, as none of the same testing needs to take place to file a patent. The patent has now expired.</p>
+<blockquote>
+<p>“H1N1 US-Patent 8835624”</p>
+</blockquote>
+<p>US Patent number <a href="https://patents.google.com/patent/US8835624B1/en">8835624</a> is for something called an <a href="https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/aptamer">aptamer</a>, which is a tiny strand of DNA or RNA which can bind to certain target molecules on the surface of a pathogen. This patent number applies to an aptamer that binds to H1N1 Influenza A, also known as swine flu. The scientists applying for the patent wanted to use the aptamer to detect the <a href="http://patft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=8,835,624.PN.&amp;OS=PN/8,835,624&amp;RS=PN/8,835,624">presence of the virus</a>. The patent is not for the swine flu virus itself.</p>
+<blockquote>
+<p>“Ebola US-Patent 20120251502”</p>
+</blockquote>
+<p>US patent application publication number <a href="https://patents.google.com/patent/US20120251502A1/en">2012/0251502 A1</a> is for a strain of human Ebola virus called EboBun and was applied for by the US Department of Health.</p>
+<p>This does not mean the US government invented the virus. It applied for the patent for the new virus, not to make money from its use, but so it can <a href="https://www.cdc.gov/vhf/ebola/pdf/key-messages.pdf#page=6">allow companies</a> to use the virus to create potential vaccines, and stop companies from restricting research around it.</p>
+<p>According to the US Patent and Trademark Office, the status of the patent application is “abandoned”.</p>
+<blockquote>
+<p> “Swine Flu US-Patent CA2741523”</p>
+</blockquote>
+<p>This number is <a href="https://patents.google.com/patent/CA2741523A1/en?oq=CA2741523">a patent application</a> number made by the US Centres of Disease Control and Prevention (CDC) for the Ebola virus EboBun, not swine flu. This application was made to the <a href="https://www.ic.gc.ca/opic-cipo/cpd/eng/patent/2741523/summary.html?type=number_search&amp;tabs1Index=tabs1_1">Canadian Intellectual Property Office</a>. Again, the existence of this application does not mean the CDC invented the virus. The patent has not been granted.</p>
+<blockquote>
+<p> “BSE US-Patent 0070031450 A1”</p>
+</blockquote>
+<p>We couldn’t find a US patent or patent application with exactly this number.  However, there is a now-abandoned patent, with an <a href="https://patents.google.com/patent/US20070031450A1/en">application number</a> only one digit away from this. This wasn’t a patent for BSE (Bovine spongiform encephalopathy, commonly known as mad cow disease) itself, but for a type of animal vaccine that included a protein resistant to changes caused by BSE.</p>
+<blockquote>
+<p>“ZIKA ATTC VR-84 (Rockefeller Foundation)”</p>
+</blockquote>
+<p>This sequence of letters and numbers is not a patent or an application number—it’s just the name of a <a href="https://www.lgcstandards-atcc.org/products/all/VR-84.aspx?geo_country=gb">particular strain</a> of the Zika virus. ATCC stands for the <a href="https://www.lgcstandards-atcc.org/About/About_ATCC/Who_We_Are.aspx">American Type Culture Collection</a>, which is an organisation that amongst other things, collects samples of different pathogens. VR-84 is the name of the Zika strain that was first isolated by scientists.</p>
+<p>The Rockefeller Foundation did not patent the virus. The virus was originally deposited into the ATCC by Dr Jordi Casals of the Rockefeller Foundation Virus Laboratory in <a href="https://www.lgcstandards-atcc.org/Global/FAQs/9/7/Source%20of%20VR-84.aspx?geo_country=gb">1953</a>. The original source was isolated from the blood of a rhesus monkey in 1947. According to the <a href="https://www.rockefellerfoundation.org/zika-statement/">Rockefeller Foundation</a>, other viruses were also identified at that laboratory, located in Uganda.</p>
+<blockquote>
+<p> “SARS US-Patent 7897744 &amp; 8506968”</p>
+</blockquote>
+<p>The first number is a US patent for the genomic sequences for the SARS virus, <a href="https://patentimages.storage.googleapis.com/71/8a/e4/9ddf2dccfa4554/US7897744.pdf">applied for</a> by the Canadian Public Health Agency.</p>
+<p>This particular patent application was made in 2004, after the first SARS outbreak in 2002. This does not mean the Canadian Public Health Agency invented the SARS virus. The CDC also applied for a patent on SARS, to keep information on it in the <a href="https://www.cdc.gov/media/transcripts/t030508.htm">public domain</a>. There was <a href="http://www.nbcnews.com/id/3076748/ns/health-infectious_diseases/t/scientists-race-patent-sars-virus/#.Xk0fByj7SUm">some</a> <a href="https://www.who.int/bulletin/volumes/83/9/707.pdf">concern</a> at the time that if private companies had patents to the genetic data of the virus, it might hinder efforts to create vaccines or cures.</p>
+<p>The second number is a now expired <a href="https://patents.google.com/patent/US8506968B2/en">patent</a> for “SARS vaccine compositions and methods of making and using them”. </p>
+<blockquote>
+<p> “CORONAVIRUS US-Patent 10130701”</p>
+</blockquote>
+<p>A patent application from 2015 <a href="https://patents.justia.com/patent/10130701">does exist</a> for one type of coronavirus, but not the same one as the new one identified in Wuhan, which has now been named Covid-19.</p>
+<p>Coronavirus is a broad category of viruses that includes the common cold, SARS, and Covid-19.</p>
+<p>The patent number mentioned here refers to a “live attenuated” version of the avian infectious bronchitis virus (IBV).  Live attenuated IBV is essentially a weakened version of the virus, patented with the aim of eventually developing it into a vaccine against the disease for <a href="https://www.pirbright.ac.uk/news/2020/01/pirbright%E2%80%99s-livestock-coronavirus-research-%E2%80%93-your-questions-answered">birds and other animals</a>. IBV is in the same family as the new Wuhan coronavirus (which is now known as Covid-19).</p>
+<p>We’ve written more about this subject <a href="/online/wuhan-virus-patent-gates/">here</a>.</p>
+                
+                  <p class="facebook-factcheck">
+    This article is part of our work fact checking potentially false pictures, videos and stories on Facebook. You can read more about this—and find out how to report Facebook content—<a href="/blog/2019/jan/full-fact-start-checking-facebook-content-third-party-factchecking-initiative-reaches-uk/">here</a>.
+
+    For the purposes of that scheme, we’ve rated this claim as <a href="https://www.facebook.com/help/publisher/182222309230722">partly false</a>
+        because not all of the patents are for the viruses themselves—the rest are for cures or related products to the diseases, or have expired.
+    
+</p>
+
+                
+                
+                
+
+                <div class="row post-content-footer">
+                  <div class="col-md-6 no-padding byline">
+                    By Grace Rahman
+                  </div>
+
+                  <div class="col-md-6 no-padding text-right">
+                  <div class="share-this-buttons">
+  <span class="share-this">Share this:</span><!--
+
+  --><a class="social-action social-action-fb" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ffullfact.org%2Fhealth%2Fus-patents-on-viruses%2F" target="_blank"><span class="social-icon-fallback">Facebook</span>
+    <span class="social-icon">
+    <svg width="32" height="32" viewBox="-2 -2 32 32">
+    <path d="M17.9 14h-3v8H12v-8h-2v-2.9h2V8.7C12 6.8 13.1 5 16 5c1.2 0 2 .1 2 .1v3h-1.8c-1 0-1.2.5-1.2 1.3v1.8h3l-.1 2.8z"></path>
+    </svg>
+    </span>
+  </a><!--
+
+  --><a class="social-action social-action-tweet" href="https://twitter.com/intent/tweet?text=Viral%20image%20about%20patents%20for%20viruses%20is%20misleading&url=https%3A%2F%2Ffullfact.org%2Fhealth%2Fus-patents-on-viruses%2F&via=FullFact" target="_blank" title="Twitter">
+    <span class="social-icon-fallback">Twitter</span>
+    <span class="social-icon">
+    <svg width="32" height="32" viewBox="-2 -2 32 32">
+    <path d="M21.3 10.5v.5c0 4.7-3.5 10.1-9.9 10.1-2 0-3.8-.6-5.3-1.6.3 0 .6.1.8.1 1.6 0 3.1-.6 4.3-1.5-1.5 0-2.8-1-3.3-2.4.2 0 .4.1.7.1l.9-.1c-1.6-.3-2.8-1.8-2.8-3.5.5.3 1 .4 1.6.4-.9-.6-1.6-1.7-1.6-2.9 0-.6.2-1.3.5-1.8 1.7 2.1 4.3 3.6 7.2 3.7-.1-.3-.1-.5-.1-.8 0-2 1.6-3.5 3.5-3.5 1 0 1.9.4 2.5 1.1.8-.1 1.5-.4 2.2-.8-.3.8-.8 1.5-1.5 1.9.7-.1 1.4-.3 2-.5-.4.4-1 1-1.7 1.5z"></path>
+    </svg>
+    </span>
+  </a>
+</div>
+
+                  </div>
+                </div>
+
+              
+
+              </div>
+
+              <div id="js-feedback-widget" class="feedback-widget">
+    <p>Was this page useful to you?</p>
+    <p>
+      <a href="#" id="feedback-widget-yes">Yes</a><!--
+    --><a href="#" id="feedback-widget-no">No</a>
+    </p>
+</div>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-12 pull-right-sm col-md-4 col-md-offset-1 col-right">
+          <div id="sticky">
+            
+          
+            
+
+<div class="hidden-xs hidden-sm">
+    <div class="post post-hero">
+        <a href="/health/coronavirus/" rel="bookmark">
+            <h2 class="postlist-item-heading">Coronavirus: fact checked</h2>
+            
+            <img src="/media/_versions/2at8ty6_hub_featured_debates.jpg" />
+            
+        </a>
+    </div>
+</div>
+
+          
+        </div>
+      </div>
+
+        <div class="col-sm-12 col-md-7 clear-left no-padding">
+          
+          <div class="related-posts">
+            <h3>Related posts</h3>
+            <ul>
+              
+                  <li><a href="/health/covid-deaths/?utm_source=content_page&utm_medium=related_content" rel="bookmark" title="What we know, and what we don’t, about the true coronavirus death toll">What we know, and what we don’t, about the true coronavirus death toll</a></li>
+              
+                  <li><a href="/health/coronavirus-100k-tests/?utm_source=content_page&utm_medium=related_content" rel="bookmark" title="Has the government really hit 100,000 tests a day, and what happens next?">Has the government really hit 100,000 tests a day, and what happens next?</a></li>
+              
+                  <li><a href="/health/coronavirus-ppe-eu-uk/?utm_source=content_page&utm_medium=related_content" rel="bookmark" title="Some PPE exported to the EU could have been used in the UK">Some PPE exported to the EU could have been used in the UK</a></li>
+              
+                  <li><a href="/health/event-201-coronavirus-pandemic/?utm_source=content_page&utm_medium=related_content" rel="bookmark" title="Event 201 didn’t predict the Covid-19 pandemic">Event 201 didn’t predict the Covid-19 pandemic</a></li>
+              
+                  <li><a href="/health/ons-2020-covid-death-totals/?utm_source=content_page&utm_medium=related_content" rel="bookmark" title="These death figures are correct, but deaths from Covid-19 are still rising">These death figures are correct, but deaths from Covid-19 are still rising</a></li>
+              
+            </ul>
+          </div>
+          
+
+          <div class="text-left ">
+          <div class="newsletter-signup2">
+      <h3>We’re all at risk from bad information.</h3><p>Stay informed. Sign up to our weekly newsletter.</p>
+
+      <form action="/signup/?utm_source=%2Fhealth%2Fus-patents-on-viruses%2F&utm_medium=factcheck-bottom" name="mc-embedded-subscribe-form" id="mc-embedded-subscribe-form" method="post" class="form-inline" target="_blank" novalidate=""><!--
+          --><div class="form-group">
+              <input type="text" name="first_name" class="form-control" placeholder="Your first name" />
+          </div><!--
+          --><div class="form-group">
+              <input type="email" name="email" class="form-control" placeholder="Your email" />
+          </div><!--
+          --><div class="form-group signup-btn-wrapper">
+              <input type="submit" name="subscribe" class="btn" value="Sign up" />
+          </div><!--
+          --><div style="position: absolute; left: -5000px;"><input type="text" name="b_4e4c5a6a441f72299683193db_af27c25bd1" tabindex="-1" value=""></div>
+      </form>
+    </div>
+
+          </div>
+
+          <div class="donate-ask">
+  <h3>Covid-19 crisis: we need your help to protect us all from bad information</h3>
+
+  <p>You’ve probably seen a surge in misleading and unsubstantiated medical advice since the Covid-19 outbreak. If followed, it can put lives at serious risk. We need your help to protect us all from false and harmful information.</p>
+
+  <p>We’ve seen people claiming to be health professionals, family members, and even the government – offering dangerous tips like drinking warm water or gargling to prevent infection. Neither of these will work.</p>
+
+  <p>The longer claims like these go unchecked, the more they are repeated and believed. It can put people’s health at serious risk, when our services are already under pressure.</p>
+
+  <p>Today, you have the opportunity to help save lives. Good information about Covid-19 could be the difference between someone taking the right precautions to protect themselves and their families, or not.</p>
+
+  <p><strong>Could you help protect us all from false and harmful information today?</strong></p>
+
+  <p class="text-center">
+    <a class="btn btn-donate" href="/donate/?utm_source=bottomarticle&utm_medium=donatepage&utm_campaign=covid19crisis#jump">Yes, I’ll become a Full Fact supporter</a>
+  </p>
+</div>
+
+        </div>
+      </div>
+    </div>
+
+
+
+</div>
+    
+
+
+<footer class="footer footer-inverse">
+
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="col-xs-12">
+                <h3>Full Fact is the UK&#8217;s independent fact checking charity.</h3>
+                <p class="large-line-height">We provide free tools, information and advice so that anyone can check the claims we hear from politicians and the media.</p>
+
+                <div class="clearfix col-gutter-bottom-lg"></div>
+
+                <div class="social-navbar social-navbar-md social-navbar-inline">
+                  <ul>
+                    <li class="twitter"><a href="http://twitter.com/fullfact">Twitter</a></li>
+                    <li class="linkedin"><a href="http://www.linkedin.com/company/fullfact">LinkedIn</a></li>
+                    <li class="facebook"><a href="http://facebook.com/fullfact.org">Facebook</a></li>
+                  </ul>
+                </div>
+                <div class="clearfix"></div>
+                <div class="footer-copyright">
+                    <p class="large-line-height">Thanks to <strong><a href="https://bytemark.co.uk/">Bytemark</a></strong> for donating our web hosting, and <a href="http://www.alamy.com/">Alamy</a> for providing stock photos.</p>
+                    <p>A registered charity (no. <a href="http://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/CharityFramework.aspx?RegisteredCharityNumber=1158683&SubsidiaryNumber=0"><span id="charity-no">1158683</span></a>) and a non-profit company (no. 6975984) limited by guarantee and registered in England and Wales. ©&nbsp;Copyright 2010-2020 Full Fact.</p>
+                    <p><a href="/terms-and-conditions/"><b>Privacy,  terms and conditions</b></a>.</p>
+                </div>
+                <div class="footer-logo">
+                    <img src="/static/img/logo.0400b7ce1e34.png" alt="Full Fact" />
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- dont forget to donate :) -->
+
+
+
+
+    
+
+
+
+<script>
+  $('#js-feedback-widget a').on('click', function () {
+    if ($(this).attr('id') === 'feedback-widget-yes') {
+      $(this).parent().parent().html('<p>Thank you for your feedback.</p>');
+      return false;
+    } else {
+      $.get('/feedback/', {page_url: '/health/us-patents-on-viruses/'}, function (response) {
+        $('#js-feedback-widget').html(response);
+      })
+    }
+    return false;
+  });
+</script>
+
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nxhg2');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+</body>
+
+</html>

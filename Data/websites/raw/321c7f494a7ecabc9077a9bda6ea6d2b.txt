@@ -1,0 +1,1638 @@
+
+
+
+
+
+<!doctype html>
+<html lang="en-US" data-version="prod@5dd99435">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta property="desliga:paywall" content="false">
+    <title>Brazil Has the Highest Rate of Coronavirus Contagion in the World, Says Study - 30/04/2020 - Science and Health - Folha</title>
+  <meta name="description" content="Each infected person transmits viruses to about three in the country; 48 countries were analyzed">
+  <meta name="keywords" content="folha-internacional, folha  ">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  
+      <link rel="canonical" href="https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/04/brazil-has-the-highest-rate-of-coronavirus-contagion-in-the-world-says-study.shtml">
+  
+        <link rel="amphtml" href="https://www1.folha.uol.com.br/amp/internacional/en/scienceandhealth/2020/04/brazil-has-the-highest-rate-of-coronavirus-contagion-in-the-world-says-study.shtml">
+  
+    
+  <!-- Open Graph Meta Tags -->
+        <meta property="og:description" content="Each infected person transmits viruses to about three in the country; 48 countries were analyzed">
+          <meta property="og:image" content="https://f.i.uol.com.br/fotografia/2020/04/28/15881169325ea8bdc447134_1588116932_3x2_rt.jpg">
+      <meta property="og:image:height" content="1600">
+      <meta property="og:image:type" content="image/jpeg">
+      <meta property="og:image:width" content="2400">
+        <meta property="og:locale" content="pt_BR">
+    <meta property="og:site_name" content="Folha de S.Paulo">
+    <meta property="og:title" content="Brazil Has the Highest Rate of Coronavirus Contagion in the World, Says Study">
+    <meta property="og:type" content="article">
+        <meta property="og:url" content="https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/04/brazil-has-the-highest-rate-of-coronavirus-contagion-in-the-world-says-study.shtml">
+    
+  <meta property="article:published_time" content="2020-04-30 14:06:00">
+  <meta property="article:modified_time" content="2020-04-30 14:06:34">
+  <meta property="article:section" content="Science and Health">
+  <meta property="article:tag" content="Folha de S.Paulo">
+            <meta property="article:tag" content="folha-internacional">
+        <!-- /Open Graph Meta Tags  -->
+
+  <!-- Twitter Meta Tags -->
+            <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:image" content="https://f.i.uol.com.br/fotografia/2020/04/28/15881169325ea8bdc447134_1588116932_3x2_rt.jpg">
+        <meta name="twitter:creator" content="folha">
+    <meta name="twitter:description" content="Each infected person transmits viruses to about three in the country; 48 countries were analyzed">
+    <meta name="twitter:site" content="folha">
+    <meta name="twitter:title" content="Brazil Has the Highest Rate of Coronavirus Contagion in the World, Says Study - 30/04/2020 - Science and Health - Folha">
+    <!-- /Twitter Meta Tags -->
+  
+
+
+  
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="mobile-web-app-capable" content="yes">
+
+  <link rel="manifest" href="/manifest.json">
+
+  <link rel="apple-touch-icon" href="//f.i.uol.com.br/hunting/folha/1/common/icons/apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="//f.i.uol.com.br/hunting/folha/1/common/icons/touch-icon-ipad.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="//f.i.uol.com.br/hunting/folha/1/common/icons/touch-icon-iphone-retina.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="//f.i.uol.com.br/hunting/folha/1/common/icons/touch-icon-ipad-retina.png">
+
+  <link rel="apple-touch-startup-image" href="//f.i.uol.com.br/hunting/folha/1/common/splash/launch-640x1136.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+  <link rel="apple-touch-startup-image" href="//f.i.uol.com.br/hunting/folha/1/common/splash/launch-750x1294.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+  <link rel="apple-touch-startup-image" href="//f.i.uol.com.br/hunting/folha/1/common/splash/launch-1242x2148.png" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+  <link rel="apple-touch-startup-image" href="//f.i.uol.com.br/hunting/folha/1/common/splash/launch-1125x2436.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
+  <link rel="apple-touch-startup-image" href="//f.i.uol.com.br/hunting/folha/1/common/splash/launch-1536x2048.png" media="(min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)">
+  <link rel="apple-touch-startup-image" href="//f.i.uol.com.br/hunting/folha/1/common/splash/launch-1668x2224.png" media="(min-device-width: 834px) and (max-device-width: 834px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)">
+  <link rel="apple-touch-startup-image" href="//f.i.uol.com.br/hunting/folha/1/common/splash/launch-2048x2732.png" media="(min-device-width: 1024px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait)">
+
+  <link rel="icon" sizes="192x192" href="//f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png">
+  <link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 62x62" href="//f.i.uol.com.br/hunting/folha/1/common/icons/favicon.ico">
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Folha de S.Paulo">
+
+  <meta name="msapplication-TileImage" content="//f.i.uol.com.br/hunting/folha/1/common/icons/favicon-144.png">
+  <meta name="msapplication-TileColor" content="#fff">
+  <meta name="theme-color" content="#262626">
+
+  
+
+  
+  
+
+    <script>
+//UOLTM
+window.universal_variable = window.universal_variable || {};
+window.universal_variable.dfp = {"custom_params":{"subchan":"","keyword":""}};
+window.universal_variable.aud = window.universal_variable.aud || {};
+
+
+window.universal_variable.aud.editorial = 'Internacional';
+window.universal_variable.aud.idnoticia = '1665418017575001';
+
+
+window.universal_variable.aud.author = 'Ana Estela de Sousa Pinto';
+
+
+
+window.universal_variable.aud.tags = 'folha-internacional';
+
+
+
+</script>
+  
+<script>
+//UOLTM
+window.uolads = window.uolads || [];
+window.UOLPD = window.UOLPD || {};
+(function() {
+  var uv = window.universal_variable, up = window.UOLPD;
+  var aud = uv.aud || {};
+  aud.userType = aud.loginType = aud.userGroup = "none";
+  up.dataLayer = { "t": String(Math.round(Math.random()*9)+1), "swgt": "sub_na" };
+//
+  function uoltm() {
+    var scr = document.createElement( "script" );
+    scr.async = true;
+    scr.src = "https://tm.jsuol.com.br/uoltm.js?id=1p0oxf";
+    var el = document.getElementsByTagName( "script" )[0];
+    el.parentNode.insertBefore( scr, el );
+  };
+  if ( document.cookie.indexOf( "folha_ga_userType" ) >= 0 ) {
+    var ck = {}, e = document.cookie.split(";");
+    for (var i = 0; i < e.length; i++) {
+      var a = e[i].split("=");
+      ck[a[0].replace(" ","")]=a[1];
+    }
+    aud.userType = ck.folha_ga_userType;
+    aud.loginType = ck.folha_ga_loginType;
+    aud.userGroup = ck.folha_ga_userGroup;
+    up.dataLayer.swgt = ck.folha_ga_swgt;
+    window.OB_ContextKeyValue = ck.folha_ga_userType;
+    uoltm();
+  }
+  else {
+    (function tryType( delay, times ) {
+      try {
+        aud.userType = paywall.data.log_type;
+        aud.loginType = paywall.data.origin;
+        aud.userGroup = paywall.all.track || aud.userGroup;
+        up.dataLayer.swgt = paywall.all.swgt || up.dataLayer.swgt;
+        window.OB_ContextKeyValue = paywall.data.log_type;
+        uoltm();
+      }
+      catch ( e ) {
+        ( times > 0 ) ? setTimeout( function() { tryType( delay, --times ) ; }, delay ) : uoltm();
+      }
+    } ( 15, 100 ) );
+  }
+})();
+
+//chartbeat
+var _sf_async_config = _sf_async_config || {};
+_sf_async_config.uid = 50059;
+_sf_async_config.domain = 'folha.com.br';
+_sf_async_config.topStorageDomain = 'uol.com.br';
+_sf_async_config.flickerControl = false;
+_sf_async_config.useCanonical = true;
+_sf_async_config.articleBlockSelector = 'div.c-headline';
+var _sf_startpt = (new Date()).getTime();
+</script>
+<script id="navegg" src="https://tag.navdmp.com/tm23947.js"></script>
+<script src="https://static.chartbeat.com/js/chartbeat_mab_image.js"></script>
+  
+      <link rel="stylesheet" href="https://static.folha.uol.com.br/storybook/css/portal-91d61b9a0a.css">  
+    <script src="//f1-na.readspeaker.com/script/6877/ReadSpeaker.js?pids=embhl,custom" type="text/javascript"></script>    <!-- list-links -->
+<style>
+/*
+  Esse trecho está em produção para dar suporte aos componentes de chamadas,
+  manchetes e sobremanchetes que utilizam o componente .c-list-links.
+  Como foi alterado o html, evita que esses componentes quebrem antes das
+  páginas serem republicadas.
+
+  - Giulia
+*/
+
+.c-list-links__content {
+  margin-left: 0 !important;
+}
+
+.c-list-links__item {
+  display: flex !important;
+}
+
+.c-list-links__item > .c-list-links__url {
+  display: flex;
+}
+
+.c-list-links__kicker.c-kicker {
+  padding-top: 0;
+}
+
+.c-list-links__kicker.c-kicker--attention {
+  color: #e51717;
+}
+
+.c-list-links__kicker.c-kicker--brand {
+  color: #0078a4;
+}
+
+.c-list-links--stars .c-list-links__item {
+  margin-bottom: 10px;
+}
+.c-list-links--stars .c-list-links__item:last-child {
+  margin-bottom: 0;
+}
+.c-list-links--stars .c-list-links__item .icon {
+  margin-top: 4px;
+}
+.c-list-links--stars .c-list-links__item .icon.icon--star {
+  height: 0.8888888888888888em;
+  width: 0.8888888888888888em;
+  margin-top: 0.1111111111111111em;
+}
+.c-list-links--stars .c-list-links__kicker {
+  font-size: 0.7777777777777778em;
+  margin-top: 0.07142857142857142em;
+}
+.c-list-links--stars .c-list-links__title {
+  font-size: 1em;
+  line-height: 1.22;
+}
+/*
+  Trecho de código adicionado para renomear legenda abaixo das publicdades,
+  conforme solicitado pelo Comercial.
+*/
+
+.c-advertising__banner-area:after,
+.c-advertising__banner-content:after {
+  content: 'Publicidade';
+}
+
+.c-more-options__list--secundary > li {
+  margin-right: 25px;
+}
+
+.icon-flag--usa,
+.icon-flag--spain,
+.icon-flag--brazil {
+  border-radius: 50%;
+}
+</style>
+
+
+<!-- Script para chamada de publicidade 1x1 -->
+<div id="banner-1x1-2-area">
+  <script>
+    window.uolads && window.uolads.push({ id: "banner-1x1-2-area" });
+  </script>
+</div>
+<!-- /Script para chamada de publicidade 1x1 -->
+    <script data-layerTo="mather">
+(window.dataLayer = window.dataLayer || []).push({
+  "pageType": "article",
+  "articleId": "1665418017575001",
+  "articlePublishTime": "2020-04-30 14:06:00Z",
+  "articleSource": "Folha de S.Paulo",
+  "articleType": "ReportageNewsArticle",
+  "author": "Ana Estela de Sousa Pinto",
+  "categories": "Science and Health",
+  "hierarchy": "/internacional/en/scienceandhealth/",
+  "section": "Science and Health",
+  "mediaType": "",
+  "characterCount": "",
+  "wordCount": "",
+  "paragraphCount": "",
+  "publicationName": "Folha de S.Paulo"
+})
+</script>
+          <script src="https://static.folha.uol.com.br/folha/js/push/firebase-app.js"></script>
+<script src="https://static.folha.uol.com.br/folha/js/push/firebase-messaging.js"></script>
+      </head>
+  <body>
+    <div data-wrapper-content>
+      <div data-memcached class="is-hidden">
+  <div
+    data-project="scoreboard"
+    data-status="on"
+    ></div>
+  <div
+    data-project="scoreboard-rounds"
+    data-status="on"
+    ></div>
+  <div
+    data-project="eleicoes"
+    data-status="off"
+    data-memcached-url="//staffing1.folha.com.br/index.php?file="
+    data-timeout="3000"
+    ></div>
+</div>
+
+<div id="banner-1x1-2-area"></div>
+
+
+<script>
+// Elections Vote Counting
+(function() {
+  var pageUrlRegex = /poder\/eleicoes\/2018\/apuracao\/1turno\/([\w]+)\/?$/;
+  var secondRoundPage = '//www1.folha.uol.com.br/poder/eleicoes/2018/apuracao/2turno/';
+
+  window.location.href.match(pageUrlRegex);
+
+  var secondRoundState = ['brasil','ap','am','df','mg','ms','pa','rj','rn','ro','rr','rs','sc','se','sp']
+    .filter(page => page === RegExp.$1).pop();
+
+  if (/google/.test(document.referrer) && secondRoundState) {
+    window.location.href = secondRoundPage + secondRoundState;
+  }
+})();
+</script>
+      
+      
+        
+          <!-- uol -->
+            <script async src="//jsuol.com.br/barra/parceiro-async.js?parceiro=folha"></script>
+          <!-- /uol -->
+
+            <header class="l-header u-no-print" data-elastic-header data-offset-target='.toolbar' data-tolerance='40'>
+  <div class="l-header__wrapper">
+    <div class="container">
+      <div class="l-header__container">
+        <div class="l-header__action-group l-header__action-group--left">
+          <button name="button"
+                  class="l-header__action"
+                  data-c-sidebar-menu-btn
+                  data-target="#c-sidebar-menu__content"
+                  data-btn-close="#c-sidebar-menu__btn-close">
+            <span class="u-sr-only">Open sidebar menu</span>
+            <svg xmlns="https://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24" class="icon icon--hamburger " aria-hidden="true">
+  <path d="m 3,18 18,0 0,-2 -18,0 0,2 z m 0,-5 18,0 0,-2 -18,0 0,2 z M 3,6 3,8 21,8 21,6 3,6 Z"/>
+</svg>
+ <span class="u-visible-md">Menu</span>
+          </button>
+        </div>
+
+        <div class="l-header__branding">
+          <h1 title="Folha de S.Paulo">
+            <a href="//www1.folha.uol.com.br/internacional/en/"
+               class="u-link-clean">
+              <svg
+  xmlns="https://www.w3.org/2000/svg"
+  viewBox="0 0 556 67"
+  version="1.1"
+  class="logo-folha"
+  aria-hidden="true"
+     >
+
+  <path d="m 333.4496,4.0000038 c 4.15466,0 7.84768,0.308064 11.46377,1.078223 l 0,16.3273702 -3.00058,0 -2.92365,-12.01448 c -2.07733,-0.5391112 -3.30834,-0.6931432 -5.53954,-0.6931432 -5.07791,0 -7.92462,2.7725722 -7.92462,6.4693352 0,13.092705 22.00429,11.860445 22.00429,31.345475 0,10.78222 -7.84769,19.79308 -20.23472,19.79308 -5.30872,0 -9.54032,-0.69314 -12.77172,-1.84838 l 0,-16.40439 3.2314,0 2.6159,11.70642 c 2.61589,1.4633 5.61648,1.84838 8.694,1.84838 4.69322,0 7.84768,-3.3887 7.84768,-7.31651 0,-14.24794 -22.61979,-14.40197 -22.46591,-32.423692 0,-10.859241 8.07849,-17.8676882 19.0037,-17.8676882 l 0,0 z m -333.37266,3.773779 0,-2.849588 36.16089,0 0,17.7906722 -3.00058,0 -5.00098,-13.70883 -9.92501,0 0,24.028957 7.77075,0 1.76957,-7.47054 3.00059,0 0,19.56204 -3.00059,0 -1.76957,-8.00965 -7.77075,0 0,24.18299 7.15524,1.30927 0,2.77257 -25.4665,0 0,-2.77257 5.69342,-1.30927 0,-52.4478282 -5.61648,-1.078223 z m 384.92117,32.8857912 -4.77016,0 0,20.64026 6.84749,1.30927 0,2.77257 -25.08182,0 0,-2.77257 5.61648,-1.30927 0,-52.4478282 -5.53954,-1.078223 0,-2.849588 23.61999,0 c 9.92501,0 16.61862,3.850795 16.61862,17.9447042 0,10.782225 -5.4626,17.790675 -17.31106,17.790675 l 0,0 z m -4.77016,-4.00483 2.2312,0 c 4.07772,0 6.4628,-2.77257 6.4628,-13.939877 0,-11.090289 -1.69264,-13.70883 -6.30892,-13.70883 l -2.38508,0 0,27.648707 z m 134.71856,1.84838 c 0,-19.562036 8.61706,-27.18661 20.92716,-27.18661 14.07966,0 20.00389,8.702797 20.00389,27.72572 0,19.33099 -8.694,27.26363 -20.85021,27.26363 -14.15661,0 -20.08084,-8.7028 -20.08084,-27.80274 l 0,0 z m -475.3234,0.077 c 0,-19.485024 8.54012,-27.109598 20.85021,-27.109598 14.15661,0 19.85003,8.625781 19.85003,27.648708 0,19.33099 -8.54013,27.18661 -20.85022,27.18661 -14.07967,0 -19.85002,-8.62578 -19.85002,-27.72572 l 0,0 z m 137.56527,26.80153 -13.61804,0 0,-2.38749 3.92384,-1.07822 12.9256,-49.675259 6.69361,0 14.92598,49.675259 4.00079,1.07822 0,2.38749 -20.61941,0 0,-2.38749 4.77016,-1.07822 -4.15465,-12.70763 -11.23296,0 -2.92365,12.70763 5.30873,1.07822 0,2.38749 z m 235.04581,0 -14.23355,0 0,-2.38749 4.38547,-1.07822 12.9256,-49.675259 6.84749,0 14.92598,49.675259 4.46241,1.07822 0,2.38749 -21.00409,0 0,-2.38749 4.69322,-1.07822 -4.23159,-12.70763 -11.38684,0 -2.84671,12.70763 5.46261,1.07822 0,2.38749 z m -297.75034,0 -30.9291,0 0,-2.38749 4.61628,-1.07822 0,-46.209543 -4.38547,-0.847175 0,-2.464509 20.38859,0 0,2.464509 -4.770157,0.847175 0,46.055503 8.309307,0 4.38547,-12.39956 2.38508,0 0,16.01931 z m 3.15446,-50.522428 0,-2.464509 19.38839,0 0,2.464509 -3.8469,0.847175 0,21.641463 11.69459,0 0,-21.641463 -3.61609,-0.847175 0,-2.464509 18.92676,0 0,2.464509 -4.00077,0.847175 0,46.209543 4.38546,1.07822 0,2.38749 -19.31145,0 0,-2.38749 3.61609,-1.07822 0,-20.94833 -11.69459,0 0,20.94833 3.8469,1.07822 0,2.38749 -19.38839,0 0,-2.38749 4.38547,-1.07822 0,-46.055512 -4.38547,-1.001206 z M 259.8968,39.735384 c 0,18.63784 -8.694,25.64629 -19.23451,25.64629 l -20.61941,0 0,-2.38749 4.15466,-1.07822 0,-46.209543 -4.15466,-0.847175 0,-2.464509 19.54227,0 c 13.15641,0 20.31165,6.315304 20.31165,27.340647 l 0,0 z m 19.46534,22.02654 10.07888,0 4.2316,-11.78343 2.69283,0 0,15.40318 -33.23725,0 0,-2.38749 4.92404,-1.07822 0,-46.209543 -4.8471,-0.847175 0,-2.464509 31.46767,0 0,15.326167 -2.61589,0 -4.30853,-11.860452 -8.38625,0 0,21.179372 6.61667,0 1.76958,-6.54635 2.38508,0 0,17.25156 -2.38508,0 -1.76958,-7.08546 -6.61667,0 0,21.10235 z m 160.03118,-46.902678 0,-2.464509 20.31165,0 0,2.464509 -4.69322,0.847175 0,37.429723 c 0,6.93143 1.69264,10.1661 6.69362,10.1661 6.84748,0 9.00175,-4.08184 9.00175,-11.70641 l 0,-35.889413 -4.53935,-0.847175 0,-2.464509 12.23316,0 0,2.464509 -4.15466,0.847175 0,36.659563 c 0,10.32013 -5.07791,14.71004 -15.46455,14.63302 -11.9254,-0.077 -15.07986,-4.69796 -15.07986,-17.02051 l 0,-34.272073 -4.30854,-0.847175 z m 72.70648,50.522428 -30.46747,0 0,-2.38749 4.61628,-1.07822 0,-46.209543 -4.30853,-0.847175 0,-2.464509 20.31165,0 0,2.464509 -4.69322,0.847175 0,46.055503 7.61687,0 4.38547,-12.39956 2.53895,0 0,16.01931 z m 31.69849,-26.1854 c 0,-21.48744 -3.69303,-24.799124 -8.00156,-24.799124 -4.30853,0 -8.694,2.849589 -8.694,24.028964 0,21.41042 3.69302,24.87613 8.07849,24.87613 4.30853,0 8.61707,-3.08063 8.61707,-24.10597 l 0,0 z m -475.40035,0.077 c 0,-21.487434 -3.76996,-24.722102 -8.15543,-24.722102 -4.46241,0 -8.77094,2.772573 -8.77094,23.951942 0,21.41042 3.8469,24.79912 8.23237,24.79912 4.30853,0 8.694,-2.9266 8.694,-24.02896 l 0,0 z m 167.64806,22.48864 3.30834,0 c 6.23198,0 9.15563,-3.3887 9.15563,-22.71969 0,-19.716066 -3.38528,-23.181782 -9.38645,-23.181782 l -3.07752,0 0,45.901472 z m -56.16479,-33.11683 -4.23159,16.94349 9.38644,0 -5.15485,-16.94349 z m 234.96887,0 -4.15466,16.94349 9.23257,0 -5.07791,-16.94349 z m -61.70433,26.1854 c 2.8467,0 5.23179,2.54153 5.23179,5.69918 0,3.23467 -2.53896,5.77619 -5.38567,5.77619 -2.69283,0 -5.23179,-2.54152 -5.23179,-5.77619 0,-3.15765 2.69283,-5.69918 5.38567,-5.69918 l 0,0 z" />
+</svg>
+            </a>
+          </h1>
+
+          <div class="l-header__sub">
+            <div class="c-lang c-lang--primary">
+              <svg width="13" height="13" viewBox="0 0 13 13" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" aria-hidden="true" class="icon icon-flag--usa  icon--tiny ">
+  <title>United States of America flag</title>
+
+  <defs>
+    <circle cx="6.5" cy="6.5" r="6.5"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <g mask="url(#b)">
+      <circle cx="6.5" cy="6.5" r="6.5" fill="#FFF"/>
+      <path d="M0 12.133h13V13H0v-.867zm0-3.466h13V10.4H0V8.667zM6.933 5.2H13v1.733H6.933V5.2zm0-3.467H13v1.734H6.933V1.733z" fill="#B22234"/>
+      <path fill="#3C3B6E" d="M0 0h6.933v6.933H0z"/>
+    </g>
+  </g>
+</svg>
+              <span>English version</span>
+            </div>
+          </div>
+        </div>
+
+        <ul class="u-sr-only">
+  <li>
+    <a href="#conteudo" accesskey="1">Skip to the content [1]</a>
+  </li>
+  <li>
+    <a href="#menu" accesskey="2">Go to menu [2]</a>
+  </li>
+  <li>
+    <a href="#rodape" accesskey="3">Go to the footer [3]</a>
+  </li>
+</ul>
+
+
+
+
+
+
+
+        <div class="l-header__action-group l-header__action-group--right">
+          <a href="#" class="l-header__action js-link-logout u-visible-md">
+  <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" class="icon icon--user" aria-hidden="true">
+    <path d="m 12,12 c 2.210001,0 4,-1.789999 4,-4 C 16,5.79 14.210001,4 12,4 9.790001,4 8,5.79 8,8 c 0,2.210001 1.790001,4 4,4 l 0,0 z m 0,2 c -2.67,0 -8,1.34 -8,4 l 0,2 16,0 0,-2 c 0,-2.66 -5.329999,-4 -8,-4 l 0,0 z"/>
+  </svg>
+  <span>Login</span>
+</a>
+          <button data-search-btn data-target="#search" type="button" name="button" class="l-header__action">
+  <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" class="icon icon--search" aria-hidden="true">
+    <path d="m 15.757146,14.256289 -0.79045,0 -0.280158,-0.270154 c 0.98056,-1.140652 1.570896,-2.621498 1.570896,-4.2324192 0,-3.5920531 -2.911664,-6.5037173 -6.5037169,-6.5037173 -3.592053,0 -6.5037171,2.9116642 -6.5037171,6.5037173 0,3.5920522 2.9116641,6.5037182 6.5037171,6.5037182 1.6109209,0 3.0917669,-0.590339 4.2324199,-1.570898 l 0.270154,0.28016 0,0.790452 5.002857,4.992853 1.490852,-1.490852 -4.992854,-5.00286 0,0 z m -6.0034287,0 c -2.4914241,0 -4.5025735,-2.011149 -4.5025735,-4.5025732 0,-2.4914241 2.0111494,-4.5025735 4.5025735,-4.5025735 2.4914237,0 4.5025737,2.0111494 4.5025737,4.5025735 0,2.4914242 -2.01115,4.5025732 -4.5025737,4.5025732 l 0,0 z" />
+  </svg>
+  <span class="u-visible-md">Search</span>
+</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="l-header__wrapper">
+    <div class="container">
+      <div id="menu" data-menu-channel="Science and Health" class="l-header__nav c-site-nav js-c-site-nav">
+        
+        <nav class="c-site-nav__group">
+  <ul class="c-site-nav__list">
+            <li class="c-site-nav__item c-site-nav__item--section">
+      <a href="https://www1.folha.uol.com.br/internacional/en/scienceandhealth/">Science &amp; Health</a>
+          </li>
+              </ul>
+</nav>
+
+<nav class="c-site-nav__group c-site-nav__group--right">
+  <ul class="c-site-nav__list">
+    </ul>
+</nav>
+
+<!--!-->        
+
+              </div>
+
+              <div class="c-tools-share c-tools-share--inner js-c-tools-share is-hidden" aria-hidden="true">
+          <ul aria-label="Sharing options" class="c-tools-share__list"
+  data-sharebar-utm-campaign-prefix="comp"
+  data-sharebar-counter
+  data-sharebar-buttons="facebook whatsapp twitter"
+  data-sharebar-channel="internacional/en/scienceandhealth"
+  data-sharebar-limit="3"
+  data-sharebar-url="https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/04/brazil-has-the-highest-rate-of-coronavirus-contagion-in-the-world-says-study.shtml"
+  data-sharebar-uolpd-id="content"
+  data-sharebar-text="Brazil Has the Highest Rate of Coronavirus Contagion in the World, Says Study">
+
+  <li class="c-tools-share__item">
+    <div data-modal-drop data-qty-collumn="3.4" class="c-modal-drop">
+      <button aria-label="See all sharing options" data-trigger class="c-tools-share__button c-tools-share__button--neutral">
+        <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 17 5" height="24" width="24" class="icon icon--more-options" aria-hidden="true">
+  <path d="M2.5 0.5c-1.1 0-2 0.9-2 2s0.9 2 2 2 2-0.9 2-2-0.9-2-2-2zm12 0c-1.1 0-2 0.9-2 2s0.9 2 2 2 2-0.9 2-2-0.9-2-2-2zm-6 0c-1.1 0-2 0.9-2 2s0.9 2 2 2 2-0.9 2-2-0.9-2-2-2z"/>
+</svg>
+      </button>
+
+      <div aria-hidden="true" data-content class="c-modal-drop__content c-modal-drop__content--no-padding">
+        <div class="c-modal-drop__controls u-hidden-md">
+          <button aria-label="Close options menu" data-close class="c-modal-drop__close">
+          <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24" class="icon icon--close  icon--tiny " aria-hidden="true">
+  <path d="M16 1.61L14.39 0 8 6.39 1.61 0 0 1.61 6.39 8 0 14.39 1.61 16 8 9.61 14.39 16 16 14.39 9.61 8z"/>
+</svg>
+          </button>
+        </div>
+        <div class="c-tools-share--larger">
+          <ul class="c-tools-share__list"
+            data-sharebar-utm-campaign-prefix="comp"
+            data-sharebar-buttons="facebook whatsapp twitter messenger linkedIn rss email"
+            data-sharebar-channel="internacional/en/scienceandhealth"
+            data-triggered-byclick=".c-modal-drop [data-trigger]"
+            data-sharebar-url="https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/04/brazil-has-the-highest-rate-of-coronavirus-contagion-in-the-world-says-study.shtml"
+            data-sharebar-uolpd-id="content"
+            data-sharebar-text="Brazil Has the Highest Rate of Coronavirus Contagion in the World, Says Study">
+
+                        <li class="c-tools-share__item" data-share-button="curta">
+              <button aria-label="Short url" data-copy-link data-href="https://folha.com/rmefu6yx" class="c-tools-share__button c-tools-share__button--copy-link" title="Short url">
+                <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" class="icon icon--link  icon-- " aria-hidden="true">
+  <path d="m 1.5200002,7.9999998 c 0,-1.368 1.112,-2.4799996 2.4799999,-2.4799996 l 3.1999996,0 0,-1.5199999 -3.1999996,0 C 1.7920001,4.0000003 1.5e-7,5.7920002 1.5e-7,7.9999998 1.5e-7,10.208 1.7920001,12 4.0000001,12 l 3.1999996,0 0,-1.519999 -3.1999996,0 c -1.368,0 -2.48,-1.1120012 -2.48,-2.4800012 l 0,0 z m 3.2799999,0.800001 6.3999999,0 0,-1.6000011 -6.4,0 0,1.6000011 0,0 z M 12,4.0000003 l -3.2000001,0 0,1.5199999 3.2000001,0 c 1.368,0 2.48,1.1119996 2.48,2.4799996 0,1.368 -1.112,2.4800012 -2.48,2.4800012 l -3.2000001,0 0,1.519999 L 12,12 c 2.208,0 4,-1.792 4,-4.0000002 0,-2.2079997 -1.792,-3.9999995 -4,-3.9999995 l 0,0 z"/>
+</svg>
+              </button>
+              <span class="c-tools-share__button-name" aria-hidden="true">Short url</span>
+            </li>
+                        <li class="c-tools-share__item u-visible-md" data-share-button="imprimir">
+              <button aria-label="Print" data-paper-print class="c-tools-share__button c-tools-share__button--paper-print" title="Print">
+                <svg xmlns="https://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="icon icon--paper-print  icon-- " aria-hidden="true">
+  <path d="M13.584 4.748H2.424A2.388 2.388 0 0 0 .03 7.14v4.784H3.22v3.19h9.567v-3.19h3.188V7.14a2.388 2.388 0 0 0-2.39-2.392zm-2.39 8.77h-6.38V9.532h6.377v3.986zm2.39-5.58a.8.8 0 0 1-.797-.798c0-.44.36-.797.797-.797.44 0 .797.358.797.797 0 .44-.357.797-.796.797zM12.787.763H3.22V3.95h9.567z"/>
+</svg>
+              </button>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </li>
+</ul>
+        </div>
+          </div>
+
+    <div class="c-search c-search--fixed">
+  <div id="search" class="collapse c-search__container" data-search data-btn="data-search-btn" data-field="#query" data-close-btn=".c-search__close-btn">
+
+    <form class="c-form c-search__form" action="//search.folha.uol.com.br/search" method="get" data-form-validation>
+      <fieldset class="container">
+        <legend class="u-visually-hidden">Search</legend>
+
+          <div class="col col--5-8 col--xs-8-11 col-offset--sm-1-17 col--sm-7-10 col--md-7-13 col-offset--md-1-6 col-offset--lg-2-11">
+            <div class="c-form__default">
+              <label for="query" class="u-visually-hidden">Search within Folha de S. Pauloâs sites</label>
+              <input class="" type="text" name="q" id="query" placeholder="What are you searching for?" aria-required="true" data-required="\w+`g" data-error-message='<svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" class="icon icon--alert " aria-hidden="true">
+  <path d="M8 0C3.584 0 0 3.584 0 8s3.584 8 8 8 8-3.584 8-8-3.584-8-8-8zm.8 12H7.2v-1.6h1.6zm0-3.2H7.2V4h1.6z"/>
+</svg>
+What are you searching for?' data-target="#query-error-message">
+              <input type="hidden" value="sitefolha" name="site">
+              <input type="hidden" value="internacional/en" name="site[]">
+              <input type="hidden" value="todos" name="periodo">
+              <span class="c-form__error-message" id="query-error-message"></span>
+            </div>
+          </div>
+
+          <div class="col col--1-3 col-offset--1-6 col--xs-2-9 col--sm-1-6 col--md-1-9">
+            <button class="c-button c-button--primary" type="submit">Search</button>
+          </div>
+
+          <button data-toggle="collapse" class="c-button--unstyled u-visible-sm c-search__close-btn">
+            <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24" class="icon icon--close " aria-hidden="true">
+  <path d="M16 1.61L14.39 0 8 6.39 1.61 0 0 1.61 6.39 8 0 14.39 1.61 16 8 9.61 14.39 16 16 14.39 9.61 8z"/>
+</svg>
+          </button>
+      </fieldset>
+    </form>
+  </div>
+</div>
+  </div>
+</header>
+
+<div class="c-sidebar-menu">
+  <!-- sidebar-menu-content -->
+  <div id="c-sidebar-menu__content" class="c-sidebar-menu__content">
+
+    <div class="flex c-sidebar-menu__content-header">
+      <a href="//www1.folha.uol.com.br/internacional/en/" class="c-sidebar-menu__content-header__link" title="Folha de S.Paulo">
+        <svg
+  xmlns="https://www.w3.org/2000/svg"
+  viewBox="0 0 556 67"
+  version="1.1"
+  class="logo-folha"
+  aria-hidden="true"
+   height="19"    width="170"  >
+
+  <path d="m 333.4496,4.0000038 c 4.15466,0 7.84768,0.308064 11.46377,1.078223 l 0,16.3273702 -3.00058,0 -2.92365,-12.01448 c -2.07733,-0.5391112 -3.30834,-0.6931432 -5.53954,-0.6931432 -5.07791,0 -7.92462,2.7725722 -7.92462,6.4693352 0,13.092705 22.00429,11.860445 22.00429,31.345475 0,10.78222 -7.84769,19.79308 -20.23472,19.79308 -5.30872,0 -9.54032,-0.69314 -12.77172,-1.84838 l 0,-16.40439 3.2314,0 2.6159,11.70642 c 2.61589,1.4633 5.61648,1.84838 8.694,1.84838 4.69322,0 7.84768,-3.3887 7.84768,-7.31651 0,-14.24794 -22.61979,-14.40197 -22.46591,-32.423692 0,-10.859241 8.07849,-17.8676882 19.0037,-17.8676882 l 0,0 z m -333.37266,3.773779 0,-2.849588 36.16089,0 0,17.7906722 -3.00058,0 -5.00098,-13.70883 -9.92501,0 0,24.028957 7.77075,0 1.76957,-7.47054 3.00059,0 0,19.56204 -3.00059,0 -1.76957,-8.00965 -7.77075,0 0,24.18299 7.15524,1.30927 0,2.77257 -25.4665,0 0,-2.77257 5.69342,-1.30927 0,-52.4478282 -5.61648,-1.078223 z m 384.92117,32.8857912 -4.77016,0 0,20.64026 6.84749,1.30927 0,2.77257 -25.08182,0 0,-2.77257 5.61648,-1.30927 0,-52.4478282 -5.53954,-1.078223 0,-2.849588 23.61999,0 c 9.92501,0 16.61862,3.850795 16.61862,17.9447042 0,10.782225 -5.4626,17.790675 -17.31106,17.790675 l 0,0 z m -4.77016,-4.00483 2.2312,0 c 4.07772,0 6.4628,-2.77257 6.4628,-13.939877 0,-11.090289 -1.69264,-13.70883 -6.30892,-13.70883 l -2.38508,0 0,27.648707 z m 134.71856,1.84838 c 0,-19.562036 8.61706,-27.18661 20.92716,-27.18661 14.07966,0 20.00389,8.702797 20.00389,27.72572 0,19.33099 -8.694,27.26363 -20.85021,27.26363 -14.15661,0 -20.08084,-8.7028 -20.08084,-27.80274 l 0,0 z m -475.3234,0.077 c 0,-19.485024 8.54012,-27.109598 20.85021,-27.109598 14.15661,0 19.85003,8.625781 19.85003,27.648708 0,19.33099 -8.54013,27.18661 -20.85022,27.18661 -14.07967,0 -19.85002,-8.62578 -19.85002,-27.72572 l 0,0 z m 137.56527,26.80153 -13.61804,0 0,-2.38749 3.92384,-1.07822 12.9256,-49.675259 6.69361,0 14.92598,49.675259 4.00079,1.07822 0,2.38749 -20.61941,0 0,-2.38749 4.77016,-1.07822 -4.15465,-12.70763 -11.23296,0 -2.92365,12.70763 5.30873,1.07822 0,2.38749 z m 235.04581,0 -14.23355,0 0,-2.38749 4.38547,-1.07822 12.9256,-49.675259 6.84749,0 14.92598,49.675259 4.46241,1.07822 0,2.38749 -21.00409,0 0,-2.38749 4.69322,-1.07822 -4.23159,-12.70763 -11.38684,0 -2.84671,12.70763 5.46261,1.07822 0,2.38749 z m -297.75034,0 -30.9291,0 0,-2.38749 4.61628,-1.07822 0,-46.209543 -4.38547,-0.847175 0,-2.464509 20.38859,0 0,2.464509 -4.770157,0.847175 0,46.055503 8.309307,0 4.38547,-12.39956 2.38508,0 0,16.01931 z m 3.15446,-50.522428 0,-2.464509 19.38839,0 0,2.464509 -3.8469,0.847175 0,21.641463 11.69459,0 0,-21.641463 -3.61609,-0.847175 0,-2.464509 18.92676,0 0,2.464509 -4.00077,0.847175 0,46.209543 4.38546,1.07822 0,2.38749 -19.31145,0 0,-2.38749 3.61609,-1.07822 0,-20.94833 -11.69459,0 0,20.94833 3.8469,1.07822 0,2.38749 -19.38839,0 0,-2.38749 4.38547,-1.07822 0,-46.055512 -4.38547,-1.001206 z M 259.8968,39.735384 c 0,18.63784 -8.694,25.64629 -19.23451,25.64629 l -20.61941,0 0,-2.38749 4.15466,-1.07822 0,-46.209543 -4.15466,-0.847175 0,-2.464509 19.54227,0 c 13.15641,0 20.31165,6.315304 20.31165,27.340647 l 0,0 z m 19.46534,22.02654 10.07888,0 4.2316,-11.78343 2.69283,0 0,15.40318 -33.23725,0 0,-2.38749 4.92404,-1.07822 0,-46.209543 -4.8471,-0.847175 0,-2.464509 31.46767,0 0,15.326167 -2.61589,0 -4.30853,-11.860452 -8.38625,0 0,21.179372 6.61667,0 1.76958,-6.54635 2.38508,0 0,17.25156 -2.38508,0 -1.76958,-7.08546 -6.61667,0 0,21.10235 z m 160.03118,-46.902678 0,-2.464509 20.31165,0 0,2.464509 -4.69322,0.847175 0,37.429723 c 0,6.93143 1.69264,10.1661 6.69362,10.1661 6.84748,0 9.00175,-4.08184 9.00175,-11.70641 l 0,-35.889413 -4.53935,-0.847175 0,-2.464509 12.23316,0 0,2.464509 -4.15466,0.847175 0,36.659563 c 0,10.32013 -5.07791,14.71004 -15.46455,14.63302 -11.9254,-0.077 -15.07986,-4.69796 -15.07986,-17.02051 l 0,-34.272073 -4.30854,-0.847175 z m 72.70648,50.522428 -30.46747,0 0,-2.38749 4.61628,-1.07822 0,-46.209543 -4.30853,-0.847175 0,-2.464509 20.31165,0 0,2.464509 -4.69322,0.847175 0,46.055503 7.61687,0 4.38547,-12.39956 2.53895,0 0,16.01931 z m 31.69849,-26.1854 c 0,-21.48744 -3.69303,-24.799124 -8.00156,-24.799124 -4.30853,0 -8.694,2.849589 -8.694,24.028964 0,21.41042 3.69302,24.87613 8.07849,24.87613 4.30853,0 8.61707,-3.08063 8.61707,-24.10597 l 0,0 z m -475.40035,0.077 c 0,-21.487434 -3.76996,-24.722102 -8.15543,-24.722102 -4.46241,0 -8.77094,2.772573 -8.77094,23.951942 0,21.41042 3.8469,24.79912 8.23237,24.79912 4.30853,0 8.694,-2.9266 8.694,-24.02896 l 0,0 z m 167.64806,22.48864 3.30834,0 c 6.23198,0 9.15563,-3.3887 9.15563,-22.71969 0,-19.716066 -3.38528,-23.181782 -9.38645,-23.181782 l -3.07752,0 0,45.901472 z m -56.16479,-33.11683 -4.23159,16.94349 9.38644,0 -5.15485,-16.94349 z m 234.96887,0 -4.15466,16.94349 9.23257,0 -5.07791,-16.94349 z m -61.70433,26.1854 c 2.8467,0 5.23179,2.54153 5.23179,5.69918 0,3.23467 -2.53896,5.77619 -5.38567,5.77619 -2.69283,0 -5.23179,-2.54152 -5.23179,-5.77619 0,-3.15765 2.69283,-5.69918 5.38567,-5.69918 l 0,0 z" />
+</svg>
+      </a>
+
+      <div class="c-lang c-lang--primary">
+        <svg width="13" height="13" viewBox="0 0 13 13" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" aria-hidden="true" class="icon icon-flag--usa  icon--tiny ">
+  <title>United States of America flag</title>
+
+  <defs>
+    <circle cx="6.5" cy="6.5" r="6.5"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <g mask="url(#b)">
+      <circle cx="6.5" cy="6.5" r="6.5" fill="#FFF"/>
+      <path d="M0 12.133h13V13H0v-.867zm0-3.466h13V10.4H0V8.667zM6.933 5.2H13v1.733H6.933V5.2zm0-3.467H13v1.734H6.933V1.733z" fill="#B22234"/>
+      <path fill="#3C3B6E" d="M0 0h6.933v6.933H0z"/>
+    </g>
+  </g>
+</svg>
+        <span lang="en-US" title="English">ENG</span>
+      </div>
+
+      <button class="c-button--unstyled c-sidebar-menu__btn-close" id="c-sidebar-menu__btn-close">
+        <span class="u-sr-only">Fechar sidebar menu</span>
+        <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24" class="icon icon--close " aria-hidden="true">
+  <path d="M16 1.61L14.39 0 8 6.39 1.61 0 0 1.61 6.39 8 0 14.39 1.61 16 8 9.61 14.39 16 16 14.39 9.61 8z"/>
+</svg>
+      </button>
+    </div>
+
+    <div class="c-list-menu__divider"></div>
+
+    <!-- User -->
+    <ul class="c-list-menu c-list-menu--insider c-sidebar-menu__user">
+      <li class="c-list-menu__item">
+        <div class="c-list-menu__wrap-links">
+          <div class="c-avatar" data-avatar>
+            <div class="c-avatar__media js-avatar-media">
+            </div>
+            <span class="c-avatar__title js-avatar-title"></span>
+          </div>
+
+          <a class="u-link-clean link-icon" href="#user-info" data-toggle="collapse" data-icon=".icon--chevron-down" aria-expanded="false" aria-controls="user-info" data-nodropdown>
+            <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" class="icon icon--chevron-down " aria-hidden="true">
+ <path d="M 6.2499999,9.800625 7.60125,8.449375 12,12.838542 16.39875,8.449375 17.75,9.800625 l -5.75,5.75 -5.75,-5.75 z"/>
+</svg>
+          </a>
+        </div>
+
+        <ul class="c-list-menu__sublist collapse" id="user-info">
+          <li class="c-list-menu__item">
+            <a href="//login.folha.com.br/perfil"
+              class="u-link-clean">
+              Edit profile
+            </a>
+          </li>
+          <li class="c-list-menu__item">
+            <a href="//login.folha.com.br/conta"
+               class="u-link-clean">
+             Email account/ password
+            </a>
+          </li>
+          <li class="c-list-menu__item">
+            <a href="//login.folha.com.br/newsletter"
+               class="u-link-clean">
+              Newsletter
+            </a>
+          </li>
+          <li class="c-list-menu__item">
+            <a href="//login.folha.com.br/assinante"
+               class="u-link-clean">
+             Subscription
+            </a>
+          </li>
+          <li class="c-list-menu__item">
+            <a class="u-link-clean js-link-logout" href="#">Sign out</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <!-- /User -->
+    <div class="c-list-menu__divider"></div>
+    <!-- Nav -->
+    <nav>
+      <ul class="c-list-menu c-list-menu--insider">
+      <li class="c-list-menu__item">
+        <a class="u-link-clean" href="https://www1.folha.uol.com.br/internacional/en/opinion/">Opinion</a>
+      </li>
+    <li class="c-list-menu__item">
+        <a class="u-link-clean" href="https://www1.folha.uol.com.br/internacional/en/brazil/">Brazil</a>
+      </li>
+    <li class="c-list-menu__item">
+        <a class="u-link-clean" href="https://www1.folha.uol.com.br/internacional/en/world">World</a>
+      </li>
+    <li class="c-list-menu__item">
+        <a class="u-link-clean" href="https://www1.folha.uol.com.br/internacional/en/business">Business</a>
+      </li>
+    <li class="c-list-menu__item">
+        <a class="u-link-clean" href="https://www1.folha.uol.com.br/internacional/en/saopaulo">SÃ£o Paulo</a>
+      </li>
+    <li class="c-list-menu__item">
+        <a class="u-link-clean" href="https://www1.folha.uol.com.br/internacional/en/culture">Culture</a>
+      </li>
+    <li class="c-list-menu__item">
+        <a class="u-link-clean" href="https://www1.folha.uol.com.br/internacional/en/sports">Sports</a>
+      </li>
+    <li class="c-list-menu__item">
+        <a class="u-link-clean" href="https://www1.folha.uol.com.br/internacional/en/scienceandhealth">Science and Health</a>
+      </li>
+    <li class="c-list-menu__item">
+        <a class="u-link-clean" href="https://www1.folha.uol.com.br/internacional/en/travel">Travel</a>
+      </li>
+    <li class="c-list-menu__item">
+        <a class="u-link-clean" href="https://www1.folha.uol.com.br/internacional/en/ombudsman">Ombudsman</a>
+      </li>
+    </ul>
+<div class="c-list-menu__divider"></div>
+<ul class="c-list-menu c-list-menu--insider">
+      <li class="c-list-menu__item">
+        <a class="u-link-clean" href="https://temas.folha.uol.com.br/projeto-editorial-da-folha/editorial-project-folha-de-s-paulo/introduction.shtml#s05e01">Editorial Guidelines</a>
+      </li>
+    </ul>
+<div class="c-list-menu__divider"></div>
+<ul class="c-list-menu c-list-menu--insider">
+      <li class="c-list-menu__item">
+        <a class="u-link-clean" href="https://www1.folha.uol.com.br/institucional/en/"> Meet Folha de S.Paulo</a>
+      </li>
+    <li class="c-list-menu__item">
+        <a class="u-link-clean" href="https://www1.folha.uol.com.br/institucional/en/the_history_of_folha.shtml?fill=4">The History of Folha</a>
+      </li>
+    <li class="c-list-menu__item">
+        <a class="u-link-clean" href="https://www1.folha.uol.com.br/institucional/en/circulation.shtml?fill=5">Circulation</a>
+      </li>
+    </ul>
+<div class="c-list-menu__divider"></div>
+
+<!--!-->
+      <!-- /Main sections -->
+    <!-- Nav -->
+    <aside class="c-sidebar-menu__group">
+
+      <!-- Contrast -->
+      <div class="c-contrast" data-set-contrast>
+        <h6 class="c-contrast__title">Dark mode</h6>
+
+        <div class="c-contrast__content">
+          <div class="c-form__radio c-form__radio--inline">
+            <input type="radio" id="contrast-default" name="contrast-theme" data-set-contrast-theme="t-default" checked>
+            <label for="contrast-default">OFF</label>
+          </div>
+          <div class="c-form__radio c-form__radio--inline">
+            <input type="radio" id="contrast-dark" name="contrast-theme" data-set-contrast-theme="t-dark">
+            <label for="contrast-dark">ON</label>
+          </div>
+        </div>
+      </div>
+      <!-- /Contrast -->
+
+      <!-- EdiÃ§Ãµes -->
+      <h4 class="c-sidebar-menu__group-title">Versions</h4>
+      <ul class="c-list-flags">
+        <li class="c-list-flags__item">
+          <a href="//www1.folha.uol.com.br/internacional/es/"
+             title="Access Spanish version"
+             class="u-link-clean">
+            <svg width="13" height="13" viewBox="0 0 13 13" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" aria-hidden="true" class="icon icon-flag--spain  icon--tiny ">
+  <defs>
+    <circle cx="6.5" cy="6.5" r="6.5"/>
+  </defs>
+    <g fill="none" fill-rule="evenodd">
+      <mask fill="#fff">
+        <use xlink:href="#a"/>
+      </mask>
+      <g mask="url(#b)">
+        <circle cx="6.5" cy="6.5" r="6.5" fill="#AA151B"/>
+        <path fill="#F1BF00" d="M0 3.467h13v6.066H0z"/>
+      </g>
+    </g>
+</svg>
+            <span class="c-heading--tiny" lang="es-ES" title="EspaÃ±ol">ESP</span>
+          </a>
+        </li>
+
+        <li class="c-list-flags__item">
+          <a href="//www1.folha.uol.com.br/"
+             title="Access Portuguese version"
+             class="u-link-clean">
+            <svg width="13" height="13" viewBox="0 0 13 13" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" aria-hidden="true" class="icon icon-flag--brazil  icon--tiny ">
+  <defs>
+    <ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <g mask="url(#b)">
+      <ellipse cx="7.5" cy="7.5" rx="7.5" ry="7.5" fill="#00A859"/>
+      <path fill="#FFCC29" d="M1 7.5l6.5 4 6.5-4-6.5-4z"/>
+      <ellipse fill="#3E4095" cx="7.5" cy="7.5" rx="2.5" ry="2.5"/>
+    </g>
+  </g>
+</svg>
+            <span class="c-heading--tiny" lang="pt-BR" title="PortuguÃªs">POR</span>
+          </a>
+        </li>
+      </ul>
+      <!-- /EdiÃ§Ãµes -->
+    </aside>
+  </div>
+  <!-- /sidebar-menu-content -->
+
+  <div class="c-sidebar-menu__overlay"></div>
+</div>
+
+<div class="c-search__overlay" data-overlay-search></div>
+  <header class="l-header u-only-print" aria-hidden="true">
+  <div class="l-header__wrapper">
+    <div class="container">
+      <div class="l-header__container">
+        <div class="l-header__branding">
+          <a href="#" class="l-header__logo u-link-clean">
+            <h1>
+              <svg
+  xmlns="https://www.w3.org/2000/svg"
+  viewBox="0 0 556 67"
+  version="1.1"
+  class="logo-folha"
+  aria-hidden="true"
+     >
+
+  <path d="m 333.4496,4.0000038 c 4.15466,0 7.84768,0.308064 11.46377,1.078223 l 0,16.3273702 -3.00058,0 -2.92365,-12.01448 c -2.07733,-0.5391112 -3.30834,-0.6931432 -5.53954,-0.6931432 -5.07791,0 -7.92462,2.7725722 -7.92462,6.4693352 0,13.092705 22.00429,11.860445 22.00429,31.345475 0,10.78222 -7.84769,19.79308 -20.23472,19.79308 -5.30872,0 -9.54032,-0.69314 -12.77172,-1.84838 l 0,-16.40439 3.2314,0 2.6159,11.70642 c 2.61589,1.4633 5.61648,1.84838 8.694,1.84838 4.69322,0 7.84768,-3.3887 7.84768,-7.31651 0,-14.24794 -22.61979,-14.40197 -22.46591,-32.423692 0,-10.859241 8.07849,-17.8676882 19.0037,-17.8676882 l 0,0 z m -333.37266,3.773779 0,-2.849588 36.16089,0 0,17.7906722 -3.00058,0 -5.00098,-13.70883 -9.92501,0 0,24.028957 7.77075,0 1.76957,-7.47054 3.00059,0 0,19.56204 -3.00059,0 -1.76957,-8.00965 -7.77075,0 0,24.18299 7.15524,1.30927 0,2.77257 -25.4665,0 0,-2.77257 5.69342,-1.30927 0,-52.4478282 -5.61648,-1.078223 z m 384.92117,32.8857912 -4.77016,0 0,20.64026 6.84749,1.30927 0,2.77257 -25.08182,0 0,-2.77257 5.61648,-1.30927 0,-52.4478282 -5.53954,-1.078223 0,-2.849588 23.61999,0 c 9.92501,0 16.61862,3.850795 16.61862,17.9447042 0,10.782225 -5.4626,17.790675 -17.31106,17.790675 l 0,0 z m -4.77016,-4.00483 2.2312,0 c 4.07772,0 6.4628,-2.77257 6.4628,-13.939877 0,-11.090289 -1.69264,-13.70883 -6.30892,-13.70883 l -2.38508,0 0,27.648707 z m 134.71856,1.84838 c 0,-19.562036 8.61706,-27.18661 20.92716,-27.18661 14.07966,0 20.00389,8.702797 20.00389,27.72572 0,19.33099 -8.694,27.26363 -20.85021,27.26363 -14.15661,0 -20.08084,-8.7028 -20.08084,-27.80274 l 0,0 z m -475.3234,0.077 c 0,-19.485024 8.54012,-27.109598 20.85021,-27.109598 14.15661,0 19.85003,8.625781 19.85003,27.648708 0,19.33099 -8.54013,27.18661 -20.85022,27.18661 -14.07967,0 -19.85002,-8.62578 -19.85002,-27.72572 l 0,0 z m 137.56527,26.80153 -13.61804,0 0,-2.38749 3.92384,-1.07822 12.9256,-49.675259 6.69361,0 14.92598,49.675259 4.00079,1.07822 0,2.38749 -20.61941,0 0,-2.38749 4.77016,-1.07822 -4.15465,-12.70763 -11.23296,0 -2.92365,12.70763 5.30873,1.07822 0,2.38749 z m 235.04581,0 -14.23355,0 0,-2.38749 4.38547,-1.07822 12.9256,-49.675259 6.84749,0 14.92598,49.675259 4.46241,1.07822 0,2.38749 -21.00409,0 0,-2.38749 4.69322,-1.07822 -4.23159,-12.70763 -11.38684,0 -2.84671,12.70763 5.46261,1.07822 0,2.38749 z m -297.75034,0 -30.9291,0 0,-2.38749 4.61628,-1.07822 0,-46.209543 -4.38547,-0.847175 0,-2.464509 20.38859,0 0,2.464509 -4.770157,0.847175 0,46.055503 8.309307,0 4.38547,-12.39956 2.38508,0 0,16.01931 z m 3.15446,-50.522428 0,-2.464509 19.38839,0 0,2.464509 -3.8469,0.847175 0,21.641463 11.69459,0 0,-21.641463 -3.61609,-0.847175 0,-2.464509 18.92676,0 0,2.464509 -4.00077,0.847175 0,46.209543 4.38546,1.07822 0,2.38749 -19.31145,0 0,-2.38749 3.61609,-1.07822 0,-20.94833 -11.69459,0 0,20.94833 3.8469,1.07822 0,2.38749 -19.38839,0 0,-2.38749 4.38547,-1.07822 0,-46.055512 -4.38547,-1.001206 z M 259.8968,39.735384 c 0,18.63784 -8.694,25.64629 -19.23451,25.64629 l -20.61941,0 0,-2.38749 4.15466,-1.07822 0,-46.209543 -4.15466,-0.847175 0,-2.464509 19.54227,0 c 13.15641,0 20.31165,6.315304 20.31165,27.340647 l 0,0 z m 19.46534,22.02654 10.07888,0 4.2316,-11.78343 2.69283,0 0,15.40318 -33.23725,0 0,-2.38749 4.92404,-1.07822 0,-46.209543 -4.8471,-0.847175 0,-2.464509 31.46767,0 0,15.326167 -2.61589,0 -4.30853,-11.860452 -8.38625,0 0,21.179372 6.61667,0 1.76958,-6.54635 2.38508,0 0,17.25156 -2.38508,0 -1.76958,-7.08546 -6.61667,0 0,21.10235 z m 160.03118,-46.902678 0,-2.464509 20.31165,0 0,2.464509 -4.69322,0.847175 0,37.429723 c 0,6.93143 1.69264,10.1661 6.69362,10.1661 6.84748,0 9.00175,-4.08184 9.00175,-11.70641 l 0,-35.889413 -4.53935,-0.847175 0,-2.464509 12.23316,0 0,2.464509 -4.15466,0.847175 0,36.659563 c 0,10.32013 -5.07791,14.71004 -15.46455,14.63302 -11.9254,-0.077 -15.07986,-4.69796 -15.07986,-17.02051 l 0,-34.272073 -4.30854,-0.847175 z m 72.70648,50.522428 -30.46747,0 0,-2.38749 4.61628,-1.07822 0,-46.209543 -4.30853,-0.847175 0,-2.464509 20.31165,0 0,2.464509 -4.69322,0.847175 0,46.055503 7.61687,0 4.38547,-12.39956 2.53895,0 0,16.01931 z m 31.69849,-26.1854 c 0,-21.48744 -3.69303,-24.799124 -8.00156,-24.799124 -4.30853,0 -8.694,2.849589 -8.694,24.028964 0,21.41042 3.69302,24.87613 8.07849,24.87613 4.30853,0 8.61707,-3.08063 8.61707,-24.10597 l 0,0 z m -475.40035,0.077 c 0,-21.487434 -3.76996,-24.722102 -8.15543,-24.722102 -4.46241,0 -8.77094,2.772573 -8.77094,23.951942 0,21.41042 3.8469,24.79912 8.23237,24.79912 4.30853,0 8.694,-2.9266 8.694,-24.02896 l 0,0 z m 167.64806,22.48864 3.30834,0 c 6.23198,0 9.15563,-3.3887 9.15563,-22.71969 0,-19.716066 -3.38528,-23.181782 -9.38645,-23.181782 l -3.07752,0 0,45.901472 z m -56.16479,-33.11683 -4.23159,16.94349 9.38644,0 -5.15485,-16.94349 z m 234.96887,0 -4.15466,16.94349 9.23257,0 -5.07791,-16.94349 z m -61.70433,26.1854 c 2.8467,0 5.23179,2.54153 5.23179,5.69918 0,3.23467 -2.53896,5.77619 -5.38567,5.77619 -2.69283,0 -5.23179,-2.54152 -5.23179,-5.77619 0,-3.15765 2.69283,-5.69918 5.38567,-5.69918 l 0,0 z" />
+</svg>
+            </h1>
+          </a>
+
+          <div class="l-header__sub">
+            <span class="l-header__brand-stars"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 55 14" version="1.1" class="brand-stars" aria-hidden="true">
+  <g>
+    <polygon points="22.866795,14.321192 24.633205,8.8599664 20,5.4902743 25.733591,5.4902743 27.5,8.8817842e-16 29.266409,5.4902743 35,5.4902743 30.366795,8.8599664 32.133205,14.321192 27.5,10.92245 "
+       class="brand-stars-blue"/>
+    <polygon points="2.8667954,14.321192 4.6332046,8.8599664 0,5.4902743 5.7335907,5.4902743 7.5,8.8817842e-16 9.2664093,5.4902743 15,5.4902743 10.366795,8.8599664 12.133205,14.321192 7.5,10.92245 "
+       class="brand-stars-red"/>
+    <polygon points="42.866795,14.321192 44.633205,8.8599664 40,5.4902743 45.733591,5.4902743 47.5,8.8817842e-16 49.266409,5.4902743 55,5.4902743 50.366795,8.8599664 52.133205,14.321192 47.5,10.92245 "
+       class="brand-stars-dark"/>
+  </g>
+</svg>
+</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+        
+      
+
+      <div class="block block--pub-super">
+        <div class="container">
+          
+<div class="c-advertising c-advertising--billboard" data-advertising>
+    <div id="banner-970x250-1625453906521488" class="c-advertising__banner-area" >
+    <script type="application/javascript">
+      (function folAd(id, x, y) {
+        x = id ? "banner-970x250-area-" + id  : "banner-970x250-area";
+        y = document.getElementById(x);
+        if (y) { return folAd(id ? (id+1) : 2); }
+
+        var banner = document.getElementById("banner-970x250-1625453906521488");
+        if (banner) banner.setAttribute('id', x);
+      })();
+    </script>
+  </div>
+</div>
+
+
+<!--!-->        </div>
+      </div>
+
+      <main id="conteudo" class="main">
+          <article id="c-news" class="c-news" itemscope itemtype="https://schema.org/NewsArticle" role="main">
+    <meta itemprop="mainEntityOfPage" content="https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/04/brazil-has-the-highest-rate-of-coronavirus-contagion-in-the-world-says-study.shtml">
+    <meta itemprop="description" content="Each infected person transmits viruses to about three in the country; 48 countries were analyzed">
+    <link itemprop="sameAs" href="https://www1.folha.uol.com.br">
+
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+      <meta itemprop="name" content="Folha de S.Paulo">
+
+      <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+        <meta itemprop="url" content="https://f.i.uol.com.br/hunting/folha/1/amp/logo.png">
+        <meta itemprop="width" content="300">
+        <meta itemprop="height" content="60">
+      </div>
+    </div>
+
+                  <div itemprop="author" itemscope  itemtype="https://schema.org/Person">
+          <meta itemprop="name" content="Ana Estela de Sousa Pinto">
+        </div>
+          
+    <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+              <meta itemprop="url" content="https://f.i.uol.com.br/fotografia/2020/04/28/15881169325ea8bdc447134_1588116932_3x2_md.jpg">
+        <meta itemprop="width" content="768">
+        <meta itemprop="height" content="512">
+          </div>
+
+    
+          <div class="block">
+         
+
+        <div class="container">
+          <div class="flex flex--gutter flex--col flex--md-row">
+            <div class="flex-cell">
+              <div class="row">
+                <div class="col col--md-1-1 col--lg-10-15 col-offset--lg-5-18">
+                  <header class="c-content-head" data-share-text>
+  <div class="c-content-head__wrap">
+                    <h1 class="c-content-head__title" itemprop="headline">
+    Brazil Has the Highest Rate of Coronavirus Contagion in the World, Says Study
+  </h1>
+    
+    <h2 class="c-content-head__subtitle" itemprop="alternativeHeadline">
+      Each infected person transmits viruses to about three in the country; 48 countries were analyzed
+    </h2>
+  </div>
+</header>
+
+                  <div class="c-tools-share c-tools-share--bordered-md toolbar">
+                    <ul aria-label="Sharing options" class="c-tools-share__list"
+  data-sharebar-utm-campaign-prefix="comp"
+  data-sharebar-counter
+  data-sharebar-buttons="facebook whatsapp twitter"
+  data-sharebar-channel="internacional/en/scienceandhealth"
+  data-sharebar-limit="3"
+  data-sharebar-url="https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/04/brazil-has-the-highest-rate-of-coronavirus-contagion-in-the-world-says-study.shtml"
+  data-sharebar-uolpd-id="content"
+  data-sharebar-text="Brazil Has the Highest Rate of Coronavirus Contagion in the World, Says Study">
+
+  <li class="c-tools-share__item">
+    <div data-modal-drop data-qty-collumn="3.4" class="c-modal-drop">
+      <button aria-label="See all sharing options" data-trigger class="c-tools-share__button c-tools-share__button--neutral">
+        <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 17 5" height="24" width="24" class="icon icon--more-options" aria-hidden="true">
+  <path d="M2.5 0.5c-1.1 0-2 0.9-2 2s0.9 2 2 2 2-0.9 2-2-0.9-2-2-2zm12 0c-1.1 0-2 0.9-2 2s0.9 2 2 2 2-0.9 2-2-0.9-2-2-2zm-6 0c-1.1 0-2 0.9-2 2s0.9 2 2 2 2-0.9 2-2-0.9-2-2-2z"/>
+</svg>
+      </button>
+
+      <div aria-hidden="true" data-content class="c-modal-drop__content c-modal-drop__content--no-padding">
+        <div class="c-modal-drop__controls u-hidden-md">
+          <button aria-label="Close options menu" data-close class="c-modal-drop__close">
+          <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24" class="icon icon--close  icon--tiny " aria-hidden="true">
+  <path d="M16 1.61L14.39 0 8 6.39 1.61 0 0 1.61 6.39 8 0 14.39 1.61 16 8 9.61 14.39 16 16 14.39 9.61 8z"/>
+</svg>
+          </button>
+        </div>
+        <div class="c-tools-share--larger">
+          <ul class="c-tools-share__list"
+            data-sharebar-utm-campaign-prefix="comp"
+            data-sharebar-buttons="facebook whatsapp twitter messenger linkedIn rss email"
+            data-sharebar-channel="internacional/en/scienceandhealth"
+            data-triggered-byclick=".c-modal-drop [data-trigger]"
+            data-sharebar-url="https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/04/brazil-has-the-highest-rate-of-coronavirus-contagion-in-the-world-says-study.shtml"
+            data-sharebar-uolpd-id="content"
+            data-sharebar-text="Brazil Has the Highest Rate of Coronavirus Contagion in the World, Says Study">
+
+                        <li class="c-tools-share__item" data-share-button="curta">
+              <button aria-label="Short url" data-copy-link data-href="https://folha.com/rmefu6yx" class="c-tools-share__button c-tools-share__button--copy-link" title="Short url">
+                <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" class="icon icon--link  icon-- " aria-hidden="true">
+  <path d="m 1.5200002,7.9999998 c 0,-1.368 1.112,-2.4799996 2.4799999,-2.4799996 l 3.1999996,0 0,-1.5199999 -3.1999996,0 C 1.7920001,4.0000003 1.5e-7,5.7920002 1.5e-7,7.9999998 1.5e-7,10.208 1.7920001,12 4.0000001,12 l 3.1999996,0 0,-1.519999 -3.1999996,0 c -1.368,0 -2.48,-1.1120012 -2.48,-2.4800012 l 0,0 z m 3.2799999,0.800001 6.3999999,0 0,-1.6000011 -6.4,0 0,1.6000011 0,0 z M 12,4.0000003 l -3.2000001,0 0,1.5199999 3.2000001,0 c 1.368,0 2.48,1.1119996 2.48,2.4799996 0,1.368 -1.112,2.4800012 -2.48,2.4800012 l -3.2000001,0 0,1.519999 L 12,12 c 2.208,0 4,-1.792 4,-4.0000002 0,-2.2079997 -1.792,-3.9999995 -4,-3.9999995 l 0,0 z"/>
+</svg>
+              </button>
+              <span class="c-tools-share__button-name" aria-hidden="true">Short url</span>
+            </li>
+                        <li class="c-tools-share__item u-visible-md" data-share-button="imprimir">
+              <button aria-label="Print" data-paper-print class="c-tools-share__button c-tools-share__button--paper-print" title="Print">
+                <svg xmlns="https://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="icon icon--paper-print  icon-- " aria-hidden="true">
+  <path d="M13.584 4.748H2.424A2.388 2.388 0 0 0 .03 7.14v4.784H3.22v3.19h9.567v-3.19h3.188V7.14a2.388 2.388 0 0 0-2.39-2.392zm-2.39 8.77h-6.38V9.532h6.377v3.986zm2.39-5.58a.8.8 0 0 1-.797-.798c0-.44.36-.797.797-.797.44 0 .797.358.797.797 0 .44-.357.797-.796.797zM12.787.763H3.22V3.95h9.567z"/>
+</svg>
+              </button>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </li>
+</ul>
+                  </div>
+
+                                  </div>
+              </div>
+            </div>
+
+            <div class="col-fixed col-fixed--md-300 u-visible-md"></div>
+          </div>
+        </div>
+      </div>
+
+      
+        
+
+    
+    <div class="block">
+      <div class="container j-paywall" data-paywall-box>
+        <div class="flex flex--gutter flex--col flex--md-row">
+          <div class="flex-cell">
+            <div class="row">
+              <div class="col col--lg-5-18">
+                                  <div class="c-more-options">
+  <div class="c-more-options__header">
+    <time class="c-more-options__published-date" itemprop="datePublished" datetime="2020-04-30 14:06:00">
+      Apr.30.2020 2:06PM    </time>
+      </div>
+
+  
+  <div class="c-more-options__footer u-no-print">
+    <ul class="c-more-options__list c-more-options__list--secundary" data-change-font-size data-children="[data-link]" data-target="[data-news-content-text], [data-force-change-font-size]">
+      <li>
+        <div data-readspeaker data-read-id="c-news" data-lang="en_us" data-button-text="Read aloud">
+          <span tabindex="0" class="sr-only">Read aloud</span>
+        </div>
+      </li>
+      <li>
+        <button class="c-more-options__button rs_preserve" data-link data-action="less">
+          <span class="u-sr-only">Decrease font size</span>
+          <svg xmlns="https://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" class="icon icon--font-size-less " aria-hidden="true">
+  <path d="M2.56 17.759L6.367 6h3.298l3.806 11.759V18h-2.827l-.753-2.485H5.933L5.198 18H2.56zm6.69-4.433L7.912 8.875l-1.338 4.451zM16.274 11.143h5.166v2.228h-5.166z"/>
+</svg>
+        </a>
+      </li>
+      <li>
+        <button class="c-more-options__button rs_preserve" data-link data-action="more">
+          <span class="u-sr-only">Increase font size</span>
+          <svg xmlns="https://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" class="icon icon--font-size-more " aria-hidden="true">
+  <path d="M1.815 17.759L5.603 6h3.281l3.788 11.759V18H9.859l-.75-2.485H5.171L4.441 18H1.815zm6.657-4.433L7.14 8.875l-1.331 4.451zm7.057-2.356h2.36V8.571h1.937v2.4h2.359v1.746h-2.36v2.712h-1.937v-2.712h-2.359z"/>
+</svg>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+                              </div>
+
+              <div class="col col--md-1-1 col--lg-12-18">
+                                <div class="c-news__wrap">
+    <div class="c-signature">
+              <strong class="c-signature__author">
+          <a href="https://www1.folha.uol.com.br/autores/ana-estela-de-sousa-pinto.shtml">Ana Estela de Sousa Pinto</a>
+        </strong>
+          </div>
+  </div>
+
+                <div class="c-news__content">
+                  <div class="c-signature c-signature--left" data-force-change-font-size>
+<strong class="c-signature__location">
+Bruxelas
+
+</strong>
+</div>
+
+                  <div class="c-news__body"
+                    data-share-text
+                    data-news-content-text
+                    data-continue-reading
+                    data-continue-reading-hide-others=".js-continue-reading-hidden"
+                    itemprop="articleBody">
+                    <p>Brazil has the highest rate of Coronavirus contagion among 48 countries analyzed by Imperial College in London. The indicator, also called R0, shows how many people each infected person transmits the disease.</p>
+
+<p>The higher the transmission speed, the greater the risk of possible overload in the health system.</p>
+
+<p>In the week that started on Monday (26), the R0 of Brazil was 2.81, that is, each infected person transmits the disease to about three people, according to the estimates of the university's infectious diseases center (MRC), one of the most respected in the analysis of epidemics.</p><div><div class="widget-image">
+  <figure>
+    <img alt=""
+      class="img-responsive c-lazyload"
+      data-srcset=" https://f.i.uol.com.br/fotografia/2020/04/28/15881169325ea8bdc447134_1588116932_3x2_th.jpg 100w,                              https://f.i.uol.com.br/fotografia/2020/04/28/15881169325ea8bdc447134_1588116932_3x2_sm.jpg 480w,                https://f.i.uol.com.br/fotografia/2020/04/28/15881169325ea8bdc447134_1588116932_3x2_md.jpg 768w,                https://f.i.uol.com.br/fotografia/2020/04/28/15881169325ea8bdc447134_1588116932_3x2_lg.jpg 1024w,                https://f.i.uol.com.br/fotografia/2020/04/28/15881169325ea8bdc447134_1588116932_3x2_xl.jpg 1200w,                https://f.i.uol.com.br/fotografia/2020/04/28/15881169325ea8bdc447134_1588116932_3x2_rt.jpg 2400w "
+      data-sizes="(min-width: 1024px) 68vw, 100vw"
+      data-src="https://f.i.uol.com.br/fotografia/2020/04/28/15881169325ea8bdc447134_1588116932_3x2_md.jpg">
+
+    <noscript>
+      <img alt=""
+        class="img-responsive"
+        srcset=" https://f.i.uol.com.br/fotografia/2020/04/28/15881169325ea8bdc447134_1588116932_3x2_th.jpg 100w,                                    https://f.i.uol.com.br/fotografia/2020/04/28/15881169325ea8bdc447134_1588116932_3x2_sm.jpg 480w,                   https://f.i.uol.com.br/fotografia/2020/04/28/15881169325ea8bdc447134_1588116932_3x2_md.jpg 768w,                   https://f.i.uol.com.br/fotografia/2020/04/28/15881169325ea8bdc447134_1588116932_3x2_lg.jpg 1024w,                   https://f.i.uol.com.br/fotografia/2020/04/28/15881169325ea8bdc447134_1588116932_3x2_xl.jpg 1200w,                   https://f.i.uol.com.br/fotografia/2020/04/28/15881169325ea8bdc447134_1588116932_3x2_rt.jpg 2400w "
+        sizes="(min-width: 1024px) 68vw, 100vw"
+        src="https://f.i.uol.com.br/fotografia/2020/04/28/15881169325ea8bdc447134_1588116932_3x2_md.jpg">
+    </noscript>
+
+        <figcaption class="widget-image__subtitle">
+      In absolute numbers, SÃ£o Paulo still leads in the number of registrations (foto: Rubens Cavallari/Folhapress, NAS RUAS)
+             - <span class="widget-image__credits">Folhapress</span>
+          </figcaption>
+      </figure>
+</div>
+</div><p>In several countries around the world, governments have considered that mobility restrictions can only be relaxed without risk to the health system if the reproduction number is below 1.</p>
+
+<div class="c-advertising c-advertising--300x250 u-hidden-xs">
+  <div id="banner-300x250-area-materia" class="c-advertising__banner-area"></div>
+</div>
+
+
+
+
+<p>In Germany, considered one of the most successful nations in controlling the disease, the number of reproduction calculated by the MRC is 0.8 (with a range from 0.65 to 1.14).</p>
+
+<p>Alongside the United States, Brazil is one of the only two countries with a forecast of more than 5,000 deaths for the next week, and the trend is for growth in contagions, according to the study, signed by 47 researchers.</p>
+
+<div class="player_dynad_tv"></div>
+
+
+
+
+<p><sub>Translated by Kiratiana Freelon</sub></p>
+
+<p><a href="https://www1.folha.uol.com.br/equilibrioesaude/2020/04/brasil-tem-maior-taxa-de-contagio-por-coronavirus-do-mundo-aponta-estudo.shtml">Read the article in the original language</a></p>
+
+                  </div>
+
+                  
+                   
+
+                  
+                  
+                  
+                                      <div class="u-only-print rs_skip" aria-hidden="true">
+                      <h4 class="c-heading">Enlace de la pÃ¡gina</h4>
+
+                      <ul class="u-list-unstyled">
+                        <li>https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/04/brazil-has-the-highest-rate-of-coronavirus-contagion-in-the-world-says-study.shtml</li>
+                      </ul>
+                    </div>
+                                    
+                </div>
+              </div>
+            </div>
+          </div>
+
+          
+          <aside class="col-fixed col-fixed--md-300 u-no-print rs_skip">
+                          <div>
+                
+<div class="c-advertising c-advertising--300x250" >
+  <div id="banner-300x250-area" class="c-advertising__banner-area"></div>
+</div>
+
+              </div>
+
+              
+              <div>
+                
+<h3 class="c-section-title c-section-title--brand">latest news</h3>
+
+<!-- newslist -->
+<ul class="c-newslist">
+    <li>
+      <div class="c-headline c-headline--small">
+        <div class="c-headline__wrapper">
+          <div class="c-headline__head">
+
+            <h3 class="c-headline__kicker c-kicker">
+
+
+
+
+
+
+                    Science and Health
+
+            </h3>
+            
+            
+            <div data-modal-drop data-qty-collumn="3.4" class="c-modal-drop c-headline__action">
+  <button data-trigger type="button" name="button" class="c-modal-drop__trigger">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24" class="icon icon--share ">
+      <path d="m 12.818311,11.294921 c 1.280064,0 2.333667,1.054406 2.333667,2.333668 0,1.279261 -1.054406,2.371411 -2.333667,2.371411 -1.279262,0 -2.333668,-1.09215 -2.333668,-2.371411 0,-0.187915 0,-0.377435 0.03774,-0.526802 L 4.8407964,9.789199 A 2.4252158,2.4252158 0 0 1 0.772537,8.020076 2.4252158,2.4252158 0 0 1 4.8383872,6.250954 L 10.48384,2.9761092 A 2.8974102,2.8974102 0 0 1 10.40915,2.4091547 C 10.40915,1.0921502 11.5013,0 12.818304,0 c 1.317008,0 2.409159,1.0921502 2.409159,2.4091547 0,1.3170047 -1.092151,2.4091553 -2.409155,2.4091553 -0.640032,0 -1.204577,-0.263401 -1.656695,-0.677776 L 5.5161598,7.453925 c 0.036941,0.187914 0.074684,0.377434 0.074684,0.564545 0,0.187111 -0.037744,0.377434 -0.075486,0.562137 l 5.7217422,3.31339 c 0.417587,-0.377434 0.979724,-0.602289 1.582012,-0.602289 z"></path>
+    </svg>
+    <span class="u-visually-hidden">Share this "Science and Health: Brazil Has the Highest Rate of Coronavirus Contagion in the World, Says Study"</span>
+  </button>
+  <div aria-hidden="true" data-content class="c-modal-drop__content c-modal-drop__content--no-padding" data-visibility="unset">
+    <div class="c-modal-drop__controls u-hidden-md">
+      <button data-close class="c-modal-drop__close">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24" class="icon icon--close  icon--tiny ">
+          <path d="M16 1.61L14.39 0 8 6.39 1.61 0 0 1.61 6.39 8 0 14.39 1.61 16 8 9.61 14.39 16 16 14.39 9.61 8z"></path>
+        </svg>
+      </button>
+    </div>
+    <div class="c-tools-share--larger">
+      <ul class="c-tools-share__list"
+      data-sharebar-buttons="facebook whatsapp twitter messenger googlePlus linkedIn pinterest email"
+      data-triggered-byclick=".c-modal-drop [data-trigger]"
+      data-sharebar-url="https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/04/brazil-has-the-highest-rate-of-coronavirus-contagion-in-the-world-says-study.shtml"
+      data-sharebar-utm-campaign-prefix="comp"
+      data-sharebar-uolpd-id="internal"
+      data-sharebar-text="Science and Health: Brazil Has the Highest Rate of Coronavirus Contagion in the World, Says Study"></ul>
+    </div>
+  </div>
+</div>
+
+          </div>
+          <div class="c-headline__content">
+            <a href="https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/04/brazil-has-the-highest-rate-of-coronavirus-contagion-in-the-world-says-study.shtml"
+               class="c-headline__url">
+              <h2 class="c-headline__title">Brazil Has the Highest Rate of Coronavirus Contagion in the World, Says Study</h2>
+            </a>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="c-headline c-headline--small">
+        <div class="c-headline__wrapper">
+          <div class="c-headline__head">
+
+            <h3 class="c-headline__kicker c-kicker">
+
+
+
+
+
+
+                    Science and Health
+
+            </h3>
+            
+            
+            <div data-modal-drop data-qty-collumn="3.4" class="c-modal-drop c-headline__action">
+  <button data-trigger type="button" name="button" class="c-modal-drop__trigger">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24" class="icon icon--share ">
+      <path d="m 12.818311,11.294921 c 1.280064,0 2.333667,1.054406 2.333667,2.333668 0,1.279261 -1.054406,2.371411 -2.333667,2.371411 -1.279262,0 -2.333668,-1.09215 -2.333668,-2.371411 0,-0.187915 0,-0.377435 0.03774,-0.526802 L 4.8407964,9.789199 A 2.4252158,2.4252158 0 0 1 0.772537,8.020076 2.4252158,2.4252158 0 0 1 4.8383872,6.250954 L 10.48384,2.9761092 A 2.8974102,2.8974102 0 0 1 10.40915,2.4091547 C 10.40915,1.0921502 11.5013,0 12.818304,0 c 1.317008,0 2.409159,1.0921502 2.409159,2.4091547 0,1.3170047 -1.092151,2.4091553 -2.409155,2.4091553 -0.640032,0 -1.204577,-0.263401 -1.656695,-0.677776 L 5.5161598,7.453925 c 0.036941,0.187914 0.074684,0.377434 0.074684,0.564545 0,0.187111 -0.037744,0.377434 -0.075486,0.562137 l 5.7217422,3.31339 c 0.417587,-0.377434 0.979724,-0.602289 1.582012,-0.602289 z"></path>
+    </svg>
+    <span class="u-visually-hidden">Share this "Science and Health: Women Are More Isolated and Worried about Coronavirus, Shows Datafolha"</span>
+  </button>
+  <div aria-hidden="true" data-content class="c-modal-drop__content c-modal-drop__content--no-padding" data-visibility="unset">
+    <div class="c-modal-drop__controls u-hidden-md">
+      <button data-close class="c-modal-drop__close">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24" class="icon icon--close  icon--tiny ">
+          <path d="M16 1.61L14.39 0 8 6.39 1.61 0 0 1.61 6.39 8 0 14.39 1.61 16 8 9.61 14.39 16 16 14.39 9.61 8z"></path>
+        </svg>
+      </button>
+    </div>
+    <div class="c-tools-share--larger">
+      <ul class="c-tools-share__list"
+      data-sharebar-buttons="facebook whatsapp twitter messenger googlePlus linkedIn pinterest email"
+      data-triggered-byclick=".c-modal-drop [data-trigger]"
+      data-sharebar-url="https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/04/women-are-more-isolated-and-worried-about-coronavirus-shows-datafolha.shtml"
+      data-sharebar-utm-campaign-prefix="comp"
+      data-sharebar-uolpd-id="internal"
+      data-sharebar-text="Science and Health: Women Are More Isolated and Worried about Coronavirus, Shows Datafolha"></ul>
+    </div>
+  </div>
+</div>
+
+          </div>
+          <div class="c-headline__content">
+            <a href="https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/04/women-are-more-isolated-and-worried-about-coronavirus-shows-datafolha.shtml"
+               class="c-headline__url">
+              <h2 class="c-headline__title">Women Are More Isolated and Worried about Coronavirus, Shows Datafolha</h2>
+            </a>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="c-headline c-headline--small">
+        <div class="c-headline__wrapper">
+          <div class="c-headline__head">
+
+            <h3 class="c-headline__kicker c-kicker">
+
+
+
+
+
+
+                    Science and Health
+
+            </h3>
+            
+            
+            <div data-modal-drop data-qty-collumn="3.4" class="c-modal-drop c-headline__action">
+  <button data-trigger type="button" name="button" class="c-modal-drop__trigger">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24" class="icon icon--share ">
+      <path d="m 12.818311,11.294921 c 1.280064,0 2.333667,1.054406 2.333667,2.333668 0,1.279261 -1.054406,2.371411 -2.333667,2.371411 -1.279262,0 -2.333668,-1.09215 -2.333668,-2.371411 0,-0.187915 0,-0.377435 0.03774,-0.526802 L 4.8407964,9.789199 A 2.4252158,2.4252158 0 0 1 0.772537,8.020076 2.4252158,2.4252158 0 0 1 4.8383872,6.250954 L 10.48384,2.9761092 A 2.8974102,2.8974102 0 0 1 10.40915,2.4091547 C 10.40915,1.0921502 11.5013,0 12.818304,0 c 1.317008,0 2.409159,1.0921502 2.409159,2.4091547 0,1.3170047 -1.092151,2.4091553 -2.409155,2.4091553 -0.640032,0 -1.204577,-0.263401 -1.656695,-0.677776 L 5.5161598,7.453925 c 0.036941,0.187914 0.074684,0.377434 0.074684,0.564545 0,0.187111 -0.037744,0.377434 -0.075486,0.562137 l 5.7217422,3.31339 c 0.417587,-0.377434 0.979724,-0.602289 1.582012,-0.602289 z"></path>
+    </svg>
+    <span class="u-visually-hidden">Share this "Science and Health: Brazil Breaks 24 hour Record for Coronavirus Deaths with 474"</span>
+  </button>
+  <div aria-hidden="true" data-content class="c-modal-drop__content c-modal-drop__content--no-padding" data-visibility="unset">
+    <div class="c-modal-drop__controls u-hidden-md">
+      <button data-close class="c-modal-drop__close">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24" class="icon icon--close  icon--tiny ">
+          <path d="M16 1.61L14.39 0 8 6.39 1.61 0 0 1.61 6.39 8 0 14.39 1.61 16 8 9.61 14.39 16 16 14.39 9.61 8z"></path>
+        </svg>
+      </button>
+    </div>
+    <div class="c-tools-share--larger">
+      <ul class="c-tools-share__list"
+      data-sharebar-buttons="facebook whatsapp twitter messenger googlePlus linkedIn pinterest email"
+      data-triggered-byclick=".c-modal-drop [data-trigger]"
+      data-sharebar-url="https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/04/brazil-breaks-24-hour-record-for-coronavirus-deaths-with-474.shtml"
+      data-sharebar-utm-campaign-prefix="comp"
+      data-sharebar-uolpd-id="internal"
+      data-sharebar-text="Science and Health: Brazil Breaks 24 hour Record for Coronavirus Deaths with 474"></ul>
+    </div>
+  </div>
+</div>
+
+          </div>
+          <div class="c-headline__content">
+            <a href="https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/04/brazil-breaks-24-hour-record-for-coronavirus-deaths-with-474.shtml"
+               class="c-headline__url">
+              <h2 class="c-headline__title">Brazil Breaks 24 hour Record for Coronavirus Deaths with 474</h2>
+            </a>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="c-headline c-headline--small">
+        <div class="c-headline__wrapper">
+          <div class="c-headline__head">
+
+            <h3 class="c-headline__kicker c-kicker">
+
+
+
+
+
+
+                    Science and Health
+
+            </h3>
+            
+            
+            <div data-modal-drop data-qty-collumn="3.4" class="c-modal-drop c-headline__action">
+  <button data-trigger type="button" name="button" class="c-modal-drop__trigger">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24" class="icon icon--share ">
+      <path d="m 12.818311,11.294921 c 1.280064,0 2.333667,1.054406 2.333667,2.333668 0,1.279261 -1.054406,2.371411 -2.333667,2.371411 -1.279262,0 -2.333668,-1.09215 -2.333668,-2.371411 0,-0.187915 0,-0.377435 0.03774,-0.526802 L 4.8407964,9.789199 A 2.4252158,2.4252158 0 0 1 0.772537,8.020076 2.4252158,2.4252158 0 0 1 4.8383872,6.250954 L 10.48384,2.9761092 A 2.8974102,2.8974102 0 0 1 10.40915,2.4091547 C 10.40915,1.0921502 11.5013,0 12.818304,0 c 1.317008,0 2.409159,1.0921502 2.409159,2.4091547 0,1.3170047 -1.092151,2.4091553 -2.409155,2.4091553 -0.640032,0 -1.204577,-0.263401 -1.656695,-0.677776 L 5.5161598,7.453925 c 0.036941,0.187914 0.074684,0.377434 0.074684,0.564545 0,0.187111 -0.037744,0.377434 -0.075486,0.562137 l 5.7217422,3.31339 c 0.417587,-0.377434 0.979724,-0.602289 1.582012,-0.602289 z"></path>
+    </svg>
+    <span class="u-visually-hidden">Share this "Science and Health: Brazil Registers 338 New Deaths from Coronavirus; Total Is 4,543 Deaths"</span>
+  </button>
+  <div aria-hidden="true" data-content class="c-modal-drop__content c-modal-drop__content--no-padding" data-visibility="unset">
+    <div class="c-modal-drop__controls u-hidden-md">
+      <button data-close class="c-modal-drop__close">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24" class="icon icon--close  icon--tiny ">
+          <path d="M16 1.61L14.39 0 8 6.39 1.61 0 0 1.61 6.39 8 0 14.39 1.61 16 8 9.61 14.39 16 16 14.39 9.61 8z"></path>
+        </svg>
+      </button>
+    </div>
+    <div class="c-tools-share--larger">
+      <ul class="c-tools-share__list"
+      data-sharebar-buttons="facebook whatsapp twitter messenger googlePlus linkedIn pinterest email"
+      data-triggered-byclick=".c-modal-drop [data-trigger]"
+      data-sharebar-url="https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/04/brazil-registers-338-new-deaths-from-coronavirus-total-is-4543-deaths.shtml"
+      data-sharebar-utm-campaign-prefix="comp"
+      data-sharebar-uolpd-id="internal"
+      data-sharebar-text="Science and Health: Brazil Registers 338 New Deaths from Coronavirus; Total Is 4,543 Deaths"></ul>
+    </div>
+  </div>
+</div>
+
+          </div>
+          <div class="c-headline__content">
+            <a href="https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/04/brazil-registers-338-new-deaths-from-coronavirus-total-is-4543-deaths.shtml"
+               class="c-headline__url">
+              <h2 class="c-headline__title">Brazil Registers 338 New Deaths from Coronavirus; Total Is 4,543 Deaths</h2>
+            </a>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="c-headline c-headline--small">
+        <div class="c-headline__wrapper">
+          <div class="c-headline__head">
+
+            <h3 class="c-headline__kicker c-kicker">
+
+
+
+
+
+
+                    Science and Health
+
+            </h3>
+            
+            
+            <div data-modal-drop data-qty-collumn="3.4" class="c-modal-drop c-headline__action">
+  <button data-trigger type="button" name="button" class="c-modal-drop__trigger">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24" class="icon icon--share ">
+      <path d="m 12.818311,11.294921 c 1.280064,0 2.333667,1.054406 2.333667,2.333668 0,1.279261 -1.054406,2.371411 -2.333667,2.371411 -1.279262,0 -2.333668,-1.09215 -2.333668,-2.371411 0,-0.187915 0,-0.377435 0.03774,-0.526802 L 4.8407964,9.789199 A 2.4252158,2.4252158 0 0 1 0.772537,8.020076 2.4252158,2.4252158 0 0 1 4.8383872,6.250954 L 10.48384,2.9761092 A 2.8974102,2.8974102 0 0 1 10.40915,2.4091547 C 10.40915,1.0921502 11.5013,0 12.818304,0 c 1.317008,0 2.409159,1.0921502 2.409159,2.4091547 0,1.3170047 -1.092151,2.4091553 -2.409155,2.4091553 -0.640032,0 -1.204577,-0.263401 -1.656695,-0.677776 L 5.5161598,7.453925 c 0.036941,0.187914 0.074684,0.377434 0.074684,0.564545 0,0.187111 -0.037744,0.377434 -0.075486,0.562137 l 5.7217422,3.31339 c 0.417587,-0.377434 0.979724,-0.602289 1.582012,-0.602289 z"></path>
+    </svg>
+    <span class="u-visually-hidden">Share this "Science and Health: Health Professionals Bond with Families and Support Patients Alone"</span>
+  </button>
+  <div aria-hidden="true" data-content class="c-modal-drop__content c-modal-drop__content--no-padding" data-visibility="unset">
+    <div class="c-modal-drop__controls u-hidden-md">
+      <button data-close class="c-modal-drop__close">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24" class="icon icon--close  icon--tiny ">
+          <path d="M16 1.61L14.39 0 8 6.39 1.61 0 0 1.61 6.39 8 0 14.39 1.61 16 8 9.61 14.39 16 16 14.39 9.61 8z"></path>
+        </svg>
+      </button>
+    </div>
+    <div class="c-tools-share--larger">
+      <ul class="c-tools-share__list"
+      data-sharebar-buttons="facebook whatsapp twitter messenger googlePlus linkedIn pinterest email"
+      data-triggered-byclick=".c-modal-drop [data-trigger]"
+      data-sharebar-url="https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/04/health-professionals-bond-with-families-and-support-patients-alone.shtml"
+      data-sharebar-utm-campaign-prefix="comp"
+      data-sharebar-uolpd-id="internal"
+      data-sharebar-text="Science and Health: Health Professionals Bond with Families and Support Patients Alone"></ul>
+    </div>
+  </div>
+</div>
+
+          </div>
+          <div class="c-headline__content">
+            <a href="https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/04/health-professionals-bond-with-families-and-support-patients-alone.shtml"
+               class="c-headline__url">
+              <h2 class="c-headline__title">Health Professionals Bond with Families and Support Patients Alone</h2>
+            </a>
+          </div>
+        </div>
+      </div>
+    </li>
+</ul>
+<!-- /newslist -->
+
+<!-- // -->
+              </div>
+              
+
+              
+<div class="c-advertising c-advertising--300x600"  data-sticky="" >
+  <div id="banner-300x600-area" class="c-advertising__banner-area"></div>
+</div>
+
+                      </aside>
+          
+        </div>
+      </div>
+    </div>
+    
+  </article>
+      </main>
+
+      <footer id="rodape" class="l-footer u-no-print">
+  <div class="block">
+    <div class="container">
+      <div class="l-footer__head">
+        <div class="row">
+          <div class="col col--sm-5-10">
+            <svg
+  xmlns="https://www.w3.org/2000/svg"
+  viewBox="0 0 556 67"
+  version="1.1"
+  class="logo-folha"
+  aria-hidden="true"
+   height="20"    width="175"  >
+
+  <path d="m 333.4496,4.0000038 c 4.15466,0 7.84768,0.308064 11.46377,1.078223 l 0,16.3273702 -3.00058,0 -2.92365,-12.01448 c -2.07733,-0.5391112 -3.30834,-0.6931432 -5.53954,-0.6931432 -5.07791,0 -7.92462,2.7725722 -7.92462,6.4693352 0,13.092705 22.00429,11.860445 22.00429,31.345475 0,10.78222 -7.84769,19.79308 -20.23472,19.79308 -5.30872,0 -9.54032,-0.69314 -12.77172,-1.84838 l 0,-16.40439 3.2314,0 2.6159,11.70642 c 2.61589,1.4633 5.61648,1.84838 8.694,1.84838 4.69322,0 7.84768,-3.3887 7.84768,-7.31651 0,-14.24794 -22.61979,-14.40197 -22.46591,-32.423692 0,-10.859241 8.07849,-17.8676882 19.0037,-17.8676882 l 0,0 z m -333.37266,3.773779 0,-2.849588 36.16089,0 0,17.7906722 -3.00058,0 -5.00098,-13.70883 -9.92501,0 0,24.028957 7.77075,0 1.76957,-7.47054 3.00059,0 0,19.56204 -3.00059,0 -1.76957,-8.00965 -7.77075,0 0,24.18299 7.15524,1.30927 0,2.77257 -25.4665,0 0,-2.77257 5.69342,-1.30927 0,-52.4478282 -5.61648,-1.078223 z m 384.92117,32.8857912 -4.77016,0 0,20.64026 6.84749,1.30927 0,2.77257 -25.08182,0 0,-2.77257 5.61648,-1.30927 0,-52.4478282 -5.53954,-1.078223 0,-2.849588 23.61999,0 c 9.92501,0 16.61862,3.850795 16.61862,17.9447042 0,10.782225 -5.4626,17.790675 -17.31106,17.790675 l 0,0 z m -4.77016,-4.00483 2.2312,0 c 4.07772,0 6.4628,-2.77257 6.4628,-13.939877 0,-11.090289 -1.69264,-13.70883 -6.30892,-13.70883 l -2.38508,0 0,27.648707 z m 134.71856,1.84838 c 0,-19.562036 8.61706,-27.18661 20.92716,-27.18661 14.07966,0 20.00389,8.702797 20.00389,27.72572 0,19.33099 -8.694,27.26363 -20.85021,27.26363 -14.15661,0 -20.08084,-8.7028 -20.08084,-27.80274 l 0,0 z m -475.3234,0.077 c 0,-19.485024 8.54012,-27.109598 20.85021,-27.109598 14.15661,0 19.85003,8.625781 19.85003,27.648708 0,19.33099 -8.54013,27.18661 -20.85022,27.18661 -14.07967,0 -19.85002,-8.62578 -19.85002,-27.72572 l 0,0 z m 137.56527,26.80153 -13.61804,0 0,-2.38749 3.92384,-1.07822 12.9256,-49.675259 6.69361,0 14.92598,49.675259 4.00079,1.07822 0,2.38749 -20.61941,0 0,-2.38749 4.77016,-1.07822 -4.15465,-12.70763 -11.23296,0 -2.92365,12.70763 5.30873,1.07822 0,2.38749 z m 235.04581,0 -14.23355,0 0,-2.38749 4.38547,-1.07822 12.9256,-49.675259 6.84749,0 14.92598,49.675259 4.46241,1.07822 0,2.38749 -21.00409,0 0,-2.38749 4.69322,-1.07822 -4.23159,-12.70763 -11.38684,0 -2.84671,12.70763 5.46261,1.07822 0,2.38749 z m -297.75034,0 -30.9291,0 0,-2.38749 4.61628,-1.07822 0,-46.209543 -4.38547,-0.847175 0,-2.464509 20.38859,0 0,2.464509 -4.770157,0.847175 0,46.055503 8.309307,0 4.38547,-12.39956 2.38508,0 0,16.01931 z m 3.15446,-50.522428 0,-2.464509 19.38839,0 0,2.464509 -3.8469,0.847175 0,21.641463 11.69459,0 0,-21.641463 -3.61609,-0.847175 0,-2.464509 18.92676,0 0,2.464509 -4.00077,0.847175 0,46.209543 4.38546,1.07822 0,2.38749 -19.31145,0 0,-2.38749 3.61609,-1.07822 0,-20.94833 -11.69459,0 0,20.94833 3.8469,1.07822 0,2.38749 -19.38839,0 0,-2.38749 4.38547,-1.07822 0,-46.055512 -4.38547,-1.001206 z M 259.8968,39.735384 c 0,18.63784 -8.694,25.64629 -19.23451,25.64629 l -20.61941,0 0,-2.38749 4.15466,-1.07822 0,-46.209543 -4.15466,-0.847175 0,-2.464509 19.54227,0 c 13.15641,0 20.31165,6.315304 20.31165,27.340647 l 0,0 z m 19.46534,22.02654 10.07888,0 4.2316,-11.78343 2.69283,0 0,15.40318 -33.23725,0 0,-2.38749 4.92404,-1.07822 0,-46.209543 -4.8471,-0.847175 0,-2.464509 31.46767,0 0,15.326167 -2.61589,0 -4.30853,-11.860452 -8.38625,0 0,21.179372 6.61667,0 1.76958,-6.54635 2.38508,0 0,17.25156 -2.38508,0 -1.76958,-7.08546 -6.61667,0 0,21.10235 z m 160.03118,-46.902678 0,-2.464509 20.31165,0 0,2.464509 -4.69322,0.847175 0,37.429723 c 0,6.93143 1.69264,10.1661 6.69362,10.1661 6.84748,0 9.00175,-4.08184 9.00175,-11.70641 l 0,-35.889413 -4.53935,-0.847175 0,-2.464509 12.23316,0 0,2.464509 -4.15466,0.847175 0,36.659563 c 0,10.32013 -5.07791,14.71004 -15.46455,14.63302 -11.9254,-0.077 -15.07986,-4.69796 -15.07986,-17.02051 l 0,-34.272073 -4.30854,-0.847175 z m 72.70648,50.522428 -30.46747,0 0,-2.38749 4.61628,-1.07822 0,-46.209543 -4.30853,-0.847175 0,-2.464509 20.31165,0 0,2.464509 -4.69322,0.847175 0,46.055503 7.61687,0 4.38547,-12.39956 2.53895,0 0,16.01931 z m 31.69849,-26.1854 c 0,-21.48744 -3.69303,-24.799124 -8.00156,-24.799124 -4.30853,0 -8.694,2.849589 -8.694,24.028964 0,21.41042 3.69302,24.87613 8.07849,24.87613 4.30853,0 8.61707,-3.08063 8.61707,-24.10597 l 0,0 z m -475.40035,0.077 c 0,-21.487434 -3.76996,-24.722102 -8.15543,-24.722102 -4.46241,0 -8.77094,2.772573 -8.77094,23.951942 0,21.41042 3.8469,24.79912 8.23237,24.79912 4.30853,0 8.694,-2.9266 8.694,-24.02896 l 0,0 z m 167.64806,22.48864 3.30834,0 c 6.23198,0 9.15563,-3.3887 9.15563,-22.71969 0,-19.716066 -3.38528,-23.181782 -9.38645,-23.181782 l -3.07752,0 0,45.901472 z m -56.16479,-33.11683 -4.23159,16.94349 9.38644,0 -5.15485,-16.94349 z m 234.96887,0 -4.15466,16.94349 9.23257,0 -5.07791,-16.94349 z m -61.70433,26.1854 c 2.8467,0 5.23179,2.54153 5.23179,5.69918 0,3.23467 -2.53896,5.77619 -5.38567,5.77619 -2.69283,0 -5.23179,-2.54152 -5.23179,-5.77619 0,-3.15765 2.69283,-5.69918 5.38567,-5.69918 l 0,0 z" />
+</svg>
+            <span class="u-sr-only">Folha de S.Paulo</span>
+          </div>
+          <div class="col col--sm-5-10">
+            <div class="c-lang c-lang--secondary">
+              <svg width="13" height="13" viewBox="0 0 13 13" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" aria-hidden="true" class="icon icon-flag--usa  icon--tiny ">
+  <title>United States of America flag</title>
+
+  <defs>
+    <circle cx="6.5" cy="6.5" r="6.5"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <g mask="url(#b)">
+      <circle cx="6.5" cy="6.5" r="6.5" fill="#FFF"/>
+      <path d="M0 12.133h13V13H0v-.867zm0-3.466h13V10.4H0V8.667zM6.933 5.2H13v1.733H6.933V5.2zm0-3.467H13v1.734H6.933V1.733z" fill="#B22234"/>
+      <path fill="#3C3B6E" d="M0 0h6.933v6.933H0z"/>
+    </g>
+  </g>
+</svg>
+              <span>English version</span>
+            </div>
+          </div>
+        </div>
+
+        <a href="#top" class="l-footer__link l-footer__link--back-to-top"><span>Top</span> <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" class="icon icon--chevron-up" aria-hidden="true">
+  <path d="M 17.75,14.199375 16.39875,15.550625 12,11.161458 7.60125,15.550625 6.25,14.199375 l 5.75,-5.75 5.75,5.75 z"/>
+</svg>
+</a>
+      </div>
+
+      <div class="l-footer__content">
+        <div class="l-footer__section">
+          <div class="row">
+            <div class="col u-visible-md">
+              <nav>
+                <div class="row "><div class="col col--xs-1-1 col--sm-1-1 col--md-1-1"><ul class="l-footer__nav l-footer__nav--horizontal">
+          <li>
+                  <a href="https://www1.folha.uol.com.br/institucional/en/">
+        
+        Know the Folha Group
+                  </a>
+              </li>
+          <li>
+                  <a href="https://www1.folha.uol.com.br/institucional/en/editorial_guidelines.shtml?fill=2">
+        
+        Editorial Guidelines
+                  </a>
+              </li>
+          <li>
+                  <a href="https://www1.folha.uol.com.br/institucional/en/training.shtml?fill=9">
+        
+        Training
+                  </a>
+              </li>
+          <li>
+                  <a href="https://www1.folha.uol.com.br/institucional/en/archive_and_copyright.shtml?fill=11">
+        
+        Archive and Copyright
+                  </a>
+              </li>
+      </ul>
+</div></div>
+<!--!-->              </nav>
+            </div>
+          </div>
+
+          <div class="flex flex--gutter flex--col flex--md-row">
+            <div class="col-fixed col-fixed--md-300">
+              <div data-newsletter data-newsletter-no-options class="c-newsletter">
+                <h4 class="c-heading c-heading--tiny">newsletter</h4>
+                <form class="c-form__default js-newsletter-form">
+                  
+                  <div class="c-newsletter__wrapper">
+                    <input type="email" class="c-newsletter__text js-validator" name="email" placeholder="Type your email"/>
+                    <button type="button" class="c-newsletter__button js-button"><svg xmlns="http://www.w3.org/2000/svg" width="21" height="18" viewBox="0 0 21 18" class="icon icon--arrow-rigth">
+    <path fill="#333" fill-rule="evenodd" d="M21 9L.01 0 0 7l15 2-15 2 .01 7z"/>
+</svg>
+</button>
+                  </div>
+
+                  
+                  <span class="c-form__error-message c-newsletter__error-message" id="validation-error"></span>
+                  <p class="c-form__info-message js-newsletter-loading is-hidden" aria-busy="false" aria-hidden="true">Carregando...</p>
+
+                  
+                  <input type="hidden" id="ingles" value="ingles" name="input-data">
+                </form>
+              </div>
+            </div>
+
+            <div class="flex-cell flex-cell--center">
+              <p class="l-footer__copyright">
+                <small>Copyright Folha de S.Paulo. All rights reserved. All materials contained in this page may not be reproduced in any media, whether electronic or printed, without the prior written permission of <a href="mailto:pesquisa@folhapress.com.br">Folhapress</a>.</small>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+              <div class="c-modal" data-modal-newsletter>
+  <div class="c-modal__content" data-content>
+    <div class="c-modal__head">
+      NEWSLETTER
+      <button class="c-modal__close" data-close>
+        <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24" class="icon icon--close  icon--tiny " aria-hidden="true">
+  <path d="M16 1.61L14.39 0 8 6.39 1.61 0 0 1.61 6.39 8 0 14.39 1.61 16 8 9.61 14.39 16 16 14.39 9.61 8z"/>
+</svg>
+      </button>
+    </div>
+    <div class="c-modal__body c-newsletter__modal">
+      <span class="c-form__error-message c-newsletter__error-message c-newsletter__error-no-selected is-hidden" data-newsletter-none-selected id="validation-error">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" class="icon icon--alert "><title>Ãcone alerta</title>
+          <path d="M8 0C3.584 0 0 3.584 0 8s3.584 8 8 8 8-3.584 8-8-3.584-8-8-8zm.8
+          12H7.2v-1.6h1.6zm0-3.2H7.2V4h1.6z"></path>
+        </svg>
+        Por favor, selecione uma das opÃ§Ãµes abaixo.
+      </span>
+
+      <form id="form_newsletter" role="form" class="c-form js-newsletter-form" action="#" method="POST" data-newsletter-form>
+        <fieldset class="c-newsletter__fieldset">
+          <div class="c-form__checkbox">
+            <input type="checkbox" id="ingles" value="ingles" name="check-box" checked>
+            <label class="c-newsletter__label" for="ingles">News in English</label>
+          </div>
+        </fieldset>
+
+        <div class="c-newsletter__box-button">
+          <a data-close class="c-button">Cancelar</a>
+          <button class="c-button c-button--primary" name="origin_id" data-send>Confirmar</button>
+        </div>
+      </form>
+
+      <div class="c-newsletter__feedback is-hidden" data-newsletter-feedback="success">
+        <p>Seu e-mail foi cadastrado com sucesso!</p>
+        <div class="c-newsletter__box-button">
+          <a data-close class="c-button c-button--primary">Ok</a>
+        </div>
+      </div>
+      <div class="c-newsletter__feedback is-hidden" data-newsletter-feedback="error">
+        <p>Por favor, tente mais tarde!</p>
+        <div class="c-newsletter__box-button">
+          <a data-close class="c-button c-button--primary">Ok</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-modal__overlay" data-overlay></div>
+</div>
+      
+              <script src="https://static.folha.uol.com.br/storybook/js/portal-0fc03bae68.js"></script>      
+      
+      <div id="banner-1x1-area"></div>
+
+            <script>
+      //chartbeat
+      var _sf_async_config = {};
+      _sf_async_config.sections = "internacional-en-science-and-health";
+      </script>
+
+      
+<script>
+//UOLTM - ads
+//
+document.querySelectorAll(".c-advertising__banner-area").forEach(function(ad){window.uolads.push({id:ad.id})});
+window.uolads.push({id:"banner-1x1-area"});
+//
+
+//IVC
+(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalIvcNamespace=p.GlobalIvcNamespace||[];
+p.GlobalIvcNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//gadasource.storage.googleapis.com/ivc.js","ivc"));
+window.ivc('newTracker','cf','ivccf.ivcbrasil.org.br',{idWeb:'125'});
+window.ivc('trackPageView');
+
+//chartbeat
+var _sf_async_config = _sf_async_config || {};
+_sf_async_config.uid = 50059;
+_sf_async_config.domain = 'folha.com.br';
+_sf_async_config.useCanonical = true;
+_sf_async_config.authors = 'Folha';
+_sf_async_config.articleBlockSelector = 'div.c-headline';
+(function(){
+var r="anon";try{var u=universal_variable.aud.userType;"logged"==u?r="lgdin":"subscriber"==u&&(r="paid")}catch{}var _cbq=window._cbq=window._cbq||[];_cbq.push(["_acct",r]);
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src', 'https://static.chartbeat.com/js/chartbeat.js');
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+// ga event relacionadas
+(function(){
+function cclear(str){
+	var out = '';
+	if (str.length > 0) {
+		out = ' ' + str.replace(/'|"|`/g, '').replace(/  /g, '');
+	}
+	return out;
+}
+document.querySelectorAll('#c-news .c-newslist').forEach(
+	component => {
+		var title = cclear(component.parentNode.querySelector('.c-section-title').textContent);
+		component.querySelectorAll('a').forEach(
+			(elem, index) => {
+				elem.setAttribute('onclick',`UOLPD.Audience.countClick({category:'ct-news',action:'clique${title}',label:'pos ${index}'})`);
+			}
+		);
+	}
+)
+})();
+</script>
+
+      
+<script src="//static.folha.uol.com.br/plugins/stats/1.0/stats.js"></script>
+
+      <!--//-->
+              <script src="https://static.folha.uol.com.br/folha/js/push/firebase-init.js?2019011701"></script>
+          </div>
+  </body>
+</html>

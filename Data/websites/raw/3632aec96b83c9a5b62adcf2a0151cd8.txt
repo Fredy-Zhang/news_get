@@ -1,0 +1,534 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta id="tdviewport" name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="news_keywords" content="cambodia, covid-19, fake news, free speech, politics">
+<meta property="og:title" content="Cambodian Government Using Fake News Law To Silence Critics And Coronavirus Reporting" />
+<meta property="og:description" content="In 2018, Cambodia&#039;s government passed a &quot;fake news&quot; law. It was enacted shortly before a general election, allowing the government to stifle criticism of the Prime Minister. It also required all local websites to register with the..." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.techdirt.com/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml" />
+<meta property="og:image" content="https://ii.techdirt.com/s/t/i/td_icon_300.png" />
+<meta property="og:site_name" content="Techdirt." />
+<meta property="fb:admins" content="589029834" />
+<meta property="fb:app_id" content="207400865951050" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@techdirt" />
+<meta name="twitter:title" content="Cambodian Government Using Fake News Law To Silence Critics And Coronavirus Reporting" />
+<meta name="twitter:description" content="In 2018, Cambodia&#039;s government passed a &quot;fake news&quot; law. It was enacted shortly before a general election, allowing the..." />
+<meta name="twitter:image" content="https://ii.techdirt.com/s/t/i/td_icon_300.png">
+<title>Cambodian Government Using Fake News Law To Silence Critics And Coronavirus Reporting | Techdirt</title>
+<link rel="canonical" type="text/html" href="https://www.techdirt.com/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml" />
+<link rel="shortlink" type="text/html" href="https://tdrt.io/hT3" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/comment_rss.php?sid=20200430/14270944416">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+<link rel="styleSheet" type="text/css" href="https://ii.techdirt.com/s/t/styles/techdirt.css?v=3612-c391" />
+<link rel="styleSheet" type="text/css" href="https://ii.techdirt.com/s/t/styles/comment_styles.css?v=3612-c391" />
+<script type="text/javascript" src="https://www.google.com/jsapi?key=ABQIAAAAP1-MNFVAklfwK5qmyUi6NxQZwUsFJbig14JSRSVYVQkoD9a3mRSdvg7cYYJvTKbSxH1uhcSj2BLX-w"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><script src="https://ii.techdirt.com/s/t/scripts/techdirt.js?v=3612-c391" type="text/javascript" language="javascript"></script>
+<script type="text/javascript" language="javascript">
+var sid = '20200430/14270944416';
+var base_path = 'https://www.techdirt.com';
+</script>
+<script src="https://ii.techdirt.com/s/t/scripts/td-jq-cmnt.js?v=3612-c391" type="text/javascript" language="javascript"></script>
+<link href="https://fonts.googleapis.com/css?family=Raleway:400,600,600i,800" rel="stylesheet">
+<script type="text/javascript">
+var iroot = 'https://ii.techdirt.com/s/t/i';
+</script>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-275652-1', 'auto');
+ga('set', 'dimension1', 'anonymous');
+ga('set', 'dimension2', 'n/a');
+ga('set', 'dimension3', 'yes');
+ga('set', 'dimension4', 'Article');
+ga('set', 'dimension5', '1');
+ga('send', 'pageview');
+ga('send', 'event', 'Article Page', 'View Page', 'https://www.techdirt.com/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml');
+</script>
+
+<script type="text/javascript" src="https://s3.amazonaws.com/widgets.stackcommerce.com/js-deal-feed/0.1/widget.js"></script>
+<script type="text/javascript"> var googletag = googletag || {}; googletag.cmd = googletag.cmd || []; </script>
+<script type="text/javascript"> var snhb = snhb || {}; snhb.queue = snhb.queue || []; </script>
+<script src="//cmp.tech426.com/latest/sncmp_stub.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+  __cmp('fullOptOut', null, function() {});
+  snhb.options = {
+    gdpr: {
+      mainGeo: "us", // 'eu' or 'us', default 'eu',
+      reconsiderationAppealFunction: function() {                    
+        window.__cmp('showConsentTool');
+      }
+    }
+  }
+</script>
+<script type="text/javascript">
+  googletag.cmd.push(function() {
+    googletag.pubads().disableInitialLoad();
+    googletag.pubads().enableSingleRequest();
+    var additionalAdSlots = [];
+    additionalAdSlots.push( googletag.defineSlot('/54692344/ATF_300x250', [[300, 250], [300, 600]], 'div-gpt-ad-1485380025559-0').addService(googletag.pubads()) );
+    additionalAdSlots.push( googletag.defineSlot('/54692344/BTF_300x250', [300, 250], 'div-gpt-ad-1485380025559-1').addService(googletag.pubads()) );
+    additionalAdSlots.push( googletag.defineSlot('/54692344/BTF_300x250_2', [[300, 250], [300, 600]], 'div-gpt-ad-1485380025559-2').addService(googletag.pubads()));
+    snhb.queue.push(function(){
+        snhb.addAdditionalAdSlotsToRefresh(additionalAdSlots);
+    });
+    googletag.enableServices();
+  });
+</script>
+<script async type="text/javascript" src="//cdn.tech426.com/snhb/light/20200129/snhb-cmp.min.js"></script>
+</head>
+<body class="edition-freespeech">
+<div id="toppromo" name="top_covid"><img onclick="ga('send', 'event', 'TD Promos', 'Click Link', 'CLOSE: top_covid');" id="topclose" src="https://ii.techdirt.com/s/t/i/topclose.png" alt="Hide" title="Hide This Announcement" />These are tough times for everyone, us included. If you're able to help us continue our reporting, <a href="https://www.techdirt.com/pages/support.php" style="font-weight:bold;">check out our list of ways to support Techdirt &raquo;</a></div>
+<div id="toppromo_shadow" name="top_covid"><img onclick="ga('send', 'event', 'TD Promos', 'Click Link', 'CLOSE: top_covid');" id="topclose_s" src="https://ii.techdirt.com/s/t/i/topclose.png" alt="Hide" title="Hide This Announcement" />These are tough times for everyone, us included. If you're able to help us continue our reporting, <a href="https://www.techdirt.com/pages/support.php" style="font-weight:bold;">check out our list of ways to support Techdirt &raquo;</a></div>
+<div id="top">
+<div id="header">
+<div id="hdr_search">
+<form action="/search-g.php" method="get">
+<input class="searchq" type="text" size="16" name="q" placeholder="Search Techdirt" /><button class="icon"><i class="fa fa-search" style="margin:auto"></i></button>
+</form>
+</div>
+<div id="hdr_logo">
+<a href="/"><img class="hdr_title" src="https://ii.techdirt.com/s/t/i/logos/techdirt.svg" alt="Techdirt." border="0" /></a><br /><p class="hdr_edition_title"><a href="/blog/freespeech/">Free Speech</a></p><br></div>
+<div id="hdr_nav">
+<div id="hdr_nav_user">
+<input type="checkbox" id="user-toggle">
+<label for="user-toggle"><i class="fas fa-user" style="padding:5px;"></i></label>
+<ul class="user_menu">
+<li><a href="/signin.php?nexturl=https%3A%2F%2Fwww.techdirt.com%2Farticles%2F20200430%2F14270944416%2Fcambodian-government-using-fake-news-law-to-silence-cri">Sign In</a></li>
+<li><a href="/register.php">Register</a></li>
+<li><a href="/preferences.php">Preferences</a></li>
+</ul>
+</div>
+<div id="hdr_nav_tabs">
+<input type="checkbox" id="tabs-toggle">
+<label for="tabs-toggle">Free Speech <i class="fas fa-bars" style="color:#eeeeee"></i></label>
+<ul class="tabs_menu">
+<li id="edition-tab-techdirt"><a href="/">Techdirt</a></li>
+<li id="edition-tab-freespeech"><a href="/blog/freespeech/">Free Speech</a></li>
+<li class="spacer">&nbsp;</li>
+<li class="tab_deals"><a href="https://deals.techdirt.com">Deals</a></li>
+<li class="tab_jobs"><a href="https://jobs.techdirt.com">Jobs</a></li>
+<li class="tab_support"><a href="/pages/support.php">Support Techdirt</a></li>
+</ul>
+</div>
+</div></div>
+</div>
+<div id="middle">
+<div id="maincol-wrap">
+<div id="maincolumn">
+<div class="maincolumn_head">
+</div> 
+<div id="maincol_top">
+<div style="background:#dddddd;padding:6px 7px;">
+<a href="https://www.techdirt.com/blog/podcast/"><img src="https://ii.techdirt.com/s/t/i/podcast-title-small.png" style="display:block;float:left;margin-right:12px;" /></a>
+<div style="width:calc(100% - 130px);max-width:556px;float:left;"><iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/770281939&amp;color=2665ad&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe></div><div style="clear:both;"></div>
+</div></div><div class="storynav techdirt" style="margin-top:5px;">
+<div class="storynav-prev">
+<a onclick="ga('send', 'event', 'Story Nav (Article)', 'Click Link', 'Previous Techdirt Post');" title="previous Techdirt post: Cable TV Customers Are Rightfully Pissed They&#39;re Still Paying For Cancelled Sports Programming" href="/articles/20200429/11544444409/cable-tv-customers-are-rightfully-pissed-theyre-still-paying-cancelled-sports-programming.shtml" style="color:#777777;">Cable TV Customers Are Rightfully Pissed They&#39;re Still Paying For Cancelled Sports Programming</a></div><div class="storynav-next">
+<a onclick="ga('send', 'event', 'Story Nav (Article)', 'Click Link', 'Next Techdirt Post');" title="next Techdirt post: Daily Deal: Complete Developer And IT Pro Library -- Unlimited Access" href="/articles/20200504/10080744428/daily-deal-complete-developer-it-pro-library-unlimited-access.shtml" style="color:#777777;">Daily Deal: Complete Developer And IT Pro Library -- Unlimited Access</a></div>
+</div>
+<div class="storynav">
+<div class="storynav-prev">
+<a onclick="ga('send', 'event', 'Story Nav (Article)', 'Click Link', 'Previous Free Speech Post');" title="previous Free Speech post: If You&#39;re Complaining About COVID-19 Misinformation Online AND About Section 230, You&#39;re Doing It Wrong" href="/articles/20200428/22384344400/if-youre-complaining-about-covid-19-misinformation-online-about-section-230-youre-doing-it-wrong.shtml">If You&#39;re Complaining About COVID-19 Misinformation Online AND About Section 230, You&#39;re Doing It Wrong</a></div>
+<div class="storynav-next nolink">
+&nbsp;</div>
+</div>
+<br clear="all" />
+
+<div id="p73155" class="storyblock edition-freespeech">
+<div class="storywrap">
+<div class="story">
+<div class="postbody">
+<h1 class="posttitle">Cambodian Government Using Fake News Law To Silence Critics And Coronavirus Reporting</h1><div class="details">
+<a href="/search.php?tid=freespeech&search=Search"><span class="topic_icon" style="background-position: -160px -408px;"></span></a>
+<p><a href="/search.php?tid=freespeech&search=Search">Free Speech</a></p>
+</div>
+<h3>from the <i>redefining-speech-protections-to-protect-the-gov't-against-speech</i> dept</h3><div class="byline"><span class="pub_date">Mon, May 4th 2020 9:04am</span> &mdash;
+<a href="/user/capitalisliontamer">Tim Cushing</a></div>
+<p>
+In 2018, Cambodia's government passed <a href="https://www.techdirt.com/articles/20180717/13072440254/cambodian-government-latest-to-stifle-press-with-fake-news-legislation.shtml">a "fake news" law</a>. It was enacted shortly before a general election, allowing the government to stifle criticism of the Prime Minister. It also required all local websites to register with the government and put government employees to work scouring social media for violations.
+</p>
+<p>
+The government's new power to decide what is or isn't "real" news allowed it to consolidate its power over the local press. One newspaper was sold to a Malaysian firm that also performed PR work for the Prime Minister, giving the PM the ability to produce news unlikely to ever be classified as "fake."
+</p>
+<p>
+The appearance of the coronavirus in Cambodia has resulted in a spike in "fake news" arrests. A crisis like this shouldn't be allowed to go to waste and the Cambodian government is making the most of its new powers to silence critics, stifle dissent, and <a href="https://www.hrw.org/news/2020/04/29/cambodia-covid-19-spurs-bogus-fake-news-arrests#">punish anyone who doesn't have nice things to say about the party in power</a>.
+</p>
+<blockquote>
+<p>
+<em>Human Rights Watch documented <a href="https://www.hrw.org/video-photos/interactive/2020/03/23/list-arrests-and-persons-detention-covid-19-related-offenses">30 arbitrary arrests</a> between late January and April 2020. Fourteen people remain in pretrial detention, apparently on baseless charges, including incitement, conspiracy, incitement of military personnel to disobedience, and spreading false information or &ldquo;fake news.&rdquo; Among those arrested in addition to the opposition activists was a journalist quoting a speech by Prime Minister Hun Sen, and ordinary Cambodians who criticized the government&rsquo;s response to the Covid-19 pandemic. The authorities released two on bail, one of whom was hospitalized. Their charges remain pending.</em>
+</p>
+</blockquote>
+<p>
+Part of this effort is apparently meant to deter citizens from reporting accurately about the spread of infection. Cambodia reported 122 positive cases but also claims there have been no new positive COVID-19 tests in the past 16 days. It appears the government wants its citizens -- and perhaps the rest of the world -- to believe the threat has passed, or is, at least, firmly under control. Many of those arrested were accused of posting "fake news" about COVID-19 to social media.
+</p>
+<p>
+Even directly quoting the Prime Minister appears to be a crime under this law, as well as the new powers the government handed to itself by declaring a state of emergency.
+</p>
+<blockquote>
+<p>
+<em>On April 7, Phnom Penh police arrested an online journalist, Sovann Rithy, for allegedly &ldquo;stirring chaos by quoting from a Hun Sen speech: &ldquo;If motorbike-taxi drivers go bankrupt [because of the pandemic], sell your motorbikes for spending money. The government does not have the ability to help.&rdquo; The authorities charged Rithy with &ldquo;incitement to commit a felony&rdquo; and ordered his detention at Phnom Penh&rsquo;s Police Judiciare detention facility. The Information Ministry revoked the license for his online broadcasting site, TVFB, on grounds that Rithy had broadcast information &ldquo;to generate an adverse effect on the security, public order and safety of society.&rdquo;</em>
+</p>
+</blockquote>
+<p>
+This is the way "fake news" laws are used. Very rarely do these laws target anyone spreading false information. They're almost always used to silence criticism and allow governments to control the narrative. The President of the United States popularized <a href="https://www.techdirt.com/articles/20180627/17123840122/fake-news-is-meaningless-term-our-obsession-over-it-continues-to-harm-actual-news.shtml">the term "fake news,"</a> and almost every single use of the term by Trump refers to press coverage or press outlets he doesn't personally like. It has nothing to do with the accuracy of their reporting. The same goes elsewhere in the world, but the idea to treat "fake news" as a crime, rather than protected expression, is a lot easier to enact in countries where free speech protections are more minimal. And once these laws are enacted, they'll be in place forever.
+</p><p class="filed">Filed Under: <a href="/blog/?tag=cambodia">cambodia</a>, <a href="/blog/?tag=covid-19">covid-19</a>, <a href="/blog/?tag=fake+news">fake news</a>, <a href="/blog/?tag=free+speech">free speech</a>, <a href="/blog/?tag=politics">politics</a></p></div>
+</div>
+</div> 
+<div class="storyfooter">
+<a name="share"></a><div class="storytools">
+<div class="sharetools" style="float:right;">
+<a class="share_pop" title="Short Link - right-click to copy" target="_blank" href="https://tdrt.io/hT3"><span class="share_button share_link"></span></a>
+<a onclick="ga('send', 'event', 'Share Bar (Article)', 'Share', 'Email Story');" class="share_pop" title="Email this" target="_blank" href="https://www.techdirt.com/emailthis.php?et_url=https://www.techdirt.com/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml"><span class="share_button share_email"></span></a>
+<a onclick="ga('send', 'event', 'Share Bar (Article)', 'Share', 'Twitter');" class="share_pop" title="Tweet" target="_blank" href="https://twitter.com/share?url=https%3A%2F%2Ftdrt.io%2FhT3&text=Cambodian+Government+Using+Fake+News+Law+To+Silence+Critics+And+Coronavirus+Reporting&via=Techdirt"><span class="share_button share_twitter"></span></a>
+<a onclick="ga('send', 'event', 'Share Bar (Article)', 'Share', 'Facebook Share');" class="share_pop" title="Share on Facebook" target="_blank" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.techdirt.com%2Farticles%2F20200430%2F14270944416%2Fcambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml&t=Cambodian+Government+Using+Fake+News+Law+To+Silence+Critics+And+Coronavirus+Reporting"><span class="share_button share_facebook"></span></a>
+<a onclick="ga('send', 'event', 'Share Bar (Article)', 'Share', 'Reddit');" class="share_pop" title="Reddit This!" target="_blank" href="https://reddit.com/submit?url=https%3A%2F%2Fwww.techdirt.com%2Farticles%2F20200430%2F14270944416%2Fcambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml&title=Cambodian+Government+Using+Fake+News+Law+To+Silence+Critics+And+Coronavirus+Reporting"><span class="share_button share_reddit"></span></a>
+<a onclick="ga('send', 'event', 'Share Bar (Article)', 'Share', 'LinkedIn');" class="share_pop" title="Share on LinkedIn" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&ro=false&title=Cambodian+Government+Using+Fake+News+Law+To+Silence+Critics+And+Coronavirus+Reporting&url=https%3A%2F%2Fwww.techdirt.com%2Farticles%2F20200430%2F14270944416%2Fcambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml"><span class="share_button share_linkedin"></span></a>
+</div>
+<div class="storylinks"><a href="https://www.techdirt.com/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml#comments" onclick="ga('send', 'event', 'Article (Index)', 'Click Link', 'Article 1 Comments');">6 Comments</a> | <a href="https://www.techdirt.com/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml#addyourcomment" onclick="ga('send', 'event', 'Article (Index)', 'Click Link', 'Article 1 Leave Comment');">Leave a Comment</a></div>
+</div>
+</div> 
+<br clear="both" />
+
+<div class="relposts">
+<div class="maincolumn_head">If you liked this post, you may also be interested in...</div>
+<div class="maincolmod">
+<ul>
+<li><a onClick="ga('send', 'event', 'Related Posts (Article)', 'Click Link', 'Related Post 1');" href="/articles/20200428/22384344400/if-youre-complaining-about-covid-19-misinformation-online-about-section-230-youre-doing-it-wrong.shtml">If You&#39;re Complaining About COVID-19 Misinformation Online AND About Section 230, You&#39;re Doing It Wrong</a></li>
+<li><a onClick="ga('send', 'event', 'Related Posts (Article)', 'Click Link', 'Related Post 2');" href="/articles/20200427/23312244389/china-tried-to-get-eu-not-to-release-report-chinas-covid-19-disinformation-efforts.shtml">China Tried To Get The EU Not To Release A Report On China&#39;s COVID-19 Disinformation Efforts</a></li>
+<li><a onClick="ga('send', 'event', 'Related Posts (Article)', 'Click Link', 'Related Post 3');" href="/articles/20200426/18124644380/how-can-anyone-argue-with-straight-face-that-chinas-approach-to-speech-online-is-better-than-uss-during-pandemic.shtml">How Can Anyone Argue With A Straight Face That China&#39;s Approach To Speech Online Is Better Than The US&#39;s During A Pandemic</a></li>
+<li><a onClick="ga('send', 'event', 'Related Posts (Article)', 'Click Link', 'Related Post 4');" href="/articles/20200428/02061344391/reluctant-to-block-embarrassing-coronavirus-material-held-github-china-targets-people-who-put-it-there.shtml">Reluctant To Block Embarrassing Coronavirus Material Held On GitHub, China Targets The People Who Put It There</a></li>
+<li><a onClick="ga('send', 'event', 'Related Posts (Article)', 'Click Link', 'Related Post 5');" href="/articles/20200428/00301644390/sean-hannity-hires-charles-harder-to-threaten-ny-times-reporters-because-course-he-does.shtml">Sean Hannity Hires Charles Harder To Threaten The NY Times And Its Reporters, Because Of Course He Does</a></li>
+</ul>
+</div>
+</div>
+
+</div> <a name="comments"></a>
+<div class="comments">
+<h2 style="margin-bottom:10px;">Reader Comments</h2>
+<p style="float:right;position:relative;z-index:1;">Subscribe: <a href="/comment_rss.php?sid=20200430/14270944416" rel="nofollow">RSS</a></p>
+<p style="float:left;">View by: <a href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml?threaded=false&sp=1#comments" onclick="javascript:setPreference('tdCommentsThreaded', 0, true);return false;">Time</a> | <a href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml?threaded=true&sp=1#comments" onclick="javascript:setPreference('tdCommentsThreaded', 1, true);return false;">Thread</a></p>
+<br style="clear:both" />
+<ul class="comments">
+<li id="c13" class="cmt">
+<div id="cc13">
+<div class="comment-buttons" id="rc_13"><a rel="nofollow" href="/bounce/rate-comment.php?rc=ins_20200430/14270944416_13" value="0" id="ins_20200430/14270944416_13" class="rate_comment insightful-button"></a><a rel="nofollow" href="/bounce/rate-comment.php?rc=fun_20200430/14270944416_13" value="0" id="fun_20200430/14270944416_13" class="rate_comment funny-button"></a><a href="https://rtb.techdirt.com/products/credits/" class="fw-button off" target="_blank"></a><a href="https://rtb.techdirt.com/products/credits/" class="lw-button off" target="_blank"></a><a rel="nofollow" href="/bounce/rate-comment.php?rc=rpt_20200430/14270944416_13" value="0" id="rpt_20200430/14270944416_13" class="rate_comment report-button"></a></div>
+<div class="commentname"><img class="cmnt-icon tds" src="https://ii.techdirt.com/s/t/i/user/19/11/15/u191115_30x0.jpg" width="30" alt="icon" /><div style="display:inline;"><b>Anonymous Anonymous Coward</b> (<a href="/user/anonymousanonymouscoward">profile</a>), <i>4 May 2020 @ 7:48am</i></div><br style="clear:both;" /></div>
+<h3 class="commentsubject">Do as we say, not as we do.</h3><div class="cbody"><p> I would call it funny how authoritarian governments around the world are so afraid of free speech, if it wasn't so horrifying. I don't have the same compunction for power that they seem to have, so I don't understand it. I recognize it, but I don't understand it.</p>
+<p>These psychopaths don't seem to realize that their populations will only stand for this for so long before they do something about it. Yes those in power tend to have the military and police on their  side, but at some point, the non psychopaths in those ranks might come to understand how the policies exhibited impact their friends and families. The question then will be how to go about replacing governments with non-psychopaths, something even we haven't figured out yet.</p>
+<p>Yes there a a couple of totalitarian regimes that have managed to exist for quite a while now, but things change, and the rate of change is ever increasing. It is only a matter of time, how much time is unknown.</p>
+<p>Jailing and/or killing those that speak truth to power only creates martyrs for the cause, something those in power actually don't want. How they will react when they come to this realization will be interesting to watch, but I doubt I will still be around when it happens (too old and there is no current expectation for this to happen quickly).</p></div><p class="cmt_ops">[&nbsp;<a class="cmtrp" href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml?cid=13#addyourcomment" cid="13" subject="Do as we say, not as we do." cid="13" title="Reply to this comment..." id="cmmt_link_13" rel="nofollow">reply to this</a>&nbsp;|&nbsp;<a href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml#c13">link to this</a>&nbsp;|&nbsp;<a href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml?threaded=false#c13">view in chronology</a>&nbsp;]
+</p>
+</div>
+<li id="c20" class="cmt">
+<div id="cc20">
+<div class="comment-buttons" id="rc_20"><a rel="nofollow" href="/bounce/rate-comment.php?rc=ins_20200430/14270944416_20" value="0" id="ins_20200430/14270944416_20" class="rate_comment insightful-button"></a><a rel="nofollow" href="/bounce/rate-comment.php?rc=fun_20200430/14270944416_20" value="0" id="fun_20200430/14270944416_20" class="rate_comment funny-button"></a><a href="https://rtb.techdirt.com/products/credits/" class="fw-button off" target="_blank"></a><a href="https://rtb.techdirt.com/products/credits/" class="lw-button off" target="_blank"></a><a rel="nofollow" href="/bounce/rate-comment.php?rc=rpt_20200430/14270944416_20" value="0" id="rpt_20200430/14270944416_20" class="rate_comment report-button"></a></div>
+<div class="commentname"><img class="cmnt-icon tds" src="https://ii.techdirt.com/s/t/i/user/no-icon.jpg" width="30" alt="icon" /><div style="display:inline;"><b>That One Guy</b> (<a href="/user/thatoneguy">profile</a>), <i>4 May 2020 @ 8:36am</i></div><br style="clear:both;" /></div>
+<h3 class="commentsubject">1984 would be proud. George Orwell not so much</h3><div class="cbody"><p> With 'fake news' defined pretty much from the outset as 'speech that those in power don't like' while it's disgusting to see it used like this it is sadly not in any way surprising. </p>
+<p>'Fake news' laws have never been, and never will be, about protecting the <em> public</em>, they are there to protect the powerful from those that would speak against them or say things that might be 'inconvenient' and should be seen and treated as such.</p></div><p class="cmt_ops">[&nbsp;<a class="cmtrp" href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml?cid=20#addyourcomment" cid="20" subject="1984 would be proud. George Orwell not so much" cid="20" title="Reply to this comment..." id="cmmt_link_20" rel="nofollow">reply to this</a>&nbsp;|&nbsp;<a href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml#c20">link to this</a>&nbsp;|&nbsp;<a href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml?threaded=false#c20">view in chronology</a>&nbsp;]
+</p>
+</div>
+<li id="c41" class="cmt">
+<div id="cc41">
+<div class="comment-buttons" id="rc_41"><a rel="nofollow" href="/bounce/rate-comment.php?rc=ins_20200430/14270944416_41" value="0" id="ins_20200430/14270944416_41" class="rate_comment insightful-button"></a><a rel="nofollow" href="/bounce/rate-comment.php?rc=fun_20200430/14270944416_41" value="0" id="fun_20200430/14270944416_41" class="rate_comment funny-button"></a><a href="https://rtb.techdirt.com/products/credits/" class="fw-button off" target="_blank"></a><a href="https://rtb.techdirt.com/products/credits/" class="lw-button off" target="_blank"></a><a rel="nofollow" href="/bounce/rate-comment.php?rc=rpt_20200430/14270944416_41" value="0" id="rpt_20200430/14270944416_41" class="rate_comment report-button"></a></div>
+<div class="commentname"><img src="https://www.gravatar.com/avatar/945df1d06c0dfcf2058730ab10aed6d4?d=identicon&s=20" width="20" height="20" alt="identicon" /><div style="display:inline;"><b>Anonymous Coward</b>, <i>4 May 2020 @ 9:39am</i></div><br style="clear:both;" /></div>
+<div class="cbody"><p> those concerned obviously had some very good teachers. cant imagine who!!</p></div><p class="cmt_ops">[&nbsp;<a class="cmtrp" href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml?cid=41#addyourcomment" cid="41" subject="" cid="41" title="Reply to this comment..." id="cmmt_link_41" rel="nofollow">reply to this</a>&nbsp;|&nbsp;<a href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml#c41">link to this</a>&nbsp;|&nbsp;<a href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml?threaded=false#c41">view in chronology</a>&nbsp;]
+</p>
+</div>
+<li id="c66" class="cmt">
+<div id="cc66">
+<div class="comment-buttons" id="rc_66"><a rel="nofollow" href="/bounce/rate-comment.php?rc=ins_20200430/14270944416_66" value="0" id="ins_20200430/14270944416_66" class="rate_comment insightful-button"></a><a rel="nofollow" href="/bounce/rate-comment.php?rc=fun_20200430/14270944416_66" value="0" id="fun_20200430/14270944416_66" class="rate_comment funny-button"></a><a href="https://rtb.techdirt.com/products/credits/" class="fw-button off" target="_blank"></a><a href="https://rtb.techdirt.com/products/credits/" class="lw-button off" target="_blank"></a><a rel="nofollow" href="/bounce/rate-comment.php?rc=rpt_20200430/14270944416_66" value="0" id="rpt_20200430/14270944416_66" class="rate_comment report-button"></a></div>
+<div class="commentname"><img class="cmnt-icon" src="https://ii.techdirt.com/s/t/i/user/25/u2515_30x0.jpg" width="30" alt="icon" /><div style="display:inline;"><b>ECA</b> (<a href="/user/eca">profile</a>), <i>4 May 2020 @ 12:08pm</i></div><br style="clear:both;" /></div>
+<h3 class="commentsubject">Truth and Sci-fi</h3><div class="cbody"><p> Dont ya love it.<br />
+the real fun part is reversing WHO to point fingers at.<br />
+Insted of pointing them at the Lower masses of people, and very little of those in the middle. Much concern is that those lower are confused by those on the upper levels of Society and gov. and corps.</p>
+<p>Without Clarification from above, what do we have below? We get to Guess and comment and make opinions. And those above Come down and Beat us in the head for Their incompetence.</p></div><p class="cmt_ops">[&nbsp;<a class="cmtrp" href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml?cid=66#addyourcomment" cid="66" subject="Truth and Sci-fi" cid="66" title="Reply to this comment..." id="cmmt_link_66" rel="nofollow">reply to this</a>&nbsp;|&nbsp;<a href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml#c66">link to this</a>&nbsp;|&nbsp;<a href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml?threaded=false#c66">view in chronology</a>&nbsp;]
+</p>
+</div>
+<li id="c82" class="cmt">
+<div id="cc82">
+<div class="comment-buttons" id="rc_82"><a rel="nofollow" href="/bounce/rate-comment.php?rc=ins_20200430/14270944416_82" value="0" id="ins_20200430/14270944416_82" class="rate_comment insightful-button"></a><a rel="nofollow" href="/bounce/rate-comment.php?rc=fun_20200430/14270944416_82" value="0" id="fun_20200430/14270944416_82" class="rate_comment funny-button"></a><a href="https://rtb.techdirt.com/products/credits/" class="fw-button off" target="_blank"></a><a href="https://rtb.techdirt.com/products/credits/" class="lw-button off" target="_blank"></a><a rel="nofollow" href="/bounce/rate-comment.php?rc=rpt_20200430/14270944416_82" value="0" id="rpt_20200430/14270944416_82" class="rate_comment report-button"></a></div>
+<div class="commentname"><img src="https://www.gravatar.com/avatar/75e90714da1033e883479bd9ba8b6ccd?d=identicon&s=20" width="20" height="20" alt="identicon" /><div style="display:inline;"><b>Anonymous Coward</b>, <i>4 May 2020 @ 1:32pm</i></div><br style="clear:both;" /></div>
+<div class="cbody"><p> The &quot;fake news&quot; wasn't coined by the US. The gov of Cambodia appears to be correct that large parts of the coverage of it are misleading enough to be fake even if it's all mostly true at some level.</p></div><p class="cmt_ops">[&nbsp;<a class="cmtrp" href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml?cid=82#addyourcomment" cid="82" subject="" cid="82" title="Reply to this comment..." id="cmmt_link_82" rel="nofollow">reply to this</a>&nbsp;|&nbsp;<a href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml#c82">link to this</a>&nbsp;|&nbsp;<a href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml?threaded=false#c82">view in chronology</a>&nbsp;]
+</p>
+</div>
+<ul class="comments nest">
+<li id="c99" class="cmt">
+<div id="cc99">
+<div class="comment-buttons" id="rc_99"><a rel="nofollow" href="/bounce/rate-comment.php?rc=ins_20200430/14270944416_99" value="0" id="ins_20200430/14270944416_99" class="rate_comment insightful-button"></a><a rel="nofollow" href="/bounce/rate-comment.php?rc=fun_20200430/14270944416_99" value="0" id="fun_20200430/14270944416_99" class="rate_comment funny-button"></a><a href="https://rtb.techdirt.com/products/credits/" class="fw-button off" target="_blank"></a><a href="https://rtb.techdirt.com/products/credits/" class="lw-button off" target="_blank"></a><a rel="nofollow" href="/bounce/rate-comment.php?rc=rpt_20200430/14270944416_99" value="0" id="rpt_20200430/14270944416_99" class="rate_comment report-button"></a></div>
+<div class="commentname"><img class="cmnt-icon" src="https://ii.techdirt.com/s/t/i/user/no-icon.jpg" width="30" alt="icon" /><div style="display:inline;"><b>Ben</b> (<a href="/user/benketteridge">profile</a>), <i>5 May 2020 @ 1:15am</i></div><br style="clear:both;" /></div>
+<h3 class="commentsubject">Re:</h3><div class="cbody"><p> [citation needed]</p></div><p class="cmt_ops">[&nbsp;<a class="cmtrp" href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml?cid=99#addyourcomment" cid="99" subject="Re:" cid="99" title="Reply to this comment..." id="cmmt_link_99" rel="nofollow">reply to this</a>&nbsp;|&nbsp;<a href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml#c99">link to this</a>&nbsp;|&nbsp;<a href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml?threaded=false#c99">view in chronology</a>&nbsp;]
+</p>
+</div>
+</li>
+</ul>
+</ul>
+<br /><a name="addyourcomment"></a>
+<h3>Add Your Comment</h3>
+<div id="comment-add">
+<form class="comment-form" name="commentform" action="/comment_process.php" method="post">
+<input type="hidden" name="nospam" value="yes" />
+<input type="hidden" name="sid" value="20200430/14270944416" /><input type="hidden" name="replycid" value="0" />
+<p>Have a Techdirt Account? <a href="/signin.php?nexturl=https%3A%2F%2Fwww.techdirt.com%2Farticles%2F20200430%2F14270944416%2Fcambodian-government-using-fake-news-law-to-silence-cri"><b>Sign in now</b></a>. Want one? <a href="/register.php?nexturl=https%3A%2F%2Fwww.techdirt.com%2Farticles%2F20200430%2F14270944416%2Fcambodian-government-using-fake-news-law-to-silence-cri"><b>Register here</b></a></p>
+<input class="name" type="text" name="postername" value="" placeholder="name" /><br>
+<input class="email" type="text" name="posteremail" value="" placeholder="email" /><br>
+<p style="text-align:center;max-width:500px;"><input type="checkbox" name="emailsignup" value="yes" /> Subscribe to the <a href="https://listserv.techdirt.com/cgi-bin/dada/mail.cgi/list/techdirt/">Techdirt Daily</a> newsletter</p>
+<input class="url" type="text" name="posterurl" maxlength="255" value="" placeholder="url" /><br>
+<input class="subject" id="subject" type="text" name="postersubj" maxlength="64" value="" placeholder="subject" /><br>
+<textarea name="postercomment" placeholder="comment" rows="10" style="display:none;">this is for spambots, do not use this</textarea>
+<textarea class="comment" name="p1stercomment" placeholder="comment" rows="10"></textarea><br>
+<p>
+Comment Options:
+<ul>
+<li>
+<input type="radio" name="mrkdwn" checked="checked" value='1' title="Format with markdown" /> Use <a href="http://commonmark.org/help/" target="_blank">markdown</a>.
+<input type="radio" name="mrkdwn" value='0' title="Use plain text." /> Use plain text.
+</li>
+<li>Remember name/email/url (set a cookie) <input type="checkbox" name="cookie" /></li></ul>
+</p>
+<input type="submit" name="mode" value="Submit" class="td-button" /> <input type="submit" name="mode" value="Preview" class="td-button" />
+</form></div>
+
+<div id="comment-reply" class="creply-form">
+<a href="#" class="cmmt_close">Close</a>
+<h3>Add A Reply</h3>
+<form class="comment-form" name="commentform" action="/comment_process.php" method="post">
+<input type="hidden" name="nospam" value="yes" />
+<input type="hidden" name="sid" value="20200430/14270944416" /><input type="hidden" name="replycid" id="replycid" value="0" />
+<p>Have a Techdirt Account? <a href="/signin.php?nexturl=https%3A%2F%2Fwww.techdirt.com%2Farticles%2F20200430%2F14270944416%2Fcambodian-government-using-fake-news-law-to-silence-cri"><b>Sign in now</b></a>. Want one? <a href="/register.php?nexturl=https%3A%2F%2Fwww.techdirt.com%2Farticles%2F20200430%2F14270944416%2Fcambodian-government-using-fake-news-law-to-silence-cri"><b>Register here</b></a></p>
+<input class="name" type="text" name="postername" value="" placeholder="name" /><br>
+<input class="email" type="text" name="posteremail" value="" placeholder="email" /><br>
+<p style="text-align:center;max-width:500px;"><input type="checkbox" name="emailsignup" value="yes" /> Subscribe to the <a href="https://listserv.techdirt.com/cgi-bin/dada/mail.cgi/list/techdirt/">Techdirt Daily</a> newsletter</p>
+<input class="url" type="text" name="posterurl" maxlength="255" value="" placeholder="url" /><br>
+<input class="subject" id="replysubject" type="text" name="postersubj" maxlength="64" value="" placeholder="subject" /><br>
+<textarea name="postercomment" placeholder="comment" rows="10" style="display:none;">this is for spambots, do not use this</textarea>
+<textarea class="comment" name="p1stercomment" placeholder="comment" rows="10"></textarea><br>
+<p>
+Comment Options:
+<ul>
+<li>
+<input type="radio" name="mrkdwn" checked="checked" value='1' title="Format with markdown" /> Use <a href="http://commonmark.org/help/" target="_blank">markdown</a>.
+<input type="radio" name="mrkdwn" value='0' title="Use plain text." /> Use plain text.
+</li>
+<li>Remember name/email/url (set a cookie) <input type="checkbox" name="cookie" /></li></ul>
+</p>
+<input type="submit" name="mode" value="Submit" class="td-button" /> <input type="submit" name="mode" value="Preview" class="td-button" />
+</form></div>
+</div>
+<script type="text/javascript">
+var fcnt = 0;
+var icnt = 0;
+</script>
+
+<div class="storynav techdirt" style="margin-top:5px;">
+<div class="storynav-prev">
+<a onclick="ga('send', 'event', 'Story Nav (Article)', 'Click Link', 'Previous Techdirt Post');" title="previous Techdirt post: Cable TV Customers Are Rightfully Pissed They&#39;re Still Paying For Cancelled Sports Programming" href="/articles/20200429/11544444409/cable-tv-customers-are-rightfully-pissed-theyre-still-paying-cancelled-sports-programming.shtml" style="color:#777777;">Cable TV Customers Are Rightfully Pissed They&#39;re Still Paying For Cancelled Sports Programming</a></div><div class="storynav-next">
+<a onclick="ga('send', 'event', 'Story Nav (Article)', 'Click Link', 'Next Techdirt Post');" title="next Techdirt post: Daily Deal: Complete Developer And IT Pro Library -- Unlimited Access" href="/articles/20200504/10080744428/daily-deal-complete-developer-it-pro-library-unlimited-access.shtml" style="color:#777777;">Daily Deal: Complete Developer And IT Pro Library -- Unlimited Access</a></div>
+</div>
+<div class="storynav">
+<div class="storynav-prev">
+<a onclick="ga('send', 'event', 'Story Nav (Article)', 'Click Link', 'Previous Free Speech Post');" title="previous Free Speech post: If You&#39;re Complaining About COVID-19 Misinformation Online AND About Section 230, You&#39;re Doing It Wrong" href="/articles/20200428/22384344400/if-youre-complaining-about-covid-19-misinformation-online-about-section-230-youre-doing-it-wrong.shtml">If You&#39;re Complaining About COVID-19 Misinformation Online AND About Section 230, You&#39;re Doing It Wrong</a></div>
+<div class="storynav-next nolink">
+&nbsp;</div>
+</div>
+</div> 
+</div> 
+<div id="rightcolumn">
+<script type="text/javascript">
+var etpg = 'Article';
+</script>
+<div class="rightcolumn_head">Follow Techdirt</div>
+<div class="rightcolumn_main" style="text-align:center;">
+<div id="subscribe">
+<a title="Follow us on Twitter" href="https://twitter.com/techdirt" target="_blank" onclick="ga('send', 'event', 'Follow Techdirt (Article)', 'Click', 'Follow - Twitter');" class="follow twitter"></a>
+<a title="Become a fan on Facebook" href="https://www.facebook.com/techdirt" target="_blank" onclick="ga('send', 'event', 'Follow Techdirt (Article)', 'Click', 'Follow - Facebook');" class="follow facebook"></a>
+<a title="Subscribe to our Newsletter" id="email_sub_tgl" href="https://news.techdirt.com/cgi-bin/dada/mail.cgi/list/tddaily" class="follow email"></a>
+<a title="Subscribe to our RSS Feed" href="/techdirt_rss.xml" rel="nofollow" class="follow rss" onclick="(function(btn){var z=document.createElement('script');document.subtomeBtn=btn;z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})(this);return false;" data-subtome-feeds="https://www.techdirt.com/techdirt_rss.xml"></a>
+<a title="Subscribe to our Podcast" href="/podcast.xml" rel="nofollow" class="follow podcast"></a>
+<div id="email_sub_form" class="hidden">
+<h3>Techdirt Daily Newsletter</h3>
+<form action="https://news.techdirt.com/cgi-bin/dada/mail.cgi" method="post" style="margin-top:3px;">
+<input name="f" value="subscribe" type="hidden" />
+<input name="email" placeholder="Enter Your Email Address" size="25" maxlength="1024" type="text" /><input value="Subscribe" type="submit" />
+<input name="list" value="tddaily" type="hidden" />
+</form>
+</div>
+</div>
+</div><div class="rightcolumn_head">Insider Shop - Show Your Support!</div>
+<div id="rtcol_1">
+<a href="https://rtb.techdirt.com/"><img src="https://ii.techdirt.com/s/t/images/promo/insider-promo-gen-2-300x75.png" onclick="_gaq.push(['_trackEvent', 'Promo', 'Click', 'Insider Shop - RC Top']);" /></a><br />
+</div><div class="rightcolumn_head">Advertisement</div>
+<div id="rtcol_2" class="ad">
+
+<div id="div-gpt-ad-1485380025559-0" style="max-height:600px; width:300px;">
+<script> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1485380025559-0'); }); </script>
+</div></div>
+<div style="margin:0;padding:3px 5px 5px 5px;text-align:center;"><a href="/badad.php" style="font-style:italic;font-size:11px;" target="_blank" onclick="window.open('/badad.php', 'Report a bad ad on Techdirt', 'width=600,height=600,location=0,menubar=0,scrollbars=1,status=0,titlebar=1,toolbar=0', false);return(false);" rel="nofollow">Report this ad</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/preferences.php" style="font-style:italic;font-size:11px;">Hide Techdirt ads</a></div><style type="text/css">
+</style>
+<div class="rightcolumn_head">Essential Reading</div>
+<div class="rightcolumn_main">
+<div id="recreading">
+<h4>New To Techdirt?</h4>
+<p>Explore some core concepts:</p>
+<ul id="new-to-techdirt"><li><a href="/articles/20070125/004949/step-one-to-embracing-lack-scarcity-recognize-what-market-youre-really.shtml" onclick="ga('send', 'event', 'Editors Spotlight (Article)', 'Click Link', 'Spotlight 1');">Step One To Embracing A Lack Of Scarcity: Recognize What Market You're Really In</a></li>
+<li><a href="/articles/20120210/02273417726/how-being-more-open-human-awesome-can-save-anyone-worried-about-making-money-entertainment.shtml" onclick="ga('send', 'event', 'Editors Spotlight (Article)', 'Click Link', 'Spotlight 2');">How Being More Open, Human And Awesome Can Save Anyone Worried About Making Money In Entertainment</a></li>
+<li><a href="/articles/20070215/002923/saying-you-cant-compete-with-free-is-saying-you-cant-compete-period.shtml" onclick="ga('send', 'event', 'Editors Spotlight (Article)', 'Click Link', 'Spotlight 3');">Saying You Can't Compete With Free Is Saying You Can't Compete Period</a></li>
+</ul>
+<p style="text-align:right;"><a href="/blog/?tag=techdirt+feature">read all <span style="color:#f6aa4e;">&#187;</span></a></p>
+<hr />
+<h4>Trending Posts</h4>
+<ul id="trending-posts">
+<li class="ranked">
+<a onclick="ga('send', 'event', 'Trending Posts (Article)', 'Click Link', '#1 Trending Post');" class="toppost-value" style="background-color:#ffaa33;border:#ffaa33;" href="/articles/20200426/17195244378/quibi-is-what-happens-when-hollywood-overvalues-content-undervalues-community.shtml" title="">&nbsp;</a>
+<a onclick="ga('send', 'event', 'Trending Posts (Article)', 'Click Link', '#1 Trending Post');" class="toppost-title" href="/articles/20200426/17195244378/quibi-is-what-happens-when-hollywood-overvalues-content-undervalues-community.shtml" title="Quibi Is What Happens When Hollywood Overvalues Content And Undervalues Community">Quibi Is What Happens When Hollywood Overvalues Content And Undervalues Community</a>
+</li>
+<li class="ranked">
+<a onclick="ga('send', 'event', 'Trending Posts (Article)', 'Click Link', '#2 Trending Post');" class="toppost-value" style="background-color:#ffca44;border:#ffca44;" href="/articles/20200504/10502544429/tim-bray-early-internet-guru-amazon-vp-quits-over-chickenshit-companys-targeting-employees-speaking-out-about-covid-19.shtml" title="">&nbsp;</a>
+<a onclick="ga('send', 'event', 'Trending Posts (Article)', 'Click Link', '#2 Trending Post');" class="toppost-title" href="/articles/20200504/10502544429/tim-bray-early-internet-guru-amazon-vp-quits-over-chickenshit-companys-targeting-employees-speaking-out-about-covid-19.shtml" title="Tim Bray, Early Internet Guru, And Amazon VP Quits Over The &#39;Chickenshit&#39; Company&#39;s Targeting Of Employees Speaking Out About COVID-19">Tim Bray, Early Internet Guru, And Amazon VP Quits Over The &#39;Chickenshit&#39; Company&#39;s Targeting Of Employees Speaking Out About COVID-19</a>
+</li>
+<li class="ranked">
+<a onclick="ga('send', 'event', 'Trending Posts (Article)', 'Click Link', '#3 Trending Post');" class="toppost-value" style="background-color:#ffea55;border:#ffea55;" href="/articles/20200421/15301544347/famed-law-professor-richard-epsteins-ever-changing-claims-about-how-many-people-will-die-covid-19.shtml" title="">&nbsp;</a>
+<a onclick="ga('send', 'event', 'Trending Posts (Article)', 'Click Link', '#3 Trending Post');" class="toppost-title" href="/articles/20200421/15301544347/famed-law-professor-richard-epsteins-ever-changing-claims-about-how-many-people-will-die-covid-19.shtml" title="Famed Law Professor Richard Epstein&#39;s Ever Changing Claims About How Many People Will Die From COVID-19">Famed Law Professor Richard Epstein&#39;s Ever Changing Claims About How Many People Will Die From COVID-19</a>
+</li>
+</ul>
+</div>
+</div><div class="rightcolumn_head">Techdirt Deals</div>
+<div id="rtcol_3" class="ad">
+
+<div data-sc-widget data-publisher-id="93" data-layout="vertical" data-categories="88,90,91" data-show-see-all="false" data-title-size="24" data-items-per-page="1" data-col-count="1"></div></div>
+<div style="margin:0;padding:3px 5px 5px 5px;text-align:center;"><a href="/badad.php" style="font-style:italic;font-size:11px;" target="_blank" onclick="window.open('/badad.php', 'Report a bad ad on Techdirt', 'width=600,height=600,location=0,menubar=0,scrollbars=1,status=0,titlebar=1,toolbar=0', false);return(false);" rel="nofollow">Report this ad</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/preferences.php" style="font-style:italic;font-size:11px;">Hide Techdirt ads</a></div><link href="https://ii.techdirt.com/s/t/styles/styles_tdichat.css?v=3612-c391" rel="styleSheet" type="text/css" />
+<div class="rightcolumn_head">Techdirt Insider Chat</div>
+<div id="chatwrapper" class="shoutbox">
+<br /><div id="chatbox">
+<div id="chatmsgs">
+&nbsp;
+</div>
+</div>
+<div id="chatfooter">
+<p style="text-align:center;padding:10px;padding-top:0;"><a href="https://rtb.techdirt.com/products/watercooler/" class="greenbutton">Join the Insider Chat</a></p>
+</div>
+</div>
+<script type="text/javascript">
+var iroot = 'https://ii.techdirt.com/s/t/i';
+var chat_standalone = false;
+var chat_id = '8b3786da';
+</script>
+<script src="https://ii.techdirt.com/s/t/scripts/td-jq-ichat.js?v=3612-c391" type="text/javascript" language="javascript"></script>
+<script type="text/javascript">
+$j(document).ready(function() { loadChatPreview(); });
+</script>
+<div class="rightcolumn_head">Advertisement</div>
+<div id="rtcol_5" class="ad">
+
+<div id="div-gpt-ad-1485380025559-1" style="height:250px;width:300px;">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1485380025559-1'); });
+</script>
+</div></div>
+<div style="margin:0;padding:3px 5px 5px 5px;text-align:center;"><a href="/badad.php" style="font-style:italic;font-size:11px;" target="_blank" onclick="window.open('/badad.php', 'Report a bad ad on Techdirt', 'width=600,height=600,location=0,menubar=0,scrollbars=1,status=0,titlebar=1,toolbar=0', false);return(false);" rel="nofollow">Report this ad</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/preferences.php" style="font-style:italic;font-size:11px;">Hide Techdirt ads</a></div><div class="rightcolumn_head">Recent Stories</div>
+<div class="rightcolumn_main">
+<table>
+<tr><td colspan="2"><h2 class="olderstuff"><a href="/blog/freespeech/?d=4&m=5&y=2020" onclick="ga('send', 'event', 'Recent Stories (Article)', 'Click Link', 'Monday Link');">Monday</a></h2></td></tr><tr><td class="olderstuff">09:04</td>
+<td class="olderstuff"><a href="/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml" onclick="ga('send', 'event', 'Recent Stories (Article)', 'Click Link', 'Article Link 1');">Cambodian Government Using Fake News Law To Silence Critics And Coronavirus Reporting</a> (6)</td></tr><tr><td colspan="2"><h2 class="olderstuff"><a href="/blog/freespeech/?d=1&m=5&y=2020" onclick="ga('send', 'event', 'Recent Stories (Article)', 'Click Link', 'Friday Link');">Friday</a></h2></td></tr><tr><td class="olderstuff">13:41</td>
+<td class="olderstuff"><a href="/articles/20200428/22384344400/if-youre-complaining-about-covid-19-misinformation-online-about-section-230-youre-doing-it-wrong.shtml" onclick="ga('send', 'event', 'Recent Stories (Article)', 'Click Link', 'Article Link 2');">If You&#39;re Complaining About COVID-19 Misinformation Online AND About Section 230, You&#39;re Doing It Wrong</a> (36)</td></tr><tr><td colspan="2"><h2 class="olderstuff"><a href="/blog/freespeech/?d=30&m=4&y=2020" onclick="ga('send', 'event', 'Recent Stories (Article)', 'Click Link', 'Thursday Link');">Thursday</a></h2></td></tr><tr><td class="olderstuff">15:27</td>
+<td class="olderstuff"><a href="/articles/20200427/23312244389/china-tried-to-get-eu-not-to-release-report-chinas-covid-19-disinformation-efforts.shtml" onclick="ga('send', 'event', 'Recent Stories (Article)', 'Click Link', 'Article Link 3');">China Tried To Get The EU Not To Release A Report On China&#39;s COVID-19 Disinformation Efforts</a> (21)</td></tr><tr><td class="olderstuff">09:46</td>
+<td class="olderstuff"><a href="/articles/20200426/18124644380/how-can-anyone-argue-with-straight-face-that-chinas-approach-to-speech-online-is-better-than-uss-during-pandemic.shtml" onclick="ga('send', 'event', 'Recent Stories (Article)', 'Click Link', 'Article Link 4');">How Can Anyone Argue With A Straight Face That China&#39;s Approach To Speech Online Is Better Than The US&#39;s During A Pandemic</a> (41)</td></tr><tr><td colspan="2"><h2 class="olderstuff"><a href="/blog/freespeech/?d=29&m=4&y=2020" onclick="ga('send', 'event', 'Recent Stories (Article)', 'Click Link', 'Wednesday Link');">Wednesday</a></h2></td></tr><tr><td class="olderstuff">03:38</td>
+<td class="olderstuff"><a href="/articles/20200428/02061344391/reluctant-to-block-embarrassing-coronavirus-material-held-github-china-targets-people-who-put-it-there.shtml" onclick="ga('send', 'event', 'Recent Stories (Article)', 'Click Link', 'Article Link 5');">Reluctant To Block Embarrassing Coronavirus Material Held On GitHub, China Targets The People Who Put It There</a> (25)</td></tr><tr><td colspan="2"><h2 class="olderstuff"><a href="/blog/freespeech/?d=28&m=4&y=2020" onclick="ga('send', 'event', 'Recent Stories (Article)', 'Click Link', 'Tuesday Link');">Tuesday</a></h2></td></tr><tr><td class="olderstuff">12:08</td>
+<td class="olderstuff"><a href="/articles/20200428/00301644390/sean-hannity-hires-charles-harder-to-threaten-ny-times-reporters-because-course-he-does.shtml" onclick="ga('send', 'event', 'Recent Stories (Article)', 'Click Link', 'Article Link 6');">Sean Hannity Hires Charles Harder To Threaten The NY Times And Its Reporters, Because Of Course He Does</a> (128)</td></tr><tr><td class="olderstuff">09:37</td>
+<td class="olderstuff"><a href="/articles/20200425/14502544371/supreme-court-needs-to-reverse-fifth-circuits-awful-ruling-deray-mckesson-case.shtml" onclick="ga('send', 'event', 'Recent Stories (Article)', 'Click Link', 'Article Link 7');">The Supreme Court Needs To Reverse The Fifth Circuit&#39;s Awful Ruling In The DeRay McKesson Case</a> (44)</td></tr><tr><td colspan="2"><h2 class="olderstuff"><a href="/blog/freespeech/?d=27&m=4&y=2020" onclick="ga('send', 'event', 'Recent Stories (Article)', 'Click Link', 'Monday Link');">Monday</a></h2></td></tr><tr><td class="olderstuff">13:33</td>
+<td class="olderstuff"><a href="/articles/20200426/16594244377/new-jersey-corrections-officials-temporarily-banned-released-prisoners-talking-to-journalists.shtml" onclick="ga('send', 'event', 'Recent Stories (Article)', 'Click Link', 'Article Link 8');">New Jersey Corrections Officials (Temporarily) Banned Released Prisoners From Talking To Journalists</a> (8)</td></tr></table>
+<h5><a href="/search.php?start=10&edition=freespeech&search=Search" onclick="ga('send', 'event', 'Recent Stories (Article)', 'Click Link', 'More Link');">More</a>&nbsp;<img alt="arrow" src="https://ii.techdirt.com/s/t/i/widget_arrow.gif" width="14" height="14" hspace="0" vspace="0" border="0" /></h5>
+</div><div class="rightcolumn_head">Advertisement</div>
+<div id="rtcol_6" class="ad">
+
+<div id="div-gpt-ad-1485380025559-2" style="width:300px;">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1485380025559-2'); });
+</script>
+</div></div>
+<div style="margin:0;padding:3px 5px 5px 5px;text-align:center;"><a href="/badad.php" style="font-style:italic;font-size:11px;" target="_blank" onclick="window.open('/badad.php', 'Report a bad ad on Techdirt', 'width=600,height=600,location=0,menubar=0,scrollbars=1,status=0,titlebar=1,toolbar=0', false);return(false);" rel="nofollow">Report this ad</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/preferences.php" style="font-style:italic;font-size:11px;">Hide Techdirt ads</a></div></div> 
+</div>
+<div id="bottom">
+<div id="pagefoot">
+<div class="ftrlinks">
+<div>
+<div class="ftrpanel">
+<h1>Tools &amp; Services</h1>
+<a href="https://www.twitter.com/techdirt/">Twitter</a><br />
+<a href="https://www.facebook.com/techdirt">Facebook</a><br />
+<a href="/techdirt_rss.xml">RSS</a><br />
+<a href="/podcast.xml">Podcast</a><br />
+<a href="/research.php">Research &amp; Reports</a><br />
+</div>
+<div class="ftrpanel">
+<h1>Company</h1>
+<a href="/about.php">About Us</a><br />
+<a href="/adpolicies.php">Advertising Policies</a><br />
+<a href="/privacy.php">Privacy</a><br />
+</div>
+</div>
+<div>
+<div class="ftrpanel">
+<h1>Contact</h1>
+<a href="/contact.php">Help &amp; Feedback</a><br />
+<a href="/mediakit">Media Kit</a><br />
+<a href="/contact.php?cat=Ads">Sponsor/Advertise</a><br />
+<a href="/submitstory.php">Submit a Story</a><br />
+</div>
+<div class="ftrpanel">
+<h1>More</h1>
+<a href="https://copia.is">Copia Institute</a><br />
+<a href="https://rtb.techdirt.com/">Insider Shop</a><br />
+<a href="/pages/support.php">Support Techdirt</a><br />
+</div>
+</div>
+</div>
+<div class="ftrpanel ftrlogo">
+<a href=""><img src="https://ii.techdirt.com/s/t/i/td_logov140.png" /></a>
+</div>
+<br style="clear:both;" /><br />
+<div style="text-align:center;">
+Brought to you by <a href="http://www.floor64.com/">Floor64</a>
+</div>
+</div>
+<br style="clear:both;" />
+<div id="ca_ad_priv_btn" name="ca_ad_priv_btn" class="sncmp sncmp-usp-link">CA Advertising Privacy Preferences</div>
+<script type="text/javascript">
+__uspapi('setUSPLink', 1, function() {}, 'ca_ad_priv_btn');
+</script>
+</div>
+<div id="et_popup">
+<a href="#" class="et_close">Close</a>
+<p>Email This</p>
+<div id="email_this">
+<p style="color:#000000;">This feature is only available to registered users. <a href="/register.php">Register</a> or <a href="/signin.php">sign in</a> to use it.</p></div></div>
+<script type="text/javascript">
+var _sf_async_config = {};
+/** CONFIGURATION START **/
+_sf_async_config.uid = 22794;
+_sf_async_config.domain = "techdirt.com";
+_sf_async_config.path = "/articles/20200430/14270944416/cambodian-government-using-fake-news-law-to-silence-critics-coronavirus-reporting.shtml";/** CONFIGURATION END **/
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute(
+'src',
+(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+"js/chartbeat.js"
+);
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+</body>
+</html>

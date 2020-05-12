@@ -1,0 +1,2207 @@
+<!doctype html><html amp="" lang="en"><head><meta charset="utf-8"/><title>Coronavirus: Wuhan lab virus claim knocked back by Australian intelligence</title><script async="" src="https://cdn.ampproject.org/v0.js"></script><script async="" custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script><script async="" custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script><script async="" custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script><script async="" custom-element="amp-geo" src="https://cdn.ampproject.org/v0/amp-geo-0.1.js"></script><script async="" custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script><script async="" custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script><script async="" custom-element="amp-sticky-ad" src="https://cdn.ampproject.org/v0/amp-sticky-ad-1.0.js"></script><script async="" custom-element="amp-subscriptions" src="https://cdn.ampproject.org/v0/amp-subscriptions-0.1.js"></script><script async="" custom-element="amp-subscriptions-google" src="https://cdn.ampproject.org/v0/amp-subscriptions-google-0.1.js"></script><script type="application/json" id="amp-subscriptions">{"fallbackEntitlement":{"data":{"promptType":"no_prompt"},"granted":true,"grantReason":"METERING","source":"fallback"},"score":{"isReadyToPay":0,"supportsViewer":0},"services":[{"actions":{"login":"https://www.smh.com.au/login?requester=google-amp&rid=READER_ID","subscribe":"https://smh.myfairfax.com.au/members/subscriptions/new?brand=&bundle_key=smh_webonly&callback_uri=https%3A%2F%2Fwww.smh.com.au&channel_key=zHE9EWDHf1XPuz3Phk0YIg&single_use_token=true&show_promotion=true&promotion_code=smhwa2250for3-pkbjja&promote_channel=HI_PW_AMP"},"authorizationUrl":"https://api.ffx.io/api/metering/v0/authorization?assetID=p54pk3&assetType=article&brand=smh&categories=Politics&categories=Federal&rid=READER_ID&sponsored=false&tags=Coronavirus%20pandemic&tags=China&tags=United%20States%20of%20America&tags=Scott%20Morrison&tags=Canberra&tags=Justin%20Pierre%20James%20Trudeau&tags=Michael%20Richard%20Pompeo&tags=Five%20eyes&tags=Trump's%20America&tags=Donald%20John%20Trump&tags=Trump%20diplomacy&tags=Trump's%20White%20House&tags=Chinese%20Communist%20Party","baseScore":99,"pingbackUrl":"https://api.ffx.io/api/metering/v0/pingback?assetID=p54pk3&referrer=DOCUMENT_REFERRER&rid=READER_ID"},{"serviceId":"subscribe.google.com"}]}</script><script async="" custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script><script async="" custom-element="amp-brightcove" src="https://cdn.ampproject.org/v0/amp-brightcove-0.1.js"></script><link rel="canonical" href="https://www.smh.com.au/politics/federal/australian-intelligence-knocks-back-us-government-s-wuhan-lab-virus-claim-20200504-p54pk3.html"/><link rel="apple-touch-icon" href="/apple-touch-icon.png"/><link rel="icon" href="/favicon.ico" type="image/x-icon"/><meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"/><style amp-boilerplate="">body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate="">body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript><style amp-custom="">/*
+This file acts as a bundler for all variables/mixins/themes, so they
+can easily be swapped out without `core.scss` ever having to know.
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+* {
+  box-sizing: border-box; }
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  font: inherit;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+  border: 0; }
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+main,
+nav,
+section,
+summary {
+  display: block; }
+
+body {
+  line-height: 1; }
+
+ol,
+ul {
+  list-style: none; }
+
+blockquote,
+q {
+  quotes: none; }
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-spacing: 0;
+  border-collapse: collapse; }
+
+abbr {
+  text-decoration: none; }
+
+button,
+input:not([type='radio']):not([type='checkbox']) {
+  -webkit-appearance: none; }
+
+input[type=search] {
+  -webkit-appearance: textfield; }
+
+button {
+  font: inherit; }
+
+/*
+  Font family: Abril Titling
+*/
+@font-face {
+  font-family: 'Abril Titling Bold';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  /* https://css-tricks.com/really-dislike-fout-font-display-optional-might-jam */
+  src: url(/assets/c67d7077.woff2) format("woff2"), url(/assets/76d4d4e2.woff) format("woff"); }
+
+@font-face {
+  font-family: 'Abril Titling Bold';
+  font-weight: 700;
+  font-style: italic;
+  font-display: fallback;
+  src: url(/assets/b81bb9a1.woff2) format("woff2"), url(/assets/be269ac8.woff) format("woff"); }
+
+/*
+  Font family: PT Sans
+  Source: https://fonts.google.com/specimen/PT+Sans
+*/
+@font-face {
+  font-family: 'PT Sans';
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+  src: url(/assets/dd51f8cf.woff2) format("woff2"), url(/assets/13175aa7.woff) format("woff"); }
+
+@font-face {
+  font-family: 'PT Sans';
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback;
+  src: url(/assets/9ff0e533.woff2) format("woff2"), url(/assets/8edd2fca.woff) format("woff"); }
+
+/*
+  Font family: PT Serifs
+  Source: https://fonts.google.com/specimen/PT+Serif;
+*/
+@font-face {
+  font-family: 'PT Serif';
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+  src: url(/assets/3dffa6aa.woff2) format("woff2"), url(/assets/771a7b18.woff) format("woff"); }
+
+@font-face {
+  font-family: 'PT Serif';
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback;
+  src: url(/assets/b9bc76d6.woff2) format("woff2"), url(/assets/f9402efb.woff) format("woff"); }
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit; }
+
+html,
+body {
+  height: 100%; }
+
+html {
+  box-sizing: border-box;
+  -webkit-overflow-scrolling: touch;
+  -webkit-text-size-adjust: 100%;
+  /* Prevent font scaling when rotating device while allowing user zoom */ }
+
+body {
+  font-family: "Trebuchet MS", "Arial Narrow", sans-serif;
+  color: #0a1633;
+  background-color: #fff; }
+
+a {
+  text-decoration: none;
+  color: #707070; }
+  a:hover, a:focus {
+    transition: color 200ms ease-out;
+    color: #096dd2; }
+
+ {
+  /* Prevent iOS scroll/focus bug on input/textarea focus in modal  */
+  /* Prevent page scroll when comments panel/react modal is active */
+  /* Prevent page scroll when navigation is active on mobile */ }
+  @media only screen and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) {
+    body.overlay {
+      position: absolute;
+      right: 0;
+      left: 0; } }
+  .lock,
+  .ReactModal__Body--open {
+    overflow: hidden; }
+  @media only screen and (max-width: 767px) {
+    .lockMobile {
+      overflow: hidden; } }
+  .htmlAuto {
+    overflow: scroll;
+    height: auto; }
+  body:not(.amp-iso-country-au) .au-geo-filter {
+    display: none; }
+  body.amp-iso-country-au .non-au-geo-filter {
+    display: none; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+  Base font families
+*/
+body {
+  font-family: "Trebuchet MS", "Arial Narrow", sans-serif; }
+  body {
+    font-family: "PT Sans", "Trebuchet MS", "Arial Narrow", sans-serif; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+.Header-header-21UZG {
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #0a1633; }
+  @media only screen and (max-width: 1023px) {
+    .Header-header-21UZG {
+      z-index: 40;
+      position: relative; } }
+  @media only screen and (min-width: 768px) {
+    .Header-header-21UZG {
+      z-index: 50;
+      position: absolute; } }
+
+#content {
+  padding-top: 48px; }
+  @media only screen and (min-width: 768px) {
+    #content {
+      padding-top: 95px; } }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+.Wrap-wrap-h-Jxc {
+  width: 100%;
+  background-color: #0a1633; }
+  .Wrap-wrap-h-Jxc::after {
+    content: '';
+    display: table;
+    clear: both; }
+  @media only screen and (max-width: 767px) {
+    .Wrap-wrap-h-Jxc {
+      z-index: 40;
+      position: absolute; } }
+
+.Wrap-logoWrap-2FAuv {
+  text-align: center; }
+
+.Wrap-stickyHeader-2G56F {
+  position: fixed;
+  top: 0;
+  opacity: 1; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+.Logo-logoWrap-3uPYr {
+  padding: 12px 0 14px; }
+  @media only screen and (max-width: 767px) {
+    .Logo-logoWrap-3uPYr {
+      padding: 12px 0; } }
+
+.Logo-logo-2ABN- {
+  display: block;
+  margin: 0 auto; }
+  @media only screen and (min-width: 768px) {
+    .Logo-logo-2ABN- {
+      width: 221px;
+      height: 29px; } }
+  .Logo-logo-2ABN- h2 {
+    position: absolute;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    white-space: nowrap;
+    border: 0; }
+
+.Logo-alignCenter-2qnYw {
+  margin-right: auto;
+  margin-left: auto; }
+
+.Logo-brisbanetimes-1CPQR {
+  display: inline-block;
+  overflow: hidden;
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  text-indent: -9999px;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  width: 100%;
+  height: 100%;
+  background-image: url(/assets/4ef6ed2c.svg);
+  background-position: 50%;
+  background-size: contain; }
+
+.Logo-smh-YClUs {
+  display: inline-block;
+  overflow: hidden;
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  text-indent: -9999px;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  width: 100%;
+  height: 100%;
+  background-image: url(/assets/57f58c47.svg);
+  background-position: 50%;
+  background-size: contain; }
+
+.Logo-theage-28ZlE {
+  display: inline-block;
+  overflow: hidden;
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  text-indent: -9999px;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  width: 100%;
+  height: 100%;
+  background-image: url(/assets/658bcaaf.svg);
+  background-position: 50%;
+  background-size: contain; }
+
+.Logo-watoday-xY0ge {
+  display: inline-block;
+  overflow: hidden;
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  text-indent: -9999px;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  width: 100%;
+  height: 100%;
+  background-image: url(/assets/6e88c629.svg);
+  background-position: 50%;
+  background-size: contain; }
+
+@media only screen and (max-width: 767px) {
+  .brisbanetimes,
+  .smh,
+  .theage,
+  .watoday {
+    height: 24px; } }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+  Base font families
+*/
+.Article-content-NcqOl {
+  width: auto;
+  max-width: 1168px;
+  float: none;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 0;
+  padding-right: 0;
+  margin-top: 8px; }
+  .Article-content-NcqOl::after {
+    content: '';
+    display: table;
+    clear: both; }
+
+.Article-article-TiyDq {
+  margin-right: 20px;
+  margin-left: 20px; }
+
+.Article-articleSidebar-MpiqP {
+  float: left;
+  width: 300px; }
+  @media only screen and (max-width: 1023px) {
+    .Article-articleSidebar-MpiqP {
+      display: block;
+      clear: both;
+      float: none;
+      width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 24px; }
+      .Article-articleSidebar-MpiqP:first-child {
+        margin-left: auto; }
+      .Article-articleSidebar-MpiqP:last-child {
+        margin-right: auto; } }
+
+.Article-articleBody-2jinH {
+  font-size: 1.0625rem;
+  line-height: 1.41176;
+  font-family: "PT Serif", Georgia, Times, "Times New Roman", serif;
+  color: #0a1633; }
+  @media only screen and (min-width: 1024px) {
+    .Article-articleBody-2jinH {
+      float: right;
+      width: calc(100% - 325px);
+      margin-right: 0; } }
+  @media only screen and (min-width: 768px) {
+    .Article-articleBody-2jinH {
+      font-size: 1.125rem;
+      line-height: 1.77778; } }
+
+.Article-adWrapper-1HJ8N {
+  clear: both; }
+  @media only screen and (max-width: 767px) {
+    .Article-adWrapper-1HJ8N {
+      margin-right: -20px;
+      margin-left: -20px; } }
+  .Article-adWrapper-1HJ8N > div {
+    margin: 0 0 16px;
+    padding: 12px 0 20px;
+    border: 1px solid #d7dbe3;
+    border-width: 1px 0; }
+    @media only screen and (min-width: 768px) {
+      .Article-adWrapper-1HJ8N > div {
+        margin-bottom: 32px;
+        padding: 24px 0; } }
+    @media only screen and (min-width: 1024px) {
+      .Article-adWrapper-1HJ8N > div {
+        margin-bottom: 40px; } }
+    .Article-adWrapper-1HJ8N > div small {
+      bottom: 8px; }
+
+.Article-mostPopular-1Am-z {
+  font-size: 1.0625rem;
+  line-height: 1.41176;
+  font-family: "PT Serif", Georgia, Times, "Times New Roman", serif;
+  color: #0a1633; }
+  @media only screen and (min-width: 1024px) {
+    .Article-mostPopular-1Am-z {
+      float: right;
+      width: calc(100% - 325px);
+      margin-right: 0; } }
+  @media only screen and (min-width: 768px) {
+    .Article-mostPopular-1Am-z {
+      font-size: 1.125rem;
+      line-height: 1.77778; } }
+
+.Article-stickyAd-3aLMt.Article-stickyAd-3aLMt {
+  z-index: 30; }
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  .Article-stickyAd-3aLMt.Article-stickyAd-3aLMt {
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0; }
+    .Article-stickyAd-3aLMt.Article-stickyAd-3aLMt > div {
+      width: 100%;
+      margin-right: 0;
+      margin-left: 0; }
+  .Article-adWrapper-1HJ8N.Article-adWrapper-1HJ8N {
+    margin-right: -20px;
+    margin-left: -20px; }
+    .Article-adWrapper-1HJ8N.Article-adWrapper-1HJ8N > div {
+      width: 100%;
+      margin-right: 0;
+      margin-left: 0; } }
+
+.Article-afterBody-3l0H9 {
+  clear: both;
+  margin-bottom: 40px; }
+
+.Article-sponsored-2mu7W {
+  clear: both;
+  margin-bottom: 24px; }
+
+.Article-CompareAndSave-3iHpT {
+  width: 100%; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+.Ad-adWrapper-1vp2S {
+  z-index: 0;
+  line-height: 1.2;
+  position: relative;
+  clear: both;
+  min-height: 55px;
+  padding: 12px 0 20px; }
+  .Ad-adWrapper-1vp2S::after {
+    content: '';
+    display: table;
+    clear: both; }
+  @media only screen and (min-width: 768px) {
+    .Ad-adWrapper-1vp2S {
+      min-height: 95px;
+      margin-bottom: 40px; } }
+
+.Ad-ad-FZxgn {
+  text-align: center; }
+
+.Ad-adBorder-3GPCp {
+  border: 1px solid #d7dbe3;
+  border-width: 1px 0;
+  margin-bottom: 12px; }
+
+.Ad-topAd-3awwO {
+  border-bottom: 3px solid #0a1633; }
+
+.Ad-isHidden-kHSRv {
+  display: none; }
+
+.Ad-text-37a7h {
+  font-size: 0.5625rem;
+  line-height: 1;
+  font-family: "Trebuchet MS", "Arial Narrow", sans-serif;
+  position: absolute;
+  bottom: -8px;
+  display: none;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  letter-spacing: .5px;
+  color: #707070; }
+  @media only screen and (min-width: 768px) {
+    .Ad-text-37a7h {
+      bottom: -12px; } }
+  @media only screen and (min-width: 768px) {
+    .Ad-text-37a7h.Ad-bottomRight-3cDXp {
+      text-align: right; } }
+
+@media only screen and (min-width: 1024px) {
+  .Ad-oneThirdColumn-1gJ15 {
+    float: left;
+    clear: none;
+    text-align: inherit;
+    width: 31.83333%;
+    margin-left: 0%;
+    margin-right: 2.25%;
+    margin-right: 0; }
+    .Ad-oneThirdColumn-1gJ15::after {
+      content: '';
+      display: table;
+      clear: both; }
+    .Ad-oneThirdColumn-1gJ15:last-child {
+      margin-right: 0%; } }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+.MeterPrompt-meterPrompt-2uQrp {
+  font-size: 0.875rem;
+  line-height: 1;
+  z-index: 1;
+  position: relative;
+  width: 100%;
+  margin: 24px 0 0;
+  padding: 16px 32px 20px;
+  text-align: center;
+  color: #fff;
+  background-color: #192646; }
+  .MeterPrompt-meterPrompt-2uQrp .MeterPrompt-callToAction-3ubRn {
+    margin-top: 16px; }
+
+.MeterPrompt-message-3LN58 {
+  font-size: 1rem;
+  line-height: 1.25;
+  font-family: "Abril Titling Bold", "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+  font-weight: bold;
+  display: block;
+  width: 100%;
+  margin: 0;
+  text-align: center; }
+
+.MeterPrompt-login-TxTRz {
+  cursor: pointer;
+  text-decoration: underline;
+  color: #fff; }
+  .MeterPrompt-login-TxTRz:hover, .MeterPrompt-login-TxTRz:visited {
+    color: #fff; }
+
+.MeterPrompt-callToAction-3ubRn {
+  font-size: 0.8125rem;
+  line-height: 1.23077;
+  font-weight: bold;
+  display: inline-block;
+  padding: 12px 36px;
+  cursor: pointer;
+  text-align: center;
+  white-space: nowrap;
+  letter-spacing: 1.3px;
+  text-transform: uppercase;
+  color: #fff;
+  border-radius: 4px;
+  background-color: #d9172f; }
+  .MeterPrompt-callToAction-3ubRn:active, .MeterPrompt-callToAction-3ubRn:hover, .MeterPrompt-callToAction-3ubRn:visited {
+    text-decoration: none;
+    color: #fff; }
+
+.MeterPrompt-registered-3iM1s {
+  font-size: 0.8125rem;
+  line-height: 1.23077;
+  display: block;
+  width: 100%;
+  margin-top: 16px; }
+  .MeterPrompt-registered-3iM1s a {
+    font-weight: bold;
+    color: #58b5ff; }
+    .MeterPrompt-registered-3iM1s a:hover {
+      color: #58b5ff; }
+
+.MeterPrompt-countRemaining-2ael6 {
+  background: linear-gradient(30deg, #652d59 0%, #d9172f 100%);
+  box-shadow: 0 0 4px rgba(217, 23, 47, 0.2) inset;
+  font-size: 0.8125rem;
+  line-height: 1.23077;
+  font-weight: bold;
+  margin: -16px -32px 24px;
+  padding: 16px 20px;
+  letter-spacing: .5px; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+amp-subscriptions-dialog {
+  margin-bottom: 54px; }
+
+.PaywallPrompt-paywallPrompt-1ftnU:before {
+  z-index: 30;
+  position: relative;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  content: '';
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.5) 0%, white 60%); }
+
+.PaywallPrompt-messaging-3ZXkC {
+  z-index: 40;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 88px 36px 26px;
+  text-align: center;
+  color: #fff;
+  background-color: #192646;
+  box-shadow: -4px -20px 12px -4px rgba(217, 23, 47, 0.2) inset; }
+  @media (max-device-height: 599px) {
+    .PaywallPrompt-messaging-3ZXkC {
+      padding-top: 26px; } }
+  .PaywallPrompt-messaging-3ZXkC:before {
+    position: absolute;
+    top: -76px;
+    right: 0;
+    left: 0;
+    display: block;
+    width: 232px;
+    height: 152px;
+    margin: 0 auto;
+    content: '';
+    background-repeat: no-repeat;
+    background-size: 232px 152px; }
+  .PaywallPrompt-messaging-3ZXkC:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    content: '';
+    background: linear-gradient(to right, #38366a 0%, #d9172f 50%, #38366a 100%); }
+
+.PaywallPrompt-countRemaining-3ykNI {
+  width: 220px;
+  margin: 0 auto;
+  font-size: 0.6875rem;
+  line-height: 1.45455;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase; }
+  .PaywallPrompt-countRemaining-3ykNI:after {
+    display: block;
+    width: 120px;
+    height: 1px;
+    margin: 8px auto 16px;
+    content: '';
+    background: #fff; }
+
+.PaywallPrompt-title-3yrhq {
+  font-size: 1.25rem;
+  line-height: 1.2;
+  font-family: "Abril Titling Bold", "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+  font-weight: bold;
+  margin: 0 auto 8px; }
+
+.PaywallPrompt-message-20t6g {
+  font-size: 0.9375rem;
+  line-height: 1.33333;
+  margin: 0 auto 16px;
+  padding: 0 25px; }
+
+.PaywallPrompt-login-2xiKF {
+  cursor: pointer;
+  text-decoration: underline;
+  color: #fff; }
+  .PaywallPrompt-login-2xiKF:hover, .PaywallPrompt-login-2xiKF:visited {
+    color: #fff; }
+
+.PaywallPrompt-callToAction-Tc5F5 {
+  font-size: 0.8125rem;
+  line-height: 1.23077;
+  font-weight: bold;
+  display: inline-block;
+  margin-bottom: 8px;
+  padding: 12px 48px;
+  cursor: pointer;
+  text-align: center;
+  white-space: nowrap;
+  letter-spacing: 1.3px;
+  text-transform: uppercase;
+  color: #fff;
+  border-radius: 4px;
+  background-color: #d9172f; }
+  .PaywallPrompt-callToAction-Tc5F5:active, .PaywallPrompt-callToAction-Tc5F5:hover, .PaywallPrompt-callToAction-Tc5F5:visited {
+    text-decoration: none;
+    color: #fff; }
+
+.PaywallPrompt-registered-F23nV {
+  font-size: 0.8125rem;
+  line-height: 1.23077;
+  display: block;
+  width: 100%;
+  margin: 0; }
+  .PaywallPrompt-registered-F23nV a {
+    font-weight: bold;
+    color: #58b5ff; }
+    .PaywallPrompt-registered-F23nV a:hover, .PaywallPrompt-registered-F23nV a:visited {
+      color: #58b5ff; }
+
+@media (min-device-height: 600px) {
+  .PaywallPrompt-brand-smh-2w58Q .PaywallPrompt-messaging-3ZXkC:before {
+    background-image: url(/assets/320753c6.png); }
+  .PaywallPrompt-brand-theage-2rDXD .PaywallPrompt-messaging-3ZXkC:before {
+    background-image: url(/assets/a8b56253.png); }
+  .PaywallPrompt-brand-watoday-1589F .PaywallPrompt-messaging-3ZXkC:before {
+    background-image: url(/assets/20e15784.png); }
+  .PaywallPrompt-brand-brisbanetimes-378dA .PaywallPrompt-messaging-3ZXkC:before {
+    background-image: url(/assets/9e40c528.png); } }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+  Base font families
+*/
+.ArticleHeader-header-2-5AL {
+  margin-bottom: 16px;
+  padding-bottom: 16px;
+  border-bottom: 3px solid #d7dbe3; }
+  @media only screen and (max-width: 600px) {
+    .ArticleHeader-header-2-5AL {
+      margin: 0 -20px 16px;
+      padding: 23px 20px 27px;
+      padding-top: 26px; } }
+  @media only screen and (min-width: 768px) {
+    .ArticleHeader-header-2-5AL {
+      margin-bottom: 32px;
+      padding-top: 26px;
+      padding-bottom: 32px; } }
+  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+    .ArticleHeader-header-2-5AL {
+      margin-bottom: 14px;
+      padding-bottom: 24px; } }
+  .ArticleHeader-header-2-5AL h1 {
+    font-size: 1.75rem;
+    line-height: 1.14286;
+    font-family: "Abril Titling Bold", "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+    font-weight: bold;
+    color: #0a1633; }
+    @media only screen and (min-width: 768px) {
+      .ArticleHeader-header-2-5AL h1 {
+        font-size: 3rem;
+        line-height: 1.16667; } }
+    .ArticleHeader-header-2-5AL h1 ~ h2 {
+      margin-top: 8px; }
+  .ArticleHeader-header-2-5AL h2 {
+    font-size: 1.0625rem;
+    line-height: 1.41176;
+    font-family: "PT Serif", Georgia, Times, "Times New Roman", serif;
+    font-weight: normal;
+    margin-bottom: 0;
+    color: #707070; }
+    @media only screen and (min-width: 768px) {
+      .ArticleHeader-header-2-5AL h2 {
+        font-size: 1.375rem;
+        line-height: 1.45455; } }
+
+.ArticleHeader-description-3jJP2 {
+  font-size: 1.375rem;
+  line-height: 1.4;
+  margin-bottom: 15px;
+  color: #707070; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+  Base font families
+*/
+.Kicker-kicker-2YAR2 {
+  font-size: 0.6875rem;
+  line-height: 1;
+  font-weight: bold;
+  margin-bottom: 24px;
+  padding-left: 0;
+  list-style: none;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #0a1633; }
+  @media only screen and (min-width: 768px) {
+    .Kicker-kicker-2YAR2 {
+      margin-bottom: 32px; } }
+  .Kicker-kicker-2YAR2 li {
+    display: inline-block; }
+    .Kicker-kicker-2YAR2 li:not(:last-child) {
+      margin-right: 12px; }
+    .Kicker-kicker-2YAR2 li:not(.Kicker-label-26JA0) {
+      margin-top: 8px; }
+  .Kicker-kicker-2YAR2 a:hover, .Kicker-kicker-2YAR2 a:focus {
+    text-decoration: underline; }
+  .Kicker-kicker-2YAR2 .Kicker-category-3wukJ a {
+    color: #0a1633; }
+  .Kicker-kicker-2YAR2 .Kicker-tag-1pMb9 a {
+    color: #096dd2; }
+
+.Kicker-label-26JA0 {
+  font-size: 0.6875rem;
+  line-height: 1;
+  font-weight: bold;
+  display: inline-block;
+  padding: 6px 8px 5px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #fff;
+  background: #0a1633; }
+
+.Kicker-labelDeveloping-3RX3M {
+  padding: 6px 8px 5px 0;
+  color: #d9172f;
+  background: #fff; }
+
+.Kicker-labelSignifier-3Ct__ {
+  background: #d9172f; }
+
+.Kicker-labelSponsor-CE1Nb {
+  background: #43a047; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+.ArticleInfo-articleInfo-3eMES {
+  position: relative; }
+  @media only screen and (max-width: 600px) {
+    .ArticleInfo-articleInfo-3eMES {
+      margin: 0 -20px;
+      padding: 0 20px; } }
+  .ArticleInfo-articleInfo-3eMES:only-child {
+    border-bottom: 1px solid #d7dbe3; }
+
+.ArticleInfo-infoTop-1mseD {
+  font-size: 0.8125rem;
+  line-height: 1.53846;
+  margin: 0 0 16px 0; }
+  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+    .ArticleInfo-infoTop-1mseD {
+      margin-bottom: 14px; } }
+  @media only screen and (min-width: 768px) {
+    .ArticleInfo-infoTop-1mseD {
+      font-size: 0.9375rem;
+      line-height: 1.6; } }
+
+.ArticleInfo-infoBottom-2m3HK {
+  display: flex;
+  margin: 8px 0 0;
+  padding: 8px 0;
+  border-top: 1px solid #d7dbe3;
+  align-items: center; }
+  @media only screen and (max-width: 600px) {
+    .ArticleInfo-infoBottom-2m3HK {
+      margin: 0 -20px;
+      padding: 8px; } }
+  @media only screen and (min-width: 1024px) {
+    .ArticleInfo-infoBottom-2m3HK {
+      padding: 16px 0; } }
+  .ArticleInfo-infoBottom-2m3HK > ul {
+    display: flex;
+    width: 100%;
+    margin-left: 12px;
+    margin-right: 12px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    align-items: center;
+    justify-content: center; }
+    .ArticleInfo-infoBottom-2m3HK > ul > li {
+      flex: auto; }
+
+.ArticleInfo-byline-2FyET {
+  color: #232323; }
+  .ArticleInfo-byline-2FyET a {
+    color: #096dd2; }
+    .ArticleInfo-byline-2FyET a:hover, .ArticleInfo-byline-2FyET a:focus {
+      text-decoration: underline; }
+
+.ArticleInfo-byline-2FyET,
+.ArticleInfo-updated-3NVcs,
+.ArticleInfo-publishedTime-1wVn6,
+.ArticleInfo-firstPublished-2VFz2 {
+  padding-bottom: 2px; }
+
+.ArticleInfo-updated-3NVcs {
+  font-weight: bold;
+  margin-right: 4px; }
+
+.ArticleInfo-articleHadMajorUpdate-3dQun .ArticleInfo-publishedTime-1wVn6:after {
+  margin-right: 4px;
+  content: ','; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+.CoreTimeMixin-time-1BNDF.CoreTimeMixin-withTip-1E8K2 {
+  cursor: pointer;
+  border-bottom: 1px dotted #707070; }
+.SocialShare-socialShare-3sunl li {
+  display: inline-block;
+  padding: 4px 8px;
+  text-align: center; }
+
+.SocialShare-socialShare-3sunl.SocialShare-articleFooter-2COE3 li:not(:first-child) {
+  margin-left: 8px; }
+
+amp-social-share[type="facebook"] {
+  background-color: transparent;
+  background-image: url(/assets/bbf1b3c3.svg); }
+
+amp-social-share[type="twitter"] {
+  background-color: transparent;
+  background-image: url(/assets/bd0e10ee.svg); }
+
+amp-social-share[type="whatsapp"] {
+  background-color: transparent;
+  background-image: url(/assets/5fb545f0.svg); }
+
+amp-social-share[type="email"] {
+  background-color: transparent;
+  background-image: url(/assets/cb6af1ea.svg); }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+  Base font families
+*/
+.ArticleBody-articleContent-1665V {
+  word-wrap: break-word;
+  word-break: break-word;
+  hyphens: auto;
+  overflow-wrap: break-word; }
+  .ArticleBody-articleContent-1665V p {
+    margin-bottom: 16px; }
+    .ArticleBody-articleContent-1665V p:empty {
+      display: none; }
+  .ArticleBody-articleContent-1665V h2,
+  .ArticleBody-articleContent-1665V h3 {
+    font-family: "Abril Titling Bold", "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+    padding: 16px 0 8px; }
+  .ArticleBody-articleContent-1665V h2 {
+    font-size: 1.25rem;
+    line-height: 1.2; }
+    @media only screen and (min-width: 768px) {
+      .ArticleBody-articleContent-1665V h2 {
+        font-size: 1.75rem;
+        line-height: 1.14286;
+        padding: 24px 0 16px; } }
+  @media only screen and (min-width: 768px) {
+    .ArticleBody-articleContent-1665V h3 {
+      font-size: 1.25rem;
+      line-height: 1.2; } }
+  .ArticleBody-articleContent-1665V ul {
+    list-style: disc; }
+  .ArticleBody-articleContent-1665V ol {
+    list-style: decimal; }
+  .ArticleBody-articleContent-1665V ul,
+  .ArticleBody-articleContent-1665V ol {
+    padding: 8px 0 16px 40px; }
+    .ArticleBody-articleContent-1665V ul li,
+    .ArticleBody-articleContent-1665V ol li {
+      margin-bottom: 16px; }
+  .ArticleBody-articleContent-1665V b,
+  .ArticleBody-articleContent-1665V strong {
+    font-weight: bold; }
+  .ArticleBody-articleContent-1665V a {
+    text-decoration: none;
+    color: #096dd2;
+    border-bottom: 1px solid rgba(9, 109, 210, 0.4); }
+    .ArticleBody-articleContent-1665V a:hover, .ArticleBody-articleContent-1665V a:focus {
+      color: #096dd2;
+      border-bottom-color: #096dd2; }
+    .ArticleBody-articleContent-1665V a:visited {
+      color: #707070;
+      /* Darker color to offset inherited alpha value from default (?) */
+      /* https://developer.mozilla.org/en-US/docs/Web/CSS/Privacy_and_the_:visited_selector */
+      border-bottom-color: #232323; }
+  .ArticleBody-articleContent-1665V i,
+  .ArticleBody-articleContent-1665V em {
+    font-style: italic; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+
+.EmbeddedMedia-media-1z0M3 {
+  margin: 24px 0; }
+
+.EmbeddedMedia-omnyPodcast-vaMi- {
+  clear: both;
+  width: 100%;
+  margin-bottom: 20px; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+  Base font families
+*/
+.Image-media-3ujPS {
+  position: relative;
+  clear: both;
+  overflow: hidden;
+  width: 100%;
+  margin-bottom: 16px; }
+  .Image-media-3ujPS img {
+    object-fit: cover; }
+
+@media only screen and (max-width: 767px) {
+  .Image-wide-3g3zI {
+    width: auto;
+    margin-right: -20px;
+    margin-left: -20px; } }
+
+@media only screen and (min-width: 768px) {
+  .Image-landscape-3x3-4 {
+    float: left;
+    clear: none;
+    text-align: inherit;
+    width: 39.91667%;
+    margin-left: 0%;
+    margin-right: 3%; }
+    .Image-landscape-3x3-4::after {
+      content: '';
+      display: table;
+      clear: both; }
+    .Image-landscape-3x3-4:last-child {
+      margin-right: 0%; } }
+
+@media only screen and (min-width: 1024px) {
+  .Image-landscape-3x3-4 {
+    float: left;
+    clear: none;
+    text-align: inherit;
+    width: 48.5%;
+    margin-left: 0%;
+    margin-right: 3%; }
+    .Image-landscape-3x3-4::after {
+      content: '';
+      display: table;
+      clear: both; }
+    .Image-landscape-3x3-4:last-child {
+      margin-right: 0%; } }
+
+/* Override columns */
+.Image-landscape-3x3-4.Image-landscape-3x3-4 {
+  float: right;
+  clear: right;
+  margin-right: 0; }
+
+.Image-portrait-1ilMH,
+.Image-square-2-WXH {
+  float: left;
+  clear: none;
+  text-align: inherit;
+  width: 48.5%;
+  margin-left: 0%;
+  margin-right: 3%; }
+  .Image-portrait-1ilMH::after,
+  .Image-square-2-WXH::after {
+    content: '';
+    display: table;
+    clear: both; }
+  .Image-portrait-1ilMH:last-child,
+  .Image-square-2-WXH:last-child {
+    margin-right: 0%; }
+
+/* Override columns */
+.Image-portrait-1ilMH.Image-portrait-1ilMH,
+.Image-square-2-WXH.Image-square-2-WXH {
+  float: right;
+  clear: right;
+  margin-right: 0;
+  margin-left: 20px; }
+
+.Image-caption-3CZmy {
+  font-family: "PT Sans", "Trebuchet MS", "Arial Narrow", sans-serif;
+  padding: 10px 16px;
+  color: #232323;
+  background: #f4f5f7; }
+  .Image-caption-3CZmy:empty {
+    display: none; }
+  .Image-caption-3CZmy p {
+    font-size: 0.8125rem;
+    line-height: 1.23077;
+    margin-bottom: 0; }
+  .Image-caption-3CZmy cite {
+    font-size: 0.8125rem;
+    line-height: 1.23077;
+    font-style: italic; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+  Base font families
+*/
+.RelatedStory-relatedStory-ymInT {
+  float: left;
+  clear: none;
+  text-align: inherit;
+  width: 50%;
+  margin-left: 3.33333%;
+  margin-right: 0%;
+  margin-bottom: 32px;
+  border-top: 3px solid #0a1633;
+  border-bottom: 1px solid #d7dbe3; }
+  @media only screen and (min-width: 1024px) {
+    .RelatedStory-relatedStory-ymInT {
+      float: left;
+      clear: none;
+      text-align: inherit;
+      width: 40%;
+      margin-left: 3.33333%;
+      margin-right: 0%; }
+      .RelatedStory-relatedStory-ymInT::after {
+        content: '';
+        display: table;
+        clear: both; }
+      .RelatedStory-relatedStory-ymInT:nth-child(n) {
+        float: left;
+        clear: none; }
+      .RelatedStory-relatedStory-ymInT:nth-child(1n) {
+        float: right; }
+      .RelatedStory-relatedStory-ymInT:nth-child(1n + 1) {
+        clear: both; } }
+  .RelatedStory-relatedStory-ymInT::after {
+    content: '';
+    display: table;
+    clear: both; }
+  .RelatedStory-relatedStory-ymInT:nth-child(n) {
+    float: left;
+    clear: none; }
+  .RelatedStory-relatedStory-ymInT:nth-child(1n) {
+    float: right; }
+  .RelatedStory-relatedStory-ymInT:nth-child(1n + 1) {
+    clear: both; }
+  .RelatedStory-relatedStory-ymInT:after {
+    display: table;
+    clear: both;
+    content: ''; }
+  .RelatedStory-relatedStory-ymInT .RelatedStory-heading-21cvO {
+    font-size: 0.8125rem;
+    line-height: 1.23077;
+    font-family: "PT Sans", "Trebuchet MS", "Arial Narrow", sans-serif;
+    font-weight: bold;
+    padding: 8px 0;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #0a1633; }
+    @media only screen and (min-width: 768px) {
+      .RelatedStory-relatedStory-ymInT .RelatedStory-heading-21cvO {
+        font-size: 1.0625rem;
+        line-height: 1; } }
+
+.RelatedStory-caption-k6Rfc {
+  line-height: 1;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 4px 8px;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.8); }
+  .RelatedStory-caption-k6Rfc .RelatedStory-text-5EifT {
+    font-size: 0.6875rem;
+    line-height: 1.18182;
+    font-family: "PT Sans", "Trebuchet MS", "Arial Narrow", sans-serif; }
+    .RelatedStory-caption-k6Rfc .RelatedStory-text-5EifT.RelatedStory-gallery-1NBkZ {
+      margin-left: 8px; }
+
+.RelatedStory-story-1JYfJ {
+  position: relative; }
+  .RelatedStory-story-1JYfJ figure {
+    position: relative; }
+    .RelatedStory-story-1JYfJ figure img {
+      display: block; }
+  .RelatedStory-story-1JYfJ a {
+    border: 0; }
+
+.RelatedStory-summary-1PorT {
+  margin-top: 8px;
+  padding-bottom: 16px; }
+  .RelatedStory-summary-1PorT .RelatedStory-tag-2vLH- {
+    font-size: 0.6875rem;
+    line-height: 1;
+    font-family: "PT Sans", "Trebuchet MS", "Arial Narrow", sans-serif;
+    font-weight: bold;
+    display: inline-block;
+    letter-spacing: 1px; }
+    .RelatedStory-summary-1PorT .RelatedStory-tag-2vLH- a {
+      text-transform: uppercase;
+      color: #096dd2; }
+      .RelatedStory-summary-1PorT .RelatedStory-tag-2vLH- a:hover, .RelatedStory-summary-1PorT .RelatedStory-tag-2vLH- a:focus {
+        text-decoration: underline; }
+  .RelatedStory-summary-1PorT .RelatedStory-headline-192pi {
+    font-size: 1rem;
+    line-height: 1.25;
+    font-family: "Abril Titling Bold", "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+    margin-top: 8px;
+    padding: 0; }
+    @media only screen and (min-width: 768px) {
+      .RelatedStory-summary-1PorT .RelatedStory-headline-192pi {
+        font-size: 1.25rem;
+        line-height: 1.2;
+        margin-top: 16px; } }
+    .RelatedStory-summary-1PorT .RelatedStory-headline-192pi a {
+      color: #232323; }
+      .RelatedStory-summary-1PorT .RelatedStory-headline-192pi a:hover, .RelatedStory-summary-1PorT .RelatedStory-headline-192pi a:focus {
+        color: #096dd2; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+  Base font families
+*/
+.FeatureImage-media-2z5l_ {
+  position: relative;
+  clear: both;
+  overflow: hidden;
+  width: 100%;
+  margin-bottom: 16px; }
+  .FeatureImage-media-2z5l_ img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+.ArticleFooter-articleBottom-aKWhn {
+  position: relative;
+  clear: both;
+  overflow-x: hidden;
+  margin-bottom: 24px;
+  border-top: 1px solid #d7dbe3;
+  border-bottom: 1px solid #d7dbe3; }
+  .ArticleFooter-articleBottom-aKWhn::after {
+    content: '';
+    display: table;
+    clear: both; }
+  @media only screen and (min-width: 768px) {
+    .ArticleFooter-articleBottom-aKWhn {
+      line-height: 1;
+      padding-bottom: 24px; } }
+
+.ArticleFooter-bottomItemsWrap-dLGbc {
+  display: flex;
+  min-height: 48px;
+  margin-left: -17px;
+  flex-wrap: wrap;
+  /* targeting Social Share component in here  */ }
+  .ArticleFooter-bottomItemsWrap-dLGbc > * {
+    display: flex;
+    min-height: 46px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    align-items: center;
+    justify-content: center; }
+  .ArticleFooter-bottomItemsWrap-dLGbc > *:first-child {
+    padding-left: 16px; }
+  .ArticleFooter-bottomItemsWrap-dLGbc > ul {
+    margin-right: 16px; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+.AssetLicense-assetLicense-1EHyP {
+  margin-right: 16px; }
+  .AssetLicense-assetLicense-1EHyP:before {
+    height: 26px;
+    content: '';
+    border-left: 1px solid #d7dbe3; }
+  .AssetLicense-assetLicense-1EHyP .AssetLicense-assetLicenseAnchor-3oGXd {
+    font-size: 0.8125rem;
+    line-height: 1;
+    font-family: "PT Sans", "Trebuchet MS", "Arial Narrow", sans-serif;
+    display: inline-block;
+    margin-left: 17px;
+    color: #096dd2; }
+    .AssetLicense-assetLicense-1EHyP .AssetLicense-assetLicenseAnchor-3oGXd:hover, .AssetLicense-assetLicense-1EHyP .AssetLicense-assetLicenseAnchor-3oGXd:focus {
+      text-decoration: underline;
+      color: #096dd2; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+  Base font families
+*/
+.ArticleTags-articleTags-ZFgNO {
+  font-family: "PT Sans", "Trebuchet MS", "Arial Narrow", sans-serif; }
+  .ArticleTags-articleTags-ZFgNO:before {
+    height: 26px;
+    content: '';
+    border-left: 1px solid #d7dbe3; }
+  .ArticleTags-articleTags-ZFgNO button {
+    font: inherit;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    text-align: left;
+    text-decoration: none;
+    color: #096dd2;
+    border: none;
+    border-radius: 0;
+    outline: none;
+    outline-offset: 0;
+    background: none;
+    font-size: 0.6875rem;
+    line-height: 1;
+    font-weight: bold;
+    display: block;
+    letter-spacing: 1px;
+    text-transform: uppercase; }
+    .ArticleTags-articleTags-ZFgNO button:active, .ArticleTags-articleTags-ZFgNO button:focus, .ArticleTags-articleTags-ZFgNO button:hover {
+      text-decoration: underline; }
+    .ArticleTags-articleTags-ZFgNO button::-moz-focus-inner {
+      padding: 0;
+      border: 0; }
+
+.ArticleTags-articleTagsWrap-3Nz34 {
+  display: inline-block;
+  margin-left: 16px;
+  padding: 0; }
+  .ArticleTags-articleTagsWrap-3Nz34 li {
+    display: inline-block;
+    max-width: 250px;
+    margin-top: 3px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    vertical-align: top; }
+    .ArticleTags-articleTagsWrap-3Nz34 li a {
+      display: block;
+      overflow: hidden;
+      height: 13px; }
+    .ArticleTags-articleTagsWrap-3Nz34 li:not(:last-child) {
+      margin-right: 16px; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+  Base font families
+*/
+.Tag-tag-2Tz1_ {
+  font-size: 0.6875rem;
+  line-height: 1;
+  font-weight: bold;
+  position: relative;
+  white-space: nowrap;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-overflow: ellipsis;
+  color: #096dd2; }
+  .Tag-tag-2Tz1_:hover, .Tag-tag-2Tz1_:focus {
+    text-decoration: underline;
+    color: #096dd2; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+  Base font families
+*/
+.MostPopular-mostPopular-_wI7O {
+  position: relative;
+  clear: both;
+  overflow-x: hidden;
+  margin-bottom: 24px;
+  counter-reset: popularStoriesCount; }
+  .MostPopular-mostPopular-_wI7O::after {
+    content: '';
+    display: table;
+    clear: both; }
+  @media only screen and (min-width: 768px) {
+    .MostPopular-mostPopular-_wI7O {
+      line-height: 1;
+      padding-bottom: 24px; } }
+
+@media only screen and (min-width: 768px) {
+  .MostPopular-storyTile-2zzjT {
+    float: left;
+    clear: none;
+    text-align: inherit;
+    width: 47.5%;
+    margin-left: 0%;
+    margin-right: 5%; }
+    .MostPopular-storyTile-2zzjT::after {
+      content: '';
+      display: table;
+      clear: both; }
+    .MostPopular-storyTile-2zzjT:nth-child(n) {
+      margin-right: 5%;
+      float: left;
+      clear: none; }
+    .MostPopular-storyTile-2zzjT:nth-child(2n) {
+      margin-right: 0%;
+      float: right; }
+    .MostPopular-storyTile-2zzjT:nth-child(2n + 1) {
+      clear: both; } }
+
+.MostPopular-storyTile-2zzjT:before {
+  line-height: 32px;
+  float: left;
+  width: 32px;
+  height: 32px;
+  margin-right: 16px;
+  content: counter(popularStoriesCount);
+  counter-increment: popularStoriesCount;
+  text-align: center;
+  color: #454f64;
+  border-radius: 50%;
+  background: #f4f5f7; }
+
+.MostPopular-storyTile-2zzjT.MostPopular-storyTile-2zzjT {
+  margin-bottom: 24px; }
+  @media only screen and (min-width: 768px) {
+    .MostPopular-storyTile-2zzjT.MostPopular-storyTile-2zzjT {
+      margin-bottom: 32px; } }
+  @media only screen and (max-width: 767px) {
+    .MostPopular-storyTile-2zzjT.MostPopular-storyTile-2zzjT {
+      clear: both; } }
+
+.MostPopular-storyTile-2zzjT figure {
+  width: 56px; }
+
+.MostPopular-storyTile-2zzjT > div {
+  overflow: hidden; }
+  .MostPopular-storyTile-2zzjT > div > div:first-of-type {
+    line-height: 1; }
+
+.MostPopular-header-1YnCG {
+  margin-bottom: 16px; }
+  .MostPopular-header-1YnCG h2 {
+    font-size: 0.9375rem;
+    font-family: "PT Sans", "Trebuchet MS", "Arial Narrow", sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #0a1633; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+.Footer-footer-y77aF {
+  background-color: #0a1633; }
+
+.Footer-wrap-39_V0 {
+  width: auto;
+  max-width: 1168px;
+  float: none;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 12px; }
+  .Footer-wrap-39_V0::after {
+    content: '';
+    display: table;
+    clear: both; }
+  @media only screen and (max-width: 767px) {
+    .Footer-wrap-39_V0 {
+      padding: 14px 20px; } }
+
+.Footer-copyright-1U4cI {
+  color: #fff;
+  padding: 16px 0; }
+  @media only screen and (max-width: 767px) {
+    .Footer-copyright-1U4cI {
+      text-align: center; } }
+  .Footer-copyright-1U4cI p {
+    font-size: 0.875rem;
+    line-height: 1;
+    padding: 16px 0; }
+    @media only screen and (min-width: 768px) {
+      .Footer-copyright-1U4cI p {
+        display: inline-block;
+        padding: 16px 24px 0 0; } }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+.Social-social-2tZpI {
+  padding: 2px 0 24px;
+  text-align: center; }
+  @media only screen and (min-width: 768px) {
+    .Social-social-2tZpI {
+      display: inline-block;
+      float: right;
+      margin-right: -12px;
+      padding: 12px 0 24px; } }
+  .Social-social-2tZpI li {
+    display: inline-block; }
+  .Social-social-2tZpI a {
+    display: block;
+    padding: 5px 12px;
+    color: #fff; }
+  .Social-social-2tZpI span {
+    position: absolute;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    white-space: nowrap;
+    border: 0; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+.Icon-fairfaxmedia-3c18C {
+  display: inline-block;
+  overflow: hidden;
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  text-indent: -9999px;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  width: auto;
+  height: auto;
+  background-image: url(/assets/fd46aef0.svg); }
+
+.Icon-facebook-1JlQV {
+  display: inline-block;
+  overflow: hidden;
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  text-indent: -9999px;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  width: auto;
+  height: auto;
+  background-image: url(/assets/bbf1b3c3.svg);
+  -webkit-filter: invert(100%);
+  filter: invert(100%); }
+
+.Icon-twitter-dHuim {
+  display: inline-block;
+  overflow: hidden;
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  text-indent: -9999px;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  width: auto;
+  height: auto;
+  background-image: url(/assets/bd0e10ee.svg);
+  -webkit-filter: invert(100%);
+  filter: invert(100%); }
+
+.Icon-instagram-3RhML {
+  display: inline-block;
+  overflow: hidden;
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  text-indent: -9999px;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  width: auto;
+  height: auto;
+  background-image: url(/assets/9ba121c0.svg);
+  -webkit-filter: invert(100%);
+  filter: invert(100%); }
+
+.Icon-gallery-3A0V4 {
+  display: inline-block;
+  overflow: hidden;
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  text-indent: -9999px;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  width: auto;
+  height: auto;
+  background-image: url(/assets/b4e858ff.svg);
+  -webkit-filter: invert(100%);
+  filter: invert(100%); }
+
+.Icon-invert-wLWbP {
+  -webkit-filter: invert(100%);
+  filter: invert(100%); }
+
+.Icon-arrowsdown-KpnrB {
+  display: inline-block;
+  overflow: hidden;
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  text-indent: -9999px;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  width: auto;
+  height: auto;
+  background-image: url(/assets/b3d24fca.svg);
+  -webkit-filter: invert(100%);
+  filter: invert(100%); }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+  Base font families
+*/
+.Links-linkGroups-2cb-t {
+  border-top: 1px solid #454f64;
+  border-bottom: 1px solid #454f64;
+  clear: both; }
+
+.Links-linkGroup-3WLzB:not(:last-child) {
+  border-bottom: 1px solid #454f64; }
+
+.Links-linkGroup-3WLzB a,
+.Links-linkGroup-3WLzB a:visited {
+  font-size: 0.875rem;
+  line-height: 1;
+  display: block;
+  color: #fff; }
+
+.Links-linkGroupHeading-2_Vga {
+  outline: none; }
+  .Links-linkGroupHeading-2_Vga a {
+    cursor: pointer;
+    position: relative;
+    display: block;
+    padding: 16px 0; }
+    .Links-linkGroupHeading-2_Vga a .Links-heading-2g7Mb {
+      font-weight: bold;
+      text-transform: uppercase; }
+    .Links-linkGroupHeading-2_Vga a .Links-icon-2hufO {
+      float: right;
+      padding: 0 8px;
+      opacity: 0.3;
+      transition: transform 300ms ease-in 0s; }
+  .Links-linkGroupHeading-2_Vga.Links-expanded-11Kl2 .Links-icon-2hufO {
+    transform: rotate(180deg); }
+
+.Links-linkGroupList-2q5mS {
+  list-style-type: none;
+  visibility: hidden;
+  overflow: hidden;
+  max-height: 0;
+  transition: all 250ms ease-in;
+  opacity: 0; }
+  .Links-linkGroupList-2q5mS.Links-expanded-11Kl2 {
+    visibility: visible;
+    max-height: 600px;
+    margin-bottom: 16px;
+    opacity: 1; }
+  .Links-linkGroupList-2q5mS a {
+    padding: 8px 0; }
+    .Links-linkGroupList-2q5mS a:hover, .Links-linkGroupList-2q5mS a:focus {
+      text-decoration: underline; }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+  Base font families
+*/
+.StoryTile-storyTileSmall-36Q8F {
+  margin-bottom: 20px; }
+  @media only screen and (min-width: 768px) {
+    .StoryTile-storyTileSmall-36Q8F {
+      margin-bottom: 0; } }
+  .StoryTile-storyTileSmall-36Q8F figure {
+    margin-bottom: 16px; }
+  .StoryTile-storyTileSmall-36Q8F .StoryTile-headline-209n0 {
+    font-size: 1rem;
+    line-height: 1.25;
+    padding-right: 16px; }
+  .StoryTile-storyTileSmall-36Q8F .StoryTile-metadata-2ADxb {
+    margin-top: 8px; }
+  .StoryTile-storyTileSmall-36Q8F.StoryTile-imgRight-3g4hU figure {
+    float: right;
+    width: 56px;
+    margin-bottom: 24px;
+    margin-left: 16px; }
+
+.StoryTile-headline-209n0 {
+  font-size: 1rem;
+  line-height: 1.25;
+  font-family: "Abril Titling Bold", "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+  font-weight: bold;
+  padding-right: 16px; }
+  @media only screen and (min-width: 768px) {
+    .StoryTile-headline-209n0 {
+      font-size: 1.375rem;
+      line-height: 1.09091; } }
+  @media only screen and (min-width: 1024px) {
+    .StoryTile-headline-209n0 {
+      font-size: 1.25rem;
+      line-height: 1.2; } }
+  .StoryTile-headline-209n0 a {
+    color: #0a1633; }
+    .StoryTile-headline-209n0 a:hover, .StoryTile-headline-209n0 a:focus {
+      color: #096dd2; }
+    .StoryTile-headline-209n0 a:visited {
+      color: #666; }
+
+.StoryTile-label-2nidB {
+  font-size: 0.6875rem;
+  line-height: 1;
+  font-family: "PT Sans", "Trebuchet MS", "Arial Narrow", sans-serif;
+  font-weight: bold;
+  display: inline-block;
+  margin-right: 8px;
+  margin-bottom: 11px;
+  padding: 6px 8px 5px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #fff;
+  background: #0a1633; }
+
+.StoryTile-labelDeveloping-1UdBx {
+  padding: 6px 8px 5px 0;
+  color: #d9172f;
+  background: #fff; }
+
+.StoryTile-labelSignifier-2XXCu {
+  background: #d9172f; }
+
+.StoryTile-labelSponsor-3f7G- {
+  color: #232323;
+  background: #d7dbe3; }
+
+.StoryTile-imgRight-3g4hU figure {
+  margin-bottom: 24px;
+  float: right;
+  width: 56px; }
+  @media only screen and (min-width: 768px) {
+    .StoryTile-imgRight-3g4hU figure {
+      float: left;
+      clear: none;
+      text-align: inherit;
+      width: 27.9%;
+      margin-left: 0%;
+      margin-right: 3%;
+      width: 216px;
+      margin-right: 0; }
+      .StoryTile-imgRight-3g4hU figure::after {
+        content: '';
+        display: table;
+        clear: both; }
+      .StoryTile-imgRight-3g4hU figure:last-child {
+        margin-right: 0%; } }
+  @media only screen and (min-width: 1024px) {
+    .StoryTile-imgRight-3g4hU figure {
+      width: 236px; } }
+  @media only screen and (max-width: 767px) {
+    .StoryTile-imgRight-3g4hU figure {
+      margin-left: 5%; } }
+
+@media only screen and (min-width: 768px) {
+  .StoryTile-imgRight-3g4hU + .StoryTile-summary-3Pls2 {
+    float: left;
+    clear: none;
+    text-align: inherit;
+    width: 69.1%;
+    margin-left: 0%;
+    margin-right: 3%; }
+    .StoryTile-imgRight-3g4hU + .StoryTile-summary-3Pls2::after {
+      content: '';
+      display: table;
+      clear: both; }
+    .StoryTile-imgRight-3g4hU + .StoryTile-summary-3Pls2:last-child {
+      margin-right: 0%; } }
+
+@media only screen and (max-width: 767px) {
+  .StoryTile-imgRight-3g4hU + .StoryTile-summary-3Pls2 {
+    overflow: hidden; } }
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+ Color names
+*/
+/*
+  Labels
+*/
+/*
+  Base font families
+*/
+.StoryTileImage-media-2vAUH {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  margin-bottom: 16px; }
+  .StoryTileImage-media-2vAUH img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto; }
+</style></head><body><div id="root"><div id="content"><header class="Header-header-21UZG"><div class="Wrap-wrap-h-Jxc Wrap-stickyHeader-2G56F"><div class="Wrap-logoWrap-2FAuv"><div class="Logo-logoWrap-3uPYr Logo-alignCenter-2qnYw"><a href="https://www.smh.com.au" class="Logo-logo-2ABN- smh" target="_blank"><h2>The Sydney Morning Herald</h2><span class="Logo-smh-YClUs"></span></a></div></div></div></header><div class="Article-content-NcqOl"><div><amp-sticky-ad layout="nodisplay"><amp-ad data-debug="false" data-enable-refresh="30" data-loading-strategy="prefer-viewability-over-views" data-multi-size="320x50,300x50" data-multi-size-validation="false" data-slot="/21671780509/smh/politics/federal/coronaviruspandemic/china/unitedstatesofamerica" height="50" type="doubleclick" json="{&quot;targeting&quot;:{&quot;synd&quot;:&quot;amp&quot;,&quot;cType&quot;:&quot;article&quot;,&quot;cat&quot;:&quot;politics&quot;,&quot;cat1&quot;:&quot;federal&quot;,&quot;cat2&quot;:&quot;coronaviruspandemic&quot;,&quot;cat3&quot;:&quot;china&quot;,&quot;cat4&quot;:&quot;unitedstatesofamerica&quot;,&quot;generatedTimestamp&quot;:1588671737,&quot;primaryCategory&quot;:&quot;politics&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;subCategory1&quot;:&quot;politics&quot;,&quot;subCategory2&quot;:&quot;federal&quot;,&quot;subCategory3&quot;:&quot;&quot;,&quot;subCategory4&quot;:&quot;&quot;}}" width="320"></amp-ad></amp-sticky-ad></div><article class="Article-article-TiyDq"><div><template type="amp-mustache" subscriptions-dialog="" subscriptions-display="data.meterPrompt"><div class="MeterPrompt-meterPrompt-2uQrp noPrint"><p class="MeterPrompt-countRemaining-2ael6">{{data.meterPrompt.countRemaining}}</p><p class="MeterPrompt-message-3LN58">{{data.meterPrompt.message}}</p><a class="MeterPrompt-callToAction-3ubRn link-header" data-vars-event-action="cta click" data-vars-event-category="meter" data-vars-event-label="meter" subscriptions-action="subscribe" subscriptions-display="data.meterPrompt">{{data.meterPrompt.callToAction}}</a><div class="MeterPrompt-registered-3iM1s">Already subscribed? <a class="MeterPrompt-login-TxTRz link-header" data-vars-event-action="log in start" data-vars-event-category="meter" data-vars-event-label="meter" subscriptions-action="login" subscriptions-display="data.meterPrompt">Log in</a></div></div></template><template type="amp-mustache" subscriptions-dialog="" subscriptions-display="data.paywallPrompt"><div class="PaywallPrompt-paywallPrompt-1ftnU PaywallPrompt-brand-smh-2w58Q noPrint"><div class="PaywallPrompt-messaging-3ZXkC"><p class="PaywallPrompt-countRemaining-3ykNI">{{data.paywallPrompt.countRemaining}}</p><p class="PaywallPrompt-title-3yrhq">{{data.paywallPrompt.title}}</p><p class="PaywallPrompt-message-20t6g">{{data.paywallPrompt.message}}</p><a class="PaywallPrompt-callToAction-Tc5F5 link-header" data-vars-event-action="cta click" data-vars-event-category="meter" data-vars-event-label="paywall" subscriptions-action="subscribe" subscriptions-display="data.paywallPrompt" subscriptions-service="local">{{data.paywallPrompt.callToAction}}</a><div class="PaywallPrompt-registered-F23nV">Already subscribed? <a class="PaywallPrompt-login-2xiKF link-header" data-vars-event-action="log in start" data-vars-event-category="meter" data-vars-event-label="paywall" subscriptions-action="login" subscriptions-display="data.paywallPrompt" subscriptions-service="local">Log in</a></div></div></div></template></div><header class="ArticleHeader-header-2-5AL"><div class="Kicker-kicker-2YAR2"><ul><li class="Kicker-label-26JA0 Kicker-labelSignifier-3Ct__">Exclusive</li><li class="Kicker-category-3wukJ"><a href="https://www.smh.com.au/politics" title="Politics">Politics</a></li><li class="Kicker-category-3wukJ"><a href="https://www.smh.com.au/politics/federal" title="Federal">Federal</a></li><li class="Kicker-tag-1pMb9"><a href="https://www.smh.com.au/coronavirus-pandemic" title="Coronavirus pandemic">Coronavirus pandemic</a></li></ul><script type="application/ld+json">{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.smh.com.au/politics","name":"Politics"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.smh.com.au/politics/federal","name":"Federal"}},{"@type":"ListItem","position":3,"item":{"@id":"https://www.smh.com.au/coronavirus-pandemic","name":"Coronavirus pandemic"}}]}</script></div><h1>Australian intelligence knocks back US government&#x27;s Wuhan lab virus claim</h1></header><aside class="Article-articleSidebar-MpiqP"><section class="ArticleInfo-articleInfo-3eMES"><div class="ArticleInfo-infoTop-1mseD"><h5 class="ArticleInfo-byline-2FyET">By Anthony Galloway and Eryk Bagshaw</h5><span class="ArticleInfo-publishedTime-1wVn6"><time class="CoreTimeMixin-time-1BNDF" datetime="2020-05-04T19:30:00+10:00">May 4, 2020 — 7.30pm</time></span></div><div class="ArticleInfo-infoBottom-2m3HK"><ul class="SocialShare-socialShare-3sunl"><li><amp-social-share type="facebook" data-param-app_id="193677504039845" width="1em" height="1em"></amp-social-share></li><li><amp-social-share type="twitter" width="1em" height="1em"></amp-social-share></li><li><amp-social-share type="whatsapp" width="1em" height="1em"></amp-social-share></li><li><amp-social-share type="email" width="1em" height="1em"></amp-social-share></li></ul></div></section></aside><section class="Article-articleBody-2jinH"><div class="ArticleBody-articleContent-1665V"><div><p>Australian intelligence agencies have questioned evidence trumpeted by United States officials supposedly linking the coronavirus to a Wuhan laboratory as concerns within the government grow that the push will derail efforts to eliminate dangerous wildlife wet markets.</p></div><div subscriptions-section="content"><p>Senior members of the Australian intelligence community told <em>The Sydney Morning Herald </em>and <em>The Age</em> a research document shared in political circles under the Five Eyes intelligence arrangement was mostly based on news reports and contained no material from intelligence gathering.</p><figure class="EmbeddedMedia-media-1z0M3"><amp-brightcove data-account="3910869709001" data-embed="default" data-player="H1p3D7ooz" data-video-id="6153861785001" data-param-iu="/21671780509/smh/politics/federal" data-param-vid="6153861785001" data-param-sz="640x360|4x1" layout="responsive" width="729" height="410"></amp-brightcove></figure><p>A 15-page &quot;dossier&quot; has been widely quoted by local and international media about China&#x27;s alleged cover-up of the virus. Australian intelligence officials have since identified a research report which  was based entirely on open source material. The officials said it was likely the reports were the same.</p><p>United States secretary of State Mike Pompeo claimed on Sunday there is &quot;enormous evidence&quot; the coronavirus outbreak originated in the Chinese laboratory but did not provide any facts to back up his assertion. Mr Pompeo also said he agreed that the virus was not man-made.</p><p>Multiple senior intelligence sources who spoke to <em>The Sydney Morning Herald</em> and <em>The Age</em> <em></em>in recent days have <a href="https://www.smh.com.au/politics/federal/australian-intelligence-officials-have-no-evidence-of-wuhan-lab-link-to-coronavirus-20200429-p54o5i.html" data-vars-event-label="https://www.smh.com.au/politics/federal/australian-intelligence-officials-have-no-evidence-of-wuhan-lab-link-to-coronavirus-20200429-p54o5i.html" data-vars-event-action="related article" data-vars-event-category="internal link" class="link-header">confirmed Australia has still not been provided with any evidence that strongly suggests the Wuhan Institute of Virology was the source of the outbreak</a>. Intelligence agencies have not been able to rule out the Wuhan lab, but the more likely cause of the virus is still the city&#x27;s <a href="https://www.smh.com.au/world/asia/how-does-an-epidemic-spread-and-what-does-the-wildlife-trade-have-to-do-with-it-20200129-p53vvm.html" data-vars-event-label="https://www.smh.com.au/world/asia/how-does-an-epidemic-spread-and-what-does-the-wildlife-trade-have-to-do-with-it-20200129-p53vvm.html" data-vars-event-action="related article" data-vars-event-category="internal link" class="link-header">Huanan Seafood Market where environmental samples of the virus were found.</a></p><div><div class="adWrapper Ad-adWrapper-1vp2S Ad-ad-FZxgn Ad-adBorder-3GPCp"><amp-ad data-debug="false" data-enable-refresh="30" data-loading-strategy="prefer-viewability-over-views" data-multi-size="300x250,320x50,300x50" data-multi-size-validation="false" data-slot="/21671780509/smh/politics/federal/coronaviruspandemic/china/unitedstatesofamerica" height="250" type="doubleclick" json="{&quot;targeting&quot;:{&quot;synd&quot;:&quot;amp&quot;,&quot;cType&quot;:&quot;article&quot;,&quot;cat&quot;:&quot;politics&quot;,&quot;cat1&quot;:&quot;federal&quot;,&quot;cat2&quot;:&quot;coronaviruspandemic&quot;,&quot;cat3&quot;:&quot;china&quot;,&quot;cat4&quot;:&quot;unitedstatesofamerica&quot;,&quot;generatedTimestamp&quot;:1588671737,&quot;primaryCategory&quot;:&quot;politics&quot;,&quot;pos&quot;:&quot;2&quot;,&quot;subCategory1&quot;:&quot;politics&quot;,&quot;subCategory2&quot;:&quot;federal&quot;,&quot;subCategory3&quot;:&quot;&quot;,&quot;subCategory4&quot;:&quot;&quot;}}" width="300"></amp-ad></div></div><div><figure class="Image-media-3ujPS Image-wide-3g3zI"><amp-img alt="Australian intelligence officials have no evidence suggesting the Wuhan Institute of Virology is the likely source of the virus." srcset="https://static.ffx.io/images/$zoom_2.069,$multiply_1,$ratio_1.776846,$width_1059,$x_0,$y_111/t_crop_custom/w_768/q_86,f_auto/d21148ff11ade45f6d1c1e8ccb3d0d7a46cd25d8" itemProp="image" layout="responsive" height="1" width="1.776846"></amp-img><figcaption class="Image-caption-3CZmy"><p>Australian intelligence officials have no evidence suggesting the Wuhan Institute of Virology is the likely source of the virus.</p><cite>Photo: Supplied</cite></figcaption></figure></div><p>Prime Minister Scott Morrison said on Friday the Australian government did not have strong evidence linking the Wuhan lab to the virus.</p><p>&quot;There&#x27;s nothing that we have that would indicate that was the likely source,&quot; Mr Morrison said.</p><p>Senior members of the Morrison government are concerned the promotion of the theory is hampering efforts by Australia to pursue an independent coronavirus inquiry and its push to permanently end the sale of exotic wildlife in Chinese wet markets.</p><p><a href="https://www.smh.com.au/world/asia/how-does-an-epidemic-spread-and-what-does-the-wildlife-trade-have-to-do-with-it-20200129-p53vvm.html" data-vars-event-label="https://www.smh.com.au/world/asia/how-does-an-epidemic-spread-and-what-does-the-wildlife-trade-have-to-do-with-it-20200129-p53vvm.html" data-vars-event-action="related article" data-vars-event-category="internal link" class="link-header">China announced a ban on exotic wildlife meat at the peak of the local outbreak in February</a> but it has not eliminated the sale of animals for medicinal use. Chinese state media reacted furiously to the Wuhan lab Five Eyes claims published by News Corp Australia on Saturday, accusing it of perpetuating a US campaign led by Steve Bannon.</p><p>In a series of comments last week, Mr Bannon, a former executive chairman of far-right website Breitbart and advisor to President Donald Trump, said China had to be held accountable for a &quot;biological Chernobyl&quot; and accused the Wuhan lab of premeditated murder.</p><div><div class="adWrapper Ad-adWrapper-1vp2S Ad-ad-FZxgn Ad-adBorder-3GPCp"><amp-ad data-debug="false" data-enable-refresh="30" data-loading-strategy="prefer-viewability-over-views" data-multi-size="300x250,320x50,300x50" data-multi-size-validation="false" data-slot="/21671780509/smh/politics/federal/coronaviruspandemic/china/unitedstatesofamerica" height="250" type="doubleclick" json="{&quot;targeting&quot;:{&quot;synd&quot;:&quot;amp&quot;,&quot;cType&quot;:&quot;article&quot;,&quot;cat&quot;:&quot;politics&quot;,&quot;cat1&quot;:&quot;federal&quot;,&quot;cat2&quot;:&quot;coronaviruspandemic&quot;,&quot;cat3&quot;:&quot;china&quot;,&quot;cat4&quot;:&quot;unitedstatesofamerica&quot;,&quot;generatedTimestamp&quot;:1588671737,&quot;primaryCategory&quot;:&quot;politics&quot;,&quot;pos&quot;:&quot;3&quot;,&quot;subCategory1&quot;:&quot;politics&quot;,&quot;subCategory2&quot;:&quot;federal&quot;,&quot;subCategory3&quot;:&quot;&quot;,&quot;subCategory4&quot;:&quot;&quot;}}" width="300"></amp-ad></div></div><div class="RelatedStory-relatedStory-ymInT"><h2 class="RelatedStory-heading-21cvO">Related Article</h2><div class="RelatedStory-story-1JYfJ"><figure class="FeatureImage-media-2z5l_"><a href="https://www.smh.com.au/national/how-conspiracy-theories-about-covid-19-went-viral-20200318-p54bhm.html" data-vars-event-label="category|Coronavirus pandemic" data-vars-event-action="related article widget" data-vars-event-category="internal link" class="link-header"><amp-img alt="COVID-19 conspiracy theory explainr" srcset="https://static.ffx.io/images/$zoom_1.0352,$multiply_1,$ratio_1.777778,$width_1059,$x_0,$y_0/t_crop_custom/w_768/q_86,f_auto/fd983cd7e8431484ffd9ff72de3a6b11e4fb5c44" itemProp="image" layout="responsive" height="1" width="1.777778"></amp-img></a></figure><div class="RelatedStory-summary-1PorT"><h5 class="RelatedStory-tag-2vLH-"><a href="https://www.smh.com.au/coronavirus-pandemic" data-vars-event-label="category|Coronavirus pandemic" data-vars-event-action="related article widget" data-vars-event-category="internal link" class="link-header">Coronavirus pandemic</a></h5><h3 class="RelatedStory-headline-192pi"><a href="https://www.smh.com.au/national/how-conspiracy-theories-about-covid-19-went-viral-20200318-p54bhm.html" data-vars-event-label="category|Coronavirus pandemic" data-vars-event-action="related article widget" data-vars-event-category="internal link" class="link-header">How conspiracy theories about COVID-19 went viral</a></h3></div></div></div><p>Describing Mr Bannon as the &quot;living fossil of the cold war,&quot; the Communist mouthpiece, <em>People&#x27;s Daily </em>said the Trump administration was engaging in &quot;unprecedented propaganda warfare&quot; while trying to impede global efforts in fighting the COVID-19 pandemic.</p><p>Li Haidong, a professor at the Institute of International Relations of the China Foreign Affairs University, said media allegations could further exacerbate rising political tensions.</p><p>&quot;Some Australian media and political elites have lost their independent judgment of the country&#x27;s overall interests and have adopted a US-led approach to smearing China over COVID-19,&quot; he told Beijing&#x27;s <em>Global Times. </em></p><p>There was also widespread concern within the government about Victorian Liberal senator Sarah Henderson&#x27;s comments in News Corp papers on Monday that called for all virus research by foreign scientists in Australian laboratories to stop until a safety and national security review was done.</p><p>Talking points distributed by the Prime Minister&#x27;s office on Monday morning reminded Coalition MPs that the CSIRO undertakes due diligence before entering into research partnerships.</p><div><div class="adWrapper Ad-adWrapper-1vp2S Ad-ad-FZxgn Ad-adBorder-3GPCp"><amp-ad data-debug="false" data-enable-refresh="30" data-loading-strategy="prefer-viewability-over-views" data-multi-size="300x250,320x50,300x50" data-multi-size-validation="false" data-slot="/21671780509/smh/politics/federal/coronaviruspandemic/china/unitedstatesofamerica" height="250" type="doubleclick" json="{&quot;targeting&quot;:{&quot;synd&quot;:&quot;amp&quot;,&quot;cType&quot;:&quot;article&quot;,&quot;cat&quot;:&quot;politics&quot;,&quot;cat1&quot;:&quot;federal&quot;,&quot;cat2&quot;:&quot;coronaviruspandemic&quot;,&quot;cat3&quot;:&quot;china&quot;,&quot;cat4&quot;:&quot;unitedstatesofamerica&quot;,&quot;generatedTimestamp&quot;:1588671737,&quot;primaryCategory&quot;:&quot;politics&quot;,&quot;pos&quot;:&quot;4&quot;,&quot;subCategory1&quot;:&quot;politics&quot;,&quot;subCategory2&quot;:&quot;federal&quot;,&quot;subCategory3&quot;:&quot;&quot;,&quot;subCategory4&quot;:&quot;&quot;}}" width="300"></amp-ad></div></div><p>Senator Henderson was commenting on reports that the CSIRO&#x27;s bio-containment facility in Geelong has been undertaking research jointly funded by the Australian and Chinese governments.</p><p>CSIRO released a statement confirming it had no current joint research with the Wuhan Institute of Virology and said it undertook all research in accordance with strict biosecurity and legislative requirements, which took security concerns into account.</p><p>Liberal MP Dave Sharma, who has been vocal in his calls for the global review, told <em>The Sydney Morning Herald and The Age</em> he was not aware of any security concerns with CSIRO&#x27;s research.</p><p>&quot;Scientific research cooperation and collaboration on zoonotic diseases with scientists from China and elsewhere is valuable, and important to help us better understand the nature of these diseases,&quot; he said.</p><amp-iframe class="EmbeddedMedia-media-1z0M3" height="1" layout="responsive" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" src="https://www.smh.com.au/interactive/2019/_pointers/covid/pointer_covid_data_centre_slim_live.html?resizable=true" width="1" resizable=""><div overflow="true" tabindex="0" role="button" aria-label="Click to reload">Click to reload</div></amp-iframe><script type="application/ld+json">{"@context":"http://schema.org/","@type":"NewsArticle","author":{"name":"Anthony Galloway","@type":"Person"},"datePublished":"2020-05-04T09:30:00Z","dateModified":"2020-05-05T02:34:12Z","description":"Australian intelligence agencies are struggling to find the evidence trumpeted by the United States that supposedly pins the coronavirus on a Wuhan laboratory.","hasPart":{"@type":"WebPageElement","cssSelector":".outer-wrap","isAccessibleForFree":false},"headline":"Australian intelligence knocks back US government's Wuhan lab virus claim","image":["https://static.ffx.io/images/$zoom_2.069,$multiply_1,$ratio_1.776846,$width_1059,$x_0,$y_111/t_crop_custom/w_768/q_86,f_auto/d21148ff11ade45f6d1c1e8ccb3d0d7a46cd25d8"],"isAccessibleForFree":false,"isPartOf":{"@type":["CreativeWork","Product"],"name":"The Sydney Morning Herald","productID":"smh.com.au:webonly"},"keywords":"Coronavirus pandemic, China, United States of America, Scott Morrison, Canberra, Justin Pierre James Trudeau, Michael Richard Pompeo, Five eyes, Trump's America, Donald John Trump, Trump diplomacy, Trump's White House, Chinese Communist Party","mainEntityOfPage":{"@id":"http://smh.com.au/politics/federal/australian-intelligence-knocks-back-us-government-s-wuhan-lab-virus-claim-20200504-p54pk3.html","@type":"WebPage"},"publisher":{"logo":{"@type":"ImageObject","height":60,"width":600,"url":"http://www.fairfaxstatic.com.au/cqstatic/h0uye6/logo--smh-blue.png"},"name":"The Sydney Morning Herald","@type":"Organization"}}</script></div></div></section><section><div class="Article-articleBody-2jinH"><section class="ArticleFooter-articleBottom-aKWhn"><div class="ArticleFooter-bottomItemsWrap-dLGbc"><ul class="SocialShare-socialShare-3sunl SocialShare-articleFooter-2COE3"><li><amp-social-share type="facebook" data-param-app_id="193677504039845" width="1em" height="1em"></amp-social-share></li><li><amp-social-share type="twitter" width="1em" height="1em"></amp-social-share></li><li><amp-social-share type="whatsapp" width="1em" height="1em"></amp-social-share></li><li><amp-social-share type="email" width="1em" height="1em"></amp-social-share></li></ul><div class="AssetLicense-assetLicense-1EHyP"><a class="AssetLicense-assetLicenseAnchor-3oGXd" href="http://rightsportal.copyright.com.au/pages/republicationpage.aspx?author=Anthony%20Galloway%20and%20Eryk%20Bagshaw&amp;publication=SMH&amp;publicationdate=2020-05-04T09%3A30%3A00Z&amp;publisher=fxj&amp;title=Australian%20intelligence%20knocks%20back%20US%20government%27s%20Wuhan%20lab%20virus%20claim&amp;url=https%3A%2F%2Fwww.smh.com.au%2Fpolitics%2Ffederal%2Faustralian-intelligence-knocks-back-us-government-s-wuhan-lab-virus-claim-20200504-p54pk3.html">License this article</a></div><div class="ArticleTags-articleTags-ZFgNO"><ul class="ArticleTags-articleTagsWrap-3Nz34"><li><a href="https://www.smh.com.au/coronavirus-pandemic" class="Tag-tag-2Tz1_" title="Coronavirus pandemic">Coronavirus pandemic</a></li><li><a href="https://www.smh.com.au/topic/china-89a" class="Tag-tag-2Tz1_" title="China">China</a></li><li><a href="https://www.smh.com.au/topic/united-states-of-america-gd5" class="Tag-tag-2Tz1_" title="USA">USA</a></li><li><a href="https://www.smh.com.au/topic/scott-morrison-5c1" class="Tag-tag-2Tz1_" title="Scott Morrison">Scott Morrison</a></li><li><a href="https://www.smh.com.au/topic/canberra-7y4" class="Tag-tag-2Tz1_" title="Canberra">Canberra</a></li><li><a href="https://www.smh.com.au/topic/justin-pierre-james-trudeau-3v8" class="Tag-tag-2Tz1_" title="Justin Trudeau">Justin Trudeau</a></li><li><a href="https://www.smh.com.au/topic/michael-richard-pompeo-1n23" class="Tag-tag-2Tz1_" title="Mike Pompeo">Mike Pompeo</a></li><li><a href="https://www.smh.com.au/topic/five-eyes-1mox" class="Tag-tag-2Tz1_" title="Five eyes">Five eyes</a></li><li><a href="https://www.smh.com.au/topic/trump-s-america-1mp2" class="Tag-tag-2Tz1_" title="Trump&#x27;s America">Trump&#x27;s America</a></li><li><a href="https://www.smh.com.au/topic/donald-john-trump-2tq" class="Tag-tag-2Tz1_" title="Donald Trump">Donald Trump</a></li><li><a href="https://www.smh.com.au/topic/trump-diplomacy-1m2u" class="Tag-tag-2Tz1_" title="Trump diplomacy">Trump diplomacy</a></li><li><a href="https://www.smh.com.au/topic/trump-s-white-house-1m69" class="Tag-tag-2Tz1_" title="Trump&#x27;s White House">Trump&#x27;s White House</a></li><li><a href="https://www.smh.com.au/topic/chinese-communist-party-1n85" class="Tag-tag-2Tz1_" title="CCP">CCP</a></li></ul></div></div></section></div></section><section class="Article-mostPopular-1Am-z MostPopular-mostPopular-_wI7O"><header class="MostPopular-header-1YnCG"><h2>Most Viewed in Politics</h2></header><div><div class="StoryTile-storyTileSmall-36Q8F StoryTile-imgRight-3g4hU MostPopular-storyTile-2zzjT"><figure class="StoryTileImage-media-2vAUH"><a href="http://smh.com.au/politics/federal/australian-intelligence-knocks-back-us-government-s-wuhan-lab-virus-claim-20200504-p54pk3.html" data-vars-event-label="Australian intelligence knocks back US government&#x27;s Wuhan lab virus claim" data-vars-event-action="recommendation widget" data-vars-event-category="most popular" class="link-header"><amp-img alt="" srcset="https://static.ffx.io/images/$zoom_1.1053,$multiply_1,$ratio_1,$width_378,$x_114,$y_0/t_crop_custom/w_368/q_86,f_auto/d21148ff11ade45f6d1c1e8ccb3d0d7a46cd25d8" itemProp="image" layout="responsive" height="1" width="1"></amp-img></a></figure><div class="StoryTile-summary-3Pls2"><h5 class="StoryTile-label-2nidB StoryTile-labelSignifier-2XXCu">Exclusive</h5><h3 class="StoryTile-headline-209n0"><a href="http://smh.com.au/politics/federal/australian-intelligence-knocks-back-us-government-s-wuhan-lab-virus-claim-20200504-p54pk3.html" data-vars-event-label="Australian intelligence knocks back US government&#x27;s Wuhan lab virus claim" data-vars-event-action="recommendation widget" data-vars-event-category="most popular" class="link-header">Australian intelligence knocks back US government&#x27;s Wuhan lab virus claim</a></h3></div></div><div class="StoryTile-storyTileSmall-36Q8F StoryTile-imgRight-3g4hU MostPopular-storyTile-2zzjT"><figure class="StoryTileImage-media-2vAUH"><a href="http://smh.com.au/politics/federal/china-in-the-spotlight-as-penny-wong-and-dave-sharma-go-head-to-head-on-q-a-20200504-p54prs.html" data-vars-event-label="China in the spotlight as Penny Wong and Dave Sharma go head-to-head on Q+A" data-vars-event-action="recommendation widget" data-vars-event-category="most popular" class="link-header"><amp-img alt="" srcset="https://static.ffx.io/images/$zoom_0.7933481012658228,$multiply_1,$ratio_1,$width_378,$x_166,$y_16/t_crop_custom/w_368/q_86,f_auto/8d30cf857dfbf71fd6a29dd993654a21ae8ebd91" itemProp="image" layout="responsive" height="1" width="1"></amp-img></a></figure><div class="StoryTile-summary-3Pls2"><h3 class="StoryTile-headline-209n0"><a href="http://smh.com.au/politics/federal/china-in-the-spotlight-as-penny-wong-and-dave-sharma-go-head-to-head-on-q-a-20200504-p54prs.html" data-vars-event-label="China in the spotlight as Penny Wong and Dave Sharma go head-to-head on Q+A" data-vars-event-action="recommendation widget" data-vars-event-category="most popular" class="link-header">China in the spotlight as Penny Wong and Dave Sharma go head-to-head on Q+A</a></h3></div></div><div class="StoryTile-storyTileSmall-36Q8F StoryTile-imgRight-3g4hU MostPopular-storyTile-2zzjT"><figure class="StoryTileImage-media-2vAUH"><a href="http://smh.com.au/politics/nsw/you-failed-as-a-leader-barilaro-s-message-to-mccormack-20200505-p54q0l.html" data-vars-event-label="&#x27;You failed as a leader&#x27;: Barilaro&#x27;s message to McCormack" data-vars-event-action="recommendation widget" data-vars-event-category="most popular" class="link-header"><amp-img alt="" srcset="https://static.ffx.io/images/$zoom_0.2953,$multiply_1,$ratio_1,$width_378,$x_0,$y_0/t_crop_custom/w_368/q_86,f_auto/e5f79be73d257e43eda2e007e5c4bc33f7a18538" itemProp="image" layout="responsive" height="1" width="1"></amp-img></a></figure><div class="StoryTile-summary-3Pls2"><h5 class="StoryTile-label-2nidB">Updated</h5><h3 class="StoryTile-headline-209n0"><a href="http://smh.com.au/politics/nsw/you-failed-as-a-leader-barilaro-s-message-to-mccormack-20200505-p54q0l.html" data-vars-event-label="&#x27;You failed as a leader&#x27;: Barilaro&#x27;s message to McCormack" data-vars-event-action="recommendation widget" data-vars-event-category="most popular" class="link-header">&#x27;You failed as a leader&#x27;: Barilaro&#x27;s message to McCormack</a></h3></div></div><div class="StoryTile-storyTileSmall-36Q8F StoryTile-imgRight-3g4hU MostPopular-storyTile-2zzjT"><figure class="StoryTileImage-media-2vAUH"><a href="http://smh.com.au/politics/federal/sydney-cbd-needs-to-swing-hard-to-recover-from-double-digit-economic-hit-20200504-p54pil.html" data-vars-event-label="Sydney CBD needs to &#x27;swing hard&#x27; to recover from double-digit economic hit" data-vars-event-action="recommendation widget" data-vars-event-category="most popular" class="link-header"><amp-img alt="" srcset="https://static.ffx.io/images/$zoom_0.29212281976744187,$multiply_1,$ratio_1,$width_378,$x_740,$y_1158/t_crop_custom/w_368/q_86,f_auto/41f8d098f7417038ea69ec22b34e7cc9cf43ba21" itemProp="image" layout="responsive" height="1" width="1"></amp-img></a></figure><div class="StoryTile-summary-3Pls2"><h3 class="StoryTile-headline-209n0"><a href="http://smh.com.au/politics/federal/sydney-cbd-needs-to-swing-hard-to-recover-from-double-digit-economic-hit-20200504-p54pil.html" data-vars-event-label="Sydney CBD needs to &#x27;swing hard&#x27; to recover from double-digit economic hit" data-vars-event-action="recommendation widget" data-vars-event-category="most popular" class="link-header">Sydney CBD needs to &#x27;swing hard&#x27; to recover from double-digit economic hit</a></h3></div></div><div class="StoryTile-storyTileSmall-36Q8F StoryTile-imgRight-3g4hU MostPopular-storyTile-2zzjT"><figure class="StoryTileImage-media-2vAUH"><a href="http://smh.com.au/politics/federal/a-lot-of-work-before-there-s-a-trans-tasman-bubble-ardern-says-20200505-p54pxf.html" data-vars-event-label="&#x27;A lot of work&#x27; before there&#x27;s a trans-Tasman bubble, Ardern says" data-vars-event-action="recommendation widget" data-vars-event-category="most popular" class="link-header"><amp-img alt="" srcset="https://static.ffx.io/images/$zoom_0.20475000000000002,$multiply_1,$ratio_1,$width_378,$x_361,$y_142/t_crop_custom/w_368/q_86,f_auto/e2a1a77ca7cce98f52213cfb6a722af7d35410cf" itemProp="image" layout="responsive" height="1" width="1"></amp-img></a></figure><div class="StoryTile-summary-3Pls2"><h3 class="StoryTile-headline-209n0"><a href="http://smh.com.au/politics/federal/a-lot-of-work-before-there-s-a-trans-tasman-bubble-ardern-says-20200505-p54pxf.html" data-vars-event-label="&#x27;A lot of work&#x27; before there&#x27;s a trans-Tasman bubble, Ardern says" data-vars-event-action="recommendation widget" data-vars-event-category="most popular" class="link-header">&#x27;A lot of work&#x27; before there&#x27;s a trans-Tasman bubble, Ardern says</a></h3></div></div><div class="StoryTile-storyTileSmall-36Q8F StoryTile-imgRight-3g4hU MostPopular-storyTile-2zzjT"><figure class="StoryTileImage-media-2vAUH"><a href="http://smh.com.au/politics/federal/trans-tasman-flights-on-the-agenda-when-jacinda-ardern-joins-national-cabinet-20200504-p54pnn.html" data-vars-event-label="Trans-Tasman flights on the agenda when Jacinda Ardern joins national cabinet" data-vars-event-action="recommendation widget" data-vars-event-category="most popular" class="link-header"><amp-img alt="" srcset="https://static.ffx.io/images/$zoom_0.3637741935483871,$multiply_1,$ratio_1,$width_378,$x_418,$y_254/t_crop_custom/w_368/q_86,f_auto/b79a8733d26cec07eb1c7652659ade682f837cf9" itemProp="image" layout="responsive" height="1" width="1"></amp-img></a></figure><div class="StoryTile-summary-3Pls2"><h3 class="StoryTile-headline-209n0"><a href="http://smh.com.au/politics/federal/trans-tasman-flights-on-the-agenda-when-jacinda-ardern-joins-national-cabinet-20200504-p54pnn.html" data-vars-event-label="Trans-Tasman flights on the agenda when Jacinda Ardern joins national cabinet" data-vars-event-action="recommendation widget" data-vars-event-category="most popular" class="link-header">Trans-Tasman flights on the agenda when Jacinda Ardern joins national cabinet</a></h3></div></div></div></section><div><amp-geo layout="nodisplay"><script type="application/json">{"AmpBind":true}</script></amp-geo><amp-embed class="au-geo-filter" media="(max-width: 1023px)" width="480" height="1372px" type="plista" layout="responsive" data-countrycode="au" data-publickey="eaf6727b8eea9ad6da01d2f1" data-widgetname="amp_mobile"></amp-embed><amp-embed class="non-au-geo-filter" media="(max-width: 1023px)" width="100" height="2000" type="outbrain" layout="responsive" data-widgetIds="AMP_1"></amp-embed></div></article></div><footer id="footer" class="Footer-footer-y77aF"><div class="Footer-wrap-39_V0"><div class="Logo-logoWrap-3uPYr Logo-alignCenter-2qnYw"><a href="https://www.smh.com.au" class="Logo-logo-2ABN- smh" target="_blank"><h2>The Sydney Morning Herald</h2><span class="Logo-smh-YClUs"></span></a></div><ul class="Social-social-2tZpI"><li><a href="https://twitter.com/smh"><span>Twitter</span><svg class="Icon-twitter-dHuim" height="1em" width="1em" aria-hidden="true"></svg></a></li><li><a href="http://www.facebook.com/sydneymorningherald"><span>Facebook</span><svg class="Icon-facebook-1JlQV" height="1em" width="1em" aria-hidden="true"></svg></a></li><li><a href="https://www.instagram.com/sydneymorningherald"><span>Instagram</span><svg class="Icon-instagram-3RhML" height="1em" width="1em" aria-hidden="true"></svg></a></li></ul><section class="Links-linkGroups-2cb-t"><amp-state id="footerLinks"><script type="application/json">
+              {
+                "activeIndex": null
+              }
+            </script></amp-state><nav class="Links-linkGroup-3WLzB">
+              <h3
+                class=Links-linkGroupHeading-2_Vga
+                [class]="footerLinks.activeIndex != 0 ? 'Links-linkGroupHeading-2_Vga' : 'Links-expanded-11Kl2 Links-linkGroupHeading-2_Vga'"
+                role="tab"
+                tabindex=0
+              >
+                <a on="tap:AMP.setState({
+                    footerLinks: {
+                      activeIndex: footerLinks.activeIndex != 0 ? 0 : null
+                    }
+                  })"
+                >
+                  <span class=Links-heading-2g7Mb>Our Sites</span>
+                  <span class=Links-icon-2hufO>
+                    <svg class="Icon-arrowsdown-KpnrB" height="1em" width="12px" aria-hidden="true"></svg>
+                  </span>
+                </a>
+              </h3>
+              <ul
+                class=Links-linkGroupList-2q5mS
+                [class]="footerLinks.activeIndex != 0 ? 'Links-linkGroupList-2q5mS' : 'Links-expanded-11Kl2 Links-linkGroupList-2q5mS'"
+                role="region"
+              >
+                <li><a href="https://www.smh.com.au">The Sydney Morning Herald</a></li><li><a href="https://www.theage.com.au">The Age</a></li><li><a href="https://www.brisbanetimes.com.au">Brisbane Times</a></li><li><a href="https://www.watoday.com.au">WAtoday</a></li><li><a href="https://www.afr.com">The Australian Financial Review</a></li><li><a href="https://www.domain.com.au">Domain</a></li><li><a href="http://www.traveller.com.au">Traveller</a></li><li><a href="https://www.goodfood.com.au">Good Food</a></li><li><a href="http://www.executivestyle.com.au">Executive Style</a></li><li><a href="https://www.thestore.com.au">The Store</a></li><li><a href="https://www.drive.com.au">Drive</a></li><li><a href="https://www.caradvice.com.au">CarAdvice</a></li><li><a href="https://www.rsvp.com.au">RSVP</a></li><li><a href="http://www.weatherzone.com.au">Weatherzone</a></li>
+              </ul>
+            </nav><nav class="Links-linkGroup-3WLzB">
+              <h3
+                class=Links-linkGroupHeading-2_Vga
+                [class]="footerLinks.activeIndex != 1 ? 'Links-linkGroupHeading-2_Vga' : 'Links-expanded-11Kl2 Links-linkGroupHeading-2_Vga'"
+                role="tab"
+                tabindex=1
+              >
+                <a on="tap:AMP.setState({
+                    footerLinks: {
+                      activeIndex: footerLinks.activeIndex != 1 ? 1 : null
+                    }
+                  })"
+                >
+                  <span class=Links-heading-2g7Mb>Classifieds</span>
+                  <span class=Links-icon-2hufO>
+                    <svg class="Icon-arrowsdown-KpnrB" height="1em" width="12px" aria-hidden="true"></svg>
+                  </span>
+                </a>
+              </h3>
+              <ul
+                class=Links-linkGroupList-2q5mS
+                [class]="footerLinks.activeIndex != 1 ? 'Links-linkGroupList-2q5mS' : 'Links-expanded-11Kl2 Links-linkGroupList-2q5mS'"
+                role="region"
+              >
+                <li><a href="https://tributes.smh.com.au/obituaries/smh-au/">Tributes</a></li><li><a href="https://celebrations.smh.com.au/celebration/smh-au/">Celebrations</a></li><li><a href="https://advertisers.com.au">Place your ad</a></li><li><a href="https://www.commercialrealestate.com.au">Commercial Real Estate</a></li><li><a href="https://www.oneflare.com.au">Oneflare</a></li>
+              </ul>
+            </nav><nav class="Links-linkGroup-3WLzB">
+              <h3
+                class=Links-linkGroupHeading-2_Vga
+                [class]="footerLinks.activeIndex != 2 ? 'Links-linkGroupHeading-2_Vga' : 'Links-expanded-11Kl2 Links-linkGroupHeading-2_Vga'"
+                role="tab"
+                tabindex=2
+              >
+                <a on="tap:AMP.setState({
+                    footerLinks: {
+                      activeIndex: footerLinks.activeIndex != 2 ? 2 : null
+                    }
+                  })"
+                >
+                  <span class=Links-heading-2g7Mb>The Sydney Morning Herald</span>
+                  <span class=Links-icon-2hufO>
+                    <svg class="Icon-arrowsdown-KpnrB" height="1em" width="12px" aria-hidden="true"></svg>
+                  </span>
+                </a>
+              </h3>
+              <ul
+                class=Links-linkGroupList-2q5mS
+                [class]="footerLinks.activeIndex != 2 ? 'Links-linkGroupList-2q5mS' : 'Links-expanded-11Kl2 Links-linkGroupList-2q5mS'"
+                role="region"
+              >
+                <li><a href="https://www.smh.com.au/contact-us">Contact &amp; support</a></li><li><a href="https://www.adcentre.com.au/brands/the-sydney-morning-herald">Advertise with us</a></li><li><a href="https://smh.myfairfax.com.au/members/lite_session/new?callback_uri=https%3A%2F%2Fsmh.myfairfax.com.au%2Fbeta%2Fmembers%2Fmy_account%2Fnewsletters%3Fchannel_key%3DzHE9EWDHf1XPuz3Phk0YIg%26callback_uri%3Dhttps%253a%252f%252fwww.smh.com.au&amp;channel_key=zHE9EWDHf1XPuz3Phk0YIg">Newsletters</a></li><li><a href="https://www.smh.com.au/siteguide/accessibility">Accessibility guide</a></li><li><a href="https://www.smh.com.au/siteguide">Sitemap</a></li><li><a href="https://consumer.fairfaxsyndication.com/C.aspx?VP3=CMS3&amp;VF=FXJFX2_2_VForm">Photo sales</a></li><li><a href="https://frontpages.fairfaxsyndication.com/C.aspx?VP3=CMS3&amp;VF=FXJFX2_3_VForm">Purchase front pages</a></li><li><a href="https://www.fairfaxsyndication.com/C.aspx?VP3=CMS3&amp;VF=FXJO50_1">Content licensing</a></li><li><a href="http://www.fairfaxevents.com.au">Our events</a></li><li><a href="https://www.nineforbrands.com.au/about/careers/">Work with us</a></li><li><a href="https://www.smh.com.au/conditions-of-use">Conditions of use</a></li><li><a href="https://www.smh.com.au/privacy">Privacy policy</a></li><li><a href="https://www.thesmhinsider.com.au/c/a/5dAvszx5Lm7C4GDU21EWmQ?dPanel=2">Website feedback</a></li><li><a href="https://www.presscouncil.org.au/what-we-do">Press Council</a></li>
+              </ul>
+            </nav><nav class="Links-linkGroup-3WLzB">
+              <h3
+                class=Links-linkGroupHeading-2_Vga
+                [class]="footerLinks.activeIndex != 3 ? 'Links-linkGroupHeading-2_Vga' : 'Links-expanded-11Kl2 Links-linkGroupHeading-2_Vga'"
+                role="tab"
+                tabindex=3
+              >
+                <a on="tap:AMP.setState({
+                    footerLinks: {
+                      activeIndex: footerLinks.activeIndex != 3 ? 3 : null
+                    }
+                  })"
+                >
+                  <span class=Links-heading-2g7Mb>Products & Services</span>
+                  <span class=Links-icon-2hufO>
+                    <svg class="Icon-arrowsdown-KpnrB" height="1em" width="12px" aria-hidden="true"></svg>
+                  </span>
+                </a>
+              </h3>
+              <ul
+                class=Links-linkGroupList-2q5mS
+                [class]="footerLinks.activeIndex != 3 ? 'Links-linkGroupList-2q5mS' : 'Links-expanded-11Kl2 Links-linkGroupList-2q5mS'"
+                role="region"
+              >
+                <li><a href="https://subscribe.smh.com.au/?promote_channel=HI_SMH_GNL_FT">Subscription packages</a></li><li><a href="https://subscribers.smh.com.au">Subscriber benefits</a></li><li><a href="https://www.smh.com.au/myaccount">My account</a></li><li><a href="https://subscribers.smh.com.au/support-centre/overview">Subscriptions FAQs</a></li><li><a href="https://www.smh.com.au/nsw/digitaleditionredirector">Today&#x27;s Paper</a></li>
+              </ul>
+            </nav></section><div class="Footer-copyright-1U4cI"><p>Copyright © 2020</p></div></div></footer></div></div><amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-W59X7BR&amp;gtm.url=SOURCE_URL" data-credentials="include"><script type="application/json">{"vars":{"assetId":"p54pk3","author":"Anthony Galloway, Eryk Bagshaw","subCategory1":"federal","primaryCategory":"politics","publishDate":"2020-05-04T09:30:00+00:00","updateDate":"2020-05-04T09:30:00+00:00","brand":"smh","pageContext":"{\"author\":\"Anthony Galloway, Eryk Bagshaw\"}","customPageViewID":"p54pk3-1588671737-${pageViewId}"},"triggers":{"trackClickOnHeader":{"on":"click","selector":".link-header","request":"event","vars":{"eventCategory":"${eventCategory}","eventAction":"${eventAction}","eventLabel":"${eventLabel}"}}}}</script></amp-analytics><amp-analytics type="nielsen"><script type="application/json">{"vars":{"apid":"B558EC72-3574-47F8-A751-9295B02D97E2","apv":"1.0","section":"smh.com.au-politics","segB":"The Sydney Morning Herald - Politics - Federal","segC":"The Sydney Morning Herald - Google AMP"}}</script></amp-analytics><amp-analytics type="snowplow" id="snowplow2"><script type="application/json">{"vars":{"appId":"smh-amp","collectorHost":"i.ffx.io"},"extraUrlParams":{"co":"{\"schema\":\"iglu:com.snowplowanalytics.snowplow/contexts/jsonschema/1-0-0\",\"data\":[{\"schema\":\"iglu:au.com.fairfaxmedia/metadata/jsonschema/1-0-6\",\"data\":{\"brand.name\":\"smh\",\"page.assetId\":\"p54pk3\",\"page.author\":\"Anthony Galloway, Eryk Bagshaw\",\"page.customReferrer\":\"${documentReferrer}\",\"page.renderedPlatform\":\"AMP\",\"page.publishDate\":\"2020-05-04T09:30:00+00:00\",\"page.title\":\"${title}\",\"page.type\":\"article\",\"page.updateDate\":\"2020-05-04T09:30:00+00:00\",\"page.viewID\":\"p54pk3-1588671737-${pageViewId}\",\"section.primaryCategory\":\"politics\",\"section.subCategory\":\"federal\",\"subs.memberID\":\"AUTHDATA(data.membershipID)\",\"subs.memberType\":\"AUTHDATA(data.membershipType)\",\"subs.meterCount\":\"AUTHDATA(data.meterCount)\"}}]}","stm":1588671736877},"triggers":{"trackPageview":{"on":"visible","request":"pageView"},"trackClickOnHeader":{"on":"click","selector":".link-header","request":"structEvent","vars":{"structEventCategory":"${eventCategory}","structEventAction":"${eventAction}","structEventLabel":"${eventLabel}","structEventProperty":"click","structEventValue":0}},"trackLoginClick":{"on":"subscriptions-action-login-started","request":"structEvent","vars":{"structEventCategory":"meter","structEventAction":"log in start","structEventLabel":"AUTHDATA(data.promptType)","structEventValue":0}},"trackMeterImpression":{"on":"subscriptions-access-granted","request":"structEvent","vars":{"structEventCategory":"meter","structEventAction":"impression","structEventLabel":"AUTHDATA(data.promptType)","structEventValue":0}},"trackMeteringInformation":{"on":"subscriptions-service-activated","request":"structEvent","vars":{"structEventCategory":"authentication","structEventAction":"callback","structEventLabel":"membership details","structEventValue":0}},"trackPaywallImpression":{"on":"subscriptions-paywall-activated","request":"structEvent","vars":{"structEventCategory":"meter","structEventAction":"impression","structEventLabel":"paywall","structEventValue":0}},"trackSubscribeClick":{"on":"subscriptions-action-subscribe-started","request":"structEvent","vars":{"structEventCategory":"meter","structEventAction":"cta click","structEventLabel":"AUTHDATA(data.promptType)","structEventValue":0}}}}</script></amp-analytics><amp-analytics type="parsely"><script type="application/json">{"vars":{"apikey":"smh.com.au","data":"{\"_pageviewID\":\"p54pk3-1588671737-${pageViewId}\"}"},"requests":{"basePrefix":"${host}/plogger/?rand=${timestamp}&plid=${pageViewId}&idsite=${apikey}&url=${ampdocUrl}&urlref=${documentReferrer}&screen=${screenWidth}x${screenHeight}%7C${availableScreenWidth}x${availableScreenHeight}%7C${screenColorDepth}&data=${data}&title=${title}&date=${timestamp}&ampid=${clientId(_parsely_visitor)}&pvid=${pageViewId}"}}</script></amp-analytics></body></html>

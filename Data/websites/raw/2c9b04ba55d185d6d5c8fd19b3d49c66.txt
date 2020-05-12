@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+<html lang="en-US"
+ xmlns:fb="http://ogp.me/ns/fb#" class="no-js">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="profile" href="https://gmpg.org/xfn/11">
+    <title>Narcos hand out food and lend money without interest to families suffering from the coronavirus in Mexico. &#8211; The Yucatan Times</title>
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Yucatan Times &raquo; Narcos hand out food and lend money without interest to families suffering from the coronavirus in Mexico. Comments Feed" href="https://www.theyucatantimes.com/2020/05/narcos-hand-out-food-and-lend-money-without-interest-to-families-suffering-from-the-coronavirus-in-mexico/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.10.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.10.4';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-46004065-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-46004065-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.theyucatantimes.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='siteorigin-panels-front-css'  href='https://www.theyucatantimes.com/wp-content/plugins/mag-builder/css/front.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.theyucatantimes.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='jsj-gallery-slideshow-classic-caption-css'  href='https://www.theyucatantimes.com/wp-content/plugins/jsj-gallery-slideshow/themes/default-captions/css/main.css' type='text/css' media='all' />
+<link rel='stylesheet' id='newspapertimes-style-css'  href='https://www.theyucatantimes.com/wp-content/themes/newspapertimes-2017/style.css?v=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='googleFonts-css'  href='https://fonts.googleapis.com/css?family=Libre+Franklin%3A400%2C500%2C700%7CSource+Serif+Pro%3A400%2C600%2C700' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-dark-0-css'  href='https://www.theyucatantimes.com/wp-content/plugins/cyclone-slider-2/templates/dark/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-default-0-css'  href='https://www.theyucatantimes.com/wp-content/plugins/cyclone-slider-2/templates/default/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-standard-0-css'  href='https://www.theyucatantimes.com/wp-content/plugins/cyclone-slider-2/templates/standard/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-thumbnails-0-css'  href='https://www.theyucatantimes.com/wp-content/plugins/cyclone-slider-2/templates/thumbnails/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_fonticons_ii-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/css/um-fonticons-ii.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_fonticons_fa-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/css/um-fonticons-fa.css' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/css/select2/select2.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_crop-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/css/um-crop.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_modal-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/css/um-modal.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_styles-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/css/um-styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_profile-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/css/um-profile.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_account-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/css/um-account.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_misc-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/css/um-misc.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_fileupload-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/css/um-fileupload.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_datetime-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/css/pickadate/default.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_datetime_date-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/css/pickadate/default.date.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_datetime_time-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/css/pickadate/default.time.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_raty-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/css/um-raty.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_scrollbar-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/css/simplebar.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_tipsy-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/css/um-tipsy.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_responsive-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/css/um-responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_default_css-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/css/um-old-default.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_old_css-css'  href='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/../../uploads/ultimatemember/um_old_settings.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://www.theyucatantimes.com/wp-content/plugins/jetpack/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/www.theyucatantimes.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/itro-popup/scripts/itro-scripts.js'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/um-gdpr.min.js'></script>
+<link rel='https://api.w.org/' href='https://www.theyucatantimes.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.theyucatantimes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.theyucatantimes.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='200 Mexicans who died from coronavirus in the U.S. are being repatriated' href='https://www.theyucatantimes.com/2020/05/200-mexicans-who-died-from-coronavirus-in-the-u-s-are-bieng-repatriated/' />
+<link rel='next' title='The third consecutive day with more than 40 cases of Covid-19 in Yucatan' href='https://www.theyucatantimes.com/2020/05/the-third-consecutive-day-with-more-than-40-cases-of-covid-19-in-yucatan/' />
+<meta name="generator" content="WordPress 5.4.1" />
+<link rel='shortlink' href='https://www.theyucatantimes.com/?p=107453' />
+<link rel="alternate" type="application/json+oembed" href="https://www.theyucatantimes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.theyucatantimes.com%2F2020%2F05%2Fnarcos-hand-out-food-and-lend-money-without-interest-to-families-suffering-from-the-coronavirus-in-mexico%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.theyucatantimes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.theyucatantimes.com%2F2020%2F05%2Fnarcos-hand-out-food-and-lend-money-without-interest-to-families-suffering-from-the-coronavirus-in-mexico%2F&#038;format=xml" />
+<meta property="fb:app_id" content="383687581768796"/><script type="application/javascript" src="https://ced.sascdn.com/tag/3286/smart.js" async></script>
+<script type="application/javascript">
+    var sas = sas || {};
+    sas.cmd = sas.cmd || [];
+    sas.cmd.push(function() {
+        sas.setup({ networkid: 3286, domain: "https://www15.smartadserver.com", async: true });
+    });
+    sas.cmd.push(function() {
+        sas.call("onecall", {
+            siteId: 276359,
+            pageId: 1025731,
+            formats: [
+                 { id: 72568 }
+                ,{ id: 72563 }
+                ,{ id: 72567 }
+                ,{ id: 72564 }
+                ,{ id: 72565 }
+                ,{ id: 90658 }
+                ,{ id: 72209 }
+            ],
+            target: ''
+        });
+    });
+</script><meta name="google-site-verification" content="iCxwlG5OzDPE1WfF3M87j-tF_1DFjYaJULWkvvoM4UQ" />
+		<style type="text/css">
+			.um_request_name {
+				display: none !important;
+			}
+		</style>
+	<style type='text/css'>img#wpstats{display:none}</style>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Narcos hand out food and lend money without interest to families suffering from the coronavirus in Mexico." />
+<meta property="og:url" content="https://www.theyucatantimes.com/2020/05/narcos-hand-out-food-and-lend-money-without-interest-to-families-suffering-from-the-coronavirus-in-mexico/" />
+<meta property="og:description" content="The leaders of the drug trade in the Gulf of Mexico have become the saviors of those who have no money to survive. MEXICO (AristeguiNoticias) &#8211; Mexico is a country that, to this day, resists …" />
+<meta property="article:published_time" content="2020-05-03T13:49:06+00:00" />
+<meta property="article:modified_time" content="2020-05-03T13:49:08+00:00" />
+<meta property="og:site_name" content="The Yucatan Times" />
+<meta property="og:image" content="https://www.theyucatantimes.com/wp-content/uploads/2020/05/despensas-narco-comunidades-covid-30042020-482x220-2.jpg" />
+<meta property="og:image:width" content="630" />
+<meta property="og:image:height" content="287" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:creator" content="@theyucatantimes" />
+<meta name="twitter:site" content="@theyucatantimes" />
+<meta name="twitter:text:title" content="Narcos hand out food and lend money without interest to families suffering from the coronavirus in Mexico." />
+<meta name="twitter:image" content="https://www.theyucatantimes.com/wp-content/uploads/2020/05/despensas-narco-comunidades-covid-30042020-482x220-2.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://www.theyucatantimes.com/wp-content/uploads/2018/01/cropped-logo-tyt3-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://www.theyucatantimes.com/wp-content/uploads/2018/01/cropped-logo-tyt3-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.theyucatantimes.com/wp-content/uploads/2018/01/cropped-logo-tyt3-300x300.png" />
+<meta name="msapplication-TileImage" content="https://www.theyucatantimes.com/wp-content/uploads/2018/01/cropped-logo-tyt3-300x300.png" />
+		<style type="text/css" id="wp-custom-css">
+			.footer-nav ul li a {
+    color: #00244e;
+    font-size: 14px;
+    line-height: 22px;
+    text-decoration: none;
+    font-family: 'Libre Franklin', sans-serif;
+}		</style>
+		</head>
+
+<body data-rsssl=1 class="post-template-default single single-post postid-107453 wp-custom-logo">
+<div id="wrapper">
+  <header id="header">
+            <div class="container">
+                <div class="row">
+                                        <div class="header-top">
+                        <div class="col-md-9 col-sm-9">
+                            <div class="header-top-catag">
+                               
+                                 <div class="menu-top-mecu-container"><ul id="menu-top-mecu" class="nav-part-1"><li id="menu-item-9690" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9690"><a href="https://www.theyucatantimes.com/category/letters-to-the-editor/">Letters to the Editor</a></li>
+<li id="menu-item-9691" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9691"><a href="https://www.theyucatantimes.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-26397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26397"><a href="https://www.theyucatantimes.com/about-us/">About Us</a></li>
+<li id="menu-item-26398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26398"><a href="https://www.theyucatantimes.com/suscribe-tyt/">Subscribe to TYT</a></li>
+<li id="menu-item-26374" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26374"><a href="https://www.theyucatantimes.com/advertise/">Advertise With Us</a></li>
+</ul></div>                            </div><!-- /.header-top-catag -->
+                        </div><!-- /.col-9 -->
+                        <div class="col-md-3 col-sm-3">
+                            <div class="header-top-right">
+                                Tuesday 05 May, 2020                            </div><!-- /.header-top-right -->
+                        </div><!-- /.col-3 -->
+                    </div><!-- /.header-top -->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+
+
+            <div class="container">
+                            <div class="nav-part logo_width_ad_menu">
+                              <div id="nav-icon">
+                                   <span></span>
+                                   <span></span>
+                                   <span></span>
+                                   <span></span>
+                              </div>
+                            </div><!-- /.nav-part --> 
+
+                <div class="row"> 
+           
+                              <div class="logo-ads-block">
+               <div class="logo-ad">
+                  <a href="https://www.theyucatantimes.com">
+                      <img src="https://www.theyucatantimes.com/wp-content/uploads/2018/01/TheYucatanTimes-Logo.jpg"></a>  
+               </div><!-- /.log-ad -->
+                                   <div class="ads-block">
+                      <div tabindex="0" class="cycloneslider cycloneslider-template-standard cycloneslider-width-responsive" id="cycloneslider-header_ad_tyt-1" style="max-width:600px" > <div class="cycloneslider-slides cycle-slideshow" data-cycle-allow-wrap="true" data-cycle-dynamic-height="off" data-cycle-auto-height="600:90" data-cycle-auto-height-easing="null" data-cycle-auto-height-speed="250" data-cycle-delay="0" data-cycle-easing="" data-cycle-fx="scrollHorz" data-cycle-hide-non-active="true" data-cycle-log="false" data-cycle-next="#cycloneslider-header_ad_tyt-1 .cycloneslider-next" data-cycle-pager="#cycloneslider-header_ad_tyt-1 .cycloneslider-pager" data-cycle-pause-on-hover="true" data-cycle-prev="#cycloneslider-header_ad_tyt-1 .cycloneslider-prev" data-cycle-slides="&gt; div" data-cycle-speed="1000" data-cycle-swipe="1" data-cycle-tile-count="2" data-cycle-tile-delay="100" data-cycle-tile-vertical="true" data-cycle-timeout="7000" > <div class="cycloneslider-slide cycloneslider-slide-image" > <a class="cycloneslider-caption-more" target="_blank" href="https://www.facebook.com/Almadia.mex/"> <img src="https://www.theyucatantimes.com/wp-content/uploads/2020/01/600x90-Ingles.gif" alt="" title="" /> </a> </div> <div class="cycloneslider-slide cycloneslider-slide-image" > <a class="cycloneslider-caption-more" target="_blank" href="http://www.sanmigueltimes.com"> <img src="https://www.theyucatantimes.com/wp-content/uploads/2016/06/Banner-Horizontal-Superior-San-Miguel-Times.jpg" alt="" title="" /> </a> </div> </div> </div>                    </div><!-- /# id -->
+                    <div class="logo-ad-mobile">
+                  <a href="https://www.theyucatantimes.com">
+                      <img src="https://www.theyucatantimes.com/wp-content/uploads/2018/01/TheYucatanTimes-Logo.jpg"></a>  
+               			</div><!-- /.log-ad -->
+                               </div><!-- /.logo-ads-block -->
+                                
+            </div><!--/.row -->
+<div class="nav-part logo_width_ad_menu">
+    <nav id="site-navigation" class="main-navigation" role="navigation">
+                <div class="mobilemenu">
+                  <div class="menu-mainmenu-container"><ul id="menu-mainmenu" class="mobile-menu"><li id="menu-item-26216" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-26216"><a href="https://www.theyucatantimes.com/">Home</a></li>
+<li id="menu-item-26217" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-26217"><a href="https://www.theyucatantimes.com/category/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-26328" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26328"><a href="https://www.theyucatantimes.com/category/news/peninsula-news/">Peninsula</a>
+	<ul class="sub-menu">
+		<li id="menu-item-26329" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26329"><a href="https://www.theyucatantimes.com/category/news/peninsula-news/merida-news/">Merida</a></li>
+		<li id="menu-item-27131" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27131"><a href="https://www.theyucatantimes.com/category/local-news/valladolid-news/">Valladolid</a></li>
+		<li id="menu-item-26330" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26330"><a href="https://www.theyucatantimes.com/category/news/peninsula-news/beach-communities/">Beach Communities</a></li>
+		<li id="menu-item-27425" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27425"><a href="https://www.theyucatantimes.com/category/news/peninsula-news/yucatan-news-peninsula-news/">Yucatan</a></li>
+		<li id="menu-item-26333" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26333"><a href="https://www.theyucatantimes.com/category/news/peninsula-news/campeche-news/">Campeche</a></li>
+		<li id="menu-item-26335" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26335"><a href="https://www.theyucatantimes.com/category/news/peninsula-news/q-roo-news/">Q. Roo</a></li>
+		<li id="menu-item-26337" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26337"><a href="https://www.theyucatantimes.com/category/news/peninsula-news/riviera-maya-news/">Riviera Maya</a></li>
+	</ul>
+</li>
+	<li id="menu-item-26340" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-26340"><a href="https://www.theyucatantimes.com/category/news/national-news/">National</a></li>
+	<li id="menu-item-26341" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26341"><a href="https://www.theyucatantimes.com/category/news/international-news/">International</a></li>
+	<li id="menu-item-26342" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26342"><a href="https://www.theyucatantimes.com/category/news/crime-news/">Crime</a></li>
+</ul>
+</li>
+<li id="menu-item-95482" class="menu-item menu-item-type- menu-item-object- menu-item-95482"><a></a></li>
+<li id="menu-item-26318" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26318"><a href="https://www.theyucatantimes.com/category/travel/">Travel</a></li>
+<li id="menu-item-26238" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26238"><a href="https://www.theyucatantimes.com/category/lifestyle/">Lifestyle</a>
+<ul class="sub-menu">
+	<li id="menu-item-27153" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27153"><a href="https://www.theyucatantimes.com/category/lifestyle/expatcommunity/">Expat Community</a></li>
+	<li id="menu-item-26312" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26312"><a href="https://www.theyucatantimes.com/category/lifestyle/art-and-culture/">Art and Culture</a></li>
+	<li id="menu-item-26313" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26313"><a href="https://www.theyucatantimes.com/category/lifestyle/entertainment/">Entertainment</a></li>
+	<li id="menu-item-73581" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73581"><a href="https://www.theyucatantimes.com/category/lifestyle/sponsored-content/">Sponsored Content</a></li>
+	<li id="menu-item-26393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26393"><a href="http://www.inmerida.com/">Directory</a></li>
+</ul>
+</li>
+<li id="menu-item-26292" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26292"><a href="https://www.theyucatantimes.com/category/planet-yuca/">Yuca Planet</a>
+<ul class="sub-menu">
+	<li id="menu-item-27127" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27127"><a href="https://www.theyucatantimes.com/category/historic-yucatan/">Historic Yucatan</a></li>
+	<li id="menu-item-26321" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26321"><a href="https://www.theyucatantimes.com/category/planet-yuca/maya-universe/">Maya Universe</a></li>
+	<li id="menu-item-26320" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26320"><a href="https://www.theyucatantimes.com/category/planet-yuca/environment/">Environment</a></li>
+	<li id="menu-item-26323" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26323"><a href="https://www.theyucatantimes.com/category/planet-yuca/wildlife/">Wildlife</a></li>
+	<li id="menu-item-26322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26322"><a href="https://www.theyucatantimes.com/category/planet-yuca/pets/">Pets</a></li>
+</ul>
+</li>
+<li id="menu-item-26290" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26290"><a href="https://www.theyucatantimes.com/category/real-estate/">Real Estate</a>
+<ul class="sub-menu">
+	<li id="menu-item-34081" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34081"><a href="https://www.theyucatantimes.com/category/real-estate/house-of-the-week/">House of the Week</a></li>
+</ul>
+</li>
+<li id="menu-item-26294" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26294"><a href="https://www.theyucatantimes.com/category/business-2/">Business</a>
+<ul class="sub-menu">
+	<li id="menu-item-26349" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26349"><a href="https://www.theyucatantimes.com/category/business-2/business/">Business</a></li>
+	<li id="menu-item-26350" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26350"><a href="https://www.theyucatantimes.com/category/business-2/yucatech/">YucaTech</a></li>
+</ul>
+</li>
+<li id="menu-item-26316" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26316"><a href="https://www.theyucatantimes.com/category/food-drink/">Food and Drink</a></li>
+<li id="menu-item-26317" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26317"><a href="https://www.theyucatantimes.com/category/medical-tourism/">Medical Tourism</a>
+<ul class="sub-menu">
+	<li id="menu-item-47812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47812"><a href="https://www.theyucatantimes.com/specialists/">Specialists</a></li>
+	<li id="menu-item-39508" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39508"><a href="https://www.theyucatantimes.com/category/medical-tourism/hospitals/">Hospitals</a></li>
+	<li id="menu-item-39509" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39509"><a href="https://www.theyucatantimes.com/category/medical-tourism/pharmacies/">Pharmaceutical</a></li>
+	<li id="menu-item-39511" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39511"><a href="https://www.theyucatantimes.com/category/medical-tourism/wellness/">Wellness</a></li>
+</ul>
+</li>
+<li id="menu-item-27426" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27426"><a href="https://www.theyucatantimes.com/category/columns/">Columns</a></li>
+</ul></div> 
+                </div><!-- /.mobilemenu -->
+                </nav> 
+            </div>
+            </div><!-- /.container -->
+            <div class="container">
+                <div class="row">
+                    <div class="headlines">
+                      <div class="headlines-block">
+                            <div class="col-md-9 col-sm-9">
+                                                              <div class="headlines-text">
+                                                                      <span>HEADLINES</span>
+                                                                  <div class="sliding-text">
+                                                                        <div class="slider-text">
+                                            <a href="https://www.theyucatantimes.com/2020/05/poachers-in-the-south-of-merida-have-illegally-killed-60-deer-in-the-last-month/">Poachers in the south of Merida have illegally killed 60 deer in the last month</a>
+                                        </div><!-- /.slider-text -->
+                                                                        <div class="slider-text">
+                                            <a href="https://www.theyucatantimes.com/2020/05/us-house-democrats-propose-2000-coronavirus-stimulus-payment-per-month/">US House Democrats propose $2,000 coronavirus stimulus payment per month</a>
+                                        </div><!-- /.slider-text -->
+                                                                        <div class="slider-text">
+                                            <a href="https://www.theyucatantimes.com/2020/05/not-the-authority-but-the-sons-of-el-chapo-impose-curfew-in-culiacan/">Not the authority, but the sons of El Chapo impose curfew in Culiacán</a>
+                                        </div><!-- /.slider-text -->
+                                                                        <div class="slider-text">
+                                            <a href="https://www.theyucatantimes.com/2020/05/mex-covid19-daily-briefing-in-english/">MEX-COVID19 Daily Briefing in English</a>
+                                        </div><!-- /.slider-text -->
+                                                                        <div class="slider-text">
+                                            <a href="https://www.theyucatantimes.com/2020/05/number-of-patients-in-intensive-care-beds-will-peak-this-week-lopez-gatell/">&#8220;Number of patients in intensive care beds will peak this week&#8221; (López Gatell)</a>
+                                        </div><!-- /.slider-text -->
+                                                                                                </div><!-- /.sliding-text -->
+                                </div><!-- /.headlines-text -->
+                                                          </div><!-- /.col-md-8 col-sm-8 -->
+                        <div class="col-md-3 col-sm-3">
+							                            
+							                            <div class="social-icons-top">
+                            <ul>
+                            <li><a href="https://www.facebook.com/pages/The-Yucatan-Times/123045784444207?ref=hl" target="blank">
+                            <i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                            <li><a href="" target="blank">
+                            <i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                            </ul>
+                            </div>
+                            <div class="lightbox-target" id="goofy">
+                               <div class="social-icons-header">
+                                                                    <li><a href="https://www.facebook.com/pages/The-Yucatan-Times/123045784444207?ref=hl" target="blank">
+                                        <i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                    </li>
+                                                                                                                                                                 
+                                                                                                                                                                                                                               </div><!-- /.social-icons -->
+                               <a class="lightbox-close" href="#"><i class="fa fa-times" aria-hidden="true"></i></a>
+                            </div>
+                            <div class="search-btn">
+                           	   <form role="search" method="get" class="search-form" action="https://www.theyucatantimes.com/">
+                                    <label>
+                                        <input type="search" placeholder="Search here..." value="" name="s">
+                                    </label>                                    
+                                    <button class="search-submit" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>                                
+                                </form>
+                            </div>
+                            <div class="add-to-cart"> <div class="storefront-primary-navigation">                            </div>
+                        </div><!-- /.col-md-4 -col-sm-4 -->
+                      </div><!-- /.headlines-part -->
+                     </div><!-- /.headlines -->
+                                          <div class="headlines-part">
+                     <div class="col-lg-12 col-md-12 col-sm-12 npt-blackmenu">
+                         <div class="headlines-catag">
+                            <div class="menu-mainmenu-container"><ul id="menu-mainmenu-1" class="nav-part-3"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-26216"><a href="https://www.theyucatantimes.com/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-26217"><a href="https://www.theyucatantimes.com/category/news/">News</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26328"><a href="https://www.theyucatantimes.com/category/news/peninsula-news/">Peninsula</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26329"><a href="https://www.theyucatantimes.com/category/news/peninsula-news/merida-news/">Merida</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27131"><a href="https://www.theyucatantimes.com/category/local-news/valladolid-news/">Valladolid</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26330"><a href="https://www.theyucatantimes.com/category/news/peninsula-news/beach-communities/">Beach Communities</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27425"><a href="https://www.theyucatantimes.com/category/news/peninsula-news/yucatan-news-peninsula-news/">Yucatan</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26333"><a href="https://www.theyucatantimes.com/category/news/peninsula-news/campeche-news/">Campeche</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26335"><a href="https://www.theyucatantimes.com/category/news/peninsula-news/q-roo-news/">Q. Roo</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26337"><a href="https://www.theyucatantimes.com/category/news/peninsula-news/riviera-maya-news/">Riviera Maya</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-26340"><a href="https://www.theyucatantimes.com/category/news/national-news/">National</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26341"><a href="https://www.theyucatantimes.com/category/news/international-news/">International</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26342"><a href="https://www.theyucatantimes.com/category/news/crime-news/">Crime</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type- menu-item-object- menu-item-95482"><a></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26318"><a href="https://www.theyucatantimes.com/category/travel/">Travel</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26238"><a href="https://www.theyucatantimes.com/category/lifestyle/">Lifestyle</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27153"><a href="https://www.theyucatantimes.com/category/lifestyle/expatcommunity/">Expat Community</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26312"><a href="https://www.theyucatantimes.com/category/lifestyle/art-and-culture/">Art and Culture</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26313"><a href="https://www.theyucatantimes.com/category/lifestyle/entertainment/">Entertainment</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73581"><a href="https://www.theyucatantimes.com/category/lifestyle/sponsored-content/">Sponsored Content</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26393"><a href="http://www.inmerida.com/">Directory</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26292"><a href="https://www.theyucatantimes.com/category/planet-yuca/">Yuca Planet</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27127"><a href="https://www.theyucatantimes.com/category/historic-yucatan/">Historic Yucatan</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26321"><a href="https://www.theyucatantimes.com/category/planet-yuca/maya-universe/">Maya Universe</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26320"><a href="https://www.theyucatantimes.com/category/planet-yuca/environment/">Environment</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26323"><a href="https://www.theyucatantimes.com/category/planet-yuca/wildlife/">Wildlife</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26322"><a href="https://www.theyucatantimes.com/category/planet-yuca/pets/">Pets</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26290"><a href="https://www.theyucatantimes.com/category/real-estate/">Real Estate</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34081"><a href="https://www.theyucatantimes.com/category/real-estate/house-of-the-week/">House of the Week</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26294"><a href="https://www.theyucatantimes.com/category/business-2/">Business</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26349"><a href="https://www.theyucatantimes.com/category/business-2/business/">Business</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26350"><a href="https://www.theyucatantimes.com/category/business-2/yucatech/">YucaTech</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26316"><a href="https://www.theyucatantimes.com/category/food-drink/">Food and Drink</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26317"><a href="https://www.theyucatantimes.com/category/medical-tourism/">Medical Tourism</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47812"><a href="https://www.theyucatantimes.com/specialists/">Specialists</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39508"><a href="https://www.theyucatantimes.com/category/medical-tourism/hospitals/">Hospitals</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39509"><a href="https://www.theyucatantimes.com/category/medical-tourism/pharmacies/">Pharmaceutical</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39511"><a href="https://www.theyucatantimes.com/category/medical-tourism/wellness/">Wellness</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27426"><a href="https://www.theyucatantimes.com/category/columns/">Columns</a></li>
+</ul></div>                         </div><!-- /.headlines-catag -->
+                     </div><!-- /.col-lg-12 col-md-12 col-sm-12 -->
+                     </div><!-- /.headlines-part -->
+                                          <div class="header-navigation">
+                        <div class="col-lg-12 col-md-12 col-sm-12 npt-whitemenu">
+                          
+                        </div><!-- /.col-lg-12 col-md-12 col-sm-12 -->
+                     </div><!-- /.header-navigation -->
+                                             <div class="ad2">
+                          <relapads uuid="a6b2d7760ffe404caeb640791a159c15" ></relapads><script src="https://api.relappro.com/adservices/relappro.js" type="application/javascript" async="async"></script>                        </div><!-- /# id -->
+                                      </div><!-- /.row-- >
+                
+            </div><!-- /.container -->
+        </header><!-- /header -->
+
+       
+<div class="single-main">
+		        <div class="container">
+            <div class="row">
+              <div class="single-title-categories">
+                <div class="category">
+                    <div class="col-md-12 col-sm-12">
+                        <div class="category-lists">
+                                                              <li><a href="https://www.theyucatantimes.com/category/feature/">
+                                      Feature,                                  </a></li>
+                                                              <li><a href="https://www.theyucatantimes.com/category/headlines/">
+                                      Headlines,                                  </a></li>
+                                                              <li><a href="https://www.theyucatantimes.com/category/news/national-news/">
+                                      National,                                  </a></li>
+                                                              <li><a href="https://www.theyucatantimes.com/category/news/">
+                                      News                                  </a></li>
+                                                    </div><!-- /.category-lists -->
+                    </div><!-- /.col-md-12 -->
+                </div><!-- /.category -->
+
+                <div class="page-titles">
+                    <div class="col-md-12 col-sm-12">
+                        <div class="page-title">
+                            <h1>Narcos hand out food and lend money without interest to families suffering from the coronavirus in Mexico.</h1>
+                        </div><!-- /.page-title -->
+                    </div><!-- /.col-md-12 col-sm-12 -->
+                </div><!-- /.page-title -->
+                            </div><!-- /.row -->
+           </div>
+        </div><!-- /.container -->
+        <div class="container content-part single-content-wrapper">
+            <div class="row">
+            <div class="main-left npt-category-block">
+                                 <div class="post-meta">
+
+                    <span>By</span>      
+                    <a href="https://www.theyucatantimes.com/author/yucatan-times/" title="Posts by Yucatan Times" rel="author">Yucatan Times</a>                     on                     May 3, 2020                                    </div><!-- /.post-meta -->
+				<div class="social-icons">
+                    <ul>
+                        <li class="np-share-text">Share</i></li>
+                                                    <li class="np-twitter"><a target="_blank" href="https://twitter.com/home?status=https://www.theyucatantimes.com/2020/05/narcos-hand-out-food-and-lend-money-without-interest-to-families-suffering-from-the-coronavirus-in-mexico/">
+                                <span><i class="fa fa-twitter" aria-hidden="true"></i></span></a>
+                            </li>
+                                                                            <li class="np-facebook"><a target="_blank" href="https://www.facebook.com/sharer.php?u=https://www.theyucatantimes.com/2020/05/narcos-hand-out-food-and-lend-money-without-interest-to-families-suffering-from-the-coronavirus-in-mexico/">
+                                <span><i class="fa fa-facebook" aria-hidden="true"></i></span></a>
+                            </li>                       
+                                                                            <li class="np-linkedin"><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source=https://www.theyucatantimes.com/2020/05/narcos-hand-out-food-and-lend-money-without-interest-to-families-suffering-from-the-coronavirus-in-mexico/">
+                                <i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            </li>
+                                                                            <li class="np-googleplus"><a target="_blank" href="https://plus.google.com/share?url=https://www.theyucatantimes.com/2020/05/narcos-hand-out-food-and-lend-money-without-interest-to-families-suffering-from-the-coronavirus-in-mexico/">
+                                <i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                            </li>
+                                                
+                    </ul>
+                </div><!-- /.social-icons -->
+                                                 <div class="post-content-image post-content-area">
+                    <figure><img width="630" height="287" src="https://www.theyucatantimes.com/wp-content/uploads/2020/05/despensas-narco-comunidades-covid-30042020-482x220-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.theyucatantimes.com/wp-content/uploads/2020/05/despensas-narco-comunidades-covid-30042020-482x220-2.jpg 630w, https://www.theyucatantimes.com/wp-content/uploads/2020/05/despensas-narco-comunidades-covid-30042020-482x220-2-300x137.jpg 300w, https://www.theyucatantimes.com/wp-content/uploads/2020/05/despensas-narco-comunidades-covid-30042020-482x220-2-150x68.jpg 150w" sizes="(max-width: 630px) 100vw, 630px" />                                              <div class="caption">Photo: Aristegui Noticias</div>
+                                           </figure>
+                </div><!-- /.post-content-image -->
+                                 
+                                                <div class="post-content-area npt-singlepost">
+                   <p><span style="color: #000080;"><strong>The leaders of the drug trade in the Gulf of Mexico have become the saviors of those who have no money to survive.</strong></span></p>
+<p><span style="color: #000000;"><strong>MEXICO</strong> (AristeguiNoticias) &#8211; Mexico is a country that, to this day, resists the onslaught of the coronavirus. With a population of more than 130 million, the confirmed cases of Covid-19 barely reach 21,000, while the number of deaths is around 2,000. These figures are very different from those of its northern neighbor, the United States.</span></p>
+<p><span style="color: #000000;">However, the pandemic is affecting the population: many people have been confined to their homes and cannot go to work, so they have no income. And that, in the most impoverished population group, means that they have no food to eat.</span></p>
+<figure id="attachment_107454" aria-describedby="caption-attachment-107454" style="width: 2048px" class="wp-caption aligncenter"><img class="size-full wp-image-107454" src="https://www.theyucatantimes.com/wp-content/uploads/2020/05/Screenshot_20200426_105023-scaled-1.jpg" alt="" width="2048" height="1052" data-id="107454" srcset="https://www.theyucatantimes.com/wp-content/uploads/2020/05/Screenshot_20200426_105023-scaled-1.jpg 2048w, https://www.theyucatantimes.com/wp-content/uploads/2020/05/Screenshot_20200426_105023-scaled-1-300x154.jpg 300w, https://www.theyucatantimes.com/wp-content/uploads/2020/05/Screenshot_20200426_105023-scaled-1-1024x526.jpg 1024w, https://www.theyucatantimes.com/wp-content/uploads/2020/05/Screenshot_20200426_105023-scaled-1-150x77.jpg 150w, https://www.theyucatantimes.com/wp-content/uploads/2020/05/Screenshot_20200426_105023-scaled-1-768x395.jpg 768w, https://www.theyucatantimes.com/wp-content/uploads/2020/05/Screenshot_20200426_105023-scaled-1-1536x789.jpg 1536w" sizes="(max-width: 2048px) 100vw, 2048px" /><figcaption id="caption-attachment-107454" class="wp-caption-text"><span style="color: #000080;"><em><strong>Due to the coronavirus contingency in Mexico, families place red handkerchiefs to represent the lack of food. Photo: Merida Yucatan</strong></em></span></figcaption></figure>
+<p><span style="color: #000000;">That&#8217;s where the drug traffickers come in, distributing food to people, and lending money without interest to those who need to buy medicine or other articles. In the same way, the narco-traffickers are offering medical services and transportation, becoming a kind of parallel government.</span></p>
+<p><span style="color: #000000;">Images are flooding the social networks, hundreds of boxes full of food have been distributed in the neediest neighborhoods. In places like Sonora, Sinaloa, Jalisco, and Tamaulipas, members of the various cartel groups have allegedly delivered food to low-income families.</span></p>
+<p><span style="color: #000000;">The situation is as striking as it is worrying: in the photographs, you can see how each box is printed with the name of the Mexican cartels, to this day, considered amongst the most powerful in the world. In other words, these are groups that brings together some of the most feared drug traffickers and hitmen are not hiding when it comes to helping with money, medicines, medical treatments or distributing food to the most vulnerable population.</span></p>
+<figure id="attachment_106953" aria-describedby="caption-attachment-106953" style="width: 750px" class="wp-caption aligncenter"><img class="wp-image-106953 size-full" src="https://www.theyucatantimes.com/wp-content/uploads/2020/04/narcos.jpg" alt="" width="750" height="362" data-id="106953" srcset="https://www.theyucatantimes.com/wp-content/uploads/2020/04/narcos.jpg 750w, https://www.theyucatantimes.com/wp-content/uploads/2020/04/narcos-300x145.jpg 300w, https://www.theyucatantimes.com/wp-content/uploads/2020/04/narcos-150x72.jpg 150w" sizes="(max-width: 750px) 100vw, 750px" /><figcaption id="caption-attachment-106953" class="wp-caption-text"><span style="color: #000080;"><em><strong>Members from the Cartel del Golfo give out food to those in need.</strong></em></span></figcaption></figure>
+<p><span style="color: #000000;">The narcos make it clear to the citizens who get the food: <strong><em>&#8220;This is from the Gulf Cartel </em>&#8211;</strong>says one of the boxes handed out<strong>&#8211;<em> so you know where it comes from; do not think it is from the DIF (National System for the Integral Development of the Family) or another company.</em></strong></span></p>
+<p><span style="color: #000000;">It is worth remembering that this is not the first time that drug traffickers have helped people. In 2013, members of the Gulf Cartel distributed large quantities of food to the inhabitants of the most disadvantaged neighborhoods in Tamaulipas, in the north-east of Mexico, which had been affected by the passage of Hurricane Ingrid.</span></p>
+<p>One question remains&#8230; Where is the government?</p>
+<p> </p>
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<p><span style="color: #000080;"><strong>The Yucatan Times</strong></span><br /><span style="color: #000000;"><strong>Newsroom</strong></span></p>
+</div></div>
+<div class="widget_text">			<div class="textwidget"><div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://www.theyucatantimes.com/wp-content/uploads/2020/03/almadia_giphy.gif" alt="" class="wp-image-104434"/></figure></div></div>
+		</div><div class="adspace-widget widget"><relapads uuid="187e04e477a74ab191e80384ed66dae7" ></relapads><script src="https://api.relappro.com/adservices/relappro.js" type="application/javascript" async="async"></script><br /><br /></div><!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ --><h3>Comments</h3><p><fb:comments-count href=https://www.theyucatantimes.com/2020/05/narcos-hand-out-food-and-lend-money-without-interest-to-families-suffering-from-the-coronavirus-in-mexico/></fb:comments-count> comments</p><div class="fb-comments" data-href="https://www.theyucatantimes.com/2020/05/narcos-hand-out-food-and-lend-money-without-interest-to-families-suffering-from-the-coronavirus-in-mexico/" data-numposts="5" data-width="580" data-colorscheme="light"></div>                </div><!-- /.post-content-area -->
+
+                                                       <div class="social-icons">
+                    <ul>
+                        <li class="np-share-text">Share</i></li>
+                                                    <li class="np-twitter"><a target="_blank" href="https://twitter.com/home?status=https://www.theyucatantimes.com/2020/05/narcos-hand-out-food-and-lend-money-without-interest-to-families-suffering-from-the-coronavirus-in-mexico/">
+                                <span><i class="fa fa-twitter" aria-hidden="true"></i></span></a>
+                            </li>
+                                                                            <li class="np-facebook"><a target="_blank" href="https://www.facebook.com/sharer.php?u=https://www.theyucatantimes.com/2020/05/narcos-hand-out-food-and-lend-money-without-interest-to-families-suffering-from-the-coronavirus-in-mexico/">
+                                <span><i class="fa fa-facebook" aria-hidden="true"></i></span></a>
+                            </li>                       
+                                                                            <li class="np-linkedin"><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source=https://www.theyucatantimes.com/2020/05/narcos-hand-out-food-and-lend-money-without-interest-to-families-suffering-from-the-coronavirus-in-mexico/">
+                                <i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            </li>
+                                                                            <li class="np-googleplus"><a target="_blank" href="https://plus.google.com/share?url=https://www.theyucatantimes.com/2020/05/narcos-hand-out-food-and-lend-money-without-interest-to-families-suffering-from-the-coronavirus-in-mexico/">
+                                <i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                            </li>
+                                                
+                    </ul>
+                </div><!-- /.social-icons -->
+                                                <div class="author">
+                    <div class="author-image">
+                        <img src="https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg" class="gravatar avatar avatar-100 um-avatar um-avatar-default" width="100" height="100" alt="Alejandro" data-default="https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg" onerror="if ( ! this.getAttribute('data-load-error') ){ this.setAttribute('data-load-error', '1');this.setAttribute('src', this.getAttribute('data-default'));}" />                    </div><!-- /.author-image -->
+                    <div class="author-description">
+                        <h3><a href="https://www.theyucatantimes.com/author/yucatan-times/" title="Posts by Yucatan Times" rel="author">Yucatan Times</a></h3>
+                        <p></p>
+                    </div><!-- /.author-description -->
+                </div><!-- /.author -->
+                                <div class="tags-category">
+                    <a href="https://www.theyucatantimes.com/tag/amlo/" rel="tag">AMLO</a><a href="https://www.theyucatantimes.com/tag/covid-19-2/" rel="tag">COVID-19</a><a href="https://www.theyucatantimes.com/tag/mexican-government/" rel="tag">Mexican government</a><a href="https://www.theyucatantimes.com/tag/narcos/" rel="tag">Narcos</a>                </div><!-- /.tags-category -->
+                                <div class="recent-posts">
+                    <div class="recent-post-heading">
+                                                               <h3> more recommended stories </h3>
+                                           <ul>
+                                                   <li><span class="recent-post-img"><a href="https://www.theyucatantimes.com/2020/05/poachers-in-the-south-of-merida-have-illegally-killed-60-deer-in-the-last-month/"><img width="269" height="170" src="https://www.theyucatantimes.com/wp-content/uploads/2020/05/deer-269x170.jpg" class="attachment-module-6 size-module-6 wp-post-image" alt="" srcset="https://www.theyucatantimes.com/wp-content/uploads/2020/05/deer-269x170.jpg 269w, https://www.theyucatantimes.com/wp-content/uploads/2020/05/deer-300x191.jpg 300w, https://www.theyucatantimes.com/wp-content/uploads/2020/05/deer-150x95.jpg 150w, https://www.theyucatantimes.com/wp-content/uploads/2020/05/deer.jpg 700w" sizes="(max-width: 269px) 100vw, 269px" /></a></span> 
+                               <span class="recent-post-content npt-singleblock"><a href="https://www.theyucatantimes.com/2020/05/poachers-in-the-south-of-merida-have-illegally-killed-60-deer-in-the-last-month/">Poachers in the south of Merida have illegally killed 60 deer in the last month</a><p>In the last month, at least.</p></span>
+                           </li>
+                                                   <li><span class="recent-post-img"><a href="https://www.theyucatantimes.com/2020/05/us-house-democrats-propose-2000-coronavirus-stimulus-payment-per-month/"><img width="269" height="170" src="https://www.theyucatantimes.com/wp-content/uploads/2020/05/cash-269x170.jpg" class="attachment-module-6 size-module-6 wp-post-image" alt="" /></a></span> 
+                               <span class="recent-post-content npt-singleblock"><a href="https://www.theyucatantimes.com/2020/05/us-house-democrats-propose-2000-coronavirus-stimulus-payment-per-month/">US House Democrats propose $2,000 coronavirus stimulus payment per month</a><p>Lawmakers argued a one-time payment of.</p></span>
+                           </li>
+                                                   <li><span class="recent-post-img"><a href="https://www.theyucatantimes.com/2020/05/not-the-authority-but-the-sons-of-el-chapo-impose-curfew-in-culiacan/"><img width="269" height="170" src="https://www.theyucatantimes.com/wp-content/uploads/2020/05/chapitos-269x170.jpg" class="attachment-module-6 size-module-6 wp-post-image" alt="" /></a></span> 
+                               <span class="recent-post-content npt-singleblock"><a href="https://www.theyucatantimes.com/2020/05/not-the-authority-but-the-sons-of-el-chapo-impose-curfew-in-culiacan/">Not the authority, but the sons of El Chapo impose curfew in Culiacán</a><p>The sons of Joaquín “El Chapo”.</p></span>
+                           </li>
+                                                   <li><span class="recent-post-img"><a href="https://www.theyucatantimes.com/2020/05/mex-covid19-daily-briefing-in-english/"><img width="269" height="170" src="https://www.theyucatantimes.com/wp-content/uploads/2020/05/james-269x170.jpg" class="attachment-module-6 size-module-6 wp-post-image" alt="" /></a></span> 
+                               <span class="recent-post-content npt-singleblock"><a href="https://www.theyucatantimes.com/2020/05/mex-covid19-daily-briefing-in-english/">MEX-COVID19 Daily Briefing in English</a><p>James is a professional interpreter and.</p></span>
+                           </li>
+                                                   <li><span class="recent-post-img"><a href="https://www.theyucatantimes.com/2020/05/number-of-patients-in-intensive-care-beds-will-peak-this-week-lopez-gatell/"><img width="269" height="170" src="https://www.theyucatantimes.com/wp-content/uploads/2020/03/hugo-lopez-gatell-subsecretario-prevencion-1_0_1_958_596-269x170.jpeg" class="attachment-module-6 size-module-6 wp-post-image" alt="" /></a></span> 
+                               <span class="recent-post-content npt-singleblock"><a href="https://www.theyucatantimes.com/2020/05/number-of-patients-in-intensive-care-beds-will-peak-this-week-lopez-gatell/">&#8220;Number of patients in intensive care beds will peak this week&#8221; (López Gatell)</a><p>Hugo López-Gatell Ramírez, Undersecretary of Prevention.</p></span>
+                           </li>
+                                                   <li><span class="recent-post-img"><a href="https://www.theyucatantimes.com/2020/05/mexican-drug-lord-carrillo-fuentes-villa-auctioned-for-two-million-usd/"><img width="269" height="170" src="https://www.theyucatantimes.com/wp-content/uploads/2020/05/amado-carrillo-house-269x170.jpg" class="attachment-module-6 size-module-6 wp-post-image" alt="" /></a></span> 
+                               <span class="recent-post-content npt-singleblock"><a href="https://www.theyucatantimes.com/2020/05/mexican-drug-lord-carrillo-fuentes-villa-auctioned-for-two-million-usd/">Mexican drug lord Carrillo Fuentes&#8217; villa auctioned for two million USD</a><p>The Mexican government has auctioned off.</p></span>
+                           </li>
+                                                   <li><span class="recent-post-img"><a href="https://www.theyucatantimes.com/2020/05/mexico-grand-prix-venue-to-become-temporary-hospital/"><img width="269" height="170" src="https://www.theyucatantimes.com/wp-content/uploads/2014/07/formula-1-regresa-a-mexico_confirmado-269x170.jpg" class="attachment-module-6 size-module-6 wp-post-image" alt="" srcset="https://www.theyucatantimes.com/wp-content/uploads/2014/07/formula-1-regresa-a-mexico_confirmado-269x170.jpg 269w, https://www.theyucatantimes.com/wp-content/uploads/2014/07/formula-1-regresa-a-mexico_confirmado-150x96.jpg 150w" sizes="(max-width: 269px) 100vw, 269px" /></a></span> 
+                               <span class="recent-post-content npt-singleblock"><a href="https://www.theyucatantimes.com/2020/05/mexico-grand-prix-venue-to-become-temporary-hospital/">Mexico Grand Prix venue to become temporary hospital</a><p>The Autodromo Hermanos Rodriquez, venue for.</p></span>
+                           </li>
+                                                   <li><span class="recent-post-img"><a href="https://www.theyucatantimes.com/2020/05/nfl-moving-mexico-city-game-back-to-us-stadium/"><img width="269" height="170" src="https://www.theyucatantimes.com/wp-content/uploads/2019/11/nfl-estadio-azteca-640x360-269x170.jpg" class="attachment-module-6 size-module-6 wp-post-image" alt="" /></a></span> 
+                               <span class="recent-post-content npt-singleblock"><a href="https://www.theyucatantimes.com/2020/05/nfl-moving-mexico-city-game-back-to-us-stadium/">NFL moving Mexico City game back to US stadium</a><p>The NFL is moving its five.</p></span>
+                           </li>
+                                                   <li><span class="recent-post-img"><a href="https://www.theyucatantimes.com/2020/05/trump-says-he-is-confident-the-us-will-have-a-coronavirus-vaccine-this-year/"><img width="269" height="170" src="https://www.theyucatantimes.com/wp-content/uploads/2020/03/vaccine-269x170.jpg" class="attachment-module-6 size-module-6 wp-post-image" alt="" /></a></span> 
+                               <span class="recent-post-content npt-singleblock"><a href="https://www.theyucatantimes.com/2020/05/trump-says-he-is-confident-the-us-will-have-a-coronavirus-vaccine-this-year/">Trump says he is &#8216;confident&#8217; the US will have a coronavirus vaccine this year</a><p>President Donald Trump said during a.</p></span>
+                           </li>
+                                                   <li><span class="recent-post-img"><a href="https://www.theyucatantimes.com/2020/05/three-doctors-tested-poisitive-for-covid-19-in-valladolid/"><img width="269" height="170" src="https://www.theyucatantimes.com/wp-content/uploads/2020/04/hospital-valladolid-F-269x170.jpg" class="attachment-module-6 size-module-6 wp-post-image" alt="" /></a></span> 
+                               <span class="recent-post-content npt-singleblock"><a href="https://www.theyucatantimes.com/2020/05/three-doctors-tested-poisitive-for-covid-19-in-valladolid/">Three doctors tested poisitive for COVID-19 in Valladolid</a><p>VALLADOLID, YUCATAN (May 4th, 2020).— The.</p></span>
+                           </li>
+                                                </ul>
+                                            </div><!-- /.recent-post-heading -->
+                </div><!-- /.recent-posts -->
+                                <div class="comments-areas">
+                    <div class="comments-links">
+                        	<div id="comments" class="comments-area ">
+
+	
+	   <div class="comments-link"> <h3><a href="#respond"> Leave a Comment </a> </h3></div>
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2020/05/narcos-hand-out-food-and-lend-money-without-interest-to-families-suffering-from-the-coronavirus-in-mexico/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://www.theyucatantimes.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><textarea autocomplete="nope"  id="gf5774173b"  name="gf5774173b"   placeholder=" Share your Opinion" aria-required="true"></textarea><textarea id="comment" aria-hidden="true" name="comment" autocomplete="nope" style="padding:0;clip:rect(1px, 1px, 1px, 1px);position:absolute !important;white-space:nowrap;height:1px;width:1px;overflow:hidden;" tabindex="-1"></textarea><script type="text/javascript">document.getElementById("comment").setAttribute( "id", "acb69ff5d07ab77815d20e3dceeaef1d" );document.getElementById("gf5774173b").setAttribute( "id", "comment" );</script></p><p class="comment-form-author"><input id="author" name="author" type="text" placeholder ="Name" value="" size="30" />   </p>
+<p class="comment-form-email"><input id="email" name="email" placeholder ="E-mail" type="text" value="" size="30" />  </p>
+<p class="comment-form-url"><input id="url" name="url" placeholder ="Website" type="text" value="" size="30" /> </p> <div class="cb"></div>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Comment" /> <input type='hidden' name='comment_post_ID' value='107453' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="01357d4b4d" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="127"/></p></form>	</div><!-- #respond -->
+	</div><!-- .comments-area -->
+                    </div><!-- /.comments-link -->
+                </div><!-- /.comments-area -->
+            </div><!-- /.main-left -->
+            <div class="main-right">
+                <div class="adspace-widget widget"><a href="http://dentistayucatan.com/en/home-2/" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-70336" src="https://www.theyucatantimes.com/wp-content/uploads/2017/09/Quality_Cirujanos6.jpg" alt="" width="300" height="300" data-id="70336" /></a>
+<br><br /><br /></div><div class="section widget_text">			<div class="textwidget"><p>####</p>
+<div id="sas_72564"></div>
+<p><script type="application/javascript">
+    sas.cmd.push(function() {
+        sas.render("72564");  // Formato : pagestealer_1 300x250
+    });
+</script></p>
+</div>
+		</div></div>            </div><!-- /.main-right -->
+            <div class="clear"></div>
+        </div>
+        </div><!-- /.container -->
+
+    </div><!-- /.single-main -->
+<footer id="footer">
+         <div class="footer-area">
+        <div class="container footer-container">
+        <div class="row footer-row">
+            <div class="footer-part">
+                <div class="col-md-3 col-sm-3">
+                    <div class="footer-logo">
+                       <a href="https://www.theyucatantimes.com">
+                          <img src="https://www.theyucatantimes.com/wp-content/uploads/2018/01/TheYucatanTimes-Logo.jpg"></a>
+                    </div><!-- /.footer-logo -->
+                </div><!-- /.col-md-3 -->
+                <div class="col-md-9 col-sm-9">
+                    <div class="footer-nav">
+                        <div class="menu-bottom-container"><ul id="menu-bottom" class="nav-part-5"><li id="menu-item-9699" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9699"><a href="https://www.theyucatantimes.com">Home</a></li>
+<li id="menu-item-9700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9700"><a href="https://www.theyucatantimes.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-9702" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-9702"><a href="https://www.theyucatantimes.com/category/headlines/">Headlines</a></li>
+<li id="menu-item-9703" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9703"><a href="https://www.theyucatantimes.com/category/local-news/">Local News</a></li>
+<li id="menu-item-21249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21249"><a href="https://www.theyucatantimes.com/disclaimer/">DISCLAIMER</a></li>
+</ul></div>                    </div><!-- /.footer-logo -->
+                </div><!-- /.col-md-9 -->
+            </div><!-- /.footer-part -->
+            <div class="footer-part-articles">
+
+                <div class="col-md-3 col-sm-3">
+                    <div class="block-1-article">
+                                            </div><!-- /.block-1-article -->
+                </div><!-- /.col-md-3 -->
+
+                <div class="col-md-3 col-sm-3">
+                    <div class="block-1-article">
+                                            </div><!-- /.block-1-article -->
+                </div><!-- /.col-md-3 -->
+
+                <div class="col-md-3 col-sm-3">
+                    <div class="block-1-article">
+                                            </div><!-- /.block-1-article -->
+                </div><!-- /.col-md-3 -->
+
+                <div class="col-md-3 col-sm-3">
+                    <div class="block-1-article last-article">
+                                            </div><!-- /.block-1-article -->
+                </div><!-- /.col-md-3 -->              
+            </div><!-- /.footer-part-articles -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+    </div><!-- /.footer-area -->
+        <div class="copyrights">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-sm-12">
+                                        <div class="copyrights-content">
+                        <span>All Rights Reserved The Yucatan Times 2020</span>
+                    </div><!-- /.copyrights-content -->
+                                    </div><!-- /.col-md-12 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </div><!-- /.copy-rights -->
+</footer><!-- /footer -->
+</div><!-- /.wrapper -->
+<div id="back-top">
+ <a href="#top"> <span> </span></a>
+</div>
+
+<div id="um_upload_single" style="display:none"></div>
+<div id="um_view_photo" style="display:none">
+
+	<a href="javascript:void(0);" data-action="um_remove_modal" class="um-modal-close"><i class="um-faicon-times"></i></a>
+
+	<div class="um-modal-body photo">
+		<div class="um-modal-photo"></div>
+	</div>
+
+</div>		<!-- Quantcast Tag -->
+		<script type="text/javascript">
+			var _qevents = _qevents || [];
+
+			(function() {
+				var elem = document.createElement('script');
+				elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+				elem.async = true;
+				elem.type = "text/javascript";
+				var scpt = document.getElementsByTagName('script')[0];
+				scpt.parentNode.insertBefore(elem, scpt);
+			})();
+
+			_qevents.push({
+				qacct:"p-LwQ6djvEhhT3H",
+				source:"wp"
+			});
+		</script>
+
+		<noscript>
+		<div style="display:none;">
+			<img src="//pixel.quantserve.com/pixel/p-LwQ6djvEhhT3H.gif" border="0" height="1" width="1" alt="Quantcast"/>
+		</div>
+		</noscript>
+		<!-- End Quantcast tag -->
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var jsj_gallery_slideshow_options = {"settings":{"fx":"scrollHorz","log":false,"speed":350,"swipe":true,"timeout":5000,"autoSelector":".jsj-gs-gallery","caption":"> .jsj-gs-caption","captionTemplate":"{{attachment.metadata.caption}}","next":"> .gallery-navigation .jsj-gs-next","numbering":"> .gallery-navigation .jsj-gs-numbering","numberingTemplate":"({{slideNum}} {{ofString}} {{slideCount}})","pager":"> .jsj-gs-pager","pagerTemplate":"<li class='slideshow-thumbnail'><span><\/span><\/li>","pagerActiveClass":"active","prev":"> .gallery-navigation .jsj-gs-prev","slideActiveClass":"active","slideClass":"jsj-gs-slide"},"scripts_enqueued":"1"};
+var jsj_gallery_slideshow_theme_options = [];
+var jsj_gallery_slideshow_images = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/jsj-gallery-slideshow/static/js/jsj-gallery-slideshow.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/jsj-gallery-slideshow/themes/default-captions/js/main.js'></script>
+<script type='text/javascript'>
+var renderInvisibleReCaptcha = function() {
+
+    for (var i = 0; i < document.forms.length; ++i) {
+        var form = document.forms[i];
+        var holder = form.querySelector('.inv-recaptcha-holder');
+
+        if (null === holder) continue;
+		holder.innerHTML = '';
+
+         (function(frm){
+			var cf7SubmitElm = frm.querySelector('.wpcf7-submit');
+            var holderId = grecaptcha.render(holder,{
+                'sitekey': '', 'size': 'invisible', 'badge' : 'bottomright',
+                'callback' : function (recaptchaToken) {
+					if((null !== cf7SubmitElm) && (typeof jQuery != 'undefined')){jQuery(frm).submit();grecaptcha.reset(holderId);return;}
+					 HTMLFormElement.prototype.submit.call(frm);
+                },
+                'expired-callback' : function(){grecaptcha.reset(holderId);}
+            });
+
+			if(null !== cf7SubmitElm && (typeof jQuery != 'undefined') ){
+				jQuery(cf7SubmitElm).off('click').on('click', function(clickEvt){
+					clickEvt.preventDefault();
+					grecaptcha.execute(holderId);
+				});
+			}
+			else
+			{
+				frm.onsubmit = function (evt){evt.preventDefault();grecaptcha.execute(holderId);};
+			}
+
+
+        })(form);
+    }
+};
+</script>
+<script type='text/javascript' async defer src='https://www.google.com/recaptcha/api.js?onload=renderInvisibleReCaptcha&#038;render=explicit'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/themes/newspapertimes-2017/js/owl.carousel.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/themes/newspapertimes-2017/js/main.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/themes/newspapertimes-2017/js/comments.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.carousel.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.swipe.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.tile.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.video.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/cyclone-slider-2/templates/dark/script.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/cyclone-slider-2/templates/thumbnails/script.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/cyclone-slider-2/libs/vimeo-player-js/player.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/cyclone-slider-2/js/client.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/select2/select2.full.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-includes/js/underscore.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-includes/js/wp-util.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/um-crop.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/um-modal.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/um-jquery-form.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/um-fileupload.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.date.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.time.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/pickadate/legacy.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-includes/js/dist/vendor/wp-polyfill.min.js'></script>
+<script type='text/javascript'>
+( 'fetch' in window ) || document.write( '<script src="https://www.theyucatantimes.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://www.theyucatantimes.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://www.theyucatantimes.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://www.theyucatantimes.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://www.theyucatantimes.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://www.theyucatantimes.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-includes/js/dist/i18n.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/um-raty.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/um-tipsy.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-includes/js/imagesloaded.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-includes/js/masonry.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-includes/js/jquery/jquery.masonry.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/simplebar.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/um-functions.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/um-responsive.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/um-conditional.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var um_scripts = {"nonce":"3e44940f90"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/um-scripts.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/um-profile.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/ultimate-member/assets/js/um-account.min.js'></script>
+<script type='text/javascript' src='https://www.theyucatantimes.com/wp-includes/js/wp-embed.min.js'></script>
+<script async="async" type='text/javascript' src='https://www.theyucatantimes.com/wp-content/plugins/akismet/_inc/form.js'></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=383687581768796&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type='text/javascript' src='https://stats.wp.com/e-202019.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.4.1',blog:'42484385',post:'107453',tz:'-5',srv:'www.theyucatantimes.com'} ]);
+	_stq.push([ 'clickTrackerInit', '42484385', '107453' ]);
+</script>
+		<script type="text/javascript">
+			jQuery(window).load(function() {
+				jQuery("input[name='um_request']").val('');
+			});
+		</script>
+	
+</body>
+</html>

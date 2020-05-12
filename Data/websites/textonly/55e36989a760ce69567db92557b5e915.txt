@@ -1,0 +1,48 @@
+A copy of a template for reporting confirmed cases of the novel coronavirus from the Ministry of Health, Labor and Welfare website is seen in this photo. The columns are narrow, and require small handwriting. These are filled out by doctors and faxed to public health centers. (Mainichi)
+
+    TOKYO -- Online criticism of the novel coronavirus infection reporting method, which requires doctors to fill out forms by hand and fax them to public health centers, has prompted authorities to enable the forms to be submitted online from mid-May.
+
+
+    The dated reporting method caused a stir online after a Twitter user who claims to be a doctor specializing in respiratory medicine at a public hospital tweeted on April 23, "Come on, let's stop this already. Reporting cases in handwriting ... Even with corona, we're handwriting and faxing." The doctor branded the practice "Showa period stuff," referring to the era from 1926-1989, when faxes were still in common use.
+
+
+    Under the infectious diseases law, when a physician confirms a case of novel coronavirus or other infectious diseases in a patient, they have to submit a report of the case to their regional public health center in each prefecture right away. The problem is that the doctors using forms prepared by local authorities had to fill them in by hand, and fax them to public health centers and other institutions.
+
+
+    As soon as the tweet went up, it gained attention and was retweeted at least 10,000 times, attracting comments such as "What a waste to be forced to write those kinds of reports in a war-zone-like situation where the health care system is about to collapse." The responses came from people who weren't health care workers, too. 
+
+
+    On the website of the Ministry of Health, Labor and Welfare, which has jurisdiction over the infectious diseases act, there is a printable novel coronavirus "report" template. Each prefecture has its own version based on the health ministry's one, and doctors across the country have been using regional templates to report coronavirus cases to their local public health center.
+
+
+    The form requires the physician to fill in 19 fields by hand, including the patient's name, address, occupation, symptoms, first consultation date, and diagnostic method. The columns are narrow, and the necessary information won't fit unless written in small letters. Making these an additional demand on top of doctors' everyday tasks, is seen as a waste of time.
+
+
+    An official at the health ministry's Tuberculosis and Infectious Diseases Control Division told the Mainichi Shimbun: "The infectious diseases law stipulates the kind of information that must be reported, such as the patient's address and symptoms, but there are no legal requirements on the format the report should be made in, or the method for submitting it. They can be handwritten and faxed, inputted by computer, or emailed by doctors to public health centers. But the methods are left to the discretion of prefectural or other local governments."
+
+
+    Upon further research, it became apparent that while there are municipalities where doctors fax handwritten reports, there are others where faxes are sent without patients' personal information due to concerns faxes could be sent to wrong numbers. The originals with the personal information on them are subsequently posted to public health centers. According to the health ministry official, some municipalities do not use paper, and doctors submit reports online. Essentially, methods vary from region to region.
+
+
+    "Public health center staff take the information sent to them in the reports and enter it into the National Epidemiological Surveillance of Infectious Diseases (NESID) System, which is an online system that ties local health centers to the national and prefectural governments," the health ministry official said. "Some of the staff say that when they do the data entry, it's easier having the information on paper."
+
+
+    However, following calls to scrap the paper-and-fax method, State Minister of Cabinet Office Masaaki Taira, who is in charge of Japan's information technology policy, pledged he would "address the problem."
+
+
+    The outcome is a new system, through which doctors can send novel coronavirus infection reports to public health centers over the internet. This information will be shared with the central and prefectural governments, so the health centers do not have to input the information again. The system will be launched by some local bodies from May 10 and expanded to cover the whole country from May 17.
+
+
+    While seemingly late in arriving, the new system has been welcomed online, with doctors and other internet users taking to Twitter to comment that they would be glad if it proves to be "a step toward improving inefficient practices within the central government and local bodies."
+
+
+    The reason issues around outdated reporting methods attracted widespread attention in the first place was something to do with the novel coronavirus outbreak's very unique circumstances. 
+
+
+    "Unlike for influenza, where it's only required to report the confirmed number of patients per week at certain medical facilities, with the novel coronavirus, all doctors and medical institutions must report the names, symptoms, and other details of every patient they confirm has the virus (otherwise known as notifiable disease surveillance)," one Tokyo Metropolitan Government official said. The official said the paper-based system was probably still in place partly because it wasn't made with consideration for there ever being this kind of large-scale infectious disease that requires notifiable disease surveillance.
+
+
+    In other words, problems with the reporting system were exposed by the COVID-19 outbreak. The aforementioned health ministry official said the system had been under debate for at least 10 years, before going on to say that the online system used to date was paper based, and that it had been left to doctors and public health center workers to pick up the slack. 
+
+
+    With the coronavirus outbreak, working styles are changing. If the government is going to call for a productivity revolution, it must help health care professionals on the ground do away with Showa-era traditions.

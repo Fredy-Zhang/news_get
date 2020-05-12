@@ -1,0 +1,1098 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+<head>
+  <!--[if IE]><![endif]-->
+<link rel="dns-prefetch" href="//fonts.gstatic.com" />
+<link rel="preconnect" href="//fonts.gstatic.com" crossorigin="" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="preconnect" href="//fonts.googleapis.com" />
+<link rel="dns-prefetch" href="//ajax.googleapis.com" />
+<link rel="preconnect" href="//ajax.googleapis.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="preconnect" href="//www.google-analytics.com" />
+<link rel="preconnect" href="//stats.g.doubleclick.net" />
+<link rel="dns-prefetch" href="//stats.g.doubleclick.net" />
+<meta charset="utf-8" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//tbsnews.net" />
+<!--[if IE 9]>
+<link rel="prefetch" href="//tbsnews.net" />
+<![endif]-->
+<script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@graph": [
+        {
+            "@type": "NewsArticle",
+            "headline": "Bangladesh reports single-day highest 786 new coronavirus cases",
+            "description": "Bangladesh today conformed its highest single-day jump of 786 new cases of infection testing 5,711 samples in the last 24 hours. One more person died from the novel coronavirus during the time. With this, the death toll from the deadly virus rose to 183 and the number of total infections stood at 10929. \u0022193 patients recovered from the virus in last 24 hours, increasing the total to 1403,\u0022 Additional Director General of Health Directorate Professor Dr Nasima Sultana made the disclosure during a virtual briefing today.",
+            "author": {
+                "@type": "Person",
+                "name": "TBS Report"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "The Business Standard",
+                "url": "https://tbsnews.net",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://tbsnews.net/sites/all/themes/sloth/logo.png"
+                }
+            },
+            "datePublished": "2020-05-05T14:30:00+06:00",
+            "dateModified": "2020-05-05T14:55:42+06:00",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://tbsnews.net/sites/default/files/styles/big_3/public/images/2020/03/10/coronavirus-4817450.jpg?itok=0L2COJ9P"
+            },
+            "mainEntityOfPage": "https://tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/bangladesh-reports-single-day-highest-786-new-coronavirus"
+        }
+    ]
+}</script>
+<link rel="amphtml" href="https://tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/bangladesh-reports-single-day-highest-786-new-coronavirus?amp" />
+<script data-ad-client="ca-pub-6028067659743516" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '2426353110810678'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=2426353110810678&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code --><script type="application/ld+json">
+ { "@context": "https://schema.org",
+ "@type": "Organization",
+ "name": "The Business Standard",
+ "legalName" : "The Business Standard",
+ "url": "https://tbsnews.net/",
+ "logo": "https://tbsnews.net/sites/all/themes/sloth/logo.png",
+ "foundingDate": "2019",
+  "address": {
+ "@type": "PostalAddress",
+ "streetAddress": "4/A",
+ "addressLocality": "Eskaton Garden",
+ "addressRegion": "Dhaka",
+ "postalCode": "1000",
+ "addressCountry": "BD"
+ },
+ "contactPoint": {
+ "@type": "ContactPoint",
+ "contactType": "customer support",
+ "telephone": "[+8801847416158]",
+ "email": "online.businessstandard@gmail.com"
+ },
+ "sameAs": [ 
+ "https://www.facebook.com/tbsnews.net/",
+ "https://www.instagram.com/tbsnews.bd/",
+ "https://twitter.com/tbsnewsdotnet",
+ "https://www.linkedin.com/company/the-business-standard"
+ ]}
+</script><link rel="shortcut icon" href="https://tbsnews.net/sites/all/themes/sloth/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="1" />
+<meta name="description" content="Bangladesh today conformed its highest single-day jump of 786 new cases of infection testing 5,711 samples in the last 24 hours. One more person died from the novel coronavirus during the time. With this, the death toll from the deadly virus rose to 183 and the number of total infections stood at 10929. &quot;193 patients recovered from the virus in last 24 hours, increasing the" />
+<meta name="keywords" content="Coronavirus in Bangladesh, COVID-19 in Bangladesh, Coronavirus Infection, Coronavirus death toll, Coronavirus, COVID-19, Coronavirus Pandemic, Coronavirus Update in Bangladesh, Breaking Coronavirus News Update, Bangladesh Coronavirus update today, Breaking Coronavirus news, Coronavirus News update in Bangladesh, last 24 hours Coronavirus Update Bangladesh, bangladesh news, bd news, english news, english newspaper, world news, latest news update, tbsnews, tbs news, the business standard" />
+<meta name="news_keywords" content="Coronavirus in Bangladesh, COVID-19 in Bangladesh, Coronavirus Infection, Coronavirus death toll, Coronavirus, COVID-19, Coronavirus Pandemic, Coronavirus Update in Bangladesh, Breaking Coronavirus News Update, Bangladesh Coronavirus update today, Breaking Coronavirus news, Coronavirus News update in Bangladesh, last 24 hours Coronavirus Update Bangladesh, bangladesh news, bd news, english news, english newspaper, world news, latest news update, tbsnews, tbs news, the business standard" />
+<link rel="canonical" href="https://tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/bangladesh-reports-single-day-highest-786-new-coronavirus" />
+<meta name="generator" content="RSI LAB" />
+<link rel="shortlink" href="https://tbsnews.net/node/77464" />
+<meta property="fb:app_id" content="434065700527142" />
+<meta property="og:site_name" content="The Business Standard" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/bangladesh-reports-single-day-highest-786-new-coronavirus" />
+<meta property="og:title" content="Bangladesh reports single-day highest 786 new coronavirus cases" />
+<meta property="og:description" content="Bangladesh today conformed its highest single-day jump of 786 new cases of infection testing 5,711 samples in the last 24 hours. One more person died from the novel coronavirus during the time. With this, the death toll from the deadly virus rose to 183 and the number of total infections stood at 10929. &quot;193 patients recovered from the virus in last 24 hours, increasing the total to 1403,&quot; Additional Director General of Health Directorate Professor Dr Nasima Sultana made the disclosure during a virtual briefing today." />
+<meta property="og:updated_time" content="2020-05-05T14:55:42+06:00" />
+<meta property="og:image" content="https://tbsnews.net/sites/default/files/styles/social_share/public/images/2020/03/10/coronavirus-4817450.jpg?itok=Bq_7fw2h" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="314" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@tbsnewsdotnet" />
+<meta name="twitter:url" content="https://tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/bangladesh-reports-single-day-highest-786-new-coronavirus" />
+<meta name="twitter:title" content="Bangladesh reports single-day highest 786 new coronavirus cases" />
+<meta name="twitter:description" content="Bangladesh today conformed its highest single-day jump of 786 new cases of infection testing 5,711 samples in the last 24 hours. One more person died from the novel coronavirus during the time. With" />
+<meta name="twitter:image" content="https://tbsnews.net/sites/default/files/styles/social_share/public/images/2020/03/10/coronavirus-4817450.jpg?itok=Bq_7fw2h" />
+<meta property="article:published_time" content="2020-05-05T14:30:00+06:00" />
+<meta property="article:modified_time" content="2020-05-05T14:55:42+06:00" />
+<meta name="msvalidate.01" content="2B30143C0AAC6990870D0FEB6A97E4E6" />
+<meta name="p:domain_verify" content="722403c3d8bb637bb1f459584ced25c6" />
+  <title>COVID-19 Pandemic Update News: Bangladesh reports single-day highest 786 new coronavirus cases | The Business Standard</title>
+  <link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__IdPlBbfRpFaahJm1KnI7MH3X4Rclx6aG45WGigo8BLA__TNmwA1EpN2dImp8iJT6s4p0tN374NXJyslKlq8oiNFM__eud3O80-WmnpPcxunu4VYSRbt3Hyjf7-Y3d6XWeIzNk.css" media="all" />
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/3.1/jquery.min.js'>\x3C/script>")</script>
+<script type="text/javascript">jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__geRUy_4vQNOO60FJlcmyOMGOfTxYIFQkiXWiz6lspSY__495VdgFko-yl3tr1T7QxAWUv7jXNoK4pnXcMnSFjYGY__eud3O80-WmnpPcxunu4VYSRbt3Hyjf7-Y3d6XWeIzNk.js"></script>
+<script type="text/javascript">document.createElement( "picture" );</script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__kImO1oJRa9E2y2HNPYWYTNuEg4xY4Durm3FZExe-wC8__w3mjonekyOj26Gu1Th-Ar8T72GFpawCWSymtnulGcFc__eud3O80-WmnpPcxunu4VYSRbt3Hyjf7-Y3d6XWeIzNk.js"></script>
+<script type="text/javascript">(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-141759906-1", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("set", "anonymizeIp", true);ga("set", "dimension1", "en");ga("set", "dimension2", "news");ga("set", "dimension3", "77464");ga("set", "dimension4", "34603");ga("send", "pageview");</script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__CdTS1_aoTcFdCtuuqQtZsRFN1VQlW_098mvTB-hXOVA__xNSl2Dze_QItq7Zux3h8VOreXG-T1Ed9Fx5Diybf3cE__eud3O80-WmnpPcxunu4VYSRbt3Hyjf7-Y3d6XWeIzNk.js"></script>
+<script type="text/javascript">jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sloth","theme_token":"Beq0Ep3fbQUsM_JAe-Z6LEDTFuwTpIytiqUWIPWUJt8","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/picture\/lazysizes\/plugins\/aspectratio\/ls.aspectratio.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/libraries\/slick\/slick\/slick.css":1,"sites\/all\/libraries\/lightGallery\/dist\/css\/lightgallery.min.css":1,"sites\/all\/themes\/sloth\/css\/sloth.css":1},"js":{"sites\/all\/modules\/contrib\/picture\/picturefill\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"sites\/all\/libraries\/lightGallery\/dist\/js\/lightgallery-all.min.js":1,"sites\/all\/themes\/sloth\/js\/image_popup.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.1.1\/jquery.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery-migrate\/3\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/picture\/lazysizes\/lazysizes.min.js":1,"sites\/all\/modules\/contrib\/picture\/lazysizes\/plugins\/aspectratio\/ls.aspectratio.min.js":1,"sites\/all\/libraries\/slick\/slick\/slick.min.js":1,"sites\/all\/themes\/sloth\/js\/grid-slider.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/themes\/sloth\/js\/what-input.min.js":1,"sites\/all\/themes\/sloth\/js\/foundation.min.js":1,"sites\/all\/themes\/sloth\/scripts\/foundation.init.js":1,"sites\/all\/themes\/sloth\/scripts\/svgxuse.min.js":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});</script>
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-77464 node-type-news site-name-the-business-standard section-coronavirus-chronicle theme-sloth" >
+  <div id=___tbspushdiv></div>
+  <div id="fb-root"></div>
+  <div class="skip-link" class="nocontent">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <!--.page -->
+<div role="document" class="page off-canvas-wrapper">
+  <div class="inner-wrap off-canvas-wrapper-inner" id="inner-wrap" data-off-canvas-wrapper>
+
+    <aside id="off-canvas-menu" class="off-canvas position-left" data-off-canvas>
+      <button class="close-button" aria-label="Close menu" type="button" data-close>
+        <span aria-hidden="true">&times;</span>
+      </button>
+
+              <ul id="main-menu" class="menu dropdown" data-dropdown-menu=""><li class="first leaf"><a href="/">Home</a></li><li class="leaf"><a href="/economy">Economy</a></li><li class="leaf"><a href="/bangladesh">Bangladesh</a></li><li class="leaf"><a href="/world">World</a></li><li class="leaf"><a href="/sports">Sports</a></li><li class="leaf"><a href="/glitz">Glitz</a></li><li class="leaf"><a href="/feature">Feature</a></li><li class="leaf"><a href="/long-read">Long Read</a></li><li class="leaf"><a href="/coronavirus-chronicle">COVID-19</a></li><li class="expanded has-submenu"><a class="no-link">More</a><ul class="submenu menu vertical" data-submenu><li class="first leaf"><a href="/special-stories">Special Stories</a></li><li class="leaf"><a href="/top-news">Top News</a></li><li class="leaf"><a href="/companies">Companies</a></li><li class="leaf"><a href="/environment">Environment</a></li><li class="leaf"><a href="/infograph">Infograph</a></li><li class="leaf"><a href="/interviews">Interviews</a></li><li class="leaf"><a href="/markets">Markets</a></li><li class="leaf"><a href="/multimediavideos">Multimedia/videos</a></li><li class="leaf"><a href="/offbeat">Offbeat</a></li><li class="leaf"><a href="/panorama">Panorama</a></li><li class="leaf"><a href="/thoughts">Thoughts</a></li><li class="leaf"><a href="/science">Science</a></li><li class="leaf"><a href="/social-trending">Social Trending</a></li><li class="leaf"><a href="/splash">Splash</a></li><li class="last leaf"><a href="/tech">Tech</a></li></ul></li><li class="leaf"><a href="/search"><svg class="icon"><use xlink:href="/sites/all/themes/sloth/images/icons.svg#search"></use></svg></a></li><li class="last leaf bangla"><a href="//tbsnews.net/bangla/" class="bangla">বাংলা</a></li></ul>          </aside>
+
+    <div class="off-canvas-content" data-off-canvas-content>
+      <!--.l-header -->
+      <header role="banner" class="l-header">
+        <div class="header-top" id="header-top">
+        <div class="row align-middle align-justify">
+          <div class="column shrink hide-for-print">
+            <a href="/"><img class="logo" src="https://tbsnews.net/sites/all/themes/sloth/logo2.svg" alt="The Business Standard" /></a>          </div>
+          <div class="column shrink show-for-print">
+            <img src="/sites/all/themes/sloth/logo.png" alt="">
+          </div>
+          <!-- <div class="column shrink">
+            <div class="mug-short flex-container">
+              <div class="mug-image">
+
+                <img src="https://picsum.photos/id/1002/120/144" alt="">
+              </div>
+              <div class="description">
+                <div class="eyebrow text-uppercase">Exclusive </div>
+                <h2 class="mug-title">Praesent ac</h2>
+                <p>Curabitur suscipit suscipit tellus. Nullam nulla eros,. Nullam nulla eros </p>
+              </div>
+            </div>
+          </div> -->
+          <div class="column shrink hide-for-small-only">
+            <a href="/">
+              <img src="/sites/all/themes/sloth/images/TBS_Icon_Grey.png" alt="tbs">
+            </a>
+          </div>
+        </div>
+        </div>
+
+                  <!--.top-bar -->
+                      <div id="top-bar-sticky-container" data-sticky-container>
+              <div class="top-bar-sticky-wrapper " data-sticky data-margin-top="0" data-top-anchor="header-top:bottom" data-sticky-on="small">
+                            <div class="row">
+                <div class="column">
+                  <div class="top-bar">
+                    <div class="top-bar-left">
+                                            <div class="flex-container align-middle align-justify">
+                        <a class="bs-round-logo hide-for-print" href="/">
+                          <svg class="">
+                            <use
+                              xlink:href="/sites/all/themes/sloth/images/icons.svg#bs_round"></use>
+                          </svg>
+                        </a>
+                                                <div class="date color-dark-green">
+                          <strong>TUESDAY,</strong> MAY 05, 2020                        </div>
+                        <div class="flex-container align-middle">
+                         <a class="search-mobile show-for-small-only pr-10 hide-for-print" href="/search"><svg class="icon"><use xlink:href="/sites/all/themes/sloth/images/icons.svg#search"></use></svg></a>
+                        <div class="title-bar hide-for-large" data-responsive-toggle="responsive-menu" data-hide-for="large">
+                          <button class="menu-icon" type="button" data-toggle="responsive-menu"></button>
+                        </div>
+                        </div>
+                                              </div>
+                    
+                    </div>
+
+                                          <div class="top-bar-right hide-for-print" id="responsive-menu">
+                        <ul id="main-menu" class="menu dropdown" data-dropdown-menu=""><li class="first leaf"><a href="/">Home</a></li><li class="leaf"><a href="/economy">Economy</a></li><li class="leaf"><a href="/bangladesh">Bangladesh</a></li><li class="leaf"><a href="/world">World</a></li><li class="leaf"><a href="/sports">Sports</a></li><li class="leaf"><a href="/glitz">Glitz</a></li><li class="leaf"><a href="/feature">Feature</a></li><li class="leaf"><a href="/long-read">Long Read</a></li><li class="leaf"><a href="/coronavirus-chronicle">COVID-19</a></li><li class="expanded has-submenu"><a class="no-link">More</a><ul class="submenu menu vertical" data-submenu><li class="first leaf"><a href="/special-stories">Special Stories</a></li><li class="leaf"><a href="/top-news">Top News</a></li><li class="leaf"><a href="/companies">Companies</a></li><li class="leaf"><a href="/environment">Environment</a></li><li class="leaf"><a href="/infograph">Infograph</a></li><li class="leaf"><a href="/interviews">Interviews</a></li><li class="leaf"><a href="/markets">Markets</a></li><li class="leaf"><a href="/multimediavideos">Multimedia/videos</a></li><li class="leaf"><a href="/offbeat">Offbeat</a></li><li class="leaf"><a href="/panorama">Panorama</a></li><li class="leaf"><a href="/thoughts">Thoughts</a></li><li class="leaf"><a href="/science">Science</a></li><li class="leaf"><a href="/social-trending">Social Trending</a></li><li class="leaf"><a href="/splash">Splash</a></li><li class="last leaf"><a href="/tech">Tech</a></li></ul></li><li class="leaf"><a href="/search"><svg class="icon"><use xlink:href="/sites/all/themes/sloth/images/icons.svg#search"></use></svg></a></li><li class="last leaf bangla"><a href="//tbsnews.net/bangla/" class="bangla">বাংলা</a></li></ul>                      </div>
+                                      </div>
+                </div>
+              </div>
+
+                            </div>
+            </div>
+                    <!--/.top-bar -->
+                      </header>
+      <!--/.l-header -->
+
+      
+      
+      
+      <!--.l-main -->
+      <main role="main" class="l-main">
+        <!-- .l-main region -->
+        <div class=" main">
+          
+          <a id="main-content"></a>
+
+          
+          
+                      <div class="local-tasks">
+                                        </div>
+          
+          
+            
+      
+  <div  class="block-content content">    <div class="panel-pane pane-custom pane-3 no-title block"   class="panel-pane pane-custom pane-3 no-title block">
+  
+      
+  
+  <div class="pane-content">
+    <div class="columns small-12 medium-12 text-center margin-bottom-1 margin-top-1">
+  <div class="show-for-large">
+    <iframe src="/ads/jeep/index.html" style="width: 970px; height: 90px; border: none;"></iframe>
+  </div>
+  <div class="hide-for-large">
+    <iframe src="/ads/jeep/index.html" style="width: 320px; height: 100px; border: none;"></iframe>
+  </div>
+</div>  </div>
+
+  
+  </div>
+
+<div class="row clearfix mid-section">
+  <div class="columns small-12 large-3 hide-for-print">
+    <div class="panel-pane pane-node-title show-for-small-only mb-20 no-title block"   class="panel-pane pane-node-title show-for-small-only mb-20 no-title block">
+  
+      
+  
+  <div class="pane-content">
+    <div class="h1">Bangladesh reports single-day highest 786 new coronavirus cases</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-news-details-left no-title block"   class="panel-pane pane-news-details-left no-title block">
+  
+      
+  
+  <div class="pane-content">
+    <h2 class="widget-title bar-red  color-red text-uppercase">
+  <a href="/coronavirus-chronicle/covid-19-bangladesh">Covid-19 in Bangladesh</a></h2>
+<div class="author-section">
+  <!-- <a href="">
+    <img class="thumb circle" src="https://via.placeholder.com/100/100" width="68px" height="68px" alt="">
+  </a> -->
+  <div class="author-name">
+              <strong class="color-black">TBS Report</strong>
+      </div>
+
+  <div class="date">
+    05 May, 2020, 02:30 pm  </div>
+  <div class="date">
+    Last modified: 05 May, 2020, 02:55 pm  </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-1 margin-top-2 no-title block"   class="panel-pane pane-custom pane-1 margin-top-2 no-title block">
+  
+      
+  
+  <div class="pane-content">
+    <script asyc="async" type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5d0ea598a9fd4e18"></script>
+<div class="addthis_inline_share_toolbox"></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-related-news margin-top-2 hide-for-small-only no-title block"   class="panel-pane pane-related-news margin-top-2 hide-for-small-only no-title block">
+  
+      
+  
+  <div class="pane-content">
+    <div class="most-views">
+  <h2 class="widget-title bar-red text-uppercase">Related News</h2>
+  <ul>
+          <li><a href="/coronavirus-chronicle/coronavirus-curbs-seen-taking-heavy-toll-people-without-internet-77482">Coronavirus curbs seen taking heavy toll on people without internet</a></li>
+          <li><a href="/coronavirus-chronicle/cubas-artists-make-music-and-dance-rooftops-during-lockdown-77473">Cuba's artists make music and dance on rooftops during lockdown</a></li>
+          <li><a href="/coronavirus-chronicle/14000-indians-be-repatriated-first-week-13-countries-77470">India to evacuate 14,000 people stuck in 13 countries, including Bangladesh</a></li>
+          <li><a href="/coronavirus-chronicle/smokers-80-less-likely-severely-suffer-covid-19-french-study-77467">Smokers 80% less likely to severely suffer from Covid-19: French study</a></li>
+          <li><a href="/coronavirus-chronicle/covid-19-bangladesh/12-members-freedom-fighters-family-test-covid-19-positive">12 members of a freedom fighter’s family test Covid-19 positive</a></li>
+      </ul>
+</div>
+  </div>
+
+  
+  </div>
+  </div>
+  <div class="large-6  small-12 columns print-body ">
+    <div class="panel-pane pane-node-content no-title block"   class="panel-pane pane-node-content no-title block">
+  
+      
+  
+  <div class="pane-content">
+    <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/tbsnews.net"},{"@type":"ListItem","position":2,"name":"Coronavirus chronicle","item":"https:\/\/tbsnews.net\/coronavirus-chronicle"},{"@type":"ListItem","position":3,"name":"Covid-19 in Bangladesh","item":"https:\/\/tbsnews.net\/coronavirus-chronicle\/covid-19-bangladesh"}]}</script>
+
+<article id="node-77464" class="node node-news odd view-mode-full">
+  <header>
+    <h1 class="hide-for-small-only " itemprop="headline">Bangladesh reports single-day highest 786 new coronavirus cases</h1>
+  </header>
+
+  
+        <div class="section-media position-relative featured-image">
+      <span class="lg-gallery" data-exthumbimage="https://tbsnews.net/sites/default/files/styles/very_big_1/public/images/2020/03/10/coronavirus-4817450.jpg?itok=rMGO_RGn" data-src="https://tbsnews.net/sites/default/files/styles/very_big_1/public/images/2020/03/10/coronavirus-4817450.jpg?itok=rMGO_RGn" data-sub-html="<div class='lg-caption'>Photo: Collected</div>"> <span class="open-popup"><svg><use xlink:href="/sites/all/themes/sloth/images/icons.svg#open-popup"></use></svg></span><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/big_3/public/images/2020/03/10/coronavirus-4817450.jpg?itok=0L2COJ9P&amp;timestamp=1587785032 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/big_2/public/images/2020/03/10/coronavirus-4817450.jpg?itok=oa53W4Ku&amp;timestamp=1587785032 1x" data-aspectratio="/" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/big_2/public/images/2020/03/10/coronavirus-4817450.jpg?itok=oa53W4Ku&amp;timestamp=1587785032" alt="" title="" />
+</picture></span>
+              <div class="caption text-justify">
+          Photo: Collected        </div>
+          </div>
+  
+  
+  <div class="text-center margin-bottom-1 hide-for-print">
+    <a href="http://ksrm.com.bd" class="show-for-medium" target="_blank"><img src="/sites/default/files/uploads/2020/03/17/700-x-100.jpg" alt="KSRM"></a>
+    <a href="http://ksrm.com.bd" class="show-for-small-only" target="_blank"><img src="/sites/default/files/uploads/2020/03/17/300-x-100.jpg" alt="KSRM"></a>
+  </div>
+
+  
+  <div class="section-content clearfix margin-bottom-2">
+    <p>Bangladesh today conformed its highest single-day jump of 786 new cases of infection testing 5,711 samples in the last 24 hours.</p>
+<p>One more person died from the novel coronavirus during the time.</p>
+<p>With this, the death toll from the deadly virus rose to 183 and the number of total infections stood at 10929. </p>
+<p>"193 patients recovered from the virus in last 24 hours, increasing the total to 1403," Additional Director General of Health Directorate Professor Dr Nasima Sultana made the disclosure during a virtual briefing today.</p>
+<p>Dr Nasima said, "As per the previous guideline, in line with the World Health Organisation, a patient had to take a second test within 14 to 21 days after he or she had tested positive for the virus. If the test result came negative, there would be a third test within 24 hours of the second test. The patient was released from the hospital only if both the second and the third tests result came negative. </p>
+<p>However, the new guideline says the patient will be released after he or she recovers clinically and does not have fever, cough and breathing problems."</p>
+<p>"Some 6,182 samples were collected and 5,711 were tested in 33 labs across country in last 24 hours," she added.</p>
+<p>The authorities placed 128 new individuals suspected of having Covid-19 into isolation, bringing the total to 1,694 after 1,243 left.</p>
+<p>"The country is capable of accommodating 3,635 people at 601 isolation wards," Dr Nasima said.</p>
+<p>Currently, 41,122 people are quarantined across the country – including 2,477 newly-quarantined individuals. A total of 156,689 people have completed their time under quarantine.</p>
+<p>As many as 4,045,060 hotline services were given by 15,622 trained doctors via three designated numbers, including 69,624 in last 24-hour till 8am today. Through mobile phone and websites, 1,695,374 services were provided, including 19,548 new services, added Professor Nasima.</p>
+<p>Till date, a total of 679,400 thermal screenings were conducted at different ports, including 188 at airports, 186 at seaports and 173 at land ports in the last 24 hours.</p>
+<p>Personal protective equipment (PPE) collected by the government has been 1,930,254 by far, of which 1,549,482 were distributed and 380,772 are left in store.</p>
+<p>Globally, the virus has killed 252,566 people and infected 3,658,288 so far.</p>
+  </div>
+
+        <div class="related-topic hide-for-print">
+      <h3 class="widget-title bar-red color-red text-uppercase margin-bottom-1">Related Topics</h3>
+              <h4 class="margin-bottom-0"><a href="/bangladesh">Bangladesh</a> / <a href="/top-news">Top News</a></h4>
+                    <p><a href="/tags/covid-19">COVID-19</a> / <a href="/tags/covid-19-bangladesh">COVID-19 in Bangladesh</a></p>
+          </div>
+  
+</article>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-2 hide-for-print no-title block"   class="panel-pane pane-custom pane-2 hide-for-print no-title block">
+  
+      
+  
+  <div class="pane-content">
+    <div class="margin-vertical-1 strip-bg-white padding-1">
+<h3 class="widget-title bar-red color-red text-uppercase margin-bottom-1">Comments</h3>
+<p>While most comments will be posted if they are on-topic and not abusive, moderation decisions are subjective. Published comments are readers’ own views and The Business Standard does not endorse any of the readers’ comments.</p>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0&appId=434065700527142&autoLogAppEvents=1"></script>
+<div class="fb-comments" data-href="https://tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/bangladesh-reports-single-day-highest-786-new-coronavirus" data-width="100%" data-numposts="5"></div>
+</div>
+  </div>
+
+  
+  </div>
+  </div>
+  <div class="columns small-12 large-3 hide-for-print ">
+    <div class="panel-pane pane-most-popular no-title block"   class="panel-pane pane-most-popular no-title block">
+  
+      
+  
+  <div class="pane-content">
+    <div class="most-views">
+  <h2 class="widget-title bar-red">MOST VIEWED</h2>
+  <ul>
+          <li>
+        <div class="card relative card-list margin-bottom-0">
+
+    
+  
+      <div class="card-image relative">
+      <a href="/coronavirus-chronicle/covid-19-bangladesh/chaugachha-upazila-health-complex-operation-theatre-closed"><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/05/05/fb_img_1587304371564.jpg?itok=0AfInRTZ&amp;timestamp=1588669213 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/05/05/fb_img_1587304371564.jpg?itok=0AfInRTZ&amp;timestamp=1588669213" alt="" title="" />
+</picture></a>
+      
+      
+      
+          </div>
+  
+  <div class="card-section">
+    
+        <div class="card-title">
+      <a href="/coronavirus-chronicle/covid-19-bangladesh/chaugachha-upazila-health-complex-operation-theatre-closed">Chaugachha Upazila Health Complex operation theatre closed</a>    </div>
+
+    
+    
+    
+      </div>
+
+</div>
+      </li>
+          <li>
+        <div class="card relative card-list margin-bottom-0">
+
+    
+  
+      <div class="card-image relative">
+      <a href="/coronavirus-chronicle/covid-19-bangladesh/muntasir-mamun-shifted-cabin-condition-improves-77425"><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/05/03/muntasir-mamun.gif?itok=Z2qt2NSi&amp;timestamp=1588526078 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/05/03/muntasir-mamun.gif?itok=Z2qt2NSi&amp;timestamp=1588526078" alt="" title="" />
+</picture></a>
+      
+      
+      
+          </div>
+  
+  <div class="card-section">
+    
+        <div class="card-title">
+      <a href="/coronavirus-chronicle/covid-19-bangladesh/muntasir-mamun-shifted-cabin-condition-improves-77425">Muntasir Mamun shifted to cabin as condition improves</a>    </div>
+
+    
+    
+    
+      </div>
+
+</div>
+      </li>
+          <li>
+        <div class="card relative card-list margin-bottom-0">
+
+    
+  
+      <div class="card-image relative">
+      <a href="/coronavirus-chronicle/covid-19-bangladesh/12-members-freedom-fighters-family-test-covid-19-positive"><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/03/22/covid19.jpg?itok=DcNaFysH&amp;timestamp=1584848102 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/03/22/covid19.jpg?itok=DcNaFysH&amp;timestamp=1584848102" alt="" title="" />
+</picture></a>
+      
+      
+      
+          </div>
+  
+  <div class="card-section">
+    
+        <div class="card-title">
+      <a href="/coronavirus-chronicle/covid-19-bangladesh/12-members-freedom-fighters-family-test-covid-19-positive">12 members of a freedom fighter’s family test Covid-19 positive</a>    </div>
+
+    
+    
+    
+      </div>
+
+</div>
+      </li>
+          <li>
+        <div class="card relative card-list margin-bottom-0">
+
+    
+  
+      <div class="card-image relative">
+      <a href="/panorama/we-need-find-sweet-spot-between-health-protection-and-preventing-economic-collapse-77386"><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/05/05/untitled-1_0.jpg?itok=Yfb-p1JD&amp;timestamp=1588658351 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/05/05/untitled-1_0.jpg?itok=Yfb-p1JD&amp;timestamp=1588658351" alt="" title="" />
+</picture></a>
+      
+      
+      
+          </div>
+  
+  <div class="card-section">
+    
+        <div class="card-title">
+      <a href="/panorama/we-need-find-sweet-spot-between-health-protection-and-preventing-economic-collapse-77386">'We need to find a sweet spot between health protection and preventing economic collapse'</a>    </div>
+
+    
+    
+    
+      </div>
+
+</div>
+      </li>
+          <li>
+        <div class="card relative card-list margin-bottom-0">
+
+    
+  
+      <div class="card-image relative">
+      <a href="/economy/agriculture/economists-fear-food-crisis-due-inadequate-storage-capacity-77380"><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/05/05/food_storage_2.jpg?itok=LlpBAORn&amp;timestamp=1588657130 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/05/05/food_storage_2.jpg?itok=LlpBAORn&amp;timestamp=1588657130" alt="" title="" />
+</picture></a>
+      
+      
+      
+          </div>
+  
+  <div class="card-section">
+    
+        <div class="card-title">
+      <a href="/economy/agriculture/economists-fear-food-crisis-due-inadequate-storage-capacity-77380">Economists fear food crisis due to inadequate storage capacity</a>    </div>
+
+    
+    
+    
+      </div>
+
+</div>
+      </li>
+          <li>
+        <div class="card relative card-list margin-bottom-0">
+
+    
+  
+      <div class="card-image relative">
+      <a href="/coronavirus-chronicle/covid-19-bangladesh/90-health-workers-including-15-doctors-test-positive-covid"><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/04/05/covid-19.jpg?itok=ixksq6h3&amp;timestamp=1586058280 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/04/05/covid-19.jpg?itok=ixksq6h3&amp;timestamp=1586058280" alt="" title="" />
+</picture></a>
+      
+      
+      
+          </div>
+  
+  <div class="card-section">
+    
+        <div class="card-title">
+      <a href="/coronavirus-chronicle/covid-19-bangladesh/90-health-workers-including-15-doctors-test-positive-covid">90 health workers including 15 doctors test positive for Covid-19 in Narayanganj</a>    </div>
+
+    
+    
+    
+      </div>
+
+</div>
+      </li>
+      </ul>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-related-news show-for-small-only no-title block"   class="panel-pane pane-related-news show-for-small-only no-title block">
+  
+      
+  
+  <div class="pane-content">
+    <div class="most-views">
+  <h2 class="widget-title bar-red text-uppercase">Related News</h2>
+  <ul>
+          <li><a href="/coronavirus-chronicle/coronavirus-curbs-seen-taking-heavy-toll-people-without-internet-77482">Coronavirus curbs seen taking heavy toll on people without internet</a></li>
+          <li><a href="/coronavirus-chronicle/cubas-artists-make-music-and-dance-rooftops-during-lockdown-77473">Cuba's artists make music and dance on rooftops during lockdown</a></li>
+          <li><a href="/coronavirus-chronicle/14000-indians-be-repatriated-first-week-13-countries-77470">India to evacuate 14,000 people stuck in 13 countries, including Bangladesh</a></li>
+          <li><a href="/coronavirus-chronicle/smokers-80-less-likely-severely-suffer-covid-19-french-study-77467">Smokers 80% less likely to severely suffer from Covid-19: French study</a></li>
+          <li><a href="/coronavirus-chronicle/covid-19-bangladesh/12-members-freedom-fighters-family-test-covid-19-positive">12 members of a freedom fighter’s family test Covid-19 positive</a></li>
+      </ul>
+</div>
+  </div>
+
+  
+  </div>
+  </div>
+</div>
+
+  <div class="panel-pane pane-gallery-grid hide-for-print no-title block"   class="panel-pane pane-gallery-grid hide-for-print no-title block">
+  
+      
+  
+  <div class="pane-content">
+    <div class="section-featured-galleries pt-50 pb-20 strip-bg-snow color-black">
+  <div class="row">
+    <div class="columns small-12">
+        <h2 class="widget-title text-uppercase bar-red">Featured Galleries</h2>
+    </div>
+  </div>
+
+  <div class="grid-slider relative row">
+          <div class="columns medium-4 small-12">
+        <div class="card relative">
+
+    
+  
+      <div class="card-image relative relative">
+      <a href="/gallery/homepage/solitary-scenes-coronavirus-pandemic-62512"><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/big_2/public/images/2020/03/29/coronavirus_world_1.jpg?itok=D41LNWzg&amp;timestamp=1585481564 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/big_2/public/images/2020/03/29/coronavirus_world_1.jpg?itok=D41LNWzg&amp;timestamp=1585481564" alt="" title="" />
+</picture></a>
+              <a href="/gallery/homepage/solitary-scenes-coronavirus-pandemic-62512" class="gallary-icon"><svg><use xlink:href="/sites/all/themes/sloth/images/icons.svg#gallary"></use></svg></a>      
+      
+      
+          </div>
+  
+  <div class="card-section">
+          <div class="eyebrow text-uppercase">
+        <a href="/gallery/homepage">Homepage</a>      </div>
+    
+        <h3 class="card-title">
+      <a href="/gallery/homepage/solitary-scenes-coronavirus-pandemic-62512">Solitary scenes in the coronavirus pandemic</a>    </h3>
+
+    
+    
+    
+      </div>
+
+</div>
+      </div>
+          <div class="columns medium-4 small-12">
+        <div class="card relative">
+
+    
+  
+      <div class="card-image relative relative">
+      <a href="/gallery/bangladesh/pictures-how-dhaka-looks-during-lockdown-61345"><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/big_2/public/images/2020/03/26/sbh_-1-new.jpg?itok=c9GrYyIb&amp;timestamp=1585216740 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/big_2/public/images/2020/03/26/sbh_-1-new.jpg?itok=c9GrYyIb&amp;timestamp=1585216740" alt="" title="" />
+</picture></a>
+              <a href="/gallery/bangladesh/pictures-how-dhaka-looks-during-lockdown-61345" class="gallary-icon"><svg><use xlink:href="/sites/all/themes/sloth/images/icons.svg#gallary"></use></svg></a>      
+      
+      
+          </div>
+  
+  <div class="card-section">
+          <div class="eyebrow text-uppercase">
+        <a href="/gallery/bangladesh">Bangladesh</a>      </div>
+    
+        <h3 class="card-title">
+      <a href="/gallery/bangladesh/pictures-how-dhaka-looks-during-lockdown-61345">In pictures: How Dhaka looks during lockdown</a>    </h3>
+
+    
+    
+    
+      </div>
+
+</div>
+      </div>
+          <div class="columns medium-4 small-12">
+        <div class="card relative">
+
+    
+  
+      <div class="card-image relative relative">
+      <a href="/gallery/bangladesh/tbs-honours-8-unstoppable-women-53536"><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/big_2/public/images/2020/03/08/unstoppable_women_1_0.jpg?itok=fB3mbLUl&amp;timestamp=1583673314 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/big_2/public/images/2020/03/08/unstoppable_women_1_0.jpg?itok=fB3mbLUl&amp;timestamp=1583673314" alt="" title="" />
+</picture></a>
+              <a href="/gallery/bangladesh/tbs-honours-8-unstoppable-women-53536" class="gallary-icon"><svg><use xlink:href="/sites/all/themes/sloth/images/icons.svg#gallary"></use></svg></a>      
+      
+      
+          </div>
+  
+  <div class="card-section">
+          <div class="eyebrow text-uppercase">
+        <a href="/gallery/bangladesh">Bangladesh</a>      </div>
+    
+        <h3 class="card-title">
+      <a href="/gallery/bangladesh/tbs-honours-8-unstoppable-women-53536">TBS honours 8 unstoppable women</a>    </h3>
+
+    
+    
+    
+      </div>
+
+</div>
+      </div>
+          <div class="columns medium-4 small-12">
+        <div class="card relative">
+
+    
+  
+      <div class="card-image relative relative">
+      <a href="/gallery/bangladesh/joy-bangla-concert-2020-53236"><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/big_2/public/images/2020/03/07/joy-bangla-concert-2020-rehman-asad_1.jpeg?itok=PPqnBN9d&amp;timestamp=1583594489 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/big_2/public/images/2020/03/07/joy-bangla-concert-2020-rehman-asad_1.jpeg?itok=PPqnBN9d&amp;timestamp=1583594489" alt="" title="" />
+</picture></a>
+              <a href="/gallery/bangladesh/joy-bangla-concert-2020-53236" class="gallary-icon"><svg><use xlink:href="/sites/all/themes/sloth/images/icons.svg#gallary"></use></svg></a>      
+      
+      
+          </div>
+  
+  <div class="card-section">
+          <div class="eyebrow text-uppercase">
+        <a href="/gallery/bangladesh">Bangladesh</a>      </div>
+    
+        <h3 class="card-title">
+      <a href="/gallery/bangladesh/joy-bangla-concert-2020-53236">Joy Bangla Concert 2020</a>    </h3>
+
+    
+    
+    
+      </div>
+
+</div>
+      </div>
+          <div class="columns medium-4 small-12">
+        <div class="card relative">
+
+    
+  
+      <div class="card-image relative relative">
+      <a href="/gallery/bangladesh/motorbike-rally-tsc-ahead-womens-day-52732"><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/big_2/public/images/2020/03/06/women_motorbike_rally_1.jpg?itok=HBnHkss1&amp;timestamp=1583493730 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/big_2/public/images/2020/03/06/women_motorbike_rally_1.jpg?itok=HBnHkss1&amp;timestamp=1583493730" alt="" title="" />
+</picture></a>
+              <a href="/gallery/bangladesh/motorbike-rally-tsc-ahead-womens-day-52732" class="gallary-icon"><svg><use xlink:href="/sites/all/themes/sloth/images/icons.svg#gallary"></use></svg></a>      
+      
+      
+          </div>
+  
+  <div class="card-section">
+          <div class="eyebrow text-uppercase">
+        <a href="/gallery/bangladesh">Bangladesh</a>      </div>
+    
+        <h3 class="card-title">
+      <a href="/gallery/bangladesh/motorbike-rally-tsc-ahead-womens-day-52732">Motorbike rally at TSC ahead of Women’s Day</a>    </h3>
+
+    
+    
+    
+      </div>
+
+</div>
+      </div>
+          <div class="columns medium-4 small-12">
+        <div class="card relative">
+
+    
+  
+      <div class="card-image relative relative">
+      <a href="/gallery/bangladesh/buses-ads-windows-still-running-despite-brta-restrictions-46877"><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/big_2/public/images/2020/02/22/bus_with_ads_covering_window_4.jpg?itok=0TvMjLlr&amp;timestamp=1582365561 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/big_2/public/images/2020/02/22/bus_with_ads_covering_window_4.jpg?itok=0TvMjLlr&amp;timestamp=1582365561" alt="" title="" />
+</picture></a>
+              <a href="/gallery/bangladesh/buses-ads-windows-still-running-despite-brta-restrictions-46877" class="gallary-icon"><svg><use xlink:href="/sites/all/themes/sloth/images/icons.svg#gallary"></use></svg></a>      
+      
+      
+          </div>
+  
+  <div class="card-section">
+          <div class="eyebrow text-uppercase">
+        <a href="/gallery/bangladesh">Bangladesh</a>      </div>
+    
+        <h3 class="card-title">
+      <a href="/gallery/bangladesh/buses-ads-windows-still-running-despite-brta-restrictions-46877">Buses with ads on windows still running despite BRTA restrictions</a>    </h3>
+
+    
+    
+    
+      </div>
+
+</div>
+      </div>
+      </div>
+
+</div>
+
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-most-popular hide-for-print no-title block"   class="panel-pane pane-most-popular hide-for-print no-title block">
+  
+      
+  
+  <div class="pane-content">
+    <div class="row mt-10">
+  <div class="columns  small-12">
+    <h2 class="single-cat-title text-center  text-uppercase">
+      Most Read
+    </h2>
+  </div>
+      <div class="columns small-12 medium-2 mb-20" >
+      <div class="card relative">
+
+        <div class="card-number text-center">1</div>
+  
+  
+      <div class="card-image relative">
+      <a href="/bangladesh/education/all-educational-institutions-remain-closed-till-september-pm-74221"><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/01/07/sheikh-hasina.jpg?itok=woEQWV7U&amp;timestamp=1578661772 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/01/07/sheikh-hasina.jpg?itok=woEQWV7U&amp;timestamp=1578661772" alt="" title="" />
+</picture></a>
+      
+      
+      
+          </div>
+  
+  <div class="card-section strip-bg-white pl-10 pr-10">
+          <div class="eyebrow text-uppercase">
+        <a href="/bangladesh/education">Education</a>      </div>
+    
+        <h3 class="card-title">
+      <a href="/bangladesh/education/all-educational-institutions-remain-closed-till-september-pm-74221">Educational institutions may remain closed till September if virus does not fade: PM</a>    </h3>
+
+    
+    
+    
+      </div>
+
+</div>
+    </div>
+      <div class="columns small-12 medium-2 mb-20" >
+      <div class="card relative">
+
+        <div class="card-number text-center">2</div>
+  
+  
+      <div class="card-image relative">
+      <a href="/offbeat/mother-sends-son-buy-groceries-amid-lockdown-he-returns-wife-75694"><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/04/30/capture_0.jpg?itok=RJ3uhGA6&amp;timestamp=1588246454 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/04/30/capture_0.jpg?itok=RJ3uhGA6&amp;timestamp=1588246454" alt="" title="" />
+</picture></a>
+      
+      
+      
+          </div>
+  
+  <div class="card-section strip-bg-white pl-10 pr-10">
+          <div class="eyebrow text-uppercase">
+        <a href="/offbeat">Offbeat</a>      </div>
+    
+        <h3 class="card-title">
+      <a href="/offbeat/mother-sends-son-buy-groceries-amid-lockdown-he-returns-wife-75694">Mother sends son to buy groceries amid lockdown, he returns with wife</a>    </h3>
+
+    
+    
+    
+      </div>
+
+</div>
+    </div>
+      <div class="columns small-12 medium-2 mb-20" >
+      <div class="card relative">
+
+        <div class="card-number text-center">3</div>
+  
+  
+      <div class="card-image relative">
+      <a href="/economy/banking/bangladesh-bank-creates-money-worth-over-tk70000cr-revive-economy-76435"><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2019/12/18/bangladesh_bank_salahuddin_ahmed_1.jpg?itok=VadPD6a8&amp;timestamp=1580191526 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2019/12/18/bangladesh_bank_salahuddin_ahmed_1.jpg?itok=VadPD6a8&amp;timestamp=1580191526" alt="" title="" />
+</picture></a>
+      
+      
+      
+          </div>
+  
+  <div class="card-section strip-bg-white pl-10 pr-10">
+          <div class="eyebrow text-uppercase">
+        <a href="/economy/banking">Banking</a>      </div>
+    
+        <h3 class="card-title">
+      <a href="/economy/banking/bangladesh-bank-creates-money-worth-over-tk70000cr-revive-economy-76435">Bangladesh Bank creates money worth over Tk70,000cr to revive economy</a>    </h3>
+
+    
+    
+    
+      </div>
+
+</div>
+    </div>
+      <div class="columns small-12 medium-2 mb-20" >
+      <div class="card relative">
+
+        <div class="card-number text-center">4</div>
+  
+  
+      <div class="card-image relative">
+      <a href="/glitz/chris-hemsworths-extraction-breaks-netflix-record-76216"><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/05/02/extraction.jpg?itok=h63ZaxcW&amp;timestamp=1588400133 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/05/02/extraction.jpg?itok=h63ZaxcW&amp;timestamp=1588400133" alt="" title="" />
+</picture></a>
+      
+      
+      
+          </div>
+  
+  <div class="card-section strip-bg-white pl-10 pr-10">
+          <div class="eyebrow text-uppercase">
+        <a href="/glitz">Glitz</a>      </div>
+    
+        <h3 class="card-title">
+      <a href="/glitz/chris-hemsworths-extraction-breaks-netflix-record-76216">Chris Hemsworth's ‘Extraction’ breaks Netflix record </a>    </h3>
+
+    
+    
+    
+      </div>
+
+</div>
+    </div>
+      <div class="columns small-12 medium-2 mb-20" >
+      <div class="card relative">
+
+        <div class="card-number text-center">5</div>
+  
+  
+      <div class="card-image relative">
+      <a href="/glitz/extraction-how-shooting-was-done-dhaka-73372"><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/04/24/noor0695.jpg?itok=3RS1RJhJ&amp;timestamp=1587738720 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/04/24/noor0695.jpg?itok=3RS1RJhJ&amp;timestamp=1587738720" alt="" title="" />
+</picture></a>
+      
+      
+      
+          </div>
+  
+  <div class="card-section strip-bg-white pl-10 pr-10">
+          <div class="eyebrow text-uppercase">
+        <a href="/glitz">Glitz</a>      </div>
+    
+        <h3 class="card-title">
+      <a href="/glitz/extraction-how-shooting-was-done-dhaka-73372">Extraction: How shooting was done in Dhaka</a>    </h3>
+
+    
+    
+    
+      </div>
+
+</div>
+    </div>
+      <div class="columns small-12 medium-2 mb-20" >
+      <div class="card relative">
+
+        <div class="card-number text-center">6</div>
+  
+  
+      <div class="card-image relative">
+      <a href="/bangladesh/education/certificates-without-any-exams-75562"><picture  class="ratio ratio__16x9">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/04/30/graduation-hat.jpg?itok=BZyWX3Mi&amp;timestamp=1588233209 1x" data-aspectratio="/" media="(min-width: 1024px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  class="ratio ratio__16x9 lazyload" data-aspectratio="" data-src="https://tbsnews.net/sites/default/files/styles/medium_2/public/images/2020/04/30/graduation-hat.jpg?itok=BZyWX3Mi&amp;timestamp=1588233209" alt="" title="" />
+</picture></a>
+      
+      
+      
+          </div>
+  
+  <div class="card-section strip-bg-white pl-10 pr-10">
+          <div class="eyebrow text-uppercase">
+        <a href="/bangladesh/education">Education</a>      </div>
+    
+        <h3 class="card-title">
+      <a href="/bangladesh/education/certificates-without-any-exams-75562">Certificates, without any exams!</a>    </h3>
+
+    
+    
+    
+      </div>
+
+</div>
+    </div>
+  
+</div>
+
+
+  </div>
+
+  
+  </div>
+
+  </div>
+          </div>
+        <!--/.l-main region -->
+
+        
+              </main>
+      <!--/.l-main -->
+
+      <!--.l-footer -->
+      <footer class="l-footer" role="contentinfo">
+        <div class="row">
+          <div class="column relative mb-20">
+            <div class="footer-logo hide-for-print">
+              <img class="logo" src="/sites/all/themes/sloth/images/footer_logo.svg" alt="The Business Standard">
+            </div>
+            <a href="javascript:void(0)" class="back-to-top hide-for-print flex-container align-middle align-center flex-dir-column">
+              <svg class="chil">
+                <use xlink:href="/sites/all/themes/sloth/images/icons.svg#up-arrow"></use>
+              </svg>
+              <div class="text-uppercase">Top</div>
+            </a>
+            <div class="divider border-bottom"></div>
+          </div>
+        </div>
+
+                  <!--.footer-columns -->
+          <section class="row l-footer-columns footer-middle hide-for-print">
+                          <div class="footer-first medium-8 columns">
+                  <ul class="menu"><li class="first leaf menu-depth-1 menu-item-1081"><a href="/" title="">Home</a></li><li class="leaf menu-depth-1 menu-item-1133"><a href="/glitz">Entertainment</a></li><li class="leaf menu-depth-1 menu-item-1137"><a href="/sports">Sports</a></li><li class="leaf menu-depth-1 menu-item-1125"><a href="/about-us">About Us</a></li><li class="leaf menu-depth-1 menu-item-1131"><a href="/bangladesh">Bangladesh</a></li><li class="leaf menu-depth-1 menu-item-1135"><a href="/world">International</a></li><li class="leaf menu-depth-1 menu-item-1129"><a href="/comment-policy">Comment Policy</a></li><li class="leaf menu-depth-1 menu-item-1127"><a href="/contact-us">Contact Us</a></li><li class="leaf menu-depth-1 menu-item-1082"><a href="/economy">Economy</a></li><li class="leaf menu-depth-1 menu-item-1325"><a href="/sitemap">Sitemap</a></li><li class="last leaf menu-depth-1 menu-item-1565"><a href="/tbs-rss">RSS</a></li></ul>              </div>
+                                      <div class="footer-last medium-4 columns end">
+                                                  <div class="social-link">
+                                          <a href="https://www.facebook.com/tbsnews.net/" target="_blank"><svg class="icon">
+                          <use xlink:href="/sites/all/themes/sloth/images/icons.svg#facebook"></use>
+                        </svg></a>
+                                          <a href="https://twitter.com/tbsnewsdotnet" target="_blank"><svg class="icon">
+                          <use xlink:href="/sites/all/themes/sloth/images/icons.svg#twitter"></use>
+                        </svg></a>
+                                          <a href="https://www.instagram.com/tbsnews.bd/" target="_blank"><svg class="icon">
+                          <use xlink:href="/sites/all/themes/sloth/images/icons.svg#instagram"></use>
+                        </svg></a>
+                                          <a href="https://www.youtube.com/channel/UCUNEzmQ3zcifrhn0HwCgjYg" target="_blank"><svg class="icon">
+                          <use xlink:href="/sites/all/themes/sloth/images/icons.svg#youtube"></use>
+                        </svg></a>
+                                      </div>
+                              </div>
+                      </section>
+          <!--/.footer-columns-->
+        
+                          <div class="bottom-footer">
+            <div class="row">
+                              <div class="column">
+                  <p class="footer-copyright text-center">Copyright &copy; 2020 THE BUSINESS STANDARD  All rights reserved.</p>
+                </div>
+                          </div>
+          </div>
+              </footer>
+      <!--/.l-footer -->
+    </div>
+
+  </div>
+</div>
+<!--/.page -->
+  <script type="text/javascript" src="/alert.js" async></script><script type="text/javascript" src="/sites/default/files/advagg_js/js__J3blB92vI_PhWTwlzBx-K84t_mAXcnyiMRLv7bbimyA__-YWhQxbej_Otu3CuxTenZMg-MPH6j9PMIORMY_Zotts__eud3O80-WmnpPcxunu4VYSRbt3Hyjf7-Y3d6XWeIzNk.js"></script>
+  </body>
+</html>
