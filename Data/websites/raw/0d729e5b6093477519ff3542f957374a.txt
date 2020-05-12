@@ -1,9 +1,0 @@
-<HTML><HEAD>
-<TITLE>Access Denied</TITLE>
-</HEAD><BODY>
-<H1>Access Denied</H1>
- 
-You don't have permission to access "http&#58;&#47;&#47;www&#46;france24&#46;com&#47;en&#47;20200430&#45;high&#45;hopes&#45;for&#45;covid&#45;19&#45;vaccine&#45;developed&#45;by&#45;oxford&#45;scientists" on this server.<P>
-Reference&#32;&#35;18&#46;bc1c1acb&#46;1588671716&#46;b1178c8
-</BODY>
-</HTML>

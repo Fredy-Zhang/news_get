@@ -1,9 +1,0 @@
-<HTML><HEAD>
-<TITLE>Access Denied</TITLE>
-</HEAD><BODY>
-<H1>Access Denied</H1>
- 
-You don't have permission to access "http&#58;&#47;&#47;www&#46;france24&#46;com&#47;en&#47;20200502&#45;venezuela&#45;prison&#45;riot&#45;leaves&#45;dozens&#45;dead" on this server.<P>
-Reference&#32;&#35;18&#46;bc1c1acb&#46;1588671676&#46;b10f835
-</BODY>
-</HTML>
